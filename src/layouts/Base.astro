@@ -27,7 +27,7 @@ const immagineOg = urlAssoluto('/condivisione.png');
     <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#11161d" media="(prefers-color-scheme: dark)" />
     <link rel="icon" href={href('/favicon.svg')} type="image/svg+xml" />
-    <link rel="alternate" type="application/rss+xml" title="SuccedeQui – nuovi eventi" href={href('/feed.xml')} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITO.nome} – nuovi eventi`} href={href('/feed.xml')} />
     <link rel="alternate" type="application/json" title="Eventi in formato JSON" href={href('/eventi.json')} />
 
     <meta property="og:site_name" content={SITO.nome} />
@@ -47,12 +47,12 @@ const immagineOg = urlAssoluto('/condivisione.png');
     <a class="salta" href="#contenuto">Vai al contenuto</a>
     <header class="testata">
       <div class="contenitore testata__riga">
-        <a class="marchio" href={href('/')} aria-label="SuccedeQui, pagina iniziale">
+        <a class="marchio" href={href('/')} aria-label={`${SITO.nome}, pagina iniziale`}>
           <svg class="marchio__icona" viewBox="0 0 32 32" aria-hidden="true">
             <rect width="32" height="32" rx="8" fill="currentColor" />
             <path d="M16 6.5a7 7 0 0 0-7 7c0 5.2 7 12 7 12s7-6.8 7-12a7 7 0 0 0-7-7Zm0 9.6a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2Z" fill="#fff" />
           </svg>
-          <span class="marchio__nome">Succede<b>Qui</b></span>
+          <span class="marchio__nome">Live<b>Local</b></span>
         </a>
         <nav class="testata__menu" aria-label="Menu principale">
           <a href={href('/mappa/')}>Mappa</a>

@@ -1,4 +1,4 @@
-# SuccedeQui
+# LiveLocal
 
 **Gli eventi vicino a te.** Calendario gratuito e pubblico degli eventi del territorio, leggibile da Google e dagli assistenti AI. Zona pilota: Minturno con le frazioni.
 
@@ -9,7 +9,7 @@ Un progetto promosso da [Room & Relax Scauri](https://roomandrelax.it).
 Il sito è fatto di **pagine statiche**: l'HTML è già pronto, non serve JavaScript per leggerlo. È così che lo leggono bene anche i crawler delle IA.
 
 ```
-succedequi/
+livelocal/
 ├── src/data/
 │   ├── eventi.json      ← GLI EVENTI (qui si aggiunge o si modifica un evento)
 │   ├── luoghi.json      ← regioni, province, comuni (codice ISTAT) e frazioni
@@ -82,10 +82,10 @@ npm run dev        # anteprima mentre si lavora: http://localhost:4321
 npm run build      # costruisce il sito in dist/ ed esegue i controlli
 ```
 
-Variabili facoltative: `SITE_URL` (indirizzo pubblico, predefinito `https://succedequi.it`) e `BASE_PATH` (sottocartella, es. `/succedequi` per GitHub Pages senza dominio).
+Variabili facoltative: `SITE_URL` (indirizzo pubblico, predefinito `https://giuseppe210992.github.io`) e `BASE_PATH` (sottocartella, predefinita `/livelocal`; vuota con un dominio proprio).
 
 ## Decisioni ancora aperte
 
 - **Categorie:** al brief è stata aggiunta "Apertura straordinaria" (musei e siti aperti gratis o in giorni speciali). Da confermare.
 - **Frazioni:** pubblicate le 6 frazioni citate dal portale turistico locale e da Wikipedia (Scauri, Marina di Minturno, Tremensuoli, Tufo, Santa Maria Infante, Pulcherini). Wikipedia cita anche Fontana Perrelli e Solacciano: da verificare con il Comune.
-- **Licenza dei dati aperti** (`eventi.json`): da decidere. Proposta: CC BY 4.0, riuso libero citando SuccedeQui.
+- **Licenza dei dati aperti** (`eventi.json`): da decidere. Proposta: CC BY 4.0, riuso libero citando LiveLocal.

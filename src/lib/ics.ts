@@ -39,7 +39,7 @@ function piega(riga: string): string {
 function vevento(e: Evento, adesso: Date): string[] {
   const righe = [
     'BEGIN:VEVENT',
-    `UID:${e.anno}-${e.slug}@succedequi`,
+    `UID:${e.anno}-${e.slug}@livelocal`,
     `DTSTAMP:${utc(adesso)}`,
   ];
   if (leggi(e.inizio).ora === null) {
@@ -70,7 +70,7 @@ export function calendario(lista: Evento[], nome = `${SITO.nome} – eventi`): s
   const righe = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//SuccedeQui//Calendario eventi//IT',
+    'PRODID:-//LiveLocal//Calendario eventi//IT',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
     `X-WR-CALNAME:${testo(nome)}`,

@@ -6,7 +6,7 @@ const ROBOT = ['Googlebot', 'Bingbot', 'GPTBot', 'OAI-SearchBot', 'ChatGPT-User'
 
 export const GET: APIRoute = () => {
   const corpo = [
-    '# SuccedeQui: calendario pubblico degli eventi. Lettura consentita a tutti.',
+    '# LiveLocal: calendario pubblico degli eventi. Lettura consentita a tutti.',
     ...ROBOT.flatMap((r) => [`User-agent: ${r}`, 'Allow: /', '']),
     'User-agent: *',
     'Allow: /',

@@ -2,7 +2,7 @@
 // SITE_URL e BASE_PATH si possono cambiare senza toccare il codice (vedi astro.config.mjs).
 
 export const SITO = {
-  nome: 'SuccedeQui',
+  nome: 'LiveLocal',
   slogan: 'Gli eventi vicino a te',
   descrizione:
     'Calendario gratuito e pubblico degli eventi del territorio: mostre, visite guidate, concerti, sagre, feste e conferenze. Si parte da Minturno, Scauri e le frazioni.',
@@ -11,10 +11,10 @@ export const SITO = {
   promotore: { nome: 'Room & Relax Scauri', url: 'https://roomandrelax.it' },
 };
 
-// Indirizzo pubblico del sito, senza barra finale (es. https://succedequi.it).
-export const SITE_URL: string = (import.meta.env.SITE ?? 'https://succedequi.it').replace(/\/$/, '');
+// Indirizzo pubblico del sito, senza barra finale (es. https://giuseppe210992.github.io).
+export const SITE_URL: string = (import.meta.env.SITE ?? 'https://giuseppe210992.github.io').replace(/\/$/, '');
 
-// Percorso base, con la barra finale (es. "/" oppure "/succedequi/").
+// Percorso base, con la barra finale (es. "/" oppure "/livelocal/").
 const BASE: string = import.meta.env.BASE_URL.endsWith('/')
   ? import.meta.env.BASE_URL
   : `${import.meta.env.BASE_URL}/`;

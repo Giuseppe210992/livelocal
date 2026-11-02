@@ -1,9 +1,9 @@
 {
-  "name": "succedequi",
+  "name": "livelocal",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "SuccedeQui — calendario pubblico e gratuito degli eventi del territorio",
+  "description": "LiveLocal — calendario pubblico e gratuito degli eventi del territorio",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && node scripts/controlla.mjs",

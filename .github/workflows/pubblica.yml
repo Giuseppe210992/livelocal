@@ -35,7 +35,7 @@ jobs:
         run: npm run build
         env:
           # Indirizzo e sottocartella li dà GitHub Pages (es. https://giuseppe210992.github.io + /livelocal).
-          # Con il dominio succedequi.it diventeranno https://succedequi.it e niente sottocartella, da soli.
+          # Con un dominio proprio (es. livelocal.it) diventeranno https://livelocal.it e niente sottocartella, da soli.
           SITE_URL: ${{ steps.pages.outputs.origin }}
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
           TZ: Europe/Rome

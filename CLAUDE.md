@@ -1,4 +1,4 @@
-# SuccedeQui — brief di progetto per Claude Code
+# LiveLocal (ex SuccedeQui) — brief di progetto per Claude Code
 
 > Sintesi della conversazione del 2 novembre 2026 tra Giuseppe Di Buccio e Claude.
 > Usa questo file come `CLAUDE.md` nella cartella principale del repository, oppure incollalo come primo messaggio.
@@ -26,8 +26,8 @@ Nasce da un problema reale: a Sant'Agata dei Goti un bell'evento culturale in un
 
 | Tema | Decisione |
 |---|---|
-| Nome | **SuccedeQui** — slogan "Gli eventi vicino a te" |
-| Dominio | **succedequi.it** + **succedequi.com** (per proteggere il nome). Al 02/11/2026 il .com risultava libero nel registro Verisign e il .it non aveva record DNS. **Non ancora registrati**: li registra Giuseppe su Register.it |
+| Nome | **LiveLocal** — slogan "Gli eventi vicino a te". Deciso da Giuseppe il 02/11/2026 al posto di SuccedeQui (primo nome) |
+| Dominio | **Da decidere.** livelocal.com è già registrato da altri (dal 1998, verificato via RDAP il 02/11/2026). livelocal.it da verificare su Register.it. I domini succedequi.it/.com non servono più |
 | Nomi scartati | eventiitaly (resta come riserva), eventitaly / eventoday / eventiqui / eventivicini (già presi), relaxevent (legato al B&B, vedi sotto) |
 | Neutralità | Il sito è **neutro**, non è un sito del B&B. Altrimenti Comune, Pro Loco e altre strutture non contribuiscono. Room & Relax compare solo come **"Un progetto promosso da Room & Relax Scauri"** nel footer, con link a roomandrelax.it |
 | Zona pilota | **Minturno, con tutte le frazioni** (sicuramente Scauri e Marina di Minturno; elenco completo delle frazioni da verificare su fonte ufficiale). Ogni frazione ha una sua pagina, perché molti cercano "eventi Scauri" e non "eventi Minturno" |
@@ -51,7 +51,7 @@ Nasce da un problema reale: a Sant'Agata dei Goti un bell'evento culturale in un
 | Modulo segnalazioni | **Google Moduli** | Lo crea Giuseppe a mano: tu prepari domande e testi pronti da copiare |
 | Archivio e moderazione | **Google Fogli**, due fogli: **privato** (risposte complete con contatti) e **pubblico** (solo eventi approvati, **senza contatti**) | Giuseppe approva da telefono scrivendo "sì" in una colonna. Il foglio pubblico si genera dal privato (es. con QUERY/FILTER che escludono le colonne dei contatti) |
 | Aggiornamento automatico | **GitHub Actions**, ogni ora + a ogni push | Scarica il CSV del foglio pubblico (URL in una variabile del repo), rigenera il sito e lo pubblica |
-| Hosting | **GitHub Pages** sul repo `GioTec21/succedequi` (da creare) | Dominio personalizzato succedequi.it in seguito (file CNAME + record DNS su Register.it, con guida passo passo per Android) |
+| Hosting | **GitHub Pages** sul repo `Giuseppe210992/livelocal`: https://giuseppe210992.github.io/livelocal/ | Dominio personalizzato in seguito (record DNS su Register.it + Custom domain in Settings → Pages, con guida passo passo per Android) |
 | Mappa | **Leaflet + OpenStreetMap** | Senza chiavi a pagamento. Rispetta la policy d'uso delle tile OSM |
 | Dati dei comuni | **Elenco ufficiale ISTAT** (codice, comune, provincia, regione) + coordinate del centro di ogni comune | Per il pilota bastano Minturno e le sue frazioni, ma lo schema deve già prevedere tutta Italia |
 | Più avanti | Firebase per account di organizzatori fidati che pubblicano senza attesa | Non ora |
@@ -190,7 +190,7 @@ Sul modulo servono anche una verifica anti-bot e l'informativa privacy. Gli orga
 
 ## 11. Stato dei lavori (aggiornato da Claude Code)
 
-**Repository: `Giuseppe210992/livelocal`** (creato da Giuseppe il 2 novembre 2026; nome del repo scelto da lui, il sito si chiama ancora SuccedeQui). Il codice è nella radice del repo, branch `main`. La copia in `Giuseppe210992/a` (cartella `succedequi/`) è ferma al passo 1 e non va più aggiornata.
+**Repository: `Giuseppe210992/livelocal`**, sito online su https://giuseppe210992.github.io/livelocal/ (GitHub Pages attivato da Giuseppe il 2 novembre 2026). **Il sito si chiama LiveLocal** (rinominato da SuccedeQui il 2 novembre 2026). Il codice è nella radice del repo, branch `main`. La copia in `Giuseppe210992/a` (cartella `succedequi/`) è ferma al passo 1 e non va più aggiornata.
 
 **2 novembre 2026 — Fase 1, passo 2 fatto:** pagine `/mappa/` e `/vicino-a-me/` (componente `Esplora.astro` + `src/scripts/esplora.ts`): giorno a scelta (tutti, weekend, 14 giorni, data libera), posizione del telefono con consenso oppure paese di partenza, raggio 10/25/50 km, mappa Leaflet + OSM. Collaudo automatico in Chromium: 10 scenari ok (giorni, weekend, data passata, posizione concessa/negata, senza JS). GitHub Action `pubblica.yml` (push su main + ogni ora + manuale). Giuseppe deve attivare Pages (Settings → Pages → Source: GitHub Actions).
 
@@ -201,5 +201,5 @@ Sul modulo servono anche una verifica anti-bot e l'informativa privacy. Gli orga
 - Eventi: 7 veri, ognuno con fonte (5 in programma tra 4 e 14 novembre 2026, 2 conclusi come archivio). Nessun evento inventato. Il calendario di Natale 2026 del Comune (5 dicembre - 6 gennaio) non è ancora uscito: avviso con proposte entro l'11 novembre 2026.
 - Ricerca fonti: WebFetch è bloccato dalla rete della sessione; funziona il connettore TinyFish (search + fetch_content).
 - Prossimi passi: verifica di Giuseppe sul telefono del link pubblicato; Test dei risultati multimediali di Google; ricerca per comune (elenco ISTAT); pagine statiche /oggi/, /weekend/, /categoria/; filtri categoria e solo gratuiti.
-- Decisioni aperte: categoria "Apertura straordinaria" (aggiunta), frazioni Fontana Perrelli e Solacciano, licenza dati aperti, nome del sito (SuccedeQui o LiveLocal?).
+- Decisioni aperte: categoria "Apertura straordinaria" (aggiunta), frazioni Fontana Perrelli e Solacciano, licenza dati aperti, dominio (livelocal.com è preso; livelocal.it da verificare).
 - Privacy policy (Fase 2): citare che le tessere della mappa arrivano da OpenStreetMap e che la posizione resta nel telefono.
