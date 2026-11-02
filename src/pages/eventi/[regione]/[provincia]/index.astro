@@ -1,0 +1,40 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Briciole from '../../../../components/Briciole.astro';
+import ElencoEventi from '../../../../components/ElencoEventi.astro';
+import Pastiglia from '../../../../components/Pastiglia.astro';
+import { province, regione, comuniDi, percorsoRegione, percorsoProvincia, percorsoComune } from '../../../../lib/luoghi';
+import type { Provincia } from '../../../../lib/luoghi';
+import { eventiDellaProvincia, eventiDelComune, prossimi } from '../../../../lib/eventi';
+import { jsonLdBriciole } from '../../../../lib/jsonld';
+import { SITO } from '../../../../lib/sito';
+
+export function getStaticPaths() {
+  return province.map((p) => ({ params: { regione: regione(p.regione).slug, provincia: p.slug }, props: { p } }));
+}
+
+const { p } = Astro.props as { p: Provincia };
+const r = regione(p.regione);
+const voci = [
+  { nome: r.nome, percorso: percorsoRegione(r) },
+  { nome: `Provincia di ${p.nome}`, percorso: percorsoProvincia(p) },
+];
+---
+<Base
+  titolo={`Eventi in provincia di ${p.nome} (${p.sigla}) | ${SITO.nome}`}
+  descrizione={`Cosa fare in provincia di ${p.nome}: eventi, sagre, mostre e concerti comune per comune. Calendario gratuito aggiornato ogni ora.`}
+  percorso={percorsoProvincia(p)}
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <h1>Eventi in provincia di {p.nome}</h1>
+    <p class="apertura__testo">Scegli un comune.</p>
+    <ul class="pastiglie">
+      {comuniDi(p).map((c) => (
+        <Pastiglia nome={c.nome} percorso={percorsoComune(c)} conteggio={prossimi(eventiDelComune(c)).length} />
+      ))}
+    </ul>
+  </section>
+  <ElencoEventi lista={eventiDellaProvincia(p)} nomeLuogo={`in provincia di ${p.nome}`} />
+</Base>

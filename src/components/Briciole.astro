@@ -1,0 +1,14 @@
+---
+// Briciole di pane visibili. Gli stessi dati vanno anche nel JSON-LD BreadcrumbList.
+import { href } from '../lib/sito';
+interface Props { voci: { nome: string; percorso: string }[] }
+const { voci } = Astro.props;
+---
+<nav class="briciole" aria-label="Sei qui">
+  <ol>
+    <li><a href={href('/')}>Home</a></li>
+    {voci.map((v, i) => (
+      <li>{i === voci.length - 1 ? <span aria-current="page">{v.nome}</span> : <a href={href(v.percorso)}>{v.nome}</a>}</li>
+    ))}
+  </ol>
+</nav>

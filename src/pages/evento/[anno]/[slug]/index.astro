@@ -1,0 +1,99 @@
+---
+// Pagina di un singolo evento: è quella che Google e le IA indicizzano e citano.
+import Base from '../../../../layouts/Base.astro';
+import Briciole from '../../../../components/Briciole.astro';
+import SchedaEvento from '../../../../components/SchedaEvento.astro';
+import { eventi, prossimi, eventiDelComune, localita, percorsoLocalita, testoPrezzo, riassunto, ETICHETTA_FONTE } from '../../../../lib/eventi';
+import type { Evento } from '../../../../lib/eventi';
+import { briciole } from '../../../../lib/luoghi';
+import { quandoEsteso, dataSemplice, dataTitolo, maiuscola } from '../../../../lib/date';
+import { jsonLdEvento, jsonLdBriciole } from '../../../../lib/jsonld';
+import { SITO, href } from '../../../../lib/sito';
+
+export function getStaticPaths() {
+  return eventi.map((e) => ({ params: { anno: String(e.anno), slug: e.slug }, props: { e } }));
+}
+
+const { e } = Astro.props as { e: Evento };
+const voci = [...briciole(e.comuneDati, e.frazioneDati), { nome: e.titolo, percorso: e.percorso }];
+const quando = quandoEsteso(e.inizio, e.fine);
+const classeStato = e.etichettaStato?.toLowerCase().replace(/\s+/g, '-');
+const mappa = `https://www.google.com/maps/search/?api=1&query=${e.lat},${e.lon}`;
+const altri = prossimi(eventiDelComune(e.comuneDati)).filter((x) => x.slug !== e.slug).slice(0, 4);
+const mostraIndirizzo = e.indirizzo !== e.luogo && e.indirizzo !== e.frazioneDati?.nome;
+const consultata = e.fonti.map((f) => f.consultata).sort().at(-1)!;
+const titoloPagina = `${e.titolo} · ${dataTitolo(e.inizio, e.fine)}, ${e.frazioneDati?.nome ?? e.comuneDati.nome} | ${SITO.nome}`;
+---
+<Base
+  titolo={titoloPagina}
+  descrizione={riassunto(`${maiuscola(quando)} a ${localita(e)}. ${e.descrizione}`)}
+  percorso={e.percorso}
+  tipoOg="article"
+  jsonLd={[jsonLdEvento(e), jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+
+  <article>
+    <div class="evento__etichette">
+      <span class="etichetta-cat">{e.categoriaDati.nome}</span>
+      {e.etichettaStato && <span class={`stato stato--${classeStato}`}>{e.etichettaStato}</span>}
+    </div>
+    <h1>{e.titolo}</h1>
+
+    {e.stato === 'annullato' && <p class="avviso"><b>Questo evento è stato annullato.</b> La pagina resta online per chi la cercava.</p>}
+    {e.stato === 'rinviato' && <p class="avviso"><b>Evento rinviato.</b> La nuova data non è ancora stata comunicata.</p>}
+    {e.inizioPrecedente && !e.concluso && e.stato === 'pubblicato' && (
+      <p class="avviso"><b>Date cambiate.</b> L'evento era previsto per il {dataSemplice(e.inizioPrecedente)}.</p>
+    )}
+    {e.concluso && e.stato === 'pubblicato' && <p class="avviso">Questo evento si è già svolto. Resta qui come archivio.</p>}
+
+    <dl class="fatti">
+      <div><dt>Quando</dt><dd>{maiuscola(quando)}</dd></div>
+      <div>
+        <dt>Dove</dt>
+        <dd>
+          {e.luogo}
+          <small>{mostraIndirizzo && `${e.indirizzo} · `}<a href={href(percorsoLocalita(e))}>{localita(e)}</a></small>
+          <small><a href={href(`/mappa/?giorno=${e.inizio.slice(0, 10)}`)}>Vedi sulla mappa con gli altri eventi del giorno</a></small>
+        </dd>
+      </div>
+      <div><dt>Ingresso</dt><dd>{testoPrezzo(e)}</dd></div>
+      {e.organizzatore && <div><dt>Organizza</dt><dd>{e.organizzatore}</dd></div>}
+      {e.prenotazione && <div><dt>Prenota</dt><dd><a href={e.prenotazione} rel="noopener">{e.prenotazione}</a></dd></div>}
+    </dl>
+
+    {!e.concluso && e.stato !== 'annullato' && (
+      <div class="azioni">
+        <a class="bottone" href={href(`${e.percorso}evento.ics`)} download={`${e.slug}.ics`}>
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 10h18M12 13v5M9.5 15.5h5"/></svg>
+          Aggiungi al calendario
+        </a>
+        <a class="bottone bottone--secondario" href={mappa} rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-6.3-7-11.5a7 7 0 0 1 14 0C19 14.7 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+          Come arrivare
+        </a>
+      </div>
+    )}
+
+    <p class="descrizione">{e.descrizione}</p>
+
+    <aside class="nota" aria-label="Fonti">
+      <p>
+        <b>Da dove arriva questa notizia:</b>{' '}
+        {e.fonti.map((f, i) => (
+          <>{i > 0 && ' · '}<a href={f.url} rel="noopener nofollow">{f.nome}</a> ({ETICHETTA_FONTE[f.tipo]})</>
+        ))}.{' '}
+        Controllata il {dataSemplice(consultata)}.
+      </p>
+      {e.coordinateApprossimate && <p>La posizione sulla mappa è indicativa: corrisponde al centro di {e.frazioneDati?.nome ?? e.comuneDati.nome}, non al punto esatto.</p>}
+      <p>Orari e programma possono cambiare: prima di partire, conferma con chi organizza.</p>
+    </aside>
+  </article>
+
+  {altri.length > 0 && (
+    <section aria-labelledby="titolo-altri">
+      <h2 id="titolo-altri">Altri eventi a {e.comuneDati.nome}</h2>
+      <ul class="elenco">{altri.map((x) => <SchedaEvento evento={x} />)}</ul>
+    </section>
+  )}
+</Base>

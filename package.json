@@ -1,0 +1,17 @@
+{
+  "name": "succedequi",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "SuccedeQui — calendario pubblico e gratuito degli eventi del territorio",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/controlla.mjs",
+    "preview": "astro preview",
+    "controlla": "node scripts/controlla.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.4.5",
+    "leaflet": "^1.9.4"
+  }
+}

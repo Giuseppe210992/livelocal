@@ -1,0 +1,7 @@
+---
+// Pulsante arrotondato verso un luogo, con il numero di eventi in programma (nascosto se è zero).
+import { href } from '../lib/sito';
+interface Props { nome: string; percorso: string; conteggio?: number }
+const { nome, percorso, conteggio = 0 } = Astro.props;
+---
+<li><a class="pastiglia" href={href(percorso)}>{nome}{conteggio > 0 && <small aria-label={`${conteggio} in programma`}>{conteggio}</small>}</a></li>

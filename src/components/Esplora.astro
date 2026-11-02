@@ -1,0 +1,92 @@
+---
+// Strumento interattivo: scegli il giorno, (se vuoi) usa la tua posizione, guarda gli eventi sulla mappa.
+// Senza JavaScript resta comunque l'elenco completo dei prossimi eventi (lo leggono anche i crawler).
+// La logica è in src/scripts/esplora.ts.
+import SchedaEvento from './SchedaEvento.astro';
+import { eventi, prossimi, localita } from '../lib/eventi';
+import { quandoBreve, riquadroData } from '../lib/date';
+import { comuni } from '../lib/luoghi';
+import { href } from '../lib/sito';
+
+interface Props { posizioneInEvidenza?: boolean }
+const { posizioneInEvidenza = false } = Astro.props;
+
+// Dati compatti per la pagina: niente contatti, solo ciò che serve a mappa ed elenco.
+const datiEventi = eventi.map((e) => ({
+  titolo: e.titolo,
+  url: href(e.percorso),
+  categoria: e.categoriaDati.nome,
+  giornoInizio: e.inizio.slice(0, 10),
+  giornoFine: (e.fine ?? e.inizio).slice(0, 10),
+  fineMs: e.fineIstante.getTime(),
+  quando: quandoBreve(e.inizio, e.fine),
+  luogo: e.luogo,
+  localita: localita(e),
+  lat: e.lat,
+  lon: e.lon,
+  approssimata: e.coordinateApprossimate,
+  stato: e.stato,
+  nuoveDate: Boolean(e.inizioPrecedente),
+  data: riquadroData(e.inizio),
+}));
+
+// Luoghi da cui partire se non si vuole usare il GPS.
+const centri = comuni.flatMap((c) => [
+  { slug: c.slug, nome: c.nome, lat: c.lat, lon: c.lon },
+  ...c.frazioni.map((f) => ({ slug: f.slug, nome: f.nome, lat: f.lat, lon: f.lon })),
+]);
+
+const dati = JSON.stringify({ eventi: datiEventi, centri, centroMappa: { lat: comuni[0].lat, lon: comuni[0].lon } })
+  .replace(/</g, '\\u003c');
+---
+<div class="esplora" data-posizione-in-evidenza={posizioneInEvidenza ? 'si' : 'no'}>
+  <section class="filtro" aria-labelledby="titolo-quando">
+    <h2 id="titolo-quando" class="filtro__titolo">Quando</h2>
+    <div class="giorni" id="giorni" role="group" aria-label="Scegli il giorno">
+      <!-- I pulsanti dei giorni li crea lo script -->
+    </div>
+    <label class="altra-data">
+      Altra data
+      <input type="date" id="altra-data" />
+    </label>
+  </section>
+
+  <section class="filtro" aria-labelledby="titolo-dove">
+    <h2 id="titolo-dove" class="filtro__titolo">Dove</h2>
+    <div class="dove">
+      <button type="button" class:list={['bottone', { 'bottone--secondario': !posizioneInEvidenza }]} id="usa-posizione">
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7.5"/></svg>
+        Usa la mia posizione
+      </button>
+      <label class="centro">
+        oppure parti da
+        <select id="centro">
+          <option value="">ovunque</option>
+          {centri.map((c) => <option value={c.slug}>{c.nome}</option>)}
+        </select>
+      </label>
+    </div>
+    <div class="raggi" id="raggi" role="group" aria-label="Distanza massima" hidden>
+      <span>Entro</span>
+      {[10, 25, 50].map((km) => <button type="button" class="chip" data-raggio={km} aria-pressed={km === 25 ? 'true' : 'false'}>{km} km</button>)}
+    </div>
+    <p class="stato-posizione" id="stato-posizione" aria-live="polite"></p>
+    <p class="privacy-posizione">La tua posizione resta sul telefono: non la salviamo e non la inviamo a nessuno.</p>
+  </section>
+
+  <div class="mappa" id="mappa" role="region" aria-label="Mappa degli eventi">
+    <noscript><p class="vuoto">Per vedere la mappa serve JavaScript. Qui sotto trovi comunque tutti i prossimi eventi.</p></noscript>
+  </div>
+
+  <h2 id="titolo-risultati" aria-live="polite">Prossimi eventi</h2>
+  <ul class="elenco" id="risultati">
+    {prossimi().map((e) => <SchedaEvento evento={e} />)}
+  </ul>
+</div>
+
+<script type="application/json" id="dati-esplora" set:html={dati}></script>
+
+<script>
+  import { avviaEsplora } from '../scripts/esplora';
+  avviaEsplora();
+</script>

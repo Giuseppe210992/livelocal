@@ -1,0 +1,46 @@
+---
+import Base from '../../../../../../layouts/Base.astro';
+import Briciole from '../../../../../../components/Briciole.astro';
+import ElencoEventi from '../../../../../../components/ElencoEventi.astro';
+import Pastiglia from '../../../../../../components/Pastiglia.astro';
+import { comuni, provincia, regione, briciole, percorsoComune, percorsoFrazione } from '../../../../../../lib/luoghi';
+import type { Comune, Frazione } from '../../../../../../lib/luoghi';
+import { eventiDellaFrazione, prossimi } from '../../../../../../lib/eventi';
+import { jsonLdBriciole } from '../../../../../../lib/jsonld';
+import { SITO, href } from '../../../../../../lib/sito';
+
+export function getStaticPaths() {
+  return comuni.flatMap((c) => {
+    const p = provincia(c.provincia);
+    return c.frazioni.map((f) => ({
+      params: { regione: regione(p.regione).slug, provincia: p.slug, comune: c.slug, frazione: f.slug },
+      props: { c, f },
+    }));
+  });
+}
+
+const { c, f } = Astro.props as { c: Comune; f: Frazione };
+const p = provincia(c.provincia);
+const voci = briciole(c, f);
+const altre = c.frazioni.filter((x) => x.slug !== f.slug);
+---
+<Base
+  titolo={`Eventi a ${f.nome}, ${c.nome} (${p.sigla}) | ${SITO.nome}`}
+  descrizione={`Cosa fare a ${f.nome} (${c.nome}): eventi, sagre, concerti, mostre e feste in programma. Calendario gratuito aggiornato ogni ora.`}
+  percorso={percorsoFrazione(c, f)}
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <p class="apertura__sopra">Frazione di {c.nome} ({p.sigla})</p>
+    <h1>Eventi a {f.nome}</h1>
+    <p class="apertura__testo">
+      Qui trovi solo gli eventi di {f.nome}. Per tutto il comune vai a <a href={href(percorsoComune(c))}>eventi a {c.nome}</a>.
+    </p>
+  </section>
+  <ElencoEventi lista={eventiDellaFrazione(c, f)} nomeLuogo={`a ${f.nome}`} mostraLocalita={false} />
+  <h2>Le altre frazioni di {c.nome}</h2>
+  <ul class="pastiglie">
+    {altre.map((x) => <Pastiglia nome={x.nome} percorso={percorsoFrazione(c, x)} conteggio={prossimi(eventiDellaFrazione(c, x)).length} />)}
+  </ul>
+</Base>

@@ -1,0 +1,27 @@
+---
+// Una riga dell'elenco eventi: riquadro con la data, categoria, titolo, quando e dove.
+import type { Evento } from '../lib/eventi';
+import { localita } from '../lib/eventi';
+import { quandoBreve, riquadroData } from '../lib/date';
+import { href } from '../lib/sito';
+
+interface Props { evento: Evento; mostraLocalita?: boolean }
+const { evento: e, mostraLocalita = true } = Astro.props;
+const d = riquadroData(e.inizio);
+const classeStato = e.etichettaStato?.toLowerCase().replace(/\s+/g, '-');
+---
+<li class:list={['scheda', { 'scheda--conclusa': e.concluso }]}>
+  <div class="data" aria-hidden="true">
+    <span class="data__settimana">{d.settimana}</span>
+    <span class="data__giorno">{d.giorno}</span>
+    <span class="data__mese">{d.mese}</span>
+  </div>
+  <div>
+    <span class="scheda__categoria">{e.categoriaDati.nome}</span>
+    {e.etichettaStato && <span class={`stato stato--${classeStato}`}>{e.etichettaStato}</span>}
+    <h3 class="scheda__titolo"><a href={href(e.percorso)}>{e.titolo}</a></h3>
+    <p class="scheda__info">
+      {quandoBreve(e.inizio, e.fine)} · {e.luogo}{mostraLocalita && <>, {localita(e)}</>}
+    </p>
+  </div>
+</li>

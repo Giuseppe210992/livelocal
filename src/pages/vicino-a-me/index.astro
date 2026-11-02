@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import Esplora from '../../components/Esplora.astro';
+import { SITO } from '../../lib/sito';
+---
+<Base
+  titolo={`Eventi vicino a me: cosa fare nei dintorni | ${SITO.nome}`}
+  descrizione="Gli eventi più vicini a te, ordinati per distanza: entro 10, 25 o 50 km. Funziona con la posizione del telefono oppure scegliendo un paese."
+  percorso="/vicino-a-me/"
+>
+  <section class="apertura">
+    <p class="apertura__sopra">{SITO.slogan}</p>
+    <h1>Eventi vicino a te</h1>
+    <p class="apertura__testo">Tocca "Usa la mia posizione": il telefono ti chiederà il permesso. Se preferisci, scegli un paese come punto di partenza.</p>
+  </section>
+  <Esplora posizioneInEvidenza />
+</Base>

@@ -1,0 +1,13 @@
+[
+  { "slug": "mostra", "nome": "Mostra", "plurale": "Mostre" },
+  { "slug": "visita-guidata", "nome": "Visita guidata", "plurale": "Visite guidate" },
+  { "slug": "apertura-straordinaria", "nome": "Apertura straordinaria", "plurale": "Aperture straordinarie", "_proposta": "Categoria in più rispetto al brief: musei e siti aperti in giorni speciali o gratis. Da confermare." },
+  { "slug": "concerto", "nome": "Concerto", "plurale": "Concerti" },
+  { "slug": "teatro", "nome": "Teatro", "plurale": "Teatro" },
+  { "slug": "sagra", "nome": "Sagra e gusto", "plurale": "Sagre e gusto" },
+  { "slug": "festa-religiosa", "nome": "Festa religiosa", "plurale": "Feste religiose" },
+  { "slug": "mercatino", "nome": "Mercatino", "plurale": "Mercatini" },
+  { "slug": "conferenza", "nome": "Conferenza", "plurale": "Conferenze" },
+  { "slug": "sport", "nome": "Sport e camminate", "plurale": "Sport e camminate" },
+  { "slug": "bambini", "nome": "Per bambini", "plurale": "Per bambini" }
+]

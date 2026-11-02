@@ -1,0 +1,84 @@
+---
+// Struttura comune a tutte le pagine: <head> per Google e social, intestazione, piè di pagina.
+import { SITO, href, urlAssoluto } from '../lib/sito';
+import '../styles/globale.css';
+
+interface Props {
+  titolo: string;          // <title>, unico per pagina
+  descrizione: string;     // meta description, unica per pagina
+  percorso: string;        // es. /eventi/lazio/latina/minturno/ (serve per l'URL canonico)
+  jsonLd?: object[];       // dati strutturati schema.org
+  tipoOg?: 'website' | 'article';
+}
+
+const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website' } = Astro.props;
+const canonico = urlAssoluto(percorso);
+const immagineOg = urlAssoluto('/condivisione.png');
+---
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titolo}</title>
+    <meta name="description" content={descrizione} />
+    <link rel="canonical" href={canonico} />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#11161d" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href={href('/favicon.svg')} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="SuccedeQui – nuovi eventi" href={href('/feed.xml')} />
+    <link rel="alternate" type="application/json" title="Eventi in formato JSON" href={href('/eventi.json')} />
+
+    <meta property="og:site_name" content={SITO.nome} />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:type" content={tipoOg} />
+    <meta property="og:title" content={titolo} />
+    <meta property="og:description" content={descrizione} />
+    <meta property="og:url" content={canonico} />
+    <meta property="og:image" content={immagineOg} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    {jsonLd.map((dati) => <script type="application/ld+json" set:html={JSON.stringify(dati)} />)}
+  </head>
+  <body>
+    <a class="salta" href="#contenuto">Vai al contenuto</a>
+    <header class="testata">
+      <div class="contenitore testata__riga">
+        <a class="marchio" href={href('/')} aria-label="SuccedeQui, pagina iniziale">
+          <svg class="marchio__icona" viewBox="0 0 32 32" aria-hidden="true">
+            <rect width="32" height="32" rx="8" fill="currentColor" />
+            <path d="M16 6.5a7 7 0 0 0-7 7c0 5.2 7 12 7 12s7-6.8 7-12a7 7 0 0 0-7-7Zm0 9.6a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2Z" fill="#fff" />
+          </svg>
+          <span class="marchio__nome">Succede<b>Qui</b></span>
+        </a>
+        <nav class="testata__menu" aria-label="Menu principale">
+          <a href={href('/mappa/')}>Mappa</a>
+          <a href={href('/vicino-a-me/')}>Vicino a me</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenuto" class="contenitore">
+      <slot />
+    </main>
+
+    <footer class="piede">
+      <div class="contenitore">
+        <p class="piede__slogan"><b>{SITO.nome}</b> · {SITO.slogan}. Calendario gratuito, senza pubblicità e senza tracciamento.</p>
+        <p class="piede__dati">
+          Dati aperti:{' '}
+          <a href={href('/eventi.json')}>eventi.json</a>{' · '}
+          <a href={href('/eventi.ics')}>calendario .ics</a>{' · '}
+          <a href={href('/feed.xml')}>feed RSS</a>{' · '}
+          <a href={href('/llms.txt')}>llms.txt</a>
+        </p>
+        <p class="piede__promotore">
+          Un progetto promosso da <a href={SITO.promotore.url} rel="noopener">{SITO.promotore.nome}</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

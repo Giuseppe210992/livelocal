@@ -1,0 +1,26 @@
+---
+// Due blocchi: "In programma" e "Eventi passati" (archivio). Usato da comune, frazione, provincia, regione.
+import SchedaEvento from './SchedaEvento.astro';
+import { prossimi, passati } from '../lib/eventi';
+import type { Evento } from '../lib/eventi';
+
+interface Props { lista: Evento[]; nomeLuogo: string; mostraLocalita?: boolean }
+const { lista, nomeLuogo, mostraLocalita = true } = Astro.props;
+const futuri = prossimi(lista);
+const archivio = passati(lista);
+---
+<section aria-labelledby="titolo-prossimi">
+  <h2 id="titolo-prossimi">In programma {futuri.length > 0 && <small>({futuri.length})</small>}</h2>
+  {futuri.length > 0 ? (
+    <ul class="elenco">{futuri.map((e) => <SchedaEvento evento={e} mostraLocalita={mostraLocalita} />)}</ul>
+  ) : (
+    <p class="vuoto">Per ora non ci sono eventi in programma {nomeLuogo}. Il calendario si aggiorna ogni ora: torna a trovarci.</p>
+  )}
+</section>
+
+{archivio.length > 0 && (
+  <section aria-labelledby="titolo-passati">
+    <h2 id="titolo-passati">Eventi passati</h2>
+    <ul class="elenco">{archivio.map((e) => <SchedaEvento evento={e} mostraLocalita={mostraLocalita} />)}</ul>
+  </section>
+)}

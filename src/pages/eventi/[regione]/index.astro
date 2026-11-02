@@ -1,0 +1,36 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Briciole from '../../../components/Briciole.astro';
+import ElencoEventi from '../../../components/ElencoEventi.astro';
+import Pastiglia from '../../../components/Pastiglia.astro';
+import { regioni, provinceDi, percorsoRegione, percorsoProvincia } from '../../../lib/luoghi';
+import type { Regione } from '../../../lib/luoghi';
+import { eventiDellaRegione, eventiDellaProvincia, prossimi } from '../../../lib/eventi';
+import { jsonLdBriciole } from '../../../lib/jsonld';
+import { SITO } from '../../../lib/sito';
+
+export function getStaticPaths() {
+  return regioni.map((r) => ({ params: { regione: r.slug }, props: { r } }));
+}
+
+const { r } = Astro.props as { r: Regione };
+const voci = [{ nome: r.nome, percorso: percorsoRegione(r) }];
+---
+<Base
+  titolo={`Eventi nel ${r.nome}: calendario per provincia | ${SITO.nome}`}
+  descrizione={`Mostre, visite guidate, concerti, sagre e feste nel ${r.nome}, divisi per provincia e comune. Calendario gratuito aggiornato ogni ora.`}
+  percorso={percorsoRegione(r)}
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <h1>Eventi nel {r.nome}</h1>
+    <p class="apertura__testo">Scegli una provincia. Per ora il calendario copre la zona pilota di Minturno; altri comuni arriveranno presto.</p>
+    <ul class="pastiglie">
+      {provinceDi(r).map((p) => (
+        <Pastiglia nome={`Provincia di ${p.nome}`} percorso={percorsoProvincia(p)} conteggio={prossimi(eventiDellaProvincia(p)).length} />
+      ))}
+    </ul>
+  </section>
+  <ElencoEventi lista={eventiDellaRegione(r)} nomeLuogo={`nel ${r.nome}`} />
+</Base>

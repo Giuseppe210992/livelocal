@@ -1,0 +1,63 @@
+---
+import Base from '../layouts/Base.astro';
+import SchedaEvento from '../components/SchedaEvento.astro';
+import Pastiglia from '../components/Pastiglia.astro';
+import { prossimi, passati, eventiDelComune, eventiDellaFrazione } from '../lib/eventi';
+import { comuni, percorsoComune, percorsoFrazione } from '../lib/luoghi';
+import { jsonLdSito } from '../lib/jsonld';
+import { SITO, href } from '../lib/sito';
+
+const futuri = prossimi();
+const recenti = passati().slice(0, 3);
+const minturno = comuni[0];
+---
+<Base
+  titolo={`${SITO.nome} · Eventi a Minturno, Scauri e dintorni`}
+  descrizione="Cosa fare a Minturno, Scauri, Marina di Minturno e nelle frazioni: mostre, visite guidate, concerti, sagre e feste. Calendario gratuito, aggiornato ogni ora."
+  percorso="/"
+  jsonLd={[jsonLdSito()]}
+>
+  <section class="apertura">
+    <p class="apertura__sopra">{SITO.slogan}</p>
+    <h1>Cosa succede a Minturno e dintorni</h1>
+    <p class="apertura__testo">
+      Mostre, visite guidate, concerti, sagre e feste del territorio, in un unico calendario.
+      Gratis, senza registrazione e senza pubblicità.
+    </p>
+    <div class="scorciatoie">
+      <a class="bottone" href={href('/mappa/')}>
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
+        Mappa per giorno
+      </a>
+      <a class="bottone bottone--secondario" href={href('/vicino-a-me/')}>
+        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7.5"/></svg>
+        Vicino a me
+      </a>
+    </div>
+    <ul class="pastiglie" aria-label="Scegli un luogo">
+      <Pastiglia nome="Minturno" percorso={percorsoComune(minturno)} conteggio={prossimi(eventiDelComune(minturno)).length} />
+      {minturno.frazioni.map((f) => (
+        <Pastiglia nome={f.nome} percorso={percorsoFrazione(minturno, f)} conteggio={prossimi(eventiDellaFrazione(minturno, f)).length} />
+      ))}
+    </ul>
+  </section>
+
+  <section aria-labelledby="titolo-prossimi">
+    <h2 id="titolo-prossimi">Prossimi eventi</h2>
+    {futuri.length > 0
+      ? <ul class="elenco">{futuri.map((e) => <SchedaEvento evento={e} />)}</ul>
+      : <p class="vuoto">Per ora non ci sono eventi in programma. Il calendario si aggiorna ogni ora.</p>}
+  </section>
+
+  {recenti.length > 0 && (
+    <section aria-labelledby="titolo-recenti">
+      <h2 id="titolo-recenti">Appena conclusi</h2>
+      <ul class="elenco">{recenti.map((e) => <SchedaEvento evento={e} />)}</ul>
+    </section>
+  )}
+
+  <section class="nota" aria-labelledby="titolo-organizzi">
+    <h2 id="titolo-organizzi" style="margin-top:0;font-size:1.05rem">Organizzi un evento?</h2>
+    <p>Pro Loco, associazioni, parrocchie, musei: presto potrete segnalare i vostri eventi da telefono, in due minuti e senza account. Ogni evento viene controllato prima di andare online.</p>
+  </section>
+</Base>
