@@ -25,8 +25,11 @@ interface EventoMappa {
   nuoveDate: boolean;
   data: { giorno: string; mese: string; settimana: string };
 }
-interface Centro { slug: string; nome: string; lat: number; lon: number }
-interface Dati { eventi: EventoMappa[]; centri: Centro[]; centroMappa: { lat: number; lon: number } }
+interface Centro { slug: string; nome: string; lat: number; lon: number } // slug = codice ISTAT (o codice-frazione)
+interface Dati { eventi: EventoMappa[] }
+
+// Riquadro che contiene Lazio e Campania: la mappa parte da qui se non ci sono eventi da inquadrare.
+const RIQUADRO_INIZIALE: L.LatLngBoundsExpression = [[39.98, 11.45], [42.84, 15.81]];
 
 type Giorno = 'tutti' | 'weekend' | string; // oppure AAAA-MM-GG
 interface Partenza { lat: number; lon: number; nome: string; daGps: boolean; slug?: string; precisione?: number }
@@ -72,7 +75,8 @@ export function avviaEsplora(): void {
     giorni: document.getElementById('giorni')!,
     altraData: document.getElementById('altra-data') as HTMLInputElement,
     usaPosizione: document.getElementById('usa-posizione') as HTMLButtonElement,
-    centro: document.getElementById('centro') as HTMLSelectElement,
+    centro: document.getElementById('centro') as HTMLInputElement,
+    elencoLuoghi: document.getElementById('elenco-luoghi') as HTMLDataListElement,
     raggi: document.getElementById('raggi')!,
     statoPosizione: document.getElementById('stato-posizione')!,
     titolo: document.getElementById('titolo-risultati')!,
@@ -86,11 +90,22 @@ export function avviaEsplora(): void {
   if (giorno !== 'tutti' && giorno !== 'weekend' && !/^\d{4}-\d{2}-\d{2}$/.test(giorno)) giorno = 'tutti';
   let raggio = RAGGI.includes(Number(parametri.get('r'))) ? Number(parametri.get('r')) : 25;
   let partenza: Partenza | null = null;
-  const daParametro = dati.centri.find((c) => c.slug === parametri.get('da'));
-  if (daParametro) partenza = { ...daParametro, daGps: false };
+
+  // ----- elenco dei luoghi di partenza (comuni e frazioni), scaricato solo quando serve -----
+  let luoghi: Centro[] | null = null;
+  const etichetta = (c: Centro) => c.nome;
+  async function caricaLuoghi(): Promise<Centro[]> {
+    if (luoghi) return luoghi;
+    const url = (document.querySelector('.esplora') as HTMLElement).dataset.luoghi!;
+    const risposta = await fetch(url);
+    const { luoghi: righe } = (await risposta.json()) as { luoghi: [string, string, string, number, number][] };
+    luoghi = righe.map(([slug, nome, sigla, lat, lon]) => ({ slug, nome: `${nome} (${sigla})`, lat, lon }));
+    el.elencoLuoghi.innerHTML = luoghi.map((c) => `<option value="${esc(etichetta(c))}"></option>`).join('');
+    return luoghi;
+  }
 
   // ----- mappa -----
-  const mappa = L.map(el.mappa, { scrollWheelZoom: false }).setView([dati.centroMappa.lat, dati.centroMappa.lon], 12);
+  const mappa = L.map(el.mappa, { scrollWheelZoom: false }).fitBounds(RIQUADRO_INIZIALE);
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -233,7 +248,7 @@ export function avviaEsplora(): void {
   function disegnaDove(): void {
     el.raggi.hidden = !partenza;
     el.raggi.querySelectorAll<HTMLButtonElement>('[data-raggio]').forEach((b) => b.setAttribute('aria-pressed', String(Number(b.dataset.raggio) === raggio)));
-    el.centro.value = partenza && !partenza.daGps ? partenza.slug ?? '' : '';
+    if (document.activeElement !== el.centro) el.centro.value = partenza && !partenza.daGps ? partenza.nome : '';
   }
 
   function aggiornaIndirizzo(): void {
@@ -296,12 +311,26 @@ export function avviaEsplora(): void {
     if (el.altraData.value) { giorno = el.altraData.value; aggiorna(); }
   });
   el.usaPosizione.addEventListener('click', () => chiediPosizione());
-  el.centro.addEventListener('change', () => {
-    const c = dati.centri.find((x) => x.slug === el.centro.value);
-    partenza = c ? { ...c, daGps: false } : null;
-    messaggio(c ? `Parti da ${c.nome}.` : '');
+  el.centro.addEventListener('focus', () => { caricaLuoghi().catch(() => {}); }, { once: true });
+  const scegliLuogo = async () => {
+    const testo = el.centro.value.trim().toLowerCase();
+    if (!testo) {
+      if (partenza && !partenza.daGps) { partenza = null; messaggio(''); aggiorna(); }
+      return;
+    }
+    const elenco = await caricaLuoghi();
+    // prima il nome esatto con la sigla, poi il solo nome del paese
+    const c = elenco.find((x) => x.nome.toLowerCase() === testo)
+      ?? elenco.find((x) => x.nome.toLowerCase().replace(/ \([a-z]{2}\)$/, '') === testo);
+    if (!c) { messaggio('Non trovo questo paese nel Lazio o in Campania. Scegli uno dei suggerimenti.', 'errore'); return; }
+    partenza = { ...c, daGps: false };
+    el.centro.value = c.nome;
+    el.centro.blur();
+    messaggio(`Parti da ${c.nome}.`);
     aggiorna();
-  });
+  };
+  el.centro.addEventListener('change', scegliLuogo);
+  el.centro.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') { ev.preventDefault(); scegliLuogo(); } });
   el.raggi.addEventListener('click', (ev) => {
     const b = (ev.target as HTMLElement).closest<HTMLButtonElement>('[data-raggio]');
     if (!b) return;
@@ -310,6 +339,15 @@ export function avviaEsplora(): void {
   });
 
   aggiorna();
+
+  // Partenza scritta nell'indirizzo (?da=codice): carica l'elenco e applicala.
+  const daParametro = parametri.get('da');
+  if (daParametro) {
+    caricaLuoghi().then((elenco) => {
+      const c = elenco.find((x) => x.slug === daParametro);
+      if (c) { partenza = { ...c, daGps: false }; messaggio(`Parti da ${c.nome}.`); aggiorna(); }
+    }).catch(() => {});
+  }
 
   // Se il permesso è già stato dato in passato, usa subito la posizione (senza nuove richieste).
   // Se è stato negato, spiega subito come riattivarlo.

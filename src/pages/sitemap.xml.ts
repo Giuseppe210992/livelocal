@@ -1,6 +1,6 @@
 // Mappa del sito per Google e Bing: tutte le pagine, rigenerata a ogni pubblicazione.
 import type { APIRoute } from 'astro';
-import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione } from '../lib/eventi';
+import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione, comuniConPagina } from '../lib/eventi';
 import type { Evento } from '../lib/eventi';
 import { regioni, province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from '../lib/luoghi';
 import { urlAssoluto } from '../lib/sito';
@@ -15,7 +15,7 @@ export const GET: APIRoute = () => {
     { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
     ...regioni.map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
     ...province.map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),
-    ...comuni.map((c) => ({ percorso: percorsoComune(c), lastmod: ultima(eventiDelComune(c)) })),
+    ...comuniConPagina(comuni).map((c) => ({ percorso: percorsoComune(c), lastmod: ultima(eventiDelComune(c)) })),
     ...comuni.flatMap((c) => c.frazioni.map((f) => ({ percorso: percorsoFrazione(c, f), lastmod: ultima(eventiDellaFrazione(c, f)) }))),
     ...eventi.map((e) => ({ percorso: e.percorso, lastmod: e.inserito })),
   ];

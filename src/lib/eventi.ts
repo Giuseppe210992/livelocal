@@ -22,6 +22,7 @@ export interface EventoGrezzo {
   fine: string | null;
   luogo: string;
   indirizzo: string;
+  cap?: string | null; // facoltativo: se manca si usa quello della frazione o del comune
   comune: string;
   frazione: string | null;
   lat: number;
@@ -35,6 +36,7 @@ export interface EventoGrezzo {
   inizioPrecedente: string | null;
   fonti: Fonte[];
   inserito: string;
+  inseritoDa?: 'giuseppe' | 'ia' | 'organizzatore';
 }
 
 export interface Evento extends EventoGrezzo {
@@ -71,7 +73,7 @@ function controlla(e: EventoGrezzo): void {
   }
   if (!categorie.some((c) => c.slug === e.categoria)) errore(e, `categoria sconosciuta "${e.categoria}"`);
   const c = trovaComune(e.comune);
-  if (!c) errore(e, `comune con codice ISTAT ${e.comune} non presente in luoghi.json`);
+  if (!c) errore(e, `comune con codice ISTAT ${e.comune} non presente in territorio.json (Lazio e Campania)`);
   if (e.frazione && !c.frazioni.some((f) => f.slug === e.frazione)) errore(e, `frazione "${e.frazione}" non presente in ${c.nome}`);
   if (typeof e.lat !== 'number' || typeof e.lon !== 'number') errore(e, 'mancano le coordinate');
   if (!['pubblicato', 'annullato', 'rinviato', 'in-revisione'].includes(e.stato)) errore(e, `stato sconosciuto "${e.stato}"`);
@@ -134,6 +136,13 @@ export const prossimi = (lista: Evento[] = eventi) => lista.filter((e) => !e.con
 export const passati = (lista: Evento[] = eventi) => lista.filter((e) => e.concluso).reverse();
 
 export const eventiDelComune = (c: Comune) => eventi.filter((e) => e.comune === c.codiceIstat);
+
+/** Comuni che hanno una pagina: quelli con almeno un evento (anche passato) o con frazioni descritte. */
+export const comuniConPagina = (lista: Comune[]) =>
+  lista.filter((c) => c.frazioni.length > 0 || eventi.some((e) => e.comune === c.codiceIstat));
+
+/** CAP per i dati strutturati: dell'evento, della frazione o del comune (può mancare). */
+export const capEvento = (e: Evento) => e.cap ?? e.frazioneDati?.cap ?? e.comuneDati.cap ?? null;
 export const eventiDellaFrazione = (c: Comune, f: Frazione) =>
   eventi.filter((e) => e.comune === c.codiceIstat && e.frazione === f.slug);
 export const eventiDellaProvincia = (p: Provincia) => eventi.filter((e) => e.provinciaDati.codiceIstat === p.codiceIstat);

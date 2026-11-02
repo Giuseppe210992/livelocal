@@ -3,14 +3,14 @@ import Base from '../../../../../layouts/Base.astro';
 import Briciole from '../../../../../components/Briciole.astro';
 import ElencoEventi from '../../../../../components/ElencoEventi.astro';
 import Pastiglia from '../../../../../components/Pastiglia.astro';
-import { comuni, provincia, regione, briciole, percorsoComune, percorsoFrazione } from '../../../../../lib/luoghi';
+import { comuni, provincia, regione, briciole, percorsoComune, percorsoFrazione, nomeProvincia } from '../../../../../lib/luoghi';
 import type { Comune } from '../../../../../lib/luoghi';
-import { eventiDelComune, eventiDellaFrazione, prossimi } from '../../../../../lib/eventi';
+import { eventiDelComune, eventiDellaFrazione, prossimi, comuniConPagina } from '../../../../../lib/eventi';
 import { jsonLdBriciole } from '../../../../../lib/jsonld';
 import { SITO } from '../../../../../lib/sito';
 
 export function getStaticPaths() {
-  return comuni.map((c) => {
+  return comuniConPagina(comuni).map((c) => {
     const p = provincia(c.provincia);
     return { params: { regione: regione(p.regione).slug, provincia: p.slug, comune: c.slug }, props: { c } };
   });
@@ -20,24 +20,32 @@ const { c } = Astro.props as { c: Comune };
 const p = provincia(c.provincia);
 const voci = briciole(c);
 const nomiFrazioni = c.frazioni.map((f) => f.nome);
-const elencoFrazioni = `${nomiFrazioni.slice(0, -1).join(', ')} e ${nomiFrazioni.at(-1)}`;
+const conFrazioni = nomiFrazioni.length > 1
+  ? ` e nelle frazioni ${nomiFrazioni.slice(0, -1).join(', ')} e ${nomiFrazioni.at(-1)}`
+  : nomiFrazioni.length === 1 ? ` e a ${nomiFrazioni[0]}` : '';
 ---
 <Base
   titolo={`Eventi a ${c.nome} (${p.sigla}): cosa fare oggi e nei prossimi giorni | ${SITO.nome}`}
-  descrizione={`Calendario degli eventi a ${c.nome} e nelle frazioni ${elencoFrazioni}: mostre, visite, concerti, sagre e feste. Gratuito, aggiornato ogni ora.`}
+  descrizione={`Calendario degli eventi a ${c.nome}${conFrazioni}: mostre, visite, concerti, sagre e feste. Gratuito, aggiornato ogni ora.`}
   percorso={percorsoComune(c)}
   jsonLd={[jsonLdBriciole(voci)]}
 >
   <Briciole voci={voci} />
   <section class="apertura">
-    <p class="apertura__sopra">Comune di {c.nome} · Provincia di {p.nome}</p>
+    <p class="apertura__sopra">Comune di {c.nome} · {nomeProvincia(p)}</p>
     <h1>Eventi a {c.nome}</h1>
-    <p class="apertura__testo">Tutto quello che succede a {c.nome} e nelle frazioni. Scegli una frazione per vedere solo i suoi eventi.</p>
-    <ul class="pastiglie" aria-label="Frazioni">
-      {c.frazioni.map((f) => (
-        <Pastiglia nome={f.nome} percorso={percorsoFrazione(c, f)} conteggio={prossimi(eventiDellaFrazione(c, f)).length} />
-      ))}
-    </ul>
+    {c.frazioni.length > 0 ? (
+      <>
+        <p class="apertura__testo">Tutto quello che succede a {c.nome} e nelle frazioni. Scegli una frazione per vedere solo i suoi eventi.</p>
+        <ul class="pastiglie" aria-label="Frazioni">
+          {c.frazioni.map((f) => (
+            <Pastiglia nome={f.nome} percorso={percorsoFrazione(c, f)} conteggio={prossimi(eventiDellaFrazione(c, f)).length} />
+          ))}
+        </ul>
+      </>
+    ) : (
+      <p class="apertura__testo">Tutto quello che succede a {c.nome}: in programma e già passato.</p>
+    )}
   </section>
   <ElencoEventi lista={eventiDelComune(c)} nomeLuogo={`a ${c.nome}`} />
 </Base>

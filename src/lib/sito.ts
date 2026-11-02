@@ -5,7 +5,7 @@ export const SITO = {
   nome: 'LiveLocal',
   slogan: 'Gli eventi vicino a te',
   descrizione:
-    'Calendario gratuito e pubblico degli eventi del territorio: mostre, visite guidate, concerti, sagre, feste e conferenze. Si parte da Minturno, Scauri e le frazioni.',
+    'Calendario gratuito e pubblico degli eventi del Lazio e della Campania: mostre, visite guidate, concerti, sagre, feste e conferenze, giorno per giorno e vicino a te.',
   lingua: 'it',
   fuso: 'Europe/Rome',
   promotore: { nome: 'Room & Relax Scauri', url: 'https://roomandrelax.it' },

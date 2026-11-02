@@ -5,7 +5,6 @@
 import SchedaEvento from './SchedaEvento.astro';
 import { eventi, prossimi, localita } from '../lib/eventi';
 import { quandoBreve, riquadroData } from '../lib/date';
-import { comuni } from '../lib/luoghi';
 import { href } from '../lib/sito';
 
 interface Props { posizioneInEvidenza?: boolean }
@@ -30,16 +29,9 @@ const datiEventi = eventi.map((e) => ({
   data: riquadroData(e.inizio),
 }));
 
-// Luoghi da cui partire se non si vuole usare il GPS.
-const centri = comuni.flatMap((c) => [
-  { slug: c.slug, nome: c.nome, lat: c.lat, lon: c.lon },
-  ...c.frazioni.map((f) => ({ slug: f.slug, nome: f.nome, lat: f.lat, lon: f.lon })),
-]);
-
-const dati = JSON.stringify({ eventi: datiEventi, centri, centroMappa: { lat: comuni[0].lat, lon: comuni[0].lon } })
-  .replace(/</g, '\\u003c');
+const dati = JSON.stringify({ eventi: datiEventi }).replace(/</g, '\\u003c');
 ---
-<div class="esplora" data-posizione-in-evidenza={posizioneInEvidenza ? 'si' : 'no'}>
+<div class="esplora" data-posizione-in-evidenza={posizioneInEvidenza ? 'si' : 'no'} data-luoghi={href('/comuni.json')}>
   <section class="filtro" aria-labelledby="titolo-quando">
     <h2 id="titolo-quando" class="filtro__titolo">Quando</h2>
     <div class="giorni" id="giorni" role="group" aria-label="Scegli il giorno">
@@ -60,10 +52,8 @@ const dati = JSON.stringify({ eventi: datiEventi, centri, centroMappa: { lat: co
       </button>
       <label class="centro">
         oppure parti da
-        <select id="centro">
-          <option value="">ovunque</option>
-          {centri.map((c) => <option value={c.slug}>{c.nome}</option>)}
-        </select>
+        <input id="centro" type="search" list="elenco-luoghi" placeholder="Scrivi un paese…" autocomplete="off" enterkeyhint="search" />
+        <datalist id="elenco-luoghi"></datalist>
       </label>
     </div>
     <div class="raggi" id="raggi" role="group" aria-label="Distanza massima" hidden>

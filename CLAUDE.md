@@ -192,6 +192,13 @@ Sul modulo servono anche una verifica anti-bot e l'informativa privacy. Gli orga
 
 **Repository: `Giuseppe210992/livelocal`**, sito online su https://giuseppe210992.github.io/livelocal/ (GitHub Pages attivato da Giuseppe il 2 novembre 2026). **Il sito si chiama LiveLocal** (rinominato da SuccedeQui il 2 novembre 2026). Il codice è nella radice del repo, branch `main`. La copia in `Giuseppe210992/a` (cartella `succedequi/`) è ferma al passo 1 e non va più aggiornata.
 
+**2 novembre 2026, sera — zona allargata e ricerca automatica (richiesta di Giuseppe):**
+- Zona: **Lazio e Campania** (10 province, 928 comuni da confini ISTAT 1/1/2026 via Openpolis, CC BY 4.0). `src/data/territorio.json` è generato da `scripts/aggiorna-comuni.mjs`; le frazioni (solo Minturno) sono in `src/data/frazioni.json`. Le pagine dei comuni esistono solo se hanno eventi.
+- Mappa: casella "parti da" con tutti i comuni (elenco `/comuni.json`, caricato solo quando serve); `?da=<codice ISTAT>`.
+- **Ricerca automatica con IA**: attività programmata di Claude Code due volte al giorno, procedura in `docs/ricerca-eventi.md`. Fonte ufficiale o organizzatore → pubblicato da solo; solo stampa o aggregatori → `in-revisione`, approvazione rispondendo all'email (`ok 1 3`). Le email vanno all'indirizzo che Giuseppe ha indicato (scritto solo nel testo dell'attività programmata, non nel repo pubblico).
+- **Questa regola cambia il brief**: prima "ogni evento passa dal controllo di Giuseppe"; ora il controllo in 4 punti lo fa l'IA per le fonti ufficiali. Proposta fatta a Giuseppe, da confermare; per tornare a "tutto da approvare" basta cambiare il punto 6 della procedura.
+- Prossimo passo chiesto da Giuseppe: modulo per segnalare un evento con solo **nome, cognome e cellulare** dell'organizzatore (Giuseppe verifica con una telefonata) e **notifica email** a lui. Il cellulare non va mai nel repo pubblico: serve un archivio privato (proposta: Google Apps Script + Google Foglio privato).
+
 **2 novembre 2026 — Fase 1, passo 2 fatto:** pagine `/mappa/` e `/vicino-a-me/` (componente `Esplora.astro` + `src/scripts/esplora.ts`): giorno a scelta (tutti, weekend, 14 giorni, data libera), posizione del telefono con consenso oppure paese di partenza, raggio 10/25/50 km, mappa Leaflet + OSM. Collaudo automatico in Chromium: 10 scenari ok (giorni, weekend, data passata, posizione concessa/negata, senza JS). GitHub Action `pubblica.yml` (push su main + ogni ora + manuale). Giuseppe deve attivare Pages (Settings → Pages → Source: GitHub Actions).
 
 **2 novembre 2026 — Fase 1, passo 1 fatto** (allora nel repo `Giuseppe210992/a`, cartella `succedequi/`).

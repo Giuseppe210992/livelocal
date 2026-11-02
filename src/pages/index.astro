@@ -2,24 +2,24 @@
 import Base from '../layouts/Base.astro';
 import SchedaEvento from '../components/SchedaEvento.astro';
 import Pastiglia from '../components/Pastiglia.astro';
-import { prossimi, passati, eventiDelComune, eventiDellaFrazione } from '../lib/eventi';
-import { comuni, percorsoComune, percorsoFrazione } from '../lib/luoghi';
+import { prossimi, passati, eventiDellaRegione, eventiDellaProvincia } from '../lib/eventi';
+import { regioni, provinceDi, percorsoRegione, percorsoProvincia } from '../lib/luoghi';
 import { jsonLdSito } from '../lib/jsonld';
 import { SITO, href } from '../lib/sito';
 
+const MAX_IN_HOME = 20;
 const futuri = prossimi();
 const recenti = passati().slice(0, 3);
-const minturno = comuni[0];
 ---
 <Base
-  titolo={`${SITO.nome} · Eventi a Minturno, Scauri e dintorni`}
-  descrizione="Cosa fare a Minturno, Scauri, Marina di Minturno e nelle frazioni: mostre, visite guidate, concerti, sagre e feste. Calendario gratuito, aggiornato ogni ora."
+  titolo={`${SITO.nome} · Eventi nel Lazio e in Campania`}
+  descrizione="Cosa fare nel Lazio e in Campania: mostre, visite guidate, concerti, sagre e feste, giorno per giorno e vicino a te. Calendario gratuito, aggiornato ogni ora."
   percorso="/"
   jsonLd={[jsonLdSito()]}
 >
   <section class="apertura">
     <p class="apertura__sopra">{SITO.slogan}</p>
-    <h1>Cosa succede a Minturno e dintorni</h1>
+    <h1>Cosa succede nel Lazio e in Campania</h1>
     <p class="apertura__testo">
       Mostre, visite guidate, concerti, sagre e feste del territorio, in un unico calendario.
       Gratis, senza registrazione e senza pubblicità.
@@ -34,19 +34,24 @@ const minturno = comuni[0];
         Vicino a me
       </a>
     </div>
-    <ul class="pastiglie" aria-label="Scegli un luogo">
-      <Pastiglia nome="Minturno" percorso={percorsoComune(minturno)} conteggio={prossimi(eventiDelComune(minturno)).length} />
-      {minturno.frazioni.map((f) => (
-        <Pastiglia nome={f.nome} percorso={percorsoFrazione(minturno, f)} conteggio={prossimi(eventiDellaFrazione(minturno, f)).length} />
-      ))}
-    </ul>
+    {regioni.map((r) => (
+      <>
+        <h2 class="titoletto"><a href={href(percorsoRegione(r))}>{r.nome}</a> {prossimi(eventiDellaRegione(r)).length > 0 && <small>{prossimi(eventiDellaRegione(r)).length} in programma</small>}</h2>
+        <ul class="pastiglie" aria-label={`Province: ${r.nome}`}>
+          {provinceDi(r).map((p) => <Pastiglia nome={p.nome} percorso={percorsoProvincia(p)} conteggio={prossimi(eventiDellaProvincia(p)).length} />)}
+        </ul>
+      </>
+    ))}
   </section>
 
   <section aria-labelledby="titolo-prossimi">
     <h2 id="titolo-prossimi">Prossimi eventi</h2>
     {futuri.length > 0
-      ? <ul class="elenco">{futuri.map((e) => <SchedaEvento evento={e} />)}</ul>
+      ? <ul class="elenco">{futuri.slice(0, MAX_IN_HOME).map((e) => <SchedaEvento evento={e} />)}</ul>
       : <p class="vuoto">Per ora non ci sono eventi in programma. Il calendario si aggiorna ogni ora.</p>}
+    {futuri.length > MAX_IN_HOME && (
+      <p><a class="bottone bottone--secondario" href={href('/mappa/')}>Vedi tutti i {futuri.length} eventi sulla mappa</a></p>
+    )}
   </section>
 
   {recenti.length > 0 && (

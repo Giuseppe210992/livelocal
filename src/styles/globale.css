@@ -160,6 +160,7 @@ a.pastiglia:hover { border-color: var(--mare); }
 .piede { border-top: 1px solid var(--bordo); background: var(--carta); padding: 24px 0 32px; font-size: .92rem; color: var(--tenue); }
 .piede p { margin: 0 0 10px; }
 .piede__promotore { margin-top: 16px !important; }
+.piede__crediti { font-size: .8rem; }
 
 /* ---------- Mappa e "vicino a me" ---------- */
 .filtro { background: var(--carta); border: 1px solid var(--bordo); border-radius: var(--raggio); padding: 12px 14px 14px; margin-bottom: 12px; }
@@ -236,3 +237,6 @@ a.pastiglia:hover { border-color: var(--mare); }
 /* Pulsanti in home */
 .scorciatoie { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 14px 0 6px; }
 .scorciatoie .bottone { justify-content: center; }
+.titoletto { font-size: 1rem; margin: 18px 0 8px; }
+.titoletto a { color: var(--testo); }
+.titoletto small { color: var(--tenue); font-weight: 500; font-size: .85rem; margin-left: 6px; }

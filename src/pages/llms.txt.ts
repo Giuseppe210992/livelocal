@@ -1,20 +1,19 @@
 // llms.txt: spiega agli assistenti AI cosa c'è nel sito e dove sono i dati.
 // È una convenzione proposta (llmstxt.org), non uno standard ufficiale.
 import type { APIRoute } from 'astro';
-import { prossimi, localita } from '../lib/eventi';
+import { prossimi, localita, comuniConPagina } from '../lib/eventi';
 import { quandoEsteso } from '../lib/date';
-import { comuni, percorsoComune, percorsoFrazione } from '../lib/luoghi';
+import { regioni, provinceDi, comuni, percorsoRegione, percorsoProvincia, percorsoComune, nomeProvincia, inRegione } from '../lib/luoghi';
 import { SITO, urlAssoluto } from '../lib/sito';
 
 export const GET: APIRoute = () => {
-  const c = comuni[0];
   const righe = [
     `# ${SITO.nome}`,
     '',
     `> ${SITO.descrizione} Ogni evento ha una pagina propria con dati strutturati schema.org/Event. Gli eventi sono controllati prima della pubblicazione e ogni pagina indica la fonte.`,
     '',
-    'Lingua: italiano. Fuso orario: Europe/Rome. Zona coperta oggi: comune di Minturno (LT, Lazio) con le frazioni. Gli eventi passati restano online come archivio.',
-    'Calendar of public local events in Minturno (Latina, Lazio, Italy) and nearby. Content in Italian.',
+    `Lingua: italiano. Fuso orario: Europe/Rome. Zona coperta: ${regioni.map((r) => r.nome).join(' e ')} (Italia). Gli eventi passati restano online come archivio.`,
+    `Calendar of public local events in ${regioni.map((r) => r.nome).join(' and ')}, Italy. Content in Italian.`,
     '',
     '## Dati',
     '',
@@ -25,8 +24,14 @@ export const GET: APIRoute = () => {
     '',
     '## Luoghi',
     '',
-    `- [Eventi a ${c.nome}](${urlAssoluto(percorsoComune(c))})`,
-    ...c.frazioni.map((f) => `- [Eventi a ${f.nome} (${c.nome})](${urlAssoluto(percorsoFrazione(c, f))})`),
+    ...regioni.flatMap((r) => [
+      `- [Eventi ${inRegione(r)}](${urlAssoluto(percorsoRegione(r))})`,
+      ...provinceDi(r).map((p) => `  - [${nomeProvincia(p)}](${urlAssoluto(percorsoProvincia(p))})`),
+    ]),
+    '',
+    '## Comuni con eventi',
+    '',
+    ...comuniConPagina(comuni).map((c) => `- [Eventi a ${c.nome}](${urlAssoluto(percorsoComune(c))})`),
     '',
     '## Prossimi eventi',
     '',

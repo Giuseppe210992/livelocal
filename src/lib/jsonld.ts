@@ -2,6 +2,7 @@
 // Riferimento: https://developers.google.com/search/docs/appearance/structured-data/event
 
 import type { Evento } from './eventi';
+import { capEvento } from './eventi';
 import { isoConFuso } from './date';
 import { SITO, urlAssoluto } from './sito';
 
@@ -45,7 +46,7 @@ export function jsonLdEvento(e: Evento) {
         '@type': 'PostalAddress',
         streetAddress: via,
         addressLocality: e.comuneDati.nome,
-        postalCode: e.frazioneDati?.cap ?? e.comuneDati.cap,
+        ...(capEvento(e) ? { postalCode: capEvento(e) } : {}),
         addressRegion: e.provinciaDati.sigla,
         addressCountry: 'IT',
       },

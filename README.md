@@ -1,6 +1,6 @@
 # LiveLocal
 
-**Gli eventi vicino a te.** Calendario gratuito e pubblico degli eventi del territorio, leggibile da Google e dagli assistenti AI. Zona pilota: Minturno con le frazioni.
+**Gli eventi vicino a te.** Calendario gratuito e pubblico degli eventi del **Lazio e della Campania**, leggibile da Google e dagli assistenti AI. Online su https://giuseppe210992.github.io/livelocal/
 
 Un progetto promosso da [Room & Relax Scauri](https://roomandrelax.it).
 
@@ -12,7 +12,8 @@ Il sito è fatto di **pagine statiche**: l'HTML è già pronto, non serve JavaSc
 livelocal/
 ├── src/data/
 │   ├── eventi.json      ← GLI EVENTI (qui si aggiunge o si modifica un evento)
-│   ├── luoghi.json      ← regioni, province, comuni (codice ISTAT) e frazioni
+│   ├── territorio.json  ← regioni, province e 928 comuni (ISTAT): GENERATO, non modificarlo a mano
+│   ├── frazioni.json    ← frazioni, CAP e centri abitati scritti a mano (per ora: Minturno)
 │   └── categorie.json   ← elenco delle categorie
 ├── src/pages/           ← una cartella per ogni tipo di pagina
 │   ├── index.astro                        → /
@@ -24,8 +25,26 @@ livelocal/
 ├── src/components/      ← pezzi riusati (scheda evento, briciole di pane, Esplora = mappa)
 ├── src/scripts/esplora.ts ← l'unico JavaScript: mappa, scelta del giorno, posizione del telefono
 ├── src/styles/          ← grafica
-└── scripts/controlla.mjs ← controlli automatici dopo ogni costruzione
+├── scripts/controlla.mjs ← controlli automatici dopo ogni costruzione
+├── scripts/aggiorna-comuni.mjs ← rigenera territorio.json dai dati ISTAT
+└── docs/ricerca-eventi.md ← procedura della ricerca automatica (IA)
 ```
+
+## Zona coperta e pagine dei comuni
+
+- Regioni: **Lazio e Campania**, con tutte le province (10) e i comuni (928).
+- Ogni comune ha una pagina **solo quando ha almeno un evento** (anche passato): niente pagine vuote. Le pagine di regione e provincia ci sono sempre.
+- Coordinate dei comuni: baricentro del territorio comunale, dai confini ISTAT (Openpolis, CC BY 4.0). Per i comuni con frazioni descritte si usa il centro abitato.
+- Per aggiungere una regione: aggiungi il suo codice in `scripts/aggiorna-comuni.mjs` e lancia `node scripts/aggiorna-comuni.mjs`.
+
+## Ricerca automatica degli eventi (IA)
+
+Due volte al giorno un'attività programmata di Claude Code cerca nuovi eventi, seguendo `docs/ricerca-eventi.md`:
+
+- guarda prima le fonti ufficiali (Ministero della Cultura, Regioni, Comuni, Pro Loco, musei), alcune province per volta, a rotazione;
+- per ogni evento fa il controllo in 4 punti; riscrive la descrizione con parole proprie e indica la fonte;
+- gli eventi con fonte ufficiale vanno online da soli, gli altri restano "in revisione";
+- manda un'email al titolare solo se c'è qualcosa di nuovo. Per approvare si risponde all'email con `ok 1 3`, `ok tutti` o `no 2`.
 
 ## Mappa e "vicino a me"
 
@@ -50,7 +69,7 @@ Apri `src/data/eventi.json` e copia un evento esistente. I campi:
 | `categoria` | uno degli `slug` di `categorie.json` (es. `sagra`, `concerto`) |
 | `inizio`, `fine` | ora italiana: `2026-11-06T19:00`, oppure solo il giorno `2026-11-07`. `fine` può essere `null` |
 | `luogo`, `indirizzo` | nome del posto e via |
-| `comune` | codice ISTAT del comune (Minturno = `059014`) |
+| `comune` | codice ISTAT del comune (Minturno = `059014`): tutti i comuni di Lazio e Campania sono in `territorio.json` |
 | `frazione` | `slug` della frazione (es. `scauri`) oppure `null` per il capoluogo |
 | `lat`, `lon` | coordinate. Se sono quelle del centro paese, metti `coordinateApprossimate: true` |
 | `descrizione` | 2-5 righe **con parole proprie**, mai copiate da altri siti |
