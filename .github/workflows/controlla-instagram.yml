@@ -1,4 +1,4 @@
-# Controllo di Instagram otto volte al giorno (ogni 3 ore, al minuto 47), così i giri della ricerca automatica trovano sempre link freschi.
+# Controllo di Instagram ogni ora (al minuto 47), così i giri della ricerca automatica trovano sempre link freschi.
 # Meta tollera circa 200 chiamate all'ora: ogni lancio ne fa al massimo 190.
 # Legge i post nuovi degli account in ricerca/instagram-account.json con l'API ufficiale di Meta
 # e salva in ricerca/instagram-nuovi.json SOLO i link ai post che sembrano eventi (mai le didascalie).
@@ -9,7 +9,7 @@ name: Controlla Instagram
 
 on:
   schedule:
-    - cron: '47 */3 * * *'
+    - cron: '47 * * * *'
   workflow_dispatch:
 
 permissions:
