@@ -1,6 +1,6 @@
 # Ricerca automatica degli eventi (IA)
 
-Due volte al giorno (circa alle 2:37 e alle 14:37, ora italiana) un'attività programmata di Claude Code avvia una sessione che segue **questa procedura**. Chi la esegue lavora da solo: nessuno risponde durante il lavoro, quindi non fare domande.
+**Un giro ogni ora** (dal 3 novembre 2026, più i due storici delle 2:37 e 14:37 ora italiana): un'attività programmata di Claude Code avvia una sessione che segue **questa procedura**. Chi la esegue lavora da solo: nessuno risponde durante il lavoro, quindi non fare domande. I giri non si sovrappongono (se uno è ancora in corso, il successivo aspetta).
 
 L'indirizzo email del titolare (per riepiloghi e approvazioni) lo trovi nel testo dell'attività programmata. Non scriverlo nei file del repository, che è pubblico: fa eccezione `src/data/impostazioni.json`, dove Giuseppe l'ha scelto come contatto pubblico per l'informativa privacy.
 
@@ -35,7 +35,7 @@ Cerca nella posta le risposte del titolare (solo dal suo indirizzo) alle email c
 Il sito copre **tutta Italia** (7.896 comuni in `src/data/territorio.json`), ma in un giro non si può guardare tutto: la ricerca ruota. Ogni giro fa due cose.
 
 1. **Zona pilota, sempre**: Minturno, Scauri e i comuni vicini (Castelforte, Santi Cosma e Damiano, Spigno Saturnia, Formia, Gaeta, Itri, Fondi, Sessa Aurunca). Qui parti dagli organizzatori elencati in `docs/organizzatori-da-seguire.md`. Dedicale una parte limitata del giro, circa un quarto del tempo.
-2. **Un gruppo di regioni, a rotazione.** Calcola `n = (giorno dell'anno × 2 + (1 se è pomeriggio, altrimenti 0)) mod 10` e cerca nella riga corrispondente:
+2. **Un gruppo di regioni, a rotazione.** Calcola `n = (giorno dell'anno × 24 + ora di adesso, ora italiana) mod 10` e cerca nella riga corrispondente (con un giro ogni ora ogni gruppo torna ogni 10 ore):
 
 | n | Dove |
 |---|---|
@@ -50,9 +50,18 @@ Il sito copre **tutta Italia** (7.896 comuni in `src/data/territorio.json`), ma 
 | 8 | Emilia-Romagna, Veneto, Friuli-Venezia Giulia e Trentino-Alto Adige |
 | 9 | Piemonte, Valle d'Aosta e Lombardia |
 
-Ogni gruppo torna ogni 5 giorni. In ogni giro guarda anche i portali regionali e il Ministero della Cultura (`cultura.gov.it`, valido per tutta Italia) per le regioni del gruppo.
+In ogni giro guarda anche i portali regionali e il Ministero della Cultura (`cultura.gov.it`, valido per tutta Italia) per le regioni del gruppo.
 
 **Regioni nuove**: non c'è ancora un elenco di organizzatori. Parti dall'elenco regionale delle Pro Loco (vedi `docs/organizzatori-da-seguire.md`), dai siti dei Comuni più grandi (sezione eventi) e dal portale turistico ufficiale della Regione. Quando trovi un organizzatore che pubblica eventi veri, aggiungilo a `docs/organizzatori-da-seguire.md` (solo enti, mai persone) insieme alla modifica di `eventi.json`.
+
+### Giri orari: budget, credito e durata
+
+Con un giro ogni ora servono regole di misura, altrimenti si consuma tutto in poco tempo.
+
+1. **Credito TinyFish.** All'inizio di ogni giro chiama `get_wallet`. Se `available_balance` è sotto **2 dollari**: non fare ricerche né aperture di pagine; fai solo le approvazioni per email e scrivi a Giuseppe **una sola volta al giorno** «credito TinyFish quasi finito» (la ricarica la fa lui, mai tu). Se sei tra 2 e 5 dollari, dimezza il lavoro del giro.
+2. **Budget per giro**: al massimo **15 ricerche** (`search`) e **40 pagine aperte** (`fetch_content`, fino a 10 per chiamata). Quando finisci il budget, chiudi il giro: il prossimo parte tra un'ora. Meglio poco e sicuro che tanto e dubbio.
+3. **Durata**: punta a chiudere in meno di 40 minuti. Se non hai trovato niente di nuovo, non è un problema: fai build solo se hai cambiato qualcosa, e non mandare email.
+4. **Niente lavoro doppio**: prima di cercare una fonte guarda se un evento con quel titolo e quella data è già in `eventi.json`; se sì, aggiungi al massimo la fonte.
 
 ### Censimento nazionale (obiettivo di Giuseppe, 3 novembre 2026)
 
@@ -156,14 +165,19 @@ Al massimo **25 eventi nuovi per giro**, variando comuni e categorie. Preferisci
 
 ## 9. Email al titolare
 
-Manda un'email **solo se** c'è qualcosa di nuovo (eventi pubblicati, eventi da approvare, approvazioni applicate) oppure un problema che ha bloccato il giro.
+Con un giro ogni ora le email vanno **contenute**: Giuseppe non deve ricevere 24 messaggi al giorno.
+
+1. **Richiesta di approvazione**: manda l'email «eventi da approvare» solo se ci sono eventi `in-revisione` non ancora proposti **e** l'ultima email di quel tipo è di più di **6 ore** fa (controlla nella posta inviata). Altrimenti aspetta il giro dopo: gli eventi restano in revisione.
+2. **Riepilogo serale**: nel **primo giro dopo le 20:00 ora italiana** manda **una** email con i numeri della giornata: eventi pubblicati oggi, eventi da approvare ancora aperti, province con eventi in programma su 110 (da `docs/copertura.md`), account Instagram leggibili, link ancora in coda, credito TinyFish, giorni alla scadenza del token Meta.
+3. **Problemi**: manda subito un'email (al massimo una al giorno per tipo di problema) se il giro è bloccato, se il token Meta è scaduto o a meno di 14 giorni dalla scadenza, o se il credito TinyFish è sotto i 2 dollari.
+4. **Negli altri giri non mandare niente.**
 
 - Oggetto, se ci sono eventi da approvare: `LiveLocal – eventi da approvare (2 novembre, pomeriggio)`
-- Altrimenti: `LiveLocal – 12 nuovi eventi pubblicati (2 novembre, pomeriggio)`
+- Oggetto del riepilogo serale: `LiveLocal – riepilogo del 2 novembre: 12 nuovi eventi`
 - Testo semplice, leggibile dal telefono:
   1. **Pubblicati**: titolo, data, comune, link alla pagina sul sito (`https://livelocal.roomandrelax.it/evento/<anno>/<slug>/`)
   2. **Da approvare**, numerati: numero, titolo, data, comune, nome e link della fonte, `slug`
   3. Istruzioni: "Rispondi a questa email con: ok 1 3 · ok tutti · no 2"
-  4. **Approvazioni applicate** nel giro (se ci sono)
+  4. **Approvazioni applicate** (se ci sono)
 - Firma: `LiveLocal – ricerca automatica`
 - Nessun dato personale nell'email.
