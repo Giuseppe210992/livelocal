@@ -1,0 +1,54 @@
+---
+// Elenco degli eventi di un giorno (o del weekend), con i collegamenti alle altre due pagine.
+import Base from '../layouts/Base.astro';
+import SchedaEvento from './SchedaEvento.astro';
+import InvitoSegnala from './InvitoSegnala.astro';
+import { jsonLdBriciole } from '../lib/jsonld';
+import { SITO, href, urlAssoluto } from '../lib/sito';
+import { dataEstesa, eventiDei } from '../lib/giorni';
+
+interface Props {
+  giorni: string[];           // un giorno, oppure sabato e domenica
+  percorso: string;           // /oggi/, /domani/, /weekend/
+  nome: string;               // "Oggi", "Domani", "Questo weekend"
+}
+const { giorni, percorso, nome } = Astro.props;
+const lista = eventiDei(giorni);
+const quando = giorni.length === 1 ? dataEstesa(giorni[0]) : `${dataEstesa(giorni[0])} e ${dataEstesa(giorni[1])}`;
+const minuscolo = nome.toLowerCase();
+const gratuiti = lista.filter((e) => e.prezzo.tipo === 'gratuito').length;
+const elencoLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `Eventi ${minuscolo}: ${quando}`,
+  itemListElement: lista.map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: urlAssoluto(e.percorso), name: e.titolo })),
+};
+---
+<Base
+  titolo={`Eventi ${minuscolo} in Italia: ${quando} | ${SITO.nome}`}
+  descrizione={`${lista.length} eventi ${minuscolo} (${quando}) in tutta Italia, aggiornati ogni ora.`}
+  percorso={percorso}
+  jsonLd={[jsonLdBriciole([{ nome: `Eventi ${minuscolo}`, percorso }]), elencoLd]}
+>
+  <section class="apertura">
+    <h1>Eventi {minuscolo} in Italia</h1>
+    <p class="apertura__testo">
+      {quando}. {lista.length > 0
+        ? `${lista.length} eventi in programma${gratuiti > 0 ? `, ${gratuiti} gratuiti` : ''}. Per vederli vicino a te usa «Vicino a me».`
+        : 'Non abbiamo ancora eventi per questo giorno: il calendario si aggiorna ogni ora.'}
+    </p>
+    <div class="scorciatoie">
+      <a class="bottone bottone--secondario" href={href('/oggi/')}>Oggi</a>
+      <a class="bottone bottone--secondario" href={href('/domani/')}>Domani</a>
+      <a class="bottone bottone--secondario" href={href('/weekend/')}>Questo weekend</a>
+      <a class="bottone" href={href('/vicino-a-me/')}>Vicino a me</a>
+    </div>
+  </section>
+  <section aria-labelledby="titolo-giorno">
+    <h2 id="titolo-giorno">In programma {lista.length > 0 && <small>({lista.length})</small>}</h2>
+    {lista.length > 0
+      ? <ul class="elenco">{lista.map((e) => <SchedaEvento evento={e} />)}</ul>
+      : <p class="vuoto">Nessun evento per ora. Se ne organizzi uno, segnalalo qui sotto.</p>}
+  </section>
+  <InvitoSegnala luogo="in Italia" />
+</Base>

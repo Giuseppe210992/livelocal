@@ -1,0 +1,5 @@
+---
+import PaginaGiorno from '../../components/PaginaGiorno.astro';
+import { oggiData } from '../../lib/giorni';
+---
+<PaginaGiorno giorni={[oggiData()]} percorso="/oggi/" nome="Oggi" />

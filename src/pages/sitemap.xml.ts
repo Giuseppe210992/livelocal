@@ -11,6 +11,9 @@ const ultima = (lista: Evento[]) => lista.map((e) => e.inserito).sort().at(-1);
 export const GET: APIRoute = () => {
   const pagine: { percorso: string; lastmod?: string }[] = [
     { percorso: '/', lastmod: ultima(eventi) },
+    { percorso: '/oggi/' },
+    { percorso: '/domani/' },
+    { percorso: '/weekend/' },
     { percorso: '/mappa/', lastmod: ultima(eventi) },
     { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
     { percorso: '/segnala/' },

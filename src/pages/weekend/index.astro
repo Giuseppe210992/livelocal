@@ -1,0 +1,5 @@
+---
+import PaginaGiorno from '../../components/PaginaGiorno.astro';
+import { giorniWeekend } from '../../lib/giorni';
+---
+<PaginaGiorno giorni={giorniWeekend()} percorso="/weekend/" nome="Questo weekend" />
