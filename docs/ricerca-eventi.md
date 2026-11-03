@@ -94,6 +94,7 @@ Un'azione di GitHub (`.github/workflows/controlla-instagram.yml`, ogni giorno al
 
 - Il risultato è in **`ricerca/instagram-nuovi.json`**. Contiene solo link, account e data dei post che sembrano parlare di un evento. **Le didascalie non sono mai salvate**: apri tu il link.
 - A ogni giro: leggi `daVerificare`. Per ogni link aprilo con `fetch_content` (metodo qui sopra: punti 2-5), poi applica il controllo in 4 punti. Il profilo è dell'organizzatore (Pro Loco, Comune, associazione): fonte `organizzatore` → può andare `pubblicato`.
+- **Non più di 25 link per giro**, prima i più recenti e quelli dell'area del giro. Se l'elenco è più lungo, i link con più di 20 giorni di data si scartano senza aprirli (l'evento è quasi sempre già passato). Molti post non sono eventi (avvisi, comunicati, ringraziamenti): scartali subito.
 - Alla fine **togli dall'elenco `daVerificare` i link che hai trattato** (anche se scartati) e fai commit nello stesso push degli eventi. Non toccare gli altri campi.
 - Controlla `stato` e `tokenScade`: se `stato` è `token-scaduto`, oppure mancano meno di **14 giorni** a `tokenScade`, scrivilo **in cima all'email di riepilogo**: Giuseppe deve rinnovare il token (guida in `docs/collegamento-facebook-instagram.md`).
 - Gli account con `stato` `non-leggibile` non sono professionali: non si possono leggere con l'API. Per quelli resta il metodo con `search` e `fetch_content`.
