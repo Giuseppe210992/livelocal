@@ -54,6 +54,37 @@ Strumenti: ricerca web e TinyFish (`search`, `fetch_content`). WebFetch potrebbe
 4. **Giornali locali** (es. Telegolfo, Latina Oggi, Il Mattino, Ciociaria Oggi): fonte `stampa`.
 5. **Aggregatori di eventi** (siti che raccolgono eventi di altri): fonte `aggregatore`. Usali per scoprire eventi, poi cerca la fonte ufficiale.
 
+### Facebook e Instagram (solo post pubblici, senza accedere)
+
+Cosa si legge davvero (verificato il 3 novembre 2026 con `fetch_content`):
+
+- **Instagram**: i singoli post e reel (`instagram.com/p/…`, `/reel/…`) si leggono: testo, account, data. I profili mostrano solo la biografia, non l'elenco dei post.
+- **Facebook**: si leggono i link a un singolo post di una pagina (`facebook.com/<pagina>/posts/…`). Pagine, eventi (`/events/`), profili e quasi tutti i post nei gruppi chiedono l'accesso e non si leggono.
+
+Metodo:
+
+1. **Scopri**: `search` con `include_domains` `facebook.com,instagram.com` e il nome di un organizzatore o di un comune più il mese (per esempio «Pro Loco Riardo novembre 2026»). Parti dall'elenco qui sotto.
+2. **Apri sempre il post** con `fetch_content`. Le anteprime della ricerca sui social sono inaffidabili: un reel del 2025 è comparso come se fosse del 2026.
+3. **Controlla la data del post e l'anno scritto nel testo.** Se l'evento è dell'anno scorso, scartalo.
+4. **Classifica la fonte**: post dell'account dell'organizzatore (Pro Loco, Comune, associazione, teatro, museo) → `organizzatore`; account di giornali o TV locali → `stampa`; promotori e siti di biglietti → `aggregatore`. Gruppi Facebook e post di privati o attività commerciali **non sono una fonte**: servono solo a scoprire.
+5. **Locandina senza testo** (solo immagine): non basta. Cerca la stessa notizia in una fonte scritta, altrimenti scarta.
+
+Regole:
+
+- Mai accedere con un account o una password, mai aggirare la richiesta di accesso: si leggono solo pagine che si aprono liberamente.
+- Pochi link per giro. Non raccogliere commenti né nomi di privati.
+- Telefoni ed email che compaiono nei post non si copiano mai (la costruzione del sito si blocca se li trova).
+- Promozioni commerciali (atelier, negozi, palestre) non sono eventi per il sito.
+
+Account di organizzatori da cercare a ogni giro (sono enti e associazioni, non persone):
+
+- Pro Loco Riardo (Instagram `pro_loco_riardo`)
+- Inno al Novello e Pro Loco «Insieme per Mignano» (Instagram `innoalnovello`)
+- Luminarie di Gaeta – Favole di Luce (Facebook)
+- Teatro Bertolt Brecht di Formia (Facebook)
+- Comune di Formia (Facebook, pagina `cittadiformia`)
+- Pro Loco Minturno (Facebook e Instagram `prolocominturno`)
+
 Finestra: eventi che iniziano **da oggi a 45 giorni**. Vanno bene anche le mostre già aperte che finiscono dopo oggi.
 
 ## 5. Controllo in 4 punti (per ogni evento)

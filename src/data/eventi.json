@@ -1402,7 +1402,7 @@
     "lat": 41.2144334,
     "lon": 13.5710302,
     "coordinateApprossimate": false,
-    "descrizione": "Spettacolo in cui la danza incontra la musica e la voce, con la coreografia di Mwula Sungani. Alle 16 apre l'edizione 2026 di «Favole di Luce»: subito dopo si accendono le luminarie che trasformano Gaeta in un percorso di luci natalizie.",
+    "descrizione": "Spettacolo in cui la danza incontra la musica e la voce, con la coreografia di Mvula Sungani; gli organizzatori lo presentano anche con il titolo «Caieta: corpi di luce». Alle 16 apre l'edizione 2026 di «Favole di Luce»: lo spettacolo va da Piazza XIX Maggio a Piazza della Libertà e dà il via alle luminarie.",
     "prezzo": {
       "tipo": "non-indicato"
     },
@@ -1415,6 +1415,12 @@
         "nome": "VisitLazio – Regione Lazio",
         "tipo": "ufficiale",
         "url": "https://www.visitlazio.com/eventi-lazio/armonie-in-movimento-a-gaeta/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Luminarie di Gaeta – Favole di Luce (post Facebook)",
+        "tipo": "organizzatore",
+        "url": "https://www.facebook.com/LuminariediGaeta/posts/-ci-siamo-lattesa-sta-per-finire-mancano-pochissimi-giorni-allundicesima-edizion/1543998781108054/",
         "consultata": "2026-11-03"
       }
     ],
@@ -1435,7 +1441,7 @@
     "lat": 41.2144334,
     "lon": 13.5710302,
     "coordinateApprossimate": true,
-    "descrizione": "Undicesima edizione delle luminarie di Gaeta, dal 7 novembre 2026 al 10 gennaio 2027. L'apertura è sabato 7 novembre con lo spettacolo «Armonie in Movimento». La posizione sulla mappa indica il centro, non un luogo preciso.",
+    "descrizione": "Undicesima edizione delle luminarie di Gaeta, dal 7 novembre 2026 al 10 gennaio 2027, con 26 installazioni luminose in tutta la città. Si parte sabato 7 novembre alle 16 con lo spettacolo «Caieta: corpi di luce», da Piazza XIX Maggio a Piazza della Libertà. Ogni sabato e domenica, dalle 17, artisti di strada in Corso Cavour e, alle 18:30, lo spettacolo della Fontana di San Francesco con i fuochi. Nei fine settimana si ritirano ingressi omaggio per la Cappella d'Oro, fino a esaurimento. La posizione sulla mappa indica il centro, non un luogo preciso.",
     "prezzo": {
       "tipo": "non-indicato"
     },
@@ -1451,7 +1457,7 @@
         "consultata": "2026-11-03"
       },
       {
-        "nome": "Luminarie di Gaeta (pagina Facebook dell'iniziativa)",
+        "nome": "Luminarie di Gaeta – Favole di Luce (post Facebook)",
         "tipo": "organizzatore",
         "url": "https://www.facebook.com/LuminariediGaeta/posts/-ci-siamo-lattesa-sta-per-finire-mancano-pochissimi-giorni-allundicesima-edizion/1543998781108054/",
         "consultata": "2026-11-03"
@@ -1572,7 +1578,7 @@
     "lat": 41.26865,
     "lon": 14.1441,
     "coordinateApprossimate": true,
-    "descrizione": "Quarta edizione di GRAPE: un percorso tra vino, piatti del territorio e tradizione nel borgo medievale di Riardo. La Pro Loco annuncia novità per il 2026, ma il programma dettagliato non era ancora pubblicato.",
+    "descrizione": "Quarta edizione di GRAPE: un percorso tra vino, piatti del territorio e tradizione nel borgo medievale di Riardo, sabato 7 e domenica 8 novembre. Tra le cantine presenti c'è quest'anno Rossella Cicalese, che coltiva Aglianico nel Cilento. Il programma dettagliato non era ancora pubblicato.",
     "prezzo": {
       "tipo": "non-indicato"
     },
@@ -1585,6 +1591,12 @@
         "nome": "Itinerari nel Gusto",
         "tipo": "aggregatore",
         "url": "https://www.itinerarinelgusto.it/eventi/grape-a-riardo-8636",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Pro Loco Riardo (post Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfAFNHcoZXT/",
         "consultata": "2026-11-03"
       }
     ],
@@ -1618,6 +1630,12 @@
         "nome": "Lazio Eventi",
         "tipo": "aggregatore",
         "url": "https://lazioeventi.com/eventi/borgo-divino-formia",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Comune di Formia (post Facebook)",
+        "tipo": "ufficiale",
+        "url": "https://www.facebook.com/cittadiformia/posts/1436641491913398/",
         "consultata": "2026-11-03"
       }
     ],
@@ -1671,12 +1689,13 @@
     "lat": 41.2540275,
     "lon": 13.6017067,
     "coordinateApprossimate": false,
-    "descrizione": "Concerto degli Avion Travel dal titolo «Dedicato» al Piccolo Teatro Iqbal Masih di Formia. L'elenco consultato non riporta l'orario né i prezzi: conviene controllare sul sito del teatro.",
+    "descrizione": "Concerto degli Avion Travel dal titolo «Dedicato», primo appuntamento della stagione «Senza Sipario» al Piccolo Teatro Iqbal Masih di Formia. Ingresso 20 euro (ridotto under 35: 15 euro); l'abbonamento alla stagione costa 110 euro (85 per gli under 35). L'orario non è riportato nelle fonti lette.",
     "prezzo": {
-      "tipo": "non-indicato"
+      "tipo": "euro",
+      "importo": 20
     },
     "prenotazione": null,
-    "organizzatore": null,
+    "organizzatore": "Teatro Bertolt Brecht di Formia, con ATCL Lazio",
     "stato": "pubblicato",
     "inizioPrecedente": null,
     "fonti": [
@@ -1684,6 +1703,12 @@
         "nome": "Scopri Formia",
         "tipo": "aggregatore",
         "url": "https://scopriformia.it/en/guide/eventi-formia-2026-11",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Teatro Bertolt Brecht Formia (post Facebook)",
+        "tipo": "organizzatore",
+        "url": "https://www.facebook.com/teatro.bertoltbrecht/posts/%C3%A8-apertissima-la-campagna-abbonamenti-per-la-stagione-senza-sipario-si-inizia-il/1722095609916627/",
         "consultata": "2026-11-03"
       }
     ],
