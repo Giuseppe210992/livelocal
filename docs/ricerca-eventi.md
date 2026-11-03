@@ -32,24 +32,34 @@ Cerca nella posta le risposte del titolare (solo dal suo indirizzo) alle email c
 
 ## 3. Zona di questo giro
 
-Per non fare tutto in una volta, ogni giro guarda alcune province, a rotazione. Calcola `n = (giorno dell'anno × 2 + (1 se è pomeriggio, altrimenti 0)) mod 5`:
+Il sito copre **tutta Italia** (7.896 comuni in `src/data/territorio.json`), ma in un giro non si può guardare tutto: la ricerca ruota. Ogni giro fa due cose.
 
-| n | Province |
+1. **Zona pilota, sempre**: Minturno, Scauri e i comuni vicini (Castelforte, Santi Cosma e Damiano, Spigno Saturnia, Formia, Gaeta, Itri, Fondi, Sessa Aurunca). Qui parti dagli organizzatori elencati in `docs/organizzatori-da-seguire.md`. Dedicale una parte limitata del giro, circa un quarto del tempo.
+2. **Un gruppo di regioni, a rotazione.** Calcola `n = (giorno dell'anno × 2 + (1 se è pomeriggio, altrimenti 0)) mod 10` e cerca nella riga corrispondente:
+
+| n | Dove |
 |---|---|
-| 0 | Latina, Frosinone |
-| 1 | Roma |
-| 2 | Viterbo, Rieti |
-| 3 | Napoli, Caserta |
-| 4 | Salerno, Avellino, Benevento |
+| 0 | Province di Latina, Frosinone e Caserta |
+| 1 | Province di Napoli, Salerno, Benevento e Avellino |
+| 2 | Province di Roma, Viterbo e Rieti |
+| 3 | Abruzzo e Molise |
+| 4 | Puglia e Basilicata |
+| 5 | Calabria e Sicilia |
+| 6 | Sardegna, Umbria e Marche |
+| 7 | Toscana e Liguria |
+| 8 | Emilia-Romagna, Veneto, Friuli-Venezia Giulia e Trentino-Alto Adige |
+| 9 | Piemonte, Valle d'Aosta e Lombardia |
 
-In ogni giro guarda anche i portali regionali, per tutte le province.
+Ogni gruppo torna ogni 5 giorni. In ogni giro guarda anche i portali regionali e il Ministero della Cultura (`cultura.gov.it`, valido per tutta Italia) per le regioni del gruppo.
+
+**Regioni nuove**: non c'è ancora un elenco di organizzatori. Parti dall'elenco regionale delle Pro Loco (vedi `docs/organizzatori-da-seguire.md`), dai siti dei Comuni più grandi (sezione eventi) e dal portale turistico ufficiale della Regione. Quando trovi un organizzatore che pubblica eventi veri, aggiungilo a `docs/organizzatori-da-seguire.md` (solo enti, mai persone) insieme alla modifica di `eventi.json`.
 
 ## 4. Dove cercare (prima le fonti ufficiali)
 
 Strumenti: ricerca web e TinyFish (`search`, `fetch_content`). WebFetch potrebbe essere bloccato.
 
 1. **Ministero della Cultura**: `cultura.gov.it/evento/...`. Eventi di musei, parchi archeologici, biblioteche. Fonte `ufficiale`.
-2. **Portali turistici delle Regioni** (visitlazio.com per il Lazio, incampania.com per la Campania): fonte `ufficiale` solo se il sito è davvero della Regione. Controllalo nella pagina, a piè di pagina.
+2. **Portali turistici delle Regioni** (visitlazio.com per il Lazio, incampania.com per la Campania; per le altre regioni cerca il portale turistico ufficiale): fonte `ufficiale` solo se il sito è davvero della Regione. Controllalo nella pagina, a piè di pagina.
 3. **Siti dei Comuni**, Pro Loco, parrocchie e diocesi, musei, teatri, enti parco: fonte `ufficiale` se l'ente è chi organizza o gestisce il luogo. Fonte `organizzatore` se è il sito o la pagina ufficiale di chi organizza.
 4. **Giornali locali** (es. Telegolfo, Latina Oggi, Il Mattino, Ciociaria Oggi): fonte `stampa`.
 5. **Aggregatori di eventi** (siti che raccolgono eventi di altri): fonte `aggregatore`. Usali per scoprire eventi, poi cerca la fonte ufficiale.
@@ -76,21 +86,14 @@ Regole:
 - Telefoni ed email che compaiono nei post non si copiano mai (la costruzione del sito si blocca se li trova).
 - Promozioni commerciali (atelier, negozi, palestre) non sono eventi per il sito.
 
-Account di organizzatori da cercare a ogni giro (sono enti e associazioni, non persone):
-
-- Pro Loco Riardo (Instagram `pro_loco_riardo`)
-- Inno al Novello e Pro Loco «Insieme per Mignano» (Instagram `innoalnovello`)
-- Luminarie di Gaeta – Favole di Luce (Facebook)
-- Teatro Bertolt Brecht di Formia (Facebook)
-- Comune di Formia (Facebook, pagina `cittadiformia`)
-- Pro Loco Minturno (Facebook e Instagram `prolocominturno`)
+L'elenco degli organizzatori da cercare (Pro Loco, Comuni, associazioni, teatri, con i loro profili pubblici) è in `docs/organizzatori-da-seguire.md`.
 
 Finestra: eventi che iniziano **da oggi a 45 giorni**. Vanno bene anche le mostre già aperte che finiscono dopo oggi.
 
 ## 5. Controllo in 4 punti (per ogni evento)
 
 1. **Esiste**: la pagina letta riporta titolo, data e luogo.
-2. **Data e luogo tornano**: la data è nella finestra. Il comune è nel Lazio o in Campania: prendi il codice ISTAT da `src/data/territorio.json` cercando nome e provincia.
+2. **Data e luogo tornano**: la data è nella finestra. Il comune è in Italia: prendi il codice ISTAT da `src/data/territorio.json` cercando nome e provincia (attenzione agli omonimi: controlla la sigla della provincia).
 3. **Non è un doppione**: confronta con `eventi.json` (stesso comune, date che si sovrappongono, titolo simile). Se è un doppione e hai una fonte in più, aggiungila a `fonti`.
 4. **Si può pubblicare**: evento pubblico, in un luogo fisico, aperto a tutti. Niente feste private, promozioni commerciali o eventi solo online. Non deve contenere contatti personali.
 
@@ -127,7 +130,7 @@ Manda un'email **solo se** c'è qualcosa di nuovo (eventi pubblicati, eventi da 
 - Oggetto, se ci sono eventi da approvare: `LiveLocal – eventi da approvare (2 novembre, pomeriggio)`
 - Altrimenti: `LiveLocal – 12 nuovi eventi pubblicati (2 novembre, pomeriggio)`
 - Testo semplice, leggibile dal telefono:
-  1. **Pubblicati**: titolo, data, comune, link alla pagina sul sito (`https://giuseppe210992.github.io/livelocal/evento/<anno>/<slug>/`)
+  1. **Pubblicati**: titolo, data, comune, link alla pagina sul sito (`https://livelocal.roomandrelax.it/evento/<anno>/<slug>/`)
   2. **Da approvare**, numerati: numero, titolo, data, comune, nome e link della fonte, `slug`
   3. Istruzioni: "Rispondi a questa email con: ok 1 3 · ok tutti · no 2"
   4. **Approvazioni applicate** nel giro (se ci sono)
