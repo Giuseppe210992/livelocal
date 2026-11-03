@@ -34,6 +34,8 @@ const GIORNI_INDIETRO_PRIMA_VOLTA = 10;
 const GIORNI_LINK_VALIDI = 25; // i link in attesa più vecchi si eliminano
 const GIORNI_PRIMA_DI_RIPROVARE_NON_LEGGIBILI = 30;
 const POST_PER_ACCOUNT = 25;
+const LOCANDINE_PER_ACCOUNT = 3; // al massimo tre post «solo locandina» per account a ogni lancio
+const DIDASCALIA_CORTA = 140; // sotto questa lunghezza un post con immagine è probabilmente una locandina
 const MAX_CANDIDATI_IN_ATTESA = 3000;
 
 const MESI = 'gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre';
@@ -79,24 +81,52 @@ const dormi = (ms) => new Promise((r) => setTimeout(r, ms));
 let chiamate = 0;
 let tokenScaduto = false;
 let limiteRaggiunto = false;
-const novita = { link: 0, controllati: 0, candidatiNuovi: 0, accettati: 0, scartatiOra: 0, citazioni: 0, post: 0, conDidascalia: 0 };
+const novita = { link: 0, controllati: 0, candidatiNuovi: 0, accettati: 0, scartatiOra: 0, citazioni: 0, post: 0, conDidascalia: 0, locandine: 0 };
 
 const normalizza = (n) => n.toLowerCase().replace(/\.+$/, '');
 
+let campiEstesi = true; // se Meta non li accetta, si passa ai campi base per tutto il lancio
+
 /** Una chiamata a Business Discovery. Restituisce {dati} oppure {errore: codice}. */
 async function leggi(nome, conInfo) {
-  chiamate++;
   const info = conInfo ? 'name,biography,' : '';
-  const campi = `business_discovery.username(${nome}){username,${info}media.limit(${POST_PER_ACCOUNT}){caption,timestamp,permalink}}`;
-  const url = `${BASE}/${elenco.mioId}?fields=${encodeURIComponent(campi)}&access_token=${encodeURIComponent(TOKEN)}`;
-  let r;
-  try {
-    r = await (await fetch(url)).json();
-  } catch {
-    return { errore: 'rete' };
+  const base = 'caption,timestamp,permalink';
+  const estesi = `${base},media_type,media_url,children{media_url,media_type}`;
+  let provatoEstesi = false;
+  for (const usaEstesi of campiEstesi ? [true, false] : [false]) {
+    chiamate++;
+    const campi = `business_discovery.username(${nome}){username,${info}media.limit(${POST_PER_ACCOUNT}){${usaEstesi ? estesi : base}}}`;
+    const url = `${BASE}/${elenco.mioId}?fields=${encodeURIComponent(campi)}&access_token=${encodeURIComponent(TOKEN)}`;
+    let r;
+    try {
+      r = await (await fetch(url)).json();
+    } catch {
+      return { errore: 'rete' };
+    }
+    if (!r.error) {
+      if (!usaEstesi && campiEstesi && provatoEstesi) {
+        campiEstesi = false; // con i campi estesi dava errore e con quelli base no: Meta non li accetta
+        console.log('Meta non accetta i campi con gli indirizzi delle immagini: per questo lancio uso solo quelli base.');
+      }
+      return { dati: r.business_discovery ?? {} };
+    }
+    // Errore 100 con i campi estesi: forse Meta non li accetta, oppure l'account non esiste. Riprova subito con i campi base.
+    if (r.error.code === 100 && usaEstesi) {
+      provatoEstesi = true;
+      continue;
+    }
+    return { errore: r.error.code }; // Non stampiamo mai l'indirizzo: contiene il token.
   }
-  if (r.error) return { errore: r.error.code }; // Non stampiamo mai l'indirizzo: contiene il token.
-  return { dati: r.business_discovery ?? {} };
+  return { errore: 100 };
+}
+
+/** Indirizzi delle immagini di un post (al massimo tre pagine di un album). Solo link, mai le immagini. */
+function immaginiDi(p) {
+  if (p.media_type === 'IMAGE' && p.media_url) return [p.media_url];
+  if (p.media_type === 'CAROUSEL_ALBUM') {
+    return (p.children?.data ?? []).filter((c) => c.media_type === 'IMAGE' && c.media_url).slice(0, 3).map((c) => c.media_url);
+  }
+  return [];
 }
 
 /** Controlla i post di un account e aggiunge i link che sembrano eventi. Raccoglie anche i nomi citati. */
@@ -106,11 +136,31 @@ function elaboraPost(nome, post) {
     .filter((p) => p.timestamp && p.timestamp > precedente)
     .sort((a, b) => (a.timestamp < b.timestamp ? -1 : 1));
   let aggiunti = 0;
+  let locandine = 0;
   for (const p of nuovi) {
     const testo = p.caption || '';
-    if (SEMBRA_EVENTO.test(testo) && !uscita.daVerificare.some((x) => x.link === p.permalink)) {
-      uscita.daVerificare.push({ account: nome, link: p.permalink, data: p.timestamp.slice(0, 10) });
-      aggiunti++;
+    if (uscita.daVerificare.some((x) => x.link === p.permalink)) continue;
+    const immagini = immaginiDi(p);
+    const sembraEvento = SEMBRA_EVENTO.test(testo);
+    // Post con poca didascalia e un'immagine: di solito è la locandina, e data e luogo stanno nell'immagine.
+    const soloLocandina = !sembraEvento && immagini.length > 0 && testo.length < DIDASCALIA_CORTA && locandine < LOCANDINE_PER_ACCOUNT;
+    if (!sembraEvento && !soloLocandina) continue;
+    const voce = { account: nome, link: p.permalink, data: p.timestamp.slice(0, 10) };
+    if (immagini.length) voce.immagini = immagini;
+    if (soloLocandina) {
+      voce.locandina = true;
+      locandine++;
+      novita.locandine++;
+    }
+    uscita.daVerificare.push(voce);
+    aggiunti++;
+  }
+  // Riempimento: per i link già in coda senza immagine (messi in coda prima di questa funzione), se il post è tra quelli letti, aggiungi l'immagine.
+  for (const p of post) {
+    const voce = uscita.daVerificare.find((x) => x.link === p.permalink && !x.immagini);
+    if (voce) {
+      const immagini = immaginiDi(p);
+      if (immagini.length) voce.immagini = immagini;
     }
   }
   // Nomi citati (@nome) in TUTTI i post letti: sono i candidati da valutare.
@@ -229,7 +279,8 @@ console.log(
   `Fatto (${chiamate} chiamate): ${novita.controllati} account controllati, ${novita.link} link nuovi, ` +
     `${novita.candidatiNuovi} candidati nuovi, ${novita.accettati} accettati, ${novita.scartatiOra} scartati.`,
 );
-console.log(`Post letti: ${novita.post}, con didascalia: ${novita.conDidascalia}, citazioni (@nome) trovate: ${novita.citazioni}.`);
+console.log(`Post letti: ${novita.post}, con didascalia: ${novita.conDidascalia}, citazioni (@nome) trovate: ${novita.citazioni}, locandine segnalate: ${novita.locandine}.`);
+console.log(`Indirizzi delle immagini in coda: ${uscita.daVerificare.filter((x) => x.immagini).length} su ${uscita.daVerificare.length}.`);
 console.log(`In totale: ${leggibili} account leggibili, ${uscita.numeri.candidatiInAttesa} candidati in attesa, ${uscita.daVerificare.length} link in attesa.`);
 if (tokenScaduto) {
   console.error('Il token Meta è scaduto: va rinnovato (vedi docs/collegamento-facebook-instagram.md).');
