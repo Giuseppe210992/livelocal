@@ -58,7 +58,7 @@ const dati = JSON.stringify({ eventi: datiEventi }).replace(/</g, '\\u003c');
     </div>
     <div class="raggi" id="raggi" role="group" aria-label="Distanza massima" hidden>
       <span>Entro</span>
-      {[10, 25, 50].map((km) => <button type="button" class="chip" data-raggio={km} aria-pressed={km === 25 ? 'true' : 'false'}>{km} km</button>)}
+      {[10, 25, 50, 100].map((km) => <button type="button" class="chip" data-raggio={km} aria-pressed={km === 25 ? 'true' : 'false'}>{km} km</button>)}
     </div>
     <p class="stato-posizione" id="stato-posizione" aria-live="polite"></p>
     <p class="privacy-posizione">La tua posizione resta sul telefono: non la salviamo e non la inviamo a nessuno.</p>

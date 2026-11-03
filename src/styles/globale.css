@@ -201,7 +201,9 @@ a.pastiglia:hover { border-color: var(--mare); }
 .dove .bottone { font: inherit; font-weight: 700; cursor: pointer; }
 .dove .bottone:disabled { opacity: .6; cursor: wait; }
 .centro { display: inline-flex; align-items: center; gap: 8px; font-size: .9rem; color: var(--tenue); }
-.raggi { display: flex; align-items: center; gap: 8px; margin-top: 12px; font-size: .9rem; color: var(--tenue); }
+.raggi { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-top: 12px; font-size: .9rem; color: var(--tenue); }
+.raggi > span { grid-column: 1 / -1; }
+.raggi .chip { padding-inline: 4px; text-align: center; }
 .raggi[hidden] { display: none; }
 .stato-posizione { margin: 10px 0 0; font-size: .92rem; }
 .stato-posizione:empty { display: none; }

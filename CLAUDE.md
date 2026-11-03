@@ -71,7 +71,7 @@ URL in minuscolo, senza accenti, con trattini. **Una volta pubblicati non cambia
 - `/evento/2026/<titolo>-<comune>/` — **pagina evento**: una per evento, URL unico e stabile, è la pagina che Google e le IA indicizzano. Lo slug deve essere unico: aggiungi comune e, se serve, la data.
 
 **Trova**
-- `/vicino-a-me/?r=25` — raggio 10, 25 o 50 km. Usa la posizione del telefono con consenso; senza GPS si sceglie un comune come centro.
+- `/vicino-a-me/?r=25` — raggio 10, 25, 50 o 100 km. Usa la posizione del telefono con consenso; senza GPS si sceglie un comune come centro.
 - `/oggi/`, `/weekend/` — anche per comune, es. "Oggi a Minturno", "Questo weekend in provincia di Latina"
 - `/categoria/<categoria>/`
 - `/mappa/` — eventi filtrati come puntine

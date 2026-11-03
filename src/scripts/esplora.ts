@@ -1,7 +1,7 @@
 // Mappa interattiva degli eventi (gira nel browser).
 // - scelta del giorno: tutti, weekend, i prossimi 14 giorni o una data qualsiasi
 // - posizione del telefono (solo se l'utente acconsente) oppure un luogo scelto dall'elenco
-// - raggio 10, 25 o 50 km
+// - raggio 10, 25, 50 o 100 km
 // La posizione non lascia mai il telefono: le distanze si calcolano qui.
 // Mappa: Leaflet + OpenStreetMap (nessuna chiave a pagamento).
 
@@ -35,7 +35,7 @@ type Giorno = 'tutti' | 'weekend' | string; // oppure AAAA-MM-GG
 interface Partenza { lat: number; lon: number; nome: string; daGps: boolean; slug?: string; precisione?: number }
 
 const GIORNI_VISIBILI = 14;
-const RAGGI = [10, 25, 50];
+const RAGGI = [10, 25, 50, 100];
 
 // ---------- date (fuso italiano) ----------
 const oggiRoma = () =>

@@ -52,7 +52,7 @@ Due volte al giorno un'attività programmata di Claude Code cerca nuovi eventi, 
 
 ## Mappa e "vicino a me"
 
-- `/mappa/` e `/vicino-a-me/` usano lo stesso strumento: si sceglie il giorno (tutti, weekend, i prossimi 14 giorni o una data qualsiasi) e, se si vuole, la propria posizione con raggio 10, 25 o 50 km.
+- `/mappa/` e `/vicino-a-me/` usano lo stesso strumento: si sceglie il giorno (tutti, weekend, i prossimi 14 giorni o una data qualsiasi) e, se si vuole, la propria posizione con raggio 10, 25, 50 o 100 km.
 - La **posizione del telefono** si chiede solo quando si tocca "Usa la mia posizione". Le distanze si calcolano nel telefono: la posizione non viene salvata né inviata, e non finisce nell'indirizzo della pagina. Se il permesso è negato, la pagina spiega come riattivarlo e si può scegliere un paese di partenza.
 - La mappa è **Leaflet + OpenStreetMap**, senza chiavi a pagamento. Le tessere della mappa arrivano dai server di OpenStreetMap: va scritto nella privacy policy.
 - Senza JavaScript la pagina mostra comunque l'elenco dei prossimi eventi.
