@@ -927,6 +927,12 @@
         "tipo": "ufficiale",
         "url": "https://cultura.gov.it/evento/4-novembre-al-mann-2026",
         "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Museo Archeologico Nazionale di Napoli (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPxVaYMu7M/",
+        "consultata": "2026-11-03"
       }
     ],
     "inserito": "2026-11-03",
@@ -1603,6 +1609,12 @@
         "nome": "Pro Loco Riardo (post Instagram)",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/DfAFNHcoZXT/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Pro Loco Riardo (post Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfAFfDAo0BS/",
         "consultata": "2026-11-03"
       }
     ],
@@ -3478,6 +3490,12 @@
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfOntuhjk19/",
         "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Comune di Perugia (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfDJRMrINx4/",
+        "consultata": "2026-11-03"
       }
     ],
     "inserito": "2026-11-03",
@@ -3521,26 +3539,32 @@
     "titolo": "60° anniversario dell'alluvione del 1966: spettacolo di Luca Bassanese",
     "categoria": "teatro",
     "inizio": "2026-11-05T20:45",
-    "luogo": "Centro parrocchiale di Tombelle",
-    "indirizzo": "Tombelle",
+    "luogo": "Centro parrocchiale di Tombelle, Sala Don Lorenzo",
+    "indirizzo": "Tombelle, Vigonovo",
     "comune": "027043",
     "frazione": null,
     "lat": 45.38989,
     "lon": 12.01038,
     "coordinateApprossimate": true,
-    "descrizione": "Serata per ricordare l'alluvione del 1966: uno spettacolo in dialetto veneto di Luca Bassanese, tra musica e racconto del territorio, con foto e testimonianze di Vigonovo dell'epoca.",
+    "descrizione": "Spettacolo di teatro canzone che unisce musica, parole e immagini, nell'ambito della rassegna Brenta Spettacolo e per il 60° anniversario dell'alluvione del 1966. Prima dello spettacolo si proiettano video con testimonianze e immagini dell'alluvione di Vigonovo. Ingresso gratuito fino a esaurimento dei posti.",
     "prezzo": {
-      "tipo": "non-indicato"
+      "tipo": "gratuito"
     },
     "prenotazione": null,
     "organizzatore": "Comune di Vigonovo",
-    "stato": "in-revisione",
+    "stato": "pubblicato",
     "inizioPrecedente": null,
     "fonti": [
       {
         "nome": "Comune di Vigonovo (Instagram)",
         "tipo": "stampa",
         "url": "https://www.instagram.com/reel/DfSQxbzgHNQ/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Comune di Vigonovo (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfKbevsDpqB/",
         "consultata": "2026-11-03"
       }
     ],
@@ -8440,6 +8464,678 @@
       }
     ],
     "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-unita-nazionale-forze-armate-vigonovo",
+    "titolo": "4 Novembre a Vigonovo: Giornata dell'Unità Nazionale e delle Forze Armate",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-04T09:00",
+    "fine": null,
+    "luogo": "Parco del Donatore",
+    "indirizzo": "Vigonovo",
+    "cap": null,
+    "comune": "027043",
+    "frazione": null,
+    "lat": 45.38989,
+    "lon": 12.01038,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia pubblica per la Giornata dell'Unità Nazionale. Il ritrovo è alle 9 al Parco del Donatore, poi il corteo tocca il Parco Terruzzin, il Parco della Rimembranza e la Casa della Dottrina Cristiana, con la deposizione di corone di alloro ai monumenti ai caduti. La cittadinanza è invitata a partecipare.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Vigonovo",
+    "fonti": [
+      {
+        "nome": "Comune di Vigonovo (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfFHaRmCaZa/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-gioia-nel-passo-russi",
+    "titolo": "La gioia nel passo - Una conquista di libertà e uguaglianza",
+    "categoria": "teatro",
+    "inizio": "2026-11-05T20:45",
+    "fine": null,
+    "luogo": "Teatro comunale di Russi",
+    "indirizzo": "Russi",
+    "cap": null,
+    "comune": "039016",
+    "frazione": null,
+    "lat": 44.37262,
+    "lon": 12.04751,
+    "coordinateApprossimate": true,
+    "descrizione": "Un racconto in musica sul cammino che ha portato le donne al voto, con testo e regia di Elena Bucci e musica dal vivo. Lo spettacolo è della compagnia Le belle bandiere e ha il sostegno del Comune di Russi. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Le belle bandiere con il Comune di Russi",
+    "fonti": [
+      {
+        "nome": "comune_di_russi (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfAJoNKFKHK/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-d-autunno-russi",
+    "titolo": "Festa d'autunno (39ª edizione)",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Piazza Gramsci",
+    "indirizzo": "Piazza Gramsci, Russi",
+    "cap": null,
+    "comune": "039016",
+    "frazione": null,
+    "lat": 44.37262,
+    "lon": 12.04751,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giorni di festa d'autunno in Piazza Gramsci. Sabato incontro pubblico sull'agricoltura sociale e cena di solidarietà (su prenotazione). Domenica banchi delle associazioni con la nuova piccola fiera agricola del biologico e del sociale, vendita di marroni, castagnaccio e prodotti tipici, concerto di una band e camminata ludico motoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Russi e associazioni di volontariato",
+    "fonti": [
+      {
+        "nome": "comune_di_russi (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfC6zLKAMdC/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "infanzia-e-digitale-russi",
+    "titolo": "Infanzia e digitale - conversazione per le famiglie",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T18:00",
+    "fine": null,
+    "luogo": "Biblioteca comunale di Russi",
+    "indirizzo": "Via Godo Vecchia 10, Russi",
+    "cap": null,
+    "comune": "039016",
+    "frazione": null,
+    "lat": 44.37262,
+    "lon": 12.04751,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con un pediatra che dà indicazioni pratiche alle famiglie sull'uso del digitale da parte dei più piccoli. Aperto a tutta la cittadinanza. Fa parte della Settimana dei diritti dell'infanzia e dell'adolescenza del Comune di Russi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Russi",
+    "fonti": [
+      {
+        "nome": "comune_di_russi (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfHcJXYDJte/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "fine": null,
+    "cap": null,
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "slug": "giornata-unita-nazionale-forze-armate-perugia",
+    "titolo": "Giornata delle Forze armate e festa dell'Unità nazionale a Perugia",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-04T11:00",
+    "luogo": "Ara Pacis (giardino di via Masi)",
+    "indirizzo": "Giardino di via Masi, Perugia",
+    "comune": "054039",
+    "descrizione": "Cerimonia pubblica del 4 novembre davanti al Monumento ai Caduti: alzabandiera e deposizione di una corona d'alloro da parte delle autorità civili e militari, con il Comune e la Prefettura di Perugia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Perugia e Prefettura di Perugia",
+    "fonti": [
+      {
+        "nome": "comuneperugiaofficial (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfE3XSZIDav/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "comuneperugiaofficial (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfOtOIHmDnT/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "fine": null,
+    "cap": null,
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "slug": "all-the-saints-concerto-perugia",
+    "titolo": "All the Saints, seconda edizione: concerto per Costanzo, Ercolano e Lorenzo",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T21:00",
+    "luogo": "Chiesa di Sant'Ercolano",
+    "indirizzo": "Chiesa di Sant'Ercolano, Perugia",
+    "comune": "054039",
+    "descrizione": "Concerto dell'Orchestra da Camera di Perugia dedicato ai santi patroni della città. In programma un nuovo concerto per violino scritto per Perugia, alla prima esecuzione, e la Sinfonia n. 45 «degli addii» di Haydn. Ingresso libero con prenotazione entro giovedì 6 novembre, fino a esaurimento posti, alla Fondazione Perugia Musica Classica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Perugia, con Orchestra da Camera di Perugia e Fondazione Perugia Musica Classica",
+    "fonti": [
+      {
+        "nome": "comuneperugiaofficial (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPKg2iFHTW/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "fine": "2026-11-08",
+    "cap": null,
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "slug": "mostra-annuale-accademia-d-arte-lazzaretto-cagliari",
+    "titolo": "Mostra annuale degli studenti dell'Accademia d'Arte di Cagliari",
+    "categoria": "mostra",
+    "inizio": "2026-10-24",
+    "luogo": "Lazzaretto di Cagliari",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "descrizione": "Gli allievi dell'Accademia d'Arte di Cagliari espongono le opere nate dopo mesi di studio e sperimentazione. La mostra fa parte del programma «Novembre al Lazzaretto».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Accademia d'Arte di Cagliari",
+    "fonti": [
+      {
+        "nome": "lazzarettocagliari (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfKDaKKlGoB/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "lazzarettocagliari (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfO_Q4tjyu_/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "fine": "2026-12-06",
+    "cap": null,
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "slug": "mostra-degli-insegnanti-lazzaretto-cagliari",
+    "titolo": "Mostra degli insegnanti dell'Accademia d'Arte di Cagliari",
+    "categoria": "mostra",
+    "inizio": "2026-11-14",
+    "luogo": "Lazzaretto di Cagliari",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "descrizione": "Dopo la mostra degli studenti, tocca ai docenti: ogni artista presenta il proprio stile e la propria ricerca. Fa parte del programma «Novembre al Lazzaretto».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Accademia d'Arte di Cagliari",
+    "fonti": [
+      {
+        "nome": "lazzarettocagliari (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfO_Q4tjyu_/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "edufestival-incontro-teatro-palladium-roma",
+    "titolo": "Edufestival: incontro sull'educazione da 0 a 6 anni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T16:00",
+    "fine": null,
+    "luogo": "Teatro Palladium",
+    "indirizzo": "Piazza Bartolomeo Romano 8, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento dell'Edufestival di Roma, dedicato all'educazione dei bambini da 0 a 6 anni. Venerdì 6 novembre alle 16 al Teatro Palladium c'è l'incontro con Daniela Lucangeli. Il festival prosegue fino all'8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfHUXNRF2Km/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "diego-rivera-musei-capitolini-roma",
+    "titolo": "Diego Rivera e la costruzione dell'arte moderna in Messico nel XX secolo",
+    "categoria": "mostra",
+    "inizio": "2026-06-09",
+    "fine": "2026-12-13",
+    "luogo": "Musei Capitolini - Villa Caffarelli",
+    "indirizzo": "Piazza del Campidoglio, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata al pittore messicano Diego Rivera e al ruolo dell'arte moderna in Messico nel Novecento. Si visita ai Musei Capitolini, a Villa Caffarelli, fino al 13 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei in Comune Roma",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRubV0l1ab/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "e-intelligente-ma-non-studia-roma",
+    "titolo": "«È intelligente... ma non studia!» all'Auditorium Albergotti",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Marco Falaguasta in scena sabato 7 novembre alle 21 all'Auditorium Albergotti, a Roma. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-viaggio-nel-cuore-della-citta-roma",
+    "titolo": "«Un viaggio nel cuore della città»: incontro all'Auditorium Albergotti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T17:30",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico domenica 15 novembre alle 17:30 all'Auditorium Albergotti: Domenico Iannacone dialoga con Irma Ciaramella su «Un viaggio nel cuore della città». Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "omaggio-a-ennio-morricone-roma",
+    "titolo": "Omaggio a Ennio Morricone all'Auditorium Albergotti",
+    "categoria": "concerto",
+    "inizio": "2026-11-17T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica per il cinema in omaggio a Ennio Morricone, con il Quartetto Pessoa e Tommaso Quaranta, martedì 17 novembre alle 21. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "note-di-cinema-roma",
+    "titolo": "«Note di cinema»: le più belle canzoni del grande schermo",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata musicale con le più belle canzoni del grande schermo, interpretate da Stefano Reali. Sabato 12 dicembre alle 21 all'Auditorium Albergotti. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-anno-che-verra-roma",
+    "titolo": "«L'anno che verrà»: canzoni di Lucio Dalla all'Auditorium Albergotti",
+    "categoria": "concerto",
+    "inizio": "2026-12-17T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato alle canzoni di Lucio Dalla con Servillo, Girotto e Mangalavite. Giovedì 17 dicembre alle 21 all'Auditorium Albergotti. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incanto-di-natale-melodie-dal-cinema-roma",
+    "titolo": "«Incanto di Natale: melodie dal cinema» all'Auditorium Albergotti",
+    "categoria": "concerto",
+    "inizio": "2026-12-19T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto natalizio con le melodie dei film: un viaggio tra favole e magia con le voci della Scuola Ermavilo. Sabato 19 dicembre alle 21 all'Auditorium Albergotti. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cello-and-piano-tales-roma",
+    "titolo": "«Cello and piano tales» all'Auditorium Albergotti",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T21:00",
+    "fine": null,
+    "luogo": "Auditorium Albergotti",
+    "indirizzo": "Via Francesco Albergotti, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per violoncello e pianoforte con Luca Pincini e Gilda Buttà. Domenica 20 dicembre alle 21 all'Auditorium Albergotti. Ingresso gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale - Auditorium Albergotti",
+    "fonti": [
+      {
+        "nome": "roma (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSDjDAFyqX/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-del-bartolaccio-tredozio",
+    "titolo": "40ª Sagra del Bartolaccio a Tredozio",
+    "categoria": "sagra",
+    "inizio": "2026-11-08T11:00",
+    "fine": null,
+    "luogo": "Campo sportivo",
+    "indirizzo": "Campo sportivo, Tredozio",
+    "cap": null,
+    "comune": "040049",
+    "frazione": null,
+    "lat": 44.06235,
+    "lon": 11.75079,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarantesima edizione della sagra dedicata al bartolaccio. Il 1° e l'8 novembre, dalle 11, stand gastronomici con polenta al ragù, salmì di cinghiale, dolci di castagne, caldarroste e vin brulé, più mercato, artigianato e artisti di strada. Ingresso libero, anche con il maltempo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Vis in Fide di Tredozio",
+    "fonti": [
+      {
+        "nome": "prolocoemiliaromagna (post Instagram)",
+        "tipo": "aggregatore",
+        "url": "https://www.instagram.com/p/De8zf3HjGZa/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cioccolandia-castel-san-giovanni",
+    "titolo": "Cioccolandia a Castel San Giovanni",
+    "categoria": "sagra",
+    "inizio": "2026-11-07T09:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Castel San Giovanni",
+    "indirizzo": "Castel San Giovanni",
+    "cap": null,
+    "comune": "033013",
+    "frazione": null,
+    "lat": 45.05816,
+    "lon": 9.4276,
+    "coordinateApprossimate": true,
+    "descrizione": "Ventiduesima edizione della sagra del cioccolato, sabato 7 e domenica 8 novembre dalle 9 alle 19. Domenica alle 16:30 incontro con un ospite speciale. Il luogo preciso non è indicato nel manifesto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "prolocoemiliaromagna (post Instagram)",
+        "tipo": "aggregatore",
+        "url": "https://www.instagram.com/p/DfCSKOcAO3u/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "fine": null,
+    "cap": null,
+    "frazione": null,
+    "lat": 40.44425,
+    "lon": 15.02733,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "slug": "ingresso-gratuito-parco-archeologico-paestum-capaccio-paestum-4-novembre",
+    "titolo": "Ingresso gratuito al Parco archeologico di Paestum e Velia",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04",
+    "luogo": "Parco archeologico di Paestum e Velia",
+    "indirizzo": "Paestum, Capaccio Paestum",
+    "comune": "065025",
+    "descrizione": "Per la Giornata dell'Unità Nazionale e delle Forze Armate l'ingresso al parco archeologico è gratuito. Orari non indicati sulla locandina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Parco archeologico di Paestum e Velia",
+    "fonti": [
+      {
+        "nome": "parcoarcheologicopaestum (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPdrgAlDZ3/",
+        "consultata": "2026-11-03"
+      }
+    ],
     "inizioPrecedente": null,
     "inserito": "2026-11-03",
     "inseritoDa": "ia"

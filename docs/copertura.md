@@ -2,31 +2,31 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**219 eventi pubblicati, 217 in programma.** Province con almeno un evento in programma: **69 su 110**.
+**238 eventi pubblicati, 236 in programma.** Province con almeno un evento in programma: **70 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Campania | 38 | 38 | 5 / 5 |
-| Lazio | 38 | 36 | 2 / 5 |
+| Lazio | 47 | 45 | 3 / 5 |
+| Campania | 39 | 39 | 5 / 5 |
 | Piemonte | 25 | 25 | 6 / 8 |
-| Emilia-Romagna | 21 | 21 | 7 / 9 |
+| Emilia-Romagna | 24 | 24 | 7 / 9 |
 | Liguria | 15 | 15 | 4 / 4 |
+| Veneto | 10 | 10 | 6 / 7 |
 | Puglia | 10 | 10 | 5 / 6 |
-| Veneto | 8 | 8 | 6 / 7 |
 | Abruzzo | 8 | 8 | 4 / 4 |
 | Calabria | 8 | 8 | 4 / 5 |
+| Sardegna | 8 | 8 | 3 / 8 |
 | Lombardia | 7 | 7 | 6 / 12 |
 | Basilicata | 7 | 7 | 1 / 2 |
-| Sardegna | 6 | 6 | 3 / 8 |
 | Valle d'Aosta | 5 | 5 | 1 / 1 |
 | Marche | 5 | 5 | 4 / 5 |
 | Trentino-Alto Adige | 4 | 4 | 2 / 2 |
 | Friuli-Venezia Giulia | 4 | 4 | 2 / 4 |
+| Umbria | 4 | 4 | 1 / 2 |
 | Sicilia | 4 | 4 | 3 / 9 |
 | Toscana | 2 | 2 | 2 / 10 |
-| Umbria | 2 | 2 | 1 / 2 |
 | Molise | 2 | 2 | 1 / 2 |
 
 ## Province senza eventi in programma (da cercare per prime)
@@ -56,7 +56,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Ascoli Piceno (AP), Marche
 - Viterbo (VT), Lazio
 - Rieti (RI), Lazio
-- Roma (RM), Lazio
 - Isernia (IS), Molise
 - Barletta-Andria-Trani (BT), Puglia
 - Matera (MT), Basilicata
