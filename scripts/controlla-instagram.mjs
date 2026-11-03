@@ -26,7 +26,7 @@ const FILE_USCITA = 'ricerca/instagram-nuovi.json';
 // Data di scadenza del token lungo (da aggiornare quando si rinnova, vedi docs/collegamento-facebook-instagram.md)
 const TOKEN_SCADE = process.env.META_TOKEN_SCADE || '2027-01-02';
 
-const MAX_CHIAMATE = Number(process.env.MAX_CHIAMATE || 190); // in totale per lancio: Meta ne tollera circa 200 all'ora
+const MAX_CHIAMATE = Number(process.env.MAX_CHIAMATE || 150); // in totale per lancio: Meta ne tollera circa 200 all'ora
 const MAX_CANDIDATI = Number(process.env.MAX_CANDIDATI || 70); // di cui, al massimo, per i candidati
 const RISERVA_CANDIDATI = Number(process.env.RISERVA_CANDIDATI || 60); // chiamate sempre lasciate ai candidati
 const PAUSA_MS = Number(process.env.PAUSA_MS ?? 700); // pausa tra due chiamate, per non correre
