@@ -2,14 +2,14 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**105 eventi pubblicati, 103 in programma.** Province con almeno un evento in programma: **36 su 110**.
+**117 eventi pubblicati, 115 in programma.** Province con almeno un evento in programma: **36 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
 | Campania | 38 | 38 | 5 / 5 |
-| Lazio | 26 | 24 | 2 / 5 |
+| Lazio | 38 | 36 | 2 / 5 |
 | Calabria | 8 | 8 | 4 / 5 |
 | Lombardia | 6 | 6 | 5 / 12 |
 | Liguria | 4 | 4 | 3 / 4 |
