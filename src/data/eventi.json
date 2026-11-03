@@ -9139,5 +9139,38 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-unita-nazionale-forze-armate-abano-terme",
+    "titolo": "4 Novembre ad Abano Terme: Giornata dell'Unità Nazionale",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-04T10:30",
+    "fine": null,
+    "luogo": "Monumento ai Caduti",
+    "indirizzo": "Piazza Caduti, Abano Terme",
+    "cap": null,
+    "comune": "028001",
+    "frazione": null,
+    "lat": 45.35899,
+    "lon": 11.7933,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia pubblica per il 4 novembre in Piazza Caduti. Il Sindaco depone una corona di alloro al Monumento ai Caduti e prende la parola insieme al Sindaco del Consiglio Comunale dei Ragazzi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Abano Terme",
+    "fonti": [
+      {
+        "nome": "comune_abanoterme (post Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfE65ozjovU/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]

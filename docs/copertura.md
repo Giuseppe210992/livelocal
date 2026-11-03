@@ -2,7 +2,7 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**238 eventi pubblicati, 236 in programma.** Province con almeno un evento in programma: **70 su 110**.
+**239 eventi pubblicati, 237 in programma.** Province con almeno un evento in programma: **70 su 110**.
 
 ## Per regione
 
@@ -13,7 +13,7 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 | Piemonte | 25 | 25 | 6 / 8 |
 | Emilia-Romagna | 24 | 24 | 7 / 9 |
 | Liguria | 15 | 15 | 4 / 4 |
-| Veneto | 10 | 10 | 6 / 7 |
+| Veneto | 11 | 11 | 6 / 7 |
 | Puglia | 10 | 10 | 5 / 6 |
 | Abruzzo | 8 | 8 | 4 / 4 |
 | Calabria | 8 | 8 | 4 / 5 |
