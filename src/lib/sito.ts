@@ -16,7 +16,8 @@ export const SITO = {
 };
 
 // Indirizzo pubblico del sito, senza barra finale (es. https://giuseppe210992.github.io).
-export const SITE_URL: string = (import.meta.env.SITE ?? 'https://giuseppe210992.github.io').replace(/\/$/, '');
+// Gli indirizzi per Google e per le anteprime sono sempre https (GitHub Pages può comunicare http finché non si attiva "Enforce HTTPS").
+export const SITE_URL: string = (import.meta.env.SITE ?? 'https://giuseppe210992.github.io').replace(/\/$/, '').replace(/^http:\/\/(?!localhost)/, 'https://');
 
 // Percorso base, con la barra finale (es. "/" oppure "/livelocal/").
 const BASE: string = import.meta.env.BASE_URL.endsWith('/')
