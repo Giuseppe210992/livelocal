@@ -77,6 +77,13 @@ Fonte: «Get started with Instagram API with Facebook Login» (Meta, aggiornata 
 - Non è stato dimostrato che valga anche per un uso continuativo: da controllare dopo qualche giorno che il token lungo regga e che i limiti di richieste non diano problemi.
 - Attenzione: la risposta di `me/accounts` contiene il token della Pagina. Non fotografarla, non incollarla in chat né nel repository.
 
+### Token lungo e controllo giornaliero (fatto il 3 novembre 2026)
+
+- Token utente lungo ottenuto dal debugger di Meta (`developers.facebook.com/tools/debug/accesstoken/` → «Extend Access Token»), **scade il 2 gennaio 2027**. Salvato **solo** nel segreto `META_TOKEN` del repository GitHub, mai in chat né nei file.
+- Il controllo è `scripts/controlla-instagram.mjs`, lanciato da `.github/workflows/controlla-instagram.yml` due volte al giorno. Salva in `ricerca/instagram-nuovi.json` solo i link ai post che sembrano eventi.
+- **Rinnovo (entro il 2 gennaio, meglio da metà dicembre):** nell'Explorer scegli la Pagina «livelocal» e l'account `livelocal21`, premi «Generate Access Token» (o apri il debugger con un token nuovo), poi «Extend Access Token», copia il token e sostituisci il valore del segreto `META_TOKEN` (Settings → Secrets and variables → Actions → META_TOKEN → Update). Poi aggiorna la data in `TOKEN_SCADE` nello script. Per non doverlo ripetere ogni 60 giorni, in futuro si può passare a un token «di utente di sistema» del portfolio business (richiede il portfolio verificato).
+- Se cambi la password di Facebook o togli l'app dalle impostazioni, il token smette di funzionare prima: il controllo fallisce e GitHub manda un'email.
+
 ### Parte 3 – dopo la prova (la fa Claude)
 
 - Se la prova riesce: serve un token che duri (i token utente lunghi durano circa 60 giorni; i token provvisori dell'Explorer durano poco). Si crea un'app su Meta for Developers per ottenerlo e si conserva come segreto di GitHub.

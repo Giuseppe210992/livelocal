@@ -1,0 +1,44 @@
+# Controllo di Instagram due volte al giorno, un po' prima dei giri della ricerca automatica.
+# Legge i post nuovi degli account in ricerca/instagram-account.json con l'API ufficiale di Meta
+# e salva in ricerca/instagram-nuovi.json SOLO i link ai post che sembrano eventi (mai le didascalie).
+# Usa il segreto META_TOKEN (Impostazioni → Secrets and variables → Actions).
+# Si può lanciare anche a mano: scheda Actions → «Controlla Instagram» → Run workflow.
+name: Controlla Instagram
+
+on:
+  schedule:
+    - cron: '47 0,12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: controlla-instagram
+  cancel-in-progress: false
+
+jobs:
+  controlla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Leggi i post nuovi
+        run: node scripts/controlla-instagram.mjs
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+      - name: Salva i link nuovi nel repository
+        if: always()
+        run: |
+          if [ -z "$(git status --porcelain ricerca)" ]; then
+            echo "Niente di nuovo da salvare."
+            exit 0
+          fi
+          git config user.name "LiveLocal controllo Instagram"
+          git config user.email "actions@users.noreply.github.com"
+          git add ricerca/instagram-nuovi.json
+          git commit -m "Controllo Instagram: aggiornati i link da verificare"
+          git pull --rebase origin main
+          git push origin main

@@ -88,6 +88,18 @@ Regole:
 
 L'elenco degli organizzatori da cercare (Pro Loco, Comuni, associazioni, teatri, con i loro profili pubblici) è in `docs/organizzatori-da-seguire.md`.
 
+#### Controllo automatico di Instagram (dal 3 novembre 2026)
+
+Un'azione di GitHub (`.github/workflows/controlla-instagram.yml`, ogni giorno alle 1:47 e 13:47 ora italiana, prima dei tuoi giri) legge con l'**API ufficiale di Meta** (Business Discovery) i post nuovi degli account in `ricerca/instagram-account.json`. Il token è nel segreto `META_TOKEN` di GitHub: tu non l'hai e non ti serve.
+
+- Il risultato è in **`ricerca/instagram-nuovi.json`**. Contiene solo link, account e data dei post che sembrano parlare di un evento. **Le didascalie non sono mai salvate**: apri tu il link.
+- A ogni giro: leggi `daVerificare`. Per ogni link aprilo con `fetch_content` (metodo qui sopra: punti 2-5), poi applica il controllo in 4 punti. Il profilo è dell'organizzatore (Pro Loco, Comune, associazione): fonte `organizzatore` → può andare `pubblicato`.
+- Alla fine **togli dall'elenco `daVerificare` i link che hai trattato** (anche se scartati) e fai commit nello stesso push degli eventi. Non toccare gli altri campi.
+- Controlla `stato` e `tokenScade`: se `stato` è `token-scaduto`, oppure mancano meno di **14 giorni** a `tokenScade`, scrivilo **in cima all'email di riepilogo**: Giuseppe deve rinnovare il token (guida in `docs/collegamento-facebook-instagram.md`).
+- Gli account con `stato` `non-leggibile` non sono professionali: non si possono leggere con l'API. Per quelli resta il metodo con `search` e `fetch_content`.
+- Per aggiungere un account da controllare basta un nome utente in `ricerca/instagram-account.json` (solo profili pubblici di enti e associazioni, mai di persone). Meglio aggiungerne pochi alla volta.
+- Se questo controllo dà errori continui, è un'aggiunta: il metodo di ricerca di questa sezione resta valido.
+
 Finestra: eventi che iniziano **da oggi a 45 giorni**. Vanno bene anche le mostre già aperte che finiscono dopo oggi.
 
 ## 5. Controllo in 4 punti (per ogni evento)
