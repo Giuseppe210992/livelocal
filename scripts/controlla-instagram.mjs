@@ -26,9 +26,9 @@ const FILE_USCITA = 'ricerca/instagram-nuovi.json';
 // Data di scadenza del token lungo (da aggiornare quando si rinnova, vedi docs/collegamento-facebook-instagram.md)
 const TOKEN_SCADE = process.env.META_TOKEN_SCADE || '2027-01-02';
 
-const MAX_CHIAMATE = Number(process.env.MAX_CHIAMATE || 250); // in totale per lancio
-const MAX_CANDIDATI = Number(process.env.MAX_CANDIDATI || 80); // di cui, al massimo, per i candidati
-const RISERVA_CANDIDATI = Number(process.env.RISERVA_CANDIDATI || 60); // chiamate sempre lasciate ai candidati
+const MAX_CHIAMATE = Number(process.env.MAX_CHIAMATE || 400); // in totale per lancio
+const MAX_CANDIDATI = Number(process.env.MAX_CANDIDATI || 200); // di cui, al massimo, per i candidati
+const RISERVA_CANDIDATI = Number(process.env.RISERVA_CANDIDATI || 150); // chiamate sempre lasciate ai candidati
 const PAUSA_MS = Number(process.env.PAUSA_MS ?? 700); // pausa tra due chiamate, per non correre
 const GIORNI_INDIETRO_PRIMA_VOLTA = 10;
 const GIORNI_LINK_VALIDI = 25; // i link in attesa più vecchi si eliminano
@@ -67,7 +67,7 @@ const elenco = JSON.parse(readFileSync(FILE_ACCOUNT, 'utf8'));
 const uscita = existsSync(FILE_USCITA) ? JSON.parse(readFileSync(FILE_USCITA, 'utf8')) : {};
 uscita.daVerificare ??= [];
 uscita.account ??= {};
-uscita.candidati ??= {}; // nome → data in cui l'abbiamo visto citato
+uscita.candidati ??= {}; // nome → { visto: data, fonte: 'citazione' | 'wikidata' }
 uscita.scartati ??= []; // nomi già provati e non adatti (persone, negozi, account personali…)
 
 const adesso = new Date();
@@ -123,7 +123,7 @@ function elaboraPost(nome, post) {
       if (n === nome || scartati.has(n) || uscita.account[n] || uscita.candidati[n]) continue;
       if (elenco.account.includes(n)) continue;
       if (Object.keys(uscita.candidati).length >= MAX_CANDIDATI_IN_ATTESA) continue;
-      uscita.candidati[n] = adessoIso.slice(0, 10);
+      uscita.candidati[n] = { visto: adessoIso.slice(0, 10), fonte: 'citazione' };
       novita.candidatiNuovi++;
     }
   }
@@ -177,6 +177,7 @@ if (!tokenScaduto && !limiteRaggiunto) {
   for (const nome of coda) {
     if (chiamate >= MAX_CHIAMATE || fatti >= MAX_CANDIDATI) break;
     fatti++;
+    const fidato = uscita.candidati[nome]?.fonte === 'wikidata'; // già indicato come ente (Comune, museo, teatro…) da Wikidata
     const { dati, errore } = await leggi(nome, true);
     if (errore === 190) {
       tokenScaduto = true;
@@ -194,9 +195,9 @@ if (!tokenScaduto && !limiteRaggiunto) {
       continue;
     }
     const intestazione = `${dati.username ?? nome} ${dati.name ?? ''} ${dati.biography ?? ''}`;
-    if (PAROLE_ENTE.test(intestazione) && !PAROLE_NO.test(intestazione)) {
+    if (fidato || (PAROLE_ENTE.test(intestazione) && !PAROLE_NO.test(intestazione))) {
       const r = elaboraPost(nome, dati.media?.data ?? []);
-      uscita.account[nome] = { stato: 'ok', ultimoPost: r.ultimo, controllato: adessoIso, origine: 'scoperto' };
+      uscita.account[nome] = { stato: 'ok', ultimoPost: r.ultimo, controllato: adessoIso, origine: fidato ? 'wikidata' : 'scoperto' };
       novita.accettati++;
       novita.link += r.aggiunti;
     } else {

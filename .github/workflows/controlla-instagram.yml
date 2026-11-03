@@ -27,6 +27,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Cerca nuovi profili di enti su Wikidata (al massimo una volta a settimana)
+        run: node scripts/scopri-account.mjs
+        continue-on-error: true
       - name: Leggi i post nuovi
         run: node scripts/controlla-instagram.mjs
         env:
