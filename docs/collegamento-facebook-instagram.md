@@ -68,6 +68,15 @@ Fonte: «Get started with Instagram API with Facebook Login» (Meta, aggiornata 
 
 **Il token non si incolla mai in chat né nel repository.** Per mostrare il risultato basta un'immagine con la casella «Access Token» coperta.
 
+### Esito della prova (3 novembre 2026, sera): FUNZIONA
+
+- Pagina Facebook «livelocal» e account Instagram professionale `livelocal21` (Azienda, categoria «Sito web») collegati. Nome pubblico «LiveLocal», contatti nascosti.
+- **Correzione alla guida sopra:** il Graph API Explorer **richiede un'app** (senza, mostra «Create an app to get started»). App creata su Meta for Developers: «LiveLocalEventi», **non pubblicata** (modalità sviluppo), senza portfolio business collegato, caso d'uso «Gestisci i messaggi e i contenuti su Instagram» con le autorizzazioni `instagram_basic`, `instagram_manage_insights`, `pages_show_list`, `pages_read_engagement` attivate dal caso d'uso (finché non sono attivate lì, l'elenco dell'Explorer è vuoto).
+- Nella finestra «Facebook Login for Business» vanno spuntate la Pagina «livelocal» e l'account Instagram `livelocal21` (con «Attiva solo le risorse attuali»). Se non si sceglie la Pagina giusta, `me/accounts` risponde con elenco vuoto o con un'altra Pagina.
+- **Risultato:** la richiesta `business_discovery.username(pro_loco_riardo){...}` ha restituito username, follower (2.998), numero di post (160) e i post recenti con didascalia, data e link, **in modalità sviluppo, senza App Review e senza verifica dell'attività**. Il post più recente letto era del 1° novembre 2026.
+- Non è stato dimostrato che valga anche per un uso continuativo: da controllare dopo qualche giorno che il token lungo regga e che i limiti di richieste non diano problemi.
+- Attenzione: la risposta di `me/accounts` contiene il token della Pagina. Non fotografarla, non incollarla in chat né nel repository.
+
 ### Parte 3 – dopo la prova (la fa Claude)
 
 - Se la prova riesce: serve un token che duri (i token utente lunghi durano circa 60 giorni; i token provvisori dell'Explorer durano poco). Si crea un'app su Meta for Developers per ottenerlo e si conserva come segreto di GitHub.
