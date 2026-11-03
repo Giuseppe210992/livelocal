@@ -663,5 +663,1431 @@
     ],
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-archeologico-nazionale-formia-4-novembre",
+    "titolo": "Ingresso gratuito al Museo archeologico di Formia",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:30",
+    "fine": "2026-11-04T19:30",
+    "luogo": "Museo archeologico nazionale di Formia",
+    "indirizzo": "Via Vitruvio 184",
+    "cap": "04023",
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.2556005,
+    "lon": 13.6057459,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Museo archeologico nazionale di Formia si visita senza biglietto, dalle 8:30 alle 19:30. Il museo si trova nel quartiere di Castellone e racconta la storia antica della città e del suo territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Lazio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-giorno-dellunita-nazionale-e-giornata-delle-forze-armate-museo-archeologico-nazionale-di-formia",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-villa-di-tiberio-sperlonga-4-novembre",
+    "titolo": "Ingresso gratuito alla Villa di Tiberio di Sperlonga",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Parco archeologico della Villa di Tiberio e Museo archeologico nazionale",
+    "indirizzo": "Parco archeologico della Villa di Tiberio",
+    "comune": "059030",
+    "frazione": null,
+    "lat": 41.26827,
+    "lon": 13.43973,
+    "coordinateApprossimate": true,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Parco archeologico della Villa di Tiberio e il Museo archeologico nazionale di Sperlonga sono a ingresso gratuito. Non serve prenotare. Nell'area archeologica l'ultimo ingresso è alle 15:00 e la chiusura alle 16:00. La posizione sulla mappa è quella del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Non richiesta",
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Lazio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-giorno-dellunita-nazionale-e-giornata-delle-forze-armate-parco-archeologico-della-villa-di-tiberio-e-museo-archeologico-nazionale-sperlonga",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "apertura-parco-archeologico-casinum-cassino-4-novembre",
+    "titolo": "Apertura del Parco archeologico di Casinum",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:30",
+    "fine": "2026-11-04T19:30",
+    "luogo": "Parco archeologico di Casinum e Museo archeologico nazionale «G. Carettoni»",
+    "indirizzo": "Via di Montecassino",
+    "cap": "03043",
+    "comune": "060019",
+    "frazione": null,
+    "lat": 41.47893,
+    "lon": 13.83544,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura festiva del 4 novembre per il Parco archeologico di Casinum e il Museo «Carettoni» di Cassino, dalle 8:30 alle 19:30. La scheda del Ministero non dice se l'ingresso è gratuito: conviene controllare prima di andare. La posizione sulla mappa è quella della città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-al-parco-archeologico-di-casinum-e-museo-archeologico-nazionale-g-carettoni",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "apertura-torre-di-cicerone-arpino-4-novembre",
+    "titolo": "Apertura della Torre di Cicerone ad Arpino",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T10:00",
+    "fine": "2026-11-04T18:00",
+    "luogo": "Torre di Cicerone e mura dell'acropoli di Arpino",
+    "indirizzo": "Via della Torre",
+    "cap": "03033",
+    "comune": "060010",
+    "frazione": null,
+    "lat": 41.6485859,
+    "lon": 13.6193073,
+    "coordinateApprossimate": false,
+    "descrizione": "Apertura festiva del 4 novembre per la Torre di Cicerone e le mura dell'acropoli di Arpino. Orari: dalle 10 alle 13 e dalle 15 alle 18. La prenotazione è facoltativa. La scheda del Ministero non indica il prezzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "Facoltativa",
+    "organizzatore": "Ministero della Cultura",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-alla-torre-di-cicerone",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-archeologico-sessa-aurunca-4-novembre",
+    "titolo": "Ingresso gratuito al Museo archeologico di Sessa Aurunca",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T13:00",
+    "luogo": "Museo archeologico nazionale di Sessa Aurunca",
+    "indirizzo": "Piazza Castello 2",
+    "cap": "81037",
+    "comune": "061088",
+    "frazione": null,
+    "lat": 41.2384639,
+    "lon": 13.9333325,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Museo archeologico nazionale di Sessa Aurunca fa un'apertura straordinaria a ingresso gratuito, dalle 9 alle 13.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Campania",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/festa-dell-unita-4-novembre-2026-museo-archeologico-nazionale-di-sessa-aurunca",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-anfiteatro-campano-santa-maria-capua-vetere-4-novembre",
+    "titolo": "Ingresso gratuito all'Anfiteatro campano",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T16:00",
+    "luogo": "Anfiteatro campano",
+    "indirizzo": "Piazza Adriano",
+    "cap": "81055",
+    "comune": "061083",
+    "frazione": null,
+    "lat": 41.0859386,
+    "lon": 14.250427,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate l'Anfiteatro campano di Santa Maria Capua Vetere, uno dei monumenti simbolo dell'antica Capua, si visita gratis dalle 9 alle 16. L'apertura gratuita era stata prevista anche per domenica 1 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Direzione regionale Musei nazionali Campania e Circuito archeologico nazionale dell'antica Capua",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/anfiteatro-campano-aperture-gratuite-il-10-e-il-4-novembre",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-siti-grande-pompei-pompei-4-novembre",
+    "titolo": "Ingresso gratuito ai siti della Grande Pompei",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Parco archeologico di Pompei e altri siti della Grande Pompei",
+    "indirizzo": "Parco archeologico di Pompei",
+    "comune": "063058",
+    "frazione": null,
+    "lat": 40.74816,
+    "lon": 14.49619,
+    "coordinateApprossimate": true,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate sono gratuiti il Parco archeologico di Pompei, la Villa di Oplontis, il Museo archeologico di Stabia, la Villa Regina con l'Antiquarium di Boscoreale e le Ville di Stabiae. La scheda indica la prenotazione come obbligatoria; gli orari sono sul sito del parco. La posizione sulla mappa è quella di Pompei.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Obbligatoria. Orari e informazioni: https://pompeiisites.org/info-per-la-visita/orari-e-tariffe/",
+    "organizzatore": "Parco archeologico di Pompei",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/mercoledi-4-novembre-2026-i-siti-della-grande-pompei-saranno-aperti-al-pubblico-con-ingresso-gratuito",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-mann-napoli-4-novembre",
+    "titolo": "Ingresso gratuito al Museo archeologico di Napoli",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T19:30",
+    "luogo": "Museo archeologico nazionale di Napoli (MANN)",
+    "indirizzo": "Piazza Museo Nazionale 19",
+    "cap": "80135",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8536064,
+    "lon": 14.25115,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il MANN apre gratis le collezioni permanenti dalle 9 alle 19:30. Non serve prenotare: il biglietto gratuito si ritira in cassa. Per motivi di sicurezza restano chiuse la sezione Egizia, quella della Magna Grecia e il Gabinetto Segreto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Non prevista: il biglietto gratuito si ritira in cassa",
+    "organizzatore": "Museo archeologico nazionale di Napoli",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-al-mann-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-palazzo-reale-museo-pignatelli-napoli-4-novembre",
+    "titolo": "Ingresso gratuito a Palazzo Reale e Museo Pignatelli",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T10:00",
+    "fine": "2026-11-04T18:00",
+    "luogo": "Palazzo Reale di Napoli",
+    "indirizzo": "Piazza del Plebiscito 1",
+    "cap": "80132",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8364795,
+    "lon": 14.25032,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate entrata libera al Palazzo Reale di Napoli (10-18, ultimo ingresso alle 17) e al Museo Pignatelli (9:30-17, ultimo ingresso alle 16). Giardino Pensile chiuso. Al Museo Caruso, aperto dalle 10 alle 14, la prenotazione è obbligatoria fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Solo per il Museo Caruso, obbligatoria: https://portale.museiitaliani.it/b2c/buyTicketless/4bad3b4a-f7ea-4b25-b00f-0a3a52e076c5",
+    "organizzatore": "Palazzo Reale di Napoli",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/mercoledi-4-novembre-ingresso-gratuito-al-palazzo-reale-di-napoli-e-al-museo-pignatelli-in-occasione-della-giornata-dellunita-nazionale-e-delle-forze-armate",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-certosa-di-san-martino-napoli-4-novembre",
+    "titolo": "Ingresso gratuito alla Certosa di San Martino",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:30",
+    "fine": "2026-11-04T18:30",
+    "luogo": "Certosa di San Martino",
+    "indirizzo": "Largo San Martino 5",
+    "cap": "80129",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8431636,
+    "lon": 14.2410586,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate la Certosa di San Martino, sulla collina del Vomero, si visita gratis dalle 8:30 alle 18:30 (ultimo accesso alle 17:30). Non serve prenotare.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Non richiesta",
+    "organizzatore": "Ministero della Cultura",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-alla-certosa-di-san-martino-giornata-dellunita-nazionale-e-delle-forze-armate",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-castel-sant-elmo-napoli-4-novembre",
+    "titolo": "Ingresso gratuito a Castel Sant'Elmo",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:30",
+    "fine": "2026-11-04T19:30",
+    "luogo": "Castel Sant'Elmo e Museo del Novecento",
+    "indirizzo": "Via Tito Angelini 20",
+    "cap": "80129",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8437067,
+    "lon": 14.2392516,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate Castel Sant'Elmo si visita gratis dalle 8:30 alle 19:30 (ultimo accesso alle 18:30). Il Museo del Novecento a Napoli, dentro il castello, segue l'orario 9:30-18:30 con ultimo ingresso alle 17:30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-a-castel-santelmo-giornata-dellunita-nazionale-e-delle-forze-armate",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-di-capodimonte-napoli-4-novembre",
+    "titolo": "Ingresso gratuito al Museo di Capodimonte",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:00",
+    "fine": "2026-11-04T18:00",
+    "luogo": "Museo e Real Bosco di Capodimonte",
+    "indirizzo": "Via Miano 2",
+    "cap": "80137",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8650574,
+    "lon": 14.2473645,
+    "coordinateApprossimate": true,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate apertura straordinaria e gratuita del Museo di Capodimonte, senza prenotazione: il biglietto gratuito si ritira in biglietteria o si scarica dal sito e dall'app Musei italiani. Si vedono le collezioni, la nuova Galleria delle Porcellane e la mostra «Atlas Partenope» di Andrea Fogli. Il museo resta chiuso giovedì 5 novembre. La posizione sulla mappa è vicina all'ingresso, non esatta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Non richiesta",
+    "organizzatore": "Museo e Real Bosco di Capodimonte",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/mercoledi-4-novembre-2026-ad-ingresso-gratuito",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-parco-archeologico-ercolano-4-novembre",
+    "titolo": "Ingresso gratuito al Parco archeologico di Ercolano",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T08:30",
+    "fine": "2026-11-04T17:00",
+    "luogo": "Parco archeologico di Ercolano",
+    "indirizzo": "Corso Resina",
+    "cap": "80056",
+    "comune": "063064",
+    "frazione": null,
+    "lat": 40.804603,
+    "lon": 14.3472926,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Parco archeologico di Ercolano, la città romana rimasta ferma all'eruzione del 79 d.C., si visita senza biglietto dalle 8:30 alle 17. Il parco consiglia di arrivare presto per evitare le code e di portare scarpe comode.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco archeologico di Ercolano",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/giornata-dellunita-nazionale-e-delle-forze-armate-2026-al-parco-archeologico-di-ercolano",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-parco-archeologico-di-cuma-pozzuoli-4-novembre",
+    "titolo": "Ingresso gratuito al Parco archeologico di Cuma",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T16:00",
+    "luogo": "Parco archeologico di Cuma",
+    "indirizzo": "Strada provinciale Cuma-Licola",
+    "cap": "80078",
+    "comune": "063060",
+    "frazione": null,
+    "lat": 40.8491313,
+    "lon": 14.0541781,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Parco archeologico di Cuma è visitabile gratis dalle 9 alle 16. I biglietti gratuiti si prendono sull'app o sul sito Musei Italiani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Biglietti gratuiti sull'app o sul sito Musei Italiani",
+    "organizzatore": "Parco archeologico dei Campi Flegrei",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-apertura-gratuita-parco-archeologico-di-cuma",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-anfiteatro-flavio-pozzuoli-4-novembre",
+    "titolo": "Ingresso gratuito all'Anfiteatro Flavio di Pozzuoli",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T16:00",
+    "luogo": "Anfiteatro Flavio",
+    "indirizzo": "Corso Terracciano",
+    "cap": "80078",
+    "comune": "063060",
+    "frazione": null,
+    "lat": 40.8259005,
+    "lon": 14.1247843,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate l'Anfiteatro Flavio di Pozzuoli è visitabile gratis dalle 9 alle 16. I biglietti gratuiti si prendono sull'app o sul sito Musei Italiani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Biglietti gratuiti sull'app o sul sito Musei Italiani",
+    "organizzatore": "Parco archeologico dei Campi Flegrei",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-apertura-gratuita-anfiteatro-flavio-di-pozzuoli",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-archeologico-campi-flegrei-baia-bacoli-4-novembre",
+    "titolo": "Ingresso gratuito al Museo dei Campi Flegrei e Castello di Baia",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T18:30",
+    "luogo": "Museo archeologico dei Campi Flegrei e Castello di Baia",
+    "indirizzo": "Via Castello",
+    "cap": "80070",
+    "comune": "063006",
+    "frazione": null,
+    "lat": 40.8111035,
+    "lon": 14.0803193,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Museo archeologico dei Campi Flegrei, ospitato nel Castello aragonese di Baia, si visita gratis dalle 9 alle 18:30. I biglietti gratuiti si prendono sull'app o sul sito Musei Italiani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Biglietti gratuiti sull'app o sul sito Musei Italiani",
+    "organizzatore": "Parco archeologico dei Campi Flegrei",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-apertura-gratuita-museo-archeologico-dei-campi-flegrei-e-castello-di-baia",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-archeologico-allifae-alife-4-novembre",
+    "titolo": "Ingresso gratuito al Museo archeologico di Alife",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T13:00",
+    "luogo": "Museo archeologico nazionale dell'antica Allifae",
+    "indirizzo": "Piazza XIX Ottobre",
+    "cap": "81011",
+    "comune": "061002",
+    "frazione": null,
+    "lat": 41.3276777,
+    "lon": 14.3343457,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Museo archeologico nazionale dell'antica Allifae, ad Alife, fa un'apertura straordinaria a ingresso gratuito dalle 9 alle 13.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Campania",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/festa-dell-unita-4-novembre-2026-museo-archeologico-nazionale-dellantica-allifae",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-museo-archeologico-calatia-maddaloni-4-novembre",
+    "titolo": "Ingresso gratuito al Museo archeologico di Calatia",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T19:00",
+    "luogo": "Museo archeologico nazionale di Calatia",
+    "indirizzo": "Via Caudina",
+    "cap": "81024",
+    "comune": "061048",
+    "frazione": null,
+    "lat": 41.0340655,
+    "lon": 14.3898458,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Museo archeologico nazionale di Calatia, a Maddaloni, è aperto con i consueti orari (dalle 9 alle 19, ultimo ingresso alle 18) e si visita gratis. Non serve prenotare. La scheda del Ministero scrive «martedì 4 novembre» ma gli orari indicati sono quelli del mercoledì: il 4 novembre 2026 è mercoledì.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Non richiesta",
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Campania",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/giorno-dellunita-nazionale-e-delle-forze-armate-ingresso-gratuito-al-museo-archeologico-nazionale-di-calatia",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-teatro-romano-benevento-4-novembre",
+    "titolo": "Ingresso gratuito al Teatro romano di Benevento",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "fine": "2026-11-04T17:20",
+    "luogo": "Teatro romano di Benevento",
+    "indirizzo": "Piazza Ponzio Telesino",
+    "cap": "82100",
+    "comune": "062008",
+    "frazione": null,
+    "lat": 41.1306594,
+    "lon": 14.7718088,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il Teatro romano di Benevento si visita gratis, dalle 9 alle 17:20.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura, Direzione regionale Musei nazionali Campania",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/teatro-romano-di-benevento-4-novembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "apertura-certosa-di-trisulti-collepardo-4-novembre",
+    "titolo": "Apertura della Certosa di Trisulti",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T10:00",
+    "fine": "2026-11-04T16:30",
+    "luogo": "Certosa di Trisulti",
+    "indirizzo": "Via Trisulti",
+    "cap": "03010",
+    "comune": "060028",
+    "frazione": null,
+    "lat": 41.7795128,
+    "lon": 13.3972962,
+    "coordinateApprossimate": false,
+    "descrizione": "Apertura festiva del 4 novembre per la Certosa di Trisulti, a Collepardo, dalle 10 alle 16:30. La scheda del Ministero non indica il prezzo del biglietto: conviene controllare prima di andare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-alla-certosa-di-trisulti",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "maestri-alla-reggia-anna-foglietta-caserta",
+    "titolo": "Maestri alla Reggia: incontro con Anna Foglietta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": false,
+    "descrizione": "Secondo appuntamento della nona edizione di «Maestri alla Reggia», la rassegna dell'Università Vanvitelli sul cinema italiano. L'attrice Anna Foglietta dialoga con il giornalista Titta Fiore. L'orario di questo incontro non è riportato nella scheda letta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Gratuita su prenotazione fino a esaurimento posti: maestriallareggia.it. Priorità a docenti e studenti dell'Ateneo",
+    "organizzatore": "Università degli Studi della Campania «Luigi Vanvitelli», organizzato da Cineventi con la Reggia di Caserta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Reggia di Caserta",
+        "tipo": "ufficiale",
+        "url": "https://reggiadicaserta.cultura.gov.it/torna-maestri-alla-reggia-con-i-protagonisti-del-cinema-italiano/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "maestri-alla-reggia-riccardo-scamarcio-caserta",
+    "titolo": "Maestri alla Reggia: incontro con Riccardo Scamarcio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": false,
+    "descrizione": "Terzo appuntamento della nona edizione di «Maestri alla Reggia». L'attore Riccardo Scamarcio, premiato all'ultima Mostra del cinema di Venezia, è intervistato dal giornalista Flavio Natalia. L'orario non è riportato nella scheda letta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "Gratuita su prenotazione fino a esaurimento posti: maestriallareggia.it. Priorità a docenti e studenti dell'Ateneo",
+    "organizzatore": "Università degli Studi della Campania «Luigi Vanvitelli», organizzato da Cineventi con la Reggia di Caserta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Reggia di Caserta",
+        "tipo": "ufficiale",
+        "url": "https://reggiadicaserta.cultura.gov.it/torna-maestri-alla-reggia-con-i-protagonisti-del-cinema-italiano/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "armonie-in-movimento-gaeta",
+    "titolo": "Armonie in Movimento",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T16:00",
+    "fine": null,
+    "luogo": "Piazza della Libertà",
+    "indirizzo": "Piazza della Libertà",
+    "cap": "04024",
+    "comune": "059009",
+    "frazione": null,
+    "lat": 41.2144334,
+    "lon": 13.5710302,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo in cui la danza incontra la musica e la voce, con la coreografia di Mwula Sungani. Alle 16 apre l'edizione 2026 di «Favole di Luce»: subito dopo si accendono le luminarie che trasformano Gaeta in un percorso di luci natalizie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "VisitLazio – Regione Lazio",
+        "tipo": "ufficiale",
+        "url": "https://www.visitlazio.com/eventi-lazio/armonie-in-movimento-a-gaeta/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "favole-di-luce-gaeta-2026",
+    "titolo": "Favole di Luce 2026 a Gaeta",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-01-10",
+    "luogo": "Centro storico di Gaeta",
+    "indirizzo": "Vie e piazze del centro",
+    "cap": "04024",
+    "comune": "059009",
+    "frazione": null,
+    "lat": 41.2144334,
+    "lon": 13.5710302,
+    "coordinateApprossimate": true,
+    "descrizione": "Undicesima edizione delle luminarie di Gaeta, dal 7 novembre 2026 al 10 gennaio 2027. L'apertura è sabato 7 novembre con lo spettacolo «Armonie in Movimento». La posizione sulla mappa indica il centro, non un luogo preciso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "VisitLazio – Regione Lazio",
+        "tipo": "ufficiale",
+        "url": "https://www.visitlazio.com/eventi-lazio/armonie-in-movimento-a-gaeta/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Luminarie di Gaeta (pagina Facebook dell'iniziativa)",
+        "tipo": "organizzatore",
+        "url": "https://www.facebook.com/LuminariediGaeta/posts/-ci-siamo-lattesa-sta-per-finire-mancano-pochissimi-giorni-allundicesima-edizion/1543998781108054/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-campora-emilio-lecce-campoli-appennino",
+    "titolo": "Càmpora, mostra di Emilio Lecce",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T17:00",
+    "fine": "2026-11-15T21:00",
+    "luogo": "Municipio di Campoli Appennino",
+    "indirizzo": "Piazza Umberto I",
+    "cap": "03030",
+    "comune": "060016",
+    "frazione": null,
+    "lat": 41.7380124,
+    "lon": 13.6786907,
+    "coordinateApprossimate": false,
+    "descrizione": "Mostra di sei illustrazioni inedite del fumettista Emilio Lecce, dal titolo «Càmpora. Infrastrutture invisibili»: raccontano come è cresciuto il borgo lungo il bordo della dolina, tra mura medievali, piazza, vicoli e scalette. Ingresso libero, nei fine settimana del 7-8 e del 14-15 novembre: sabato dalle 17 alle 22, domenica dalle 11 alle 21.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "VisitLazio – Regione Lazio",
+        "tipo": "ufficiale",
+        "url": "https://www.visitlazio.com/eventi-lazio/a-campoli-appennino-la-mostra-campora-di-e-lecce/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "c-era-una-volta-scugnizzi-fondi",
+    "titolo": "C'era una volta… Scugnizzi: il grande ritorno",
+    "categoria": "teatro",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Teatro Città di Fondi «Nino Canale»",
+    "indirizzo": "Via Mola di Santa Maria",
+    "cap": "04022",
+    "comune": "059007",
+    "frazione": null,
+    "lat": 41.3617045,
+    "lon": 13.4199197,
+    "coordinateApprossimate": false,
+    "descrizione": "Il musical di Claudio Mattone torna in scena con una nuova generazione di interpreti: la storia di ragazzi fragili e pieni di sogni, costretti a crescere in fretta. Dura circa due ore più l'intervallo. Repliche venerdì 6 e sabato 7 novembre alle 21, domenica 8 alle 18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "Biglietti online sul sito del teatro",
+    "organizzatore": "Teatro Città di Fondi «Nino Canale»",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Teatro Città di Fondi «Nino Canale»",
+        "tipo": "organizzatore",
+        "url": "https://teatrocittadifondininocanale.it/cera-una-volta-scugnizzi-il-grande-ritorno-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-del-tartufo-campoli-appennino",
+    "titolo": "39ª Festa del Tartufo di Campoli Appennino",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-15",
+    "luogo": "Centro di Campoli Appennino",
+    "indirizzo": "Vie del paese",
+    "cap": "03030",
+    "comune": "060016",
+    "frazione": null,
+    "lat": 41.74947,
+    "lon": 13.70519,
+    "coordinateApprossimate": true,
+    "descrizione": "Due fine settimana (7-8 e 14-15 novembre) dedicati al tartufo bianco e al nero pregiato: mercato del tartufo fresco e lavorato, degustazioni, dimostrazioni di ricerca e musica. Inaugurazione sabato 7 alle 15. Ci sono navetta e parcheggi; l'ingresso è «da confermare».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Valle di Comino",
+        "tipo": "aggregatore",
+        "url": "https://visitvalledicomino.com/eventi/39a-festa-del-tartufo-di-campoli-appennino-bianco-e-nero-pregiato/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "grape-riardo",
+    "titolo": "GRAPE, percorso enogastronomico nel borgo di Riardo",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Borgo medievale di Riardo",
+    "indirizzo": "Centro storico",
+    "comune": "061068",
+    "frazione": null,
+    "lat": 41.26865,
+    "lon": 14.1441,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarta edizione di GRAPE: un percorso tra vino, piatti del territorio e tradizione nel borgo medievale di Riardo. La Pro Loco annuncia novità per il 2026, ma il programma dettagliato non era ancora pubblicato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco «Eduardo De Filippo» di Riardo",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Itinerari nel Gusto",
+        "tipo": "aggregatore",
+        "url": "https://www.itinerarinelgusto.it/eventi/grape-a-riardo-8636",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "borgo-divino-castellone-formia",
+    "titolo": "Borgo Divino a Castellone, quarta edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Borgo di Castellone",
+    "indirizzo": "Piazza Sant'Erasmo e altre piazze",
+    "cap": "04023",
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.256387,
+    "lon": 13.5997543,
+    "coordinateApprossimate": false,
+    "descrizione": "Tre giorni di festa nelle piazze del borgo medievale di Castellone con assaggi di vino, musica dal vivo (tribute band, rock, swing), serate di balli latini, spettacoli di bolle di sapone e giochi per bambini. Navetta gratuita dal Molo Vespucci. Il Cisternone Romano apre anche la sera. Venerdì e sabato dalle 19, domenica dalle 12. Era prevista a ottobre, rinviata per il maltempo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione La Vita è Bella e RS Arte e Talenti",
+    "stato": "in-revisione",
+    "inizioPrecedente": "2026-10-09",
+    "fonti": [
+      {
+        "nome": "Lazio Eventi",
+        "tipo": "aggregatore",
+        "url": "https://lazioeventi.com/eventi/borgo-divino-formia",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inno-al-novello-mignano-monte-lungo",
+    "titolo": "Inno al Novello, 17ª edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-14T19:00",
+    "fine": null,
+    "luogo": "Borgo della Cicuta",
+    "indirizzo": "Via Merli 1",
+    "cap": "81049",
+    "comune": "061051",
+    "frazione": null,
+    "lat": 41.40766,
+    "lon": 13.97379,
+    "coordinateApprossimate": true,
+    "descrizione": "Sagra del vino novello nel borgo della Cicuta, con percorso enogastronomico, canti, balli e musica popolare. C'è un'area di sosta per i camper. La posizione sulla mappa è quella del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Insieme per Mignano",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Itinerari nel Gusto",
+        "tipo": "aggregatore",
+        "url": "https://www.itinerarinelgusto.it/sagre-e-feste/inno-al-novello-a-mignano-monte-lungo-3421",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "avion-travel-dedicato-formia",
+    "titolo": "Avion Travel in «Dedicato»",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Piccolo Teatro Iqbal Masih",
+    "indirizzo": "Via Vitruvio 342",
+    "cap": "04023",
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.2540275,
+    "lon": 13.6017067,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto degli Avion Travel dal titolo «Dedicato» al Piccolo Teatro Iqbal Masih di Formia. L'elenco consultato non riporta l'orario né i prezzi: conviene controllare sul sito del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Scopri Formia",
+        "tipo": "aggregatore",
+        "url": "https://scopriformia.it/en/guide/eventi-formia-2026-11",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "strafelicissima-palermo-formia",
+    "titolo": "«Strafelicissima Palermo» con Sergio Vespertino",
+    "categoria": "teatro",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Piccolo Teatro Iqbal Masih",
+    "indirizzo": "Via Vitruvio 342",
+    "cap": "04023",
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.2540275,
+    "lon": 13.6017067,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo teatrale con Sergio Vespertino al Piccolo Teatro Iqbal Masih di Formia. L'elenco consultato non riporta l'orario né i prezzi: conviene controllare sul sito del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Scopri Formia",
+        "tipo": "aggregatore",
+        "url": "https://scopriformia.it/en/guide/eventi-formia-2026-11",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-voce-delle-stagioni-latina",
+    "titolo": "La voce delle stagioni",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro Gabriele D'Annunzio",
+    "indirizzo": "Viale Umberto I 43",
+    "cap": "04100",
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.4632385,
+    "lon": 12.9057306,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto con musiche di Vivaldi, Handel, Mozart e Paisiello, con il violino di Federico Vozzella e l'Associazione Chitarra Pontina. Fa parte della stagione 2026-2027 «Liberi di scegliere».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fattivivo",
+        "tipo": "aggregatore",
+        "url": "https://www.fattivivo.com/eventi/liberi-di-scegliere-stagione-teatrale-2026-2027-teatro-dannunzio",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "buonasera-a-tutti-peppe-barra-latina",
+    "titolo": "Buonasera a tutti, con Peppe Barra",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Teatro Gabriele D'Annunzio",
+    "indirizzo": "Viale Umberto I 43",
+    "cap": "04100",
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.4632385,
+    "lon": 12.9057306,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo con Peppe Barra, al pianoforte Luca Urciuolo, regia di Francesco Esposito. Fa parte della stagione 2026-2027 «Liberi di scegliere».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fattivivo",
+        "tipo": "aggregatore",
+        "url": "https://www.fattivivo.com/eventi/liberi-di-scegliere-stagione-teatrale-2026-2027-teatro-dannunzio",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "beast-without-beauty-latina",
+    "titolo": "Beast without beauty",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Teatro Gabriele D'Annunzio",
+    "indirizzo": "Viale Umberto I 43",
+    "cap": "04100",
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.4632385,
+    "lon": 12.9057306,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo di danza: creazione originale di Carlo Massari. Fa parte della stagione 2026-2027 «Liberi di scegliere».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fattivivo",
+        "tipo": "aggregatore",
+        "url": "https://www.fattivivo.com/eventi/liberi-di-scegliere-stagione-teatrale-2026-2027-teatro-dannunzio",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-angelo-del-focolare-latina",
+    "titolo": "L'angelo del focolare",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "fine": null,
+    "luogo": "Teatro Gabriele D'Annunzio",
+    "indirizzo": "Viale Umberto I 43",
+    "cap": "04100",
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.4632385,
+    "lon": 12.9057306,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo con testo e regia di Emma Dante, interpretato da David Leone, Giuditta Perriera, Ivano Picciallo e Leonarda Saffi. Fa parte della stagione 2026-2027 «Liberi di scegliere».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fattivivo",
+        "tipo": "aggregatore",
+        "url": "https://www.fattivivo.com/eventi/liberi-di-scegliere-stagione-teatrale-2026-2027-teatro-dannunzio",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "marcinelle-storia-di-minatori-latina",
+    "titolo": "Marcinelle, storia di minatori",
+    "categoria": "teatro",
+    "inizio": "2026-12-06T18:00",
+    "fine": null,
+    "luogo": "Teatro Gabriele D'Annunzio",
+    "indirizzo": "Viale Umberto I 43",
+    "cap": "04100",
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.4632385,
+    "lon": 12.9057306,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo teatrale sulla tragedia dei minatori di Marcinelle, con Francesco Cassibba, Sarah Nicolucci, Giacomo Rasetti, Vincenzo Tosetto, Ariele Vincenti e Manuel Mazia. Fa parte della stagione 2026-2027 «Liberi di scegliere».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fattivivo",
+        "tipo": "aggregatore",
+        "url": "https://www.fattivivo.com/eventi/liberi-di-scegliere-stagione-teatrale-2026-2027-teatro-dannunzio",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sulle-orme-dei-borbone-trekking-reggia-caserta",
+    "titolo": "Sulle orme dei Borbone, trekking nel Parco Reale",
+    "categoria": "sport",
+    "inizio": "2026-11-07T09:30",
+    "fine": "2026-11-07T12:30",
+    "luogo": "Parco Reale della Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": true,
+    "descrizione": "Trekking di circa tre ore tra viali, boschi e vedute progettate nel Settecento. Servono scarpe comode. Massimo 20 partecipanti. Promosso dalla Reggia e organizzato da Opera Laboratori, su prenotazione. Il prezzo non comprende il biglietto d'ingresso, quando previsto. La posizione sulla mappa è quella della Reggia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": "Su prenotazione",
+    "organizzatore": "Reggia di Caserta, organizzato da Opera Laboratori",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Napolike",
+        "tipo": "stampa",
+        "url": "https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sfumature-d-autunno-reggia-caserta",
+    "titolo": "Sfumature d'autunno, laboratorio per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T11:00",
+    "fine": "2026-11-15T12:30",
+    "luogo": "Giardino Inglese della Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività naturalistica per bambini dai 5 ai 10 anni: colori, forme, profumi e consistenze del paesaggio d'autunno. Dura circa un'ora e mezza. Promosso dalla Reggia e organizzato da Opera Laboratori, su prenotazione. Il prezzo non comprende il biglietto d'ingresso, quando previsto. La posizione sulla mappa è quella della Reggia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": "Su prenotazione",
+    "organizzatore": "Reggia di Caserta, organizzato da Opera Laboratori",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Napolike",
+        "tipo": "stampa",
+        "url": "https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dettagli-di-corte-reggia-caserta",
+    "titolo": "Dettagli di Corte, visita agli Appartamenti Reali",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Appartamenti Reali della Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita per adulti dedicata alle decorazioni degli ambienti di rappresentanza e alle storie nascoste dietro di essi. Dura circa un'ora e mezza. Promosso dalla Reggia e organizzato da Opera Laboratori, su prenotazione. Il prezzo non comprende il biglietto d'ingresso, quando previsto. La posizione sulla mappa è quella della Reggia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": "Su prenotazione",
+    "organizzatore": "Reggia di Caserta, organizzato da Opera Laboratori",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Napolike",
+        "tipo": "stampa",
+        "url": "https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "paesaggi-di-famiglia-reggia-caserta",
+    "titolo": "Paesaggi di famiglia, laboratorio creativo",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T12:30",
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di pittura per piccoli gruppi di bambini, per guardare la Reggia con occhi diversi. Dura circa un'ora e mezza. Promosso dalla Reggia e organizzato da Opera Laboratori, su prenotazione. Il prezzo non comprende il biglietto d'ingresso, quando previsto. La posizione sulla mappa è quella della Reggia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": "Su prenotazione",
+    "organizzatore": "Reggia di Caserta, organizzato da Opera Laboratori",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Napolike",
+        "tipo": "stampa",
+        "url": "https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tra-teatro-e-presepe-reggia-caserta",
+    "titolo": "Tra Teatro e Presepe, la Cantata dei Pastori",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-05T12:00",
+    "fine": null,
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Giulio Douhet",
+    "cap": "81100",
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.0731576,
+    "lon": 14.3271038,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita a tema dedicata alla Cantata dei Pastori e al Presepe borbonico. Promosso dalla Reggia e organizzato da Opera Laboratori, su prenotazione. Il prezzo non comprende il biglietto d'ingresso, quando previsto. La posizione sulla mappa è quella della Reggia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "Su prenotazione",
+    "organizzatore": "Reggia di Caserta, organizzato da Opera Laboratori",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Napolike",
+        "tipo": "stampa",
+        "url": "https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "angelica-e-elisabeth-donne-pittrici-napoli",
+    "titolo": "Angelica e Élisabeth. L'età delle donne pittrici",
+    "categoria": "mostra",
+    "inizio": "2026-11-06",
+    "fine": "2027-03-07",
+    "luogo": "Gallerie d'Italia",
+    "indirizzo": "Via Toledo",
+    "cap": "80132",
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.8404225,
+    "lon": 14.2488119,
+    "coordinateApprossimate": false,
+    "descrizione": "Mostra che mette a confronto Angelica Kauffmann ed Élisabeth Vigée Le Brun, due protagoniste della pittura europea tra Settecento e Ottocento, entrambe legate a Napoli. Giovedì 5 novembre, dalle 19 alle 21, c'è un'anteprima gratuita.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "eCampania",
+        "tipo": "stampa",
+        "url": "https://www.ecampania.it/news/cultura/519039/mostre-in-campania-novembre-2026-gli-appuntamenti-da-non-perdere.html",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]
