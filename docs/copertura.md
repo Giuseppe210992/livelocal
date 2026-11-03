@@ -2,28 +2,28 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**101 eventi pubblicati, 99 in programma.** Province con almeno un evento in programma: **35 su 110**.
+**105 eventi pubblicati, 103 in programma.** Province con almeno un evento in programma: **36 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
 | Campania | 38 | 38 | 5 / 5 |
-| Lazio | 25 | 23 | 2 / 5 |
+| Lazio | 26 | 24 | 2 / 5 |
 | Calabria | 8 | 8 | 4 / 5 |
 | Lombardia | 6 | 6 | 5 / 12 |
 | Liguria | 4 | 4 | 3 / 4 |
 | Abruzzo | 4 | 4 | 3 / 4 |
+| Piemonte | 3 | 3 | 2 / 8 |
 | Puglia | 3 | 3 | 2 / 6 |
 | Sicilia | 3 | 3 | 2 / 9 |
 | Sardegna | 3 | 3 | 2 / 8 |
-| Piemonte | 1 | 1 | 1 / 8 |
+| Umbria | 2 | 2 | 1 / 2 |
 | Trentino-Alto Adige | 1 | 1 | 1 / 2 |
 | Veneto | 1 | 1 | 1 / 7 |
 | Friuli-Venezia Giulia | 1 | 1 | 1 / 4 |
 | Emilia-Romagna | 1 | 1 | 1 / 9 |
 | Toscana | 1 | 1 | 1 / 10 |
-| Umbria | 1 | 1 | 1 / 2 |
 | Valle d'Aosta | 0 | 0 | 0 / 1 |
 | Marche | 0 | 0 | 0 / 5 |
 | Molise | 0 | 0 | 0 / 2 |
@@ -31,7 +31,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
 ## Province senza eventi in programma (da cercare per prime)
 
-- Torino (TO), Piemonte
 - Vercelli (VC), Piemonte
 - Novara (NO), Piemonte
 - Asti (AT), Piemonte
@@ -110,6 +109,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 ## Instagram
 
 - Account leggibili ogni giorno: **62**
-- Candidati in attesa di essere valutati: 778
+- Candidati in attesa di essere valutati: 844
 - Account provati e non adatti o non leggibili: 19
-- Link a post in attesa di controllo: 234
+- Link a post in attesa di controllo: 235

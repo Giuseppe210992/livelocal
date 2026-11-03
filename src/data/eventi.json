@@ -187,6 +187,12 @@
         "tipo": "stampa",
         "url": "https://www.telegolfo.com/minturno-camminata-tra-gli-olivi-7-8-novembre-2026/",
         "consultata": "2026-11-02"
+      },
+      {
+        "nome": "Comune di Minturno (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRx4lmCGhA/",
+        "consultata": "2026-11-03"
       }
     ],
     "inserito": "2026-11-02"
@@ -3351,5 +3357,194 @@
     "inseritoDa": "ia",
     "fine": "2026-11-22",
     "cap": "90011"
+  },
+  {
+    "slug": "racconti-tra-terra-e-mare-itri",
+    "titolo": "Racconti tra Terra e Mare",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T19:00",
+    "luogo": "Museo del Brigantaggio",
+    "indirizzo": "Itri",
+    "comune": "059010",
+    "frazione": null,
+    "lat": 41.30489,
+    "lon": 13.52773,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata al Museo del Brigantaggio di Itri dedicata alla memoria, alle storie e alle testimonianze del territorio, con Maurizio Stammati, Alessandro Parente e Sibilla Berardi. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Itri",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Itri (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRTAt4gpUI/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "c-era-una-volta-italia-61-chivasso",
+    "titolo": "C'era una volta Italia '61",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T11:00",
+    "luogo": "Biblioteca Civica MOviMEnte",
+    "indirizzo": "Chivasso",
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra storico-documentaria sull'Esposizione Internazionale di Torino del 1961, simbolo del boom economico: pannelli fotografici su padiglioni e architetture, oggetti originali e documenti. Inaugurazione sabato 7 novembre alle 11; sabato 21 alle 11 si chiude con la presentazione di un libro sull'Italia '61. Aperta lunedì-giovedì 9-19, venerdì 13-19, sabato 9-13.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Amici di Italia '61, con il patrocinio della Città di Chivasso",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Chivasso (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPSWUJBMPT/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-21T11:00"
+  },
+  {
+    "slug": "i-pomeriggi-della-salute-allergie-chivasso",
+    "titolo": "I pomeriggi della salute: allergie e intolleranze alimentari",
+    "categoria": "conferenza",
+    "inizio": "2026-11-05T17:15",
+    "luogo": "Teatrino Civico",
+    "indirizzo": "Chivasso",
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di divulgazione sanitaria su allergie e intolleranze alimentari con i medici della Medicina dell'ospedale di Chivasso, con spazio per domande. Ingresso libero fino a esaurimento posti. Fa parte del ciclo «I pomeriggi della salute», con il patrocinio dell'ASL TO4.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Chivasso",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Chivasso (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRjQmwhnHW/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-dei-morti-perugia-2026",
+    "titolo": "Fiera dei Morti 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-01",
+    "luogo": "Pian di Massiano e centro storico (piazza Italia)",
+    "indirizzo": "Pian di Massiano e piazza Italia",
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "La fiera tradizionale di Perugia, indicata come la più grande del Centro Italia, con bancarelle, prodotti tipici e novità, in due aree: Pian di Massiano e il centro storico. Fino al 5 novembre; il Minimetrò collega le due zone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Perugia",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Perugia (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfOntuhjk19/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-05"
+  },
+  {
+    "slug": "simposio-celibidache-perugia-2026",
+    "titolo": "Simposio per i 30 anni dalla scomparsa di Sergiu Celibidache",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "luogo": "Cittadella della Musica Ars et Labor",
+    "indirizzo": "Via Imbriani 2",
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di incontri dedicati al direttore d'orchestra romeno Sergiu Celibidache. Venerdì 6 novembre prova pubblica alle 10 e concerto inaugurale alle 20 (consigliata la prenotazione); le sessioni di studio del 7 e 8 si seguono anche in streaming.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ars et Labor",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Perugia (Instagram)",
+        "tipo": "stampa",
+        "url": "https://www.instagram.com/p/DfRz6iGiWlk/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08"
+  },
+  {
+    "slug": "60-anni-dall-alluvione-luca-bassanese-vigonovo",
+    "titolo": "60° anniversario dell'alluvione del 1966: spettacolo di Luca Bassanese",
+    "categoria": "teatro",
+    "inizio": "2026-11-05T20:45",
+    "luogo": "Centro parrocchiale di Tombelle",
+    "indirizzo": "Tombelle",
+    "comune": "027043",
+    "frazione": null,
+    "lat": 45.38989,
+    "lon": 12.01038,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata per ricordare l'alluvione del 1966: uno spettacolo in dialetto veneto di Luca Bassanese, tra musica e racconto del territorio, con foto e testimonianze di Vigonovo dell'epoca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Vigonovo",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vigonovo (Instagram)",
+        "tipo": "stampa",
+        "url": "https://www.instagram.com/reel/DfSQxbzgHNQ/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]
