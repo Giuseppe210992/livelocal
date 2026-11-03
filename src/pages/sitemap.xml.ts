@@ -14,6 +14,7 @@ export const GET: APIRoute = () => {
     { percorso: '/mappa/', lastmod: ultima(eventi) },
     { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
     { percorso: '/segnala/' },
+    { percorso: '/segnala/modulo/' },
     { percorso: '/privacy/' },
     ...regioni.map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
     ...province.map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),

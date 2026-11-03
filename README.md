@@ -48,7 +48,7 @@ Due volte al giorno un'attività programmata di Claude Code cerca nuovi eventi, 
 
 ## Segnalazioni degli organizzatori
 
-`/segnala/` spiega come segnalare un evento e rimanda a un Google Modulo (domande e testi in `docs/modulo-segnalazioni.md`). Chi segnala lascia nome, cognome e cellulare: servono solo per una telefonata di verifica e **non vanno mai nel repository né sul sito**. Il link del modulo e il contatto pubblico si cambiano in `src/data/impostazioni.json`. L'informativa è in `/privacy/`.
+`/segnala/` spiega come funziona e rimanda al modulo `/segnala/modulo/`: chi organizza lo compila e preme «Invia per revisione»; i dati arrivano per email al gestore tramite Web3Forms (attivazione e dettagli in `docs/modulo-segnalazioni.md`). Chi segnala lascia nome, cognome e cellulare: servono solo per una telefonata di verifica e **non vanno mai nel repository né sul sito**. La chiave di Web3Forms (`formKey`) e il contatto pubblico si cambiano in `src/data/impostazioni.json`. L'informativa è in `/privacy/`.
 
 ## Mappa e "vicino a me"
 

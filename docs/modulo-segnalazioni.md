@@ -1,62 +1,27 @@
-# Modulo per segnalare un evento (Google Moduli)
+# Modulo per segnalare un evento
 
-Questo modulo lo crea Giuseppe da telefono (app o browser, account Google di consultec2192@gmail.com). Qui ci sono domande e testi da copiare. Il link del modulo va poi scritto in `src/data/impostazioni.json` (campo `moduloUrl`): da quel momento il pulsante "Compila il modulo" compare su `/segnala/`.
+Il modulo è una pagina del sito: `/segnala/modulo/` (codice in `src/pages/segnala/modulo/index.astro` e `src/scripts/modulo.ts`). Chi lo compila preme **Invia per revisione** e i dati arrivano **per email** a chi gestisce il sito, tramite il servizio gratuito [Web3Forms](https://web3forms.com). Non passano dal repository e non vengono salvati sul sito.
 
-## 1. Crea il modulo
+## Attivarlo (una volta sola, dal telefono, 2 minuti)
+1. Apri **web3forms.com**, tocca *Create your Access Key*, scrivi l'email che deve ricevere le segnalazioni (consultec2192@gmail.com) e conferma.
+2. Ti arriva una email con la **chiave** (una sequenza di lettere e numeri). Copiala.
+3. Scrivi la chiave in `src/data/impostazioni.json`, campo `formKey` (o mandala a Claude, che la inserisce). La chiave è fatta per stare in chiaro nella pagina: serve solo a far arrivare le email a te.
+4. Dopo la pubblicazione (pochi minuti) il pulsante diventa attivo. Prova con una segnalazione finta e controlla che l'email arrivi (guarda anche in *Spam*).
 
-Titolo: **Segnala un evento – LiveLocal**
+Piano gratuito: circa 250 segnalazioni al mese. Se un giorno servisse di più, si passa a un piano a pagamento o a un altro servizio.
 
-Descrizione (copia):
-> Segnala gratis un evento pubblico nel Lazio o in Campania. Bastano due minuti. Prima di pubblicarlo ti chiameremo per verificare che sei una persona vera e che l'evento esiste. Nome, cognome e cellulare non verranno mai pubblicati: servono solo per la telefonata.
+## Cosa trovi nell'email
+Oggetto «LiveLocal – evento da verificare: <titolo>». Nel testo: **CHIAMA** con il numero pronto da toccare, nome, cognome, cellulare, chi organizza, titolo, tipo, comune, **codice luogo**, posto, indirizzo, date (anche in formato per il sito), descrizione, ingresso, link, consenso privacy.
 
-### Sezione 1: «Chi sei» (tutte obbligatorie)
-| Domanda | Tipo | Note |
-|---|---|---|
-| Nome | Risposta breve | |
-| Cognome | Risposta breve | |
-| Cellulare | Risposta breve | Convalida → Espressione regolare → Corrisponde a: `^(\+39)? ?3[0-9]{8,9}$` · Messaggio: «Scrivi un cellulare italiano, per esempio 3331234567» |
-| Chi organizza (nome che comparirà sul sito) | Risposta breve | Descrizione: «Per esempio: Pro Loco di Scauri, Parrocchia San Pietro, oppure il tuo nome» |
+## Protezioni anti-spam
+- campo nascosto (trappola per i programmi) e tempo minimo di compilazione di 4 secondi: in questi casi il modulo finge di aver inviato ma non manda nulla;
+- controlli sul cellulare, sul comune (solo Lazio e Campania, scelto dall'elenco), sulle date e sulla lunghezza della descrizione;
+- Web3Forms filtra a sua volta lo spam. Se arrivasse comunque spam, si può aggiungere hCaptcha dal pannello di Web3Forms.
 
-### Sezione 2: «L'evento»
-| Domanda | Tipo | Obbligatoria |
-|---|---|---|
-| Titolo dell'evento | Risposta breve | sì |
-| Che tipo di evento è? | Menu a discesa: Mostra · Visita guidata · Apertura straordinaria · Concerto · Teatro · Sagra e gusto · Festa religiosa · Mercatino · Conferenza · Sport e camminate · Per bambini | sì |
-| Comune (e frazione, se c'è) | Risposta breve | sì |
-| Nome del posto | Risposta breve (es. «Palazzo Ducale») | sì |
-| Indirizzo | Risposta breve | sì |
-| Data di inizio | Data | sì |
-| Ora di inizio | Ora | no |
-| Data di fine (se dura più giorni) | Data | no |
-| Ora di fine | Ora | no |
-| Descrizione | Paragrafo · Descrizione: «2-5 righe, scritte con parole tue» | sì |
-| Ingresso | Scelta multipla: Gratuito · A pagamento · A offerta libera | sì |
-| Se è a pagamento, quanto? | Risposta breve | no |
-| Link alla pagina o alla locandina dell'evento (sito, Facebook, Instagram) | Risposta breve | no, ma aiuta la verifica |
+## Come si verifica (promemoria)
+1. Tocca CHIAMA. Chiedi: sei tu che organizzi? Che evento è? Dove e quando?
+2. Se torna tutto: inoltra l'email a Claude (o incolla i dati in chat) e l'evento viene pubblicato con fonte «organizzatore». Se non risponde dopo due tentativi in giorni diversi, o le risposte non tornano: non si pubblica.
+3. **Cancella l'email dopo la verifica**, e comunque entro 90 giorni: lo promette l'informativa privacy.
 
-### Sezione 3: «Ultimi controlli» (obbligatorie)
-| Domanda | Tipo | Note |
-|---|---|---|
-| Ho letto l'informativa privacy (https://giuseppe210992.github.io/livelocal/privacy/) e accetto di essere chiamato per la verifica | Caselle di controllo (una sola) | |
-| Controllo anti-spam: quanto fa 3 + 4? | Risposta breve | Convalida → Espressione regolare → Corrisponde a: `^7$` |
-
-Messaggio di conferma (Impostazioni → Presentazione):
-> Grazie! Ti chiameremo presto per la verifica. Dopo la telefonata pubblichiamo l'evento.
-
-### Impostazioni
-- **Non** raccogliere indirizzi email (non serve) e non chiedere l'accesso a Google: deve poter rispondere chiunque, senza account.
-- Risposte: un modulo, nessun limite di risposte.
-
-## 2. Notifica sul telefono
-1. Nel modulo apri **Risposte** → tre puntini → **Ricevi notifiche via email per le nuove risposte**.
-2. Opzionale ma consigliato: **Risposte → Collega a Fogli**, così hai nome, cognome e cellulare in una tabella. Aggiungi due colonne a mano: **Verificato** (sì/no) e **Chiamato il**.
-
-La notifica arriva a consultec2192@gmail.com e ti suona sul telefono. Dal Foglio tocchi il numero per chiamare.
-
-## 3. Come si verifica (promemoria per Giuseppe)
-1. Chiama il numero. Chiedi: sei tu che organizzi? Che evento è? Dove e quando?
-2. Se torna tutto → scrivi **sì** in «Verificato». Se non risponde dopo due tentativi in giorni diversi, o le risposte non tornano → **no**.
-3. Cancella nome, cognome e cellulare **dopo la verifica**, e comunque entro 90 giorni (lo promette l'informativa privacy).
-
-## 4. Dal modulo al sito
-Per ora un evento verificato lo scrivi tu a Claude (o lo incolli in chat) e finisce online. Passo successivo, da fare dopo il collaudo: un secondo foglio con solo gli eventi verificati e **senza** nome e cellulare, pubblicato come CSV, che il sito legge ogni ora.
+## Dal modulo al sito (passo successivo)
+Per ora l'evento verificato lo pubblica Claude su tua indicazione. Più avanti si può automatizzare: la sessione di ricerca legge le email "evento da verificare" e, quando rispondi "verificato 1", pubblica l'evento.

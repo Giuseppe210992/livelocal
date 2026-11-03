@@ -1,0 +1,90 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { categorie } from '../../../lib/eventi';
+import { SITO, IMPOSTAZIONI, href } from '../../../lib/sito';
+
+const attivo = Boolean(IMPOSTAZIONI.formKey);
+const oggi = new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Rome' }).format(new Date());
+---
+<Base
+  titolo={`Modulo per segnalare un evento | ${SITO.nome}`}
+  descrizione="Compila il modulo e invia il tuo evento per la revisione: ti chiamiamo per verificare e poi lo pubblichiamo gratis su LiveLocal."
+  percorso="/segnala/modulo/"
+>
+  <section class="apertura">
+    <p class="apertura__sopra"><a href={href('/segnala/')}>Segnala un evento</a></p>
+    <h1>Invia il tuo evento</h1>
+    <p class="apertura__testo">Due minuti. Ti chiamiamo per verificare, poi lo pubblichiamo gratis. Nome, cognome e cellulare non vengono mai pubblicati.</p>
+  </section>
+
+  {!attivo && (
+    <div class="avviso"><p><b>Il modulo è quasi pronto.</b> Fra poco potrai inviarlo da qui. Intanto scrivi a <a href={`mailto:${IMPOSTAZIONI.emailContatto}`}>{IMPOSTAZIONI.emailContatto}</a>.</p></div>
+  )}
+
+  <form id="modulo" class="modulo" novalidate data-chiave={IMPOSTAZIONI.formKey} data-luoghi={href('/comuni.json')}>
+    <fieldset>
+      <legend>1. Chi sei</legend>
+      <label>Nome<input name="nome" required autocomplete="given-name" maxlength="60" /></label>
+      <label>Cognome<input name="cognome" required autocomplete="family-name" maxlength="60" /></label>
+      <label>Cellulare<input name="cellulare" type="tel" inputmode="tel" required autocomplete="tel" maxlength="20" placeholder="Il tuo numero" /><small>Ti chiamiamo a questo numero per la verifica.</small></label>
+      <label>Chi organizza<input name="organizzatore" required maxlength="100" /><small>È il nome che comparirà sul sito: per esempio «Pro Loco di Scauri», oppure il tuo nome.</small></label>
+    </fieldset>
+
+    <fieldset>
+      <legend>2. L'evento</legend>
+      <label>Titolo<input name="titolo" required maxlength="120" /></label>
+      <label>Che tipo di evento è?
+        <select name="categoria" required>
+          <option value="">Scegli…</option>
+          {categorie.map((c) => <option value={c.nome}>{c.nome}</option>)}
+        </select>
+      </label>
+      <label>Comune (o frazione)
+        <input name="luogo_comune" id="luogo-comune" type="search" list="elenco-comuni" required autocomplete="off" placeholder="Scrivi e scegli dai suggerimenti" />
+        <datalist id="elenco-comuni"></datalist>
+        <small>Lazio e Campania.</small>
+      </label>
+      <label>Nome del posto<input name="posto" required maxlength="120" /><small>Per esempio «Palazzo Ducale».</small></label>
+      <label>Indirizzo<input name="indirizzo" required maxlength="160" autocomplete="off" /></label>
+      <div class="coppia">
+        <label>Data di inizio<input name="data_inizio" type="date" required min={oggi} /></label>
+        <label>Ora di inizio<input name="ora_inizio" type="time" /></label>
+      </div>
+      <div class="coppia">
+        <label>Data di fine<input name="data_fine" type="date" min={oggi} /></label>
+        <label>Ora di fine<input name="ora_fine" type="time" /></label>
+      </div>
+      <small class="sotto">La fine serve solo se l'evento dura più giorni o vuoi indicare l'orario di chiusura.</small>
+      <label>Descrizione<textarea name="descrizione" required rows="5" minlength="30" maxlength="700"></textarea><small>2-5 righe, scritte con parole tue.</small></label>
+      <fieldset class="scelte">
+        <legend>Ingresso</legend>
+        <label class="radio"><input type="radio" name="ingresso" value="Gratuito" required /> Gratuito</label>
+        <label class="radio"><input type="radio" name="ingresso" value="A pagamento" /> A pagamento</label>
+        <label class="radio"><input type="radio" name="ingresso" value="A offerta libera" /> A offerta libera</label>
+      </fieldset>
+      <label>Se è a pagamento, quanto?<input name="prezzo" maxlength="60" /></label>
+      <label>Link alla pagina o alla locandina (facoltativo)<input name="link" type="url" inputmode="url" maxlength="300" placeholder="https://…" /><small>Sito, Facebook o Instagram dell'evento: ci aiuta a verificare.</small></label>
+    </fieldset>
+
+    <fieldset>
+      <legend>3. Ultimo controllo</legend>
+      <label class="radio consenso"><input type="checkbox" name="consenso" required /><span>Ho letto l'<a href={href('/privacy/')}>informativa privacy</a> e accetto di essere chiamato per la verifica.</span></label>
+      <input class="miele" type="text" name="sito_web" tabindex="-1" autocomplete="off" aria-hidden="true" />
+    </fieldset>
+
+    <p class="stato-modulo" id="stato-modulo" role="status" aria-live="polite"></p>
+    <button class="bottone" type="submit" id="invia" disabled={!attivo}>Invia per revisione</button>
+  </form>
+
+  <div class="grazie" id="grazie" hidden>
+    <h2>Ricevuto, grazie!</h2>
+    <p>Abbiamo ricevuto il tuo evento. <b>Ti chiameremo presto</b> al numero che hai lasciato per la verifica: se non riesci a rispondere, richiamiamo in un altro momento.</p>
+    <p>Dopo la telefonata pubblichiamo l'evento. Se serve cambiare qualcosa, scrivi a <a href={`mailto:${IMPOSTAZIONI.emailContatto}`}>{IMPOSTAZIONI.emailContatto}</a>.</p>
+    <p><a class="bottone bottone--secondario" href={href('/segnala/modulo/')}>Segnala un altro evento</a></p>
+  </div>
+</Base>
+
+<script>
+  import { avviaModulo } from '../../../scripts/modulo';
+  avviaModulo();
+</script>

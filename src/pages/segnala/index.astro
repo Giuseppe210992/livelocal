@@ -2,7 +2,6 @@
 import Base from '../../layouts/Base.astro';
 import { SITO, IMPOSTAZIONI, href } from '../../lib/sito';
 
-const modulo = IMPOSTAZIONI.moduloUrl;
 const email = IMPOSTAZIONI.emailContatto;
 ---
 <Base
@@ -25,13 +24,7 @@ const email = IMPOSTAZIONI.emailContatto;
     <li><b>Lo pubblichiamo.</b> La pagina dell'evento compare sul sito, sulla mappa e per Google, con il nome di chi organizza.</li>
   </ol>
 
-  {modulo ? (
-    <p><a class="bottone" href={modulo} rel="noopener">Compila il modulo</a></p>
-  ) : (
-    <div class="avviso">
-      <p><b>Il modulo sarà attivo a breve.</b> Intanto puoi scrivere a <a href={`mailto:${email}`}>{email}</a> con: titolo dell'evento, data e ora, luogo e comune, due righe di descrizione, e il tuo nome, cognome e cellulare.</p>
-    </div>
-  )}
+  <p><a class="bottone" href={href('/segnala/modulo/')}>Compila il modulo</a></p>
 
   <h2>Cosa serve</h2>
   <ul>
@@ -43,7 +36,7 @@ const email = IMPOSTAZIONI.emailContatto;
   <h2>Cosa facciamo con i tuoi dati</h2>
   <p>
     Nome, cognome e cellulare servono solo per la telefonata di verifica. <b>Non vengono mai pubblicati.</b>{' '}
-    Li vede solo chi gestisce il sito e li cancelliamo dopo la verifica, al massimo entro 90 giorni.
+    Li vede solo chi gestisce il sito: arrivano per email e li cancelliamo dopo la verifica, al massimo entro 90 giorni.
     Sul sito compare solo il nome pubblico di chi organizza (per esempio «Pro Loco di Scauri»).
     I dettagli sono nell'<a href={href('/privacy/')}>informativa privacy</a>.
   </p>
