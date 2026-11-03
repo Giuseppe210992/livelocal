@@ -1,6 +1,6 @@
 ---
 // Struttura comune a tutte le pagine: <head> per Google e social, intestazione, piè di pagina.
-import { SITO, href, urlAssoluto } from '../lib/sito';
+import { SITO, IMPOSTAZIONI, href, urlAssoluto } from '../lib/sito';
 import '../styles/globale.css';
 
 interface Props {
@@ -25,6 +25,8 @@ const immagineOg = urlAssoluto(immagine);
     <meta name="description" content={descrizione} />
     <link rel="canonical" href={canonico} />
     <meta name="robots" content="index, follow, max-image-preview:large" />
+    {IMPOSTAZIONI.verificaGoogle && <meta name="google-site-verification" content={IMPOSTAZIONI.verificaGoogle} />}
+    {IMPOSTAZIONI.verificaBing && <meta name="msvalidate.01" content={IMPOSTAZIONI.verificaBing} />}
     <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#11161d" media="(prefers-color-scheme: dark)" />
     <link rel="icon" href={href('/favicon.svg')} type="image/svg+xml" />

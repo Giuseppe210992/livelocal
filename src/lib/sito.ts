@@ -3,7 +3,7 @@
 
 import impostazioni from '../data/impostazioni.json';
 
-export const IMPOSTAZIONI = impostazioni as { emailContatto: string; formKey: string };
+export const IMPOSTAZIONI = impostazioni as { emailContatto: string; formKey: string; verificaGoogle?: string; verificaBing?: string };
 
 export const SITO = {
   nome: 'LiveLocal',

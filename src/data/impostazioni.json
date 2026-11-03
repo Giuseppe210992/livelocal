@@ -1,5 +1,7 @@
 {
-  "_nota": "Impostazioni modificabili a mano. emailContatto: contatto PUBBLICO mostrato nelle pagine (scelto dal titolare). formKey: chiave pubblica di Web3Forms (web3forms.com) che fa arrivare le segnalazioni all'email del titolare; finché è vuota il modulo non invia.",
+  "_nota": "Impostazioni modificabili a mano. emailContatto: contatto PUBBLICO mostrato nelle pagine (scelto dal titolare). formKey: chiave pubblica di Web3Forms (web3forms.com) che fa arrivare le segnalazioni all'email del titolare; finché è vuota il modulo non invia. verificaGoogle / verificaBing: solo il valore content del meta tag di verifica di Google Search Console e di Bing Webmaster Tools; se vuoti, il tag non viene messo.",
   "emailContatto": "consultec2192@gmail.com",
-  "formKey": "4ea9d2f1-2916-4b93-9b61-723c135ab504"
+  "formKey": "4ea9d2f1-2916-4b93-9b61-723c135ab504",
+  "verificaGoogle": "",
+  "verificaBing": ""
 }
