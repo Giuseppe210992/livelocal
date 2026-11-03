@@ -54,14 +54,15 @@ In ogni giro guarda anche i portali regionali e il Ministero della Cultura (`cul
 
 **Regioni nuove**: non c'è ancora un elenco di organizzatori. Parti dall'elenco regionale delle Pro Loco (vedi `docs/organizzatori-da-seguire.md`), dai siti dei Comuni più grandi (sezione eventi) e dal portale turistico ufficiale della Regione. Quando trovi un organizzatore che pubblica eventi veri, aggiungilo a `docs/organizzatori-da-seguire.md` (solo enti, mai persone) insieme alla modifica di `eventi.json`.
 
-### Giri orari: budget, credito e durata
+### Giri orari: budget e limiti di TinyFish
 
-Con un giro ogni ora servono regole di misura, altrimenti si consuma tutto in poco tempo.
+Con un giro ogni ora servono regole di misura.
 
-1. **Credito TinyFish.** All'inizio di ogni giro chiama `get_wallet`. Se `available_balance` è sotto **2 dollari**: non fare ricerche né aperture di pagine; fai solo le approvazioni per email e scrivi a Giuseppe **una sola volta al giorno** «credito TinyFish quasi finito» (la ricarica la fa lui, mai tu). Se sei tra 2 e 5 dollari, dimezza il lavoro del giro.
-2. **Budget per giro**: al massimo **15 ricerche** (`search`) e **40 pagine aperte** (`fetch_content`, fino a 10 per chiamata). Quando finisci il budget, chiudi il giro: il prossimo parte tra un'ora. Meglio poco e sicuro che tanto e dubbio.
-3. **Durata**: punta a chiudere in meno di 40 minuti. Se non hai trovato niente di nuovo, non è un problema: fai build solo se hai cambiato qualcosa, e non mandare email.
-4. **Niente lavoro doppio**: prima di cercare una fonte guarda se un evento con quel titolo e quella data è già in `eventi.json`; se sì, aggiungi al massimo la fonte.
+1. **Costi.** `search` e `fetch_content` di TinyFish sono **gratuiti** e non toccano il credito del portafoglio (funzionano anche a saldo zero). **Non usare** invece gli strumenti a pagamento: `run_web_automation*`, sessioni del browser, monitor, dataset, deep research. Non serve controllare `get_wallet` e non si ricarica mai niente.
+2. **Limiti di TinyFish**: 30 ricerche al minuto e 500 all'ora; 150 pagine al minuto e **1.000 pagine al giorno** (`fetch_content` conta ogni indirizzo). Con 24 giri al giorno il tetto giornaliero è il limite vero.
+3. **Budget per giro**: al massimo **15 ricerche** (`search`) e **30 pagine aperte** (`fetch_content`, fino a 10 per chiamata). I due giri storici delle 2:37 e 14:37 possono arrivare a 40. Se TinyFish risponde che il limite giornaliero è finito, chiudi il giro: riprende da solo il giorno dopo.
+4. **Durata**: punta a chiudere in meno di 40 minuti. Se non hai trovato niente di nuovo non è un problema: fai build solo se hai cambiato qualcosa, e non mandare email.
+5. **Niente lavoro doppio**: prima di cercare una fonte guarda se un evento con quel titolo e quella data è già in `eventi.json`; se sì, aggiungi al massimo la fonte.
 
 ### Censimento nazionale (obiettivo di Giuseppe, 3 novembre 2026)
 
@@ -168,8 +169,8 @@ Al massimo **25 eventi nuovi per giro**, variando comuni e categorie. Preferisci
 Con un giro ogni ora le email vanno **contenute**: Giuseppe non deve ricevere 24 messaggi al giorno.
 
 1. **Richiesta di approvazione**: manda l'email «eventi da approvare» solo se ci sono eventi `in-revisione` non ancora proposti **e** l'ultima email di quel tipo è di più di **6 ore** fa (controlla nella posta inviata). Altrimenti aspetta il giro dopo: gli eventi restano in revisione.
-2. **Riepilogo serale**: nel **primo giro dopo le 20:00 ora italiana** manda **una** email con i numeri della giornata: eventi pubblicati oggi, eventi da approvare ancora aperti, province con eventi in programma su 110 (da `docs/copertura.md`), account Instagram leggibili, link ancora in coda, credito TinyFish, giorni alla scadenza del token Meta.
-3. **Problemi**: manda subito un'email (al massimo una al giorno per tipo di problema) se il giro è bloccato, se il token Meta è scaduto o a meno di 14 giorni dalla scadenza, o se il credito TinyFish è sotto i 2 dollari.
+2. **Riepilogo serale**: nel **primo giro dopo le 20:00 ora italiana** manda **una** email con i numeri della giornata: eventi pubblicati oggi, eventi da approvare ancora aperti, province con eventi in programma su 110 (da `docs/copertura.md`), account Instagram leggibili, link ancora in coda, giorni alla scadenza del token Meta.
+3. **Problemi**: manda subito un'email (al massimo una al giorno per tipo di problema) se il giro è bloccato o se il token Meta è scaduto o a meno di 14 giorni dalla scadenza.
 4. **Negli altri giri non mandare niente.**
 
 - Oggetto, se ci sono eventi da approvare: `LiveLocal – eventi da approvare (2 novembre, pomeriggio)`
