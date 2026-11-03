@@ -151,6 +151,29 @@ Un'azione di GitHub (`.github/workflows/controlla-instagram.yml`, ogni giorno al
 
 Finestra: eventi che iniziano **da oggi a 45 giorni**. Vanno bene anche le mostre già aperte che finiscono dopo oggi.
 
+## 4 bis. Che cosa è un evento per LiveLocal (valutalo PRIMA di tutto)
+
+LiveLocal è una guida a **cose da andare a vedere o fare**: chi legge vuole sapere «dove vado questo fine settimana». Ogni post o locandina letta va valutato con questa domanda: *una persona qualunque della zona, o un turista, ha un motivo per uscire di casa e andarci?* Se la risposta è no, scartalo, anche se ha data, ora e luogo.
+
+**Sì, entrano:**
+- mostre, musei e siti con aperture speciali o visite guidate; concerti, spettacoli, teatro, cinema all'aperto, festival;
+- sagre, degustazioni, feste patronali e religiose pubbliche, processioni, presepi viventi, mercatini, fiere;
+- conferenze, presentazioni di libri, incontri culturali e convegni **aperti a tutti e di interesse culturale o civico generale**;
+- sport e camminate aperti al pubblico (corse, passeggiate, tornei, regate), eventi per bambini e famiglie, laboratori aperti;
+- cerimonie e commemorazioni pubbliche con una parte aperta alla cittadinanza (per esempio 4 novembre), giornate di raccolta fondi e solidarietà.
+
+**No, si scartano:**
+- **consigli comunali, giunte, commissioni, assemblee e riunioni istituzionali o di condominio**, anche se pubblici: sono atti amministrativi, non eventi da frequentare;
+- **comizi, riunioni e iniziative di partito o di liste elettorali**, e tutto ciò che fa propaganda politica;
+- **avvisi di servizio**: chiusure di uffici e strade, orari, lavori, ordinanze, allerte, raccolta rifiuti, scadenze di tributi, bandi, concorsi, graduatorie, elenchi, ringraziamenti;
+- notizie, bilanci, inaugurazioni di opere pubbliche senza una parte di festa o spettacolo, visite di autorità;
+- promozioni commerciali (saldi, aperture di negozi, offerte), corsi a pagamento di palestre e scuole, feste private o solo per soci, eventi solo online;
+- eventi **già passati** o con una sola data nella finestra non verificabile; edizioni dell'anno scorso.
+
+**Casi dubbi** (assemblee pubbliche su temi che riguardano tutti, incontri con un candidato, eventi di categoria o di partito aperti): **scarta**, e dillo nel riepilogo solo se erano molti. Un buco nell'elenco costa meno di un evento che non c'entra.
+
+Per le locandine vale lo stesso: prima leggi di che cosa tratta, poi decidi. «Consiglio Comunale» scritto in grande su un manifesto è un atto amministrativo: si scarta senza cercare altro.
+
 ## 5. Controllo in 4 punti (per ogni evento)
 
 1. **Esiste**: la pagina letta riporta titolo, data e luogo.
