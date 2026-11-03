@@ -363,5 +363,305 @@
     ],
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-del-novello-castagne-e-grottone-castelvenere",
+    "titolo": "Festa del Novello, Castagne e Grottone",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Centro storico di Castelvenere",
+    "indirizzo": "Borgo medievale",
+    "comune": "062019",
+    "frazione": null,
+    "lat": 41.2313,
+    "lon": 14.55491,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giorni a Castelvenere, nel Sannio, dedicati al vino novello, alle caldarroste e al Grottone, il formaggio tipico del posto. In programma degustazioni, visite guidate al borgo medievale e musica popolare. La domenica gli stand sono aperti anche a pranzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Castelvenere",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Pro Loco Castelvenere",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococastelvenere.it/2026/10/27/festa-del-novello-castagne-e-grottone-7-8-novembre-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-della-castagna-di-montella-igp-montella",
+    "titolo": "42ª Festa della Castagna di Montella IGP",
+    "categoria": "sagra",
+    "inizio": "2026-11-01",
+    "fine": "2026-11-08",
+    "luogo": "Piazza Bartoli e centro di Montella",
+    "indirizzo": "Piazza Sebastiano Bartoli",
+    "comune": "064057",
+    "frazione": null,
+    "lat": 40.8423057,
+    "lon": 15.0180166,
+    "coordinateApprossimate": false,
+    "descrizione": "La festa della castagna IGP di Montella si svolge in due fine settimana: 1-2 novembre e 6-8 novembre. Stand con la castagna in tante ricette, dalle caldarroste ai dolci, poi concerti di musica popolare, artisti di strada, spettacoli per bambini in Villa De Marco e la consegna del premio Riccio d'Oro sabato 7 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Montella",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Festa Castagna di Montella IGP (pagina Facebook)",
+        "tipo": "organizzatore",
+        "url": "https://www.facebook.com/SagraCastagnaDiMontella/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Sistema Irpinia – Provincia di Avellino",
+        "tipo": "aggregatore",
+        "url": "https://sistemairpinia.provincia.avellino.it/it/eventi/festa-della-castagna-di-montella-igp-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "83048"
+  },
+  {
+    "slug": "la-vedova-allegra-salerno",
+    "titolo": "La vedova allegra",
+    "categoria": "teatro",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Teatro Municipale Giuseppe Verdi",
+    "indirizzo": "Piazza Matteo Luciani",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67921,
+    "lon": 14.7526695,
+    "coordinateApprossimate": false,
+    "descrizione": "L'operetta di Franz Lehár in un nuovo allestimento del Teatro Verdi, con la regia di Massimiliano Gallo e l'orchestra e il coro del Conservatorio Martucci di Salerno. Tre recite: venerdì 6 e sabato 7 novembre alle 21, domenica 8 alle 18. Biglietti da 25 euro (ridotti per under 30 e over 65).",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": "https://www.vivaticket.com",
+    "organizzatore": "Teatro Municipale Giuseppe Verdi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura – Comune di Salerno",
+        "tipo": "ufficiale",
+        "url": "https://cultura.comune.salerno.it/eventi/la-vedova-allegra-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "84121"
+  },
+  {
+    "slug": "laura-marzadori-danilo-rea-salerno",
+    "titolo": "Laura Marzadori e Danilo Rea – Cinema Paradise",
+    "categoria": "concerto",
+    "inizio": "2026-11-16T21:00",
+    "luogo": "Teatro Municipale Giuseppe Verdi",
+    "indirizzo": "Piazza Matteo Luciani",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67921,
+    "lon": 14.7526695,
+    "coordinateApprossimate": false,
+    "descrizione": "Per la rassegna Musica d'Artista, la violinista Laura Marzadori e il pianista Danilo Rea suonano con l'Orchestra Filarmonica di Salerno le grandi musiche da film: Morricone, Rota, Piovani, Bacalov e altri. Biglietti da 15 a 25 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Municipale Giuseppe Verdi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura – Comune di Salerno",
+        "tipo": "ufficiale",
+        "url": "https://cultura.comune.salerno.it/eventi/laura-marzadori-danilo-rea-musica-dartista-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "84121"
+  },
+  {
+    "slug": "fabrizio-bosso-all-opera-salerno",
+    "titolo": "Fabrizio Bosso – All'Opera",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T18:00",
+    "luogo": "Teatro Municipale Giuseppe Verdi",
+    "indirizzo": "Piazza Matteo Luciani",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67921,
+    "lon": 14.7526695,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto jazz del trombettista Fabrizio Bosso con un quintetto e un quartetto d'archi: arie e ouverture d'opera di Mozart, Puccini, Bizet e Mascagni rilette in chiave jazz. Fa parte della rassegna Musica d'Artista. Biglietti da 15 a 25 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Municipale Giuseppe Verdi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura – Comune di Salerno",
+        "tipo": "ufficiale",
+        "url": "https://cultura.comune.salerno.it/eventi/fabrizio-bosso-musica-dartista-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "84121"
+  },
+  {
+    "slug": "incanto-di-natale-benevento-2026",
+    "titolo": "InCanto di Natale 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-14",
+    "fine": "2027-01-10",
+    "luogo": "Piazza Risorgimento e Corso Garibaldi",
+    "indirizzo": "Piazza Risorgimento",
+    "comune": "062008",
+    "frazione": null,
+    "lat": 41.1301133,
+    "lon": 14.7850609,
+    "coordinateApprossimate": false,
+    "descrizione": "Undicesima edizione del Natale di Benevento: luminarie lungo Corso Garibaldi, il grande Cant'Albero in piazza Risorgimento con spettacoli di luci e musica, il Villaggio di Babbo Natale e un carosello gratuito per i bambini. Si inaugura sabato 14 novembre alle 17; in calendario anche cori gospel, zampognari e il presepe vivente del 19 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Benevento e Fondazione Benevento Città Spettacolo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Benevento Turismo – Comune di Benevento",
+        "tipo": "ufficiale",
+        "url": "https://beneventoturismo.it/incanto-di-natale-ecco-il-cartellone-della-rassegna/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "extinction-max-papeschi-salerno",
+    "titolo": "Extinction – Max Papeschi",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-04-04",
+    "luogo": "Casa del Combattente",
+    "indirizzo": "Lungomare Trieste",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.6756404,
+    "lon": 14.7698571,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione all'aperto dell'artista Max Papeschi: 46 sculture di guerrieri in terracotta con la testa di gnomo, disposte a ventaglio verso il mare, e tre nuove opere luminose. Un lavoro ironico sulla guerra e sulla pace, inaugurato sabato 7 novembre alle 17.30 nell'ambito di Luci d'Artista.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "FirEvents",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura – Comune di Salerno (patrocinio)",
+        "tipo": "aggregatore",
+        "url": "https://cultura.comune.salerno.it/eventi/extinction-max-papeschi/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-della-castagna-sorbo-serpico",
+    "titolo": "42ª Sagra della Castagna di Sorbo Serpico",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Piazza Amatucci e Piazza Nelson Mandela",
+    "indirizzo": "Via Vincenzo Pennetti",
+    "comune": "064102",
+    "frazione": null,
+    "lat": 40.9047,
+    "lon": 14.8898,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di stand con castagne, ricette irpine e pasta fatta a mano, con musica dal vivo e DJ set nelle due piazze del paese. Venerdì e sabato si mangia a cena, domenica 8 novembre anche a pranzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Sorbo Serpico, Comitato festa Maria SS. della Neve e Pro Loco",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Sistema Irpinia – Provincia di Avellino",
+        "tipo": "aggregatore",
+        "url": "https://sistemairpinia.provincia.avellino.it/it/eventi/la-42deg-sagra-della-castagna-sorbo-serpico",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "83050"
+  },
+  {
+    "slug": "sagra-della-castagna-e-dei-prodotti-del-sottobosco-acerno",
+    "titolo": "49ª Sagra della Castagna e dei prodotti del sottobosco",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Centro di Acerno",
+    "indirizzo": "Vie del paese",
+    "comune": "065001",
+    "frazione": null,
+    "lat": 40.74151,
+    "lon": 15.06492,
+    "coordinateApprossimate": true,
+    "descrizione": "Ad Acerno, sui Monti Picentini, la sagra dedicata alla castagna e ai prodotti del bosco: funghi, tartufi, nocciole e frutti di bosco. Ci sono falò, giochi, una simulazione di ricerca del tartufo, musica e balli popolari per le strade del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Pro Loco Acerno",
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Il Borghista",
+        "tipo": "aggregatore",
+        "url": "https://www.ilborghista.it/events/49-sagra-della-castagna-e-dei-prodotti-del-sottobosco-2026-associazione-pro-loco-acerno",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]
