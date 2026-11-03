@@ -52,3 +52,16 @@ jobs:
     steps:
       - id: deploy
         uses: actions/deploy-pages@v4
+      # Avvisa Bing e gli altri motori che usano IndexNow: le pagine nuove entrano nell'indice in poche ore.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Avvisa i motori di ricerca (IndexNow)
+        continue-on-error: true
+        run: node scripts/indexnow.mjs
+        env:
+          BASE_SHA: ${{ github.event.before }}
+          SITE_URL: https://livelocal.roomandrelax.it
