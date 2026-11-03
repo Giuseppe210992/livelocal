@@ -1,4 +1,4 @@
-# Copertura degli eventi (generato il 2026-11-03)
+# Copertura degli eventi (generato il 2026-11-04)
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
