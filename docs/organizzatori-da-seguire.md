@@ -63,3 +63,14 @@ Per le altre regioni parti da qui, poi cerca «Pro Loco <comune>» e il sito del
 - **Regione Lazio**, elenco regionale delle Pro Loco (PDF del 2018, da aggiornare): `regione.lazio.it/sites/default/files/documentazione/TUR_DD_G15861_06_12_2018_Allegato1_Elenco_regionale_Pro_Loco_del_Lazio.pdf`.
 - **Regione Campania**, elenco aggiornato al 31 maggio 2025: `regione.campania.it/assets/documents/elenco-aggiornato-al-31-05-2025.pdf`.
 - Altre regioni: cerca «elenco regionale Pro Loco» più il nome della regione.
+
+## Calabria e Sicilia (primo giro: 3 novembre 2026)
+
+| Chi | Dove guardare | Stato |
+|---|---|---|
+| Regione Calabria, portale turistico | `calabriastraordinaria.it/eventi` (teatri, concerti, sagre di tutta la regione) | verificato |
+| Regione Siciliana, portale turistico | `visitsicily.info/category/categorie/evento/` | verificato |
+| Musei statali della Calabria | `cultura.gov.it` (eventi per regione), `musei.calabria.beniculturali.it` | verificato |
+| Comune di Sant'Agata di Esaro (Sagra della Castagna) | Facebook `comunesantagatadiesaro` | verificato |
+| Sherbeth Festival (Palermo) | `sherbeth.it` | verificato |
+| Sfincione Fest (Bagheria) | `sfincionefest.it` | verificato |

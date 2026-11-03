@@ -3116,5 +3116,240 @@
     ],
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-marrc-reggio-calabria-4-novembre",
+    "titolo": "Ingresso gratuito al Museo Archeologico Nazionale di Reggio Calabria",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04T09:00",
+    "luogo": "Museo Archeologico Nazionale di Reggio Calabria (MArRC)",
+    "indirizzo": "Piazza Giuseppe De Nava 26",
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.1146421,
+    "lon": 15.6508987,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Giorno dell'Unità nazionale e delle Forze Armate il museo dei Bronzi di Riace si visita gratis, con il solito orario: dalle 9 alle 20, ultimo ingresso alle 19.30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo Archeologico Nazionale di Reggio Calabria",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Ministero della Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/Mercoled%C3%AC%204%20novembre%20-%20ingresso%20gratuito%20al%20MArRC",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-04T20:00",
+    "cap": "89123"
+  },
+  {
+    "slug": "corpi-liturgici-zappala-danza-catanzaro",
+    "titolo": "Corpi liturgici – Compagnia Zappalà Danza",
+    "categoria": "teatro",
+    "inizio": "2026-11-06",
+    "luogo": "Chiesa di Santa Maria del Carmine",
+    "indirizzo": "Via Gelso Bianco",
+    "comune": "079023",
+    "frazione": null,
+    "lat": 38.9040581,
+    "lon": 16.5972369,
+    "coordinateApprossimate": false,
+    "descrizione": "Per il Festival d'Autunno, uno spettacolo di danza contemporanea di Roberto Zappalà dedicato a San Francesco, a 800 anni dalla morte. In scena lo stesso Zappalà e la danzatrice Maud de la Purification, sulle musiche di David Lang.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival d'Autunno",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria – Regione Calabria",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/festival-dautunno-corpi-liturgici",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "come-dolce-all-alma-gioia-tauro",
+    "titolo": "Come dolce all'alma – Il canto italiano dal salotto al teatro",
+    "categoria": "concerto",
+    "inizio": "2026-11-06T18:45",
+    "luogo": "Sala Le Cisterne",
+    "indirizzo": "Centro di Gioia Tauro",
+    "comune": "080038",
+    "frazione": null,
+    "lat": 38.42894,
+    "lon": 15.92175,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per soprano e pianoforte con Giulia Pollice e Giuseppe D'Aloi: un percorso nel canto italiano, dalle romanze da salotto alle arie d'opera. Fa parte della 47ª stagione concertistica dell'Associazione Musicale Maurizio Quintieri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Musicale Maurizio Quintieri",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria – Regione Calabria",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/come-dolce-allalma",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-ardito-rosso-soverato",
+    "titolo": "L'Ardito Rosso – O dell'incanto meridiano di Leonida Repaci",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "luogo": "Teatro del Grillo",
+    "indirizzo": "Via Enrico Galvaligi, Soverato Superiore",
+    "comune": "079137",
+    "frazione": null,
+    "lat": 38.6881152,
+    "lon": 16.5452311,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo dedicato allo scrittore calabrese Leonida Repaci, scritto da Domenico Loddo, con Silvana Luppino e la regia di Christian Maria Parisi. Un racconto del Sud tra memoria e identità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Grillo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria – Regione Calabria",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/lardito-rosso",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "cap": "88068"
+  },
+  {
+    "slug": "storie-di-pezza-vibo-valentia",
+    "titolo": "Storie di Pezza",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T16:00",
+    "luogo": "Teatro Comunale di Vibo Valentia",
+    "indirizzo": "Vena",
+    "comune": "102047",
+    "frazione": null,
+    "lat": 38.6671157,
+    "lon": 16.0834067,
+    "coordinateApprossimate": false,
+    "descrizione": "Teatro di figura per bambini e famiglie di e con Angelo Gallo: draghi, lupi e personaggi di stoffa raccontano storie piene di fantasia. Fa parte del Festival Calabria Teatri in Città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Calabria Teatri in Città",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria – Regione Calabria",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/storie-di-pezza",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sherbeth-festival-palermo-2026",
+    "titolo": "Sherbeth Festival 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "luogo": "Piazza Verdi, davanti al Teatro Massimo",
+    "indirizzo": "Piazza Verdi e via Maqueda",
+    "comune": "082053",
+    "frazione": null,
+    "lat": 38.13008,
+    "lon": 13.33116,
+    "coordinateApprossimate": true,
+    "descrizione": "Diciottesima edizione del festival del gelato artigianale: 60 maestri gelatieri da sei continenti, ognuno con un gusto in gara. Degustazioni in piazza (si pagano con i gettoni del festival), incontri e laboratori per bambini. Ingresso libero; lunedì 16 alle 21 la premiazione al Teatro Politeama, con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": "https://sherbeth.it/",
+    "organizzatore": "Sherbeth Festival",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Sherbeth Festival",
+        "tipo": "organizzatore",
+        "url": "https://sherbeth.it/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Visit Sicily – Regione Siciliana",
+        "tipo": "ufficiale",
+        "url": "https://www.visitsicily.info/evento-new/sherbeth-festival-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-16"
+  },
+  {
+    "slug": "sfincione-fest-bagheria-2026",
+    "titolo": "Sfincione Fest 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-19",
+    "luogo": "Centro storico di Bagheria",
+    "indirizzo": "Corso Umberto I",
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.0786258,
+    "lon": 13.50957,
+    "coordinateApprossimate": false,
+    "descrizione": "Nona edizione del festival dello sfincione, la focaccia tipica di Bagheria, bianca e rossa. Quattro giorni con street food, cooking show, degustazioni, un'area per i bambini e concerti serali in piazza Matrice. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sfincione Fest",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Sfincione Fest",
+        "tipo": "organizzatore",
+        "url": "https://sfincionefest.it/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Visit Sicily – Regione Siciliana",
+        "tipo": "ufficiale",
+        "url": "https://www.visitsicily.info/evento-new/sfincione-fest-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22",
+    "cap": "90011"
   }
 ]
