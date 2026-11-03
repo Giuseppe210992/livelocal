@@ -106,3 +106,10 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Medio Campidano (VS), Sardegna
 - Cagliari (CA), Sardegna
 - Sulcis Iglesiente (CI), Sardegna
+
+## Instagram
+
+- Account leggibili ogni giorno: **45**
+- Candidati in attesa di essere valutati: 0
+- Account provati e non adatti o non leggibili: 14
+- Link a post in attesa di controllo: 125

@@ -79,7 +79,7 @@ const dormi = (ms) => new Promise((r) => setTimeout(r, ms));
 let chiamate = 0;
 let tokenScaduto = false;
 let limiteRaggiunto = false;
-const novita = { link: 0, controllati: 0, candidatiNuovi: 0, accettati: 0, scartatiOra: 0 };
+const novita = { link: 0, controllati: 0, candidatiNuovi: 0, accettati: 0, scartatiOra: 0, citazioni: 0, post: 0, conDidascalia: 0 };
 
 const normalizza = (n) => n.toLowerCase().replace(/\.+$/, '');
 
@@ -115,8 +115,11 @@ function elaboraPost(nome, post) {
   }
   // Nomi citati (@nome) in TUTTI i post letti: sono i candidati da valutare.
   for (const p of post) {
+    novita.post++;
+    if (p.caption) novita.conDidascalia++;
     for (const m of (p.caption || '').matchAll(/@([a-z0-9._]{3,30})/gi)) {
       const n = normalizza(m[1]);
+      novita.citazioni++;
       if (n === nome || scartati.has(n) || uscita.account[n] || uscita.candidati[n]) continue;
       if (elenco.account.includes(n)) continue;
       if (Object.keys(uscita.candidati).length >= MAX_CANDIDATI_IN_ATTESA) continue;
@@ -225,6 +228,7 @@ console.log(
   `Fatto (${chiamate} chiamate): ${novita.controllati} account controllati, ${novita.link} link nuovi, ` +
     `${novita.candidatiNuovi} candidati nuovi, ${novita.accettati} accettati, ${novita.scartatiOra} scartati.`,
 );
+console.log(`Post letti: ${novita.post}, con didascalia: ${novita.conDidascalia}, citazioni (@nome) trovate: ${novita.citazioni}.`);
 console.log(`In totale: ${leggibili} account leggibili, ${uscita.numeri.candidatiInAttesa} candidati in attesa, ${uscita.daVerificare.length} link in attesa.`);
 if (tokenScaduto) {
   console.error('Il token Meta è scaduto: va rinnovato (vedi docs/collegamento-facebook-instagram.md).');
