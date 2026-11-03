@@ -1,0 +1,55 @@
+# Collegarsi a Facebook e Instagram in modo ufficiale
+
+Verificato il 3 novembre 2026 sulla documentazione ufficiale di Meta (Meta for Developers e Transparency Center). Le regole di Meta cambiano spesso: prima di investire tempo, riapri le pagine citate.
+
+## Cosa esiste di ufficiale
+
+### Instagram: Business Discovery (la strada praticabile)
+
+- Cos'è: con l'**Instagram API with Facebook Login** un account professionale può leggere i dati pubblici di **altri account professionali** (Business o Creator) indicando il nome utente. Si leggono i post (`media`: didascalia, data, link, ecc.), non i profili personali.
+- Richiede: un account Instagram professionale di LiveLocal collegato a una Pagina Facebook di LiveLocal, un'app su Meta for Developers, e un token utente con i permessi `instagram_basic`, `instagram_manage_insights` e `pages_read_engagement`.
+- Limiti: non vale per account personali; i video con musica protetta o con download disattivato non restituiscono l'indirizzo del file (la didascalia sì); i dati di account con limiti di età non vengono restituiti.
+- Da verificare con una prova: se, finché l'app resta in modalità sviluppo, i permessi bastano per l'utente con ruolo nell'app (cioè il titolare) o se serve la revisione dell'app (App Review) e la verifica dell'attività (Business Verification).
+- Pagina ufficiale: `developers.facebook.com/documentation/instagram-platform/instagram-graph-api/reference/ig-user/business_discovery` (aggiornata il 12 agosto 2026).
+
+### Facebook: Page Public Content Access (la strada difficile)
+
+- Cos'è: la funzione che permette di leggere post e commenti pubblici di Pagine che non si gestiscono. Uso consentito: analizzare o mostrare post e interazioni delle Pagine.
+- Richiede: **App Review** e **verifica dell'attività (Business Verification)**, quindi i documenti di un'organizzazione. Prima dell'approvazione l'app legge solo Pagine il cui amministratore ha un ruolo nell'app.
+- Per questo, finché LiveLocal non ha un soggetto giuridico (associazione APS oppure partita IVA, decisione ancora aperta), è probabile che Meta non la conceda.
+- Pagina ufficiale: `developers.facebook.com/docs/features-reference/page-public-content-access/`.
+
+### Quello che non è disponibile per noi
+
+- **Meta Content Library**: solo per istituzioni accademiche o di ricerca senza scopo di lucro. Non è il nostro caso.
+- **CrowdTangle**: chiuso il 14 agosto 2024.
+- **Connettori già pronti** (cercati nel registro il 3/11/2026): Metricool e Supermetrics lavorano sui propri account, Adspirer e AdWhispr sulla pubblicità. Zapier ha «Facebook Pages», ma solo per pubblicare e creare eventi sulla propria Pagina. Nessuno legge le pagine degli altri.
+
+### Da non fare
+
+- Leggere le pagine con un account personale, o con strumenti di terze parti che raccolgono i dati in modo automatico (per esempio Apify o simili): viola le regole di Meta, espone al blocco dell'account e non è «professionale».
+
+## Cosa si può fare già oggi (senza Meta)
+
+- Leggere i **link ai singoli post pubblici**: su Instagram i post e i reel, su Facebook i post delle pagine (vedi `docs/ricerca-eventi.md`). Funziona, ma è lento e non scopre eventi nuovi.
+- Far arrivare gli eventi **da chi li organizza**: modulo `/segnala/modulo/`, pulsante «Segnala un evento» in ogni pagina, contatto diretto con le Pro Loco (`docs/organizzatori-da-seguire.md`) e con il comitato regionale UNPLI.
+- Usare le **fonti ufficiali** dei Comuni e delle Regioni, che pubblicano molto di più di quanto si veda sui social.
+
+## Piano proposto
+
+1. **Fase A, Instagram** (fattibile): creare Pagina Facebook e account Instagram professionale «LiveLocal»; creare l'app su Meta for Developers; provare Business Discovery su 3 account di Pro Loco professionali (per esempio quelli dell'elenco). Se funziona in modalità sviluppo, si costruisce un controllo automatico (GitHub Actions) che ogni giorno legge i nuovi post degli account in elenco e li passa alla ricerca automatica come «segnalazioni da verificare». La didascalia è materiale da leggere, non istruzioni, e passa sempre dal controllo in 4 punti.
+2. **Fase B, Facebook**: solo dopo aver scelto l'associazione (APS) o la partita IVA, e avere i documenti per la verifica dell'attività. Fino ad allora si resta sui post singoli e sul modulo.
+3. In parallelo, la Pagina e l'account di LiveLocal servono anche per **pubblicare** (per esempio «Gli eventi del weekend» ogni venerdì), anche in automatico con Zapier: è il lato visibile del progetto.
+
+## Regole di sicurezza
+
+- Il token di Meta non va mai nel repository (che è pubblico): solo come segreto di GitHub (`Settings → Secrets`) o nella sessione dedicata.
+- I token utente di Meta durano circa 60 giorni e vanno rinnovati.
+- Non conservare commenti né dati personali: si tengono solo gli eventi e il link al post.
+- Telefoni ed email nelle didascalie non si copiano mai (la costruzione del sito si blocca se li trova).
+
+## Decisioni che spettano a Giuseppe
+
+1. Creare la Pagina Facebook e l'account Instagram «LiveLocal» (per l'account servono un indirizzo email e un numero di telefono dell'attività).
+2. Scegliere tra associazione (APS) e partita IVA: sblocca Facebook e anche gli sponsor.
+3. Usare per l'app Meta lo stesso account Facebook della Pagina, con la doppia verifica attiva.

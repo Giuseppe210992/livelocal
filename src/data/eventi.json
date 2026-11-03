@@ -2114,5 +2114,1007 @@
     ],
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-del-torrone-cremona",
+    "titolo": "Festa del Torrone di Cremona",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico di Cremona",
+    "indirizzo": "Vie e piazze del centro",
+    "comune": "019036",
+    "frazione": null,
+    "lat": 45.14092,
+    "lon": 10.02976,
+    "coordinateApprossimate": true,
+    "descrizione": "Per la 29ª edizione la festa del torrone occupa il centro storico di Cremona per tre fine settimana (per la prima volta): torrone artigianale, degustazioni, showcooking, spettacoli, installazioni e rievocazioni storiche. Il tema del 2026 è «Il Confine». Ingresso gratuito. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/festa-del-torrone-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mantova-jazz-2026-mantova",
+    "titolo": "Mantova Jazz 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-09",
+    "fine": "2026-11-26",
+    "luogo": "Teatro Bibiena",
+    "indirizzo": "Via dell'Accademia 47",
+    "cap": "46100",
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.1578711,
+    "lon": 10.7981169,
+    "coordinateApprossimate": false,
+    "descrizione": "Il festival di quest'anno è dedicato ai cento anni dalla nascita di Miles Davis e John Coltrane. A novembre i concerti al Teatro Bibiena sono lunedì 9 con Miguel Zenón e Luis Perdomo, venerdì 20 con Jeremy Pelt e giovedì 26 con «Made in MN».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/mantova-jazz-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-donizetti-opera-2026-bergamo",
+    "titolo": "Festival Donizetti Opera 2026",
+    "categoria": "teatro",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-29",
+    "luogo": "Teatro Donizetti e Teatro Sociale",
+    "indirizzo": "Piazza Cavour 15",
+    "cap": "24121",
+    "comune": "016024",
+    "frazione": null,
+    "lat": 45.6950778,
+    "lon": 9.6710859,
+    "coordinateApprossimate": false,
+    "descrizione": "Dodicesima edizione del festival che ogni autunno rende omaggio a Gaetano Donizetti, diretta da Riccardo Frizza e dedicata a Gianandrea Gavazzeni. In programma opere rare come «L'esule di Roma» e «Alahor in Granata», più «Le convenienze ed inconvenienze teatrali», incontri, concerti e iniziative per famiglie e under 30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/festival-donizetti-opera-2026",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "antica-fiera-di-san-martino-inveruno",
+    "titolo": "Antica Fiera di San Martino a Inveruno",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-16",
+    "luogo": "Centro di Inveruno",
+    "indirizzo": "Vie del paese",
+    "cap": "20001",
+    "comune": "015113",
+    "frazione": null,
+    "lat": 45.51732,
+    "lon": 8.85341,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattro giorni di fiera nel segno delle tradizioni contadine: castagne arrosto, vino novello, ceci e cicciole negli stand gastronomici, più mercatini di prodotti artigianali e tipici. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/antica-fiera-di-san-martino-2026-0",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tartufesta-del-po-carbonara-di-po",
+    "titolo": "29ª Tartufesta del Po",
+    "categoria": "sagra",
+    "inizio": "2026-10-30",
+    "fine": "2026-11-22",
+    "luogo": "Carbonara di Po",
+    "indirizzo": "Carbonara di Po",
+    "comune": "020073",
+    "frazione": null,
+    "lat": 45.0378617,
+    "lon": 11.228166,
+    "coordinateApprossimate": false,
+    "descrizione": "Quattro fine settimana a tavola con il tartufo bianco: cena il venerdì e il sabato, pranzo la domenica (domenica 22 novembre anche a cena). Lamelle di tartufo su risotto, tortelli di zucca e tagliolini. Si prenota per telefono o WhatsApp: i recapiti sono sulla scheda dell'evento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "Su prenotazione (recapiti sulla scheda dell'evento)",
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/29a-tartufesta-del-po",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rassegna-della-microeditoria-chiari",
+    "titolo": "24ª Rassegna della Microeditoria italiana",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Villa Mazzotti",
+    "indirizzo": "Viale Giuseppe Mazzini",
+    "cap": "25032",
+    "comune": "017052",
+    "frazione": null,
+    "lat": 45.5410632,
+    "lon": 9.9371011,
+    "coordinateApprossimate": false,
+    "descrizione": "Fine settimana di libri e cultura nella villa liberty di Chiari: dibattiti e presentazioni di libri dei piccoli e medi editori italiani, con appuntamenti artistici e musicali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale l'Impronta, con il Comune di Chiari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "in-Lombardia (turismo della Regione Lombardia)",
+        "tipo": "ufficiale",
+        "url": "https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-d-autunno-plataci",
+    "titolo": "Festa d'Autunno a Plataci",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Centro di Plataci",
+    "indirizzo": "Vie del paese",
+    "comune": "078100",
+    "frazione": null,
+    "lat": 39.90379,
+    "lon": 16.42076,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata nel borgo arbëreshë di Plataci, pensata per famiglie e bambini: giochi di bolle, spettacoli di fuoco, musica e piatti della tradizione locale. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Plataci",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria (Regione Calabria)",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/festa-dautunno-a-plataci",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "notte-di-san-martino-montauro",
+    "titolo": "Notte di San Martino a Montauro",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Centro storico di Montauro",
+    "indirizzo": "Vie e piazze del centro storico",
+    "comune": "079080",
+    "frazione": null,
+    "lat": 38.74878,
+    "lon": 16.52507,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattordicesima edizione della festa dedicata ai sapori e alle tradizioni dell'autunno calabrese: dalle 18 il centro storico si anima con musica, enogastronomia, arte e cultura popolare. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria (Regione Calabria)",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/la-notte-di-san-martino",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-della-castagna-cerva",
+    "titolo": "Festa della Castagna e Sagra della Caldarrosta a Cerva",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Centro storico di Cerva",
+    "indirizzo": "Vie del centro storico",
+    "comune": "079027",
+    "frazione": null,
+    "lat": 39.01646,
+    "lon": 16.75088,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza Festa della Castagna e dodicesima Sagra della Caldarrosta: passeggiata culturale nel centro storico, visita ai murales, incontri sul castagno e sul Museo della Castagna, stand con caldarroste e prodotti a base di castagne. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria (Regione Calabria)",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/festa-della-castagna-a-cerva",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "olioliva-imperia",
+    "titolo": "Olioliva a Imperia",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Centro storico di Oneglia",
+    "indirizzo": "Oneglia",
+    "comune": "008031",
+    "frazione": null,
+    "lat": 43.8890575,
+    "lon": 8.0404426,
+    "coordinateApprossimate": true,
+    "descrizione": "Ventiseiesima edizione della festa dell'olio nuovo: tre giorni di degustazioni, visite a oliveti e frantoi, laboratori, convegni e stand con i prodotti tipici liguri, con l'oliva taggiasca al centro. Sabato 7 novembre parte un treno storico da Genova Brignole. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Azienda Speciale della Camera di Commercio – Riviere di Liguria",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/olioliva-imperia/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-della-zucca-murta-genova",
+    "titolo": "Mostra della Zucca di Murta",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-15",
+    "luogo": "Murta, accanto alla parrocchia",
+    "indirizzo": "Murta",
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.4616688,
+    "lon": 8.8894923,
+    "coordinateApprossimate": true,
+    "descrizione": "Da quarant'anni Murta, in Val Polcevera, è la capitale delle zucche. Due fine settimana (7-8 e 14-15 novembre) con zucche di tutte le forme, premi per la più grossa, la più lunga, la più strana e la più bella, e piatti e dolci a base di zucca. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/la-mostra-della-zucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tartufando-genova",
+    "titolo": "Tartufando a Genova",
+    "categoria": "sagra",
+    "inizio": "2026-11-09",
+    "fine": "2026-11-19",
+    "luogo": "Piazza Sarzano e centro storico",
+    "indirizzo": "Piazza Sarzano",
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.4043519,
+    "lon": 8.9320246,
+    "coordinateApprossimate": false,
+    "descrizione": "La settimana del tartufo nel quartiere di Piazza Sarzano: banchi del mercato, stand con tartufo bianco e nero, funghi porcini e prodotti dell'entroterra ligure, showcooking, degustazioni e menù speciali nei ristoranti aderenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "CIV Sarzano-Sant'Agostino",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/tartufando-a-genova/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-di-san-martino-biassa-la-spezia",
+    "titolo": "Festa di San Martino a Biassa",
+    "categoria": "sagra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Borgo di Biassa",
+    "indirizzo": "Biassa",
+    "comune": "011015",
+    "frazione": null,
+    "lat": 44.0964074,
+    "lon": 9.7758167,
+    "coordinateApprossimate": true,
+    "descrizione": "Il borgo di Biassa, frazione della Spezia, diventa un villaggio medievale: sgabei e banchi gastronomici, mercato artigianale, giochi antichi, sbandieratori, cortei e musica medievale dal vivo. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/festa-di-san-martino-a-biassa-della-spezia/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-tartufo-bianco-alba-2026",
+    "titolo": "96ª Fiera Internazionale del Tartufo Bianco d'Alba",
+    "categoria": "sagra",
+    "inizio": "2026-10-10",
+    "fine": "2026-12-06",
+    "luogo": "Cortile della Maddalena e altre sedi",
+    "indirizzo": "Cortile della Maddalena",
+    "cap": "12051",
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.6987897,
+    "lon": 8.035299,
+    "coordinateApprossimate": false,
+    "descrizione": "Il mercato mondiale del tartufo bianco d'Alba è aperto ogni sabato e domenica dal 10 ottobre al 6 dicembre. Ogni tartufo è controllato da giudici esperti. Il programma comprende cooking show con chef italiani e internazionali, cene ed eventi in castelli, teatri, musei e cantine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ente Fiera Internazionale del Tartufo Bianco d'Alba",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Piemonte",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpiemonte.com/en/events/fiera-internazionale-del-tartufo-bianco-dalba-96th-edition",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-natale-bressanone-2026",
+    "titolo": "Mercatino di Natale di Bressanone",
+    "categoria": "mercatino",
+    "inizio": "2026-11-27",
+    "fine": "2027-01-06",
+    "luogo": "Piazza Duomo",
+    "indirizzo": "Piazza Duomo",
+    "cap": "39042",
+    "comune": "021011",
+    "frazione": null,
+    "lat": 46.7158045,
+    "lon": 11.6569356,
+    "coordinateApprossimate": false,
+    "descrizione": "Dal 27 novembre, con l'accensione dell'albero, le casette di legno riempiono Piazza Duomo fino al 6 gennaio: cosmetici naturali, tisane, candele, oggetti artigianali, strauben, mele al forno e piatti tirolesi, con eventi, mostre, musica e laboratori. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Italia.it (portale ufficiale ENIT)",
+        "tipo": "ufficiale",
+        "url": "https://www.italia.it/en/south-tyrol/bressanone/things-to-do/event-christmas-markets-bressanone",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-tartufo-bianco-bidente-cusercoli",
+    "titolo": "Sagra del Tartufo Bianco del Bidente a Cusercoli",
+    "categoria": "sagra",
+    "inizio": "2026-11-08",
+    "fine": "2026-11-15",
+    "luogo": "Centro storico di Cusercoli",
+    "indirizzo": "Via Bidente",
+    "cap": "47012",
+    "comune": "040009",
+    "frazione": null,
+    "lat": 44.0443641,
+    "lon": 12.0048138,
+    "coordinateApprossimate": true,
+    "descrizione": "Domenica 8 e domenica 15 novembre, nelle vie del centro storico di Cusercoli, bancarelle dei tartufai, stand di prodotti tipici e artigianato, incontri, musica e laboratori. Momento più atteso: la premiazione del tartufaio che ha trovato il tartufo più grosso e profumato. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia-Romagna)",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/civitella-romagna-cusercoli-sagra-tartufo-bianco-pregiato-bidente",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arte-laguna-prize-venezia-2026",
+    "titolo": "Arte Laguna Prize: mostra dei finalisti",
+    "categoria": "mostra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-29",
+    "luogo": "Arsenale Nord",
+    "indirizzo": "Arsenale Nord, Bacini",
+    "cap": "30142",
+    "comune": "027042",
+    "frazione": null,
+    "lat": 45.4377754,
+    "lon": 12.3542912,
+    "coordinateApprossimate": false,
+    "descrizione": "Più di 200 opere di 240 artisti finalisti della 20ª e 21ª edizione del premio internazionale d'arte contemporanea, in 4.000 metri quadrati dell'Arsenale Nord. Aperta ogni giorno dalle 10 alle 18; inaugurazione e premiazione venerdì 6 novembre alle 17. Dal 7 novembre c'è anche la mostra collaterale «New Horizons» alla Tesa 98.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "Prenotazione online sul sito dell'organizzatore",
+    "organizzatore": "MoCA APS (Modern and Contemporary Art APS)",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Arte Laguna Prize (organizzatore)",
+        "tipo": "organizzatore",
+        "url": "https://artelagunaprize.com/exhibition-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "eurochocolate-perugia-2026",
+    "titolo": "Eurochocolate Perugia 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico di Perugia",
+    "indirizzo": "Giardini Carducci, Corso Vannucci e altre piazze",
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.1081762,
+    "lon": 12.3880618,
+    "coordinateApprossimate": true,
+    "descrizione": "Trentaduesima edizione del festival internazionale del cioccolato, «Fate Dolci», nel centro storico: oltre 130 espositori, show cooking e laboratori. Ingresso libero; alcuni appuntamenti sono a pagamento e le degustazioni guidate del Choco Lab si prenotano. Orari: lun-ven 10-19:30, sabato 9:30-22, domenica 9-20. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Eurochocolate (Gioform Srl)",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Eurochocolate (organizzatore)",
+        "tipo": "organizzatore",
+        "url": "https://www.eurochocolate.com/perugia2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-tartufo-bianco-san-miniato-2026",
+    "titolo": "Mostra Nazionale del Tartufo Bianco di San Miniato",
+    "categoria": "sagra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-29",
+    "luogo": "Centro storico di San Miniato",
+    "indirizzo": "Piazze e vie del centro",
+    "cap": "56028",
+    "comune": "050032",
+    "frazione": null,
+    "lat": 43.6799415,
+    "lon": 10.8488747,
+    "coordinateApprossimate": true,
+    "descrizione": "Per tre fine settimana (14-15, 21-22 e 28-29 novembre) San Miniato diventa un laboratorio del gusto all'aperto: mercato del tartufo bianco nelle piazze, menù al tartufo, prodotti tipici toscani ed eventi come la ricerca del tartufo. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Tuscany (portale turistico della Toscana)",
+        "tipo": "ufficiale",
+        "url": "https://www.visittuscany.com/en/events/white-truffle-exhibition-san-miniato/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "magie-barocche-catania-2026",
+    "titolo": "Magie Barocche 2026",
+    "categoria": "concerto",
+    "inizio": "2026-10-25",
+    "fine": "2026-12-10",
+    "luogo": "Palazzo Biscari e Auditorium del Conservatorio «Bellini»",
+    "indirizzo": "Via Museo Biscari",
+    "cap": "95131",
+    "comune": "087015",
+    "frazione": null,
+    "lat": 37.5020486,
+    "lon": 15.0901742,
+    "coordinateApprossimate": false,
+    "descrizione": "Sedicesima edizione del festival del Val di Noto dedicato alla musica antica e barocca: riscoperte di partiture di Legrenzi e Pasquini, il dialogo tra Vivaldi e Piazzolla e il concerto finale del pianista Ramin Bahrami su Bach. I concerti sono doppi, alle 19 e alle 20:30, con una degustazione di vini nell'intervallo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Sicily (portale regionale di eventi)",
+        "tipo": "aggregatore",
+        "url": "https://www.visitsicily.info/evento-new/magie-barocche-2026/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "novello-in-festa-leverano-2026",
+    "titolo": "Novello in Festa a Leverano",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Borgo antico di Leverano",
+    "indirizzo": "Vie del borgo antico",
+    "comune": "075037",
+    "frazione": null,
+    "lat": 40.29083,
+    "lon": 17.97069,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna dei vini novelli del Salento nel borgo antico, con stand enogastronomici, spettacoli musicali, animazioni folkloristiche e laboratori per bambini. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "novello-sotto-il-castello-conversano-2026",
+    "titolo": "Novello Sotto il Castello a Conversano",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-15",
+    "luogo": "Centro storico di Conversano",
+    "indirizzo": "Centro storico",
+    "comune": "072019",
+    "frazione": null,
+    "lat": 40.95347,
+    "lon": 17.10372,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre serate nel centro storico con vini pugliesi, food truck, intrattenimento per tutte le età e musica elettronica, nate per ricordare i riti della vendemmia e la festa di San Martino. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-fungo-cardoncello-gravina-2026",
+    "titolo": "Sagra del fungo cardoncello e del Novello a Gravina",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico di Gravina in Puglia",
+    "indirizzo": "Centro storico",
+    "comune": "072023",
+    "frazione": null,
+    "lat": 40.8409,
+    "lon": 16.36388,
+    "coordinateApprossimate": true,
+    "descrizione": "Sagra nel centro storico con stand, mostre, visite guidate, degustazioni di prodotti tipici e musica popolare, dedicata al fungo cardoncello e al vino novello. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mastros-in-nugoro-nuoro-2026",
+    "titolo": "Mastros in Nùgoro",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Quartieri San Pietro e Seuna",
+    "indirizzo": "Quartieri San Pietro e Seuna",
+    "comune": "114027",
+    "frazione": null,
+    "lat": 40.33944,
+    "lon": 9.29952,
+    "coordinateApprossimate": true,
+    "descrizione": "Tappa di Autunno in Barbagia a Nuoro: nei quartieri San Pietro e Seuna si aprono botteghe e laboratori, con artigianato, prodotti agroalimentari e cultura del territorio. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-sardegna-novembre-2026/606022/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "antunna-e-piritzolu-macomer-2026",
+    "titolo": "Antunna e Piritzolu a Macomer",
+    "categoria": "sagra",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-22",
+    "luogo": "Centro Polivalente",
+    "indirizzo": "Via degli Artigiani",
+    "comune": "114023",
+    "frazione": null,
+    "lat": 40.29196,
+    "lon": 8.75921,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna de S'Antunna con mostra micologica regionale e lo show cooking «Il Fungo è servito». La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-sardegna-novembre-2026/606022/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ocraxus-laconi-2026",
+    "titolo": "Ocraxus a Laconi",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico di Laconi",
+    "indirizzo": "Rioni del centro storico",
+    "comune": "115028",
+    "frazione": null,
+    "lat": 39.86148,
+    "lon": 9.04902,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso nel centro storico di Laconi, tra rioni, vecchie case e antiche ville, alla scoperta di arti, mestieri tradizionali e sapori del passato. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-sardegna-novembre-2026/606022/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-oca-vin-novello-lavariano-2026",
+    "titolo": "Festa dell'Oca e del Vin Novello a Lavariano",
+    "categoria": "sagra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Piazza San Paolino",
+    "indirizzo": "Piazza San Paolino, Lavariano",
+    "comune": "030062",
+    "frazione": null,
+    "lat": 45.9565278,
+    "lon": 13.2275762,
+    "coordinateApprossimate": false,
+    "descrizione": "In piazza San Paolino piatti a base d'oca e specialità tipiche accompagnate dal vino novello, per ricreare l'atmosfera delle feste di un tempo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-friuli-venezia-giulia-novembre-2026/606010/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "novello-e-castagne-miglianico-2026",
+    "titolo": "Novello e castagne a Miglianico",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Centro storico di Miglianico",
+    "indirizzo": "Centro storico",
+    "comune": "069050",
+    "frazione": null,
+    "lat": 42.3575,
+    "lon": 14.2858,
+    "coordinateApprossimate": true,
+    "descrizione": "Nel centro storico illuminato si assaggiano il vino novello della Cantina Miglianico, castagne e piatti tradizionali, con animazione, balli e musica anche al coperto. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "deguscanno-scanno-2026",
+    "titolo": "Deguscanno a Scanno",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Borgo di Scanno",
+    "indirizzo": "Vicoli del borgo",
+    "comune": "066093",
+    "frazione": null,
+    "lat": 41.87658,
+    "lon": 13.90118,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival enogastronomico dedicato ai sapori e ai profumi delle Gole del Sagittario e dell'Abruzzo, con degustazioni e iniziative nei vicoli del borgo. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "borgo-rurale-treglio-2026",
+    "titolo": "Borgo Rurale a Treglio",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Borgo rurale di Treglio",
+    "indirizzo": "Borgo rurale",
+    "comune": "069096",
+    "frazione": null,
+    "lat": 42.26633,
+    "lon": 14.42339,
+    "coordinateApprossimate": true,
+    "descrizione": "Si visitano antiche cantine e frantoi e si assaggiano vino novello, castagne, olio nuovo e piatti tipici frentani preparati al momento, con musica dal vivo nei vicoli. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pianella-borgodivino-2026",
+    "titolo": "Pianella BorgoDiVino",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-15",
+    "luogo": "Centro storico di Pianella",
+    "indirizzo": "Vie del borgo",
+    "comune": "068030",
+    "frazione": null,
+    "lat": 42.39235,
+    "lon": 14.05724,
+    "coordinateApprossimate": true,
+    "descrizione": "Degustazioni di vino e cibo, musica, proposte culturali, artigianato e mostre lungo le vie del borgo. La posizione sulla mappa è indicativa: corrisponde al centro del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "in-revisione",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "SiViaggia",
+        "tipo": "stampa",
+        "url": "https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]
