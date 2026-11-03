@@ -1,4 +1,5 @@
-# Controllo di Instagram quattro volte al giorno (0:47, 6:47, 12:47 e 18:47 UTC), un po' prima dei giri della ricerca automatica.
+# Controllo di Instagram otto volte al giorno (ogni 3 ore, al minuto 47), così i giri della ricerca automatica trovano sempre link freschi.
+# Meta tollera circa 200 chiamate all'ora: ogni lancio ne fa al massimo 190.
 # Legge i post nuovi degli account in ricerca/instagram-account.json con l'API ufficiale di Meta
 # e salva in ricerca/instagram-nuovi.json SOLO i link ai post che sembrano eventi (mai le didascalie).
 # Scopre anche da solo nuovi profili di enti, dai nomi citati nei post (vedi scripts/controlla-instagram.mjs).
@@ -8,7 +9,7 @@ name: Controlla Instagram
 
 on:
   schedule:
-    - cron: '47 0,6,12,18 * * *'
+    - cron: '47 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,6 +30,9 @@ jobs:
           node-version: 22
       - name: Cerca nuovi profili di enti su Wikidata (al massimo una volta a settimana)
         run: node scripts/scopri-account.mjs
+        continue-on-error: true
+      - name: Cerca i profili Instagram nei siti dei Comuni (a gruppi di 700 Comuni)
+        run: node scripts/scopri-da-siti.mjs
         continue-on-error: true
       - name: Leggi i post nuovi
         run: node scripts/controlla-instagram.mjs
