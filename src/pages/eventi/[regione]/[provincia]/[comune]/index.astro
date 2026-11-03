@@ -5,7 +5,7 @@ import ElencoEventi from '../../../../../components/ElencoEventi.astro';
 import Pastiglia from '../../../../../components/Pastiglia.astro';
 import { comuni, provincia, regione, briciole, percorsoComune, percorsoFrazione, nomeProvincia } from '../../../../../lib/luoghi';
 import type { Comune } from '../../../../../lib/luoghi';
-import { eventiDelComune, eventiDellaFrazione, prossimi, comuniConPagina } from '../../../../../lib/eventi';
+import { eventiDelComune, eventiDellaFrazione, prossimi, comuniConPagina, riassunto } from '../../../../../lib/eventi';
 import { jsonLdBriciole } from '../../../../../lib/jsonld';
 import { SITO } from '../../../../../lib/sito';
 
@@ -25,8 +25,8 @@ const conFrazioni = nomiFrazioni.length > 1
   : nomiFrazioni.length === 1 ? ` e a ${nomiFrazioni[0]}` : '';
 ---
 <Base
-  titolo={`Eventi a ${c.nome} (${p.sigla}): cosa fare oggi e nei prossimi giorni | ${SITO.nome}`}
-  descrizione={`Calendario degli eventi a ${c.nome}${conFrazioni}: mostre, visite, concerti, sagre e feste. Gratuito, aggiornato ogni ora.`}
+  titolo={`Eventi a ${c.nome} (${p.sigla}): cosa fare | ${SITO.nome}`}
+  descrizione={riassunto(`Calendario degli eventi a ${c.nome}${conFrazioni}: mostre, visite, concerti, sagre e feste. Gratuito, aggiornato ogni ora.`, 158)}
   percorso={percorsoComune(c)}
   jsonLd={[jsonLdBriciole(voci)]}
 >

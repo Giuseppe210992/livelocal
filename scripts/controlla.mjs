@@ -81,6 +81,21 @@ for (const p of pagine) {
   }
 }
 
+// 4b. Ogni pagina evento deve avere l'immagine indicata nei dati per Google (e nell'anteprima)
+for (const p of pagine.filter((x) => relative(DIST, x).startsWith('evento/'))) {
+  const html = readFileSync(p, 'utf8');
+  const img = html.match(/<meta property="og:image" content="[^"]*?(\/evento\/[^"]+\.png)"/)?.[1];
+  if (!img || !existsSync(join(DIST, img.replace(/^\//, '')))) errori.push(`${relative(DIST, p)}: immagine dell'evento mancante`);
+}
+
+// Avvisi (non bloccano la pubblicazione): testi troppo lunghi per Google
+for (const p of pagine) {
+  const html = readFileSync(p, 'utf8');
+  const t = html.match(/<title>(.*?)<\/title>/s)?.[1] ?? '';
+  const d = html.match(/name="description" content="(.*?)"/s)?.[1] ?? '';
+  if (t.length > 90 || d.length > 170) console.warn(`  ! ${relative(DIST, p)}: titolo ${t.length} / descrizione ${d.length} caratteri (consigliati 60 / 160)`);
+}
+
 // 5. Sitemap
 const sitemap = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
 for (const p of pagine.filter((x) => relative(DIST, x).startsWith('evento/'))) {

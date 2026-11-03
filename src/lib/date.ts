@@ -156,3 +156,14 @@ export function dataTitolo(inizio: string, fine: string | null): string {
   if (a.anno === b.anno) return `${a.giorno} ${MESI[a.mese - 1]} - ${b.giorno} ${MESI[b.mese - 1]} ${b.anno}`;
   return `${a.giorno} ${MESI[a.mese - 1]} ${a.anno} - ${b.giorno} ${MESI[b.mese - 1]} ${b.anno}`;
 }
+
+const MESE_BREVE = (m: number) => MESI[m - 1].slice(0, 3);
+/** Data compatta per i titoli delle pagine: "6 nov 2026", "7-8 nov 2026", "7 nov - 20 dic 2026". */
+export function dataCorta(inizio: string, fine: string | null): string {
+  const a = leggi(inizio);
+  const b = fine ? leggi(fine) : null;
+  if (!b || (a.anno === b.anno && a.mese === b.mese && a.giorno === b.giorno)) return `${a.giorno} ${MESE_BREVE(a.mese)} ${a.anno}`;
+  if (a.anno === b.anno && a.mese === b.mese) return `${a.giorno}-${b.giorno} ${MESE_BREVE(b.mese)} ${b.anno}`;
+  if (a.anno === b.anno) return `${a.giorno} ${MESE_BREVE(a.mese)} - ${b.giorno} ${MESE_BREVE(b.mese)} ${b.anno}`;
+  return `${a.giorno} ${MESE_BREVE(a.mese)} ${a.anno} - ${b.giorno} ${MESE_BREVE(b.mese)} ${b.anno}`;
+}

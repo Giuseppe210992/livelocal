@@ -6,7 +6,7 @@ import SchedaEvento from '../../../../components/SchedaEvento.astro';
 import { eventi, prossimi, eventiDelComune, localita, percorsoLocalita, testoPrezzo, riassunto, ETICHETTA_FONTE } from '../../../../lib/eventi';
 import type { Evento } from '../../../../lib/eventi';
 import { briciole } from '../../../../lib/luoghi';
-import { quandoEsteso, dataSemplice, dataTitolo, maiuscola } from '../../../../lib/date';
+import { quandoEsteso, dataSemplice, dataCorta, maiuscola } from '../../../../lib/date';
 import { jsonLdEvento, jsonLdBriciole } from '../../../../lib/jsonld';
 import { SITO, href } from '../../../../lib/sito';
 
@@ -22,13 +22,14 @@ const mappa = `https://www.google.com/maps/search/?api=1&query=${e.lat},${e.lon}
 const altri = prossimi(eventiDelComune(e.comuneDati)).filter((x) => x.slug !== e.slug).slice(0, 4);
 const mostraIndirizzo = e.indirizzo !== e.luogo && e.indirizzo !== e.frazioneDati?.nome;
 const consultata = e.fonti.map((f) => f.consultata).sort().at(-1)!;
-const titoloPagina = `${e.titolo} · ${dataTitolo(e.inizio, e.fine)}, ${e.frazioneDati?.nome ?? e.comuneDati.nome} | ${SITO.nome}`;
+const titoloPagina = `${e.titolo} · ${dataCorta(e.inizio, e.fine)} | ${SITO.nome}`;
 ---
 <Base
   titolo={titoloPagina}
   descrizione={riassunto(`${maiuscola(quando)} a ${localita(e)}. ${e.descrizione}`)}
   percorso={e.percorso}
   tipoOg="article"
+  immagine={`${e.percorso}immagine.png`}
   jsonLd={[jsonLdEvento(e), jsonLdBriciole(voci)]}
 >
   <Briciole voci={voci} />

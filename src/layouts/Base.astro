@@ -9,11 +9,12 @@ interface Props {
   percorso: string;        // es. /eventi/lazio/latina/minturno/ (serve per l'URL canonico)
   jsonLd?: object[];       // dati strutturati schema.org
   tipoOg?: 'website' | 'article';
+  immagine?: string;       // percorso dell'immagine per le anteprime (se manca: quella del sito)
 }
 
-const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website' } = Astro.props;
+const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', immagine = '/condivisione.png' } = Astro.props;
 const canonico = urlAssoluto(percorso);
-const immagineOg = urlAssoluto('/condivisione.png');
+const immagineOg = urlAssoluto(immagine);
 ---
 <!doctype html>
 <html lang="it">

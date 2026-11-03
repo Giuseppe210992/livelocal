@@ -33,6 +33,7 @@ export function jsonLdEvento(e: Evento) {
     name: e.titolo,
     description: e.descrizione,
     url,
+    image: [urlAssoluto(`${e.percorso}immagine.png`)],
     inLanguage: SITO.lingua,
     startDate: isoConFuso(e.inizio),
     ...(e.fine ? { endDate: isoConFuso(e.fine) } : {}),
