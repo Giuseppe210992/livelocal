@@ -109,7 +109,7 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
 ## Instagram
 
-- Account leggibili ogni giorno: **45**
-- Candidati in attesa di essere valutati: 0
-- Account provati e non adatti o non leggibili: 14
-- Link a post in attesa di controllo: 125
+- Account leggibili ogni giorno: **62**
+- Candidati in attesa di essere valutati: 778
+- Account provati e non adatti o non leggibili: 19
+- Link a post in attesa di controllo: 234
