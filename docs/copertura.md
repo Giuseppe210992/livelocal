@@ -2,7 +2,7 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**266 eventi pubblicati, 264 in programma.** Province con almeno un evento in programma: **72 su 110**.
+**281 eventi pubblicati, 279 in programma.** Province con almeno un evento in programma: **73 su 110**.
 
 ## Per regione
 
@@ -10,9 +10,9 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 |---|---:|---:|---:|
 | Lazio | 53 | 51 | 3 / 5 |
 | Campania | 39 | 39 | 5 / 5 |
+| Toscana | 31 | 31 | 4 / 10 |
 | Piemonte | 25 | 25 | 6 / 8 |
 | Emilia-Romagna | 24 | 24 | 7 / 9 |
-| Toscana | 16 | 16 | 3 / 10 |
 | Liguria | 15 | 15 | 4 / 4 |
 | Veneto | 11 | 11 | 6 / 7 |
 | Umbria | 10 | 10 | 2 / 2 |
@@ -48,7 +48,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Pistoia (PT), Toscana
 - Livorno (LI), Toscana
 - Arezzo (AR), Toscana
-- Siena (SI), Toscana
 - Grosseto (GR), Toscana
 - Prato (PO), Toscana
 - Ascoli Piceno (AP), Marche
