@@ -41,6 +41,39 @@ Verificato il 3 novembre 2026 sulla documentazione ufficiale di Meta (Meta for D
 2. **Fase B, Facebook**: solo dopo aver scelto l'associazione (APS) o la partita IVA, e avere i documenti per la verifica dell'attività. Fino ad allora si resta sui post singoli e sul modulo.
 3. In parallelo, la Pagina e l'account di LiveLocal servono anche per **pubblicare** (per esempio «Gli eventi del weekend» ogni venerdì), anche in automatico con Zapier: è il lato visibile del progetto.
 
+## Guida passo passo per la prova su Instagram
+
+Fonte: «Get started with Instagram API with Facebook Login» (Meta, aggiornata il 30 giugno 2026): per provare **non serve creare un'app**, si può usare il Graph API Explorer. I nomi dei menu di Instagram e Facebook possono cambiare un po': cerca la voce più simile.
+
+### Parte 1 – dal telefono (circa 15 minuti)
+
+1. **Pagina Facebook**: app Facebook → menu → Pagine → Crea Pagina. Nome «LiveLocal», categoria «Sito web», sito `https://livelocal.roomandrelax.it`. Descrizione: «Gli eventi vicino a te: calendario gratuito di sagre, mostre, concerti e feste in tutta Italia.»
+2. **Account Instagram** dedicato: app Instagram → profilo → menu → Aggiungi account → Crea nuovo account. Nome utente «livelocal.eventi» (o simile, se occupato). Usa un indirizzo email del progetto, non quello personale.
+3. **Account professionale**: Impostazioni e attività → Tipo di account e strumenti → Passa a un account professionale → **Azienda** → categoria «Sito web».
+4. **Collega la Pagina**: Modifica profilo → Pagina → scegli «LiveLocal».
+5. Controllo: sulla Pagina Facebook, Impostazioni → Account collegati, deve comparire Instagram.
+
+### Parte 2 – dal computer (circa 20 minuti)
+
+1. Vai su `developers.facebook.com`, accedi con **lo stesso account Facebook** che amministra la Pagina e completa la registrazione come sviluppatore.
+2. Apri `developers.facebook.com/tools/explorer/` (Graph API Explorer).
+3. Nei permessi aggiungi: `instagram_basic`, `pages_show_list`, `pages_read_engagement`, `instagram_manage_insights`. Premi **Generate Access Token** e accetta, scegliendo la Pagina e l'account Instagram di LiveLocal.
+4. Nella barra della richiesta (metodo GET) scrivi `me/accounts` e premi Submit. Copia l'`id` della Pagina.
+5. Scrivi `ID_PAGINA?fields=instagram_business_account` e premi Submit. Copia l'`id` dell'account Instagram.
+6. Scrivi (cambiando `ID_INSTAGRAM`):
+   `ID_INSTAGRAM?fields=business_discovery.username(pro_loco_riardo){username,followers_count,media_count,media.limit(5){caption,timestamp,permalink}}`
+   e premi Submit.
+
+**Risultato giusto**: compaiono gli ultimi post della Pro Loco di Riardo con testo, data e link. **Se compare un errore** tipo «account non trovato», quell'account non è professionale: riprova con `prolocominturno`, `prolococittadiformia`, `innoalnovello` o `pro_loco_castelforte_suio`. Se nessuno funziona, o se Meta chiede la revisione dell'app o la verifica dell'attività, ci fermiamo e riguardiamo il piano.
+
+**Il token non si incolla mai in chat né nel repository.** Per mostrare il risultato basta un'immagine con la casella «Access Token» coperta.
+
+### Parte 3 – dopo la prova (la fa Claude)
+
+- Se la prova riesce: serve un token che duri (i token utente lunghi durano circa 60 giorni; i token provvisori dell'Explorer durano poco). Si crea un'app su Meta for Developers per ottenerlo e si conserva come segreto di GitHub.
+- Si costruisce il controllo giornaliero su GitHub Actions: legge i post nuovi degli account in `docs/organizzatori-da-seguire.md` e li passa alla ricerca automatica come segnalazioni da verificare, **senza ripubblicare i testi nel repository**.
+- Punti ancora da decidere dopo la prova: come rinnovare il token ogni 60 giorni senza lavoro a mano, e dove far arrivare i post alla ricerca automatica in modo privato.
+
 ## Regole di sicurezza
 
 - Il token di Meta non va mai nel repository (che è pubblico): solo come segreto di GitHub (`Settings → Secrets`) o nella sessione dedicata.
