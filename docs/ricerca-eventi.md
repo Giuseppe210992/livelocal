@@ -65,8 +65,9 @@ Finestra: eventi che iniziano **da oggi a 45 giorni**. Vanno bene anche le mostr
 
 ## 6. Pubblicato o da approvare
 
-- Almeno una fonte `ufficiale` o `organizzatore` → `"stato": "pubblicato"`: va online da solo.
+- Almeno una fonte `ufficiale` o `organizzatore` → `"stato": "pubblicato"`: va online da solo. Vale `organizzatore` per il sito o il profilo social **dedicato all'evento o a chi lo organizza** (es. il profilo Instagram dell'evento), non per un portale che lo riporta.
 - Solo fonti `stampa` o `aggregatore` → `"stato": "in-revisione"`: non appare finché il titolare non approva per email.
+- **Scarta** (e dillo nel riepilogo): evento senza luogo preciso, evento già finito, evento segnalato solo da una scheda "della community" senza organizzatore. Se due fonti si contraddicono sulla data (es. 6 o 7 novembre), usa la più recente e scrivilo nella descrizione ("prevista", "se il meteo lo permette").
 
 ## 7. Compilare l'evento
 
@@ -75,7 +76,7 @@ Segui il formato del README. In più:
 - `slug`: titolo + comune, in minuscolo con trattini. Se esiste già nello stesso anno, aggiungi giorno e mese (es. `-8-dicembre`).
 - `inizio` e `fine` in ora italiana (`2026-12-08T18:00` oppure solo `2026-12-08`). Se l'orario non è scritto, metti solo il giorno.
 - `prezzo`: `non-indicato` se la fonte non lo dice. Non supporre "gratuito".
-- `coordinate`: fai **una** richiesta a Nominatim con TinyFish (`https://nominatim.openstreetmap.org/search?q=<luogo>, <comune>&format=json&limit=1`). Se il risultato è entro 15 km dal centro del comune, usalo con `"coordinateApprossimate": false`. Altrimenti usa le coordinate del comune (`territorio.json`) con `"coordinateApprossimate": true`.
+- `coordinate`: fai **una** richiesta a Nominatim con TinyFish (`https://nominatim.openstreetmap.org/search?q=<luogo>, <comune>&format=json&limit=1`). Usa il risultato (con `"coordinateApprossimate": false`) **solo se** il `display_name` contiene il nome del comune dell'evento: Nominatim può restituire una piazza omonima in un'altra città (es. "Piazza Matteotti" a Vietri sul Mare invece che a Salerno). Altrimenti usa il centro del comune con `"coordinateApprossimate": true`: il baricentro di `territorio.json`, oppure, per le città grandi, la via principale del centro.
 - `frazione`: solo per i comuni che hanno frazioni in `src/data/frazioni.json`, altrimenti `null`.
 - `cap`: se la fonte lo riporta, altrimenti ometti il campo.
 - `inserito`: data di oggi. `"inseritoDa": "ia"`. In ogni fonte, `consultata` = data di oggi.

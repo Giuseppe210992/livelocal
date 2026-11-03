@@ -117,8 +117,11 @@ function arricchisci(e: EventoGrezzo): Evento {
 }
 
 function carica(): Evento[] {
-  const lista = (grezzi as EventoGrezzo[]).filter((e) => e.stato !== 'in-revisione');
-  lista.forEach(controlla);
+  // Si controllano TUTTI gli eventi, anche quelli "in-revisione" (non pubblicati): così un evento
+  // approvato più tardi non può rompere la costruzione del sito.
+  const tutti = grezzi as EventoGrezzo[];
+  tutti.forEach(controlla);
+  const lista = tutti.filter((e) => e.stato !== 'in-revisione');
   const visti = new Set<string>();
   for (const e of lista) {
     const chiave = `${leggi(e.inizio).anno}/${e.slug}`;
