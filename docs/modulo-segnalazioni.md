@@ -2,7 +2,7 @@
 
 Il modulo è una pagina del sito: `/segnala/modulo/` (codice in `src/pages/segnala/modulo/index.astro` e `src/scripts/modulo.ts`). Chi lo compila preme **Invia per revisione** e i dati arrivano **per email** a chi gestisce il sito, tramite il servizio gratuito [Web3Forms](https://web3forms.com). Non passano dal repository e non vengono salvati sul sito.
 
-## Attivarlo (una volta sola, dal telefono, 2 minuti)
+## Attivarlo (fatto il 3/11/2026: la chiave è già in `impostazioni.json`, qui resta per riferimento)
 1. Apri **web3forms.com**, tocca *Create your Access Key*, scrivi l'email che deve ricevere le segnalazioni (consultec2192@gmail.com) e conferma.
 2. Ti arriva una email con la **chiave** (una sequenza di lettere e numeri). Copiala.
 3. Scrivi la chiave in `src/data/impostazioni.json`, campo `formKey` (o mandala a Claude, che la inserisce). La chiave è fatta per stare in chiaro nella pagina: serve solo a far arrivare le email a te.
