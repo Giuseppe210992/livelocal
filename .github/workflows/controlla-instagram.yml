@@ -1,13 +1,14 @@
-# Controllo di Instagram due volte al giorno, un po' prima dei giri della ricerca automatica.
+# Controllo di Instagram quattro volte al giorno (0:47, 6:47, 12:47 e 18:47 UTC), un po' prima dei giri della ricerca automatica.
 # Legge i post nuovi degli account in ricerca/instagram-account.json con l'API ufficiale di Meta
 # e salva in ricerca/instagram-nuovi.json SOLO i link ai post che sembrano eventi (mai le didascalie).
+# Scopre anche da solo nuovi profili di enti, dai nomi citati nei post (vedi scripts/controlla-instagram.mjs).
 # Usa il segreto META_TOKEN (Impostazioni → Secrets and variables → Actions).
 # Si può lanciare anche a mano: scheda Actions → «Controlla Instagram» → Run workflow.
 name: Controlla Instagram
 
 on:
   schedule:
-    - cron: '47 0,12 * * *'
+    - cron: '47 0,6,12,18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,6 +21,7 @@ concurrency:
 jobs:
   controlla:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
