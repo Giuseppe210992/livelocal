@@ -1,0 +1,54 @@
+{
+  "daVerificare": [
+    {
+      "account": "pro_loco_riardo",
+      "link": "https://www.instagram.com/p/DfAFfDAo0BS/",
+      "data": "2026-10-30"
+    },
+    {
+      "account": "pro_loco_riardo",
+      "link": "https://www.instagram.com/p/DfAF_pyIgaY/",
+      "data": "2026-11-01"
+    },
+    {
+      "account": "prolococittadiformia",
+      "link": "https://www.instagram.com/p/DfMFHX8o3YL/",
+      "data": "2026-11-01"
+    },
+    {
+      "account": "innoalnovello",
+      "link": "https://www.instagram.com/p/DfRn9hkse1R/",
+      "data": "2026-11-03"
+    }
+  ],
+  "account": {
+    "pro_loco_riardo": {
+      "stato": "ok",
+      "ultimoPost": "2026-11-01T17:30:04+0000",
+      "controllato": "2026-11-03T16:08:49.457Z"
+    },
+    "prolocominturno": {
+      "stato": "ok",
+      "ultimoPost": "2026-10-24T16:08:49.457Z",
+      "controllato": "2026-11-03T16:08:49.457Z"
+    },
+    "prolococittadiformia": {
+      "stato": "ok",
+      "ultimoPost": "2026-11-01T09:41:16+0000",
+      "controllato": "2026-11-03T16:08:49.457Z"
+    },
+    "innoalnovello": {
+      "stato": "ok",
+      "ultimoPost": "2026-11-03T10:06:56+0000",
+      "controllato": "2026-11-03T16:08:49.457Z"
+    },
+    "pro_loco_castelforte_suio": {
+      "stato": "ok",
+      "ultimoPost": "2026-10-24T16:08:49.457Z",
+      "controllato": "2026-11-03T16:08:49.457Z"
+    }
+  },
+  "aggiornato": "2026-11-03T16:08:49.457Z",
+  "tokenScade": "2027-01-02",
+  "stato": "ok"
+}
