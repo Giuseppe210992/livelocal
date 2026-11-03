@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITO, IMPOSTAZIONI, href } from '../../lib/sito';
+
+const modulo = IMPOSTAZIONI.moduloUrl;
+const email = IMPOSTAZIONI.emailContatto;
+---
+<Base
+  titolo={`Segnala un evento: gratis, da telefono, senza registrazione | ${SITO.nome}`}
+  descrizione="Organizzi un evento nel Lazio o in Campania? Segnalalo a LiveLocal in due minuti: bastano nome, cognome e cellulare. Ti chiamiamo per verificare e poi lo pubblichiamo gratis."
+  percorso="/segnala/"
+>
+  <section class="apertura">
+    <p class="apertura__sopra">Per chi organizza</p>
+    <h1>Segnala un evento</h1>
+    <p class="apertura__testo">
+      Pro Loco, associazioni, parrocchie, musei, Comuni: il vostro evento sulla mappa, gratis.
+      Bastano due minuti da telefono, senza account.
+    </p>
+  </section>
+
+  <ol class="passi">
+    <li><b>Compili il modulo.</b> Ci dici che evento è, quando e dove, e lasci nome, cognome e cellulare.</li>
+    <li><b>Ti chiamiamo.</b> Una breve telefonata per controllare che tu sia una persona vera e che l'evento esista.</li>
+    <li><b>Lo pubblichiamo.</b> La pagina dell'evento compare sul sito, sulla mappa e per Google, con il nome di chi organizza.</li>
+  </ol>
+
+  {modulo ? (
+    <p><a class="bottone" href={modulo} rel="noopener">Compila il modulo</a></p>
+  ) : (
+    <div class="avviso">
+      <p><b>Il modulo sarà attivo a breve.</b> Intanto puoi scrivere a <a href={`mailto:${email}`}>{email}</a> con: titolo dell'evento, data e ora, luogo e comune, due righe di descrizione, e il tuo nome, cognome e cellulare.</p>
+    </div>
+  )}
+
+  <h2>Cosa serve</h2>
+  <ul>
+    <li>Un evento <b>pubblico</b>, in un <b>luogo fisico</b>, aperto a tutti: mostre, visite, concerti, sagre, feste, conferenze, mercatini.</li>
+    <li>Titolo, data (e ora, se c'è), luogo, comune, descrizione in poche righe scritta con parole tue.</li>
+    <li>Nome, cognome e cellulare di chi segnala.</li>
+  </ul>
+
+  <h2>Cosa facciamo con i tuoi dati</h2>
+  <p>
+    Nome, cognome e cellulare servono solo per la telefonata di verifica. <b>Non vengono mai pubblicati.</b>{' '}
+    Li vede solo chi gestisce il sito e li cancelliamo dopo la verifica, al massimo entro 90 giorni.
+    Sul sito compare solo il nome pubblico di chi organizza (per esempio «Pro Loco di Scauri»).
+    I dettagli sono nell'<a href={href('/privacy/')}>informativa privacy</a>.
+  </p>
+
+  <h2>E se l'evento cambia?</h2>
+  <p>Se un evento viene annullato o spostato, scrivici a <a href={`mailto:${email}`}>{email}</a>: aggiorniamo la pagina senza cancellarla.</p>
+</Base>

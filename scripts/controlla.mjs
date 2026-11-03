@@ -12,6 +12,8 @@ import { join, relative } from 'node:path';
 const DIST = new URL('../dist/', import.meta.url).pathname;
 const BASE = ((process.env.BASE_PATH ?? '/livelocal') || '/').replace(/\/?$/, '/');
 const errori = [];
+// L'unica email ammessa nelle pagine è il contatto pubblico scelto dal titolare (src/data/impostazioni.json).
+const EMAIL_PUBBLICA = JSON.parse(readFileSync(new URL('../src/data/impostazioni.json', import.meta.url), 'utf8')).emailContatto;
 
 function file(dir) {
   return readdirSync(dir).flatMap((n) => {
@@ -31,7 +33,7 @@ for (const p of tutti.filter((x) => /\.(html|json|ics|xml|txt)$/.test(x))) {
     .replace(/<script type="application\/ld\+json">.*?<\/script>/gs, (m) => m.replace(/"(latitude|longitude)":[\d.]+/g, ''))
     .replace(/https?:\/\/[^\s"'<>]+/g, '') // gli indirizzi web (fonti) possono contenere numeri lunghi
     .replace(/UID:[^\r\n]+/g, '');
-  const email = testo.match(EMAIL)?.filter((m) => !m.endsWith('@livelocal'));
+  const email = testo.match(EMAIL)?.filter((m) => !m.endsWith('@livelocal') && m !== EMAIL_PUBBLICA);
   const tel = testo.match(TELEFONO)?.filter((m) => !/^\d{6}$/.test(m.replace(/\D/g, '')) && !/^\d{5}$/.test(m));
   if (email?.length) errori.push(`PRIVACY ${relative(DIST, p)}: email trovata ${email.join(', ')}`);
   if (tel?.length) errori.push(`PRIVACY ${relative(DIST, p)}: possibile telefono ${tel.join(', ')}`);

@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SITO, IMPOSTAZIONI, href } from '../../lib/sito';
+const email = IMPOSTAZIONI.emailContatto;
+---
+<Base
+  titolo={`Informativa sulla privacy | ${SITO.nome}`}
+  descrizione="Come LiveLocal tratta i dati: nessun tracciamento, la posizione resta sul telefono, nome e cellulare di chi segnala un evento non vengono mai pubblicati."
+  percorso="/privacy/"
+>
+  <section class="apertura">
+    <h1>Informativa sulla privacy</h1>
+    <p class="apertura__testo">In breve: niente tracciamento, niente pubblicità. Ti spieghiamo cosa succede ai dati nei tre casi in cui ne trattiamo qualcuno.</p>
+  </section>
+
+  <h2>Chi tratta i dati</h2>
+  <p>
+    Il titolare del trattamento è chi gestisce {SITO.nome}: Giuseppe Di Buccio, in un progetto promosso da <a href={SITO.promotore.url} rel="noopener">{SITO.promotore.nome}</a>.
+    Per qualsiasi domanda o richiesta scrivi a <a href={`mailto:${email}`}>{email}</a>.
+  </p>
+
+  <h2>1. Se navighi sul sito</h2>
+  <ul>
+    <li>Non usiamo cookie di profilazione, né strumenti di statistica o pubblicità. Per questo non c'è il banner dei cookie.</li>
+    <li>Il sito è ospitato da GitHub Pages: come ogni server, GitHub può registrare il tuo indirizzo IP per motivi tecnici e di sicurezza.</li>
+    <li>La mappa mostra le cartine di OpenStreetMap, caricate dai loro server: per questo il tuo indirizzo IP è visibile anche a loro.</li>
+  </ul>
+
+  <h2>2. Se usi la tua posizione</h2>
+  <p>
+    Solo se tocchi «Usa la mia posizione» il telefono ti chiede il permesso. La posizione serve a calcolare la distanza dagli eventi
+    e <b>resta sul tuo telefono</b>: non la salviamo, non la inviamo a nessuno e non compare nell'indirizzo della pagina.
+    Puoi revocare il permesso quando vuoi dalle impostazioni del browser.
+  </p>
+
+  <h2>3. Se segnali un evento</h2>
+  <ul>
+    <li><b>Quali dati:</b> nome, cognome e cellulare di chi segnala, più le informazioni sull'evento.</li>
+    <li><b>Perché:</b> per telefonarti e verificare che tu sia una persona vera e che l'evento esista, prima di pubblicarlo.</li>
+    <li><b>Su quale base:</b> il tuo consenso, che dai inviando il modulo.</li>
+    <li><b>Cosa si pubblica:</b> solo le informazioni sull'evento e il nome pubblico di chi organizza. Nome, cognome e cellulare <b>non vengono mai pubblicati</b>.</li>
+    <li><b>Chi li vede:</b> solo chi gestisce il sito. Il modulo usa Google Moduli e Google Fogli, quindi i dati sono conservati anche sui server di Google.</li>
+    <li><b>Per quanto tempo:</b> li cancelliamo dopo la verifica e comunque entro 90 giorni dalla segnalazione.</li>
+  </ul>
+
+  <h2>Eventi presi da fonti pubbliche</h2>
+  <p>
+    Molti eventi li troviamo su siti e pagine pubbliche di Comuni, enti, organizzatori e giornali locali. Di ogni evento indichiamo la fonte.
+    Pubblichiamo solo informazioni sull'evento, non dati personali. Se vuoi che un evento sia corretto o tolto, scrivi a <a href={`mailto:${email}`}>{email}</a>.
+  </p>
+
+  <h2>I tuoi diritti</h2>
+  <p>
+    Puoi chiedere di vedere, correggere o cancellare i tuoi dati, e puoi opporti al loro uso, scrivendo a <a href={`mailto:${email}`}>{email}</a>.
+    Se ritieni che i tuoi dati siano trattati in modo scorretto puoi rivolgerti al <a href="https://www.garanteprivacy.it" rel="noopener">Garante per la protezione dei dati personali</a>.
+  </p>
+
+  <p class="nota"><a href={href('/segnala/')}>Torna alla pagina per segnalare un evento</a></p>
+</Base>

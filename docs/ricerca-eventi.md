@@ -2,7 +2,7 @@
 
 Due volte al giorno (circa alle 2:37 e alle 14:37, ora italiana) un'attività programmata di Claude Code avvia una sessione che segue **questa procedura**. Chi la esegue lavora da solo: nessuno risponde durante il lavoro, quindi non fare domande.
 
-L'indirizzo email del titolare (per riepiloghi e approvazioni) **non è scritto qui** perché il repository è pubblico: lo trovi nel testo dell'attività programmata.
+L'indirizzo email del titolare (per riepiloghi e approvazioni) lo trovi nel testo dell'attività programmata. Non scriverlo nei file del repository, che è pubblico: fa eccezione `src/data/impostazioni.json`, dove Giuseppe l'ha scelto come contatto pubblico per l'informativa privacy.
 
 ## Regole che non si cambiano
 

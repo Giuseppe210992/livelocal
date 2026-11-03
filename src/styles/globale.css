@@ -240,3 +240,14 @@ a.pastiglia:hover { border-color: var(--mare); }
 .titoletto { font-size: 1rem; margin: 18px 0 8px; }
 .titoletto a { color: var(--testo); }
 .titoletto small { color: var(--tenue); font-weight: 500; font-size: .85rem; margin-left: 6px; }
+
+/* Pagine "Segnala" e "Privacy" */
+.passi { padding-left: 0; list-style: none; counter-reset: passo; display: grid; gap: 10px; margin: 0 0 20px; }
+.passi li { counter-increment: passo; position: relative; padding: 12px 14px 12px 52px; background: var(--carta); border: 1px solid var(--bordo); border-radius: var(--raggio); }
+.passi li::before {
+  content: counter(passo); position: absolute; left: 12px; top: 10px; width: 28px; height: 28px; border-radius: 50%;
+  background: var(--mare); color: #fff; font-weight: 800; display: grid; place-items: center;
+}
+@media (prefers-color-scheme: dark) { .passi li::before { color: #0b1620; } }
+main ul:not([class]) { padding-left: 1.2rem; }
+main li { margin-bottom: .35rem; }

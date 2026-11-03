@@ -46,6 +46,10 @@ Due volte al giorno un'attività programmata di Claude Code cerca nuovi eventi, 
 - gli eventi con fonte ufficiale vanno online da soli, gli altri restano "in revisione";
 - manda un'email al titolare solo se c'è qualcosa di nuovo. Per approvare si risponde all'email con `ok 1 3`, `ok tutti` o `no 2`.
 
+## Segnalazioni degli organizzatori
+
+`/segnala/` spiega come segnalare un evento e rimanda a un Google Modulo (domande e testi in `docs/modulo-segnalazioni.md`). Chi segnala lascia nome, cognome e cellulare: servono solo per una telefonata di verifica e **non vanno mai nel repository né sul sito**. Il link del modulo e il contatto pubblico si cambiano in `src/data/impostazioni.json`. L'informativa è in `/privacy/`.
+
 ## Mappa e "vicino a me"
 
 - `/mappa/` e `/vicino-a-me/` usano lo stesso strumento: si sceglie il giorno (tutti, weekend, i prossimi 14 giorni o una data qualsiasi) e, se si vuole, la propria posizione con raggio 10, 25 o 50 km.

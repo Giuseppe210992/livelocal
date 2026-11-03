@@ -13,6 +13,8 @@ export const GET: APIRoute = () => {
     { percorso: '/', lastmod: ultima(eventi) },
     { percorso: '/mappa/', lastmod: ultima(eventi) },
     { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
+    { percorso: '/segnala/' },
+    { percorso: '/privacy/' },
     ...regioni.map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
     ...province.map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),
     ...comuniConPagina(comuni).map((c) => ({ percorso: percorsoComune(c), lastmod: ultima(eventiDelComune(c)) })),

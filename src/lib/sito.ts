@@ -1,6 +1,10 @@
 // Impostazioni generali del sito.
 // SITE_URL e BASE_PATH si possono cambiare senza toccare il codice (vedi astro.config.mjs).
 
+import impostazioni from '../data/impostazioni.json';
+
+export const IMPOSTAZIONI = impostazioni as { emailContatto: string; moduloUrl: string };
+
 export const SITO = {
   nome: 'LiveLocal',
   slogan: 'Gli eventi vicino a te',
