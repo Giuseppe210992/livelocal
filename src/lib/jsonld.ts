@@ -62,7 +62,12 @@ export function jsonLdEvento(e: Evento) {
     dati.offers = { '@type': 'Offer', price: e.prezzo.importo, priceCurrency: 'EUR', url: e.prenotazione?.startsWith('http') ? e.prenotazione : url };
   }
 
-  if (e.organizzatore) dati.organizer = { '@type': 'Organization', name: e.organizzatore };
+  if (e.organizzatore) {
+    const organizer: Record<string, unknown> = { '@type': 'Organization', name: e.organizzatore };
+    const sitoOrg = sitoOrganizzatore(e);
+    if (sitoOrg) organizer.url = sitoOrg;
+    dati.organizer = organizer;
+  }
 
   return dati;
 }
@@ -90,4 +95,28 @@ export function jsonLdSito() {
     inLanguage: SITO.lingua,
     description: SITO.descrizione,
   };
+}
+
+/**
+ * Sito dell'organizzatore, solo quando lo sappiamo davvero (mai inventato):
+ * - eventi del Ministero della Cultura → cultura.gov.it
+ * - fonte di tipo "organizzatore": la home del suo sito, oppure la sua pagina Facebook
+ *   (dai post di Instagram non si ricava l'account in modo sicuro, quindi niente).
+ */
+function sitoOrganizzatore(e: Evento): string | null {
+  if (e.organizzatore?.startsWith('Ministero della Cultura')) return 'https://cultura.gov.it/';
+  for (const f of e.fonti) {
+    if (f.tipo !== 'organizzatore') continue;
+    let u: URL;
+    try { u = new URL(f.url); } catch { continue; }
+    const host = u.hostname.replace(/^www\./, '');
+    if (host === 'facebook.com') {
+      const pagina = u.pathname.split('/').filter(Boolean)[0];
+      if (pagina && !['groups', 'events', 'profile.php', 'share', 'p'].includes(pagina)) return `https://www.facebook.com/${pagina}/`;
+      continue;
+    }
+    if (host === 'instagram.com') continue;
+    return `${u.protocol}//${u.host}/`;
+  }
+  return null;
 }
