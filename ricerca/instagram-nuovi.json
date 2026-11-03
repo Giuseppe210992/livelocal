@@ -1175,27 +1175,27 @@
     "pro_loco_riardo": {
       "stato": "ok",
       "ultimoPost": "2026-11-01T17:30:04+0000",
-      "controllato": "2026-11-03T16:40:23.422Z"
+      "controllato": "2026-11-03T16:47:20.133Z"
     },
     "prolocominturno": {
       "stato": "ok",
       "ultimoPost": "2026-10-24T16:08:49.457Z",
-      "controllato": "2026-11-03T16:40:23.422Z"
+      "controllato": "2026-11-03T16:47:20.133Z"
     },
     "prolococittadiformia": {
       "stato": "ok",
       "ultimoPost": "2026-11-01T09:41:16+0000",
-      "controllato": "2026-11-03T16:40:23.422Z"
+      "controllato": "2026-11-03T16:47:20.133Z"
     },
     "innoalnovello": {
       "stato": "ok",
       "ultimoPost": "2026-11-03T10:06:56+0000",
-      "controllato": "2026-11-03T16:40:23.422Z"
+      "controllato": "2026-11-03T16:47:20.133Z"
     },
     "pro_loco_castelforte_suio": {
       "stato": "ok",
       "ultimoPost": "2026-10-24T16:08:49.457Z",
-      "controllato": "2026-11-03T16:40:23.422Z"
+      "controllato": "2026-11-03T16:47:20.133Z"
     },
     "comune.formia.lt.it": {
       "stato": "ok",
@@ -1512,7 +1512,7 @@
       "origine": "wikidata"
     }
   },
-  "aggiornato": "2026-11-03T16:40:23.422Z",
+  "aggiornato": "2026-11-03T16:47:20.133Z",
   "tokenScade": "2027-01-02",
   "stato": "rallentato",
   "candidati": {
@@ -4379,6 +4379,316 @@
     "comune.selvazzano": {
       "visto": "2026-11-03",
       "fonte": "citazione"
+    },
+    "comune.almese": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001006"
+    },
+    "comunedibalangero": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001016"
+    },
+    "comunedibeinasco": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001024"
+    },
+    "cittadiborgarotorinese": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001028"
+    },
+    "comunedicaluso": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001047"
+    },
+    "bibliotecacaluso": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001047"
+    },
+    "comune.carignano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001058"
+    },
+    "comunedichieri": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001078"
+    },
+    "cittadicirie": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001086"
+    },
+    "comunedicorio": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001094"
+    },
+    "cittadicuorgne": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001098"
+    },
+    "fenestrellecittadeiforti": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001103"
+    },
+    "comunedifavria": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001101"
+    },
+    "cittadigiaveno": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001115"
+    },
+    "citta.grugliasco": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001120"
+    },
+    "comune.nichelino": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001164"
+    },
+    "turismooulx": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001175"
+    },
+    "cittadiorbassano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001171"
+    },
+    "comune_di_pavarolo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001180"
+    },
+    "comunedipramollo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001204"
+    },
+    "comuneprascorsano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001206"
+    },
+    "cittadirivoli_official": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001219"
+    },
+    "comunesantena": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001257"
+    },
+    "comune_di_scalenghe": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001260"
+    },
+    "comunesettimo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001265"
+    },
+    "usseglio.official": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001282"
+    },
+    "comunediusseaux": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001281"
+    },
+    "comune_volpiano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "001314"
+    },
+    "cittadicrescentino": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002049"
+    },
+    "informagiovanigattinara": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002061"
+    },
+    "comunedilenta": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002068"
+    },
+    "proloco_piode": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002097"
+    },
+    "comunedisaluggia": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002128"
+    },
+    "derive_street_art": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002115"
+    },
+    "comuneditrino": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002148"
+    },
+    "varallovalsesia": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "002156"
+    },
+    "comunedicerano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "003049"
+    },
+    "citta_di_galliate": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "003068"
+    },
+    "comune_di_gargallo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "003070"
+    },
+    "pettenasco": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "003116"
+    },
+    "bagnasco_comunica": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004008"
+    },
+    "citta_di_alba": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004003"
+    },
+    "comune__brondello": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004032"
+    },
+    "comune_di_busca": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004034"
+    },
+    "comunebra": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004029"
+    },
+    "comunedicentallo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004061"
+    },
+    "cherasco_ufficio_turistico": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004067"
+    },
+    "comunediceva": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004066"
+    },
+    "comune_cortemilia": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004073"
+    },
+    "comunedicuneo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004078"
+    },
+    "biblioteca_fossano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004089"
+    },
+    "comune_gambasca": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004094"
+    },
+    "cittadimondovi": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004130"
+    },
+    "comunedinarzole": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004147"
+    },
+    "comunediormea": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004155"
+    },
+    "comune_peveragno": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004163"
+    },
+    "pontechianale": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004172"
+    },
+    "comune_rifreddo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004181"
+    },
+    "comune_saluzzo": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004203"
+    },
+    "comune_saliceto": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004201"
+    },
+    "vivosavigliano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004215"
+    },
+    "comune.somano": {
+      "visto": "2026-11-03",
+      "fonte": "sito-comune",
+      "comune": "004221"
     }
   },
   "scartati": [
@@ -4402,9 +4712,16 @@
   "numeri": {
     "accountLeggibili": 62,
     "accountNonLeggibili": 3,
-    "candidatiInAttesa": 716,
+    "candidatiInAttesa": 778,
     "scartati": 16,
     "linkInAttesa": 234
   },
-  "ultimaScopertaWikidata": "2026-11-03T16:39:03.722Z"
+  "ultimaScopertaWikidata": "2026-11-03T16:39:03.722Z",
+  "siti": {
+    "cursore": 700,
+    "completatoIl": null,
+    "provati": 700,
+    "risposto": 471,
+    "conInstagram": 63
+  }
 }
