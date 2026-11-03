@@ -9371,5 +9371,664 @@
     "inserito": "2026-11-03",
     "inseritoDa": "ia",
     "fine": "2026-12-07T20:00"
+  },
+  {
+    "slug": "oscar-teatro-del-giglio-lucca",
+    "titolo": "Oscar – Teatro del Giglio",
+    "categoria": "teatro",
+    "inizio": "2026-11-06",
+    "luogo": "Teatro del Giglio Giacomo Puccini",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione di prosa del Teatro del Giglio: venerdì 6 e sabato 7 novembre alle 21, domenica 8 alle 16. La stagione propone otto titoli, dal classico al contemporaneo, fino ad aprile 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Giglio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08"
+  },
+  {
+    "slug": "mercato-dell-antiquariato-lucca-14-15-novembre",
+    "titolo": "Mercato dell'antiquariato",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14",
+    "luogo": "Piazze del centro storico (San Martino, Antelminelli, del Giglio, San Giovanni, San Giusto)",
+    "indirizzo": "Centro storico di Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato di oggetti vintage e di antiquariato nelle piazze del centro storico, sabato e domenica dalle 9 alle 20.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lucca",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15"
+  },
+  {
+    "slug": "carbonara-fest-lucca-2026",
+    "titolo": "Carbonara Fest",
+    "categoria": "sagra",
+    "inizio": "2026-11-20",
+    "luogo": "Piazzale don Baroni",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di cucina romana su ruote, con i food truck in piazzale don Baroni dalle 9 alle 20.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Truckfood",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22"
+  },
+  {
+    "slug": "genius-loci-guami-teatro-san-girolamo-lucca",
+    "titolo": "Genius Loci: Francesco e Gioseffo Guami, canzoni e ricercari",
+    "categoria": "concerto",
+    "inizio": "2026-11-05T21:00",
+    "luogo": "Teatro San Girolamo",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna Genius Loci, un percorso alla riscoperta del patrimonio musicale della città, con canzoni e ricercari di Francesco e Gioseffo Guami.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Giglio Giacomo Puccini",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "genius-loci-tesori-ritrovati-villa-bottini-lucca",
+    "titolo": "Genius Loci: Tesori ritrovati, musiche inedite dal Fondo Marianna Bottini",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T17:30",
+    "luogo": "Villa Bottini",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna Genius Loci con musiche inedite dal Fondo Marianna Bottini, ritrovate nell'archivio della villa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Giglio Giacomo Puccini",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "genius-loci-orchestra-della-toscana-lucca",
+    "titolo": "Genius Loci: Orchestra della Toscana",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "Teatro del Giglio Giacomo Puccini",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'Orchestra della Toscana che chiude la rassegna Genius Loci al Teatro del Giglio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Giglio Giacomo Puccini",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aml-quartetto-guadagnini-lucca",
+    "titolo": "Stagione AML: Quartetto Guadagnini",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T17:30",
+    "luogo": "Auditorium chiesa del Suffragio",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Quartetto Guadagnini per la stagione dell'Associazione Musicale Lucchese, alle 17.30 all'Auditorium della chiesa del Suffragio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Musicale Lucchese",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-economia-e-spiritualita-lucca-6-novembre",
+    "titolo": "Festival Economia e Spiritualità: giornata di studio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T16:30",
+    "luogo": "Auditorium Palazzo delle Esposizioni",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di studio sull'economia francescana e sulla nascita dei Monti di Pietà, nell'Auditorium di Palazzo delle Esposizioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ricostruire la Vita",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "san-concordio-in-festa-lucca-8-novembre",
+    "titolo": "San Concordio in festa",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08",
+    "luogo": "Viale San Concordio",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato ambulante straordinario nel quartiere di San Concordio, in contrada, domenica 8 novembre dalle 10 alle 19.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Confartigianato Lucca",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-del-riuso-lucca-21-22-novembre",
+    "titolo": "Fiera del riuso",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21",
+    "luogo": "Foro Boario, Monte San Quirico",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera di artigianato di recupero, collezionismo, vintage e modernariato in riciclo, sabato e domenica dalle 9 alle 20 al Foro Boario di Monte San Quirico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Occhio del Riciclone",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22"
+  },
+  {
+    "slug": "aspettando-beethoven-200-lucca",
+    "titolo": "Aspettando Beethoven 200: l'esordio e la danza",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T18:00",
+    "luogo": "Sala del Capitolo, Real Collegio",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna «Oltre le prospettive» alla Sala del Capitolo del Real Collegio, in attesa dei 200 anni dalla morte di Beethoven.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Animando – Centro di promozione musicale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lucca-e-gli-organi-di-puccini-22-novembre",
+    "titolo": "Lucca e gli organi di Puccini: Orchestra da Camera Fiorentina",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T17:00",
+    "luogo": "Auditorium chiesa di San Romano",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'Orchestra da Camera Fiorentina diretta da Giuseppe Lanzetta nella rassegna sugli organi suonati da Puccini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orchestra Toscana Classica",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "coppa-citta-di-lucca-finale-coppa-italia-rally",
+    "titolo": "61° Coppa Città di Lucca – finale Coppa Italia Rally",
+    "categoria": "sport",
+    "inizio": "2026-11-15T09:30",
+    "luogo": "Mura urbane",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Finale della Coppa Italia Rally 2026: il 61° Coppa Città di Lucca, uno dei rally storici italiani, si corre domenica 15 novembre con partenza alle 9.30 alle Mura urbane.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Automobile Club Lucca",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lucca-citta-degli-organi-pieve-santo-stefano",
+    "titolo": "Lucca Città degli Organi: Umberto Forni",
+    "categoria": "concerto",
+    "inizio": "2026-11-07",
+    "luogo": "Pieve di Santo Stefano",
+    "indirizzo": "Lucca",
+    "comune": "046017",
+    "frazione": null,
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo dei tre concerti della rassegna sugli organi storici di Lucca, con l'organista Umberto Forni alla Pieve di Santo Stefano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Domenico di Lorenzo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Lucca – Comune di Lucca",
+        "tipo": "ufficiale",
+        "url": "https://turismo.lucca.it/eventi-lucca/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "amleto-teatro-secci-terni",
+    "titolo": "Amleto al Teatro Secci",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "luogo": "Teatro Secci",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Il capolavoro di Shakespeare torna in scena con una nuova lettura, al Teatro Secci il 7 e l'8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Secci",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08"
+  },
+  {
+    "slug": "chopin-gran-gala-terni",
+    "titolo": "Chopin Gran Galà",
+    "categoria": "concerto",
+    "inizio": "2026-11-08",
+    "luogo": "Auditorium Gazzoli",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di grande musica classica con il pianista Gianluca Luisi, all'Auditorium Gazzoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Terni",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lu-santo-jullare-francesco-terni",
+    "titolo": "Lu Santo Jullàre Françesco",
+    "categoria": "teatro",
+    "inizio": "2026-11-10",
+    "luogo": "Teatro Secci",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo tra ironia, poesia e riflessione dedicato a San Francesco, al Teatro Secci dal 10 al 14 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Secci",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-14"
+  },
+  {
+    "slug": "luciano-crisostomi-impronte-di-un-assenza-terni",
+    "titolo": "Luciano Crisostomi, «Impronte di un'assenza»",
+    "categoria": "mostra",
+    "inizio": "2026-10-24",
+    "luogo": "Casa di Anselmo",
+    "indirizzo": "Via Sant'Alò, Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra che celebra i novant'anni dell'artista Luciano Crisostomi, a Casa di Anselmo fino al 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa di Anselmo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15"
+  },
+  {
+    "slug": "musiche-sull-orlo-del-tempo-terni",
+    "titolo": "Musiche sull'orlo del tempo",
+    "categoria": "concerto",
+    "inizio": "2026-11-15",
+    "luogo": "Teatro Secci",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre grandi interpreti si incontrano sul palco del Teatro Secci di Terni, domenica 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Secci",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "valentina-persia-nata-con-la-guepiere-terni",
+    "titolo": "Valentina Persia – Nata con la guêpière",
+    "categoria": "teatro",
+    "inizio": "2026-11-15",
+    "luogo": "PalaTerni",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico di Valentina Persia, fatto di risate, ironia e verità, al PalaTerni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "PalaTerni",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Vivi Terni – Comune di Terni",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.terni.it/eventi",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "luchino-visconti-messa-in-scena-storia-castel-sant-angelo",
+    "titolo": "Luchino Visconti e la messa in scena della storia",
+    "categoria": "mostra",
+    "inizio": "2026-10-17",
+    "fine": "2026-11-29",
+    "luogo": "Castel Sant'Angelo",
+    "indirizzo": "Lungotevere Castello 50",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a Castel Sant'Angelo per i 120 anni dalla nascita e i 50 dalla morte di Luchino Visconti, a cura di Caterina d'Amico e Gian Luca Farinelli. Si visita dal 17 ottobre al 29 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Castel Sant'Angelo – Direzione Musei nazionali di Roma",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Castel Sant'Angelo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/De9VIsFMnti/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]

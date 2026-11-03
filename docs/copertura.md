@@ -2,18 +2,20 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**245 eventi pubblicati, 243 in programma.** Province con almeno un evento in programma: **70 su 110**.
+**266 eventi pubblicati, 264 in programma.** Province con almeno un evento in programma: **72 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Lazio | 52 | 50 | 3 / 5 |
+| Lazio | 53 | 51 | 3 / 5 |
 | Campania | 39 | 39 | 5 / 5 |
 | Piemonte | 25 | 25 | 6 / 8 |
 | Emilia-Romagna | 24 | 24 | 7 / 9 |
+| Toscana | 16 | 16 | 3 / 10 |
 | Liguria | 15 | 15 | 4 / 4 |
 | Veneto | 11 | 11 | 6 / 7 |
+| Umbria | 10 | 10 | 2 / 2 |
 | Puglia | 10 | 10 | 5 / 6 |
 | Abruzzo | 8 | 8 | 4 / 4 |
 | Calabria | 8 | 8 | 4 / 5 |
@@ -24,9 +26,7 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 | Friuli-Venezia Giulia | 5 | 5 | 2 / 4 |
 | Marche | 5 | 5 | 4 / 5 |
 | Trentino-Alto Adige | 4 | 4 | 2 / 2 |
-| Umbria | 4 | 4 | 1 / 2 |
 | Sicilia | 4 | 4 | 3 / 9 |
-| Toscana | 2 | 2 | 2 / 10 |
 | Molise | 2 | 2 | 1 / 2 |
 
 ## Province senza eventi in programma (da cercare per prime)
@@ -45,14 +45,12 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Parma (PR), Emilia-Romagna
 - Modena (MO), Emilia-Romagna
 - Massa-Carrara (MS), Toscana
-- Lucca (LU), Toscana
 - Pistoia (PT), Toscana
 - Livorno (LI), Toscana
 - Arezzo (AR), Toscana
 - Siena (SI), Toscana
 - Grosseto (GR), Toscana
 - Prato (PO), Toscana
-- Terni (TR), Umbria
 - Ascoli Piceno (AP), Marche
 - Viterbo (VT), Lazio
 - Rieti (RI), Lazio
