@@ -221,5 +221,147 @@
       }
     ],
     "inserito": "2026-11-02"
+  },
+  {
+    "slug": "sotto-una-buona-stella-sant-agata-de-goti",
+    "titolo": "Sotto una Buona Stella",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-13",
+    "luogo": "Centro storico di Sant'Agata de' Goti",
+    "indirizzo": "Centro storico",
+    "comune": "062070",
+    "frazione": null,
+    "lat": 41.10069,
+    "lon": 14.49529,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione del Natale nel borgo sannita, ogni sabato e domenica dal 21 novembre al 13 dicembre: il 21-22 e 28-29 novembre, poi dal 5 all'8 dicembre (ponte dell'Immacolata) e il 12-13. Si comincia il 21 novembre con la festa in piazza e l'accensione delle luminarie. Poi mercatini nelle casette, street food del Sannio, visite guidate a tema, il Bosco Incantato per i bambini, spettacoli di musica e teatro, artisti di strada e la nevicata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Profilo Instagram «Sotto una Buona Stella»",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/De4huMatRrt/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "eCampania",
+        "tipo": "stampa",
+        "url": "https://www.ecampania.it/evento/eventi/512859/santagata-de-goti-si-accende-per-il-natale-torna-sotto-una-buona-stella.html",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "come-d-incanto-natale-al-castello-ceppaloni",
+    "titolo": "Come d'Incanto: Natale al Castello",
+    "categoria": "mercatino",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-20",
+    "luogo": "Castello di Ceppaloni",
+    "indirizzo": "Via Castello",
+    "cap": "83011",
+    "comune": "062022",
+    "frazione": null,
+    "lat": 41.0462312,
+    "lon": 14.75989,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda edizione del Natale nel castello di Ceppaloni, aperto dalle 11:00 alle 21:30 in 15 giornate: 7, 8, 14, 15, 21, 22, 28 e 29 novembre; 5, 6, 8, 12, 13, 19 e 20 dicembre. Nelle sale ci sono scenografie natalizie fatte a mano, un mercatino artigianale e l'incontro con Babbo e Mamma Natale. In corte vanno in scena due spettacoli, uno su Scrooge e uno sul Grinch. Street food e visite guidate nel centro storico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Immaginaria ETS, con il patrocinio del Comune di Ceppaloni",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "binews.it",
+        "tipo": "stampa",
+        "url": "https://www.binews.it/attualita/ceppaloni-il-natale-torna-come-dincanto-spettacoli-e-mercatini-tra-il-castello-e-il-borgo/",
+        "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Benevento Centro",
+        "tipo": "aggregatore",
+        "url": "https://www.beneventocentro.it/eventi/come-d-incanto-il-natale-al-castello-di-ceppaloni/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "luci-d-artista-salerno-2026",
+    "titolo": "Luci d'Artista 2026-2027",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-02-01",
+    "luogo": "Percorso delle luminarie nel centro di Salerno",
+    "indirizzo": "Corso Vittorio Emanuele e centro storico",
+    "cap": "84123",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.6756404,
+    "lon": 14.7698571,
+    "coordinateApprossimate": true,
+    "descrizione": "Ventunesima edizione delle luminarie d'autore di Salerno: un percorso di installazioni di light art tra centro storico, lungomare, piazze e giardini (l'anno scorso erano più di quaranta opere). L'accensione è prevista sabato 7 novembre, se il meteo lo permette, e le luci restano accese fino al 1° febbraio 2027. In quel periodo ci sono anche i mercatini di Natale e la Casa di Babbo Natale in piazza Dante.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Salerno, con il sostegno della Regione Campania",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "eCampania",
+        "tipo": "stampa",
+        "url": "https://www.ecampania.it/evento/eventi/517526/salerno-si-accendono-le-luci-dartista-ecco-le-date.html",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-d-arte-presepiale-salerno",
+    "titolo": "Mostra d'Arte Presepiale – Città di Salerno",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-01-10",
+    "luogo": "Complesso Piantanova",
+    "indirizzo": "Piazza Giacomo Matteotti 1",
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.6756404,
+    "lon": 14.7698571,
+    "coordinateApprossimate": true,
+    "descrizione": "Trentaduesima edizione della mostra presepiale di Salerno, con trenta artisti, durante le Luci d'Artista. Si visita tutti i giorni, festivi compresi, dalle 15:00 alle 21:00. L'artista Deborah Pepe porta una macchina da cucire e tiene tutorial e laboratori per i visitatori, anche per le scuole.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione di volontariato missionario «Tertio Millennio Adveniente»",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Luci d'Artista (lucidartista.it)",
+        "tipo": "stampa",
+        "url": "https://www.lucidartista.it/salerno-mostra-darte-presepiale-dal-07-novembre-2026-al-10-gennaio-2027.html",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia"
   }
 ]
