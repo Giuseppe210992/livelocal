@@ -1688,6 +1688,12 @@
         "tipo": "aggregatore",
         "url": "https://www.itinerarinelgusto.it/sagre-e-feste/inno-al-novello-a-mignano-monte-lungo-3421",
         "consultata": "2026-11-03"
+      },
+      {
+        "nome": "Inno al Novello (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRn9hkse1R/",
+        "consultata": "2026-11-03"
       }
     ],
     "inserito": "2026-11-03",
@@ -9172,5 +9178,198 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-03",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "richard-avedon-in-the-american-west-roma",
+    "titolo": "Richard Avedon. In the American West. 1979-1984",
+    "categoria": "mostra",
+    "inizio": "2026-10-09",
+    "luogo": "Palazzo Esposizioni Roma",
+    "indirizzo": "Via Nazionale",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "La serie completa di 110 ritratti con cui il fotografo Richard Avedon raccontò tra il 1979 e il 1984 persone non celebri dell'Ovest americano, dai braccianti ai minatori ai giostrai. L'ingresso alla mostra è da via Milano 9a. Visite guidate il sabato alle 16, la domenica e nei festivi alle 11. Aperto da martedì a domenica dalle 10 alle 20 (ingresso fino a un'ora prima), lunedì chiuso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Azienda Speciale Palaexpo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Palazzo Esposizioni Roma",
+        "tipo": "organizzatore",
+        "url": "https://www.palazzoesposizioniroma.it/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2027-01-31"
+  },
+  {
+    "slug": "fireworks-ileana-sonnabend-roma",
+    "titolo": "Fireworks. Ileana Sonnabend e il boom dell'arte contemporanea",
+    "categoria": "mostra",
+    "inizio": "2026-11-03",
+    "luogo": "Palazzo Esposizioni Roma",
+    "indirizzo": "Via Nazionale",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuova mostra di Palazzo Esposizioni dedicata a Ileana Sonnabend e al boom dell'arte contemporanea. Si apre il 3 novembre 2026 e resta in programma fino al 4 aprile 2027. Aperto da martedì a domenica dalle 10 alle 20 (ingresso fino a un'ora prima), lunedì chiuso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Azienda Speciale Palaexpo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Palazzo Esposizioni Roma",
+        "tipo": "organizzatore",
+        "url": "https://www.palazzoesposizioniroma.it/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2027-04-04"
+  },
+  {
+    "slug": "amelia-rosselli-improvvisi-roma",
+    "titolo": "Amelia Rosselli. Improvvisi",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "luogo": "Palazzo Esposizioni Roma",
+    "indirizzo": "Via Nazionale",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata ad Amelia Rosselli e ai suoi «Improvvisi», in programma a Palazzo Esposizioni dal 17 novembre 2026 al 31 gennaio 2027. Aperto da martedì a domenica dalle 10 alle 20 (ingresso fino a un'ora prima), lunedì chiuso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Azienda Speciale Palaexpo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Palazzo Esposizioni Roma",
+        "tipo": "organizzatore",
+        "url": "https://www.palazzoesposizioniroma.it/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2027-01-31"
+  },
+  {
+    "slug": "contiamo-l-italia-contiamo-per-il-futuro-roma",
+    "titolo": "Contiamo l'Italia, contiamo per il futuro",
+    "categoria": "mostra",
+    "inizio": "2026-10-14",
+    "luogo": "Palazzo Esposizioni Roma",
+    "indirizzo": "Via Nazionale",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a ingresso gratuito per i cento anni dell'Istat, l'Istituto nazionale di statistica, a Palazzo Esposizioni fino al 2 dicembre. Aperto da martedì a domenica dalle 10 alle 20 (ingresso fino a un'ora prima), lunedì chiuso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Azienda Speciale Palaexpo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Palazzo Esposizioni Roma",
+        "tipo": "organizzatore",
+        "url": "https://www.palazzoesposizioniroma.it/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-12-02"
+  },
+  {
+    "slug": "jack-vettriano-salone-degli-incanti-trieste",
+    "titolo": "Mostra di Jack Vettriano",
+    "categoria": "mostra",
+    "inizio": "2026-10-29",
+    "luogo": "Salone degli Incanti",
+    "indirizzo": "Riva Nazario Sauro",
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Dal 29 ottobre 2026 al 2 maggio 2027 il Salone degli Incanti di Trieste ospita una mostra dedicata a Jack Vettriano, segnalata dal Comune di Trieste tra gli appuntamenti da non perdere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Trieste",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Trieste (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfDDUNVM7F0/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2027-05-02"
+  },
+  {
+    "slug": "i-lunedi-di-castello-castel-sant-angelo-7-dicembre",
+    "titolo": "I lunedì di Castello – apertura straordinaria 7 dicembre",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-07T14:00",
+    "luogo": "Castel Sant'Angelo",
+    "indirizzo": "Lungotevere Castello 50",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Ogni primo lunedì del mese, fino a fine anno, Castel Sant'Angelo si apre nel suo giorno di chiusura, dalle 14 alle 20 (ultimo ingresso alle 19), con biglietto a 5 euro. Questa è la data di dicembre. I biglietti si comprano solo in biglietteria, senza prenotazione, e non sono ammessi gruppi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Castel Sant'Angelo – Direzione Musei nazionali di Roma",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Castel Sant'Angelo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfHwgRYsipK/",
+        "consultata": "2026-11-03"
+      }
+    ],
+    "inserito": "2026-11-03",
+    "inseritoDa": "ia",
+    "fine": "2026-12-07T20:00"
   }
 ]

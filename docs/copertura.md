@@ -2,13 +2,13 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**239 eventi pubblicati, 237 in programma.** Province con almeno un evento in programma: **70 su 110**.
+**245 eventi pubblicati, 243 in programma.** Province con almeno un evento in programma: **70 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Lazio | 47 | 45 | 3 / 5 |
+| Lazio | 52 | 50 | 3 / 5 |
 | Campania | 39 | 39 | 5 / 5 |
 | Piemonte | 25 | 25 | 6 / 8 |
 | Emilia-Romagna | 24 | 24 | 7 / 9 |
@@ -21,9 +21,9 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 | Lombardia | 7 | 7 | 6 / 12 |
 | Basilicata | 7 | 7 | 1 / 2 |
 | Valle d'Aosta | 5 | 5 | 1 / 1 |
+| Friuli-Venezia Giulia | 5 | 5 | 2 / 4 |
 | Marche | 5 | 5 | 4 / 5 |
 | Trentino-Alto Adige | 4 | 4 | 2 / 2 |
-| Friuli-Venezia Giulia | 4 | 4 | 2 / 4 |
 | Umbria | 4 | 4 | 1 / 2 |
 | Sicilia | 4 | 4 | 3 / 9 |
 | Toscana | 2 | 2 | 2 / 10 |
