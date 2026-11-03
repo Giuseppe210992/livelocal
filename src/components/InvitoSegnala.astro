@@ -1,0 +1,13 @@
+---
+// Invito a segnalare un evento: in fondo alle liste e alle pagine evento, perché chi organizza lo veda.
+import { href } from '../lib/sito';
+interface Props { luogo?: string }
+const { luogo } = Astro.props;
+---
+<aside class="invito" aria-label="Segnala un evento">
+  <p><b>Manca un evento{luogo ? ` ${luogo}` : ''}?</b> <span>Segnalalo in due minuti: è gratis e non serve registrarsi.</span></p>
+  <a class="bottone bottone--evento" href={href('/segnala/')}>
+    <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 5v14M5 12h14"/></svg>
+    Segnala un evento
+  </a>
+</aside>

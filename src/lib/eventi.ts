@@ -4,7 +4,7 @@
 
 import grezzi from '../data/eventi.json';
 import categorieDati from '../data/categorie.json';
-import { comune as trovaComune, provincia, regione, percorsoComune, percorsoFrazione } from './luoghi';
+import { comune as trovaComune, provincia, regione, regioni, provinceDi, percorsoComune, percorsoFrazione } from './luoghi';
 import type { Comune, Frazione, Provincia, Regione } from './luoghi';
 import { istante, fineGiornata, haOrario, leggi } from './date';
 
@@ -73,7 +73,7 @@ function controlla(e: EventoGrezzo): void {
   }
   if (!categorie.some((c) => c.slug === e.categoria)) errore(e, `categoria sconosciuta "${e.categoria}"`);
   const c = trovaComune(e.comune);
-  if (!c) errore(e, `comune con codice ISTAT ${e.comune} non presente in territorio.json (Lazio e Campania)`);
+  if (!c) errore(e, `comune con codice ISTAT ${e.comune} non presente in territorio.json`);
   if (e.frazione && !c.frazioni.some((f) => f.slug === e.frazione)) errore(e, `frazione "${e.frazione}" non presente in ${c.nome}`);
   if (typeof e.lat !== 'number' || typeof e.lon !== 'number') errore(e, 'mancano le coordinate');
   if (!['pubblicato', 'annullato', 'rinviato', 'in-revisione'].includes(e.stato)) errore(e, `stato sconosciuto "${e.stato}"`);
@@ -150,6 +150,10 @@ export const eventiDellaFrazione = (c: Comune, f: Frazione) =>
   eventi.filter((e) => e.comune === c.codiceIstat && e.frazione === f.slug);
 export const eventiDellaProvincia = (p: Provincia) => eventi.filter((e) => e.provinciaDati.codiceIstat === p.codiceIstat);
 export const eventiDellaRegione = (r: Regione) => eventi.filter((e) => e.regioneDati.codiceIstat === r.codiceIstat);
+
+/** Regioni e province hanno una pagina solo quando c'è almeno un evento: niente pagine vuote per le 110 province d'Italia. */
+export const regioniConEventi = () => regioni.filter((r) => eventiDellaRegione(r).length > 0);
+export const provinceConEventi = (r: Regione) => provinceDi(r).filter((p) => eventiDellaProvincia(p).length > 0);
 
 /** "Scauri, Minturno (LT)" oppure "Minturno (LT)" */
 export function localita(e: Evento): string {

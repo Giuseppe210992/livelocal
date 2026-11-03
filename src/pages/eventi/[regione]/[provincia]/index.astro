@@ -10,7 +10,7 @@ import { jsonLdBriciole } from '../../../../lib/jsonld';
 import { SITO, href } from '../../../../lib/sito';
 
 export function getStaticPaths() {
-  return province.map((p) => ({ params: { regione: regione(p.regione).slug, provincia: p.slug }, props: { p } }));
+  return province.filter((p) => eventiDellaProvincia(p).length > 0).map((p) => ({ params: { regione: regione(p.regione).slug, provincia: p.slug }, props: { p } }));
 }
 
 const { p } = Astro.props as { p: Provincia };

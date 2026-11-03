@@ -57,6 +57,10 @@ const immagineOg = urlAssoluto(immagine);
           </svg>
           <span class="marchio__nome">Live<b>Local</b></span>
         </a>
+        <a class="testata__cta" href={href('/segnala/')}>
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M12 5v14M5 12h14"/></svg>
+          Segnala un evento
+        </a>
         <nav class="testata__menu" aria-label="Menu principale">
           <a href={href('/mappa/')}>Mappa</a>
           <a href={href('/vicino-a-me/')}>Vicino a me</a>
@@ -70,14 +74,8 @@ const immagineOg = urlAssoluto(immagine);
 
     <footer class="piede">
       <div class="contenitore">
+        <p class="piede__avviso"><b>Possono esserci errori.</b> Le informazioni arrivano da fonti pubbliche e da chi organizza e possono essere incomplete o cambiare: prima di partire controlla sempre con chi organizza.</p>
         <p class="piede__slogan"><b>{SITO.nome}</b> · {SITO.slogan}. Calendario gratuito, senza pubblicità e senza tracciamento.</p>
-        <p class="piede__dati">
-          Dati aperti:{' '}
-          <a href={href('/eventi.json')}>eventi.json</a>{' · '}
-          <a href={href('/eventi.ics')}>calendario .ics</a>{' · '}
-          <a href={href('/feed.xml')}>feed RSS</a>{' · '}
-          <a href={href('/llms.txt')}>llms.txt</a>
-        </p>
         <p class="piede__dati">
           <a href={href('/segnala/')}>Segnala un evento</a>{' · '}
           <a href={href('/privacy/')}>Privacy</a>

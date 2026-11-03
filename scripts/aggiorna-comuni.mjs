@@ -4,11 +4,11 @@
 // non per indicare un luogo preciso.
 //
 // Uso:  node scripts/aggiorna-comuni.mjs
-// Per aggiungere una regione: aggiungi il suo codice ISTAT a REGIONI (es. 13 = Abruzzo) e rilancia.
+// Copre tutta Italia (regioni 1-20). Per limitare la zona basta restringere l'elenco REGIONI (es. [12, 15] = Lazio e Campania).
 
 import { writeFileSync } from 'node:fs';
 
-const REGIONI = [12, 15]; // 12 = Lazio, 15 = Campania
+const REGIONI = Array.from({ length: 20 }, (_, i) => i + 1); // tutte le 20 regioni (codici ISTAT 1-20)
 const BASE = 'https://raw.githubusercontent.com/openpolis/geojson-italy/master/geojson';
 
 /** Testo per gli indirizzi: minuscolo, senza accenti, parole separate da trattini. */
@@ -49,15 +49,16 @@ for (const codice of REGIONI) {
   if (!risposta.ok) throw new Error(`Download regione ${codice} non riuscito: ${risposta.status}`);
   const dati = await risposta.json();
   const primo = dati.features[0].properties;
-  regioni.push({ codiceIstat: primo.reg_istat_code, nome: primo.reg_name, slug: slug(primo.reg_name) });
+  const nomeRegione = primo.reg_name.split('/')[0]; // «Valle d'Aosta/Vallée d'Aoste» -> «Valle d'Aosta»
+  regioni.push({ codiceIstat: primo.reg_istat_code, nome: nomeRegione, slug: slug(nomeRegione) });
 
   for (const { properties: p, geometry } of dati.features) {
     if (!province.has(p.prov_istat_code)) {
       province.set(p.prov_istat_code, {
         codiceIstat: p.prov_istat_code,
         sigla: p.prov_acr,
-        nome: p.prov_name,
-        slug: slug(p.prov_name),
+        nome: p.prov_name.split('/')[0], // «Bolzano/Bozen» -> «Bolzano»
+        slug: slug(p.prov_name.split('/')[0]),
         tipo: p.prov_tipo_uts === 'Città metropolitana' ? 'Città metropolitana' : 'Provincia',
         regione: p.reg_istat_code,
       });

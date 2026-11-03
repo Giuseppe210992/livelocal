@@ -1,7 +1,7 @@
 // Mappa interattiva degli eventi (gira nel browser).
 // - scelta del giorno: tutti, weekend, i prossimi 14 giorni o una data qualsiasi
 // - posizione del telefono (solo se l'utente acconsente) oppure un luogo scelto dall'elenco
-// - raggio 10, 25, 50 o 100 km
+// - raggio 10, 25, 50 o 100 km, oppure «Tutta Italia» (0 = nessun limite, dal più vicino al più lontano)
 // La posizione non lascia mai il telefono: le distanze si calcolano qui.
 // Mappa: Leaflet + OpenStreetMap (nessuna chiave a pagamento).
 
@@ -28,14 +28,14 @@ interface EventoMappa {
 interface Centro { slug: string; nome: string; lat: number; lon: number } // slug = codice ISTAT (o codice-frazione)
 interface Dati { eventi: EventoMappa[] }
 
-// Riquadro che contiene Lazio e Campania: la mappa parte da qui se non ci sono eventi da inquadrare.
-const RIQUADRO_INIZIALE: L.LatLngBoundsExpression = [[39.98, 11.45], [42.84, 15.81]];
+// Riquadro che contiene l'Italia: la mappa parte da qui se non ci sono eventi da inquadrare.
+const RIQUADRO_INIZIALE: L.LatLngBoundsExpression = [[35.45, 6.6], [47.15, 18.6]];
 
 type Giorno = 'tutti' | 'weekend' | string; // oppure AAAA-MM-GG
 interface Partenza { lat: number; lon: number; nome: string; daGps: boolean; slug?: string; precisione?: number }
 
 const GIORNI_VISIBILI = 14;
-const RAGGI = [10, 25, 50, 100];
+const RAGGI = [10, 25, 50, 100, 0]; // 0 = tutta Italia
 
 // ---------- date (fuso italiano) ----------
 const oggiRoma = () =>
@@ -88,20 +88,33 @@ export function avviaEsplora(): void {
   const parametri = new URLSearchParams(location.search);
   let giorno: Giorno = parametri.get('giorno') ?? 'tutti';
   if (giorno !== 'tutti' && giorno !== 'weekend' && !/^\d{4}-\d{2}-\d{2}$/.test(giorno)) giorno = 'tutti';
-  let raggio = RAGGI.includes(Number(parametri.get('r'))) ? Number(parametri.get('r')) : 25;
+  let raggio = parametri.has('r') && RAGGI.includes(Number(parametri.get('r'))) ? Number(parametri.get('r')) : 25;
   let partenza: Partenza | null = null;
 
   // ----- elenco dei luoghi di partenza (comuni e frazioni), scaricato solo quando serve -----
   let luoghi: Centro[] | null = null;
   const etichetta = (c: Centro) => c.nome;
+  const normalizza = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   async function caricaLuoghi(): Promise<Centro[]> {
     if (luoghi) return luoghi;
     const url = (document.querySelector('.esplora') as HTMLElement).dataset.luoghi!;
     const risposta = await fetch(url);
     const { luoghi: righe } = (await risposta.json()) as { luoghi: [string, string, string, number, number][] };
     luoghi = righe.map(([slug, nome, sigla, lat, lon]) => ({ slug, nome: `${nome} (${sigla})`, lat, lon }));
-    el.elencoLuoghi.innerHTML = luoghi.map((c) => `<option value="${esc(etichetta(c))}"></option>`).join('');
     return luoghi;
+  }
+  // Con tutti i comuni d'Italia l'elenco è lungo: si propongono solo le prime 40 corrispondenze a ciò che si scrive.
+  function suggerimenti(testo: string) {
+    if (!luoghi) return;
+    const q = normalizza(testo.trim());
+    if (q.length < 2) { el.elencoLuoghi.innerHTML = ''; return; }
+    const inizio: Centro[] = [], dentro: Centro[] = [];
+    for (const c of luoghi) {
+      const n = normalizza(c.nome);
+      if (n.startsWith(q)) inizio.push(c); else if (n.includes(q)) dentro.push(c);
+      if (inizio.length >= 40) break;
+    }
+    el.elencoLuoghi.innerHTML = inizio.concat(dentro).slice(0, 40).map((c) => `<option value="${esc(etichetta(c))}"></option>`).join('');
   }
 
   // ----- mappa -----
@@ -129,7 +142,7 @@ export function avviaEsplora(): void {
     const p = partenza;
     return lista
       .map((e) => ({ ...e, km: distanzaKm(p, e) }))
-      .filter((e) => e.km <= raggio)
+      .filter((e) => raggio === 0 || e.km <= raggio)
       .sort((a, b) => a.km - b.km);
   }
 
@@ -176,13 +189,15 @@ export function avviaEsplora(): void {
   function disegnaRisultati(): void {
     const lista = eventiFiltrati();
     const adesso = Date.now();
-    const dove = partenza ? ` entro ${raggio} km da ${partenza.daGps ? 'te' : partenza.nome}` : '';
+    const nomePartenza = partenza ? (partenza.daGps ? 'te' : partenza.nome) : '';
+    const dove = !partenza ? '' : raggio === 0 ? ` in tutta Italia, dal più vicino a ${nomePartenza}` : ` entro ${raggio} km da ${nomePartenza}`;
     const quanti = lista.length === 0 ? 'Nessun evento' : lista.length === 1 ? '1 evento' : `${lista.length} eventi`;
     el.titolo.textContent = `${quanti} ${descrizioneGiorno()}${dove}`;
 
     // elenco
     if (!lista.length) {
-      el.risultati.innerHTML = `<li class="vuoto">Nessun evento ${esc(descrizioneGiorno())}${esc(dove)}. Prova un altro giorno${partenza ? ' o allarga la distanza' : ''}.</li>`;
+      const allarga = partenza && raggio !== 0 ? ' oppure <button type="button" class="collegamento" data-allarga>cerca in tutta Italia</button>' : '';
+      el.risultati.innerHTML = `<li class="vuoto">Nessun evento ${esc(descrizioneGiorno())}${esc(dove)}. Prova un altro giorno${allarga}.</li>`;
     } else {
       el.risultati.innerHTML = lista.map((e, i) => {
         const concluso = e.fineMs < adesso;
@@ -231,7 +246,7 @@ export function avviaEsplora(): void {
     livelloPartenza.clearLayers();
     if (partenza) {
       const centro = L.latLng(partenza.lat, partenza.lon);
-      L.circle(centro, { radius: raggio * 1000, className: 'cerchio-raggio', interactive: false }).addTo(livelloPartenza);
+      if (raggio > 0) L.circle(centro, { radius: raggio * 1000, className: 'cerchio-raggio', interactive: false }).addTo(livelloPartenza);
       L.circleMarker(centro, { radius: 8, className: 'punto-partenza', interactive: true })
         .bindTooltip(partenza.daGps ? 'Sei qui' : partenza.nome)
         .addTo(livelloPartenza);
@@ -242,7 +257,7 @@ export function avviaEsplora(): void {
     if (partenza) punti.push(L.latLng(partenza.lat, partenza.lon));
     if (punti.length > 1) mappa.fitBounds(L.latLngBounds(punti), { padding: [36, 36], maxZoom: 15 });
     else if (punti.length === 1) mappa.setView(punti[0], 14);
-    else if (partenza) mappa.fitBounds(L.latLng(partenza.lat, partenza.lon).toBounds(raggio * 2000));
+    else if (partenza && raggio > 0) mappa.fitBounds(L.latLng(partenza.lat, partenza.lon).toBounds(raggio * 2000));
   }
 
   function disegnaDove(): void {
@@ -320,17 +335,25 @@ export function avviaEsplora(): void {
     }
     const elenco = await caricaLuoghi();
     // prima il nome esatto con la sigla, poi il solo nome del paese
-    const c = elenco.find((x) => x.nome.toLowerCase() === testo)
-      ?? elenco.find((x) => x.nome.toLowerCase().replace(/ \([a-z]{2}\)$/, '') === testo);
-    if (!c) { messaggio('Non trovo questo paese nel Lazio o in Campania. Scegli uno dei suggerimenti.', 'errore'); return; }
+    const esatti = elenco.filter((x) => x.nome.toLowerCase() === testo);
+    const soloNome = elenco.filter((x) => x.nome.toLowerCase().replace(/ \([a-z]{2}\)$/, '') === testo);
+    const c = esatti[0] ?? (soloNome.length === 1 ? soloNome[0] : undefined);
+    if (!c && soloNome.length > 1) { messaggio('Ci sono più paesi con questo nome: scegline uno dai suggerimenti, con la sigla della provincia.', 'errore'); return; }
+    if (!c) { messaggio('Non trovo questo paese. Scegli uno dei suggerimenti.', 'errore'); return; }
     partenza = { ...c, daGps: false };
     el.centro.value = c.nome;
     el.centro.blur();
     messaggio(`Parti da ${c.nome}.`);
     aggiorna();
   };
+  el.centro.addEventListener('input', () => { caricaLuoghi().then(() => suggerimenti(el.centro.value)).catch(() => {}); });
   el.centro.addEventListener('change', scegliLuogo);
   el.centro.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') { ev.preventDefault(); scegliLuogo(); } });
+  el.risultati.addEventListener('click', (ev) => {
+    if (!(ev.target as HTMLElement).closest('[data-allarga]')) return;
+    raggio = 0;
+    aggiorna();
+  });
   el.raggi.addEventListener('click', (ev) => {
     const b = (ev.target as HTMLElement).closest<HTMLButtonElement>('[data-raggio]');
     if (!b) return;
@@ -349,10 +372,7 @@ export function avviaEsplora(): void {
     }).catch(() => {});
   }
 
-  // Se il permesso è già stato dato in passato, usa subito la posizione (senza nuove richieste).
-  // Se è stato negato, spiega subito come riattivarlo.
-  navigator.permissions?.query({ name: 'geolocation' as PermissionName }).then((p) => {
-    if (p.state === 'granted' && !partenza) chiediPosizione(true);
-    if (p.state === 'denied') messaggio('La posizione è bloccata per questo sito. Per attivarla: lucchetto accanto all\'indirizzo → Autorizzazioni → Posizione → Consenti. Oppure scegli un luogo.', 'errore');
-  }).catch(() => {});
+  // La posizione personale si usa SOLO quando si tocca «Usa la mia posizione»: mai in automatico,
+  // così chi vuole guardare altrove (anche oltre i 100 km) vede subito tutti gli eventi.
+
 }

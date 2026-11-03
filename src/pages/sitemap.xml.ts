@@ -1,8 +1,8 @@
 // Mappa del sito per Google e Bing: tutte le pagine, rigenerata a ogni pubblicazione.
 import type { APIRoute } from 'astro';
-import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione, comuniConPagina } from '../lib/eventi';
+import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione, comuniConPagina, regioniConEventi } from '../lib/eventi';
 import type { Evento } from '../lib/eventi';
-import { regioni, province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from '../lib/luoghi';
+import { province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from '../lib/luoghi';
 import { urlAssoluto } from '../lib/sito';
 
 // Data dell'ultima modifica: l'evento inserito più di recente in quella pagina.
@@ -16,8 +16,8 @@ export const GET: APIRoute = () => {
     { percorso: '/segnala/' },
     { percorso: '/segnala/modulo/' },
     { percorso: '/privacy/' },
-    ...regioni.map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
-    ...province.map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),
+    ...regioniConEventi().map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
+    ...province.filter((p) => eventiDellaProvincia(p).length > 0).map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),
     ...comuniConPagina(comuni).map((c) => ({ percorso: percorsoComune(c), lastmod: ultima(eventiDelComune(c)) })),
     ...comuni.flatMap((c) => c.frazioni.map((f) => ({ percorso: percorsoFrazione(c, f), lastmod: ultima(eventiDellaFrazione(c, f)) }))),
     ...eventi.map((e) => ({ percorso: e.percorso, lastmod: e.inserito })),

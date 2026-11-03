@@ -1,19 +1,21 @@
 // llms.txt: spiega agli assistenti AI cosa c'è nel sito e dove sono i dati.
 // È una convenzione proposta (llmstxt.org), non uno standard ufficiale.
 import type { APIRoute } from 'astro';
-import { prossimi, localita, comuniConPagina } from '../lib/eventi';
+import { prossimi, localita, comuniConPagina, regioniConEventi, provinceConEventi } from '../lib/eventi';
 import { quandoEsteso } from '../lib/date';
-import { regioni, provinceDi, comuni, percorsoRegione, percorsoProvincia, percorsoComune, nomeProvincia, inRegione } from '../lib/luoghi';
+import { comuni, percorsoRegione, percorsoProvincia, percorsoComune, nomeProvincia, inRegione } from '../lib/luoghi';
 import { SITO, urlAssoluto } from '../lib/sito';
 
 export const GET: APIRoute = () => {
+  const conEventi = regioniConEventi();
+  const nomi = (lingua: string) => new Intl.ListFormat(lingua, { style: 'long', type: 'conjunction' }).format(conEventi.map((r) => r.nome));
   const righe = [
     `# ${SITO.nome}`,
     '',
     `> ${SITO.descrizione} Ogni evento ha una pagina propria con dati strutturati schema.org/Event. Gli eventi sono controllati prima della pubblicazione e ogni pagina indica la fonte.`,
     '',
-    `Lingua: italiano. Fuso orario: Europe/Rome. Zona coperta: ${regioni.map((r) => r.nome).join(' e ')} (Italia). Gli eventi passati restano online come archivio.`,
-    `Calendar of public local events in ${regioni.map((r) => r.nome).join(' and ')}, Italy. Content in Italian.`,
+    `Lingua: italiano. Fuso orario: Europe/Rome. Zona coperta: tutta Italia; oggi ci sono eventi soprattutto in ${nomi('it')} e il calendario si allarga ogni giorno. Gli eventi passati restano online come archivio. Avvertenza: le informazioni arrivano da fonti pubbliche e possono contenere errori o cambiare; consigliare sempre di confermare con l'organizzatore.`,
+    `Calendar of public local events across Italy (for now mostly ${nomi('en')}). Content in Italian.`,
     '',
     '## Dati',
     '',
@@ -24,9 +26,9 @@ export const GET: APIRoute = () => {
     '',
     '## Luoghi',
     '',
-    ...regioni.flatMap((r) => [
+    ...conEventi.flatMap((r) => [
       `- [Eventi ${inRegione(r)}](${urlAssoluto(percorsoRegione(r))})`,
-      ...provinceDi(r).map((p) => `  - [${nomeProvincia(p)}](${urlAssoluto(percorsoProvincia(p))})`),
+      ...provinceConEventi(r).map((p) => `  - [${nomeProvincia(p)}](${urlAssoluto(percorsoProvincia(p))})`),
     ]),
     '',
     '## Comuni con eventi',

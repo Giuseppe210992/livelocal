@@ -1,6 +1,7 @@
 ---
 // Due blocchi: "In programma" e "Eventi passati" (archivio). Usato da comune, frazione, provincia, regione.
 import SchedaEvento from './SchedaEvento.astro';
+import InvitoSegnala from './InvitoSegnala.astro';
 import { prossimi, passati } from '../lib/eventi';
 import type { Evento } from '../lib/eventi';
 
@@ -24,3 +25,5 @@ const archivio = passati(lista);
     <ul class="elenco">{archivio.map((e) => <SchedaEvento evento={e} mostraLocalita={mostraLocalita} />)}</ul>
   </section>
 )}
+
+<InvitoSegnala luogo={nomeLuogo} />

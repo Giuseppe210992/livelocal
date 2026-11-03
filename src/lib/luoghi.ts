@@ -45,13 +45,16 @@ export const provinceDi = (r: Regione) => province.filter((p) => p.regione === r
 export const comuniDi = (p: Provincia) => comuni.filter((c) => c.provincia === p.codiceIstat);
 
 /** "Provincia di Latina" oppure "Città metropolitana di Napoli" */
-export const nomeProvincia = (p: Provincia) => `${p.tipo} di ${p.nome}`;
+export const nomeProvincia = (p: Provincia) => (èValleAosta(p) ? p.nome : `${p.tipo} di ${p.nome}`);
 /** "in provincia di Latina" oppure "nell'area metropolitana di Napoli" */
 export const inProvincia = (p: Provincia) =>
-  p.tipo === 'Città metropolitana' ? `nell'area metropolitana di ${p.nome}` : `in provincia di ${p.nome}`;
-/** "nel Lazio", "in Campania" */
-const REGIONI_CON_NEL = ['Lazio', 'Molise', 'Veneto', 'Piemonte', 'Trentino-Alto Adige/Südtirol', 'Friuli-Venezia Giulia'];
-export const inRegione = (r: Regione) => (REGIONI_CON_NEL.includes(r.nome) ? `nel ${r.nome}` : `in ${r.nome}`);
+  èValleAosta(p) ? `in ${p.nome}` : p.tipo === 'Città metropolitana' ? `nell'area metropolitana di ${p.nome}` : `in provincia di ${p.nome}`;
+/** "nel Lazio", "in Campania", "nelle Marche" */
+const REGIONI_CON_NEL = ['Lazio', 'Molise', 'Veneto', 'Piemonte'];
+export const inRegione = (r: Regione) =>
+  r.nome === 'Marche' ? 'nelle Marche' : REGIONI_CON_NEL.includes(r.nome) ? `nel ${r.nome}` : `in ${r.nome}`;
+/** La Valle d'Aosta ha una sola «provincia», che coincide con la regione. */
+const èValleAosta = (p: Provincia) => p.regione === '02';
 
 export const percorsoRegione = (r: Regione) => `/eventi/${r.slug}/`;
 export const percorsoProvincia = (p: Provincia) => `${percorsoRegione(regione(p.regione))}${p.slug}/`;

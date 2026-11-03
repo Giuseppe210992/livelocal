@@ -11,6 +11,8 @@
   --mare-tenue: #e5f0f6;
   --sole: #c85d1e;
   --sole-tenue: #fbeadf;
+  --cta: #b4501a;
+  --cta-testo: #ffffff;
   --grigio-tenue: #eef0f2;
   --rosso: #b42318;
   --rosso-tenue: #fde8e6;
@@ -21,6 +23,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --cta: #f0a070;
+    --cta-testo: #1b1208;
     --sfondo: #11161d;
     --carta: #19212b;
     --testo: #e8edf2;
@@ -65,12 +69,22 @@ p { margin: 0 0 1rem; }
 
 /* Intestazione */
 .testata { background: var(--carta); border-bottom: 1px solid var(--bordo); }
-.testata__riga { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; }
+/* Intestazione: marchio e pulsante «Segnala un evento» sulla prima riga, menu sulla seconda (su schermi larghi tutto su una riga). */
+.testata__riga { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 12px; padding-block: 8px; min-height: 60px; }
+.testata__cta {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 42px; padding: 8px 14px; border-radius: 999px;
+  background: var(--cta); color: var(--cta-testo); font-weight: 700; font-size: .92rem; text-decoration: none; white-space: nowrap;
+}
+.testata__cta svg { width: 16px; height: 16px; flex: none; }
 .marchio { display: inline-flex; align-items: center; gap: 10px; color: var(--testo); text-decoration: none; }
 .marchio__icona { width: 32px; height: 32px; color: var(--mare); flex: none; }
 .marchio__nome { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; }
 .marchio__nome b { color: var(--sole); }
-.testata__menu { display: flex; gap: 14px; font-size: .95rem; }
+.testata__menu { order: 3; flex: 1 0 100%; display: flex; gap: 18px; font-size: .95rem; }
+@media (min-width: 720px) {
+  .testata__menu { order: 2; flex: 0 1 auto; margin-left: auto; }
+  .testata__cta { order: 3; }
+}
 .testata__menu a { color: var(--testo); text-decoration: none; font-weight: 600; }
 
 main { padding-top: 20px; padding-bottom: 40px; }
@@ -150,6 +164,12 @@ a.pastiglia:hover { border-color: var(--mare); }
 }
 @media (prefers-color-scheme: dark) { .bottone { color: #0b1620; } }
 .bottone--secondario { background: transparent; color: var(--mare); }
+.bottone--evento { background: var(--cta); border-color: var(--cta); color: var(--cta-testo); }
+.scorciatoie .bottone--evento { grid-column: 1 / -1; }
+/* Invito a segnalare un evento, in fondo a liste e pagine evento */
+.invito { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; background: var(--sole-tenue); border-radius: var(--raggio); padding: 14px 16px; margin: 28px 0 6px; }
+.invito p { margin: 0; flex: 1 1 220px; }
+.invito span { color: var(--tenue); }
 .bottone svg { width: 20px; height: 20px; flex: none; }
 .descrizione { font-size: 1.06rem; }
 .nota { font-size: .9rem; color: var(--tenue); background: var(--carta); border-left: 4px solid var(--mare); border-radius: 0 10px 10px 0; padding: 12px 14px; margin: 18px 0; }
@@ -204,6 +224,7 @@ a.pastiglia:hover { border-color: var(--mare); }
 .raggi { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin-top: 12px; font-size: .9rem; color: var(--tenue); }
 .raggi > span { grid-column: 1 / -1; }
 .raggi .chip { padding-inline: 4px; text-align: center; }
+.raggi .chip[data-raggio="0"] { grid-column: 1 / -1; }
 .raggi[hidden] { display: none; }
 .stato-posizione { margin: 10px 0 0; font-size: .92rem; }
 .stato-posizione:empty { display: none; }
@@ -282,3 +303,8 @@ main li { margin-bottom: .35rem; }
 .grazie[hidden], .modulo[hidden] { display: none; }
 #invia { width: 100%; justify-content: center; font: inherit; font-weight: 700; cursor: pointer; }
 #invia:disabled { opacity: .6; cursor: not-allowed; }
+
+/* Avviso «possono esserci errori» e pulsante che sembra un collegamento */
+.nota-errori { font-size: .85rem; color: var(--tenue); margin: 4px 0 12px; }
+.piede__avviso { font-size: .9rem; }
+.collegamento { background: none; border: 0; padding: 0; font: inherit; color: var(--mare); text-decoration: underline; cursor: pointer; }

@@ -3,6 +3,7 @@
 import Base from '../../../../layouts/Base.astro';
 import Briciole from '../../../../components/Briciole.astro';
 import SchedaEvento from '../../../../components/SchedaEvento.astro';
+import InvitoSegnala from '../../../../components/InvitoSegnala.astro';
 import { eventi, prossimi, eventiDelComune, localita, percorsoLocalita, testoPrezzo, riassunto, ETICHETTA_FONTE } from '../../../../lib/eventi';
 import type { Evento } from '../../../../lib/eventi';
 import { briciole } from '../../../../lib/luoghi';
@@ -87,7 +88,7 @@ const titoloPagina = `${e.titolo} · ${dataCorta(e.inizio, e.fine)} | ${SITO.nom
         Controllata il {dataSemplice(consultata)}.
       </p>
       {e.coordinateApprossimate && <p>La posizione sulla mappa è indicativa: corrisponde al centro di {e.frazioneDati?.nome ?? e.comuneDati.nome}, non al punto esatto.</p>}
-      <p>Orari e programma possono cambiare: prima di partire, conferma con chi organizza.</p>
+      <p><b>Potrebbero esserci errori.</b> Le informazioni arrivano da fonti pubbliche e possono essere incomplete o cambiare: prima di partire, conferma con chi organizza.</p>
     </aside>
   </article>
 
@@ -97,4 +98,5 @@ const titoloPagina = `${e.titolo} · ${dataCorta(e.inizio, e.fine)} | ${SITO.nom
       <ul class="elenco">{altri.map((x) => <SchedaEvento evento={x} />)}</ul>
     </section>
   )}
+  <InvitoSegnala />
 </Base>

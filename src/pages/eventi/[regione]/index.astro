@@ -3,14 +3,14 @@ import Base from '../../../layouts/Base.astro';
 import Briciole from '../../../components/Briciole.astro';
 import ElencoEventi from '../../../components/ElencoEventi.astro';
 import Pastiglia from '../../../components/Pastiglia.astro';
-import { regioni, provinceDi, percorsoRegione, percorsoProvincia, nomeProvincia, inRegione } from '../../../lib/luoghi';
+import { percorsoRegione, percorsoProvincia, nomeProvincia, inRegione } from '../../../lib/luoghi';
 import type { Regione } from '../../../lib/luoghi';
-import { eventiDellaRegione, eventiDellaProvincia, prossimi } from '../../../lib/eventi';
+import { eventiDellaRegione, eventiDellaProvincia, prossimi, regioniConEventi, provinceConEventi } from '../../../lib/eventi';
 import { jsonLdBriciole } from '../../../lib/jsonld';
 import { SITO } from '../../../lib/sito';
 
 export function getStaticPaths() {
-  return regioni.map((r) => ({ params: { regione: r.slug }, props: { r } }));
+  return regioniConEventi().map((r) => ({ params: { regione: r.slug }, props: { r } }));
 }
 
 const { r } = Astro.props as { r: Regione };
@@ -27,7 +27,7 @@ const voci = [{ nome: r.nome, percorso: percorsoRegione(r) }];
     <h1>Eventi {inRegione(r)}</h1>
     <p class="apertura__testo">Scegli una provincia, oppure guarda tutto sulla mappa.</p>
     <ul class="pastiglie">
-      {provinceDi(r).map((p) => (
+      {provinceConEventi(r).map((p) => (
         <Pastiglia nome={nomeProvincia(p)} percorso={percorsoProvincia(p)} conteggio={prossimi(eventiDellaProvincia(p)).length} />
       ))}
     </ul>

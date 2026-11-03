@@ -35,10 +35,24 @@ export function avviaModulo(): void {
     const r = await fetch(form.dataset.luoghi!);
     const { luoghi: righe } = (await r.json()) as { luoghi: [string, string, string][] };
     luoghi = righe.map(([slug, nome, sigla]) => ({ slug, nome: `${nome} (${sigla})` }));
-    elencoComuni.innerHTML = luoghi.map((l) => { const o = document.createElement('option'); o.value = l.nome; return o.outerHTML; }).join('');
     return luoghi;
   }
+  // Con tutti i comuni d'Italia si propongono solo le prime 40 corrispondenze a ciò che si scrive.
+  const normalizza = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  function suggerimenti(testo: string) {
+    if (!luoghi) return;
+    const q = normalizza(testo.trim());
+    if (q.length < 2) { elencoComuni.innerHTML = ''; return; }
+    const inizio: Luogo[] = [], dentro: Luogo[] = [];
+    for (const l of luoghi) {
+      const n = normalizza(l.nome);
+      if (n.startsWith(q)) inizio.push(l); else if (n.includes(q)) dentro.push(l);
+      if (inizio.length >= 40) break;
+    }
+    elencoComuni.innerHTML = inizio.concat(dentro).slice(0, 40).map((l) => { const o = document.createElement('option'); o.value = l.nome; return o.outerHTML; }).join('');
+  }
   comune.addEventListener('focus', () => { caricaLuoghi().catch(() => {}); }, { once: true });
+  comune.addEventListener('input', () => { caricaLuoghi().then(() => suggerimenti(comune.value)).catch(() => {}); });
 
   function segnala(el: HTMLElement | null, testo: string): false {
     messaggio(testo, 'errore');
@@ -58,7 +72,7 @@ export function avviaModulo(): void {
     try {
       const elenco = await caricaLuoghi();
       const trovato = elenco.find((l) => l.nome.toLowerCase() === valore('luogo_comune').toLowerCase());
-      if (!trovato) return segnala(comune, 'Scegli il comune o la frazione dai suggerimenti (Lazio e Campania).');
+      if (!trovato) return segnala(comune, 'Scegli il comune o la frazione dai suggerimenti.');
       codiceLuogo = trovato.slug;
     } catch {
       if (!valore('luogo_comune')) return segnala(comune, 'Scrivi il comune.');
