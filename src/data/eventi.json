@@ -11366,5 +11366,44 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "prima-del-temporale-umberto-orsini-teatro-petrarca-arezzo",
+    "titolo": "«Prima del temporale» con Umberto Orsini al Teatro Petrarca",
+    "categoria": "teatro",
+    "inizio": "2026-11-17T21:00",
+    "fine": "2026-11-18T22:30",
+    "luogo": "Teatro Petrarca",
+    "indirizzo": "Via Guido Monaco 12, Arezzo",
+    "comune": "051002",
+    "frazione": null,
+    "lat": 43.4637,
+    "lon": 11.8786,
+    "coordinateApprossimate": true,
+    "descrizione": "Apre la stagione di prosa 2026/2027 del Teatro Petrarca: Umberto Orsini, con Flavio Francucci e Diamara Ferrero, per la regia di Massimo Popolizio, in un viaggio poetico nei ricordi di un grande attore. Due serate, martedì 17 e mercoledì 18 novembre, alle 21:00. Biglietti da 10 a 30 euro secondo il posto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Guido d'Arezzo – sezione teatri",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Fondazione Guido d'Arezzo – Stagione di prosa 2026/2027",
+        "tipo": "organizzatore",
+        "url": "https://www.fondazioneguidodarezzo.com/stagione-di-prosa-2026-2027/",
+        "consultata": "2026-11-04"
+      },
+      {
+        "nome": "Discover Arezzo – Stagione Teatro Petrarca",
+        "tipo": "aggregatore",
+        "url": "https://www.discoverarezzo.com/eventi/stagione-teatro-petrarca-26-27/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
