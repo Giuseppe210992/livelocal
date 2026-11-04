@@ -32726,5 +32726,69 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "francesco-di-bella-in-duo-belvedere-riardo",
+    "titolo": "Francesco Di Bella in duo al Belvedere di Riardo",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "luogo": "Belvedere del borgo medievale",
+    "indirizzo": "Riardo (CE)",
+    "comune": "061068",
+    "lat": 41.26865,
+    "lon": 14.1441,
+    "descrizione": "Live al tramonto della voce dei 24 Grana, Francesco Di Bella in duo, tra calici di vino e vicoli di pietra, dentro la quarta edizione di Grape. Il programma completo della manifestazione (7-8 novembre) è sul profilo della Pro Loco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Riardo",
+    "fonti": [
+      {
+        "nome": "Pro Loco Riardo (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfUWlI8Bb2j/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": "2026-12-20",
+    "prenotazione": "https://www.museoarcheologiconapoli.it/event/mann_con_me/",
+    "slug": "mann-con-me-visite-guidate-250-anni-napoli",
+    "titolo": "MANN con me: visite guidate verso i 250 anni del Museo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07",
+    "luogo": "Museo Archeologico Nazionale di Napoli",
+    "indirizzo": "Piazza Museo 19, Napoli",
+    "comune": "063049",
+    "lat": 40.8535,
+    "lon": 14.2508,
+    "descrizione": "Ciclo di visite guidate condotte da restauratori, archeologi e architetti del Museo, per avvicinarsi ai festeggiamenti dei suoi primi 250 anni. Su prenotazione, incluse nel biglietto o nell'abbonamento; il MANNcaffè propone menu scontati ai partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Museo Archeologico Nazionale di Napoli",
+    "fonti": [
+      {
+        "nome": "Museo Archeologico Nazionale di Napoli (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUXnrbjA3x/",
+        "consultata": "2026-11-04"
+      }
+    ]
   }
 ]
