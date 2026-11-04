@@ -10794,5 +10794,68 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingresso-gratuito-gnamc-roma-4-novembre",
+    "titolo": "Ingresso gratuito alla Galleria Nazionale d'Arte Moderna e Contemporanea – 4 novembre",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04",
+    "luogo": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Per la Giornata dell'Unità Nazionale e delle Forze Armate la GNAMC è aperta gratuitamente mercoledì 4 novembre: collezione permanente e mostre in corso. L'ingresso è gratuito ma serve la prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "GNAMC (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfJy7c0iJy6/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "alice-in-christmasland-luci-di-natale-forte-di-bard",
+    "titolo": "Luci di Natale al Forte – Alice in ChristmasLand",
+    "categoria": "bambini",
+    "inizio": "2026-11-27",
+    "luogo": "Forte di Bard – Piazza d'Armi",
+    "indirizzo": "Bard",
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Dal 27 novembre al 31 dicembre, ogni sera dalle 17.30, il Forte di Bard si trasforma nel paese delle meraviglie: il Cappellaio Matto, il Bianconiglio, la Regina di Cuori e il Brucaliffo in Piazza d'Armi, tra video mapping, luci e suoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Forte di Bard",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Forte di Bard (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/De_6jdxjdg0/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": "2026-12-31"
   }
 ]
