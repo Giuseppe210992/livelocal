@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **380 pagine di 265 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **417 pagine di 290 siti** hanno dato eventi; 60 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -36,6 +36,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| ARONAnelWEB | stampa | 7 | https://www.aronanelweb.it/evento/rassegna-cai-arona-i-ritmi-della-montagna-con-max-cassani (+2 altre pagine) | 2026-11-04 |
 | ATL Novara - Calendario eventi | ufficiale | 4 | https://www.turismonovara.it/it/eventimanifestazioni | 2026-11-03 |
 
 ### Cuneo (CN)
@@ -87,9 +88,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Gazzetta Matin | stampa | 6 | https://www.gazzettamatin.com/2026/11/03/saison-culturelle-dal-4-novembre-biglietti-per-gli-spettacoli-di-dicembre | 2026-11-04 |
+| Saison Culturelle Valle d'Aosta | organizzatore | 5 | https://saisonculturellevda.it/spettacoli (+4 altre pagine) | 2026-11-04 |
 | Forte di Bard - Eventi in programma | ufficiale | 3 | https://www.fortedibard.it/eventi (+2 altre pagine) | 2026-11-03 |
 | Regione Autonoma Valle d'Aosta - Mostre in evidenza | ufficiale | 3 | https://www.regione.vda.it/cultura/mostre_musei/mostre_in_evidenza_i.aspx | 2026-11-03 |
-| Saison Culturelle - Spettacoli | organizzatore | 3 | https://saisonculturellevda.it/spettacoli (+2 altre pagine) | 2026-11-04 |
 | Marché Vert Noël Aosta | organizzatore | 1 | https://www.mercatinodinataleaosta.it/ | 2026-11-04 |
 | Valle d'Aosta Heritage - What's on | ufficiale | 1 | https://valledaostaheritage.com/whats-on | 2026-11-03 |
 
@@ -132,8 +134,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Triennale Milano - Voce Triennale | ufficiale | 7 | https://triennale.org/voce-triennale | 2026-11-04 |
 | Palazzo Reale Milano - Mostre 2026 | ufficiale | 5 | https://www.palazzorealemilano.it/mostre-in-programma/mostre-2026 | 2026-11-04 |
 | MUDEC - Mostre in corso | ufficiale | 3 | https://www.mudec.it/mostre-in-corso-2 (+1 altre pagine) | 2026-11-04 |
+| EventiDiZona | aggregatore | 1 | https://www.eventidizona.it/cosa-fare/arese | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/antica-fiera-di-san-martino-2026-0 | 2026-11-03 |
 | Mercati di Milano | aggregatore | 1 | https://mercatidimilano.com/mercatini-di-natale/oh-bej-oh-bej | 2026-11-04 |
+| Palazzo Arese Borromeo | organizzatore | 1 | https://palazzoareseborromeo.it/evento | 2026-11-04 |
 
 ### Bergamo (BG)
 
@@ -143,9 +147,12 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | SanMartinoEvents Festa 2026 | organizzatore | 6 | https://www.sanmartinoevents.it/ | 2026-11-04 |
 | Comune di Albino | ufficiale | 5 | https://www.comune.albino.bg.it/it/eventi/romanzo-di-dio (+4 altre pagine) | 2026-11-04 |
 | Fondazione Bernareggi - Eventi e mostre | organizzatore | 5 | https://fondazionebernareggi.it/eventi-mostre | 2026-11-04 |
+| BergamoNews - Fiera di San Martino | stampa | 2 | https://www.bergamonews.it/evento/fiera-di-san-martino-ad-alzano-le-date-delledizione-2026 | 2026-11-04 |
 | Eco di Bergamo - Eventi | stampa | 2 | https://www.ecodibergamo.it/eventi/eppen/dettaglio/manifestazioni/almenno-san-bartolomeo/almenno-divino_306356 | 2026-11-04 |
 | Comune di Almenno San Bartolomeo | ufficiale | 1 | https://www.comune.almennosanbartolomeo.bergamo.it/eventi-data?data=11-11-2026 | 2026-11-04 |
+| Comune di Alzano Lombardo - Eventi | ufficiale | 1 | https://www.comune.alzano.bg.it/vivere-il-comune/eventi | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/festival-donizetti-opera-2026 | 2026-11-03 |
+| Oriente Day - Programma Alzano Lombardo | organizzatore | 1 | https://orienteday.com/programma-bergamo-alzano-lombardo-28-29-novembre-2026 | 2026-11-04 |
 
 ### Brescia (BS)
 
@@ -177,6 +184,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Teatro Sociale di Mantova - Spettacoli | ufficiale | 15 | https://www.teatrosocialemantova.it/it-it/spettacoli.aspx | 2026-11-04 |
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
+| Comune di Asola - Eventi | ufficiale | 5 | https://www.comune.asola.mn.it/vivere-il-comune/eventi/san-francesco-800-anni-dalla-morte-1226-2026 (+3 altre pagine) | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 2 | https://www.in-lombardia.it/evento/mantova-jazz-2026 (+1 altre pagine) | 2026-11-03 |
 | Centro Palazzo Te | organizzatore | 1 | https://www.centropalazzote.it/inventare-la-natura-leonardo-arcimboldo-caravaggio | 2026-11-03 |
 
@@ -200,6 +208,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
+| Comune di Arcore | ufficiale | 8 | https://comune.arcore.mb.it/vivere-il-comune/evento/cera-una-volta-pinocchio (+3 altre pagine) | 2026-11-04 |
 | Reggia di Monza | organizzatore | 3 | https://reggiadimonza.it/cosa-accade | 2026-11-04 |
 | Comune di Monza | ufficiale | 2 | https://www.comune.monza.it/it/categorie-eventi/79791 | 2026-11-04 |
 
@@ -209,11 +218,14 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Associazione Turistica Appiano | ufficiale | 3 | https://www.eppan.com/it/eventi/feste-ad-appiano/appuntamenti-ad-appiano/kulturkontakt-eppan | 2026-11-04 |
 | Museion, sito ufficiale | ufficiale | 2 | https://www.museion.it/it | 2026-11-04 |
+| alto-adige.com | aggregatore | 1 | https://www.alto-adige.com/evento/581/mercatino-di-natale-a-san-michele-appiano | 2026-11-04 |
 | Italia.it (portale ufficiale ENIT) | ufficiale | 1 | https://www.italia.it/en/south-tyrol/bressanone/things-to-do/event-christmas-markets-bressanone | 2026-11-03 |
 | Merano - Alto Adige (portale turistico ufficiale) | ufficiale | 1 | https://www.merano-suedtirol.it/it/merano/informazioni-servizi/eventi/mercatini-di-natale-merano.html | 2026-11-03 |
 | Mercatini di Natale Alto Adige | aggregatore | 1 | https://www.mercatini-di-natale.bz.it/alto-adige/merano | 2026-11-03 |
 | Mercatino di Natale Bolzano (sito ufficiale) | organizzatore | 1 | https://www.mercatinodinatalebz.it/ | 2026-11-03 |
+| suedtirol.info | ufficiale | 1 | https://www.suedtirol.info/it/it/esperienze-eventi/eventi-alto-adige/pdp-evento.C381A455A8694108B060F9D33E469DBD.sagra-di-san-martino.appiano-sulla-strada-del-vino | 2026-11-04 |
 
 ### Trento (TN)
 
@@ -221,6 +233,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Mart, mostre ed eventi | ufficiale | 7 | https://www.mart.tn.it/mostre-eventi | 2026-11-04 |
 | Comune di Aldeno | ufficiale | 2 | https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi/Festa-del-Ringraziamento-Aldeno (+1 altre pagine) | 2026-11-04 |
+| Mercatino di Natale di Arco | organizzatore | 1 | https://www.mercatininatalearco.com/it | 2026-11-04 |
 | Trento Città del Natale | ufficiale | 1 | https://natale.visittrento.it/mercatino | 2026-11-03 |
 | Visit Rovereto e Vallagarina | ufficiale | 1 | https://www.visitrovereto.it/vivi/eventi/mercatino-di-natale-ala | 2026-11-04 |
 
@@ -241,6 +254,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Teatro Comunale Città di Vicenza, calendario | ufficiale | 15 | https://www.tcvi.it/it/eventi/calendario-eventi | 2026-11-04 |
 | Casa al Carmine - Mostre in Veneto 2026-2027 | aggregatore | 5 | https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027 | 2026-11-03 |
+| InArzignano (portale del Comune) | ufficiale | 4 | https://www.inarzignano.it/2026/11/mondovisioni2026 (+1 altre pagine) | 2026-11-04 |
+| Comune di Altavilla Vicentina | ufficiale | 1 | https://comune.altavillavicentina.vi.it/novita/cerimonia-4-novembre-2026-festa-dellunita-nazionale-110-anniversario-della-vittoria-della-guerra | 2026-11-04 |
 | VIVA - Eventi Vicenza (Comune di Vicenza) | ufficiale | 1 | https://eventi.comune.vicenza.it/Eventi/Mostra-Italia-Germania.-Pittura-e-scultura-tra-Ottocento-e-Novecento.-Da-Canova-a-Kiefer | 2026-11-03 |
 
 ### Belluno (BL)
@@ -339,6 +354,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Palazzo Ducale Genova - calendario mostre e eventi | organizzatore | 11 | https://palazzoducale.genova.it/calendario-eventi | 2026-11-04 |
+| Cronache Ponentine | stampa | 2 | https://www.cronacheponentine.com/calendario-eventi | 2026-11-04 |
 | La Mia Liguria (agenzia regionale «in Liguria») | ufficiale | 2 | https://lamialiguria.it/eventi/tartufando-a-genova (+1 altre pagine) | 2026-11-03 |
 
 ### La Spezia (SP)
@@ -389,6 +405,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Valli di Argenta - Ecomuseo | organizzatore | 6 | https://www.vallidiargenta.org/eventi | 2026-11-04 |
 | InFerrara - Agenda eventi (Comune di Ferrara) | ufficiale | 5 | https://www.inferrara.it/agenda-eventi | 2026-11-04 |
 | Spettacolo in Emilia-Romagna - Teatro Comunale Ferrara, Opera & Danza 2026/27 | ufficiale | 2 | https://spettacolo.emiliaromagnacultura.it/it/rassegna/teatro-comunale-ferrara-opera-danza-2026-2027 | 2026-11-04 |
 | Palazzo dei Diamanti - Fondazione Ferrara Arte | organizzatore | 1 | https://www.palazzodiamanti.it/mostre/da-monet-a-van-gogh-a-kandinsky | 2026-11-03 |
@@ -502,6 +519,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Teatro Stabile dell'Umbria - calendario spettacoli | organizzatore | 26 | https://teatrostabile.umbria.it/calendario (+1 altre pagine) | 2026-11-04 |
+| Assisi Eventi | aggregatore | 4 | https://www.assisieventi.it/ | 2026-11-04 |
 | Eurochocolate (organizzatore) | organizzatore | 1 | https://www.eurochocolate.com/perugia2026 | 2026-11-03 |
 | Umbria24 | stampa | 1 | https://www.umbria24.it/gusto24/ventanni-di-festivol-trevi-ancora-tra-olio-nuovo-arte-musica-e-papille | 2026-11-03 |
 
@@ -526,7 +544,9 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Comune di Ancona - Eventi | ufficiale | 6 | https://www.comune.ancona.it/it/eventi | 2026-11-04 |
 | Marche Teatro - Stagione 2026-27 di Ancona Prosa-Danza | organizzatore | 5 | https://www.marcheteatro.it/stagione-2026-27-di-ancona-prosa-danza | 2026-11-04 |
+| Non solo eventi Marche | aggregatore | 5 | https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=ancona&page=5 | 2026-11-04 |
 | Turismo Marche (Regione Marche) | ufficiale | 1 | https://letsmarche.it/-/castelli-di-jesi-nel-bicchiere-1 | 2026-11-03 |
 
 ### Macerata (MC)
@@ -574,7 +594,9 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| CastellInforma | aggregatore | 6 | https://www.castellinforma.it/home/?st=town&ts=Ariccia | 2026-11-04 |
 | Festival Liszt Albano | organizzatore | 4 | https://festivalisztalbano.it/ | 2026-11-04 |
+| Mondoreale | stampa | 4 | https://www.mondoreale.it/2026/10/anzio-nasce-anzio-che-legge-cinque-incontri-con-gli-autori-tra-ottobre-e-dicembre | 2026-11-04 |
 | Palazzo Esposizioni Roma | organizzatore | 4 | https://www.palazzoesposizioniroma.it/ | 2026-11-03 |
 | TrovaSagre | aggregatore | 1 | https://trovasagre.com/en/evento/festival-del-gusto-albano-laziale-rm-2026 | 2026-11-04 |
 
@@ -616,6 +638,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Regione Abruzzo - Abruzzo Turismo | ufficiale | 3 | https://www.abruzzoturismo.it/it/eventi/dieci-anni-dal-sisma-2016-2026-dentro-il-restauro-teramo-e-provincia-dellaquila (+1 altre pagine) | 2026-11-03 |
+| Comune di Atri | ufficiale | 1 | https://www.comune.atri.te.it/it/news/atri-torna-racconti-dinverno-sei-spettacoli-per-vivere-il-teatro-in-famiglia | 2026-11-04 |
 
 ### Pescara (PE)
 
@@ -687,6 +710,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Comune di Atripalda - Atripalda Letteraria | ufficiale | 7 | https://www.comune.atripalda.av.it/it/eventi/atripalda-letteraria | 2026-11-04 |
 | Sistema Irpinia – Provincia di Avellino | aggregatore | 2 | https://sistemairpinia.provincia.avellino.it/it/eventi/festa-della-castagna-di-montella-igp-2026 (+1 altre pagine) | 2026-11-03 |
 | Concerti Italia | aggregatore | 1 | https://www.concerti-italia.it/concerti/sal-da-vinci-in-concerto-a-avellino-07-novembre-2026-biglietti-e-info | 2026-11-04 |
 
@@ -748,6 +772,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | il Tacco di Bacco | aggregatore | 5 | https://iltaccodibacco.it/barletta | 2026-11-04 |
 | Festival Pianistico Internazionale del Mediterraneo | organizzatore | 3 | https://www.pianofestivalmediterraneo.com/edizione-2026 | 2026-11-04 |
+| Spazio Duende - Eventi | organizzatore | 3 | https://spazioduende.it/eventi/elenco | 2026-11-04 |
 
 ## Basilicata
 
@@ -871,6 +896,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| PCM Pubblicità - programma Autunno d'Arte (manifesto del Comune) | stampa | 8 | https://www.pcmpubblicita.com/lavori/autunno-darte-augusta-2026-programma-eventi | 2026-11-04 |
 | Teatro Massimo Città di Siracusa | organizzatore | 3 | https://www.teatromassimosiracusa.it/stagione-teatrale-2026-27 | 2026-11-04 |
 | Balarm.it | aggregatore | 1 | https://www.balarm.it/tutti-gli-eventi-a-siracusa-e-provincia-di-novembre-2026 | 2026-11-04 |
 | Fondazione FS – Treno del Barocco (8 dicembre 2026) | organizzatore | 1 | https://www.fondazionefs.it/en/itineraries/2026/12/8/treno-del-barocco.html | 2026-11-03 |
@@ -936,7 +962,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-59 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+60 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 
@@ -1015,4 +1041,4 @@ Provate dagli agenti e non utilizzabili. Non riprovare con gli stessi strumenti:
 
 ## Pagine aperte che non hanno dato eventi
 
-137 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.
+136 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.

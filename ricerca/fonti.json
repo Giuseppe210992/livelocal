@@ -239,6 +239,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.alto-adige.com/evento/581/mercatino-di-natale-a-san-michele-appiano",
+   "dominio": "alto-adige.com",
+   "nome": "alto-adige.com",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.amatmarche.net/",
    "dominio": "amatmarche.net",
    "nome": "AMAT - Platea delle Marche",
@@ -321,6 +337,54 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Home page - Ariston | Cinema | Teatro | Gaeta"
+  },
+  {
+   "url": "https://www.aronanelweb.it/evento/cineforum-lultimo-turno",
+   "dominio": "aronanelweb.it",
+   "nome": "ARONAnelWEB",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.aronanelweb.it/evento/rassegna-cai-arona-i-ritmi-della-montagna-con-max-cassani",
+   "dominio": "aronanelweb.it",
+   "nome": "ARONAnelWEB",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.aronanelweb.it/evento/sguardi-sullarte-michelangelo-corpo-e-mente",
+   "dominio": "aronanelweb.it",
+   "nome": "ARONAnelWEB",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://arte.it/calendario-arte/massa-carrara/2026/11/10",
@@ -421,6 +485,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Eventi\n | Comune di Arzachena"
+  },
+  {
+   "url": "https://www.assisieventi.it/",
+   "dominio": "assisieventi.it",
+   "nome": "Assisi Eventi",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.atcllazio.it/stagione-teatrale-2026-2027/formia",
@@ -715,6 +795,22 @@
     "BN"
    ],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.bergamonews.it/evento/fiera-di-san-martino-ad-alzano-le-date-delledizione-2026",
+   "dominio": "bergamonews.it",
+   "nome": "BergamoNews - Fiera di San Martino",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -1091,6 +1187,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Casa al Carmine - Mostre in Veneto Autunno-Inverno 2026-2027"
+  },
+  {
+   "url": "https://www.castellinforma.it/home/?st=town&ts=Ariccia",
+   "dominio": "castellinforma.it",
+   "nome": "CastellInforma",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.ccnanticaibla.com/eventi/categoria/in-programma",
@@ -1509,6 +1621,54 @@
    "titolo": ""
   },
   {
+   "url": "https://comune.altavillavicentina.vi.it/novita/cerimonia-4-novembre-2026-festa-dellunita-nazionale-110-anniversario-della-vittoria-della-guerra",
+   "dominio": "comune.altavillavicentina.vi.it",
+   "nome": "Comune di Altavilla Vicentina",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.alzano.bg.it/vivere-il-comune/eventi",
+   "dominio": "comune.alzano.bg.it",
+   "nome": "Comune di Alzano Lombardo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.ancona.it/it/eventi",
+   "dominio": "comune.ancona.it",
+   "nome": "Comune di Ancona - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/151/UT/systemPrint",
    "dominio": "comune.ap.it",
    "nome": "Comune di Ascoli Piceno – Calendario eventi",
@@ -1520,6 +1680,70 @@
    ],
    "province": [
     "AP"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/autunno-arcorese-2026/laudandol-cum-cantare",
+   "dominio": "comune.arcore.mb.it",
+   "nome": "Comune di Arcore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/cera-una-volta-pinocchio",
+   "dominio": "comune.arcore.mb.it",
+   "nome": "Comune di Arcore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/concorso-lirico-internazionale-citta-di-arcore-g-puccini-seconda-edizione",
+   "dominio": "comune.arcore.mb.it",
+   "nome": "Comune di Arcore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/felice-schiavi",
+   "dominio": "comune.arcore.mb.it",
+   "nome": "Comune di Arcore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -1539,6 +1763,102 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Teatro Petrarca - Stagione teatrale 2026/2027"
+  },
+  {
+   "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/lu-santu-jullare-francesco",
+   "dominio": "comune.asola.mn.it",
+   "nome": "Comune di Asola - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/premio-letterario-nazionale-andrea-torresano",
+   "dominio": "comune.asola.mn.it",
+   "nome": "Comune di Asola - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/san-francesco-800-anni-dalla-morte-1226-2026",
+   "dominio": "comune.asola.mn.it",
+   "nome": "Comune di Asola - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/tre-sedie-ovvero-la-scenografia-stagione-teatrale-2026-2027",
+   "dominio": "comune.asola.mn.it",
+   "nome": "Comune di Asola - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.atri.te.it/it/news/atri-torna-racconti-dinverno-sei-spettacoli-per-vivere-il-teatro-in-famiglia",
+   "dominio": "comune.atri.te.it",
+   "nome": "Comune di Atri",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "TE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.atripalda.av.it/it/eventi/atripalda-letteraria",
+   "dominio": "comune.atripalda.av.it",
+   "nome": "Comune di Atripalda - Atripalda Letteraria",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 7,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "AV"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.bari.it/-/umano-collettivo-presentata-la-stagione-teatrale-di-bari-2026/27-al-teatro-piccinni-il-nuovo-cartellone-tra-grandi-ritorni-talenti-pugliesi-e-nuove-visioni",
@@ -2299,6 +2619,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Archivi Eventi - MAEC Cortona | Museo dell'Accademia Etrusca e della Città di Cortona"
+  },
+  {
+   "url": "https://www.cronacheponentine.com/calendario-eventi",
+   "dominio": "cronacheponentine.com",
+   "nome": "Cronache Ponentine",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://cultura.comune.parma.it/",
@@ -3093,6 +3429,22 @@
    "titolo": "Eventi, Sagre e Feste area di Ragusa"
   },
   {
+   "url": "https://www.eppan.com/it/eventi/feste-ad-appiano/appuntamenti-ad-appiano/kulturkontakt-eppan",
+   "dominio": "eppan.com",
+   "nome": "Associazione Turistica Appiano",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.eurochocolate.com/perugia2026",
    "dominio": "eurochocolate.com",
    "nome": "Eurochocolate (organizzatore)",
@@ -3307,6 +3659,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Visit Livorno | Eventi, Spettacoli, Luoghi di Cultura di Livorno"
+  },
+  {
+   "url": "https://www.eventidizona.it/cosa-fare/arese",
+   "dominio": "eventidizona.it",
+   "nome": "EventiDiZona",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://eventimolise.it/",
@@ -3559,6 +3927,22 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Facebook"
+  },
+  {
+   "url": "https://www.facebook.com/ProLocoAlifana/posts/-torna-il-mercatino-di-natale-ad-alife-19-e-20-dicembre-2026-centro-storico-di-a/1580681797438602",
+   "dominio": "facebook.com",
+   "nome": "Pro Loco Alifana APS (Facebook)",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "CE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.facebook.com/SagraCastagnaDiMontella",
@@ -4145,6 +4529,22 @@
    "titolo": "Nel Ridotto del Teatro Impavidi tornano le \"Domeniche in Musica\""
   },
   {
+   "url": "https://www.gazzettamatin.com/2026/11/03/saison-culturelle-dal-4-novembre-biglietti-per-gli-spettacoli-di-dicembre",
+   "dominio": "gazzettamatin.com",
+   "nome": "Gazzetta Matin",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Valle d'Aosta"
+   ],
+   "province": [
+    "AO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://giuseppe210992.github.io/livelocal",
    "dominio": "giuseppe210992.github.io",
    "nome": "",
@@ -4642,6 +5042,38 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.inarzignano.it/2026/10/una-serata-di-ordinaria-ironia-enrico-bertolino-in-teatro-mattarello-giovedi-5-novembre",
+   "dominio": "inarzignano.it",
+   "nome": "InArzignano (portale del Comune)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.inarzignano.it/2026/11/mondovisioni2026",
+   "dominio": "inarzignano.it",
+   "nome": "InArzignano (portale del Comune)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -6689,6 +7121,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.mercatininatalearco.com/it",
+   "dominio": "mercatininatalearco.com",
+   "nome": "Mercatino di Natale di Arco",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "TN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://mercatininatalearezzo.it/villaggio-tirolese",
    "dominio": "mercatininatalearezzo.it",
    "nome": "Mercatini di Natale Arezzo - Villaggio Tirolese",
@@ -6818,6 +7266,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Eventi in Molise di oggi 3 novembre 2026 | Molisenews24"
+  },
+  {
+   "url": "https://www.mondoreale.it/2026/10/anzio-nasce-anzio-che-legge-cinque-incontri-con-gli-autori-tra-ottobre-e-dicembre",
+   "dominio": "mondoreale.it",
+   "nome": "Mondoreale",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.montecatinicittadelnatale.it/calendario-del-natale",
@@ -7176,6 +7640,22 @@
    "titolo": "Torna il mese del Fuoco di Agnone: svelate le date 2026 della ‘Ndocciata e della Festa dei Fuochi Rituali - La 'Ndocciata"
   },
   {
+   "url": "https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=ancona&page=5",
+   "dominio": "nonsoloeventimarche.it",
+   "nome": "Non solo eventi Marche",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=ascoli-piceno",
    "dominio": "nonsoloeventimarche.it",
    "nome": "Non solo eventi Marche",
@@ -7284,6 +7764,22 @@
    "titolo": ""
   },
   {
+   "url": "https://orienteday.com/programma-bergamo-alzano-lombardo-28-29-novembre-2026",
+   "dominio": "orienteday.com",
+   "nome": "Oriente Day - Programma Alzano Lombardo",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.oristanoinfo.it/eventi-oristano",
    "dominio": "oristanoinfo.it",
    "nome": "Oristano Turismo - eventi",
@@ -7311,6 +7807,22 @@
    ],
    "province": [
     "AT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://palazzoareseborromeo.it/evento",
+   "dominio": "palazzoareseborromeo.it",
+   "nome": "Palazzo Arese Borromeo",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -7563,6 +8075,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Tutte le mostre da vedere a Parma e provincia"
+  },
+  {
+   "url": "https://www.pcmpubblicita.com/lavori/autunno-darte-augusta-2026-programma-eventi",
+   "dominio": "pcmpubblicita.com",
+   "nome": "PCM Pubblicità - programma Autunno d'Arte (manifesto del Comune)",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 8,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "SR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.pianofestivalmediterraneo.com/edizione-2026",
@@ -8115,6 +8643,22 @@
    "titolo": "Spettacoli"
   },
   {
+   "url": "https://saisonculturellevda.it/spettacoli/danza/io-sono-virgilio",
+   "dominio": "saisonculturellevda.it",
+   "nome": "Saison Culturelle Valle d'Aosta",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Valle d'Aosta"
+   ],
+   "province": [
+    "AO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://saisonculturellevda.it/spettacoli/musica",
    "dominio": "saisonculturellevda.it",
    "nome": "Saison Culturelle - Musica",
@@ -8129,6 +8673,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Musica"
+  },
+  {
+   "url": "https://saisonculturellevda.it/spettacoli/musica/malika-ayane",
+   "dominio": "saisonculturellevda.it",
+   "nome": "Saison Culturelle Valle d'Aosta",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Valle d'Aosta"
+   ],
+   "province": [
+    "AO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://saisonculturellevda.it/spettacoli/teatro",
@@ -8544,6 +9104,22 @@
    "titolo": "Home - EventBooking"
   },
   {
+   "url": "https://spazioduende.it/eventi/elenco",
+   "dominio": "spazioduende.it",
+   "nome": "Spazio Duende - Eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.spettacolisardegna.it/events/castagne-e-vino-nuovo-lanusei-6-8-novembre",
    "dominio": "spettacolisardegna.it",
    "nome": "Spettacolisardegna",
@@ -8606,6 +9182,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Eventi in programma a Stresa"
+  },
+  {
+   "url": "https://www.suedtirol.info/it/it/esperienze-eventi/eventi-alto-adige/pdp-evento.C381A455A8694108B060F9D33E469DBD.sagra-di-san-martino.appiano-sulla-strada-del-vino",
+   "dominio": "suedtirol.info",
+   "nome": "suedtirol.info",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.suedtirol.info/it/it/stagioni/inverno/natale-mercatini/mercatini-originali-alto-adige",
@@ -10123,6 +10715,22 @@
     "AO"
    ],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.vallidiargenta.org/eventi",
+   "dominio": "vallidiargenta.org",
+   "nome": "Valli di Argenta - Ecomuseo",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FE"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
