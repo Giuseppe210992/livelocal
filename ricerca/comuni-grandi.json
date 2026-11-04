@@ -1,0 +1,7133 @@
+{
+"_nota": "Comuni con almeno 10.000 abitanti (dati ISTAT, dataset pubblico matteocontrini/comuni-json). Da trattare per primi nel censimento.",
+"comuni": [
+{
+"codice": "028001",
+"nome": "Abano Terme",
+"sigla": "PD",
+"popolazione": 19349
+},
+{
+"codice": "015002",
+"nome": "Abbiategrasso",
+"sigla": "MI",
+"popolazione": 30994
+},
+{
+"codice": "063001",
+"nome": "Acerra",
+"sigla": "NA",
+"popolazione": 56465
+},
+{
+"codice": "087002",
+"nome": "Aci Castello",
+"sigla": "CT",
+"popolazione": 18122
+},
+{
+"codice": "087003",
+"nome": "Aci Catena",
+"sigla": "CT",
+"popolazione": 28749
+},
+{
+"codice": "087005",
+"nome": "Aci Sant'Antonio",
+"sigla": "CT",
+"popolazione": 17270
+},
+{
+"codice": "087004",
+"nome": "Acireale",
+"sigla": "CT",
+"popolazione": 51456
+},
+{
+"codice": "072001",
+"nome": "Acquaviva delle Fonti",
+"sigla": "BA",
+"popolazione": 21038
+},
+{
+"codice": "006001",
+"nome": "Acqui Terme",
+"sigla": "AL",
+"popolazione": 20054
+},
+{
+"codice": "078003",
+"nome": "Acri",
+"sigla": "CS",
+"popolazione": 21458
+},
+{
+"codice": "072002",
+"nome": "Adelfia",
+"sigla": "BA",
+"popolazione": 17101
+},
+{
+"codice": "087006",
+"nome": "Adrano",
+"sigla": "CT",
+"popolazione": 35549
+},
+{
+"codice": "029001",
+"nome": "Adria",
+"sigla": "RO",
+"popolazione": 20233
+},
+{
+"codice": "063002",
+"nome": "Afragola",
+"sigla": "NA",
+"popolazione": 63820
+},
+{
+"codice": "047002",
+"nome": "Agliana",
+"sigla": "PT",
+"popolazione": 16792
+},
+{
+"codice": "108001",
+"nome": "Agrate Brianza",
+"sigla": "MB",
+"popolazione": 14770
+},
+{
+"codice": "084001",
+"nome": "Agrigento",
+"sigla": "AG",
+"popolazione": 58323
+},
+{
+"codice": "065002",
+"nome": "Agropoli",
+"sigla": "SA",
+"popolazione": 20610
+},
+{
+"codice": "009001",
+"nome": "Alassio",
+"sigla": "SV",
+"popolazione": 11026
+},
+{
+"codice": "060003",
+"nome": "Alatri",
+"sigla": "FR",
+"popolazione": 28609
+},
+{
+"codice": "004003",
+"nome": "Alba",
+"sigla": "CN",
+"popolazione": 30804
+},
+{
+"codice": "067001",
+"nome": "Alba Adriatica",
+"sigla": "TE",
+"popolazione": 11565
+},
+{
+"codice": "058003",
+"nome": "Albano Laziale",
+"sigla": "RM",
+"popolazione": 38433
+},
+{
+"codice": "009002",
+"nome": "Albenga",
+"sigla": "SV",
+"popolazione": 23576
+},
+{
+"codice": "072003",
+"nome": "Alberobello",
+"sigla": "BA",
+"popolazione": 10924
+},
+{
+"codice": "028003",
+"nome": "Albignasego",
+"sigla": "PD",
+"popolazione": 23464
+},
+{
+"codice": "016004",
+"nome": "Albino",
+"sigla": "BG",
+"popolazione": 18087
+},
+{
+"codice": "009004",
+"nome": "Albisola Superiore",
+"sigla": "SV",
+"popolazione": 10407
+},
+{
+"codice": "081001",
+"nome": "Alcamo",
+"sigla": "TP",
+"popolazione": 45314
+},
+{
+"codice": "006003",
+"nome": "Alessandria",
+"sigla": "AL",
+"popolazione": 89411
+},
+{
+"codice": "039001",
+"nome": "Alfonsine",
+"sigla": "RA",
+"popolazione": 12245
+},
+{
+"codice": "001008",
+"nome": "Alpignano",
+"sigla": "TO",
+"popolazione": 16893
+},
+{
+"codice": "072004",
+"nome": "Altamura",
+"sigla": "BA",
+"popolazione": 69529
+},
+{
+"codice": "024004",
+"nome": "Altavilla Vicentina",
+"sigla": "VI",
+"popolazione": 11760
+},
+{
+"codice": "082005",
+"nome": "Altofonte",
+"sigla": "PA",
+"popolazione": 10266
+},
+{
+"codice": "046001",
+"nome": "Altopascio",
+"sigla": "LU",
+"popolazione": 15072
+},
+{
+"codice": "016008",
+"nome": "Alzano Lombardo",
+"sigla": "BG",
+"popolazione": 13591
+},
+{
+"codice": "078010",
+"nome": "Amantea",
+"sigla": "CS",
+"popolazione": 13754
+},
+{
+"codice": "055004",
+"nome": "Amelia",
+"sigla": "TR",
+"popolazione": 11781
+},
+{
+"codice": "060006",
+"nome": "Anagni",
+"sigla": "FR",
+"popolazione": 21441
+},
+{
+"codice": "042002",
+"nome": "Ancona",
+"sigla": "AN",
+"popolazione": 100497
+},
+{
+"codice": "110001",
+"nome": "Andria",
+"sigla": "BT",
+"popolazione": 100052
+},
+{
+"codice": "065007",
+"nome": "Angri",
+"sigla": "SA",
+"popolazione": 32576
+},
+{
+"codice": "058005",
+"nome": "Anguillara Sabazia",
+"sigla": "RM",
+"popolazione": 18575
+},
+{
+"codice": "058007",
+"nome": "Anzio",
+"sigla": "RM",
+"popolazione": 49731
+},
+{
+"codice": "037001",
+"nome": "Anzola dell'Emilia",
+"sigla": "BO",
+"popolazione": 11851
+},
+{
+"codice": "007003",
+"nome": "Aosta",
+"sigla": "AO",
+"popolazione": 34102
+},
+{
+"codice": "021004",
+"nome": "Appiano sulla strada del vino",
+"sigla": "BZ",
+"popolazione": 13988
+},
+{
+"codice": "071004",
+"nome": "Apricena",
+"sigla": "FG",
+"popolazione": 13435
+},
+{
+"codice": "059001",
+"nome": "Aprilia",
+"sigla": "LT",
+"popolazione": 66979
+},
+{
+"codice": "022006",
+"nome": "Arco",
+"sigla": "TN",
+"popolazione": 16871
+},
+{
+"codice": "011002",
+"nome": "Arcola",
+"sigla": "SP",
+"popolazione": 10316
+},
+{
+"codice": "108004",
+"nome": "Arcore",
+"sigla": "MB",
+"popolazione": 17285
+},
+{
+"codice": "058117",
+"nome": "Ardea",
+"sigla": "RM",
+"popolazione": 44202
+},
+{
+"codice": "010001",
+"nome": "Arenzano",
+"sigla": "GE",
+"popolazione": 11584
+},
+{
+"codice": "015009",
+"nome": "Arese",
+"sigla": "MI",
+"popolazione": 19138
+},
+{
+"codice": "051002",
+"nome": "Arezzo",
+"sigla": "AR",
+"popolazione": 98144
+},
+{
+"codice": "038001",
+"nome": "Argenta",
+"sigla": "FE",
+"popolazione": 22133
+},
+{
+"codice": "064005",
+"nome": "Ariano Irpino",
+"sigla": "AV",
+"popolazione": 22517
+},
+{
+"codice": "058009",
+"nome": "Ariccia",
+"sigla": "RM",
+"popolazione": 18311
+},
+{
+"codice": "015010",
+"nome": "Arluno",
+"sigla": "MI",
+"popolazione": 11495
+},
+{
+"codice": "003008",
+"nome": "Arona",
+"sigla": "NO",
+"popolazione": 14195
+},
+{
+"codice": "058011",
+"nome": "Artena",
+"sigla": "RM",
+"popolazione": 13665
+},
+{
+"codice": "063005",
+"nome": "Arzano",
+"sigla": "NA",
+"popolazione": 34933
+},
+{
+"codice": "024008",
+"nome": "Arzignano",
+"sigla": "VI",
+"popolazione": 25589
+},
+{
+"codice": "044007",
+"nome": "Ascoli Piceno",
+"sigla": "AP",
+"popolazione": 49958
+},
+{
+"codice": "020002",
+"nome": "Asola",
+"sigla": "MN",
+"popolazione": 10077
+},
+{
+"codice": "054001",
+"nome": "Assisi",
+"sigla": "PG",
+"popolazione": 27377
+},
+{
+"codice": "005005",
+"nome": "Asti",
+"sigla": "AT",
+"popolazione": 73899
+},
+{
+"codice": "069005",
+"nome": "Atessa",
+"sigla": "CH",
+"popolazione": 10761
+},
+{
+"codice": "067004",
+"nome": "Atri",
+"sigla": "TE",
+"popolazione": 11112
+},
+{
+"codice": "064006",
+"nome": "Atripalda",
+"sigla": "AV",
+"popolazione": 10926
+},
+{
+"codice": "089001",
+"nome": "Augusta",
+"sigla": "SR",
+"popolazione": 36169
+},
+{
+"codice": "045001",
+"nome": "Aulla",
+"sigla": "MS",
+"popolazione": 11284
+},
+{
+"codice": "064008",
+"nome": "Avellino",
+"sigla": "AV",
+"popolazione": 54222
+},
+{
+"codice": "061005",
+"nome": "Aversa",
+"sigla": "CE",
+"popolazione": 52830
+},
+{
+"codice": "066006",
+"nome": "Avezzano",
+"sigla": "AQ",
+"popolazione": 40744
+},
+{
+"codice": "001013",
+"nome": "Avigliana",
+"sigla": "TO",
+"popolazione": 12129
+},
+{
+"codice": "076007",
+"nome": "Avigliano",
+"sigla": "PZ",
+"popolazione": 11796
+},
+{
+"codice": "089002",
+"nome": "Avola",
+"sigla": "SR",
+"popolazione": 31328
+},
+{
+"codice": "093005",
+"nome": "Azzano Decimo",
+"sigla": "PN",
+"popolazione": 15554
+},
+{
+"codice": "063006",
+"nome": "Bacoli",
+"sigla": "NA",
+"popolazione": 26648
+},
+{
+"codice": "029004",
+"nome": "Badia Polesine",
+"sigla": "RO",
+"popolazione": 10536
+},
+{
+"codice": "082006",
+"nome": "Bagheria",
+"sigla": "PA",
+"popolazione": 54257
+},
+{
+"codice": "039002",
+"nome": "Bagnacavallo",
+"sigla": "RA",
+"popolazione": 16715
+},
+{
+"codice": "080007",
+"nome": "Bagnara Calabra",
+"sigla": "RC",
+"popolazione": 10622
+},
+{
+"codice": "048001",
+"nome": "Bagno a Ripoli",
+"sigla": "FI",
+"popolazione": 25403
+},
+{
+"codice": "017009",
+"nome": "Bagnolo Mella",
+"sigla": "BS",
+"popolazione": 12692
+},
+{
+"codice": "015250",
+"nome": "Baranzate",
+"sigla": "MI",
+"popolazione": 10779
+},
+{
+"codice": "048002",
+"nome": "Barberino di Mugello",
+"sigla": "FI",
+"popolazione": 10461
+},
+{
+"codice": "048054",
+"nome": "Barberino Tavarnelle",
+"sigla": "FI",
+"popolazione": 12026
+},
+{
+"codice": "083005",
+"nome": "Barcellona Pozzo di Gotto",
+"sigla": "ME",
+"popolazione": 41632
+},
+{
+"codice": "015012",
+"nome": "Bareggio",
+"sigla": "MI",
+"popolazione": 17035
+},
+{
+"codice": "046003",
+"nome": "Barga",
+"sigla": "LU",
+"popolazione": 10125
+},
+{
+"codice": "072006",
+"nome": "Bari",
+"sigla": "BA",
+"popolazione": 315933
+},
+{
+"codice": "110002",
+"nome": "Barletta",
+"sigla": "BT",
+"popolazione": 94239
+},
+{
+"codice": "065013",
+"nome": "Baronissi",
+"sigla": "SA",
+"popolazione": 16790
+},
+{
+"codice": "086004",
+"nome": "Barrafranca",
+"sigla": "EN",
+"popolazione": 13977
+},
+{
+"codice": "024012",
+"nome": "Bassano del Grappa",
+"sigla": "VI",
+"popolazione": 42984
+},
+{
+"codice": "054002",
+"nome": "Bastia Umbra",
+"sigla": "PG",
+"popolazione": 21653
+},
+{
+"codice": "065014",
+"nome": "Battipaglia",
+"sigla": "SA",
+"popolazione": 50464
+},
+{
+"codice": "017014",
+"nome": "Bedizzole",
+"sigla": "BS",
+"popolazione": 11816
+},
+{
+"codice": "001024",
+"nome": "Beinasco",
+"sigla": "TO",
+"popolazione": 18104
+},
+{
+"codice": "099001",
+"nome": "Bellaria-Igea Marina",
+"sigla": "RN",
+"popolazione": 18591
+},
+{
+"codice": "065158",
+"nome": "Bellizzi",
+"sigla": "SA",
+"popolazione": 12971
+},
+{
+"codice": "025006",
+"nome": "Belluno",
+"sigla": "BL",
+"popolazione": 35591
+},
+{
+"codice": "082009",
+"nome": "Belmonte Mezzagno",
+"sigla": "PA",
+"popolazione": 11149
+},
+{
+"codice": "087007",
+"nome": "Belpasso",
+"sigla": "CT",
+"popolazione": 26378
+},
+{
+"codice": "062008",
+"nome": "Benevento",
+"sigla": "BN",
+"popolazione": 61489
+},
+{
+"codice": "016024",
+"nome": "Bergamo",
+"sigla": "BG",
+"popolazione": 115349
+},
+{
+"codice": "077003",
+"nome": "Bernalda",
+"sigla": "MT",
+"popolazione": 12264
+},
+{
+"codice": "108007",
+"nome": "Bernareggio",
+"sigla": "MB",
+"popolazione": 10555
+},
+{
+"codice": "040003",
+"nome": "Bertinoro",
+"sigla": "FC",
+"popolazione": 10798
+},
+{
+"codice": "108008",
+"nome": "Besana in Brianza",
+"sigla": "MB",
+"popolazione": 15510
+},
+{
+"codice": "087008",
+"nome": "Biancavilla",
+"sigla": "CT",
+"popolazione": 23703
+},
+{
+"codice": "108009",
+"nome": "Biassono",
+"sigla": "MB",
+"popolazione": 11697
+},
+{
+"codice": "051004",
+"nome": "Bibbiena",
+"sigla": "AR",
+"popolazione": 12284
+},
+{
+"codice": "096004",
+"nome": "Biella",
+"sigla": "BI",
+"popolazione": 43818
+},
+{
+"codice": "110003",
+"nome": "Bisceglie",
+"sigla": "BT",
+"popolazione": 54678
+},
+{
+"codice": "078017",
+"nome": "Bisignano",
+"sigla": "CS",
+"popolazione": 10335
+},
+{
+"codice": "072010",
+"nome": "Bitetto",
+"sigla": "BA",
+"popolazione": 11799
+},
+{
+"codice": "072011",
+"nome": "Bitonto",
+"sigla": "BA",
+"popolazione": 56258
+},
+{
+"codice": "072012",
+"nome": "Bitritto",
+"sigla": "BA",
+"popolazione": 10878
+},
+{
+"codice": "015027",
+"nome": "Bollate",
+"sigla": "MI",
+"popolazione": 35557
+},
+{
+"codice": "037006",
+"nome": "Bologna",
+"sigla": "BO",
+"popolazione": 371337
+},
+{
+"codice": "021008",
+"nome": "Bolzano",
+"sigla": "BZ",
+"popolazione": 102575
+},
+{
+"codice": "038003",
+"nome": "Bondeno",
+"sigla": "FE",
+"popolazione": 15116
+},
+{
+"codice": "008008",
+"nome": "Bordighera",
+"sigla": "IM",
+"popolazione": 10416
+},
+{
+"codice": "001028",
+"nome": "Borgaro Torinese",
+"sigla": "TO",
+"popolazione": 11723
+},
+{
+"codice": "004025",
+"nome": "Borgo San Dalmazzo",
+"sigla": "CN",
+"popolazione": 12372
+},
+{
+"codice": "048004",
+"nome": "Borgo San Lorenzo",
+"sigla": "FI",
+"popolazione": 17854
+},
+{
+"codice": "025074",
+"nome": "Borgo Valbelluna",
+"sigla": "BL",
+"popolazione": 13993
+},
+{
+"codice": "020071",
+"nome": "Borgo Virgilio",
+"sigla": "MN",
+"popolazione": 14400
+},
+{
+"codice": "003024",
+"nome": "Borgomanero",
+"sigla": "NO",
+"popolazione": 21166
+},
+{
+"codice": "002016",
+"nome": "Borgosesia",
+"sigla": "VC",
+"popolazione": 13031
+},
+{
+"codice": "063008",
+"nome": "Boscoreale",
+"sigla": "NA",
+"popolazione": 27457
+},
+{
+"codice": "063009",
+"nome": "Boscotrecase",
+"sigla": "NA",
+"popolazione": 10416
+},
+{
+"codice": "017023",
+"nome": "Botticino",
+"sigla": "BS",
+"popolazione": 10788
+},
+{
+"codice": "108010",
+"nome": "Bovisio-Masciago",
+"sigla": "MB",
+"popolazione": 16596
+},
+{
+"codice": "023012",
+"nome": "Bovolone",
+"sigla": "VR",
+"popolazione": 15846
+},
+{
+"codice": "004029",
+"nome": "Bra",
+"sigla": "CN",
+"popolazione": 28935
+},
+{
+"codice": "058013",
+"nome": "Bracciano",
+"sigla": "RM",
+"popolazione": 18549
+},
+{
+"codice": "017029",
+"nome": "Brescia",
+"sigla": "BS",
+"popolazione": 189902
+},
+{
+"codice": "021011",
+"nome": "Bressanone",
+"sigla": "BZ",
+"popolazione": 20677
+},
+{
+"codice": "015032",
+"nome": "Bresso",
+"sigla": "MI",
+"popolazione": 25712
+},
+{
+"codice": "074001",
+"nome": "Brindisi",
+"sigla": "BR",
+"popolazione": 88812
+},
+{
+"codice": "087009",
+"nome": "Bronte",
+"sigla": "CT",
+"popolazione": 19234
+},
+{
+"codice": "108012",
+"nome": "Brugherio",
+"sigla": "MB",
+"popolazione": 33170
+},
+{
+"codice": "021013",
+"nome": "Brunico",
+"sigla": "BZ",
+"popolazione": 15397
+},
+{
+"codice": "063010",
+"nome": "Brusciano",
+"sigla": "NA",
+"popolazione": 16010
+},
+{
+"codice": "015036",
+"nome": "Buccinasco",
+"sigla": "MI",
+"popolazione": 26503
+},
+{
+"codice": "051005",
+"nome": "Bucine",
+"sigla": "AR",
+"popolazione": 10033
+},
+{
+"codice": "037008",
+"nome": "Budrio",
+"sigla": "BO",
+"popolazione": 18008
+},
+{
+"codice": "004034",
+"nome": "Busca",
+"sigla": "CN",
+"popolazione": 10113
+},
+{
+"codice": "023015",
+"nome": "Bussolengo",
+"sigla": "VR",
+"popolazione": 19483
+},
+{
+"codice": "012026",
+"nome": "Busto Arsizio",
+"sigla": "VA",
+"popolazione": 79692
+},
+{
+"codice": "015041",
+"nome": "Busto Garolfo",
+"sigla": "MI",
+"popolazione": 13479
+},
+{
+"codice": "035008",
+"nome": "Cadelbosco di Sopra",
+"sigla": "RE",
+"popolazione": 10409
+},
+{
+"codice": "028016",
+"nome": "Cadoneghe",
+"sigla": "PD",
+"popolazione": 15964
+},
+{
+"codice": "009015",
+"nome": "Cairo Montenotte",
+"sigla": "SV",
+"popolazione": 13237
+},
+{
+"codice": "063011",
+"nome": "Caivano",
+"sigla": "NA",
+"popolazione": 37654
+},
+{
+"codice": "050004",
+"nome": "Calcinaia",
+"sigla": "PI",
+"popolazione": 11684
+},
+{
+"codice": "017032",
+"nome": "Calcinato",
+"sigla": "BS",
+"popolazione": 12599
+},
+{
+"codice": "037009",
+"nome": "Calderara di Reno",
+"sigla": "BO",
+"popolazione": 13148
+},
+{
+"codice": "024018",
+"nome": "Caldogno",
+"sigla": "VI",
+"popolazione": 11221
+},
+{
+"codice": "048005",
+"nome": "Calenzano",
+"sigla": "FI",
+"popolazione": 16637
+},
+{
+"codice": "097013",
+"nome": "Calolziocorte",
+"sigla": "LC",
+"popolazione": 14009
+},
+{
+"codice": "087011",
+"nome": "Caltagirone",
+"sigla": "CT",
+"popolazione": 38123
+},
+{
+"codice": "085004",
+"nome": "Caltanissetta",
+"sigla": "CL",
+"popolazione": 61711
+},
+{
+"codice": "063012",
+"nome": "Calvizzano",
+"sigla": "NA",
+"popolazione": 12537
+},
+{
+"codice": "046005",
+"nome": "Camaiore",
+"sigla": "LU",
+"popolazione": 32083
+},
+{
+"codice": "003032",
+"nome": "Cameri",
+"sigla": "NO",
+"popolazione": 10770
+},
+{
+"codice": "024021",
+"nome": "Camisano Vicentino",
+"sigla": "VI",
+"popolazione": 10624
+},
+{
+"codice": "065022",
+"nome": "Campagna",
+"sigla": "SA",
+"popolazione": 15953
+},
+{
+"codice": "058015",
+"nome": "Campagnano di Roma",
+"sigla": "RM",
+"popolazione": 11107
+},
+{
+"codice": "048006",
+"nome": "Campi Bisenzio",
+"sigla": "FI",
+"popolazione": 42929
+},
+{
+"codice": "075011",
+"nome": "Campi Salentina",
+"sigla": "LE",
+"popolazione": 10760
+},
+{
+"codice": "049002",
+"nome": "Campiglia Marittima",
+"sigla": "LI",
+"popolazione": 13220
+},
+{
+"codice": "070006",
+"nome": "Campobasso",
+"sigla": "CB",
+"popolazione": 48747
+},
+{
+"codice": "084010",
+"nome": "Campobello di Licata",
+"sigla": "AG",
+"popolazione": 10438
+},
+{
+"codice": "081004",
+"nome": "Campobello di Mazara",
+"sigla": "TP",
+"popolazione": 11580
+},
+{
+"codice": "028017",
+"nome": "Campodarsego",
+"sigla": "PD",
+"popolazione": 14169
+},
+{
+"codice": "027003",
+"nome": "Campolongo Maggiore",
+"sigla": "VE",
+"popolazione": 10342
+},
+{
+"codice": "027004",
+"nome": "Camponogara",
+"sigla": "VE",
+"popolazione": 12920
+},
+{
+"codice": "028019",
+"nome": "Camposampiero",
+"sigla": "PD",
+"popolazione": 12019
+},
+{
+"codice": "015046",
+"nome": "Canegrate",
+"sigla": "MI",
+"popolazione": 12438
+},
+{
+"codice": "005017",
+"nome": "Canelli",
+"sigla": "AT",
+"popolazione": 10569
+},
+{
+"codice": "084011",
+"nome": "Canicattì",
+"sigla": "AG",
+"popolazione": 34863
+},
+{
+"codice": "110004",
+"nome": "Canosa di Puglia",
+"sigla": "BT",
+"popolazione": 30422
+},
+{
+"codice": "013041",
+"nome": "Cantù",
+"sigla": "CO",
+"popolazione": 38717
+},
+{
+"codice": "027005",
+"nome": "Caorle",
+"sigla": "VE",
+"popolazione": 11793
+},
+{
+"codice": "065025",
+"nome": "Capaccio Paestum",
+"sigla": "SA",
+"popolazione": 22016
+},
+{
+"codice": "082020",
+"nome": "Capaci",
+"sigla": "PA",
+"popolazione": 11030
+},
+{
+"codice": "046007",
+"nome": "Capannori",
+"sigla": "LU",
+"popolazione": 44898
+},
+{
+"codice": "083009",
+"nome": "Capo d'Orlando",
+"sigla": "ME",
+"popolazione": 13260
+},
+{
+"codice": "061015",
+"nome": "Capua",
+"sigla": "CE",
+"popolazione": 19036
+},
+{
+"codice": "072014",
+"nome": "Capurso",
+"sigla": "BA",
+"popolazione": 15396
+},
+{
+"codice": "108015",
+"nome": "Carate Brianza",
+"sigla": "MB",
+"popolazione": 17684
+},
+{
+"codice": "016053",
+"nome": "Caravaggio",
+"sigla": "BG",
+"popolazione": 15882
+},
+{
+"codice": "026008",
+"nome": "Carbonera",
+"sigla": "TV",
+"popolazione": 11135
+},
+{
+"codice": "012032",
+"nome": "Cardano al Campo",
+"sigla": "VA",
+"popolazione": 14136
+},
+{
+"codice": "063016",
+"nome": "Cardito",
+"sigla": "NA",
+"popolazione": 22322
+},
+{
+"codice": "082021",
+"nome": "Carini",
+"sigla": "PA",
+"popolazione": 35681
+},
+{
+"codice": "089006",
+"nome": "Carlentini",
+"sigla": "SR",
+"popolazione": 17958
+},
+{
+"codice": "001059",
+"nome": "Carmagnola",
+"sigla": "TO",
+"popolazione": 28563
+},
+{
+"codice": "075014",
+"nome": "Carmiano",
+"sigla": "LE",
+"popolazione": 12096
+},
+{
+"codice": "100002",
+"nome": "Carmignano",
+"sigla": "PO",
+"popolazione": 13991
+},
+{
+"codice": "012034",
+"nome": "Caronno Pertusella",
+"sigla": "VA",
+"popolazione": 16397
+},
+{
+"codice": "074002",
+"nome": "Carovigno",
+"sigla": "BR",
+"popolazione": 15896
+},
+{
+"codice": "017039",
+"nome": "Carpenedolo",
+"sigla": "BS",
+"popolazione": 12649
+},
+{
+"codice": "036005",
+"nome": "Carpi",
+"sigla": "MO",
+"popolazione": 67268
+},
+{
+"codice": "045003",
+"nome": "Carrara",
+"sigla": "MS",
+"popolazione": 64689
+},
+{
+"codice": "015051",
+"nome": "Carugate",
+"sigla": "MI",
+"popolazione": 14175
+},
+{
+"codice": "061018",
+"nome": "Casagiove",
+"sigla": "CE",
+"popolazione": 13705
+},
+{
+"codice": "061019",
+"nome": "Casal di Principe",
+"sigla": "CE",
+"popolazione": 20828
+},
+{
+"codice": "006039",
+"nome": "Casale Monferrato",
+"sigla": "AL",
+"popolazione": 34812
+},
+{
+"codice": "026009",
+"nome": "Casale sul Sile",
+"sigla": "TV",
+"popolazione": 12722
+},
+{
+"codice": "037011",
+"nome": "Casalecchio di Reno",
+"sigla": "BO",
+"popolazione": 35173
+},
+{
+"codice": "035012",
+"nome": "Casalgrande",
+"sigla": "RE",
+"popolazione": 18635
+},
+{
+"codice": "078156",
+"nome": "Casali del Manco",
+"sigla": "CS",
+"popolazione": 10381
+},
+{
+"codice": "019021",
+"nome": "Casalmaggiore",
+"sigla": "CR",
+"popolazione": 15111
+},
+{
+"codice": "063017",
+"nome": "Casalnuovo di Napoli",
+"sigla": "NA",
+"popolazione": 48621
+},
+{
+"codice": "098010",
+"nome": "Casalpusterlengo",
+"sigla": "LO",
+"popolazione": 14852
+},
+{
+"codice": "061020",
+"nome": "Casaluce",
+"sigla": "CE",
+"popolazione": 10001
+},
+{
+"codice": "072015",
+"nome": "Casamassima",
+"sigla": "BA",
+"popolazione": 19246
+},
+{
+"codice": "063020",
+"nome": "Casandrino",
+"sigla": "NA",
+"popolazione": 13295
+},
+{
+"codice": "075016",
+"nome": "Casarano",
+"sigla": "LE",
+"popolazione": 20489
+},
+{
+"codice": "097016",
+"nome": "Casatenovo",
+"sigla": "LC",
+"popolazione": 12664
+},
+{
+"codice": "063021",
+"nome": "Casavatore",
+"sigla": "NA",
+"popolazione": 18663
+},
+{
+"codice": "050040",
+"nome": "Casciana Terme Lari",
+"sigla": "PI",
+"popolazione": 12366
+},
+{
+"codice": "050008",
+"nome": "Cascina",
+"sigla": "PI",
+"popolazione": 43833
+},
+{
+"codice": "001063",
+"nome": "Caselle Torinese",
+"sigla": "TO",
+"popolazione": 13389
+},
+{
+"codice": "061022",
+"nome": "Caserta",
+"sigla": "CE",
+"popolazione": 75640
+},
+{
+"codice": "026010",
+"nome": "Casier",
+"sigla": "TV",
+"popolazione": 11018
+},
+{
+"codice": "063023",
+"nome": "Casoria",
+"sigla": "NA",
+"popolazione": 78647
+},
+{
+"codice": "078029",
+"nome": "Cassano all'Ionio",
+"sigla": "CS",
+"popolazione": 17281
+},
+{
+"codice": "015059",
+"nome": "Cassano d'Adda",
+"sigla": "MI",
+"popolazione": 18552
+},
+{
+"codice": "072016",
+"nome": "Cassano delle Murge",
+"sigla": "BA",
+"popolazione": 14270
+},
+{
+"codice": "012040",
+"nome": "Cassano Magnago",
+"sigla": "VA",
+"popolazione": 21386
+},
+{
+"codice": "015060",
+"nome": "Cassina de' Pecchi",
+"sigla": "MI",
+"popolazione": 13206
+},
+{
+"codice": "060019",
+"nome": "Cassino",
+"sigla": "FR",
+"popolazione": 33658
+},
+{
+"codice": "024026",
+"nome": "Cassola",
+"sigla": "VI",
+"popolazione": 14128
+},
+{
+"codice": "015062",
+"nome": "Castano Primo",
+"sigla": "MI",
+"popolazione": 10990
+},
+{
+"codice": "023021",
+"nome": "Castel d'Azzano",
+"sigla": "VR",
+"popolazione": 11739
+},
+{
+"codice": "020015",
+"nome": "Castel Goffredo",
+"sigla": "MN",
+"popolazione": 12065
+},
+{
+"codice": "037019",
+"nome": "Castel Maggiore",
+"sigla": "BO",
+"popolazione": 17507
+},
+{
+"codice": "017042",
+"nome": "Castel Mella",
+"sigla": "BS",
+"popolazione": 10840
+},
+{
+"codice": "065034",
+"nome": "Castel San Giorgio",
+"sigla": "SA",
+"popolazione": 13411
+},
+{
+"codice": "033013",
+"nome": "Castel San Giovanni",
+"sigla": "PC",
+"popolazione": 13629
+},
+{
+"codice": "037020",
+"nome": "Castel San Pietro Terme",
+"sigla": "BO",
+"popolazione": 20468
+},
+{
+"codice": "061027",
+"nome": "Castel Volturno",
+"sigla": "CE",
+"popolazione": 22882
+},
+{
+"codice": "082023",
+"nome": "Casteldaccia",
+"sigla": "PA",
+"popolazione": 10884
+},
+{
+"codice": "042010",
+"nome": "Castelfidardo",
+"sigla": "AN",
+"popolazione": 18645
+},
+{
+"codice": "048010",
+"nome": "Castelfiorentino",
+"sigla": "FI",
+"popolazione": 17489
+},
+{
+"codice": "050009",
+"nome": "Castelfranco di Sotto",
+"sigla": "PI",
+"popolazione": 12904
+},
+{
+"codice": "036006",
+"nome": "Castelfranco Emilia",
+"sigla": "MO",
+"popolazione": 31656
+},
+{
+"codice": "026012",
+"nome": "Castelfranco Veneto",
+"sigla": "TV",
+"popolazione": 32894
+},
+{
+"codice": "081005",
+"nome": "Castellammare del Golfo",
+"sigla": "TP",
+"popolazione": 14603
+},
+{
+"codice": "063024",
+"nome": "Castellammare di Stabia",
+"sigla": "NA",
+"popolazione": 65944
+},
+{
+"codice": "072017",
+"nome": "Castellana Grotte",
+"sigla": "BA",
+"popolazione": 19340
+},
+{
+"codice": "073003",
+"nome": "Castellaneta",
+"sigla": "TA",
+"popolazione": 17125
+},
+{
+"codice": "012042",
+"nome": "Castellanza",
+"sigla": "VA",
+"popolazione": 14244
+},
+{
+"codice": "035014",
+"nome": "Castellarano",
+"sigla": "RE",
+"popolazione": 14838
+},
+{
+"codice": "003043",
+"nome": "Castelletto sopra Ticino",
+"sigla": "NO",
+"popolazione": 10005
+},
+{
+"codice": "035016",
+"nome": "Castelnovo ne' Monti",
+"sigla": "RE",
+"popolazione": 10481
+},
+{
+"codice": "023022",
+"nome": "Castelnuovo del Garda",
+"sigla": "VR",
+"popolazione": 12199
+},
+{
+"codice": "036007",
+"nome": "Castelnuovo Rangone",
+"sigla": "MO",
+"popolazione": 14116
+},
+{
+"codice": "081006",
+"nome": "Castelvetrano",
+"sigla": "TP",
+"popolazione": 31824
+},
+{
+"codice": "036008",
+"nome": "Castelvetro di Modena",
+"sigla": "MO",
+"popolazione": 11012
+},
+{
+"codice": "037021",
+"nome": "Castenaso",
+"sigla": "BO",
+"popolazione": 14352
+},
+{
+"codice": "017043",
+"nome": "Castenedolo",
+"sigla": "BS",
+"popolazione": 11160
+},
+{
+"codice": "051012",
+"nome": "Castiglion Fiorentino",
+"sigla": "AR",
+"popolazione": 13166
+},
+{
+"codice": "054009",
+"nome": "Castiglione del Lago",
+"sigla": "PG",
+"popolazione": 15422
+},
+{
+"codice": "020017",
+"nome": "Castiglione delle Stiviere",
+"sigla": "MN",
+"popolazione": 22052
+},
+{
+"codice": "078033",
+"nome": "Castrovillari",
+"sigla": "CS",
+"popolazione": 22515
+},
+{
+"codice": "087015",
+"nome": "Catania",
+"sigla": "CT",
+"popolazione": 293902
+},
+{
+"codice": "079023",
+"nome": "Catanzaro",
+"sigla": "CZ",
+"popolazione": 89364
+},
+{
+"codice": "099002",
+"nome": "Cattolica",
+"sigla": "RN",
+"popolazione": 16550
+},
+{
+"codice": "065037",
+"nome": "Cava de' Tirreni",
+"sigla": "SA",
+"popolazione": 53885
+},
+{
+"codice": "075020",
+"nome": "Cavallino",
+"sigla": "LE",
+"popolazione": 11913
+},
+{
+"codice": "027044",
+"nome": "Cavallino-Treporti",
+"sigla": "VE",
+"popolazione": 13162
+},
+{
+"codice": "027006",
+"nome": "Cavarzere",
+"sigla": "VE",
+"popolazione": 14816
+},
+{
+"codice": "058026",
+"nome": "Cave",
+"sigla": "RM",
+"popolazione": 10421
+},
+{
+"codice": "017046",
+"nome": "Cazzago San Martino",
+"sigla": "BS",
+"popolazione": 10959
+},
+{
+"codice": "060024",
+"nome": "Ceccano",
+"sigla": "FR",
+"popolazione": 23098
+},
+{
+"codice": "049007",
+"nome": "Cecina",
+"sigla": "LI",
+"popolazione": 27992
+},
+{
+"codice": "082027",
+"nome": "Cefalù",
+"sigla": "PA",
+"popolazione": 14354
+},
+{
+"codice": "074003",
+"nome": "Ceglie Messapica",
+"sigla": "BR",
+"popolazione": 20209
+},
+{
+"codice": "066032",
+"nome": "Celano",
+"sigla": "AQ",
+"popolazione": 10828
+},
+{
+"codice": "038004",
+"nome": "Cento",
+"sigla": "FE",
+"popolazione": 34723
+},
+{
+"codice": "068011",
+"nome": "Cepagatti",
+"sigla": "PE",
+"popolazione": 10449
+},
+{
+"codice": "063026",
+"nome": "Cercola",
+"sigla": "NA",
+"popolazione": 18128
+},
+{
+"codice": "023025",
+"nome": "Cerea",
+"sigla": "VR",
+"popolazione": 16251
+},
+{
+"codice": "071020",
+"nome": "Cerignola",
+"sigla": "FG",
+"popolazione": 56653
+},
+{
+"codice": "015070",
+"nome": "Cernusco sul Naviglio",
+"sigla": "MI",
+"popolazione": 30697
+},
+{
+"codice": "048011",
+"nome": "Cerreto Guidi",
+"sigla": "FI",
+"popolazione": 10364
+},
+{
+"codice": "015072",
+"nome": "Cerro Maggiore",
+"sigla": "MI",
+"popolazione": 14735
+},
+{
+"codice": "048012",
+"nome": "Certaldo",
+"sigla": "FI",
+"popolazione": 15935
+},
+{
+"codice": "058029",
+"nome": "Cerveteri",
+"sigla": "RM",
+"popolazione": 35207
+},
+{
+"codice": "039007",
+"nome": "Cervia",
+"sigla": "RA",
+"popolazione": 28896
+},
+{
+"codice": "030023",
+"nome": "Cervignano del Friuli",
+"sigla": "UD",
+"popolazione": 13409
+},
+{
+"codice": "015074",
+"nome": "Cesano Boscone",
+"sigla": "MI",
+"popolazione": 23398
+},
+{
+"codice": "108019",
+"nome": "Cesano Maderno",
+"sigla": "MB",
+"popolazione": 37010
+},
+{
+"codice": "015076",
+"nome": "Cesate",
+"sigla": "MI",
+"popolazione": 13858
+},
+{
+"codice": "040007",
+"nome": "Cesena",
+"sigla": "FC",
+"popolazione": 95990
+},
+{
+"codice": "040008",
+"nome": "Cesenatico",
+"sigla": "FC",
+"popolazione": 25412
+},
+{
+"codice": "078040",
+"nome": "Cetraro",
+"sigla": "CS",
+"popolazione": 10260
+},
+{
+"codice": "024029",
+"nome": "Chiampo",
+"sigla": "VI",
+"popolazione": 12859
+},
+{
+"codice": "042014",
+"nome": "Chiaravalle",
+"sigla": "AN",
+"popolazione": 14858
+},
+{
+"codice": "017052",
+"nome": "Chiari",
+"sigla": "BS",
+"popolazione": 18391
+},
+{
+"codice": "010015",
+"nome": "Chiavari",
+"sigla": "GE",
+"popolazione": 27338
+},
+{
+"codice": "001078",
+"nome": "Chieri",
+"sigla": "TO",
+"popolazione": 35962
+},
+{
+"codice": "069022",
+"nome": "Chieti",
+"sigla": "CH",
+"popolazione": 51484
+},
+{
+"codice": "027008",
+"nome": "Chioggia",
+"sigla": "VE",
+"popolazione": 49735
+},
+{
+"codice": "001082",
+"nome": "Chivasso",
+"sigla": "TO",
+"popolazione": 25914
+},
+{
+"codice": "058118",
+"nome": "Ciampino",
+"sigla": "RM",
+"popolazione": 37235
+},
+{
+"codice": "063027",
+"nome": "Cicciano",
+"sigla": "NA",
+"popolazione": 12698
+},
+{
+"codice": "043012",
+"nome": "Cingoli",
+"sigla": "MC",
+"popolazione": 10509
+},
+{
+"codice": "015077",
+"nome": "Cinisello Balsamo",
+"sigla": "MI",
+"popolazione": 71128
+},
+{
+"codice": "082031",
+"nome": "Cinisi",
+"sigla": "PA",
+"popolazione": 12031
+},
+{
+"codice": "001086",
+"nome": "Ciriè",
+"sigla": "TO",
+"popolazione": 18415
+},
+{
+"codice": "101008",
+"nome": "Cirò Marina",
+"sigla": "KR",
+"popolazione": 15051
+},
+{
+"codice": "059005",
+"nome": "Cisterna di Latina",
+"sigla": "LT",
+"popolazione": 35551
+},
+{
+"codice": "074005",
+"nome": "Cisternino",
+"sigla": "BR",
+"popolazione": 11745
+},
+{
+"codice": "054013",
+"nome": "Città di Castello",
+"sigla": "PG",
+"popolazione": 40064
+},
+{
+"codice": "068012",
+"nome": "Città Sant'Angelo",
+"sigla": "PE",
+"popolazione": 14379
+},
+{
+"codice": "028032",
+"nome": "Cittadella",
+"sigla": "PD",
+"popolazione": 19956
+},
+{
+"codice": "080028",
+"nome": "Cittanova",
+"sigla": "RC",
+"popolazione": 10344
+},
+{
+"codice": "030026",
+"nome": "Cividale del Friuli",
+"sigla": "UD",
+"popolazione": 11378
+},
+{
+"codice": "056021",
+"nome": "Civita Castellana",
+"sigla": "VT",
+"popolazione": 15596
+},
+{
+"codice": "043013",
+"nome": "Civitanova Marche",
+"sigla": "MC",
+"popolazione": 40217
+},
+{
+"codice": "058032",
+"nome": "Civitavecchia",
+"sigla": "RM",
+"popolazione": 51229
+},
+{
+"codice": "038005",
+"nome": "Codigoro",
+"sigla": "FE",
+"popolazione": 12389
+},
+{
+"codice": "098019",
+"nome": "Codogno",
+"sigla": "LO",
+"popolazione": 15371
+},
+{
+"codice": "030027",
+"nome": "Codroipo",
+"sigla": "UD",
+"popolazione": 15806
+},
+{
+"codice": "052012",
+"nome": "Colle di Val d'Elsa",
+"sigla": "SI",
+"popolazione": 21256
+},
+{
+"codice": "034009",
+"nome": "Collecchio",
+"sigla": "PR",
+"popolazione": 13893
+},
+{
+"codice": "058034",
+"nome": "Colleferro",
+"sigla": "RM",
+"popolazione": 21574
+},
+{
+"codice": "001090",
+"nome": "Collegno",
+"sigla": "TO",
+"popolazione": 49083
+},
+{
+"codice": "049008",
+"nome": "Collesalvetti",
+"sigla": "LI",
+"popolazione": 16707
+},
+{
+"codice": "041069",
+"nome": "Colli al Metauro",
+"sigla": "PU",
+"popolazione": 12166
+},
+{
+"codice": "016079",
+"nome": "Cologno al Serio",
+"sigla": "BG",
+"popolazione": 10596
+},
+{
+"codice": "015081",
+"nome": "Cologno Monzese",
+"sigla": "MI",
+"popolazione": 45786
+},
+{
+"codice": "038006",
+"nome": "Comacchio",
+"sigla": "FE",
+"popolazione": 22648
+},
+{
+"codice": "088003",
+"nome": "Comiso",
+"sigla": "RG",
+"popolazione": 29184
+},
+{
+"codice": "013075",
+"nome": "Como",
+"sigla": "CO",
+"popolazione": 82045
+},
+{
+"codice": "017061",
+"nome": "Concesio",
+"sigla": "BS",
+"popolazione": 14813
+},
+{
+"codice": "027011",
+"nome": "Concordia Sagittaria",
+"sigla": "VE",
+"popolazione": 10640
+},
+{
+"codice": "108021",
+"nome": "Concorezzo",
+"sigla": "MB",
+"popolazione": 15193
+},
+{
+"codice": "026021",
+"nome": "Conegliano",
+"sigla": "TV",
+"popolazione": 34428
+},
+{
+"codice": "028034",
+"nome": "Conselve",
+"sigla": "PD",
+"popolazione": 10293
+},
+{
+"codice": "072019",
+"nome": "Conversano",
+"sigla": "BA",
+"popolazione": 25683
+},
+{
+"codice": "075022",
+"nome": "Copertino",
+"sigla": "LE",
+"popolazione": 23870
+},
+{
+"codice": "038007",
+"nome": "Copparo",
+"sigla": "FE",
+"popolazione": 17017
+},
+{
+"codice": "072020",
+"nome": "Corato",
+"sigla": "BA",
+"popolazione": 48072
+},
+{
+"codice": "015085",
+"nome": "Corbetta",
+"sigla": "MI",
+"popolazione": 17460
+},
+{
+"codice": "054015",
+"nome": "Corciano",
+"sigla": "PG",
+"popolazione": 20255
+},
+{
+"codice": "093017",
+"nome": "Cordenons",
+"sigla": "PN",
+"popolazione": 18203
+},
+{
+"codice": "059006",
+"nome": "Cori",
+"sigla": "LT",
+"popolazione": 11025
+},
+{
+"codice": "099003",
+"nome": "Coriano",
+"sigla": "RN",
+"popolazione": 10028
+},
+{
+"codice": "078157",
+"nome": "Corigliano-Rossano",
+"sigla": "CS",
+"popolazione": 74848
+},
+{
+"codice": "082034",
+"nome": "Corleone",
+"sigla": "PA",
+"popolazione": 11286
+},
+{
+"codice": "015086",
+"nome": "Cormano",
+"sigla": "MI",
+"popolazione": 19944
+},
+{
+"codice": "015087",
+"nome": "Cornaredo",
+"sigla": "MI",
+"popolazione": 20121
+},
+{
+"codice": "108053",
+"nome": "Cornate d'Adda",
+"sigla": "MB",
+"popolazione": 10363
+},
+{
+"codice": "024034",
+"nome": "Cornedo Vicentino",
+"sigla": "VI",
+"popolazione": 11939
+},
+{
+"codice": "035020",
+"nome": "Correggio",
+"sigla": "RE",
+"popolazione": 24825
+},
+{
+"codice": "043015",
+"nome": "Corridonia",
+"sigla": "MC",
+"popolazione": 15322
+},
+{
+"codice": "015093",
+"nome": "Corsico",
+"sigla": "MI",
+"popolazione": 33669
+},
+{
+"codice": "051017",
+"nome": "Cortona",
+"sigla": "AR",
+"popolazione": 22495
+},
+{
+"codice": "078045",
+"nome": "Cosenza",
+"sigla": "CS",
+"popolazione": 69484
+},
+{
+"codice": "096020",
+"nome": "Cossato",
+"sigla": "BI",
+"popolazione": 14810
+},
+{
+"codice": "024036",
+"nome": "Creazzo",
+"sigla": "VI",
+"popolazione": 11038
+},
+{
+"codice": "019035",
+"nome": "Crema",
+"sigla": "CR",
+"popolazione": 33091
+},
+{
+"codice": "019036",
+"nome": "Cremona",
+"sigla": "CR",
+"popolazione": 69589
+},
+{
+"codice": "037024",
+"nome": "Crevalcore",
+"sigla": "BO",
+"popolazione": 13527
+},
+{
+"codice": "063030",
+"nome": "Crispano",
+"sigla": "NA",
+"popolazione": 12411
+},
+{
+"codice": "073004",
+"nome": "Crispiano",
+"sigla": "TA",
+"popolazione": 13568
+},
+{
+"codice": "101010",
+"nome": "Crotone",
+"sigla": "KR",
+"popolazione": 58881
+},
+{
+"codice": "004078",
+"nome": "Cuneo",
+"sigla": "CN",
+"popolazione": 55013
+},
+{
+"codice": "001098",
+"nome": "Cuorgnè",
+"sigla": "TO",
+"popolazione": 10084
+},
+{
+"codice": "020021",
+"nome": "Curtatone",
+"sigla": "MN",
+"popolazione": 14570
+},
+{
+"codice": "015098",
+"nome": "Cusano Milanino",
+"sigla": "MI",
+"popolazione": 18905
+},
+{
+"codice": "101012",
+"nome": "Cutro",
+"sigla": "KR",
+"popolazione": 10065
+},
+{
+"codice": "016091",
+"nome": "Dalmine",
+"sigla": "BG",
+"popolazione": 22881
+},
+{
+"codice": "017065",
+"nome": "Darfo Boario Terme",
+"sigla": "BS",
+"popolazione": 15524
+},
+{
+"codice": "017067",
+"nome": "Desenzano del Garda",
+"sigla": "BS",
+"popolazione": 26793
+},
+{
+"codice": "108023",
+"nome": "Desio",
+"sigla": "MB",
+"popolazione": 40397
+},
+{
+"codice": "027012",
+"nome": "Dolo",
+"sigla": "VE",
+"popolazione": 14982
+},
+{
+"codice": "103028",
+"nome": "Domodossola",
+"sigla": "VB",
+"popolazione": 18175
+},
+{
+"codice": "024038",
+"nome": "Dueville",
+"sigla": "VI",
+"popolazione": 13888
+},
+{
+"codice": "065050",
+"nome": "Eboli",
+"sigla": "SA",
+"popolazione": 38219
+},
+{
+"codice": "048014",
+"nome": "Empoli",
+"sigla": "FI",
+"popolazione": 46541
+},
+{
+"codice": "086009",
+"nome": "Enna",
+"sigla": "EN",
+"popolazione": 27894
+},
+{
+"codice": "027013",
+"nome": "Eraclea",
+"sigla": "VE",
+"popolazione": 12689
+},
+{
+"codice": "013095",
+"nome": "Erba",
+"sigla": "CO",
+"popolazione": 16503
+},
+{
+"codice": "063064",
+"nome": "Ercolano",
+"sigla": "NA",
+"popolazione": 53677
+},
+{
+"codice": "081008",
+"nome": "Erice",
+"sigla": "TP",
+"popolazione": 28012
+},
+{
+"codice": "028037",
+"nome": "Este",
+"sigla": "PD",
+"popolazione": 16576
+},
+{
+"codice": "042017",
+"nome": "Fabriano",
+"sigla": "AN",
+"popolazione": 31020
+},
+{
+"codice": "039010",
+"nome": "Faenza",
+"sigla": "RA",
+"popolazione": 57748
+},
+{
+"codice": "012067",
+"nome": "Fagnano Olona",
+"sigla": "VA",
+"popolazione": 12141
+},
+{
+"codice": "042018",
+"nome": "Falconara Marittima",
+"sigla": "AN",
+"popolazione": 26710
+},
+{
+"codice": "041013",
+"nome": "Fano",
+"sigla": "PU",
+"popolazione": 62901
+},
+{
+"codice": "057027",
+"nome": "Fara in Sabina",
+"sigla": "RI",
+"popolazione": 12326
+},
+{
+"codice": "074007",
+"nome": "Fasano",
+"sigla": "BR",
+"popolazione": 39482
+},
+{
+"codice": "084017",
+"nome": "Favara",
+"sigla": "AG",
+"popolazione": 32972
+},
+{
+"codice": "025021",
+"nome": "Feltre",
+"sigla": "BL",
+"popolazione": 20525
+},
+{
+"codice": "060033",
+"nome": "Ferentino",
+"sigla": "FR",
+"popolazione": 20966
+},
+{
+"codice": "109006",
+"nome": "Fermo",
+"sigla": "FM",
+"popolazione": 37016
+},
+{
+"codice": "038008",
+"nome": "Ferrara",
+"sigla": "FE",
+"popolazione": 132545
+},
+{
+"codice": "058036",
+"nome": "Fiano Romano",
+"sigla": "RM",
+"popolazione": 13059
+},
+{
+"codice": "082035",
+"nome": "Ficarazzi",
+"sigla": "PA",
+"popolazione": 11484
+},
+{
+"codice": "034014",
+"nome": "Fidenza",
+"sigla": "PR",
+"popolazione": 25521
+},
+{
+"codice": "048015",
+"nome": "Fiesole",
+"sigla": "FI",
+"popolazione": 13990
+},
+{
+"codice": "048052",
+"nome": "Figline e Incisa Valdarno",
+"sigla": "FI",
+"popolazione": 23124
+},
+{
+"codice": "036012",
+"nome": "Finale Emilia",
+"sigla": "MO",
+"popolazione": 15713
+},
+{
+"codice": "009029",
+"nome": "Finale Ligure",
+"sigla": "SV",
+"popolazione": 11724
+},
+{
+"codice": "036013",
+"nome": "Fiorano Modenese",
+"sigla": "MO",
+"popolazione": 16945
+},
+{
+"codice": "033021",
+"nome": "Fiorenzuola d'Arda",
+"sigla": "PC",
+"popolazione": 14886
+},
+{
+"codice": "048017",
+"nome": "Firenze",
+"sigla": "FI",
+"popolazione": 358079
+},
+{
+"codice": "065052",
+"nome": "Fisciano",
+"sigla": "SA",
+"popolazione": 13677
+},
+{
+"codice": "093021",
+"nome": "Fiume Veneto",
+"sigla": "PN",
+"popolazione": 11486
+},
+{
+"codice": "058120",
+"nome": "Fiumicino",
+"sigla": "RM",
+"popolazione": 67626
+},
+{
+"codice": "089009",
+"nome": "Floridia",
+"sigla": "SR",
+"popolazione": 22685
+},
+{
+"codice": "071024",
+"nome": "Foggia",
+"sigla": "FG",
+"popolazione": 147036
+},
+{
+"codice": "054018",
+"nome": "Foligno",
+"sigla": "PG",
+"popolazione": 56045
+},
+{
+"codice": "053009",
+"nome": "Follonica",
+"sigla": "GR",
+"popolazione": 21479
+},
+{
+"codice": "059007",
+"nome": "Fondi",
+"sigla": "LT",
+"popolazione": 37180
+},
+{
+"codice": "093022",
+"nome": "Fontanafredda",
+"sigla": "PN",
+"popolazione": 11537
+},
+{
+"codice": "058122",
+"nome": "Fonte Nuova",
+"sigla": "RM",
+"popolazione": 30572
+},
+{
+"codice": "063031",
+"nome": "Forio",
+"sigla": "NA",
+"popolazione": 16597
+},
+{
+"codice": "040012",
+"nome": "Forlì",
+"sigla": "FC",
+"popolazione": 116434
+},
+{
+"codice": "040013",
+"nome": "Forlimpopoli",
+"sigla": "FC",
+"popolazione": 12982
+},
+{
+"codice": "058038",
+"nome": "Formello",
+"sigla": "RM",
+"popolazione": 11909
+},
+{
+"codice": "059008",
+"nome": "Formia",
+"sigla": "LT",
+"popolazione": 36331
+},
+{
+"codice": "036015",
+"nome": "Formigine",
+"sigla": "MO",
+"popolazione": 33667
+},
+{
+"codice": "004089",
+"nome": "Fossano",
+"sigla": "CN",
+"popolazione": 24710
+},
+{
+"codice": "069035",
+"nome": "Francavilla al Mare",
+"sigla": "CH",
+"popolazione": 23816
+},
+{
+"codice": "074008",
+"nome": "Francavilla Fontana",
+"sigla": "BR",
+"popolazione": 36955
+},
+{
+"codice": "089010",
+"nome": "Francofonte",
+"sigla": "SR",
+"popolazione": 12923
+},
+{
+"codice": "058039",
+"nome": "Frascati",
+"sigla": "RM",
+"popolazione": 20755
+},
+{
+"codice": "063032",
+"nome": "Frattamaggiore",
+"sigla": "NA",
+"popolazione": 30241
+},
+{
+"codice": "063033",
+"nome": "Frattaminore",
+"sigla": "NA",
+"popolazione": 15708
+},
+{
+"codice": "060038",
+"nome": "Frosinone",
+"sigla": "FR",
+"popolazione": 46649
+},
+{
+"codice": "048019",
+"nome": "Fucecchio",
+"sigla": "FI",
+"popolazione": 22785
+},
+{
+"codice": "059009",
+"nome": "Gaeta",
+"sigla": "LT",
+"popolazione": 20762
+},
+{
+"codice": "075029",
+"nome": "Galatina",
+"sigla": "LE",
+"popolazione": 27214
+},
+{
+"codice": "075030",
+"nome": "Galatone",
+"sigla": "LE",
+"popolazione": 15754
+},
+{
+"codice": "012070",
+"nome": "Gallarate",
+"sigla": "VA",
+"popolazione": 50456
+},
+{
+"codice": "003068",
+"nome": "Galliate",
+"sigla": "NO",
+"popolazione": 15008
+},
+{
+"codice": "075031",
+"nome": "Gallipoli",
+"sigla": "LE",
+"popolazione": 20398
+},
+{
+"codice": "040015",
+"nome": "Gambettola",
+"sigla": "FC",
+"popolazione": 10238
+},
+{
+"codice": "015105",
+"nome": "Garbagnate Milanese",
+"sigla": "MI",
+"popolazione": 26262
+},
+{
+"codice": "017075",
+"nome": "Gardone Val Trompia",
+"sigla": "BS",
+"popolazione": 11700
+},
+{
+"codice": "017077",
+"nome": "Gavardo",
+"sigla": "BS",
+"popolazione": 11686
+},
+{
+"codice": "085007",
+"nome": "Gela",
+"sigla": "CL",
+"popolazione": 75668
+},
+{
+"codice": "030043",
+"nome": "Gemona del Friuli",
+"sigla": "UD",
+"popolazione": 11141
+},
+{
+"codice": "010025",
+"nome": "Genova",
+"sigla": "GE",
+"popolazione": 586180
+},
+{
+"codice": "058043",
+"nome": "Genzano di Roma",
+"sigla": "RM",
+"popolazione": 23780
+},
+{
+"codice": "012075",
+"nome": "Gerenzano",
+"sigla": "VA",
+"popolazione": 10411
+},
+{
+"codice": "017078",
+"nome": "Ghedi",
+"sigla": "BS",
+"popolazione": 18321
+},
+{
+"codice": "087017",
+"nome": "Giarre",
+"sigla": "CT",
+"popolazione": 28114
+},
+{
+"codice": "001115",
+"nome": "Giaveno",
+"sigla": "TO",
+"popolazione": 16281
+},
+{
+"codice": "065056",
+"nome": "Giffoni Valle Piana",
+"sigla": "SA",
+"popolazione": 12024
+},
+{
+"codice": "073007",
+"nome": "Ginosa",
+"sigla": "TA",
+"popolazione": 22582
+},
+{
+"codice": "072021",
+"nome": "Gioia del Colle",
+"sigla": "BA",
+"popolazione": 27889
+},
+{
+"codice": "080038",
+"nome": "Gioia Tauro",
+"sigla": "RC",
+"popolazione": 19063
+},
+{
+"codice": "072022",
+"nome": "Giovinazzo",
+"sigla": "BA",
+"popolazione": 20433
+},
+{
+"codice": "063034",
+"nome": "Giugliano in Campania",
+"sigla": "NA",
+"popolazione": 108793
+},
+{
+"codice": "067025",
+"nome": "Giulianova",
+"sigla": "TE",
+"popolazione": 23199
+},
+{
+"codice": "108024",
+"nome": "Giussano",
+"sigla": "MB",
+"popolazione": 24527
+},
+{
+"codice": "020026",
+"nome": "Goito",
+"sigla": "MN",
+"popolazione": 10289
+},
+{
+"codice": "015108",
+"nome": "Gorgonzola",
+"sigla": "MI",
+"popolazione": 19402
+},
+{
+"codice": "031007",
+"nome": "Gorizia",
+"sigla": "GO",
+"popolazione": 35212
+},
+{
+"codice": "063035",
+"nome": "Gragnano",
+"sigla": "NA",
+"popolazione": 29509
+},
+{
+"codice": "087018",
+"nome": "Grammichele",
+"sigla": "CT",
+"popolazione": 13064
+},
+{
+"codice": "037030",
+"nome": "Granarolo dell'Emilia",
+"sigla": "BO",
+"popolazione": 10766
+},
+{
+"codice": "087019",
+"nome": "Gravina di Catania",
+"sigla": "CT",
+"popolazione": 26543
+},
+{
+"codice": "072023",
+"nome": "Gravina in Puglia",
+"sigla": "BA",
+"popolazione": 43614
+},
+{
+"codice": "048021",
+"nome": "Greve in Chianti",
+"sigla": "FI",
+"popolazione": 13886
+},
+{
+"codice": "023038",
+"nome": "Grezzana",
+"sigla": "VR",
+"popolazione": 10827
+},
+{
+"codice": "061043",
+"nome": "Gricignano di Aversa",
+"sigla": "CE",
+"popolazione": 10559
+},
+{
+"codice": "053011",
+"nome": "Grosseto",
+"sigla": "GR",
+"popolazione": 78630
+},
+{
+"codice": "058046",
+"nome": "Grottaferrata",
+"sigla": "RM",
+"popolazione": 19156
+},
+{
+"codice": "073008",
+"nome": "Grottaglie",
+"sigla": "TA",
+"popolazione": 32503
+},
+{
+"codice": "044023",
+"nome": "Grottammare",
+"sigla": "AP",
+"popolazione": 15615
+},
+{
+"codice": "001120",
+"nome": "Grugliasco",
+"sigla": "TO",
+"popolazione": 37194
+},
+{
+"codice": "072024",
+"nome": "Grumo Appula",
+"sigla": "BA",
+"popolazione": 12940
+},
+{
+"codice": "063036",
+"nome": "Grumo Nevano",
+"sigla": "NA",
+"popolazione": 18017
+},
+{
+"codice": "054023",
+"nome": "Gualdo Tadino",
+"sigla": "PG",
+"popolazione": 15453
+},
+{
+"codice": "035024",
+"nome": "Guastalla",
+"sigla": "RE",
+"popolazione": 14786
+},
+{
+"codice": "054024",
+"nome": "Gubbio",
+"sigla": "PG",
+"popolazione": 32432
+},
+{
+"codice": "058047",
+"nome": "Guidonia Montecelio",
+"sigla": "RM",
+"popolazione": 81447
+},
+{
+"codice": "017081",
+"nome": "Gussago",
+"sigla": "BS",
+"popolazione": 16403
+},
+{
+"codice": "037032",
+"nome": "Imola",
+"sigla": "BO",
+"popolazione": 67892
+},
+{
+"codice": "008031",
+"nome": "Imperia",
+"sigla": "IM",
+"popolazione": 42322
+},
+{
+"codice": "048022",
+"nome": "Impruneta",
+"sigla": "FI",
+"popolazione": 14667
+},
+{
+"codice": "012083",
+"nome": "Induno Olona",
+"sigla": "VA",
+"popolazione": 10336
+},
+{
+"codice": "015114",
+"nome": "Inzago",
+"sigla": "MI",
+"popolazione": 10540
+},
+{
+"codice": "063037",
+"nome": "Ischia",
+"sigla": "NA",
+"popolazione": 18688
+},
+{
+"codice": "094023",
+"nome": "Isernia",
+"sigla": "IS",
+"popolazione": 22025
+},
+{
+"codice": "060043",
+"nome": "Isola del Liri",
+"sigla": "FR",
+"popolazione": 11963
+},
+{
+"codice": "023040",
+"nome": "Isola della Scala",
+"sigla": "VR",
+"popolazione": 11457
+},
+{
+"codice": "101013",
+"nome": "Isola di Capo Rizzuto",
+"sigla": "KR",
+"popolazione": 15827
+},
+{
+"codice": "088005",
+"nome": "Ispica",
+"sigla": "RG",
+"popolazione": 15122
+},
+{
+"codice": "059010",
+"nome": "Itri",
+"sigla": "LT",
+"popolazione": 10460
+},
+{
+"codice": "001125",
+"nome": "Ivrea",
+"sigla": "TO",
+"popolazione": 23592
+},
+{
+"codice": "042021",
+"nome": "Jesi",
+"sigla": "AN",
+"popolazione": 40303
+},
+{
+"codice": "027019",
+"nome": "Jesolo",
+"sigla": "VE",
+"popolazione": 24479
+},
+{
+"codice": "066049",
+"nome": "L'Aquila",
+"sigla": "AQ",
+"popolazione": 66964
+},
+{
+"codice": "011015",
+"nome": "La Spezia",
+"sigla": "SP",
+"popolazione": 92659
+},
+{
+"codice": "058116",
+"nome": "Ladispoli",
+"sigla": "RM",
+"popolazione": 37293
+},
+{
+"codice": "015116",
+"nome": "Lainate",
+"sigla": "MI",
+"popolazione": 25054
+},
+{
+"codice": "021040",
+"nome": "Laives",
+"sigla": "BZ",
+"popolazione": 16909
+},
+{
+"codice": "079160",
+"nome": "Lamezia Terme",
+"sigla": "CZ",
+"popolazione": 70336
+},
+{
+"codice": "021041",
+"nome": "Lana",
+"sigla": "BZ",
+"popolazione": 11251
+},
+{
+"codice": "069046",
+"nome": "Lanciano",
+"sigla": "CH",
+"popolazione": 35921
+},
+{
+"codice": "058050",
+"nome": "Lanuvio",
+"sigla": "RM",
+"popolazione": 13006
+},
+{
+"codice": "058115",
+"nome": "Lariano",
+"sigla": "RM",
+"popolazione": 12893
+},
+{
+"codice": "048024",
+"nome": "Lastra a Signa",
+"sigla": "FI",
+"popolazione": 18960
+},
+{
+"codice": "073009",
+"nome": "Laterza",
+"sigla": "TA",
+"popolazione": 15296
+},
+{
+"codice": "074009",
+"nome": "Latiano",
+"sigla": "BR",
+"popolazione": 15045
+},
+{
+"codice": "059011",
+"nome": "Latina",
+"sigla": "LT",
+"popolazione": 117892
+},
+{
+"codice": "030046",
+"nome": "Latisana",
+"sigla": "UD",
+"popolazione": 13647
+},
+{
+"codice": "076042",
+"nome": "Lauria",
+"sigla": "PZ",
+"popolazione": 13262
+},
+{
+"codice": "010028",
+"nome": "Lavagna",
+"sigla": "GE",
+"popolazione": 12579
+},
+{
+"codice": "076043",
+"nome": "Lavello",
+"sigla": "PZ",
+"popolazione": 13590
+},
+{
+"codice": "075035",
+"nome": "Lecce",
+"sigla": "LE",
+"popolazione": 89916
+},
+{
+"codice": "097042",
+"nome": "Lecco",
+"sigla": "LC",
+"popolazione": 46705
+},
+{
+"codice": "023044",
+"nome": "Legnago",
+"sigla": "VR",
+"popolazione": 24992
+},
+{
+"codice": "015118",
+"nome": "Legnano",
+"sigla": "MI",
+"popolazione": 57647
+},
+{
+"codice": "001130",
+"nome": "Leini",
+"sigla": "TO",
+"popolazione": 15320
+},
+{
+"codice": "029029",
+"nome": "Lendinara",
+"sigla": "RO",
+"popolazione": 12024
+},
+{
+"codice": "017088",
+"nome": "Leno",
+"sigla": "BS",
+"popolazione": 14364
+},
+{
+"codice": "108054",
+"nome": "Lentate sul Seveso",
+"sigla": "MB",
+"popolazione": 15486
+},
+{
+"codice": "089011",
+"nome": "Lentini",
+"sigla": "SR",
+"popolazione": 24484
+},
+{
+"codice": "086011",
+"nome": "Leonforte",
+"sigla": "EN",
+"popolazione": 13878
+},
+{
+"codice": "011016",
+"nome": "Lerici",
+"sigla": "SP",
+"popolazione": 10090
+},
+{
+"codice": "075037",
+"nome": "Leverano",
+"sigla": "LE",
+"popolazione": 14069
+},
+{
+"codice": "084021",
+"nome": "Licata",
+"sigla": "AG",
+"popolazione": 38125
+},
+{
+"codice": "108027",
+"nome": "Limbiate",
+"sigla": "MB",
+"popolazione": 33903
+},
+{
+"codice": "083041",
+"nome": "Lipari",
+"sigla": "ME",
+"popolazione": 11642
+},
+{
+"codice": "108028",
+"nome": "Lissone",
+"sigla": "MB",
+"popolazione": 42220
+},
+{
+"codice": "049009",
+"nome": "Livorno",
+"sigla": "LI",
+"popolazione": 157052
+},
+{
+"codice": "075038",
+"nome": "Lizzanello",
+"sigla": "LE",
+"popolazione": 11549
+},
+{
+"codice": "073011",
+"nome": "Lizzano",
+"sigla": "TA",
+"popolazione": 10238
+},
+{
+"codice": "009034",
+"nome": "Loano",
+"sigla": "SV",
+"popolazione": 11563
+},
+{
+"codice": "072025",
+"nome": "Locorotondo",
+"sigla": "BA",
+"popolazione": 14161
+},
+{
+"codice": "080043",
+"nome": "Locri",
+"sigla": "RC",
+"popolazione": 12459
+},
+{
+"codice": "098031",
+"nome": "Lodi",
+"sigla": "LO",
+"popolazione": 43332
+},
+{
+"codice": "012090",
+"nome": "Lonate Pozzolo",
+"sigla": "VA",
+"popolazione": 11748
+},
+{
+"codice": "017092",
+"nome": "Lonato del Garda",
+"sigla": "BS",
+"popolazione": 15559
+},
+{
+"codice": "024052",
+"nome": "Lonigo",
+"sigla": "VI",
+"popolazione": 15581
+},
+{
+"codice": "042022",
+"nome": "Loreto",
+"sigla": "AN",
+"popolazione": 12533
+},
+{
+"codice": "046017",
+"nome": "Lucca",
+"sigla": "LU",
+"popolazione": 87200
+},
+{
+"codice": "071028",
+"nome": "Lucera",
+"sigla": "FG",
+"popolazione": 34333
+},
+{
+"codice": "039012",
+"nome": "Lugo",
+"sigla": "RA",
+"popolazione": 32062
+},
+{
+"codice": "012092",
+"nome": "Luino",
+"sigla": "VA",
+"popolazione": 14276
+},
+{
+"codice": "017096",
+"nome": "Lumezzane",
+"sigla": "BS",
+"popolazione": 23390
+},
+{
+"codice": "061046",
+"nome": "Lusciano",
+"sigla": "CE",
+"popolazione": 14539
+},
+{
+"codice": "043023",
+"nome": "Macerata",
+"sigla": "MC",
+"popolazione": 42019
+},
+{
+"codice": "061047",
+"nome": "Macerata Campania",
+"sigla": "CE",
+"popolazione": 10558
+},
+{
+"codice": "061048",
+"nome": "Maddaloni",
+"sigla": "CE",
+"popolazione": 39409
+},
+{
+"codice": "015130",
+"nome": "Magenta",
+"sigla": "MI",
+"popolazione": 22877
+},
+{
+"codice": "054026",
+"nome": "Magione",
+"sigla": "PG",
+"popolazione": 14589
+},
+{
+"codice": "075039",
+"nome": "Maglie",
+"sigla": "LE",
+"popolazione": 14819
+},
+{
+"codice": "012096",
+"nome": "Malnate",
+"sigla": "VA",
+"popolazione": 16604
+},
+{
+"codice": "024055",
+"nome": "Malo",
+"sigla": "VI",
+"popolazione": 14641
+},
+{
+"codice": "097046",
+"nome": "Mandello del Lario",
+"sigla": "LC",
+"popolazione": 10578
+},
+{
+"codice": "073012",
+"nome": "Manduria",
+"sigla": "TA",
+"popolazione": 30921
+},
+{
+"codice": "017103",
+"nome": "Manerbio",
+"sigla": "BS",
+"popolazione": 12869
+},
+{
+"codice": "071029",
+"nome": "Manfredonia",
+"sigla": "FG",
+"popolazione": 56257
+},
+{
+"codice": "093025",
+"nome": "Maniago",
+"sigla": "PN",
+"popolazione": 11818
+},
+{
+"codice": "020030",
+"nome": "Mantova",
+"sigla": "MN",
+"popolazione": 46649
+},
+{
+"codice": "036019",
+"nome": "Maranello",
+"sigla": "MO",
+"popolazione": 16622
+},
+{
+"codice": "063041",
+"nome": "Marano di Napoli",
+"sigla": "NA",
+"popolazione": 57204
+},
+{
+"codice": "061049",
+"nome": "Marcianise",
+"sigla": "CE",
+"popolazione": 40297
+},
+{
+"codice": "027020",
+"nome": "Marcon",
+"sigla": "VE",
+"popolazione": 16215
+},
+{
+"codice": "110005",
+"nome": "Margherita di Savoia",
+"sigla": "BT",
+"popolazione": 12193
+},
+{
+"codice": "013143",
+"nome": "Mariano Comense",
+"sigla": "CO",
+"popolazione": 23500
+},
+{
+"codice": "063043",
+"nome": "Marigliano",
+"sigla": "NA",
+"popolazione": 30247
+},
+{
+"codice": "058057",
+"nome": "Marino",
+"sigla": "RM",
+"popolazione": 38245
+},
+{
+"codice": "024057",
+"nome": "Marostica",
+"sigla": "VI",
+"popolazione": 13783
+},
+{
+"codice": "081011",
+"nome": "Marsala",
+"sigla": "TP",
+"popolazione": 80218
+},
+{
+"codice": "054027",
+"nome": "Marsciano",
+"sigla": "PG",
+"popolazione": 18701
+},
+{
+"codice": "027021",
+"nome": "Martellago",
+"sigla": "VE",
+"popolazione": 21171
+},
+{
+"codice": "073013",
+"nome": "Martina Franca",
+"sigla": "TA",
+"popolazione": 49009
+},
+{
+"codice": "016133",
+"nome": "Martinengo",
+"sigla": "BG",
+"popolazione": 10088
+},
+{
+"codice": "067047",
+"nome": "Martinsicuro",
+"sigla": "TE",
+"popolazione": 15484
+},
+{
+"codice": "087023",
+"nome": "Mascali",
+"sigla": "CT",
+"popolazione": 13792
+},
+{
+"codice": "087024",
+"nome": "Mascalucia",
+"sigla": "CT",
+"popolazione": 29984
+},
+{
+"codice": "045010",
+"nome": "Massa",
+"sigla": "MS",
+"popolazione": 68856
+},
+{
+"codice": "039013",
+"nome": "Massa Lombarda",
+"sigla": "RA",
+"popolazione": 10449
+},
+{
+"codice": "063044",
+"nome": "Massa Lubrense",
+"sigla": "NA",
+"popolazione": 14020
+},
+{
+"codice": "073015",
+"nome": "Massafra",
+"sigla": "TA",
+"popolazione": 32381
+},
+{
+"codice": "046018",
+"nome": "Massarosa",
+"sigla": "LU",
+"popolazione": 22330
+},
+{
+"codice": "043024",
+"nome": "Matelica",
+"sigla": "MC",
+"popolazione": 10178
+},
+{
+"codice": "077014",
+"nome": "Matera",
+"sigla": "MT",
+"popolazione": 59796
+},
+{
+"codice": "075042",
+"nome": "Matino",
+"sigla": "LE",
+"popolazione": 11704
+},
+{
+"codice": "081012",
+"nome": "Mazara del Vallo",
+"sigla": "TP",
+"popolazione": 49995
+},
+{
+"codice": "017107",
+"nome": "Mazzano",
+"sigla": "BS",
+"popolazione": 11487
+},
+{
+"codice": "085009",
+"nome": "Mazzarino",
+"sigla": "CL",
+"popolazione": 12333
+},
+{
+"codice": "108030",
+"nome": "Meda",
+"sigla": "MB",
+"popolazione": 23073
+},
+{
+"codice": "034020",
+"nome": "Medesano",
+"sigla": "PR",
+"popolazione": 10663
+},
+{
+"codice": "037037",
+"nome": "Medicina",
+"sigla": "BO",
+"popolazione": 16526
+},
+{
+"codice": "015139",
+"nome": "Mediglia",
+"sigla": "MI",
+"popolazione": 12080
+},
+{
+"codice": "040019",
+"nome": "Meldola",
+"sigla": "FC",
+"popolazione": 10000
+},
+{
+"codice": "015140",
+"nome": "Melegnano",
+"sigla": "MI",
+"popolazione": 16774
+},
+{
+"codice": "076048",
+"nome": "Melfi",
+"sigla": "PZ",
+"popolazione": 17425
+},
+{
+"codice": "089012",
+"nome": "Melilli",
+"sigla": "SR",
+"popolazione": 13076
+},
+{
+"codice": "063045",
+"nome": "Melito di Napoli",
+"sigla": "NA",
+"popolazione": 36933
+},
+{
+"codice": "080050",
+"nome": "Melito di Porto Salvo",
+"sigla": "RC",
+"popolazione": 11115
+},
+{
+"codice": "015142",
+"nome": "Melzo",
+"sigla": "MI",
+"popolazione": 18203
+},
+{
+"codice": "084023",
+"nome": "Menfi",
+"sigla": "AG",
+"popolazione": 12711
+},
+{
+"codice": "058059",
+"nome": "Mentana",
+"sigla": "RM",
+"popolazione": 20772
+},
+{
+"codice": "021051",
+"nome": "Merano",
+"sigla": "BZ",
+"popolazione": 37368
+},
+{
+"codice": "097048",
+"nome": "Merate",
+"sigla": "LC",
+"popolazione": 14583
+},
+{
+"codice": "065067",
+"nome": "Mercato San Severino",
+"sigla": "SA",
+"popolazione": 22036
+},
+{
+"codice": "064049",
+"nome": "Mercogliano",
+"sigla": "AV",
+"popolazione": 12403
+},
+{
+"codice": "074010",
+"nome": "Mesagne",
+"sigla": "BR",
+"popolazione": 27753
+},
+{
+"codice": "083048",
+"nome": "Messina",
+"sigla": "ME",
+"popolazione": 243262
+},
+{
+"codice": "028054",
+"nome": "Mestrino",
+"sigla": "PD",
+"popolazione": 10961
+},
+{
+"codice": "015146",
+"nome": "Milano",
+"sigla": "MI",
+"popolazione": 1242123
+},
+{
+"codice": "083049",
+"nome": "Milazzo",
+"sigla": "ME",
+"popolazione": 32146
+},
+{
+"codice": "059014",
+"nome": "Minturno",
+"sigla": "LT",
+"popolazione": 19472
+},
+{
+"codice": "027023",
+"nome": "Mira",
+"sigla": "VE",
+"popolazione": 38552
+},
+{
+"codice": "036022",
+"nome": "Mirandola",
+"sigla": "MO",
+"popolazione": 23960
+},
+{
+"codice": "027024",
+"nome": "Mirano",
+"sigla": "VE",
+"popolazione": 26456
+},
+{
+"codice": "099005",
+"nome": "Misano Adriatico",
+"sigla": "RN",
+"popolazione": 12252
+},
+{
+"codice": "082048",
+"nome": "Misilmeri",
+"sigla": "PA",
+"popolazione": 27570
+},
+{
+"codice": "087029",
+"nome": "Misterbianco",
+"sigla": "CT",
+"popolazione": 47356
+},
+{
+"codice": "036023",
+"nome": "Modena",
+"sigla": "MO",
+"popolazione": 179149
+},
+{
+"codice": "088006",
+"nome": "Modica",
+"sigla": "RG",
+"popolazione": 53959
+},
+{
+"codice": "072027",
+"nome": "Modugno",
+"sigla": "BA",
+"popolazione": 37532
+},
+{
+"codice": "026043",
+"nome": "Mogliano Veneto",
+"sigla": "TV",
+"popolazione": 27608
+},
+{
+"codice": "072028",
+"nome": "Mola di Bari",
+"sigla": "BA",
+"popolazione": 25567
+},
+{
+"codice": "072029",
+"nome": "Molfetta",
+"sigla": "BA",
+"popolazione": 60433
+},
+{
+"codice": "037039",
+"nome": "Molinella",
+"sigla": "BO",
+"popolazione": 15651
+},
+{
+"codice": "001156",
+"nome": "Moncalieri",
+"sigla": "TO",
+"popolazione": 55875
+},
+{
+"codice": "041029",
+"nome": "Mondolfo",
+"sigla": "PU",
+"popolazione": 11735
+},
+{
+"codice": "004130",
+"nome": "Mondovì",
+"sigla": "CN",
+"popolazione": 22253
+},
+{
+"codice": "061052",
+"nome": "Mondragone",
+"sigla": "CE",
+"popolazione": 27070
+},
+{
+"codice": "031012",
+"nome": "Monfalcone",
+"sigla": "GO",
+"popolazione": 27041
+},
+{
+"codice": "072030",
+"nome": "Monopoli",
+"sigla": "BA",
+"popolazione": 48529
+},
+{
+"codice": "082049",
+"nome": "Monreale",
+"sigla": "PA",
+"popolazione": 38018
+},
+{
+"codice": "028055",
+"nome": "Monselice",
+"sigla": "PD",
+"popolazione": 17451
+},
+{
+"codice": "047009",
+"nome": "Monsummano Terme",
+"sigla": "PT",
+"popolazione": 20767
+},
+{
+"codice": "047010",
+"nome": "Montale",
+"sigla": "PT",
+"popolazione": 10682
+},
+{
+"codice": "078081",
+"nome": "Montalto Uffugo",
+"sigla": "CS",
+"popolazione": 18168
+},
+{
+"codice": "053016",
+"nome": "Monte Argentario",
+"sigla": "GR",
+"popolazione": 12556
+},
+{
+"codice": "058060",
+"nome": "Monte Compatri",
+"sigla": "RM",
+"popolazione": 11234
+},
+{
+"codice": "063047",
+"nome": "Monte di Procida",
+"sigla": "NA",
+"popolazione": 12975
+},
+{
+"codice": "060044",
+"nome": "Monte San Giovanni Campano",
+"sigla": "FR",
+"popolazione": 12882
+},
+{
+"codice": "037042",
+"nome": "Monte San Pietro",
+"sigla": "BO",
+"popolazione": 10820
+},
+{
+"codice": "071033",
+"nome": "Monte Sant'Angelo",
+"sigla": "FG",
+"popolazione": 13098
+},
+{
+"codice": "026046",
+"nome": "Montebelluna",
+"sigla": "TV",
+"popolazione": 30765
+},
+{
+"codice": "047011",
+"nome": "Montecatini-Terme",
+"sigla": "PT",
+"popolazione": 19674
+},
+{
+"codice": "035027",
+"nome": "Montecchio Emilia",
+"sigla": "RE",
+"popolazione": 10201
+},
+{
+"codice": "024061",
+"nome": "Montecchio Maggiore",
+"sigla": "VI",
+"popolazione": 23315
+},
+{
+"codice": "034023",
+"nome": "Montechiarugolo",
+"sigla": "PR",
+"popolazione": 10482
+},
+{
+"codice": "065072",
+"nome": "Montecorvino Pugliano",
+"sigla": "SA",
+"popolazione": 10019
+},
+{
+"codice": "065073",
+"nome": "Montecorvino Rovella",
+"sigla": "SA",
+"popolazione": 12553
+},
+{
+"codice": "056036",
+"nome": "Montefiascone",
+"sigla": "VT",
+"popolazione": 13388
+},
+{
+"codice": "064054",
+"nome": "Monteforte Irpino",
+"sigla": "AV",
+"popolazione": 10878
+},
+{
+"codice": "109018",
+"nome": "Montegranaro",
+"sigla": "FM",
+"popolazione": 13153
+},
+{
+"codice": "028057",
+"nome": "Montegrotto Terme",
+"sigla": "PD",
+"popolazione": 11074
+},
+{
+"codice": "048028",
+"nome": "Montelupo Fiorentino",
+"sigla": "FI",
+"popolazione": 13653
+},
+{
+"codice": "042027",
+"nome": "Montemarciano",
+"sigla": "AN",
+"popolazione": 10110
+},
+{
+"codice": "100003",
+"nome": "Montemurlo",
+"sigla": "PO",
+"popolazione": 17908
+},
+{
+"codice": "044045",
+"nome": "Monteprandone",
+"sigla": "AP",
+"popolazione": 12211
+},
+{
+"codice": "052015",
+"nome": "Montepulciano",
+"sigla": "SI",
+"popolazione": 14237
+},
+{
+"codice": "075048",
+"nome": "Monteroni di Lecce",
+"sigla": "LE",
+"popolazione": 13881
+},
+{
+"codice": "058065",
+"nome": "Monterotondo",
+"sigla": "RM",
+"popolazione": 39502
+},
+{
+"codice": "062043",
+"nome": "Montesarchio",
+"sigla": "BN",
+"popolazione": 13198
+},
+{
+"codice": "077017",
+"nome": "Montescaglioso",
+"sigla": "MT",
+"popolazione": 10102
+},
+{
+"codice": "068024",
+"nome": "Montesilvano",
+"sigla": "PE",
+"popolazione": 50413
+},
+{
+"codice": "048030",
+"nome": "Montespertoli",
+"sigla": "FI",
+"popolazione": 13195
+},
+{
+"codice": "051026",
+"nome": "Montevarchi",
+"sigla": "AR",
+"popolazione": 23971
+},
+{
+"codice": "017113",
+"nome": "Montichiari",
+"sigla": "BS",
+"popolazione": 23734
+},
+{
+"codice": "045011",
+"nome": "Montignoso",
+"sigla": "MS",
+"popolazione": 10226
+},
+{
+"codice": "050022",
+"nome": "Montopoli in Val d'Arno",
+"sigla": "PI",
+"popolazione": 11167
+},
+{
+"codice": "064121",
+"nome": "Montoro",
+"sigla": "AV",
+"popolazione": 19456
+},
+{
+"codice": "108033",
+"nome": "Monza",
+"sigla": "MB",
+"popolazione": 119856
+},
+{
+"codice": "014045",
+"nome": "Morbegno",
+"sigla": "SO",
+"popolazione": 11786
+},
+{
+"codice": "043033",
+"nome": "Morrovalle",
+"sigla": "MC",
+"popolazione": 10287
+},
+{
+"codice": "018102",
+"nome": "Mortara",
+"sigla": "PV",
+"popolazione": 15156
+},
+{
+"codice": "026049",
+"nome": "Motta di Livenza",
+"sigla": "TV",
+"popolazione": 10681
+},
+{
+"codice": "087030",
+"nome": "Motta Sant'Anastasia",
+"sigla": "CT",
+"popolazione": 11394
+},
+{
+"codice": "073019",
+"nome": "Mottola",
+"sigla": "TA",
+"popolazione": 16241
+},
+{
+"codice": "032003",
+"nome": "Muggia",
+"sigla": "TS",
+"popolazione": 13022
+},
+{
+"codice": "108034",
+"nome": "Muggiò",
+"sigla": "MB",
+"popolazione": 23208
+},
+{
+"codice": "063048",
+"nome": "Mugnano di Napoli",
+"sigla": "NA",
+"popolazione": 34504
+},
+{
+"codice": "027025",
+"nome": "Musile di Piave",
+"sigla": "VE",
+"popolazione": 11518
+},
+{
+"codice": "085012",
+"nome": "Mussomeli",
+"sigla": "CL",
+"popolazione": 11010
+},
+{
+"codice": "063049",
+"nome": "Napoli",
+"sigla": "NA",
+"popolazione": 962003
+},
+{
+"codice": "075052",
+"nome": "Nardò",
+"sigla": "LE",
+"popolazione": 31688
+},
+{
+"codice": "055022",
+"nome": "Narni",
+"sigla": "TR",
+"popolazione": 20054
+},
+{
+"codice": "017117",
+"nome": "Nave",
+"sigla": "BS",
+"popolazione": 10957
+},
+{
+"codice": "023052",
+"nome": "Negrar di Valpolicella",
+"sigla": "VR",
+"popolazione": 16935
+},
+{
+"codice": "016144",
+"nome": "Nembro",
+"sigla": "BG",
+"popolazione": 11542
+},
+{
+"codice": "015154",
+"nome": "Nerviano",
+"sigla": "MI",
+"popolazione": 17089
+},
+{
+"codice": "058072",
+"nome": "Nettuno",
+"sigla": "RM",
+"popolazione": 45460
+},
+{
+"codice": "001164",
+"nome": "Nichelino",
+"sigla": "TO",
+"popolazione": 47851
+},
+{
+"codice": "086012",
+"nome": "Nicosia",
+"sigla": "EN",
+"popolazione": 14272
+},
+{
+"codice": "085013",
+"nome": "Niscemi",
+"sigla": "CL",
+"popolazione": 27975
+},
+{
+"codice": "005080",
+"nome": "Nizza Monferrato",
+"sigla": "AT",
+"popolazione": 10372
+},
+{
+"codice": "027026",
+"nome": "Noale",
+"sigla": "VE",
+"popolazione": 15708
+},
+{
+"codice": "065078",
+"nome": "Nocera Inferiore",
+"sigla": "SA",
+"popolazione": 46563
+},
+{
+"codice": "065079",
+"nome": "Nocera Superiore",
+"sigla": "SA",
+"popolazione": 24151
+},
+{
+"codice": "034025",
+"nome": "Noceto",
+"sigla": "PR",
+"popolazione": 12705
+},
+{
+"codice": "072031",
+"nome": "Noci",
+"sigla": "BA",
+"popolazione": 19285
+},
+{
+"codice": "072032",
+"nome": "Noicattaro",
+"sigla": "BA",
+"popolazione": 25710
+},
+{
+"codice": "063050",
+"nome": "Nola",
+"sigla": "NA",
+"popolazione": 33979
+},
+{
+"codice": "036027",
+"nome": "Nonantola",
+"sigla": "MO",
+"popolazione": 15179
+},
+{
+"codice": "089013",
+"nome": "Noto",
+"sigla": "SR",
+"popolazione": 23704
+},
+{
+"codice": "108035",
+"nome": "Nova Milanese",
+"sigla": "MB",
+"popolazione": 22315
+},
+{
+"codice": "003106",
+"nome": "Novara",
+"sigla": "NO",
+"popolazione": 101952
+},
+{
+"codice": "015157",
+"nome": "Novate Milanese",
+"sigla": "MI",
+"popolazione": 19938
+},
+{
+"codice": "035028",
+"nome": "Novellara",
+"sigla": "RE",
+"popolazione": 13455
+},
+{
+"codice": "028058",
+"nome": "Noventa Padovana",
+"sigla": "PD",
+"popolazione": 10881
+},
+{
+"codice": "036028",
+"nome": "Novi di Modena",
+"sigla": "MO",
+"popolazione": 10972
+},
+{
+"codice": "006114",
+"nome": "Novi Ligure",
+"sigla": "AL",
+"popolazione": 27682
+},
+{
+"codice": "029033",
+"nome": "Occhiobello",
+"sigla": "RO",
+"popolazione": 11351
+},
+{
+"codice": "026051",
+"nome": "Oderzo",
+"sigla": "TV",
+"popolazione": 20068
+},
+{
+"codice": "003108",
+"nome": "Oleggio",
+"sigla": "NO",
+"popolazione": 13650
+},
+{
+"codice": "013165",
+"nome": "Olgiate Comasco",
+"sigla": "CO",
+"popolazione": 11401
+},
+{
+"codice": "012108",
+"nome": "Olgiate Olona",
+"sigla": "VA",
+"popolazione": 12215
+},
+{
+"codice": "103050",
+"nome": "Omegna",
+"sigla": "VB",
+"popolazione": 15744
+},
+{
+"codice": "015159",
+"nome": "Opera",
+"sigla": "MI",
+"popolazione": 13226
+},
+{
+"codice": "001171",
+"nome": "Orbassano",
+"sigla": "TO",
+"popolazione": 22537
+},
+{
+"codice": "053018",
+"nome": "Orbetello",
+"sigla": "GR",
+"popolazione": 14705
+},
+{
+"codice": "074011",
+"nome": "Oria",
+"sigla": "BR",
+"popolazione": 15228
+},
+{
+"codice": "061053",
+"nome": "Orta di Atella",
+"sigla": "CE",
+"popolazione": 24796
+},
+{
+"codice": "071036",
+"nome": "Orta Nova",
+"sigla": "FG",
+"popolazione": 16999
+},
+{
+"codice": "069058",
+"nome": "Ortona",
+"sigla": "CH",
+"popolazione": 23425
+},
+{
+"codice": "055023",
+"nome": "Orvieto",
+"sigla": "TR",
+"popolazione": 21064
+},
+{
+"codice": "017125",
+"nome": "Orzinuovi",
+"sigla": "BS",
+"popolazione": 12343
+},
+{
+"codice": "042034",
+"nome": "Osimo",
+"sigla": "AN",
+"popolazione": 33991
+},
+{
+"codice": "016153",
+"nome": "Osio Sotto",
+"sigla": "BG",
+"popolazione": 12080
+},
+{
+"codice": "017127",
+"nome": "Ospitaletto",
+"sigla": "BS",
+"popolazione": 13579
+},
+{
+"codice": "074012",
+"nome": "Ostuni",
+"sigla": "BR",
+"popolazione": 31860
+},
+{
+"codice": "063051",
+"nome": "Ottaviano",
+"sigla": "NA",
+"popolazione": 23543
+},
+{
+"codice": "006121",
+"nome": "Ovada",
+"sigla": "AL",
+"popolazione": 11685
+},
+{
+"codice": "037046",
+"nome": "Ozzano dell'Emilia",
+"sigla": "BO",
+"popolazione": 12870
+},
+{
+"codice": "081013",
+"nome": "Paceco",
+"sigla": "TP",
+"popolazione": 11487
+},
+{
+"codice": "089014",
+"nome": "Pachino",
+"sigla": "SR",
+"popolazione": 22068
+},
+{
+"codice": "015166",
+"nome": "Paderno Dugnano",
+"sigla": "MI",
+"popolazione": 46562
+},
+{
+"codice": "028060",
+"nome": "Padova",
+"sigla": "PD",
+"popolazione": 206192
+},
+{
+"codice": "026055",
+"nome": "Paese",
+"sigla": "TV",
+"popolazione": 21432
+},
+{
+"codice": "065088",
+"nome": "Pagani",
+"sigla": "SA",
+"popolazione": 34671
+},
+{
+"codice": "073021",
+"nome": "Palagiano",
+"sigla": "TA",
+"popolazione": 16052
+},
+{
+"codice": "087032",
+"nome": "Palagonia",
+"sigla": "CT",
+"popolazione": 16540
+},
+{
+"codice": "017133",
+"nome": "Palazzolo sull'Oglio",
+"sigla": "BS",
+"popolazione": 19472
+},
+{
+"codice": "082053",
+"nome": "Palermo",
+"sigla": "PA",
+"popolazione": 657561
+},
+{
+"codice": "058074",
+"nome": "Palestrina",
+"sigla": "RM",
+"popolazione": 20498
+},
+{
+"codice": "063052",
+"nome": "Palma Campania",
+"sigla": "NA",
+"popolazione": 14905
+},
+{
+"codice": "084027",
+"nome": "Palma di Montechiaro",
+"sigla": "AG",
+"popolazione": 23643
+},
+{
+"codice": "080057",
+"nome": "Palmi",
+"sigla": "RC",
+"popolazione": 18721
+},
+{
+"codice": "072033",
+"nome": "Palo del Colle",
+"sigla": "BA",
+"popolazione": 21555
+},
+{
+"codice": "058075",
+"nome": "Palombara Sabina",
+"sigla": "RM",
+"popolazione": 12167
+},
+{
+"codice": "078091",
+"nome": "Paola",
+"sigla": "CS",
+"popolazione": 16416
+},
+{
+"codice": "015168",
+"nome": "Parabiago",
+"sigla": "MI",
+"popolazione": 26617
+},
+{
+"codice": "061054",
+"nome": "Parete",
+"sigla": "CE",
+"popolazione": 11012
+},
+{
+"codice": "034027",
+"nome": "Parma",
+"sigla": "PR",
+"popolazione": 175895
+},
+{
+"codice": "081015",
+"nome": "Partanna",
+"sigla": "TP",
+"popolazione": 10854
+},
+{
+"codice": "082054",
+"nome": "Partinico",
+"sigla": "PA",
+"popolazione": 31401
+},
+{
+"codice": "087033",
+"nome": "Paternò",
+"sigla": "CT",
+"popolazione": 47870
+},
+{
+"codice": "083066",
+"nome": "Patti",
+"sigla": "ME",
+"popolazione": 13325
+},
+{
+"codice": "015169",
+"nome": "Paullo",
+"sigla": "MI",
+"popolazione": 11014
+},
+{
+"codice": "018110",
+"nome": "Pavia",
+"sigla": "PV",
+"popolazione": 68280
+},
+{
+"codice": "036030",
+"nome": "Pavullo nel Frignano",
+"sigla": "MO",
+"popolazione": 17198
+},
+{
+"codice": "087034",
+"nome": "Pedara",
+"sigla": "CT",
+"popolazione": 12896
+},
+{
+"codice": "065090",
+"nome": "Pellezzano",
+"sigla": "SA",
+"popolazione": 10580
+},
+{
+"codice": "068027",
+"nome": "Penne",
+"sigla": "PE",
+"popolazione": 12717
+},
+{
+"codice": "022139",
+"nome": "Pergine Valsugana",
+"sigla": "TN",
+"popolazione": 20446
+},
+{
+"codice": "015170",
+"nome": "Pero",
+"sigla": "MI",
+"popolazione": 10291
+},
+{
+"codice": "054039",
+"nome": "Perugia",
+"sigla": "PG",
+"popolazione": 162449
+},
+{
+"codice": "041044",
+"nome": "Pesaro",
+"sigla": "PU",
+"popolazione": 94237
+},
+{
+"codice": "023058",
+"nome": "Pescantina",
+"sigla": "VR",
+"popolazione": 16326
+},
+{
+"codice": "068028",
+"nome": "Pescara",
+"sigla": "PE",
+"popolazione": 117166
+},
+{
+"codice": "015171",
+"nome": "Peschiera Borromeo",
+"sigla": "MI",
+"popolazione": 22254
+},
+{
+"codice": "047012",
+"nome": "Pescia",
+"sigla": "PT",
+"popolazione": 19435
+},
+{
+"codice": "033032",
+"nome": "Piacenza",
+"sigla": "PC",
+"popolazione": 100311
+},
+{
+"codice": "001189",
+"nome": "Pianezza",
+"sigla": "TO",
+"popolazione": 14169
+},
+{
+"codice": "027028",
+"nome": "Pianiga",
+"sigla": "VE",
+"popolazione": 11968
+},
+{
+"codice": "063053",
+"nome": "Piano di Sorrento",
+"sigla": "NA",
+"popolazione": 12991
+},
+{
+"codice": "037047",
+"nome": "Pianoro",
+"sigla": "BO",
+"popolazione": 16890
+},
+{
+"codice": "086014",
+"nome": "Piazza Armerina",
+"sigla": "EN",
+"popolazione": 22196
+},
+{
+"codice": "028063",
+"nome": "Piazzola sul Brenta",
+"sigla": "PD",
+"popolazione": 11130
+},
+{
+"codice": "061057",
+"nome": "Piedimonte Matese",
+"sigla": "CE",
+"popolazione": 11504
+},
+{
+"codice": "046024",
+"nome": "Pietrasanta",
+"sigla": "LU",
+"popolazione": 24179
+},
+{
+"codice": "026057",
+"nome": "Pieve di Soligo",
+"sigla": "TV",
+"popolazione": 12057
+},
+{
+"codice": "015173",
+"nome": "Pieve Emanuele",
+"sigla": "MI",
+"popolazione": 14868
+},
+{
+"codice": "001191",
+"nome": "Pinerolo",
+"sigla": "TO",
+"popolazione": 34854
+},
+{
+"codice": "067035",
+"nome": "Pineto",
+"sigla": "TE",
+"popolazione": 14631
+},
+{
+"codice": "015175",
+"nome": "Pioltello",
+"sigla": "MI",
+"popolazione": 35066
+},
+{
+"codice": "049012",
+"nome": "Piombino",
+"sigla": "LI",
+"popolazione": 34419
+},
+{
+"codice": "001194",
+"nome": "Piossasco",
+"sigla": "TO",
+"popolazione": 18186
+},
+{
+"codice": "028065",
+"nome": "Piove di Sacco",
+"sigla": "PD",
+"popolazione": 19067
+},
+{
+"codice": "050026",
+"nome": "Pisa",
+"sigla": "PI",
+"popolazione": 85858
+},
+{
+"codice": "077020",
+"nome": "Pisticci",
+"sigla": "MT",
+"popolazione": 17361
+},
+{
+"codice": "047014",
+"nome": "Pistoia",
+"sigla": "PT",
+"popolazione": 89101
+},
+{
+"codice": "052022",
+"nome": "Poggibonsi",
+"sigla": "SI",
+"popolazione": 28952
+},
+{
+"codice": "063055",
+"nome": "Poggiomarino",
+"sigla": "NA",
+"popolazione": 21206
+},
+{
+"codice": "001197",
+"nome": "Poirino",
+"sigla": "TO",
+"popolazione": 10220
+},
+{
+"codice": "077021",
+"nome": "Policoro",
+"sigla": "MT",
+"popolazione": 15976
+},
+{
+"codice": "072035",
+"nome": "Polignano a Mare",
+"sigla": "BA",
+"popolazione": 17567
+},
+{
+"codice": "080061",
+"nome": "Polistena",
+"sigla": "RC",
+"popolazione": 10742
+},
+{
+"codice": "063056",
+"nome": "Pollena Trocchia",
+"sigla": "NA",
+"popolazione": 13514
+},
+{
+"codice": "058079",
+"nome": "Pomezia",
+"sigla": "RM",
+"popolazione": 56372
+},
+{
+"codice": "063057",
+"nome": "Pomigliano d'Arco",
+"sigla": "NA",
+"popolazione": 40083
+},
+{
+"codice": "063058",
+"nome": "Pompei",
+"sigla": "NA",
+"popolazione": 25440
+},
+{
+"codice": "050028",
+"nome": "Ponsacco",
+"sigla": "PI",
+"popolazione": 15237
+},
+{
+"codice": "048033",
+"nome": "Pontassieve",
+"sigla": "FI",
+"popolazione": 20529
+},
+{
+"codice": "028069",
+"nome": "Ponte San Nicolò",
+"sigla": "PD",
+"popolazione": 13237
+},
+{
+"codice": "016170",
+"nome": "Ponte San Pietro",
+"sigla": "BG",
+"popolazione": 11273
+},
+{
+"codice": "065099",
+"nome": "Pontecagnano Faiano",
+"sigla": "SA",
+"popolazione": 25096
+},
+{
+"codice": "060056",
+"nome": "Pontecorvo",
+"sigla": "FR",
+"popolazione": 13223
+},
+{
+"codice": "050029",
+"nome": "Pontedera",
+"sigla": "PI",
+"popolazione": 28061
+},
+{
+"codice": "059017",
+"nome": "Pontinia",
+"sigla": "LT",
+"popolazione": 13812
+},
+{
+"codice": "026059",
+"nome": "Ponzano Veneto",
+"sigla": "TV",
+"popolazione": 12194
+},
+{
+"codice": "093032",
+"nome": "Porcia",
+"sigla": "PN",
+"popolazione": 15251
+},
+{
+"codice": "093033",
+"nome": "Pordenone",
+"sigla": "PN",
+"popolazione": 50583
+},
+{
+"codice": "063059",
+"nome": "Portici",
+"sigla": "NA",
+"popolazione": 55765
+},
+{
+"codice": "084028",
+"nome": "Porto Empedocle",
+"sigla": "AG",
+"popolazione": 16841
+},
+{
+"codice": "020045",
+"nome": "Porto Mantovano",
+"sigla": "MN",
+"popolazione": 15918
+},
+{
+"codice": "043042",
+"nome": "Porto Recanati",
+"sigla": "MC",
+"popolazione": 11495
+},
+{
+"codice": "109033",
+"nome": "Porto San Giorgio",
+"sigla": "FM",
+"popolazione": 15957
+},
+{
+"codice": "109034",
+"nome": "Porto Sant'Elpidio",
+"sigla": "FM",
+"popolazione": 25324
+},
+{
+"codice": "029039",
+"nome": "Porto Tolle",
+"sigla": "RO",
+"popolazione": 10058
+},
+{
+"codice": "029052",
+"nome": "Porto Viro",
+"sigla": "RO",
+"popolazione": 14645
+},
+{
+"codice": "049014",
+"nome": "Portoferraio",
+"sigla": "LI",
+"popolazione": 11641
+},
+{
+"codice": "027029",
+"nome": "Portogruaro",
+"sigla": "VE",
+"popolazione": 25140
+},
+{
+"codice": "038019",
+"nome": "Portomaggiore",
+"sigla": "FE",
+"popolazione": 12185
+},
+{
+"codice": "076063",
+"nome": "Potenza",
+"sigla": "PZ",
+"popolazione": 66777
+},
+{
+"codice": "043043",
+"nome": "Potenza Picena",
+"sigla": "MC",
+"popolazione": 15843
+},
+{
+"codice": "088008",
+"nome": "Pozzallo",
+"sigla": "RG",
+"popolazione": 18929
+},
+{
+"codice": "063060",
+"nome": "Pozzuoli",
+"sigla": "NA",
+"popolazione": 80357
+},
+{
+"codice": "100005",
+"nome": "Prato",
+"sigla": "PO",
+"popolazione": 185456
+},
+{
+"codice": "026063",
+"nome": "Preganziol",
+"sigla": "TV",
+"popolazione": 16772
+},
+{
+"codice": "075098",
+"nome": "Presicce-Acquarica",
+"sigla": "LE",
+"popolazione": 10487
+},
+{
+"codice": "089021",
+"nome": "Priolo Gargallo",
+"sigla": "SR",
+"popolazione": 12167
+},
+{
+"codice": "059019",
+"nome": "Priverno",
+"sigla": "LT",
+"popolazione": 13891
+},
+{
+"codice": "063061",
+"nome": "Procida",
+"sigla": "NA",
+"popolazione": 10228
+},
+{
+"codice": "073022",
+"nome": "Pulsano",
+"sigla": "TA",
+"popolazione": 11062
+},
+{
+"codice": "072036",
+"nome": "Putignano",
+"sigla": "BA",
+"popolazione": 27083
+},
+{
+"codice": "063062",
+"nome": "Qualiano",
+"sigla": "NA",
+"popolazione": 24744
+},
+{
+"codice": "047017",
+"nome": "Quarrata",
+"sigla": "PT",
+"popolazione": 25378
+},
+{
+"codice": "063063",
+"nome": "Quarto",
+"sigla": "NA",
+"popolazione": 39221
+},
+{
+"codice": "035030",
+"nome": "Quattro Castella",
+"sigla": "RE",
+"popolazione": 12909
+},
+{
+"codice": "075063",
+"nome": "Racale",
+"sigla": "LE",
+"popolazione": 10734
+},
+{
+"codice": "004179",
+"nome": "Racconigi",
+"sigla": "CN",
+"popolazione": 10028
+},
+{
+"codice": "084030",
+"nome": "Raffadali",
+"sigla": "AG",
+"popolazione": 12837
+},
+{
+"codice": "088009",
+"nome": "Ragusa",
+"sigla": "RG",
+"popolazione": 69794
+},
+{
+"codice": "087037",
+"nome": "Ramacca",
+"sigla": "CT",
+"popolazione": 10775
+},
+{
+"codice": "087038",
+"nome": "Randazzo",
+"sigla": "CT",
+"popolazione": 11108
+},
+{
+"codice": "010046",
+"nome": "Rapallo",
+"sigla": "GE",
+"popolazione": 29226
+},
+{
+"codice": "084031",
+"nome": "Ravanusa",
+"sigla": "AG",
+"popolazione": 12128
+},
+{
+"codice": "039014",
+"nome": "Ravenna",
+"sigla": "RA",
+"popolazione": 153740
+},
+{
+"codice": "043044",
+"nome": "Recanati",
+"sigla": "MC",
+"popolazione": 21416
+},
+{
+"codice": "010047",
+"nome": "Recco",
+"sigla": "GE",
+"popolazione": 10106
+},
+{
+"codice": "048035",
+"nome": "Reggello",
+"sigla": "FI",
+"popolazione": 16076
+},
+{
+"codice": "080063",
+"nome": "Reggio di Calabria",
+"sigla": "RC",
+"popolazione": 180817
+},
+{
+"codice": "035033",
+"nome": "Reggio nell'Emilia",
+"sigla": "RE",
+"popolazione": 162082
+},
+{
+"codice": "078102",
+"nome": "Rende",
+"sigla": "CS",
+"popolazione": 33555
+},
+{
+"codice": "015181",
+"nome": "Rescaldina",
+"sigla": "MI",
+"popolazione": 13920
+},
+{
+"codice": "017161",
+"nome": "Rezzato",
+"sigla": "BS",
+"popolazione": 12933
+},
+{
+"codice": "015182",
+"nome": "Rho",
+"sigla": "MI",
+"popolazione": 50052
+},
+{
+"codice": "084033",
+"nome": "Ribera",
+"sigla": "AG",
+"popolazione": 19302
+},
+{
+"codice": "099013",
+"nome": "Riccione",
+"sigla": "RN",
+"popolazione": 34536
+},
+{
+"codice": "026068",
+"nome": "Riese Pio X",
+"sigla": "TV",
+"popolazione": 10858
+},
+{
+"codice": "085015",
+"nome": "Riesi",
+"sigla": "CL",
+"popolazione": 11814
+},
+{
+"codice": "057059",
+"nome": "Rieti",
+"sigla": "RI",
+"popolazione": 46187
+},
+{
+"codice": "099014",
+"nome": "Rimini",
+"sigla": "RN",
+"popolazione": 139601
+},
+{
+"codice": "076066",
+"nome": "Rionero in Vulture",
+"sigla": "PZ",
+"popolazione": 13444
+},
+{
+"codice": "087039",
+"nome": "Riposto",
+"sigla": "CT",
+"popolazione": 14181
+},
+{
+"codice": "022153",
+"nome": "Riva del Garda",
+"sigla": "TN",
+"popolazione": 15838
+},
+{
+"codice": "001214",
+"nome": "Rivalta di Torino",
+"sigla": "TO",
+"popolazione": 19245
+},
+{
+"codice": "001217",
+"nome": "Rivarolo Canavese",
+"sigla": "TO",
+"popolazione": 12356
+},
+{
+"codice": "001219",
+"nome": "Rivoli",
+"sigla": "TO",
+"popolazione": 48632
+},
+{
+"codice": "058086",
+"nome": "Rocca di Papa",
+"sigla": "RM",
+"popolazione": 15576
+},
+{
+"codice": "058088",
+"nome": "Rocca Priora",
+"sigla": "RM",
+"popolazione": 10819
+},
+{
+"codice": "058091",
+"nome": "Roma",
+"sigla": "RM",
+"popolazione": 2617175
+},
+{
+"codice": "024086",
+"nome": "Romano d'Ezzelino",
+"sigla": "VI",
+"popolazione": 14484
+},
+{
+"codice": "016183",
+"nome": "Romano di Lombardia",
+"sigla": "BG",
+"popolazione": 18784
+},
+{
+"codice": "026069",
+"nome": "Roncade",
+"sigla": "TV",
+"popolazione": 14037
+},
+{
+"codice": "031016",
+"nome": "Ronchi dei Legionari",
+"sigla": "GO",
+"popolazione": 11960
+},
+{
+"codice": "024087",
+"nome": "Rosà",
+"sigla": "VI",
+"popolazione": 14071
+},
+{
+"codice": "080069",
+"nome": "Rosarno",
+"sigla": "RC",
+"popolazione": 14380
+},
+{
+"codice": "067037",
+"nome": "Roseto degli Abruzzi",
+"sigla": "TE",
+"popolazione": 24940
+},
+{
+"codice": "049017",
+"nome": "Rosignano Marittimo",
+"sigla": "LI",
+"popolazione": 31752
+},
+{
+"codice": "089016",
+"nome": "Rosolini",
+"sigla": "SR",
+"popolazione": 21526
+},
+{
+"codice": "033039",
+"nome": "Rottofreno",
+"sigla": "PC",
+"popolazione": 11641
+},
+{
+"codice": "017166",
+"nome": "Rovato",
+"sigla": "BS",
+"popolazione": 17562
+},
+{
+"codice": "022161",
+"nome": "Rovereto",
+"sigla": "TN",
+"popolazione": 37754
+},
+{
+"codice": "029041",
+"nome": "Rovigo",
+"sigla": "RO",
+"popolazione": 50164
+},
+{
+"codice": "015189",
+"nome": "Rozzano",
+"sigla": "MI",
+"popolazione": 39983
+},
+{
+"codice": "028072",
+"nome": "Rubano",
+"sigla": "PD",
+"popolazione": 15669
+},
+{
+"codice": "035036",
+"nome": "Rubiera",
+"sigla": "RE",
+"popolazione": 14421
+},
+{
+"codice": "039016",
+"nome": "Russi",
+"sigla": "RA",
+"popolazione": 12083
+},
+{
+"codice": "072037",
+"nome": "Rutigliano",
+"sigla": "BA",
+"popolazione": 18418
+},
+{
+"codice": "072038",
+"nome": "Ruvo di Puglia",
+"sigla": "BA",
+"popolazione": 25662
+},
+{
+"codice": "059024",
+"nome": "Sabaudia",
+"sigla": "LT",
+"popolazione": 18812
+},
+{
+"codice": "093037",
+"nome": "Sacile",
+"sigla": "PN",
+"popolazione": 19897
+},
+{
+"codice": "065114",
+"nome": "Sala Consilina",
+"sigla": "SA",
+"popolazione": 12258
+},
+{
+"codice": "081018",
+"nome": "Salemi",
+"sigla": "TP",
+"popolazione": 10871
+},
+{
+"codice": "065116",
+"nome": "Salerno",
+"sigla": "SA",
+"popolazione": 132608
+},
+{
+"codice": "017170",
+"nome": "Salò",
+"sigla": "BS",
+"popolazione": 10350
+},
+{
+"codice": "034032",
+"nome": "Salsomaggiore Terme",
+"sigla": "PR",
+"popolazione": 19505
+},
+{
+"codice": "004203",
+"nome": "Saluzzo",
+"sigla": "CN",
+"popolazione": 17224
+},
+{
+"codice": "027032",
+"nome": "Salzano",
+"sigla": "VE",
+"popolazione": 12678
+},
+{
+"codice": "012118",
+"nome": "Samarate",
+"sigla": "VA",
+"popolazione": 16168
+},
+{
+"codice": "044066",
+"nome": "San Benedetto del Tronto",
+"sigla": "AP",
+"popolazione": 46963
+},
+{
+"codice": "026071",
+"nome": "San Biagio di Callalta",
+"sigla": "TV",
+"popolazione": 13039
+},
+{
+"codice": "023069",
+"nome": "San Bonifacio",
+"sigla": "VR",
+"popolazione": 20275
+},
+{
+"codice": "048038",
+"nome": "San Casciano in Val di Pesa",
+"sigla": "FI",
+"popolazione": 16883
+},
+{
+"codice": "085016",
+"nome": "San Cataldo",
+"sigla": "CL",
+"popolazione": 23424
+},
+{
+"codice": "058119",
+"nome": "San Cesareo",
+"sigla": "RM",
+"popolazione": 13806
+},
+{
+"codice": "061074",
+"nome": "San Cipriano d'Aversa",
+"sigla": "CE",
+"popolazione": 13416
+},
+{
+"codice": "027033",
+"nome": "San Donà di Piave",
+"sigla": "VE",
+"popolazione": 40646
+},
+{
+"codice": "015192",
+"nome": "San Donato Milanese",
+"sigla": "MI",
+"popolazione": 30992
+},
+{
+"codice": "061075",
+"nome": "San Felice a Cancello",
+"sigla": "CE",
+"popolazione": 17110
+},
+{
+"codice": "036037",
+"nome": "San Felice sul Panaro",
+"sigla": "MO",
+"popolazione": 11026
+},
+{
+"codice": "110007",
+"nome": "San Ferdinando di Puglia",
+"sigla": "BT",
+"popolazione": 13916
+},
+{
+"codice": "063066",
+"nome": "San Gennaro Vesuviano",
+"sigla": "NA",
+"popolazione": 11073
+},
+{
+"codice": "063067",
+"nome": "San Giorgio a Cremano",
+"sigla": "NA",
+"popolazione": 45523
+},
+{
+"codice": "020057",
+"nome": "San Giorgio Bigarello",
+"sigla": "MN",
+"popolazione": 11481
+},
+{
+"codice": "073024",
+"nome": "San Giorgio Ionico",
+"sigla": "TA",
+"popolazione": 15676
+},
+{
+"codice": "078119",
+"nome": "San Giovanni in Fiore",
+"sigla": "CS",
+"popolazione": 17912
+},
+{
+"codice": "037053",
+"nome": "San Giovanni in Persiceto",
+"sigla": "BO",
+"popolazione": 26992
+},
+{
+"codice": "087041",
+"nome": "San Giovanni la Punta",
+"sigla": "CT",
+"popolazione": 22049
+},
+{
+"codice": "023071",
+"nome": "San Giovanni Lupatoto",
+"sigla": "VR",
+"popolazione": 24148
+},
+{
+"codice": "071046",
+"nome": "San Giovanni Rotondo",
+"sigla": "FG",
+"popolazione": 27329
+},
+{
+"codice": "069081",
+"nome": "San Giovanni Teatino",
+"sigla": "CH",
+"popolazione": 12733
+},
+{
+"codice": "051033",
+"nome": "San Giovanni Valdarno",
+"sigla": "AR",
+"popolazione": 16890
+},
+{
+"codice": "015195",
+"nome": "San Giuliano Milanese",
+"sigla": "MI",
+"popolazione": 35971
+},
+{
+"codice": "050031",
+"nome": "San Giuliano Terme",
+"sigla": "PI",
+"popolazione": 31103
+},
+{
+"codice": "063068",
+"nome": "San Giuseppe Vesuviano",
+"sigla": "NA",
+"popolazione": 27467
+},
+{
+"codice": "054044",
+"nome": "San Giustino",
+"sigla": "PG",
+"popolazione": 11337
+},
+{
+"codice": "087042",
+"nome": "San Gregorio di Catania",
+"sigla": "CT",
+"popolazione": 11497
+},
+{
+"codice": "037054",
+"nome": "San Lazzaro di Savena",
+"sigla": "BO",
+"popolazione": 31091
+},
+{
+"codice": "061077",
+"nome": "San Marcellino",
+"sigla": "CE",
+"popolazione": 12643
+},
+{
+"codice": "071047",
+"nome": "San Marco in Lamis",
+"sigla": "FG",
+"popolazione": 14218
+},
+{
+"codice": "023073",
+"nome": "San Martino Buon Albergo",
+"sigla": "VR",
+"popolazione": 14283
+},
+{
+"codice": "028077",
+"nome": "San Martino di Lupari",
+"sigla": "PD",
+"popolazione": 13052
+},
+{
+"codice": "065122",
+"nome": "San Marzano sul Sarno",
+"sigla": "SA",
+"popolazione": 10225
+},
+{
+"codice": "040041",
+"nome": "San Mauro Pascoli",
+"sigla": "FC",
+"popolazione": 11090
+},
+{
+"codice": "001249",
+"nome": "San Mauro Torinese",
+"sigla": "TO",
+"popolazione": 18925
+},
+{
+"codice": "027034",
+"nome": "San Michele al Tagliamento",
+"sigla": "VE",
+"popolazione": 12028
+},
+{
+"codice": "050032",
+"nome": "San Miniato",
+"sigla": "PI",
+"popolazione": 27585
+},
+{
+"codice": "071049",
+"nome": "San Nicandro Garganico",
+"sigla": "FG",
+"popolazione": 15927
+},
+{
+"codice": "061078",
+"nome": "San Nicola la Strada",
+"sigla": "CE",
+"popolazione": 21157
+},
+{
+"codice": "074015",
+"nome": "San Pancrazio Salentino",
+"sigla": "BR",
+"popolazione": 10289
+},
+{
+"codice": "023076",
+"nome": "San Pietro in Cariano",
+"sigla": "VR",
+"popolazione": 12930
+},
+{
+"codice": "037055",
+"nome": "San Pietro in Casale",
+"sigla": "BO",
+"popolazione": 11736
+},
+{
+"codice": "074016",
+"nome": "San Pietro Vernotico",
+"sigla": "BR",
+"popolazione": 13974
+},
+{
+"codice": "061081",
+"nome": "San Prisco",
+"sigla": "CE",
+"popolazione": 11903
+},
+{
+"codice": "069083",
+"nome": "San Salvo",
+"sigla": "CH",
+"popolazione": 18848
+},
+{
+"codice": "043047",
+"nome": "San Severino Marche",
+"sigla": "MC",
+"popolazione": 13018
+},
+{
+"codice": "071051",
+"nome": "San Severo",
+"sigla": "FG",
+"popolazione": 54906
+},
+{
+"codice": "027036",
+"nome": "San Stino di Livenza",
+"sigla": "VE",
+"popolazione": 13042
+},
+{
+"codice": "065132",
+"nome": "San Valentino Torio",
+"sigla": "SA",
+"popolazione": 10439
+},
+{
+"codice": "026076",
+"nome": "San Vendemiano",
+"sigla": "TV",
+"popolazione": 10080
+},
+{
+"codice": "093041",
+"nome": "San Vito al Tagliamento",
+"sigla": "PN",
+"popolazione": 15011
+},
+{
+"codice": "074017",
+"nome": "San Vito dei Normanni",
+"sigla": "BR",
+"popolazione": 19620
+},
+{
+"codice": "008055",
+"nome": "Sanremo",
+"sigla": "IM",
+"popolazione": 54137
+},
+{
+"codice": "051034",
+"nome": "Sansepolcro",
+"sigla": "AR",
+"popolazione": 16108
+},
+{
+"codice": "062070",
+"nome": "Sant'Agata de' Goti",
+"sigla": "BN",
+"popolazione": 11310
+},
+{
+"codice": "083084",
+"nome": "Sant'Agata di Militello",
+"sigla": "ME",
+"popolazione": 12803
+},
+{
+"codice": "023077",
+"nome": "Sant'Ambrogio di Valpolicella",
+"sigla": "VR",
+"popolazione": 11422
+},
+{
+"codice": "063072",
+"nome": "Sant'Anastasia",
+"sigla": "NA",
+"popolazione": 27296
+},
+{
+"codice": "098050",
+"nome": "Sant'Angelo Lodigiano",
+"sigla": "LO",
+"popolazione": 12665
+},
+{
+"codice": "063073",
+"nome": "Sant'Antimo",
+"sigla": "NA",
+"popolazione": 34107
+},
+{
+"codice": "063074",
+"nome": "Sant'Antonio Abate",
+"sigla": "NA",
+"popolazione": 19546
+},
+{
+"codice": "061087",
+"nome": "Sant'Arpino",
+"sigla": "CE",
+"popolazione": 14076
+},
+{
+"codice": "109037",
+"nome": "Sant'Elpidio a Mare",
+"sigla": "FM",
+"popolazione": 16968
+},
+{
+"codice": "035039",
+"nome": "Sant'Ilario d'Enza",
+"sigla": "RE",
+"popolazione": 10939
+},
+{
+"codice": "050033",
+"nome": "Santa Croce sull'Arno",
+"sigla": "PI",
+"popolazione": 14061
+},
+{
+"codice": "082067",
+"nome": "Santa Flavia",
+"sigla": "PA",
+"popolazione": 10751
+},
+{
+"codice": "050035",
+"nome": "Santa Maria a Monte",
+"sigla": "PI",
+"popolazione": 12847
+},
+{
+"codice": "061082",
+"nome": "Santa Maria a Vico",
+"sigla": "CE",
+"popolazione": 14134
+},
+{
+"codice": "061083",
+"nome": "Santa Maria Capua Vetere",
+"sigla": "CE",
+"popolazione": 32503
+},
+{
+"codice": "027035",
+"nome": "Santa Maria di Sala",
+"sigla": "VE",
+"popolazione": 17295
+},
+{
+"codice": "063090",
+"nome": "Santa Maria la Carità",
+"sigla": "NA",
+"popolazione": 11726
+},
+{
+"codice": "058097",
+"nome": "Santa Marinella",
+"sigla": "RM",
+"popolazione": 17403
+},
+{
+"codice": "099018",
+"nome": "Santarcangelo di Romagna",
+"sigla": "RN",
+"popolazione": 20839
+},
+{
+"codice": "001257",
+"nome": "Santena",
+"sigla": "TO",
+"popolazione": 10738
+},
+{
+"codice": "072041",
+"nome": "Santeramo in Colle",
+"sigla": "BA",
+"popolazione": 26770
+},
+{
+"codice": "028085",
+"nome": "Saonara",
+"sigla": "PD",
+"popolazione": 10043
+},
+{
+"codice": "017174",
+"nome": "Sarezzo",
+"sigla": "BS",
+"popolazione": 13469
+},
+{
+"codice": "065135",
+"nome": "Sarno",
+"sigla": "SA",
+"popolazione": 31030
+},
+{
+"codice": "012119",
+"nome": "Saronno",
+"sigla": "VA",
+"popolazione": 38598
+},
+{
+"codice": "011027",
+"nome": "Sarzana",
+"sigla": "SP",
+"popolazione": 21829
+},
+{
+"codice": "037057",
+"nome": "Sasso Marconi",
+"sigla": "BO",
+"popolazione": 14545
+},
+{
+"codice": "036040",
+"nome": "Sassuolo",
+"sigla": "MO",
+"popolazione": 39885
+},
+{
+"codice": "073026",
+"nome": "Sava",
+"sigla": "TA",
+"popolazione": 16501
+},
+{
+"codice": "063076",
+"nome": "Saviano",
+"sigla": "NA",
+"popolazione": 15488
+},
+{
+"codice": "004215",
+"nome": "Savigliano",
+"sigla": "CN",
+"popolazione": 20935
+},
+{
+"codice": "040045",
+"nome": "Savignano sul Rubicone",
+"sigla": "FC",
+"popolazione": 17521
+},
+{
+"codice": "009056",
+"nome": "Savona",
+"sigla": "SV",
+"popolazione": 60661
+},
+{
+"codice": "065137",
+"nome": "Scafati",
+"sigla": "SA",
+"popolazione": 50013
+},
+{
+"codice": "078138",
+"nome": "Scalea",
+"sigla": "CS",
+"popolazione": 10152
+},
+{
+"codice": "035040",
+"nome": "Scandiano",
+"sigla": "RE",
+"popolazione": 24792
+},
+{
+"codice": "048041",
+"nome": "Scandicci",
+"sigla": "FI",
+"popolazione": 49765
+},
+{
+"codice": "048053",
+"nome": "Scarperia e San Piero",
+"sigla": "FI",
+"popolazione": 11968
+},
+{
+"codice": "024100",
+"nome": "Schio",
+"sigla": "VI",
+"popolazione": 39131
+},
+{
+"codice": "084041",
+"nome": "Sciacca",
+"sigla": "AG",
+"popolazione": 40899
+},
+{
+"codice": "088011",
+"nome": "Scicli",
+"sigla": "RG",
+"popolazione": 25922
+},
+{
+"codice": "087049",
+"nome": "Scordia",
+"sigla": "CT",
+"popolazione": 17185
+},
+{
+"codice": "027037",
+"nome": "Scorzè",
+"sigla": "VE",
+"popolazione": 18904
+},
+{
+"codice": "015204",
+"nome": "Sedriano",
+"sigla": "MI",
+"popolazione": 11270
+},
+{
+"codice": "015205",
+"nome": "Segrate",
+"sigla": "MI",
+"popolazione": 33519
+},
+{
+"codice": "028086",
+"nome": "Selvazzano Dentro",
+"sigla": "PD",
+"popolazione": 22145
+},
+{
+"codice": "015206",
+"nome": "Senago",
+"sigla": "MI",
+"popolazione": 20914
+},
+{
+"codice": "042045",
+"nome": "Senigallia",
+"sigla": "AN",
+"popolazione": 44361
+},
+{
+"codice": "046028",
+"nome": "Seravezza",
+"sigla": "LU",
+"popolazione": 13238
+},
+{
+"codice": "108039",
+"nome": "Seregno",
+"sigla": "MB",
+"popolazione": 43001
+},
+{
+"codice": "016198",
+"nome": "Seriate",
+"sigla": "BG",
+"popolazione": 24336
+},
+{
+"codice": "047020",
+"nome": "Serravalle Pistoiese",
+"sigla": "PT",
+"popolazione": 11517
+},
+{
+"codice": "061088",
+"nome": "Sessa Aurunca",
+"sigla": "CE",
+"popolazione": 22216
+},
+{
+"codice": "012120",
+"nome": "Sesto Calende",
+"sigla": "VA",
+"popolazione": 10819
+},
+{
+"codice": "048043",
+"nome": "Sesto Fiorentino",
+"sigla": "FI",
+"popolazione": 47742
+},
+{
+"codice": "015209",
+"nome": "Sesto San Giovanni",
+"sigla": "MI",
+"popolazione": 76514
+},
+{
+"codice": "010059",
+"nome": "Sestri Levante",
+"sigla": "GE",
+"popolazione": 18172
+},
+{
+"codice": "015211",
+"nome": "Settimo Milanese",
+"sigla": "MI",
+"popolazione": 19148
+},
+{
+"codice": "001265",
+"nome": "Settimo Torinese",
+"sigla": "TO",
+"popolazione": 46873
+},
+{
+"codice": "108040",
+"nome": "Seveso",
+"sigla": "MB",
+"popolazione": 22733
+},
+{
+"codice": "059028",
+"nome": "Sezze",
+"sigla": "LT",
+"popolazione": 24114
+},
+{
+"codice": "065142",
+"nome": "Siano",
+"sigla": "SA",
+"popolazione": 10074
+},
+{
+"codice": "080088",
+"nome": "Siderno",
+"sigla": "RC",
+"popolazione": 16879
+},
+{
+"codice": "052032",
+"nome": "Siena",
+"sigla": "SI",
+"popolazione": 52839
+},
+{
+"codice": "048044",
+"nome": "Signa",
+"sigla": "FI",
+"popolazione": 17451
+},
+{
+"codice": "067040",
+"nome": "Silvi",
+"sigla": "TE",
+"popolazione": 15401
+},
+{
+"codice": "052033",
+"nome": "Sinalunga",
+"sigla": "SI",
+"popolazione": 12476
+},
+{
+"codice": "089017",
+"nome": "Siracusa",
+"sigla": "SR",
+"popolazione": 118385
+},
+{
+"codice": "015213",
+"nome": "Solaro",
+"sigla": "MI",
+"popolazione": 13890
+},
+{
+"codice": "036044",
+"nome": "Soliera",
+"sigla": "MO",
+"popolazione": 15061
+},
+{
+"codice": "064101",
+"nome": "Solofra",
+"sigla": "AV",
+"popolazione": 12419
+},
+{
+"codice": "012123",
+"nome": "Somma Lombardo",
+"sigla": "VA",
+"popolazione": 16905
+},
+{
+"codice": "063079",
+"nome": "Somma Vesuviana",
+"sigla": "NA",
+"popolazione": 34592
+},
+{
+"codice": "023082",
+"nome": "Sommacampagna",
+"sigla": "VR",
+"popolazione": 14615
+},
+{
+"codice": "023083",
+"nome": "Sona",
+"sigla": "VR",
+"popolazione": 17030
+},
+{
+"codice": "014061",
+"nome": "Sondrio",
+"sigla": "SO",
+"popolazione": 21642
+},
+{
+"codice": "060074",
+"nome": "Sora",
+"sigla": "FR",
+"popolazione": 26247
+},
+{
+"codice": "034051",
+"nome": "Sorbolo Mezzani",
+"sigla": "PR",
+"popolazione": 12984
+},
+{
+"codice": "063080",
+"nome": "Sorrento",
+"sigla": "NA",
+"popolazione": 16563
+},
+{
+"codice": "036045",
+"nome": "Spilamberto",
+"sigla": "MO",
+"popolazione": 12130
+},
+{
+"codice": "093044",
+"nome": "Spilimbergo",
+"sigla": "PN",
+"popolazione": 11902
+},
+{
+"codice": "027038",
+"nome": "Spinea",
+"sigla": "VE",
+"popolazione": 26862
+},
+{
+"codice": "054051",
+"nome": "Spoleto",
+"sigla": "PG",
+"popolazione": 38429
+},
+{
+"codice": "068041",
+"nome": "Spoltore",
+"sigla": "PE",
+"popolazione": 18566
+},
+{
+"codice": "026082",
+"nome": "Spresiano",
+"sigla": "TV",
+"popolazione": 11659
+},
+{
+"codice": "075079",
+"nome": "Squinzano",
+"sigla": "LE",
+"popolazione": 14482
+},
+{
+"codice": "073029",
+"nome": "Statte",
+"sigla": "TA",
+"popolazione": 14194
+},
+{
+"codice": "016207",
+"nome": "Stezzano",
+"sigla": "BG",
+"popolazione": 12623
+},
+{
+"codice": "018153",
+"nome": "Stradella",
+"sigla": "PV",
+"popolazione": 11639
+},
+{
+"codice": "066098",
+"nome": "Sulmona",
+"sigla": "AQ",
+"popolazione": 24275
+},
+{
+"codice": "075083",
+"nome": "Surbo",
+"sigla": "LE",
+"popolazione": 14849
+},
+{
+"codice": "026083",
+"nome": "Susegana",
+"sigla": "TV",
+"popolazione": 11702
+},
+{
+"codice": "020065",
+"nome": "Suzzara",
+"sigla": "MN",
+"popolazione": 20545
+},
+{
+"codice": "008059",
+"nome": "Taggia",
+"sigla": "IM",
+"popolazione": 14032
+},
+{
+"codice": "083097",
+"nome": "Taormina",
+"sigla": "ME",
+"popolazione": 11084
+},
+{
+"codice": "073027",
+"nome": "Taranto",
+"sigla": "TA",
+"popolazione": 200154
+},
+{
+"codice": "056050",
+"nome": "Tarquinia",
+"sigla": "VT",
+"popolazione": 16016
+},
+{
+"codice": "080093",
+"nome": "Taurianova",
+"sigla": "RC",
+"popolazione": 15310
+},
+{
+"codice": "075084",
+"nome": "Taurisano",
+"sigla": "LE",
+"popolazione": 12643
+},
+{
+"codice": "030118",
+"nome": "Tavagnacco",
+"sigla": "UD",
+"popolazione": 14262
+},
+{
+"codice": "075085",
+"nome": "Taviano",
+"sigla": "LE",
+"popolazione": 12492
+},
+{
+"codice": "061091",
+"nome": "Teano",
+"sigla": "CE",
+"popolazione": 12587
+},
+{
+"codice": "067041",
+"nome": "Teramo",
+"sigla": "TE",
+"popolazione": 54294
+},
+{
+"codice": "072043",
+"nome": "Terlizzi",
+"sigla": "BA",
+"popolazione": 26986
+},
+{
+"codice": "082070",
+"nome": "Termini Imerese",
+"sigla": "PA",
+"popolazione": 26201
+},
+{
+"codice": "070078",
+"nome": "Termoli",
+"sigla": "CB",
+"popolazione": 32793
+},
+{
+"codice": "055032",
+"nome": "Terni",
+"sigla": "TR",
+"popolazione": 109193
+},
+{
+"codice": "059032",
+"nome": "Terracina",
+"sigla": "LT",
+"popolazione": 44233
+},
+{
+"codice": "051039",
+"nome": "Terranuova Bracciolini",
+"sigla": "AR",
+"popolazione": 12302
+},
+{
+"codice": "082071",
+"nome": "Terrasini",
+"sigla": "PA",
+"popolazione": 11985
+},
+{
+"codice": "038028",
+"nome": "Terre del Reno",
+"sigla": "FE",
+"popolazione": 10571
+},
+{
+"codice": "063082",
+"nome": "Terzigno",
+"sigla": "NA",
+"popolazione": 17367
+},
+{
+"codice": "061092",
+"nome": "Teverola",
+"sigla": "CE",
+"popolazione": 13610
+},
+{
+"codice": "024104",
+"nome": "Tezze sul Brenta",
+"sigla": "VI",
+"popolazione": 12600
+},
+{
+"codice": "024105",
+"nome": "Thiene",
+"sigla": "VI",
+"popolazione": 23254
+},
+{
+"codice": "058104",
+"nome": "Tivoli",
+"sigla": "RM",
+"popolazione": 52910
+},
+{
+"codice": "054052",
+"nome": "Todi",
+"sigla": "PG",
+"popolazione": 16900
+},
+{
+"codice": "043053",
+"nome": "Tolentino",
+"sigla": "MC",
+"popolazione": 20336
+},
+{
+"codice": "030121",
+"nome": "Tolmezzo",
+"sigla": "UD",
+"popolazione": 10570
+},
+{
+"codice": "001272",
+"nome": "Torino",
+"sigla": "TO",
+"popolazione": 872367
+},
+{
+"codice": "063083",
+"nome": "Torre Annunziata",
+"sigla": "NA",
+"popolazione": 43521
+},
+{
+"codice": "063084",
+"nome": "Torre del Greco",
+"sigla": "NA",
+"popolazione": 85922
+},
+{
+"codice": "074019",
+"nome": "Torre Santa Susanna",
+"sigla": "BR",
+"popolazione": 10703
+},
+{
+"codice": "071056",
+"nome": "Torremaggiore",
+"sigla": "FG",
+"popolazione": 17365
+},
+{
+"codice": "024108",
+"nome": "Torri di Quartesolo",
+"sigla": "VI",
+"popolazione": 11755
+},
+{
+"codice": "006174",
+"nome": "Tortona",
+"sigla": "AL",
+"popolazione": 25986
+},
+{
+"codice": "067044",
+"nome": "Tortoreto",
+"sigla": "TE",
+"popolazione": 10442
+},
+{
+"codice": "082073",
+"nome": "Trabia",
+"sigla": "PA",
+"popolazione": 10360
+},
+{
+"codice": "012127",
+"nome": "Tradate",
+"sigla": "VA",
+"popolazione": 17729
+},
+{
+"codice": "110009",
+"nome": "Trani",
+"sigla": "BT",
+"popolazione": 55842
+},
+{
+"codice": "081021",
+"nome": "Trapani",
+"sigla": "TP",
+"popolazione": 69241
+},
+{
+"codice": "017188",
+"nome": "Travagliato",
+"sigla": "BS",
+"popolazione": 13447
+},
+{
+"codice": "028093",
+"nome": "Trebaseleghe",
+"sigla": "PD",
+"popolazione": 12579
+},
+{
+"codice": "087050",
+"nome": "Trecastagni",
+"sigla": "CT",
+"popolazione": 10482
+},
+{
+"codice": "003149",
+"nome": "Trecate",
+"sigla": "NO",
+"popolazione": 19856
+},
+{
+"codice": "087051",
+"nome": "Tremestieri Etneo",
+"sigla": "CT",
+"popolazione": 21032
+},
+{
+"codice": "022205",
+"nome": "Trento",
+"sigla": "TN",
+"popolazione": 114198
+},
+{
+"codice": "061094",
+"nome": "Trentola Ducenta",
+"sigla": "CE",
+"popolazione": 17797
+},
+{
+"codice": "075087",
+"nome": "Trepuzzi",
+"sigla": "LE",
+"popolazione": 14277
+},
+{
+"codice": "016219",
+"nome": "Treviglio",
+"sigla": "BG",
+"popolazione": 28410
+},
+{
+"codice": "026085",
+"nome": "Trevignano",
+"sigla": "TV",
+"popolazione": 10565
+},
+{
+"codice": "016220",
+"nome": "Treviolo",
+"sigla": "BG",
+"popolazione": 10302
+},
+{
+"codice": "026086",
+"nome": "Treviso",
+"sigla": "TV",
+"popolazione": 81014
+},
+{
+"codice": "015220",
+"nome": "Trezzano sul Naviglio",
+"sigla": "MI",
+"popolazione": 20018
+},
+{
+"codice": "015221",
+"nome": "Trezzo sull'Adda",
+"sigla": "MI",
+"popolazione": 11883
+},
+{
+"codice": "075088",
+"nome": "Tricase",
+"sigla": "LE",
+"popolazione": 17665
+},
+{
+"codice": "032006",
+"nome": "Trieste",
+"sigla": "TS",
+"popolazione": 202123
+},
+{
+"codice": "072046",
+"nome": "Triggiano",
+"sigla": "BA",
+"popolazione": 27007
+},
+{
+"codice": "110010",
+"nome": "Trinitapoli",
+"sigla": "BT",
+"popolazione": 14293
+},
+{
+"codice": "001280",
+"nome": "Trofarello",
+"sigla": "TO",
+"popolazione": 10911
+},
+{
+"codice": "072047",
+"nome": "Turi",
+"sigla": "BA",
+"popolazione": 12748
+},
+{
+"codice": "012130",
+"nome": "Uboldo",
+"sigla": "VA",
+"popolazione": 10446
+},
+{
+"codice": "030129",
+"nome": "Udine",
+"sigla": "UD",
+"popolazione": 98287
+},
+{
+"codice": "075090",
+"nome": "Ugento",
+"sigla": "LE",
+"popolazione": 12001
+},
+{
+"codice": "054056",
+"nome": "Umbertide",
+"sigla": "PG",
+"popolazione": 16481
+},
+{
+"codice": "041067",
+"nome": "Urbino",
+"sigla": "PU",
+"popolazione": 15501
+},
+{
+"codice": "108044",
+"nome": "Usmate Velate",
+"sigla": "MB",
+"popolazione": 10033
+},
+{
+"codice": "024111",
+"nome": "Valdagno",
+"sigla": "VI",
+"popolazione": 26575
+},
+{
+"codice": "081022",
+"nome": "Valderice",
+"sigla": "TP",
+"popolazione": 11951
+},
+{
+"codice": "096088",
+"nome": "Valdilana",
+"sigla": "BI",
+"popolazione": 12067
+},
+{
+"codice": "026087",
+"nome": "Valdobbiadene",
+"sigla": "TV",
+"popolazione": 10690
+},
+{
+"codice": "023089",
+"nome": "Valeggio sul Mincio",
+"sigla": "VR",
+"popolazione": 14300
+},
+{
+"codice": "006177",
+"nome": "Valenza",
+"sigla": "AL",
+"popolazione": 19671
+},
+{
+"codice": "072048",
+"nome": "Valenzano",
+"sigla": "BA",
+"popolazione": 17897
+},
+{
+"codice": "041068",
+"nome": "Vallefoglia",
+"sigla": "PU",
+"popolazione": 14814
+},
+{
+"codice": "097083",
+"nome": "Valmadrera",
+"sigla": "LC",
+"popolazione": 11612
+},
+{
+"codice": "058110",
+"nome": "Valmontone",
+"sigla": "RM",
+"popolazione": 14975
+},
+{
+"codice": "037061",
+"nome": "Valsamoggia",
+"sigla": "BO",
+"popolazione": 29427
+},
+{
+"codice": "009065",
+"nome": "Varazze",
+"sigla": "SV",
+"popolazione": 13461
+},
+{
+"codice": "108045",
+"nome": "Varedo",
+"sigla": "MB",
+"popolazione": 12773
+},
+{
+"codice": "012133",
+"nome": "Varese",
+"sigla": "VA",
+"popolazione": 79793
+},
+{
+"codice": "069099",
+"nome": "Vasto",
+"sigla": "CH",
+"popolazione": 38747
+},
+{
+"codice": "050037",
+"nome": "Vecchiano",
+"sigla": "PI",
+"popolazione": 12366
+},
+{
+"codice": "026089",
+"nome": "Vedelago",
+"sigla": "TV",
+"popolazione": 16434
+},
+{
+"codice": "075092",
+"nome": "Veglie",
+"sigla": "LE",
+"popolazione": 14304
+},
+{
+"codice": "058111",
+"nome": "Velletri",
+"sigla": "RM",
+"popolazione": 52295
+},
+{
+"codice": "094052",
+"nome": "Venafro",
+"sigla": "IS",
+"popolazione": 11236
+},
+{
+"codice": "001292",
+"nome": "Venaria Reale",
+"sigla": "TO",
+"popolazione": 33741
+},
+{
+"codice": "027042",
+"nome": "Venezia",
+"sigla": "VE",
+"popolazione": 261362
+},
+{
+"codice": "076095",
+"nome": "Venosa",
+"sigla": "PZ",
+"popolazione": 12167
+},
+{
+"codice": "008065",
+"nome": "Ventimiglia",
+"sigla": "IM",
+"popolazione": 23926
+},
+{
+"codice": "103072",
+"nome": "Verbania",
+"sigla": "VB",
+"popolazione": 30332
+},
+{
+"codice": "002158",
+"nome": "Vercelli",
+"sigla": "VC",
+"popolazione": 46308
+},
+{
+"codice": "060085",
+"nome": "Veroli",
+"sigla": "FR",
+"popolazione": 20763
+},
+{
+"codice": "023091",
+"nome": "Verona",
+"sigla": "VR",
+"popolazione": 252520
+},
+{
+"codice": "056057",
+"nome": "Vetralla",
+"sigla": "VT",
+"popolazione": 13507
+},
+{
+"codice": "020066",
+"nome": "Viadana",
+"sigla": "MN",
+"popolazione": 19157
+},
+{
+"codice": "046033",
+"nome": "Viareggio",
+"sigla": "LU",
+"popolazione": 61857
+},
+{
+"codice": "102047",
+"nome": "Vibo Valentia",
+"sigla": "VV",
+"popolazione": 33357
+},
+{
+"codice": "024116",
+"nome": "Vicenza",
+"sigla": "VI",
+"popolazione": 111500
+},
+{
+"codice": "063086",
+"nome": "Vico Equense",
+"sigla": "NA",
+"popolazione": 20839
+},
+{
+"codice": "071060",
+"nome": "Vieste",
+"sigla": "FG",
+"popolazione": 13271
+},
+{
+"codice": "018177",
+"nome": "Vigevano",
+"sigla": "PV",
+"popolazione": 60109
+},
+{
+"codice": "036046",
+"nome": "Vignola",
+"sigla": "MO",
+"popolazione": 24344
+},
+{
+"codice": "028099",
+"nome": "Vigodarzere",
+"sigla": "PD",
+"popolazione": 12885
+},
+{
+"codice": "028100",
+"nome": "Vigonza",
+"sigla": "PD",
+"popolazione": 21993
+},
+{
+"codice": "017199",
+"nome": "Villa Carcina",
+"sigla": "BS",
+"popolazione": 10755
+},
+{
+"codice": "061099",
+"nome": "Villa Literno",
+"sigla": "CE",
+"popolazione": 10715
+},
+{
+"codice": "080096",
+"nome": "Villa San Giovanni",
+"sigla": "RC",
+"popolazione": 13395
+},
+{
+"codice": "082079",
+"nome": "Villabate",
+"sigla": "PA",
+"popolazione": 19819
+},
+{
+"codice": "023096",
+"nome": "Villafranca di Verona",
+"sigla": "VR",
+"popolazione": 32747
+},
+{
+"codice": "063087",
+"nome": "Villaricca",
+"sigla": "NA",
+"popolazione": 30052
+},
+{
+"codice": "108049",
+"nome": "Villasanta",
+"sigla": "MB",
+"popolazione": 13619
+},
+{
+"codice": "026091",
+"nome": "Villorba",
+"sigla": "TV",
+"popolazione": 17883
+},
+{
+"codice": "108050",
+"nome": "Vimercate",
+"sigla": "MB",
+"popolazione": 25309
+},
+{
+"codice": "015242",
+"nome": "Vimodrone",
+"sigla": "MI",
+"popolazione": 16426
+},
+{
+"codice": "048050",
+"nome": "Vinci",
+"sigla": "FI",
+"popolazione": 14105
+},
+{
+"codice": "001309",
+"nome": "Vinovo",
+"sigla": "TO",
+"popolazione": 14108
+},
+{
+"codice": "056059",
+"nome": "Viterbo",
+"sigla": "VT",
+"popolazione": 63209
+},
+{
+"codice": "088012",
+"nome": "Vittoria",
+"sigla": "RG",
+"popolazione": 61006
+},
+{
+"codice": "026092",
+"nome": "Vittorio Veneto",
+"sigla": "TV",
+"popolazione": 28656
+},
+{
+"codice": "018182",
+"nome": "Voghera",
+"sigla": "PV",
+"popolazione": 38174
+},
+{
+"codice": "063089",
+"nome": "Volla",
+"sigla": "NA",
+"popolazione": 22989
+},
+{
+"codice": "026093",
+"nome": "Volpago del Montello",
+"sigla": "TV",
+"popolazione": 10045
+},
+{
+"codice": "001314",
+"nome": "Volpiano",
+"sigla": "TO",
+"popolazione": 14998
+},
+{
+"codice": "050039",
+"nome": "Volterra",
+"sigla": "PI",
+"popolazione": 10689
+},
+{
+"codice": "058114",
+"nome": "Zagarolo",
+"sigla": "RM",
+"popolazione": 16922
+},
+{
+"codice": "026095",
+"nome": "Zero Branco",
+"sigla": "TV",
+"popolazione": 10986
+},
+{
+"codice": "023097",
+"nome": "Zevio",
+"sigla": "VR",
+"popolazione": 14413
+},
+{
+"codice": "037060",
+"nome": "Zola Predosa",
+"sigla": "BO",
+"popolazione": 18193
+}
+]
+}

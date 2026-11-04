@@ -187,6 +187,8 @@ LiveLocal è una guida a **cose da andare a vedere o fare**: chi legge vuole sap
 
 Per le locandine vale lo stesso: prima leggi di che cosa tratta, poi decidi. «Consiglio Comunale» scritto in grande su un manifesto è un atto amministrativo: si scarta senza cercare altro.
 
+**Luogo «centro storico» (decisione di Giuseppe, 4/11/2026).** «Centro storico», «piazza principale» o «vie del centro» sono un luogo valido quando la fonte non dice altro: nei piccoli e medi comuni è il modo corretto di indicare dove si svolge. Si scarta solo un evento senza alcun luogo, con luoghi in contrasto tra le fonti o fuori dal comune.
+
 ## 5. Controllo in 4 punti (per ogni evento)
 
 1. **Esiste**: la pagina letta riporta titolo, data e luogo.

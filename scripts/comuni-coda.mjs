@@ -8,7 +8,10 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
 const province = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
-const ordinati = [...territorio.comuni].sort((a, b) => a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat));
+// Se esiste ricerca/comuni-grandi.json si trattano prima i comuni con almeno 10.000 abitanti (poi tutti gli altri).
+const grandi = existsSync('ricerca/comuni-grandi.json') ? new Set(JSON.parse(readFileSync('ricerca/comuni-grandi.json', 'utf8')).comuni.map((c) => c.codice)) : new Set();
+const ordinati = [...territorio.comuni].sort((a, b) => Number(grandi.has(b.codiceIstat)) - Number(grandi.has(a.codiceIstat)) || a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat));
+const _vecchio = [...territorio.comuni].sort((a, b) => a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat));
 const FILE = 'ricerca/comuni-progresso.json';
 const prog = existsSync(FILE) ? JSON.parse(readFileSync(FILE, 'utf8')) : { _nota: 'Comuni già censiti, in ordine alfabetico (scripts/comuni-coda.mjs). esito: eventi | nessun-evento | fonti-illeggibili.', fatti: {} };
 const [cmd, arg] = process.argv.slice(2);

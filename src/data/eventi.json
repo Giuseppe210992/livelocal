@@ -36495,5 +36495,38 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-natale-natalife-alife",
+    "titolo": "Mercatino di Natale (Natalife 13.0)",
+    "categoria": "mercatino",
+    "inizio": "2026-12-19T17:00",
+    "fine": "2026-12-20T22:00",
+    "luogo": "Centro storico di Alife",
+    "indirizzo": "Centro storico, Alife",
+    "cap": null,
+    "comune": "061002",
+    "frazione": null,
+    "lat": 41.32346,
+    "lon": 14.3338,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale con bancarelle di artigiani, hobbisti e produttori locali, dentro la manifestazione Natalife. Si apre sabato 19 dicembre dalle 17 alle 22 e prosegue domenica 20 dalle 10 alle 22.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Alifana APS",
+    "fonti": [
+      {
+        "nome": "Pro Loco Alifana APS (Facebook)",
+        "tipo": "organizzatore",
+        "url": "https://www.facebook.com/ProLocoAlifana/posts/-torna-il-mercatino-di-natale-ad-alife-19-e-20-dicembre-2026-centro-storico-di-a/1580681797438602/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
