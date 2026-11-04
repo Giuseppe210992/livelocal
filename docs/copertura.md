@@ -36,6 +36,6 @@ Nessuna: tutte le province hanno almeno un evento.
 ## Instagram
 
 - Account leggibili ogni giorno: **76**
-- Candidati in attesa di essere valutati: 1069
+- Candidati in attesa di essere valutati: 1184
 - Account provati e non adatti o non leggibili: 22
-- Link a post in attesa di controllo: 0
+- Link a post in attesa di controllo: 13

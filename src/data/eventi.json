@@ -32694,5 +32694,37 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "meteolab-climalab-2026-forte-di-bard",
+    "titolo": "MeteoLab e ClimaLab 2026: cambiamenti climatici e fauna alpina",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Forte di Bard",
+    "indirizzo": "Bard (Valle d'Aosta)",
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.6107,
+    "lon": 7.745,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di confronto tra ricerca scientifica, osservazioni sul campo, tutela della biodiversità e riflessioni giuridiche, introdotta dal climatologo Luca Mercalli (XVII edizione di MeteoLab e VIII di ClimaLab). Partecipazione gratuita con iscrizione obbligatoria dal modulo sul sito del Forte.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Forte di Bard",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Forte di Bard (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUFbfWCT4Q/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
