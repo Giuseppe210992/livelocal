@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **529 pagine di 368 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 43 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **582 pagine di 404 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 43 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -22,6 +22,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Fiera Nazionale di San Martino Chieri - Programma | organizzatore | 11 | https://www.fierasanmartinochieri.it/programma | 2026-11-04 |
+| Comune di Chieri - Eventi | ufficiale | 4 | https://www.comune.chieri.to.it/it/eventi | 2026-11-04 |
 | Diocesi di Torino (calendario) | stampa | 4 | https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-cera-una-svolta-festival-sulle-svolte-storiche-dellumanita-7 (+1 altre pagine) | 2026-11-04 |
 | La Ghironda Carmagnola - profilo su Agenda Trad | organizzatore | 2 | https://agendatrad.org/orga/la-ghironda-carmagnola.tpwkqjrj?lang=it | 2026-11-04 |
 | Gallerie d'Italia Torino | ufficiale | 2 | https://www.gallerieditalia.com/it/torino/mostre-e-iniziative | 2026-11-03 |
@@ -39,6 +41,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | ARONAnelWEB | stampa | 7 | https://www.aronanelweb.it/evento/rassegna-cai-arona-i-ritmi-della-montagna-con-max-cassani (+2 altre pagine) | 2026-11-04 |
 | ATL Novara - Calendario eventi | ufficiale | 4 | https://www.turismonovara.it/it/eventimanifestazioni | 2026-11-03 |
+| Comune di Castelletto Sopra Ticino - Eventi | ufficiale | 3 | https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/sotto-i-veli-del-tempo-132894-1-9f06e9ee956f1f1c5d42ac283c0ce14a (+2 altre pagine) | 2026-11-04 |
 | Comune di Cameri - Eventi | ufficiale | 1 | https://comune.cameri.no.it/vivere-il-comune/eventi | 2026-11-04 |
 
 ### Cuneo (CN)
@@ -113,6 +116,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Cardano al Campo - Eventi | ufficiale | 4 | https://comune.cardanoalcampo.va.it/vivere-il-comune/evento/cardano-al-cinema-cineforum-2026-2027 (+3 altre pagine) | 2026-11-04 |
 | in-Lombardia (Regione Lombardia) | ufficiale | 2 | https://www.in-lombardia.it/evento/novembre-2026-i-principali-eventi-provincia-di-varese | 2026-11-04 |
 | Museo MA*GA | ufficiale | 2 | https://www.museomaga.it/ | 2026-11-03 |
+| Cinema Teatro Auditorio - Cassano Magnago | organizzatore | 1 | https://www.auditoriocassano.it/ | 2026-11-04 |
 | Comune di Busto Arsizio, eventi | ufficiale | 1 | https://www.comune.bustoarsizio.va.it/it/eventi | 2026-11-04 |
 | Fondazione Marcello Morandini | organizzatore | 1 | https://www.fondazionemarcellomorandini.com/fondazione-marcello-morandini-eventi/sintonie-stagione-concertistica-2026 | 2026-11-04 |
 | Frontaliere Ticino | stampa | 1 | https://frontaliereticino.ch/articoli-frontaliere/mostre-maga-gallarate-2026 | 2026-11-03 |
@@ -143,8 +147,12 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Museo del Novecento - Comune di Milano | ufficiale | 13 | https://www.museodelnovecento.org/it/eventi | 2026-11-04 |
 | Piccolo Teatro di Milano - Prossimi spettacoli | ufficiale | 11 | https://www.piccoloteatro.org/it/pages/prossimi-spettacoli | 2026-11-04 |
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
+| Comune di Cernusco sul Naviglio - Intelligenza Artificiale | ufficiale | 8 | https://comune.cernuscosulnaviglio.mi.it/novita/notizia/intelligenza-artificiale (+2 altre pagine) | 2026-11-04 |
+| Comune di Cesate - Eventi (Uncinetto) | ufficiale | 7 | https://comune.cesate.mi.it/vivere-il-comune/evento/uncinetto-per-giovani-creativi (+1 altre pagine) | 2026-11-04 |
 | Triennale Milano - Voce Triennale | ufficiale | 7 | https://triennale.org/voce-triennale | 2026-11-04 |
+| Comune di Cassano d'Adda - Eventi | ufficiale | 5 | https://www.comune.cassanodadda.mi.it/it/eventi | 2026-11-04 |
 | Palazzo Reale Milano - Mostre 2026 | ufficiale | 5 | https://www.palazzorealemilano.it/mostre-in-programma/mostre-2026 | 2026-11-04 |
+| Comune di Cerro Maggiore - Tempo libero | ufficiale | 4 | https://www.comune.cerromaggiore.mi.it/novita/notizie/novita_772.html (+1 altre pagine) | 2026-11-04 |
 | MUDEC - Mostre in corso | ufficiale | 3 | https://www.mudec.it/mostre-in-corso-2 (+1 altre pagine) | 2026-11-04 |
 | Comune di Canegrate - Eventi | ufficiale | 2 | https://comune.canegrate.mi.it/vivere-il-comune/eventi | 2026-11-04 |
 | LaBolla, Bollate | organizzatore | 2 | https://labollateatro.it/ | 2026-11-04 |
@@ -181,9 +189,11 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Grande di Brescia - Calendario | ufficiale | 14 | https://teatrogrande.it/it/calendario | 2026-11-04 |
 | Comune di Adro | ufficiale | 4 | https://www.comune.adro.bs.it/vivere-il-comune/eventi/calici-di-poesia (+3 altre pagine) | 2026-11-04 |
 | Comune di Bedizzole - Eventi | ufficiale | 4 | https://www.comune.bedizzole.bs.it/area_letturaEvento/11510/pagsistema.html (+3 altre pagine) | 2026-11-04 |
+| Comune di Cazzago San Martino - Eventi | ufficiale | 3 | https://comune.cazzago.bs.it/vivere-il-comune/eventi | 2026-11-04 |
 | Comune di Brescia - Eventi | ufficiale | 2 | https://www.comune.brescia.it/it/eventi | 2026-11-04 |
 | Comune di Carpenedolo - avvisi (home) | ufficiale | 2 | https://www.comune.carpenedolo.bs.it/ | 2026-11-04 |
 | Comune di Botticino - Eventi | ufficiale | 1 | https://www.comune.botticino.bs.it/pagina133703_eventi.html | 2026-11-04 |
+| Comune di Castel Mella - news | ufficiale | 1 | https://www.comune.castelmella.bs.it/it/news/un-libro-per-piacere | 2026-11-04 |
 | Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica) | aggregatore | 1 | https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449 | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana | 2026-11-03 |
 | Pro Loco Botticino - Eventi | organizzatore | 1 | https://prolocobotticino.it/eventi | 2026-11-04 |
@@ -213,6 +223,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Asola - Eventi | ufficiale | 5 | https://www.comune.asola.mn.it/vivere-il-comune/eventi/san-francesco-800-anni-dalla-morte-1226-2026 (+3 altre pagine) | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 2 | https://www.in-lombardia.it/evento/mantova-jazz-2026 (+1 altre pagine) | 2026-11-03 |
 | Centro Palazzo Te | organizzatore | 1 | https://www.centropalazzote.it/inventare-la-natura-leonardo-arcimboldo-caravaggio | 2026-11-03 |
+| Comune di Castel Goffredo - eventi | ufficiale | 1 | https://www.comune.castelgoffredo.mn.it/it/events/anselmo-e-giacomo-due-voci-per-la-costituzione-8-11-26 | 2026-11-04 |
+| Valore Castiglione (sito promozionale del Comune) | ufficiale | 1 | https://www.valorecastiglione.it/ | 2026-11-04 |
 
 ### Lecco (LC)
 
@@ -281,6 +293,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Piazza in Festa - scheda evento | aggregatore | 3 | https://veneto.piazzainfesta.it/bovolone/villaggio-di-natale-a-bovolone-125618 | 2026-11-04 |
 | Fondazione Arena di Verona - Teatro Filarmonico | organizzatore | 2 | https://www.arena.it/teatro-filarmonico-verona/spettacoli | 2026-11-03 |
 | Arte.it - Calendario mostre Verona | aggregatore | 1 | https://arte.it/calendario-arte/verona/2026/11/12 | 2026-11-03 |
+| Garda Outdoors | aggregatore | 1 | https://www.garda-outdoors.com/le-storie-di-pallalunga-al-teatro-comunale-dim-di-castelnuovo-del-garda | 2026-11-04 |
 | Verona Run Marathon (sito ufficiale) | organizzatore | 1 | https://www.veronarunmarathon.it/ | 2026-11-03 |
 
 ### Vicenza (VI)
@@ -290,6 +303,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Comunale Città di Vicenza, calendario | ufficiale | 15 | https://www.tcvi.it/it/eventi/calendario-eventi | 2026-11-04 |
 | Casa al Carmine - Mostre in Veneto 2026-2027 | aggregatore | 5 | https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027 | 2026-11-03 |
 | InArzignano (portale del Comune) | ufficiale | 4 | https://www.inarzignano.it/2026/11/mondovisioni2026 (+1 altre pagine) | 2026-11-04 |
+| Occhi Eventi - Eventi a Cassola | aggregatore | 4 | https://www.occhi.it/eventi/cassola/intrattenimento?srsltid=AYCX9vKdPi8EHyTz9t4YftJOjax4YiIiBnP4EsiL0W5lsWK8cYBBBz6O | 2026-11-04 |
+| Fondazione Aida - Auditorium Vivaldi Cassola | organizzatore | 2 | https://www.fondazioneaida.it/auditorium-a-vivaldi-di-cassola | 2026-11-04 |
 | Comune di Altavilla Vicentina | ufficiale | 1 | https://comune.altavillavicentina.vi.it/novita/cerimonia-4-novembre-2026-festa-dellunita-nazionale-110-anniversario-della-vittoria-della-guerra | 2026-11-04 |
 | VIVA - Eventi Vicenza (Comune di Vicenza) | ufficiale | 1 | https://eventi.comune.vicenza.it/Eventi/Mostra-Italia-Germania.-Pittura-e-scultura-tra-Ottocento-e-Novecento.-Da-Canova-a-Kiefer | 2026-11-03 |
 | Musei Biblioteca Archivio di Bassano del Grappa | ufficiale | 1 | https://www.museibassano.it/it/eventi | 2026-11-04 |
@@ -316,6 +331,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Teatro La Fenice, calendario | ufficiale | 9 | https://www.teatrolafenice.it/en/whats-on | 2026-11-04 |
 | Arteven - stagione 2026/2027 del Teatro Dario Fo | ufficiale | 2 | https://www.arteven.it/camponogara-in-partenza-la-stagione-2026-2027-del-teatro-comunale-dario | 2026-11-04 |
+| Cultura Veneto (Regione Veneto) | ufficiale | 2 | https://www.culturaveneto.it/cultura-tradizione/feste-popolari-rievocazioni/73832d16-81ac-49ae-9063-77375f1e6023 | 2026-11-04 |
 | Arte Laguna Prize (organizzatore) | organizzatore | 1 | https://artelagunaprize.com/exhibition-2026 | 2026-11-03 |
 | Caorle.com - Paolo Ruffini Din Don Down | aggregatore | 1 | https://www.caorle.com/en/news-events/paolo-ruffini-din-don-down-at-palaexpomar-in-caorle | 2026-11-04 |
 | Comune di Campolongo Maggiore - Novità | ufficiale | 1 | https://www.comune.campolongo.ve.it/novita/15-novembre-camminata-azzurra-insieme-per-la-prevenzione | 2026-11-04 |
@@ -349,6 +365,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Teatro Nuovo Giovanni da Udine | organizzatore | 4 | https://www.teatroudine.it/ | 2026-11-04 |
+| PromoTurismoFVG (elenco eventi nei borghi) | ufficiale | 2 | https://www.turismofvg.it/it/borghi-storici/eventi-nei-borghi | 2026-11-04 |
+| GiroFVG - Feste e fiere di San Martino 2026 | aggregatore | 1 | https://www.girofvg.com/feste-fiere-san-martino-2026 | 2026-11-04 |
 | Grado.it - Eventi ed escursioni (Consorzio Grado Turismo) | aggregatore | 1 | https://grado.it/it/eventi-ed-escursioni | 2026-11-04 |
 | SiViaggia | stampa | 1 | https://siviaggia.it/notizie/sagre-feste-friuli-venezia-giulia-novembre-2026/606010 | 2026-11-03 |
 
@@ -374,7 +392,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Verdi Pordenone - biglietteria online | organizzatore | 6 | https://teatroverdipordenone.ticka.it/ | 2026-11-04 |
 | Instart - programmazione 2026/27 del Teatro Verdi | stampa | 5 | https://www.instart.info/teatro-verdi-di-pordenone-presenta-la-programmazione-2026-2027 | 2026-11-04 |
 | SagraMap | aggregatore | 2 | https://sagramap.com/friuli-venezia-giulia/pordenone (+1 altre pagine) | 2026-11-04 |
-| PromoTurismoFVG (elenco eventi nei borghi) | ufficiale | 1 | https://www.turismofvg.it/it/borghi-storici/eventi-nei-borghi | 2026-11-04 |
+| PromoTurismoFVG (elenco eventi nei borghi) | ufficiale | 2 | https://www.turismofvg.it/it/borghi-storici/eventi-nei-borghi | 2026-11-04 |
 
 ## Liguria
 
@@ -399,6 +417,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Palazzo Ducale Genova - calendario mostre e eventi | organizzatore | 11 | https://palazzoducale.genova.it/calendario-eventi | 2026-11-04 |
+| Comune di Chiavari - Eventi (MORE JAZZ) | ufficiale | 8 | https://www.comune.chiavari.ge.it/it/events/more-jazz-experience-ii-edizione-2026 (+2 altre pagine) | 2026-11-04 |
 | Cronache Ponentine | stampa | 2 | https://www.cronacheponentine.com/calendario-eventi | 2026-11-04 |
 | La Mia Liguria (agenzia regionale «in Liguria») | ufficiale | 2 | https://lamialiguria.it/eventi/tartufando-a-genova (+1 altre pagine) | 2026-11-03 |
 
@@ -433,6 +452,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Reggio Emilia Welcome - Novembre 2026 (IAT-R, Comune) | ufficiale | 7 | https://www.reggioemiliawelcome.it/it/eventi/calendari-mensili/novembre-2026 | 2026-11-03 |
 | Teatro De André - Nuovi linguaggi | organizzatore | 5 | https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi | 2026-11-04 |
+| Comune di Castellarano - Eventi | ufficiale | 4 | https://www.comune.castellarano.re.it/it/eventi/alessandro-di-modica-a-on-focus (+3 altre pagine) | 2026-11-04 |
 | Unione Tresinaro Secchia - agenda Casalgrande | ufficiale | 1 | https://unionetresinarosecchia.it/eventi?comune=Casalgrande | 2026-11-04 |
 
 ### Modena (MO)
@@ -443,18 +463,21 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Carpi - Eventi (home) | ufficiale | 2 | https://www.comune.carpi.mo.it/ | 2026-11-04 |
 | Gioventù Musicale d'Italia, sede di Modena – calendario concerti | organizzatore | 2 | https://gmimodena.it/calendario-dei-concerti | 2026-11-04 |
 | Teatro Comunale di Carpi | ufficiale | 2 | https://teatrocarpi.it/ | 2026-11-04 |
+| CheSagra! | aggregatore | 1 | https://www.chesagra.it/emilia-romagna/mo/castelnuovo-rangone/superzampone | 2026-11-04 |
 
 ### Bologna (BO)
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Calendario del Comune di Bologna (culturabologna.it) | ufficiale | 33 | https://www.culturabologna.it/agenda (+2 altre pagine) | 2026-11-04 |
+| Comune di Castenaso - Eventi | ufficiale | 6 | https://www.comune.castenaso.bo.it/it-it/vivere-il-comune/eventi | 2026-11-04 |
 | Bologna Città della Musica (Comune di Bologna) | ufficiale | 5 | https://cittadellamusica.comune.bologna.it/calendario-citta-della-musica | 2026-11-04 |
 
 ### Ferrara (FE)
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Comune di Cento - Eventi | ufficiale | 6 | https://www.comune.cento.fe.it/it/eventi (+2 altre pagine) | 2026-11-04 |
 | Valli di Argenta - Ecomuseo | organizzatore | 6 | https://www.vallidiargenta.org/eventi | 2026-11-04 |
 | InFerrara - Agenda eventi (Comune di Ferrara) | ufficiale | 5 | https://www.inferrara.it/agenda-eventi | 2026-11-04 |
 | Spettacolo in Emilia-Romagna - Teatro Comunale Ferrara, Opera & Danza 2026/27 | ufficiale | 2 | https://spettacolo.emiliaromagnacultura.it/it/rassegna/teatro-comunale-ferrara-opera-danza-2026-2027 | 2026-11-04 |
@@ -464,6 +487,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Turismo Cervia - Gli eventi di dicembre | ufficiale | 8 | https://www.turismo.comunecervia.it/it/eventi/manifestazioni-e-iniziative/gli-eventi-di-dicembre (+1 altre pagine) | 2026-11-04 |
 | Bagnacavallo Cultura | ufficiale | 4 | https://bagnacavallocultura.it/il-programma | 2026-11-04 |
 | Comune di Ravenna - Eventi | ufficiale | 2 | https://comune.ravenna.it/vivere-il-comune/eventi/mostra | 2026-11-03 |
 | Vivi Romagna | aggregatore | 2 | https://www.viviromagna.it/bagnacavallo | 2026-11-04 |
@@ -475,7 +499,11 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | ERT - Teatro Bonci, stagione 2026/27 | organizzatore | 6 | https://cesena.emiliaromagnateatro.com/la-stagione-2026-2027 | 2026-11-04 |
 | Spettacolo in Emilia-Romagna - Teatro Diego Fabbri di Forlì, stagione 2026/27 | ufficiale | 6 | https://spettacolo.emiliaromagnacultura.it/it/rassegna/teatro-diego-fabbri-di-forli-stagione-2026-27 | 2026-11-04 |
 | Visit Bertinoro - Festa di Santa Caterina 2026 | ufficiale | 5 | https://www.visitbertinoro.it/it/eventi/festa-di-santa-caterina-2026 | 2026-11-04 |
+| Comune di Cesena - Agenda cultura | ufficiale | 4 | https://sititematici.comune.cesena.fc.it/agenda-cultura | 2026-11-04 |
+| Vivi Cesena - Prossimi eventi | aggregatore | 2 | https://www.vivicesena.it/eventi_prossimi.php | 2026-11-04 |
 | Emilia Romagna Turismo (Regione Emilia-Romagna) | ufficiale | 1 | https://emiliaromagnaturismo.it/it/eventi/civitella-romagna-cusercoli-sagra-tartufo-bianco-pregiato-bidente | 2026-11-03 |
+| Ideanet - Mercatini di Natale 2026 a Cesenatico | aggregatore | 1 | https://ideanet.it/mercatini-natale-cesenatico-2026 | 2026-11-04 |
+| Visit Cesenatico - I mercatini di Natale | ufficiale | 1 | https://visitcesenatico.it/vivi-cesenatico/eventi/i-mercatini-di-natale | 2026-11-04 |
 
 ### Rimini (RN)
 
@@ -485,6 +513,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fellini Museum - Eventi e News | organizzatore | 3 | https://fellinimuseum.it/news-eventi | 2026-11-04 |
 | Comune di Bellaria Igea Marina - Eventi | ufficiale | 2 | https://www.comune.bellaria-igea-marina.rn.it/it/events/wonder-walks-christmas (+1 altre pagine) | 2026-11-04 |
 | Comune di Rimini | ufficiale | 2 | https://www.comune.rimini.it/novita/notizie/dal-2-al-27-novembre-torna-il-festival-del-mondo-antico | 2026-11-03 |
+| Gli Eventi di Cattolica (cattolica.info) | aggregatore | 1 | https://www.cattolica.info/eventi | 2026-11-04 |
 | Visit Rimini - Events | ufficiale | 1 | https://www.visitrimini.com/en/events | 2026-11-04 |
 
 ## Toscana
@@ -523,7 +552,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Calenzano - Eventi | ufficiale | 5 | https://www.comune.calenzano.fi.it/it/events/t-immagini-stagione-teatrale-2026-2027-727193 (+4 altre pagine) | 2026-11-04 |
 | Comune di Borgo San Lorenzo, eventi | ufficiale | 2 | https://www.comune.borgo-san-lorenzo.fi.it/it/eventi | 2026-11-04 |
 | Calendario eventi 2026 del Comune di Campi Bisenzio (allegato 1) | ufficiale | 1 | https://campibisenzio.trasparenza-valutazione-merito.it/web/trasparenza/papca-p?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=2&p_p_state=pop_up&p_p_mode=view&p_p_resource_id=downloadAllegato&p_p_cacheability=cacheLevelPage&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=2607999&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio | 2026-11-04 |
+| Comune di Cerreto Guidi - Eventi | ufficiale | 1 | https://www.comune.cerreto-guidi.fi.it/it/eventi | 2026-11-04 |
+| Feel Florence - Mercato di Stabbia | aggregatore | 1 | https://www.feelflorence.it/it/eventi/mercato-di-stabbia-cerreto-guidi | 2026-11-04 |
 | Fondazione Palazzo Strozzi | ufficiale | 1 | https://www.palazzostrozzi.org/mostre-future | 2026-11-03 |
+| VisitCertaldo - News | ufficiale | 1 | https://www.visitcertaldo.com/site/news | 2026-11-04 |
 
 ### Livorno (LI)
 
@@ -550,6 +582,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Tempo Libero Toscana | aggregatore | 4 | https://www.tempoliberotoscana.it/eventcategory/siena-arezzo | 2026-11-03 |
 | Mercatini di Natale Arezzo - Villaggio Tirolese | organizzatore | 3 | https://mercatininatalearezzo.it/villaggio-tirolese | 2026-11-04 |
 | Comune di Arezzo - Teatro Petrarca, stagione 2026/2027 | ufficiale | 2 | https://www.comune.arezzo.it/novita/teatro-petrarca-stagione-teatrale-20262027 | 2026-11-04 |
+| ArezzoInforma | stampa | 1 | https://www.arezzoinforma.it/castiglion-fiorentino-il-14-e-15-novembre-torna-il-weekend-dellolio | 2026-11-04 |
 | Discover Arezzo – Stagione Teatro Petrarca | aggregatore | 1 | https://www.discoverarezzo.com/eventi/stagione-teatro-petrarca-26-27 | 2026-11-04 |
 | Fondazione Guido d'Arezzo – Stagione di prosa 2026/2027 | organizzatore | 1 | https://www.fondazioneguidodarezzo.com/stagione-di-prosa-2026-2027 | 2026-11-04 |
 | Venti Lucenti - Schiaccianoci 2026 | organizzatore | 1 | https://www.ventilucenti.it/evento-spettacolo/schiaccianoci-2026-petrarca | 2026-11-04 |
@@ -588,6 +621,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Assisi Eventi | aggregatore | 4 | https://www.assisieventi.it/ | 2026-11-04 |
 | bastia.it (Novembre: un mese di cultura e non solo per Bastia) | stampa | 4 | https://www.bastia.it/novembre-un-mese-di-cultura-e-non-solo-per-bastia | 2026-11-04 |
 | Eurochocolate (organizzatore) | organizzatore | 1 | https://www.eurochocolate.com/perugia2026 | 2026-11-03 |
+| Lago Trasimeno Consorzio URAT | aggregatore | 1 | https://www.lagotrasimeno.net/it/eventi | 2026-11-04 |
 | Umbria24 | stampa | 1 | https://www.umbria24.it/gusto24/ventanni-di-festivol-trevi-ancora-tra-olio-nuovo-arte-musica-e-papille | 2026-11-03 |
 
 ### Terni (TR)
@@ -614,6 +648,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Ancona - Eventi | ufficiale | 6 | https://www.comune.ancona.it/it/eventi | 2026-11-04 |
 | Marche Teatro - Stagione 2026-27 di Ancona Prosa-Danza | organizzatore | 5 | https://www.marcheteatro.it/stagione-2026-27-di-ancona-prosa-danza | 2026-11-04 |
 | Non solo eventi Marche | aggregatore | 5 | https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=ancona&page=5 | 2026-11-04 |
+| Il Borghista - Falò D'Autunno 2026 | aggregatore | 1 | https://www.ilborghista.it/events/falo-dautunno-2026-pro-loco-chiaravallese | 2026-11-04 |
 | Turismo Marche (Regione Marche) | ufficiale | 1 | https://letsmarche.it/-/castelli-di-jesi-nel-bicchiere-1 | 2026-11-03 |
 
 ### Macerata (MC)
@@ -685,6 +720,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Ministero della Cultura | ufficiale | 3 | https://cultura.gov.it/evento/4-novembre-2026-alla-torre-di-cicerone (+2 altre pagine) | 2026-11-03 |
+| Il Tacco di Bacco - Eventi a Cassino | aggregatore | 3 | https://iltaccodibacco.it/cassino | 2026-11-04 |
 | La Provincia Frosinone | stampa | 1 | https://laprovinciafrosinone.it/2026/11/04/creativita-e-territorio-alatri-si-accende-con-larte-di-esprimersi-luce-propria | 2026-11-04 |
 | VisitLazio – Regione Lazio | ufficiale | 1 | https://www.visitlazio.com/eventi-lazio/a-campoli-appennino-la-mostra-campora-di-e-lecce | 2026-11-03 |
 | Visit Valle di Comino | aggregatore | 1 | https://visitvalledicomino.com/eventi/39a-festa-del-tartufo-di-campoli-appennino-bianco-e-nero-pregiato | 2026-11-03 |
@@ -754,6 +790,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Napolike | stampa | 5 | https://www.napolike.it/reggia-di-caserta-visite-guidate-e-trekking-fino-a-dicembre-2026 | 2026-11-03 |
 | Ministero della Cultura | ufficiale | 4 | https://cultura.gov.it/evento/anfiteatro-campano-aperture-gratuite-il-10-e-il-4-novembre (+3 altre pagine) | 2026-11-03 |
 | Pro Loco Aversa Normanna | aggregatore | 3 | https://prolocoaversa.it/evento/capolavori-in-luce-percorsi-tematici-diagnostici-e-digitali (+1 altre pagine) | 2026-11-04 |
+| Teatro Pubblico Campano - Teatro Comunale Parravano | organizzatore | 3 | https://www.teatropubblicocampano.com/teatri/programma-teatro-comunale-costantino-parravano-caserta | 2026-11-04 |
 | Itinerari nel Gusto | aggregatore | 2 | https://www.itinerarinelgusto.it/eventi/grape-a-riardo-8636 (+1 altre pagine) | 2026-11-03 |
 | Reggia di Caserta | ufficiale | 2 | https://reggiadicaserta.cultura.gov.it/torna-maestri-alla-reggia-con-i-protagonisti-del-cinema-italiano | 2026-11-03 |
 | il Tacco di Bacco - Aron Quartet | aggregatore | 1 | https://iltaccodibacco.it/en/campania/eventi/333154.html | 2026-11-04 |
@@ -834,6 +871,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Comune di Brindisi - stagione 2026-27 del Nuovo Teatro Verdi | ufficiale | 9 | https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie | 2026-11-04 |
 | Fondazione Nuovo Teatro Verdi – programma stagione 2026-2027 | organizzatore | 4 | https://www.nuovoteatroverdi.com/programma-stagione-artistica-2026-2027 | 2026-11-03 |
+| il Tacco di Bacco - Eventi a Ceglie Messapica | aggregatore | 1 | https://iltaccodibacco.it/ceglie-messapica | 2026-11-04 |
 
 ### Lecce (LE)
 
@@ -883,6 +921,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Fondazione Politeama Catanzaro | organizzatore | 6 | https://www.politeamacatanzaro.net/ | 2026-11-04 |
 | Calabria Straordinaria (Regione Calabria) | ufficiale | 4 | https://calabriastraordinaria.it/eventi/lardito-rosso (+3 altre pagine) | 2026-11-03 |
 
 ### Reggio Calabria (RC)
@@ -914,6 +953,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Balarm.it | aggregatore | 59 | http://www.balarm.it/tutti-gli-eventi-in-sicilia-di-novembre-2026 (+2 altre pagine) | 2026-11-04 |
 | Comune di Marsala | ufficiale | 1 | https://www.comune.marsala.tp.it/it/eventi/fratelli-mancuso | 2026-11-04 |
+| Prima Pagina Castelvetrano | stampa | 1 | https://www.primapaginacastelvetrano.it/torna-a-castelvetrano-la-celebrazione-della-festa-dellimmacolata | 2026-11-04 |
 
 ### Palermo (PA)
 

@@ -359,6 +359,22 @@
    "titolo": "Eventi e spettacoli – Arezzo Città del Natale"
   },
   {
+   "url": "https://www.arezzoinforma.it/castiglion-fiorentino-il-14-e-15-novembre-torna-il-weekend-dellolio",
+   "dominio": "arezzoinforma.it",
+   "nome": "ArezzoInforma",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "AR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.aristongaeta.it/",
    "dominio": "aristongaeta.it",
    "nome": "",
@@ -588,6 +604,22 @@
     "BI"
    ],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.auditoriocassano.it/",
+   "dominio": "auditoriocassano.it",
+   "nome": "Cinema Teatro Auditorio - Cassano Magnago",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "VA"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -1477,6 +1509,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.cattolica.info/eventi",
+   "dominio": "cattolica.info",
+   "nome": "Gli Eventi di Cattolica (cattolica.info)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.ccnanticaibla.com/eventi/categoria/in-programma",
    "dominio": "ccnanticaibla.com",
    "nome": "Antica Ibla - Centro commerciale naturale",
@@ -1532,6 +1580,22 @@
    ],
    "province": [
     "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.chesagra.it/emilia-romagna/mo/castelnuovo-rangone/superzampone",
+   "dominio": "chesagra.it",
+   "nome": "CheSagra!",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "MO"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -3005,6 +3069,198 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.cassanodadda.mi.it/it/eventi",
+   "dominio": "comune.cassanodadda.mi.it",
+   "nome": "Comune di Cassano d'Adda - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castelgoffredo.mn.it/it/events/anselmo-e-giacomo-due-voci-per-la-costituzione-8-11-26",
+   "dominio": "comune.castelgoffredo.mn.it",
+   "nome": "Comune di Castel Goffredo - eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellarano.re.it/it/eventi/12-novembre-leonardo-seddio-a-on-focus",
+   "dominio": "comune.castellarano.re.it",
+   "nome": "Comune di Castellarano - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellarano.re.it/it/eventi/26-novembre-maurizio-verdecchia-a-on-focus",
+   "dominio": "comune.castellarano.re.it",
+   "nome": "Comune di Castellarano - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellarano.re.it/it/eventi/5-novembre-eleonora-costi-a-on-focus",
+   "dominio": "comune.castellarano.re.it",
+   "nome": "Comune di Castellarano - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellarano.re.it/it/eventi/alessandro-di-modica-a-on-focus",
+   "dominio": "comune.castellarano.re.it",
+   "nome": "Comune di Castellarano - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/incontro-con-simone-tempia-132730-1-a2076f095aff543ab5b5e25910a2e02a",
+   "dominio": "comune.castellettosopraticino.no.it",
+   "nome": "Comune di Castelletto Sopra Ticino - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/open-day-della-biblioteca-132541-1-1cf59c3ea9a01c5385eb0e0636122ec8",
+   "dominio": "comune.castellettosopraticino.no.it",
+   "nome": "Comune di Castelletto Sopra Ticino - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/sotto-i-veli-del-tempo-132894-1-9f06e9ee956f1f1c5d42ac283c0ce14a",
+   "dominio": "comune.castellettosopraticino.no.it",
+   "nome": "Comune di Castelletto Sopra Ticino - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "NO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castelmella.bs.it/it/news/un-libro-per-piacere",
+   "dominio": "comune.castelmella.bs.it",
+   "nome": "Comune di Castel Mella - news",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castenaso.bo.it/it-it/vivere-il-comune/eventi",
+   "dominio": "comune.castenaso.bo.it",
+   "nome": "Comune di Castenaso - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "BO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+   "dominio": "comune.cazzago.bs.it",
+   "nome": "Comune di Cazzago San Martino - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://comune.cefalu.pa.it/vivere-il-comune/eventi",
    "dominio": "comune.cefalu.pa.it",
    "nome": "",
@@ -3015,6 +3271,246 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Eventi – Comune di Cefalù"
+  },
+  {
+   "url": "https://www.comune.cento.fe.it/it/eventi",
+   "dominio": "comune.cento.fe.it",
+   "nome": "Comune di Cento - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cento.fe.it/it/events/64310/da-vicino-conversazioni-e-visite-in-mostra-729836-729837",
+   "dominio": "comune.cento.fe.it",
+   "nome": "Comune di Cento - Evento Da vicino",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cento.fe.it/it/events/64310/da-vicino-conversazioni-e-visite-in-mostra-729836-729839",
+   "dominio": "comune.cento.fe.it",
+   "nome": "Comune di Cento - Evento Da vicino",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cernuscosulnaviglio.mi.it/novita/notizia/aperifilo-2026",
+   "dominio": "comune.cernuscosulnaviglio.mi.it",
+   "nome": "Comune di Cernusco sul Naviglio - Aperifilo 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cernuscosulnaviglio.mi.it/novita/notizia/dentro-lo-schermo",
+   "dominio": "comune.cernuscosulnaviglio.mi.it",
+   "nome": "Comune di Cernusco sul Naviglio - Dentro lo schermo",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cernuscosulnaviglio.mi.it/novita/notizia/intelligenza-artificiale",
+   "dominio": "comune.cernuscosulnaviglio.mi.it",
+   "nome": "Comune di Cernusco sul Naviglio - Intelligenza Artificiale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cerreto-guidi.fi.it/it/eventi",
+   "dominio": "comune.cerreto-guidi.fi.it",
+   "nome": "Comune di Cerreto Guidi - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "FI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cerromaggiore.mi.it/EG0/EGSCHTST45.HBL?en=eg126&MESSA=PUBBLICA&SRL=22",
+   "dominio": "comune.cerromaggiore.mi.it",
+   "nome": "Comune di Cerro Maggiore - Tempo libero",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cerromaggiore.mi.it/novita/notizie/novita_772.html",
+   "dominio": "comune.cerromaggiore.mi.it",
+   "nome": "Comune di Cerro Maggiore - Traiettorie sonore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cesate.mi.it/vivere-il-comune/evento/custodi-di-vita",
+   "dominio": "comune.cesate.mi.it",
+   "nome": "Comune di Cesate - Eventi (Custodi di vita)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.cesate.mi.it/vivere-il-comune/evento/uncinetto-per-giovani-creativi",
+   "dominio": "comune.cesate.mi.it",
+   "nome": "Comune di Cesate - Eventi (Uncinetto)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.chiavari.ge.it/it/events/dicembremusica-chiavari-2026",
+   "dominio": "comune.chiavari.ge.it",
+   "nome": "Comune di Chiavari - Eventi (DicembreMusica)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.chiavari.ge.it/it/events/more-jazz-experience-ii-edizione-2026",
+   "dominio": "comune.chiavari.ge.it",
+   "nome": "Comune di Chiavari - Eventi (MORE JAZZ)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.chiavari.ge.it/it/events/mostra-teodorico-i-primi-giorni-dell-europa",
+   "dominio": "comune.chiavari.ge.it",
+   "nome": "Comune di Chiavari - Eventi (Mostra Teodorico)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.chieri.to.it/it/eventi",
+   "dominio": "comune.chieri.to.it",
+   "nome": "Comune di Chieri - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.como.it/vivere-il-comune/eventi",
@@ -4217,6 +4713,22 @@
    "titolo": "Calendario"
   },
   {
+   "url": "https://www.culturaveneto.it/cultura-tradizione/feste-popolari-rievocazioni/73832d16-81ac-49ae-9063-77375f1e6023",
+   "dominio": "culturaveneto.it",
+   "nome": "Cultura Veneto (Regione Veneto)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.cuneocultura.it/eventi/calendario",
    "dominio": "cuneocultura.it",
    "nome": "Cuneo Cultura (portale del Comune di Cuneo)",
@@ -5161,6 +5673,22 @@
    "titolo": "Liberi di Scegliere - Stagione Teatrale 2026 - 2027 Teatro D'Annunzio"
   },
   {
+   "url": "https://www.feelflorence.it/it/eventi/mercato-di-stabbia-cerreto-guidi",
+   "dominio": "feelflorence.it",
+   "nome": "Feel Florence - Mercato di Stabbia",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "FI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://fellinimuseum.it/news-eventi",
    "dominio": "fellinimuseum.it",
    "nome": "Fellini Museum - Eventi e News",
@@ -5273,6 +5801,22 @@
    "titolo": "Altri eventi - Fiera Internazionale del Tartufo Bianco d'Alba"
   },
   {
+   "url": "https://www.fierasanmartinochieri.it/programma",
+   "dominio": "fierasanmartinochieri.it",
+   "nome": "Fiera Nazionale di San Martino Chieri - Programma",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 11,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.fiesoleforyou.it/eventi",
    "dominio": "fiesoleforyou.it",
    "nome": "Comune di Fiesole - Fiesole for You, Eventi",
@@ -5299,6 +5843,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Tutti gli eventi a Foggia"
+  },
+  {
+   "url": "https://www.fondazioneaida.it/auditorium-a-vivaldi-di-cassola",
+   "dominio": "fondazioneaida.it",
+   "nome": "Fondazione Aida - Auditorium Vivaldi Cassola",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://fondazionebernareggi.it/eventi-mostre",
@@ -5645,6 +6205,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.garda-outdoors.com/le-storie-di-pallalunga-al-teatro-comunale-dim-di-castelnuovo-del-garda",
+   "dominio": "garda-outdoors.com",
+   "nome": "Garda Outdoors",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://gazzettadellaspezia.com/attualita/182264-il-natale-di-sarzana-accende-la-citta-oltre-un-mese-di-iniziative-tra-cultura-e-tradizioni",
    "dominio": "gazzettadellaspezia.com",
    "nome": "",
@@ -5700,6 +6276,22 @@
    ],
    "province": [
     "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.girofvg.com/feste-fiere-san-martino-2026",
+   "dominio": "girofvg.com",
+   "nome": "GiroFVG - Feste e fiere di San Martino 2026",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Friuli-Venezia Giulia"
+   ],
+   "province": [
+    "UD"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -5869,6 +6461,22 @@
    "titolo": ""
   },
   {
+   "url": "https://ideanet.it/mercatini-natale-cesenatico-2026",
+   "dominio": "ideanet.it",
+   "nome": "Ideanet - Mercatini di Natale 2026 a Cesenatico",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.ilborghista.it/events/49-sagra-della-castagna-e-dei-prodotti-del-sottobosco-2026-associazione-pro-loco-acerno",
    "dominio": "ilborghista.it",
    "nome": "Il Borghista",
@@ -5896,6 +6504,22 @@
    ],
    "province": [
     "PO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.ilborghista.it/events/falo-dautunno-2026-pro-loco-chiaravallese",
+   "dominio": "ilborghista.it",
+   "nome": "Il Borghista - Falò D'Autunno 2026",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AN"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -6140,6 +6764,38 @@
    ],
    "province": [
     "AL"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/cassino",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Eventi a Cassino",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "FR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/ceglie-messapica",
+   "dominio": "iltaccodibacco.it",
+   "nome": "il Tacco di Bacco - Eventi a Ceglie Messapica",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BR"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -7689,6 +8345,22 @@
    "titolo": "La Camerata delle Arti – La Camerata delle Arti"
   },
   {
+   "url": "https://www.lagotrasimeno.net/it/eventi",
+   "dominio": "lagotrasimeno.net",
+   "nome": "Lago Trasimeno Consorzio URAT",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://lamialiguria.it/",
    "dominio": "lamialiguria.it",
    "nome": "",
@@ -9024,6 +9696,22 @@
    "titolo": "Programma stagione artistica 2026-2027 - Fondazione Nuovo Teatro Verdi"
   },
   {
+   "url": "https://www.occhi.it/eventi/cassola/intrattenimento?srsltid=AYCX9vKdPi8EHyTz9t4YftJOjax4YiIiBnP4EsiL0W5lsWK8cYBBBz6O",
+   "dominio": "occhi.it",
+   "nome": "Occhi Eventi - Eventi a Cassola",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.oggiacomo.it/prossimi-eventi",
    "dominio": "oggiacomo.it",
    "nome": "",
@@ -9533,6 +10221,22 @@
    "titolo": "PISTOIA CITTÀ DEL NATALE"
   },
   {
+   "url": "https://www.politeamacatanzaro.net/",
+   "dominio": "politeamacatanzaro.net",
+   "nome": "Fondazione Politeama Catanzaro",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "CZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.politeamagreco.it/programmazione.asp",
    "dominio": "politeamagreco.it",
    "nome": "Teatro Politeama Greco",
@@ -9587,6 +10291,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Presepe Vivente nei Sassi di Matera – Nuova edizione del Presepe Vivente – Prenota Adesso!"
+  },
+  {
+   "url": "https://www.primapaginacastelvetrano.it/torna-a-castelvetrano-la-celebrazione-della-festa-dellimmacolata",
+   "dominio": "primapaginacastelvetrano.it",
+   "nome": "Prima Pagina Castelvetrano",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://prolocoaversa.it/evento/capolavori-in-luce-percorsi-tematici-diagnostici-e-digitali",
@@ -10472,6 +11192,22 @@
    "titolo": ""
   },
   {
+   "url": "https://sititematici.comune.cesena.fc.it/agenda-cultura",
+   "dominio": "sititematici.comune.cesena.fc.it",
+   "nome": "Comune di Cesena - Agenda cultura",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004",
    "dominio": "siviaggia.it",
    "nome": "SiViaggia",
@@ -11348,6 +12084,22 @@
    "titolo": "Calendario spettacoli del Teatro Amilcare Ponchielli - Cremona"
   },
   {
+   "url": "https://www.teatropubblicocampano.com/teatri/programma-teatro-comunale-costantino-parravano-caserta",
+   "dominio": "teatropubblicocampano.com",
+   "nome": "Teatro Pubblico Campano - Teatro Comunale Parravano",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "CE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatrorendanocosenza.it/",
    "dominio": "teatrorendanocosenza.it",
    "nome": "",
@@ -12102,6 +12854,38 @@
    "titolo": "Eventi | Vivi Terni"
   },
   {
+   "url": "https://www.turismo.comunecervia.it/it/eventi/manifestazioni-e-iniziative/gli-eventi-di-dicembre",
+   "dominio": "turismo.comunecervia.it",
+   "nome": "Turismo Cervia - Gli eventi di dicembre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.turismo.comunecervia.it/it/eventi/manifestazioni-e-iniziative/gli-eventi-di-novembre-evidenza",
+   "dominio": "turismo.comunecervia.it",
+   "nome": "Turismo Cervia - Gli eventi di novembre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://turismo.lucca.it/eventi-lucca",
    "dominio": "turismo.lucca.it",
    "nome": "Turismo Lucca – Comune di Lucca",
@@ -12155,12 +12939,13 @@
    "nome": "PromoTurismoFVG (elenco eventi nei borghi)",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 1,
+   "eventi": 2,
    "regioni": [
     "Friuli-Venezia Giulia"
    ],
    "province": [
-    "PN"
+    "PN",
+    "UD"
    ],
    "consultata": "2026-11-04",
    "titolo": "Events in historic villages"
@@ -12422,6 +13207,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.valorecastiglione.it/",
+   "dominio": "valorecastiglione.it",
+   "nome": "Valore Castiglione (sito promozionale del Comune)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.valtellina.it/it/eventi",
    "dominio": "valtellina.it",
    "nome": "",
@@ -12668,6 +13469,38 @@
    "tipo": "ufficiale",
    "esito": "letta",
    "eventi": 5,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitcertaldo.com/site/news",
+   "dominio": "visitcertaldo.com",
+   "nome": "VisitCertaldo - News",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "FI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/i-mercatini-di-natale",
+   "dominio": "visitcesenatico.it",
+   "nome": "Visit Cesenatico - I mercatini di Natale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
    "regioni": [
     "Emilia-Romagna"
    ],
@@ -13296,6 +14129,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "77^ SAGRA MUSICALE MALATESTIANA"
+  },
+  {
+   "url": "https://www.vivicesena.it/eventi_prossimi.php",
+   "dominio": "vivicesena.it",
+   "nome": "Vivi Cesena - Prossimi eventi",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.viviminturnoscauri.it/",
