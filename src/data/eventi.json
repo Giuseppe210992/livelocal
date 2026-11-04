@@ -11204,5 +11204,37 @@
     "inserito": "2026-11-04",
     "inseritoDa": "ia",
     "fine": "2026-11-08"
+  },
+  {
+    "slug": "terme-suburbane-ercolano-sabati-restauro",
+    "titolo": "Sabati alle Terme Suburbane: il restauro in corso a Ercolano",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-12",
+    "luogo": "Parco Archeologico di Ercolano – Terme Suburbane",
+    "indirizzo": "Ercolano",
+    "comune": "063064",
+    "frazione": null,
+    "lat": 40.81953,
+    "lon": 14.38011,
+    "coordinateApprossimate": true,
+    "descrizione": "Ogni sabato, fino al 12 dicembre, il Parco Archeologico di Ercolano fa seguire dal vivo i lavori di restauro delle Terme Suburbane, un edificio romano unico al mondo. I biglietti si comprano alla biglietteria del Parco o online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco Archeologico di Ercolano",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Parco Archeologico di Ercolano (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfKeW16jK8w/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
