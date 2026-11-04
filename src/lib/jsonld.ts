@@ -3,7 +3,7 @@
 
 import type { Evento } from './eventi';
 import { capEvento } from './eventi';
-import { isoConFuso } from './date';
+import { isoConFuso, haOrario } from './date';
 import { SITO, urlAssoluto } from './sito';
 
 const STATO_SCHEMA = {
@@ -36,7 +36,9 @@ export function jsonLdEvento(e: Evento) {
     image: [urlAssoluto(`${e.percorso}immagine.png`)],
     inLanguage: SITO.lingua,
     startDate: isoConFuso(e.inizio),
-    ...(e.fine ? { endDate: isoConFuso(e.fine) } : {}),
+    // Fine: quella indicata; se l'evento è di un solo giorno senza orario finisce lo stesso giorno.
+    // Con un orario di inizio e nessuna fine non si inventa nulla.
+    ...(e.fine ? { endDate: isoConFuso(e.fine) } : !haOrario(e.inizio) ? { endDate: isoConFuso(e.inizio) } : {}),
     eventStatus: statoSchema(e),
     ...(e.inizioPrecedente ? { previousStartDate: isoConFuso(e.inizioPrecedente) } : {}),
     eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
@@ -59,7 +61,7 @@ export function jsonLdEvento(e: Evento) {
     dati.isAccessibleForFree = true;
     dati.offers = { '@type': 'Offer', price: 0, priceCurrency: 'EUR', url, availability: 'https://schema.org/InStock' };
   } else if (e.prezzo.tipo === 'euro' && typeof e.prezzo.importo === 'number') {
-    dati.offers = { '@type': 'Offer', price: e.prezzo.importo, priceCurrency: 'EUR', url: e.prenotazione?.startsWith('http') ? e.prenotazione : url };
+    dati.offers = { '@type': 'Offer', price: e.prezzo.importo, priceCurrency: 'EUR', url: e.prenotazione?.startsWith('http') ? e.prenotazione : url, availability: 'https://schema.org/InStock' };
   }
 
   if (e.organizzatore) {
