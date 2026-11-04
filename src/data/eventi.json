@@ -11405,5 +11405,103 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "baz-25-anni-di-risate-teatro-civico-sassari",
+    "titolo": "Baz in «25 anni di risate» al Teatro Civico",
+    "categoria": "teatro",
+    "inizio": "2026-11-05T21:00",
+    "fine": null,
+    "luogo": "Teatro Civico – Palazzo di Città",
+    "indirizzo": "Sassari",
+    "comune": "112050",
+    "frazione": null,
+    "lat": 40.726,
+    "lon": 8.556,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo che celebra i 25 anni di carriera del comico sassarese Marco Bazzoni, in arte Baz: risate, musica e ricordi tra televisione, radio, teatro, musical e stand-up. Biglietto intero 28,75 euro, in vendita online.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28.75
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Civico di Sassari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Sassari – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://turismosassari.it/calendario-eventi/evento-culturale/baz-in-25-anni-di-risate-limited-edition",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gnosis-inflazione-caotica-palazzo-ducale-sassari",
+    "titolo": "Gnosis di Marco Boscani, nella mostra «Inflazione Caotica»",
+    "categoria": "mostra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-12",
+    "luogo": "Sala Giuseppe Duce – Palazzo Ducale",
+    "indirizzo": "Sassari",
+    "comune": "112050",
+    "frazione": null,
+    "lat": 40.7262,
+    "lon": 8.5576,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di Marco Boscani con performance musicale di Domenico Canu, inaugurata il 6 novembre. Orari dal 7 al 12 novembre: dal lunedì al venerdì 10-14 e 16-19, sabato 10-14. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale Il Circo dei Santi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Sassari – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://turismosassari.it/calendario-eventi/evento-culturale/mostra/mostra-inflazione-caotica-gnosis",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mahler-sinfonia-n3-teatro-comunale-sassari",
+    "titolo": "Mahler, Sinfonia n. 3 in Re minore al Teatro Comunale",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Viale Mancini, Sassari",
+    "comune": "112050",
+    "frazione": null,
+    "lat": 40.7237,
+    "lon": 8.554,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto nella stagione lirica e sinfonica dell'Ente Concerti Marialisa de Carolis: la Sinfonia n. 3 in Re minore di Gustav Mahler. Biglietti: platea 30 euro, galleria 25, loggione 20.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Ente Concerti Marialisa de Carolis",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Turismo Sassari – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://turismosassari.it/calendario-eventi/evento-culturale/sinfonia-n-3-in-re-minore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
