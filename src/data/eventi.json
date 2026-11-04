@@ -56533,5 +56533,166 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "festa-della-zucca-centro-storico-andria",
+    "titolo": "Festa della Zucca nel centro storico di Andria",
+    "categoria": "sagra",
+    "inizio": "2026-11-07T18:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Ex Mercato di Via Flavio Giugno, Largo Grotte, Largo Toniolo, Andria",
+    "comune": "110001",
+    "lat": 41.231,
+    "lon": 16.297,
+    "descrizione": "Percorso del gusto in tre tappe (antipasti, primi, dessert) con specialità a base di zucca, musica dal vivo dalle 18:30 e visite guidate al centro storico. Percorso completo 15 euro, consumazione singola 6 euro; carnet e ticket si comprano solo all'Ex Mercato di Via Flavio Giugno.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "organizzatore": "Associazione Condividere e Crescere",
+    "fonti": [
+      {
+        "nome": "Andria | Eventi e Radici (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUN64LDDon/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "giornata-enoturismo-cantine-aperte-bertinoro",
+    "titolo": "Giornata Mondiale dell'Enoturismo: le cantine di Bertinoro si raccontano",
+    "categoria": "sagra",
+    "inizio": "2026-11-08T10:00",
+    "luogo": "Welcome Room Bertinoro (Ufficio Turismo) e cantine aderenti",
+    "indirizzo": "Piazza della Libertà 3, Bertinoro",
+    "comune": "040003",
+    "lat": 44.1463,
+    "lon": 12.1354,
+    "descrizione": "Domenica 8 novembre le cantine e aziende agricole del territorio aprono ai visitatori per incontri con i produttori, passeggiate tra i vigneti e degustazioni. Il punto di partenza è la Welcome Room (10-16), con il percorso museale «Sapere di Vino» e la Riserva Storica del Sangiovese; l'elenco delle cantine aderenti è sul sito di Visit Bertinoro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Visit Bertinoro",
+    "fonti": [
+      {
+        "nome": "Visit Bertinoro (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUTu6ejdbG/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "carlo-lorenzini-oltre-pinocchio-civica-calenzano",
+    "titolo": "Carlo Lorenzini, oltre Pinocchio: dialogo alla biblioteca CiviCa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T18:00",
+    "luogo": "CiviCa Biblioteca di Calenzano",
+    "indirizzo": "Calenzano",
+    "comune": "048005",
+    "lat": 43.865,
+    "lon": 11.155,
+    "descrizione": "Primo di quattro appuntamenti per i 200 anni dalla nascita di Carlo Collodi: dialogo con Filippo Canali e Giuseppe Garbarino, presidente dell'associazione «Pinocchio a casa sua», sulla figura e sull'opera dello scrittore. Gli incontri proseguono fino al 27 novembre alla biblioteca e al Teatro Manzoni. Ingresso libero, prenotazione consigliata alla biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Calenzano Eventi (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUeua9CHAv/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "enrico-rava-fearless-five-teatro-splendor-aosta",
+    "titolo": "Enrico Rava – Fearless Five al Teatro Splendor",
+    "categoria": "concerto",
+    "inizio": "2026-12-06",
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "comune": "007003",
+    "lat": 45.737,
+    "lon": 7.319,
+    "descrizione": "Concerto jazz di Enrico Rava con il suo gruppo Fearless Five, nella stagione della Saison Culturelle della Valle d'Aosta. Biglietti online su webtic.it e alla biglietteria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Saison Culturelle Valle d'Aosta",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle VdA (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUp3Pjm3A6/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "romeo-e-giulietta-teatro-splendor-aosta",
+    "titolo": "Romeo e Giulietta al Teatro Splendor",
+    "categoria": "teatro",
+    "inizio": "2026-12-21",
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "comune": "007003",
+    "lat": 45.737,
+    "lon": 7.319,
+    "descrizione": "Spettacolo «Romeo e Giulietta» nella stagione della Saison Culturelle della Valle d'Aosta. Biglietti online su webtic.it e alla biglietteria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Saison Culturelle Valle d'Aosta",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle VdA (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUp3Pjm3A6/",
+        "consultata": "2026-11-04"
+      }
+    ]
   }
 ]
