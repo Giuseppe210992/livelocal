@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **446 pagine di 311 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **468 pagine di 330 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -47,6 +47,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Comune di Cuneo - Eventi | ufficiale | 1 | https://www.comune.cuneo.it/vivere-il-comune/eventi | 2026-11-03 |
 | Fiera Internazionale del Tartufo Bianco d'Alba - Altri eventi | organizzatore | 1 | https://www.fieradeltartufo.org/categorie-eventi/altri-eventi | 2026-11-03 |
 | Langhe.net | aggregatore | 1 | https://langhe.net/evento/mercato-mondiale-tartufo-bianco-alba-15-11-26 | 2026-11-04 |
+| Visit Cuneese, Winter Outdoor Weekend 2026 | ufficiale | 1 | https://www.visitcuneese.it/dettaglio-evento/-/d/winter-outdoor-weekend-2026 | 2026-11-04 |
 | Visit Piemonte | ufficiale | 1 | https://www.visitpiemonte.com/en/events/fiera-internazionale-del-tartufo-bianco-dalba-96th-edition | 2026-11-03 |
 
 ### Asti (AT)
@@ -73,6 +74,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | ATL Biella - Eventi nel Biellese | ufficiale | 5 | https://www.atl.biella.it/stampa-eventi?p_p_id=mkspconfigurable_WAR_suggestomkspportlet&p_p_lifecycle=2&p_p_resource_id=html | 2026-11-03 |
+| Comune di Biella - Stagione teatrale Biella in scena 2026/2027 (libretto) | ufficiale | 5 | https://comune.biella.it/wp-content/uploads/sites/150/2026/10/Libretto-Biella-26-27-def-1.pdf | 2026-11-04 |
 
 ### Verbano-Cusio-Ossola (VB)
 
@@ -134,7 +136,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Triennale Milano - Voce Triennale | ufficiale | 7 | https://triennale.org/voce-triennale | 2026-11-04 |
 | Palazzo Reale Milano - Mostre 2026 | ufficiale | 5 | https://www.palazzorealemilano.it/mostre-in-programma/mostre-2026 | 2026-11-04 |
 | MUDEC - Mostre in corso | ufficiale | 3 | https://www.mudec.it/mostre-in-corso-2 (+1 altre pagine) | 2026-11-04 |
+| LaBolla, Bollate | organizzatore | 2 | https://labollateatro.it/ | 2026-11-04 |
 | Comune di Baranzate | ufficiale | 1 | https://www.comune.baranzate.mi.it/it/news/celebrazione-giorno-dell-unita-nazionale-e-giornata-delle-forze-armate-domenica-8-novembre-2026 | 2026-11-04 |
+| Comune di Bresso - scheda evento Clown spaventati panettieri | ufficiale | 1 | https://www.comune.bresso.mi.it/it/eventi/spettacolo-teatrale-732630 | 2026-11-04 |
+| Comune di Buccinasco - scheda evento Dettagli d'autore | ufficiale | 1 | https://www.comune.buccinasco.mi.it/it/eventi/tributo-a-franco-battiato-726147 | 2026-11-04 |
 | EventiDiZona | aggregatore | 1 | https://www.eventidizona.it/cosa-fare/arese | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/antica-fiera-di-san-martino-2026-0 | 2026-11-03 |
 | Mercati di Milano | aggregatore | 1 | https://mercatidimilano.com/mercatini-di-natale/oh-bej-oh-bej | 2026-11-04 |
@@ -163,8 +168,11 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Grande di Brescia - Calendario | ufficiale | 14 | https://teatrogrande.it/it/calendario | 2026-11-04 |
 | Comune di Adro | ufficiale | 4 | https://www.comune.adro.bs.it/vivere-il-comune/eventi/calici-di-poesia (+3 altre pagine) | 2026-11-04 |
 | Comune di Bedizzole - Eventi | ufficiale | 4 | https://www.comune.bedizzole.bs.it/area_letturaEvento/11510/pagsistema.html (+3 altre pagine) | 2026-11-04 |
+| Comune di Brescia - Eventi | ufficiale | 2 | https://www.comune.brescia.it/it/eventi | 2026-11-04 |
+| Comune di Botticino - Eventi | ufficiale | 1 | https://www.comune.botticino.bs.it/pagina133703_eventi.html | 2026-11-04 |
 | Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica) | aggregatore | 1 | https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449 | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana | 2026-11-03 |
+| Pro Loco Botticino - Eventi | organizzatore | 1 | https://prolocobotticino.it/eventi | 2026-11-04 |
 
 ### Pavia (PV)
 
@@ -212,9 +220,12 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
 | Comune di Arcore | ufficiale | 8 | https://comune.arcore.mb.it/vivere-il-comune/evento/cera-una-volta-pinocchio (+3 altre pagine) | 2026-11-04 |
+| Comune di Brugherio - Eventi, categoria Evento culturale | ufficiale | 8 | https://www.comune.brugherio.mb.it/it/categorie-eventi/85684 | 2026-11-04 |
+| Comune di Besana in Brianza - Eventi | ufficiale | 6 | https://www.comune.besanainbrianza.mb.it/it/categorie-eventi/78080 | 2026-11-04 |
 | Comune di Bernareggio - Eventi | ufficiale | 4 | https://www.comune.bernareggio.mb.it/it/events/alpini-15-anniversario-gruppo-alpini-bernareggio (+1 altre pagine) | 2026-11-04 |
 | Reggia di Monza | organizzatore | 3 | https://reggiadimonza.it/cosa-accade | 2026-11-04 |
 | Comune di Monza | ufficiale | 2 | https://www.comune.monza.it/it/categorie-eventi/79791 | 2026-11-04 |
+| Comune di Biassono - Fiera di San Martino 2026 | ufficiale | 1 | https://www.biassono.org/servizi/notizie/notizie_fase02.aspx?ID=38025&categoriaVisualizzata=19 | 2026-11-04 |
 
 ## Trentino-Alto Adige
 
@@ -222,6 +233,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Brunico - eventi (bruneck.com, turismo locale) | ufficiale | 5 | https://www.bruneck.com/it/scoprire/eventi | 2026-11-04 |
 | Associazione Turistica Appiano | ufficiale | 3 | https://www.eppan.com/it/eventi/feste-ad-appiano/appuntamenti-ad-appiano/kulturkontakt-eppan | 2026-11-04 |
 | Museion, sito ufficiale | ufficiale | 2 | https://www.museion.it/it | 2026-11-04 |
 | alto-adige.com | aggregatore | 1 | https://www.alto-adige.com/evento/581/mercatino-di-natale-a-san-michele-appiano | 2026-11-04 |
@@ -248,6 +260,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Casa al Carmine - Mostre in Veneto 2026-2027 | aggregatore | 5 | https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027 | 2026-11-03 |
+| Piazza in Festa - scheda evento | aggregatore | 3 | https://veneto.piazzainfesta.it/bovolone/villaggio-di-natale-a-bovolone-125618 | 2026-11-04 |
 | Fondazione Arena di Verona - Teatro Filarmonico | organizzatore | 2 | https://www.arena.it/teatro-filarmonico-verona/spettacoli | 2026-11-03 |
 | Arte.it - Calendario mostre Verona | aggregatore | 1 | https://arte.it/calendario-arte/verona/2026/11/12 | 2026-11-03 |
 | Verona Run Marathon (sito ufficiale) | organizzatore | 1 | https://www.veronarunmarathon.it/ | 2026-11-03 |
@@ -269,6 +282,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Visit Feltre | ufficiale | 3 | https://visitfeltre.info/categoriaevento/programma-eventi-estivi-a-feltre | 2026-11-04 |
 | Comune di Alpago | ufficiale | 1 | https://www.comune.alpago.bl.it/ | 2026-11-04 |
+| Evients, Sherwood Christmas Festival a Zumelle | aggregatore | 1 | https://www.evients.com/events/babbo-natale-allo-sherwood-christmas-festival/d5e3f9798b3c40d298d0de478b7e50c0 | 2026-11-04 |
 | Visit Dolomiti Bellunesi - Calendario eventi | aggregatore | 1 | https://www.visitdolomitibellunesi.com/it/eventi/concerto-omaggioa-dino-buzzati | 2026-11-04 |
 
 ### Treviso (TV)
@@ -406,7 +420,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
-| Cultura Bologna - Calendario (Comune di Bologna) | ufficiale | 5 | https://www.culturabologna.it/calendar | 2026-11-03 |
+| Calendario del Comune di Bologna (culturabologna.it) | ufficiale | 28 | https://www.culturabologna.it/agenda (+1 altre pagine) | 2026-11-04 |
+| Bologna Città della Musica (Comune di Bologna) | ufficiale | 5 | https://cittadellamusica.comune.bologna.it/calendario-citta-della-musica | 2026-11-04 |
 
 ### Ferrara (FE)
 
@@ -474,6 +489,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Comune di Fiesole - Fiesole for You, Eventi | ufficiale | 21 | https://www.fiesoleforyou.it/eventi | 2026-11-04 |
+| Comune di Borgo San Lorenzo, eventi | ufficiale | 2 | https://www.comune.borgo-san-lorenzo.fi.it/it/eventi | 2026-11-04 |
 | Fondazione Palazzo Strozzi | ufficiale | 1 | https://www.palazzostrozzi.org/mostre-future | 2026-11-03 |
 
 ### Livorno (LI)
@@ -721,6 +737,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Ministero della Cultura | ufficiale | 10 | https://cultura.gov.it/evento/4-novembre-al-mann-2026 (+9 altre pagine) | 2026-11-03 |
 | eCampania | stampa | 1 | https://www.ecampania.it/news/cultura/519039/mostre-in-campania-novembre-2026-gli-appuntamenti-da-non-perdere.html | 2026-11-03 |
+| Spazio Mosaico - scheda evento | organizzatore | 1 | https://www.spaziomosaico.it/evento/oltre-gli-stereotipi-25-novembre-boscotrecase | 2026-11-04 |
 
 ### Avellino (AV)
 
@@ -759,8 +776,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Fondazione Teatro Petruzzelli | ufficiale | 12 | https://www.fondazionepetruzzelli.it/category/eventi | 2026-11-04 |
 | Puglia Culture - Stagione Teatrale di Bari 2026/27 | organizzatore | 9 | https://www.pugliaculture.it/rassegna/bari-umano-collettivo-stagione-teatrale-2026-27 | 2026-11-04 |
-| Il Tacco di Bacco | aggregatore | 5 | https://iltaccodibacco.it/altamura (+1 altre pagine) | 2026-11-04 |
+| Il Tacco di Bacco | aggregatore | 8 | https://iltaccodibacco.it/altamura (+3 altre pagine) | 2026-11-04 |
+| Teatro Palatour Frecciarossa - Stagione 2026/27 | ufficiale | 6 | https://palatour.it/ | 2026-11-04 |
 | SiViaggia | stampa | 3 | https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020 | 2026-11-03 |
+| Comune di Bitonto - Stagione teatrale 2026/2027 | ufficiale | 1 | https://www.comune.bitonto.ba.it/it/eventi/stagione-teatrale-2026-2027-732873 | 2026-11-04 |
 | TEDx - pagina dell'evento | organizzatore | 1 | https://www.ted.com/tedx/events/67474 | 2026-11-04 |
 
 ### Taranto (TA)
@@ -774,7 +793,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
-| Comune di Brindisi – stagione 2026-27 del Nuovo Teatro Verdi | ufficiale | 4 | https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie | 2026-11-03 |
+| Comune di Brindisi - stagione 2026-27 del Nuovo Teatro Verdi | ufficiale | 9 | https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie | 2026-11-04 |
 | Fondazione Nuovo Teatro Verdi – programma stagione 2026-2027 | organizzatore | 4 | https://www.nuovoteatroverdi.com/programma-stagione-artistica-2026-2027 | 2026-11-03 |
 
 ### Lecce (LE)
@@ -1063,4 +1082,4 @@ Provate dagli agenti e non utilizzabili. Non riprovare con gli stessi strumenti:
 
 ## Pagine aperte che non hanno dato eventi
 
-135 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.
+134 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.

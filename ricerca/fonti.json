@@ -906,6 +906,22 @@
    "titolo": "Spettacoli organizzati presso Teatro Comunale - Teramo - Abruzzo - Best Eventi"
   },
   {
+   "url": "https://www.biassono.org/servizi/notizie/notizie_fase02.aspx?ID=38025&categoriaVisualizzata=19",
+   "dominio": "biassono.org",
+   "nome": "Comune di Biassono - Fiera di San Martino 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.binews.it/attualita/ceppaloni-il-natale-torna-come-dincanto-spettacoli-e-mercatini-tra-il-castello-e-il-borgo",
    "dominio": "binews.it",
    "nome": "binews.it",
@@ -932,6 +948,22 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Mostre e Eventi - Fondazione Brescia Musei"
+  },
+  {
+   "url": "https://www.bruneck.com/it/scoprire/eventi",
+   "dominio": "bruneck.com",
+   "nome": "Brunico - eventi (bruneck.com, turismo locale)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://cagliariturismo.comune.cagliari.it/it/events",
@@ -1447,6 +1479,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Homepage - Città dei Balocchi Lake Como"
+  },
+  {
+   "url": "https://cittadellamusica.comune.bologna.it/calendario-citta-della-musica",
+   "dominio": "cittadellamusica.comune.bologna.it",
+   "nome": "Bologna Città della Musica (Comune di Bologna)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "BO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.citynow.it/eleganza-arte-cartellone-teatro-cilea",
@@ -2161,32 +2209,164 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.besanainbrianza.mb.it/it/categorie-eventi/78080",
+   "dominio": "comune.besanainbrianza.mb.it",
+   "nome": "Comune di Besana in Brianza - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.biella.it/wp-content/uploads/sites/150/2026/10/Libretto-Biella-26-27-def-1.pdf",
+   "dominio": "comune.biella.it",
+   "nome": "Comune di Biella - Stagione teatrale Biella in scena 2026/2027 (libretto)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "BI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bitonto.ba.it/it/eventi/stagione-teatrale-2026-2027-732873",
+   "dominio": "comune.bitonto.ba.it",
+   "nome": "Comune di Bitonto - Stagione teatrale 2026/2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+   "dominio": "comune.borgo-san-lorenzo.fi.it",
+   "nome": "Comune di Borgo San Lorenzo, eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "FI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.botticino.bs.it/pagina133703_eventi.html",
+   "dominio": "comune.botticino.bs.it",
+   "nome": "Comune di Botticino - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.brescia.it/it/eventi",
    "dominio": "comune.brescia.it",
-   "nome": "",
-   "tipo": "",
+   "nome": "Comune di Brescia - Eventi",
+   "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 0,
-   "regioni": [],
-   "province": [],
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
    "consultata": "2026-11-04",
    "titolo": "Eventi"
   },
   {
-   "url": "https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie",
-   "dominio": "comune.brindisi.it",
-   "nome": "Comune di Brindisi – stagione 2026-27 del Nuovo Teatro Verdi",
+   "url": "https://www.comune.bresso.mi.it/it/eventi/spettacolo-teatrale-732630",
+   "dominio": "comune.bresso.mi.it",
+   "nome": "Comune di Bresso - scheda evento Clown spaventati panettieri",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 4,
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie",
+   "dominio": "comune.brindisi.it",
+   "nome": "Comune di Brindisi - stagione 2026-27 del Nuovo Teatro Verdi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
    "regioni": [
     "Puglia"
    ],
    "province": [
     "BR"
    ],
-   "consultata": "2026-11-03",
+   "consultata": "2026-11-04",
    "titolo": "Nuovo Teatro Verdi, presentata la stagione 2026-27 “Una costellazione di storie” – Comune di Brindisi"
+  },
+  {
+   "url": "https://www.comune.brugherio.mb.it/it/categorie-eventi/85684",
+   "dominio": "comune.brugherio.mb.it",
+   "nome": "Comune di Brugherio - Eventi, categoria Evento culturale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 8,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.buccinasco.mi.it/it/eventi/tributo-a-franco-battiato-726147",
+   "dominio": "comune.buccinasco.mi.it",
+   "nome": "Comune di Buccinasco - scheda evento Dettagli d'autore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.cagliari.it/",
@@ -3413,6 +3593,22 @@
    "titolo": "Parco archeologico di Minturnae e Ponte Real Ferdinando"
   },
   {
+   "url": "https://www.culturabologna.it/agenda",
+   "dominio": "culturabologna.it",
+   "nome": "Calendario del Comune di Bologna (culturabologna.it)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 23,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "BO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.culturabologna.it/calendar",
    "dominio": "culturabologna.it",
    "nome": "Cultura Bologna - Calendario (Comune di Bologna)",
@@ -4091,6 +4287,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "EVENTI – Matera Welcome EVENTS"
+  },
+  {
+   "url": "https://www.evients.com/events/babbo-natale-allo-sherwood-christmas-festival/d5e3f9798b3c40d298d0de478b7e50c0",
+   "dominio": "evients.com",
+   "nome": "Evients, Sherwood Christmas Festival a Zumelle",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "BL"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.fabbricadelvapore.org/",
@@ -5277,6 +5489,22 @@
    "titolo": "Matera | Terre Immerse: presentazione di Driant Zeneli e Miquel Puddu Roca"
   },
   {
+   "url": "https://iltaccodibacco.it/bisceglie",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Eventi a Bitonto (listing)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://iltaccodibacco.it/campania/eventi/333796.html",
    "dominio": "iltaccodibacco.it",
    "nome": "",
@@ -5287,6 +5515,22 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Sant'Agata de' Goti | TEMI DA FILM  Un viaggio tra musica, cinema e tradizione napoletana!"
+  },
+  {
+   "url": "https://iltaccodibacco.it/puglia/eventi/335226.html",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Giobbe Covatta, Bitonto",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana",
@@ -6757,6 +7001,22 @@
    "titolo": "Archivi Eventi - Jazzinsieme"
   },
   {
+   "url": "https://labollateatro.it/",
+   "dominio": "labollateatro.it",
+   "nome": "LaBolla, Bollate",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.lacameratadellearti.it/",
    "dominio": "lacameratadellearti.it",
    "nome": "",
@@ -8212,6 +8472,22 @@
    "titolo": ""
   },
   {
+   "url": "https://palatour.it/",
+   "dominio": "palatour.it",
+   "nome": "Teatro Palatour Frecciarossa - Stagione 2026/27",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://palazzoareseborromeo.it/evento",
    "dominio": "palazzoareseborromeo.it",
    "nome": "Palazzo Arese Borromeo",
@@ -8632,6 +8908,22 @@
    ],
    "province": [
     "CE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://prolocobotticino.it/eventi",
+   "dominio": "prolocobotticino.it",
+   "nome": "Pro Loco Botticino - Eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -9547,6 +9839,22 @@
    ],
    "province": [
     "BT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.spaziomosaico.it/evento/oltre-gli-stereotipi-25-novembre-boscotrecase",
+   "dominio": "spaziomosaico.it",
+   "nome": "Spazio Mosaico - scheda evento",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -11206,6 +11514,22 @@
    "titolo": ""
   },
   {
+   "url": "https://veneto.piazzainfesta.it/bovolone/villaggio-di-natale-a-bovolone-125618",
+   "dominio": "veneto.piazzainfesta.it",
+   "nome": "Piazza in Festa - scheda evento",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.ventilucenti.it/evento-spettacolo/schiaccianoci-2026-petrarca",
    "dominio": "ventilucenti.it",
    "nome": "Venti Lucenti - Schiaccianoci 2026",
@@ -11401,6 +11725,22 @@
    ],
    "province": [
     "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitcuneese.it/dettaglio-evento/-/d/winter-outdoor-weekend-2026",
+   "dominio": "visitcuneese.it",
+   "nome": "Visit Cuneese, Winter Outdoor Weekend 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "CN"
    ],
    "consultata": "2026-11-04",
    "titolo": ""

@@ -2,30 +2,30 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**1271 eventi pubblicati, 1269 in programma.** Province con almeno un evento in programma: **110 su 110**.
+**1355 eventi pubblicati, 1353 in programma.** Province con almeno un evento in programma: **110 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Lombardia | 193 | 193 | 12 / 12 |
-| Toscana | 128 | 128 | 10 / 10 |
+| Lombardia | 216 | 216 | 12 / 12 |
+| Toscana | 130 | 130 | 10 / 10 |
+| Emilia-Romagna | 112 | 112 | 9 / 9 |
 | Sicilia | 110 | 110 | 9 / 9 |
-| Emilia-Romagna | 84 | 84 | 9 / 9 |
+| Puglia | 85 | 85 | 6 / 6 |
 | Lazio | 84 | 82 | 5 / 5 |
-| Veneto | 75 | 75 | 7 / 7 |
+| Veneto | 79 | 79 | 7 / 7 |
 | Liguria | 71 | 71 | 4 / 4 |
-| Campania | 70 | 70 | 5 / 5 |
-| Puglia | 70 | 70 | 6 / 6 |
-| Piemonte | 63 | 63 | 8 / 8 |
+| Campania | 71 | 71 | 5 / 5 |
+| Piemonte | 69 | 69 | 8 / 8 |
 | Marche | 60 | 60 | 5 / 5 |
 | Umbria | 47 | 47 | 2 / 2 |
 | Abruzzo | 38 | 38 | 4 / 4 |
 | Sardegna | 37 | 37 | 8 / 8 |
 | Calabria | 36 | 36 | 5 / 5 |
 | Friuli-Venezia Giulia | 31 | 31 | 4 / 4 |
+| Trentino-Alto Adige | 27 | 27 | 2 / 2 |
 | Valle d'Aosta | 22 | 22 | 1 / 1 |
-| Trentino-Alto Adige | 22 | 22 | 2 / 2 |
 | Molise | 16 | 16 | 2 / 2 |
 | Basilicata | 14 | 14 | 2 / 2 |
 
