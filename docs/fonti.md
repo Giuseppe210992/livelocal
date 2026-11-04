@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **337 pagine di 236 siti** hanno dato eventi; 55 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **352 pagine di 245 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -52,6 +52,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Alfieri Asti | ufficiale | 5 | https://www.teatroalfieriasti.it/events/elenco | 2026-11-04 |
 | La Nuova Provincia | stampa | 1 | https://www.lanuovaprovincia.it/news/cultura-e-spettacoli/505561/palazzo-mazzetti-alla-scoperta-dell-art-nouveau-con-alphonse-mucha.html | 2026-11-04 |
 | Il Magico Paese di Natale | organizzatore | 1 | https://www.magicopaesedinatale.com/mercatino-di-asti | 2026-11-04 |
+| Paesaggi Vitivinicoli UNESCO Piemonte | aggregatore | 1 | https://www.paesaggivitivinicoliunesco.it/it/eventi/il-natale-in-via-principe-agliano-terme | 2026-11-04 |
 | Visit Langhe Monferrato Roero | ufficiale | 1 | https://www.visitlmr.it/it/eventi/calendario-eventi/generici/monferrato/mostra-alphonse-mucha-palazzo-mazzetti-asti | 2026-11-04 |
 
 ### Alessandria (AL)
@@ -134,6 +135,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
+| SanMartinoEvents Festa 2026 | organizzatore | 6 | https://www.sanmartinoevents.it/ | 2026-11-04 |
 | Fondazione Bernareggi - Eventi e mostre | organizzatore | 5 | https://fondazionebernareggi.it/eventi-mostre | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/festival-donizetti-opera-2026 | 2026-11-03 |
 
@@ -142,6 +144,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Teatro Grande di Brescia - Calendario | ufficiale | 14 | https://teatrogrande.it/it/calendario | 2026-11-04 |
+| Comune di Adro | ufficiale | 4 | https://www.comune.adro.bs.it/vivere-il-comune/eventi/calici-di-poesia (+3 altre pagine) | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana | 2026-11-03 |
 
 ### Pavia (PV)
@@ -209,6 +212,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Mart, mostre ed eventi | ufficiale | 7 | https://www.mart.tn.it/mostre-eventi | 2026-11-04 |
 | Trento Città del Natale | ufficiale | 1 | https://natale.visittrento.it/mercatino | 2026-11-03 |
+| Visit Rovereto e Vallagarina | ufficiale | 1 | https://www.visitrovereto.it/vivi/eventi/mercatino-di-natale-ala | 2026-11-04 |
 
 ## Veneto
 
@@ -255,6 +259,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Casa al Carmine - Mostre in Veneto 2026-2027 | aggregatore | 5 | https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027 | 2026-11-03 |
+| Museo Villa Bassi Rathgeb | organizzatore | 5 | https://www.museovillabassiabano.it/eventi-in-corso (+1 altre pagine) | 2026-11-04 |
+| Teatro Pietro d'Abano | organizzatore | 5 | https://teatropietrodabano.it/en/eventi-teatro | 2026-11-04 |
 | Arte.it - Mostre Padova novembre 2026 | aggregatore | 1 | https://www.arte.it/calendario-arte/padova/2026/11 | 2026-11-03 |
 | Palazzo Zabarella | organizzatore | 1 | https://www.zabarella.it/ | 2026-11-03 |
 
@@ -456,6 +462,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Comune di Siena – Siena Incanta | ufficiale | 15 | https://www.comune.siena.it/novita/siena-incanta-si-accende-il-natale-siena-eventi-spettacoli-e-mostre-internazionali-le | 2026-11-03 |
 | Tempo Libero Toscana | aggregatore | 4 | https://www.tempoliberotoscana.it/eventcategory/siena-arezzo | 2026-11-03 |
+| Italia.it | ufficiale | 1 | https://www.italia.it/it/toscana/siena/cosa-fare/evento-fiaccole-di-natale-abbadia-san-salvatore | 2026-11-04 |
 
 ### Grosseto (GR)
 
@@ -495,6 +502,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Programma 61a Fiera del Tartufo Bianco di Acqualagna | organizzatore | 12 | https://acqualagna.com/programma | 2026-11-04 |
 | Turismo Marche (Regione Marche) | ufficiale | 2 | https://letsmarche.it/-/tatuaggi.-storie-dal-mediterraneo (+1 altre pagine) | 2026-11-03 |
 | Teatri di Pesaro - prosa 2026.27 | organizzatore | 2 | https://www.teatridipesaro.it/categoria/prosa2026-27 | 2026-11-04 |
 
@@ -668,6 +676,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Salerno Cultura – Comune di Salerno | ufficiale | 4 | https://cultura.comune.salerno.it/eventi/la-vedova-allegra-2026 (+3 altre pagine) | 2026-11-03 |
+| Il Tacco di Bacco | aggregatore | 4 | https://iltaccodibacco.it/agropoli | 2026-11-04 |
 | eCampania | stampa | 1 | https://www.ecampania.it/evento/eventi/517526/salerno-si-accendono-le-luci-dartista-ecco-le-date.html | 2026-11-03 |
 | Il Borghista | aggregatore | 1 | https://www.ilborghista.it/events/49-sagra-della-castagna-e-dei-prodotti-del-sottobosco-2026-associazione-pro-loco-acerno | 2026-11-03 |
 | Luci d'Artista (lucidartista.it) | stampa | 1 | https://www.lucidartista.it/salerno-mostra-darte-presepiale-dal-07-novembre-2026-al-10-gennaio-2027.html | 2026-11-03 |
@@ -689,6 +698,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fondazione Teatro Petruzzelli | ufficiale | 12 | https://www.fondazionepetruzzelli.it/category/eventi | 2026-11-04 |
 | Puglia Culture - Stagione Teatrale di Bari 2026/27 | organizzatore | 9 | https://www.pugliaculture.it/rassegna/bari-umano-collettivo-stagione-teatrale-2026-27 | 2026-11-04 |
 | SiViaggia | stampa | 3 | https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020 | 2026-11-03 |
+| TEDx - pagina dell'evento | organizzatore | 1 | https://www.ted.com/tedx/events/67474 | 2026-11-04 |
 
 ### Taranto (TA)
 
@@ -803,6 +813,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Il Mediterraneo 24 | stampa | 4 | https://www.ilmediterraneo24.it/cultura/sambuca-al-teatro-lidea-la-nuova-stagione-da-fo-e-pirandello-allinclusione-di-educolab | 2026-11-04 |
+| AnyTicket - biglietteria del Teatro Pirandello | organizzatore | 2 | https://www.anyticket.it/anyticketprod/Default.aspx?partner=PIRA | 2026-11-04 |
 | Fondazione Teatro Pirandello | ufficiale | 1 | https://fondazioneteatropirandello.it/2026/05/teatro-pirandello-ecco-la-nuova-stagione-2026-2027 | 2026-11-04 |
 
 ### Caltanissetta (CL)
@@ -904,7 +915,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-55 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+59 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 
