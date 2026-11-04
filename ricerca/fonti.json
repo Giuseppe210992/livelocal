@@ -171,6 +171,22 @@
    "titolo": "Teatro Neglia | AENNA"
   },
   {
+   "url": "https://www.agendaonline.it/teatro-carlo-gesualdo-avellino",
+   "dominio": "agendaonline.it",
+   "nome": "Agendaonline.it",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "AV"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.agrigentonotizie.it/eventi",
    "dominio": "agrigentonotizie.it",
    "nome": "",
@@ -559,6 +575,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.avellinotoday.it/eventi/dal/2026-11-01/al/2026-11-01",
+   "dominio": "avellinotoday.it",
+   "nome": "AvellinoToday",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "AV"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.avellinotoday.it/eventi/location/teatro-gesualdo",
    "dominio": "avellinotoday.it",
    "nome": "",
@@ -569,6 +601,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Teatro Gesualdo: tutti gli eventi"
+  },
+  {
+   "url": "https://bagnacavallocultura.it/il-programma",
+   "dominio": "bagnacavallocultura.it",
+   "nome": "Bagnacavallo Cultura",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "http://www.balarm.it/tutti-gli-eventi-a-caltanissetta-e-provincia-di-dicembre-2026",
@@ -764,6 +812,38 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Eventi in Basilicata - Basilicata Turistica"
+  },
+  {
+   "url": "https://www.bastia.it/novembre-un-mese-di-cultura-e-non-solo-per-bastia",
+   "dominio": "bastia.it",
+   "nome": "bastia.it (Novembre: un mese di cultura e non solo per Bastia)",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.battipaglianews.it/politica/dal-comune/battipaglia-eventi-di-novembre-stasera-tammorre-senza-frontiere-in-via-italia-e-musica-al-salotto-comunale-il-calendario",
+   "dominio": "battipaglianews.it",
+   "nome": "Battipaglia News (calendario del Comune di Battipaglia)",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 7,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "SA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.beneventocentro.it/eventi/come-d-incanto-il-natale-al-castello-di-ceppaloni",
@@ -979,6 +1059,22 @@
     "CZ"
    ],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://calabriastraordinaria.it/eventi/i-treni-del-torrone",
+   "dominio": "calabriastraordinaria.it",
+   "nome": "Calabria Straordinaria",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "RC"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -1861,6 +1957,54 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.badiapolesine.ro.it/eventi",
+   "dominio": "comune.badiapolesine.ro.it",
+   "nome": "Comune di Badia Polesine",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "RO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bagheria.pa.it/it/eventi",
+   "dominio": "comune.bagheria.pa.it",
+   "nome": "Comune di Bagheria",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "PA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.baranzate.mi.it/it/news/celebrazione-giorno-dell-unita-nazionale-e-giornata-delle-forze-armate-domenica-8-novembre-2026",
+   "dominio": "comune.baranzate.mi.it",
+   "nome": "Comune di Baranzate",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.bari.it/-/umano-collettivo-presentata-la-stagione-teatrale-di-bari-2026/27-al-teatro-piccinni-il-nuovo-cartellone-tra-grandi-ritorni-talenti-pugliesi-e-nuove-visioni",
    "dominio": "comune.bari.it",
    "nome": "",
@@ -1869,6 +2013,134 @@
    "eventi": 0,
    "regioni": [],
    "province": [],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bedizzole.bs.it/area_letturaEvento/11510/pagsistema.html",
+   "dominio": "comune.bedizzole.bs.it",
+   "nome": "Comune di Bedizzole - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bedizzole.bs.it/area_letturaEvento/11516/pagsistema.html",
+   "dominio": "comune.bedizzole.bs.it",
+   "nome": "Comune di Bedizzole - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bedizzole.bs.it/area_letturaEvento/11517/pagsistema.html",
+   "dominio": "comune.bedizzole.bs.it",
+   "nome": "Comune di Bedizzole - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bedizzole.bs.it/area_letturaEvento/11518/pagsistema.html",
+   "dominio": "comune.bedizzole.bs.it",
+   "nome": "Comune di Bedizzole - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bellaria-igea-marina.rn.it/it/events/camminata-dei-golosi-732589",
+   "dominio": "comune.bellaria-igea-marina.rn.it",
+   "nome": "Comune di Bellaria Igea Marina - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bellaria-igea-marina.rn.it/it/events/wonder-walks-christmas",
+   "dominio": "comune.bellaria-igea-marina.rn.it",
+   "nome": "Comune di Bellaria Igea Marina - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bernareggio.mb.it/it/events/alpini-15-anniversario-gruppo-alpini-bernareggio",
+   "dominio": "comune.bernareggio.mb.it",
+   "nome": "Comune di Bernareggio - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.bernareggio.mb.it/it/events/biblioteca-tempo-d-autore-venerdi-13-novembre",
+   "dominio": "comune.bernareggio.mb.it",
+   "nome": "Comune di Bernareggio - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
    "consultata": "2026-11-04",
    "titolo": ""
   },
@@ -3297,6 +3569,38 @@
    "titolo": ""
   },
   {
+   "url": "https://www.donizettiopera.org/it",
+   "dominio": "donizettiopera.org",
+   "nome": "Donizetti Opera Festival - Calendario",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 12,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.dovealucca.it/eventi-lucca/10170-barga-in-cioccolato-2026",
+   "dominio": "dovealucca.it",
+   "nome": "dovealucca.it",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "LU"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449",
    "dominio": "dovesagrare.it",
    "nome": "Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica)",
@@ -3308,6 +3612,22 @@
    ],
    "province": [
     "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.e-borghi.com/eventi/barga/barga-in-cioccolato-2026",
+   "dominio": "e-borghi.com",
+   "nome": "e-borghi.com",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "LU"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -3807,6 +4127,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Comune di Formia"
+  },
+  {
+   "url": "https://www.facebook.com/comunebastiaumbra/posts/-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%A7-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%9A%F0%9D%97%AE%F0%9D%98%87%F0%9D%97%AE-a-bastia-umbra-la-mostra-dei-disegni-dei-bambini-di-gazadal-%F0%9D%9F%AD%F0%9D%9F%AC-%F0%9D%97%AE%F0%9D%97%B9/1607097811441633",
+   "dominio": "facebook.com",
+   "nome": "Comune di Bastia Umbra (pagina Facebook)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.facebook.com/events/mignano-monte-lungo/inno-al-novello-mignano-monte-lungo-ce/409922013263900/?locale=es_ES",
@@ -4681,6 +5017,22 @@
    "titolo": "Teatro Nuovo Giovanni da Udine - Heracomm"
   },
   {
+   "url": "https://www.i-ticket.it/location/teatro-dei-marsi-avezzano",
+   "dominio": "i-ticket.it",
+   "nome": "i-ticket (biglietteria)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "AQ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.iblamagiadelnatale.it/",
    "dominio": "iblamagiadelnatale.it",
    "nome": "",
@@ -4706,6 +5058,22 @@
     "SA"
    ],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.ilborghista.it/events/sagra-della-strazzata-festival-dei-grani-antichi",
+   "dominio": "ilborghista.it",
+   "nome": "Il Borghista",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Basilicata"
+   ],
+   "province": [
+    "PZ"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -6986,7 +7354,7 @@
    "nome": "Lunigiana World - Calendario eventi",
    "tipo": "aggregatore",
    "esito": "letta",
-   "eventi": 2,
+   "eventi": 3,
    "regioni": [
     "Toscana"
    ],
@@ -7366,6 +7734,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Mostre ed eventi"
+  },
+  {
+   "url": "https://www.museibassano.it/it/eventi",
+   "dominio": "museibassano.it",
+   "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.museicivicitreviso.it/mostre-ed-eventi/la-materia-dei-sogni-radici-dellarte-africana-contemporanea",
@@ -8203,6 +8587,38 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Presepe Vivente nei Sassi di Matera – Nuova edizione del Presepe Vivente – Prenota Adesso!"
+  },
+  {
+   "url": "https://prolocoaversa.it/evento/capolavori-in-luce-percorsi-tematici-diagnostici-e-digitali",
+   "dominio": "prolocoaversa.it",
+   "nome": "Pro Loco Aversa Normanna",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "CE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://prolocoaversa.it/evento/il-vino-solidale-castagne-vino-e-prodotti-tipici-aversani",
+   "dominio": "prolocoaversa.it",
+   "nome": "Pro Loco Aversa Normanna",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "CE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.prolococastelvenere.it/2026/10/27/festa-del-novello-castagne-e-grottone-7-8-novembre-2026",
@@ -10958,6 +11374,38 @@
    "titolo": ""
   },
   {
+   "url": "https://www.visitbertinoro.it/it/eventi/festa-di-santa-caterina-2026",
+   "dominio": "visitbertinoro.it",
+   "nome": "Visit Bertinoro - Festa di Santa Caterina 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitdolomitibellunesi.com/it/eventi/concerto-omaggioa-dino-buzzati",
+   "dominio": "visitdolomitibellunesi.com",
+   "nome": "Visit Dolomiti Bellunesi - Calendario eventi",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "BL"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://visitfeltre.info/categoriaevento/programma-eventi-estivi-a-feltre",
    "dominio": "visitfeltre.info",
    "nome": "Visit Feltre",
@@ -11574,6 +12022,22 @@
    "eventi": 0,
    "regioni": [],
    "province": [],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.viviromagna.it/bagnacavallo",
+   "dominio": "viviromagna.it",
+   "nome": "Vivi Romagna",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RA"
+   ],
    "consultata": "2026-11-04",
    "titolo": ""
   },
