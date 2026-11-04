@@ -2,7 +2,7 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**292 eventi pubblicati, 290 in programma.** Province con almeno un evento in programma: **73 su 110**.
+**303 eventi pubblicati, 301 in programma.** Province con almeno un evento in programma: **75 su 110**.
 
 ## Per regione
 
@@ -14,17 +14,17 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 | Piemonte | 25 | 25 | 6 / 8 |
 | Emilia-Romagna | 24 | 24 | 7 / 9 |
 | Liguria | 15 | 15 | 4 / 4 |
+| Sardegna | 13 | 13 | 4 / 8 |
 | Veneto | 12 | 12 | 6 / 7 |
+| Marche | 11 | 11 | 5 / 5 |
 | Umbria | 10 | 10 | 2 / 2 |
 | Puglia | 10 | 10 | 5 / 6 |
 | Valle d'Aosta | 8 | 8 | 1 / 1 |
 | Lombardia | 8 | 8 | 6 / 12 |
 | Abruzzo | 8 | 8 | 4 / 4 |
 | Calabria | 8 | 8 | 4 / 5 |
-| Sardegna | 8 | 8 | 3 / 8 |
 | Basilicata | 7 | 7 | 1 / 2 |
 | Friuli-Venezia Giulia | 5 | 5 | 2 / 4 |
-| Marche | 5 | 5 | 4 / 5 |
 | Trentino-Alto Adige | 4 | 4 | 2 / 2 |
 | Sicilia | 4 | 4 | 3 / 9 |
 | Molise | 2 | 2 | 1 / 2 |
@@ -50,7 +50,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Arezzo (AR), Toscana
 - Grosseto (GR), Toscana
 - Prato (PO), Toscana
-- Ascoli Piceno (AP), Marche
 - Viterbo (VT), Lazio
 - Rieti (RI), Lazio
 - Isernia (IS), Molise
@@ -67,7 +66,6 @@ File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 - Gallura Nord-Est Sardegna (OT), Sardegna
 - Ogliastra (OG), Sardegna
 - Medio Campidano (VS), Sardegna
-- Sulcis Iglesiente (CI), Sardegna
 
 ## Instagram
 
