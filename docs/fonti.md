@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **445 pagine di 310 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **446 pagine di 311 siti** hanno dato eventi; 61 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -450,8 +450,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Lunigiana World - Calendario eventi | aggregatore | 4 | https://www.lunigianaworld.it/calendario-eventi | 2026-11-04 |
 | Teatro Guglielmi (Comune di Massa) - Spettacoli | ufficiale | 4 | https://www.teatroguglielmi.it/spettacoli | 2026-11-04 |
-| Lunigiana World - Calendario eventi | aggregatore | 3 | https://www.lunigianaworld.it/calendario-eventi | 2026-11-04 |
 
 ### Lucca (LU)
 
@@ -642,10 +642,10 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| i-ticket (biglietteria) | aggregatore | 5 | https://www.i-ticket.it/location/teatro-dei-marsi-avezzano | 2026-11-04 |
 | SiViaggia | stampa | 4 | https://siviaggia.it/notizie/sagre-feste-abruzzo-novembre-2026/606004 | 2026-11-03 |
 | Teatro Stabile d'Abruzzo - Crescere a Teatro 2026/2027 | organizzatore | 2 | https://teatrostabile.abruzzo.it/torna-la-rassegna-del-tsa-crescere-a-teatro-2026-2027 | 2026-11-04 |
 | Barattelli Concerti | organizzatore | 1 | https://barattelli.it/home_slides/9319 | 2026-11-04 |
-| i-ticket (biglietteria) | aggregatore | 1 | https://www.i-ticket.it/location/teatro-dei-marsi-avezzano | 2026-11-04 |
 | L'Aquila Congressi - La Città torna a Teatro | organizzatore | 1 | https://www.laquilacongressi.it/evento/visita-teatro-comunale-21-novembre | 2026-11-04 |
 
 ### Teramo (TE)
@@ -728,8 +728,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Comune di Atripalda - Atripalda Letteraria | ufficiale | 7 | https://www.comune.atripalda.av.it/it/eventi/atripalda-letteraria | 2026-11-04 |
 | Agendaonline.it | aggregatore | 2 | https://www.agendaonline.it/teatro-carlo-gesualdo-avellino | 2026-11-04 |
+| AvellinoToday | stampa | 2 | https://www.avellinotoday.it/eventi/dal/2026-11-01/al/2026-11-01 | 2026-11-04 |
 | Sistema Irpinia – Provincia di Avellino | aggregatore | 2 | https://sistemairpinia.provincia.avellino.it/it/eventi/festa-della-castagna-di-montella-igp-2026 (+1 altre pagine) | 2026-11-03 |
-| AvellinoToday | stampa | 1 | https://www.avellinotoday.it/eventi/dal/2026-11-01/al/2026-11-01 | 2026-11-04 |
 | Concerti Italia | aggregatore | 1 | https://www.concerti-italia.it/concerti/sal-da-vinci-in-concerto-a-avellino-07-novembre-2026-biglietti-e-info | 2026-11-04 |
 
 ### Salerno (SA)
@@ -800,6 +800,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Città delle 100 scale festival (programma 2026) | organizzatore | 8 | https://www.cittacentoscale.it/ita/programma-2026 (+1 altre pagine) | 2026-11-03 |
+| Clappit (biglietteria) | aggregatore | 1 | https://www.clappit.com/biglietti/massima-potenza-iii-15-novembre-2026-palasport-avigliano-avigliano-40298.html | 2026-11-04 |
 | Il Borghista | aggregatore | 1 | https://www.ilborghista.it/events/sagra-della-strazzata-festival-dei-grani-antichi | 2026-11-04 |
 
 ### Matera (MT)

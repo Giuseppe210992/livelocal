@@ -580,7 +580,7 @@
    "nome": "AvellinoToday",
    "tipo": "stampa",
    "esito": "letta",
-   "eventi": 1,
+   "eventi": 2,
    "regioni": [
     "Campania"
    ],
@@ -1476,6 +1476,22 @@
    ],
    "province": [
     "RC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.clappit.com/biglietti/massima-potenza-iii-15-novembre-2026-palasport-avigliano-avigliano-40298.html",
+   "dominio": "clappit.com",
+   "nome": "Clappit (biglietteria)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Basilicata"
+   ],
+   "province": [
+    "PZ"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -5022,7 +5038,7 @@
    "nome": "i-ticket (biglietteria)",
    "tipo": "aggregatore",
    "esito": "letta",
-   "eventi": 1,
+   "eventi": 5,
    "regioni": [
     "Abruzzo"
    ],
@@ -7354,7 +7370,7 @@
    "nome": "Lunigiana World - Calendario eventi",
    "tipo": "aggregatore",
    "esito": "letta",
-   "eventi": 3,
+   "eventi": 4,
    "regioni": [
     "Toscana"
    ],

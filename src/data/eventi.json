@@ -42022,5 +42022,236 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "setak-assamanu-tour-avezzano",
+    "titolo": "Setak - Assamanù Tour",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": null,
+    "luogo": "Teatro dei Marsi",
+    "indirizzo": "Via Cavalieri di Vittorio Veneto, Avezzano",
+    "cap": null,
+    "comune": "066006",
+    "frazione": null,
+    "lat": 42.0373,
+    "lon": 13.44601,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del tour di Setak al Teatro dei Marsi. Si tiene a Teatro dei Marsi, a Avezzano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "i-ticket (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.i-ticket.it/location/teatro-dei-marsi-avezzano",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-medico-dei-pazzi-avezzano",
+    "titolo": "Il medico dei pazzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T18:00",
+    "fine": null,
+    "luogo": "Teatro dei Marsi",
+    "indirizzo": "Via Cavalieri di Vittorio Veneto, Avezzano",
+    "cap": null,
+    "comune": "066006",
+    "frazione": null,
+    "lat": 42.0373,
+    "lon": 13.44601,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale domenicale al Teatro dei Marsi. Si tiene a Teatro dei Marsi, a Avezzano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "i-ticket (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.i-ticket.it/location/teatro-dei-marsi-avezzano",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-avventura-di-un-povero-cristiano-avezzano",
+    "titolo": "L'avventura di un povero cristiano",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T18:00",
+    "fine": null,
+    "luogo": "Teatro dei Marsi",
+    "indirizzo": "Via Cavalieri di Vittorio Veneto, Avezzano",
+    "cap": null,
+    "comune": "066006",
+    "frazione": null,
+    "lat": 42.0373,
+    "lon": 13.44601,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale domenicale al Teatro dei Marsi. Si tiene a Teatro dei Marsi, a Avezzano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "i-ticket (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.i-ticket.it/location/teatro-dei-marsi-avezzano",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pazza-avezzano",
+    "titolo": "Pazza",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:00",
+    "fine": null,
+    "luogo": "Teatro dei Marsi",
+    "indirizzo": "Via Cavalieri di Vittorio Veneto, Avezzano",
+    "cap": null,
+    "comune": "066006",
+    "frazione": null,
+    "lat": 42.0373,
+    "lon": 13.44601,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale serale al Teatro dei Marsi. Si tiene a Teatro dei Marsi, a Avezzano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "i-ticket (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.i-ticket.it/location/teatro-dei-marsi-avezzano",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "coras-courage-urban-center-avellino",
+    "titolo": "Mostra fotografica «Cora's courage»",
+    "categoria": "mostra",
+    "inizio": "2026-10-20",
+    "fine": "2026-11-12",
+    "luogo": "Urban Center",
+    "indirizzo": "Avellino",
+    "cap": null,
+    "comune": "064008",
+    "frazione": null,
+    "lat": 40.91364,
+    "lon": 14.78778,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica in corso all'Urban Center della città. Si tiene a Urban Center, a Avellino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "AvellinoToday",
+        "tipo": "stampa",
+        "url": "https://www.avellinotoday.it/eventi/dal/2026-11-01/al/2026-11-01/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "san-martino-trail-albiano-magra-aulla",
+    "titolo": "San Martino Trail",
+    "categoria": "sport",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Albiano Magra",
+    "indirizzo": "Albiano Magra, Aulla",
+    "cap": null,
+    "comune": "045001",
+    "frazione": null,
+    "lat": 44.20234,
+    "lon": 9.99115,
+    "coordinateApprossimate": true,
+    "descrizione": "Corsa trail di San Martino ad Albiano Magra. Si tiene a Albiano Magra, a Aulla.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lunigiana World",
+        "tipo": "aggregatore",
+        "url": "https://www.lunigianaworld.it/calendario-eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "massima-potenza-iii-avigliano",
+    "titolo": "Massima Potenza III - Premium Championship Wrestling",
+    "categoria": "sport",
+    "inizio": "2026-11-15T18:30",
+    "fine": null,
+    "luogo": "Palasport Avigliano",
+    "indirizzo": "Avigliano",
+    "cap": null,
+    "comune": "076007",
+    "frazione": null,
+    "lat": 40.77038,
+    "lon": 15.75749,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di wrestling al palasport cittadino. Si tiene a Palasport Avigliano, a Avigliano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Clappit (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.clappit.com/biglietti/massima-potenza-iii-15-novembre-2026-palasport-avigliano-avigliano-40298.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
