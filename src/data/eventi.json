@@ -47591,8 +47591,8 @@
     "slug": "antica-fiera-carmignano-2026",
     "titolo": "Antica Fiera di Carmignano 2026",
     "categoria": "mercatino",
-    "inizio": "2026-12-01",
-    "fine": null,
+    "inizio": "2026-11-28",
+    "fine": "2026-12-01",
     "luogo": "Piazza Matteotti e Piazza Vittorio Emanuele II",
     "indirizzo": "Piazza Matteotti e Piazza Vittorio Emanuele II, Carmignano",
     "cap": null,
@@ -47601,13 +47601,19 @@
     "lat": 43.79973,
     "lon": 11.01859,
     "coordinateApprossimate": true,
-    "descrizione": "Fiera tradizionale con mercatini di prodotti tipici della zona, degustazioni, spettacoli e laboratori per bambini. L'ingresso è gratuito.",
+    "descrizione": "Fiera tradizionale con mercatini di prodotti tipici della zona, degustazioni, spettacoli e laboratori per bambini. L'ingresso è gratuito. La Pro Loco annuncia tre giornate: 28 e 29 novembre e 1 dicembre.",
     "prezzo": {
       "tipo": "gratuito"
     },
     "prenotazione": null,
     "organizzatore": "Pro Loco Carmignano",
     "fonti": [
+      {
+        "nome": "Pro Loco di Carmignano (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfKU7ddtVAr/",
+        "consultata": "2026-11-04"
+      },
       {
         "nome": "Comune di Prato - Tempo libero (scheda evento)",
         "tipo": "aggregatore",
@@ -56851,6 +56857,71 @@
         "nome": "Comune di Borgo San Lorenzo (Instagram)",
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfUMhwXjH_G/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": "2026-12-13T18:00",
+    "prenotazione": null,
+    "slug": "magia-del-natale-mercatini-cameri-2026-12-13",
+    "titolo": "La magia del Natale a Cameri: mercatini e laboratori per bambini",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T10:00",
+    "luogo": "Piazza Dante Alighieri",
+    "indirizzo": "Piazza Dante Alighieri, Cameri",
+    "comune": "003032",
+    "lat": 45.5144,
+    "lon": 8.6652,
+    "descrizione": "Domenica 13 dicembre, dalle 10 alle 18, mercatini natalizi e laboratori per bambini in piazza Dante Alighieri, organizzati dalla Pro Loco di Cameri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Cameri",
+    "fonti": [
+      {
+        "nome": "Pro Loco Cameri (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfDLnlwx8Ye/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "la-favola-del-principe-granchio-teatro-ferrari-camposampiero",
+    "titolo": "La favola del Principe Granchio al Teatro Ferrari",
+    "categoria": "bambini",
+    "inizio": "2027-01-10T16:00",
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Camposampiero",
+    "comune": "028019",
+    "lat": 45.5698,
+    "lon": 11.9472,
+    "descrizione": "Spettacolo della compagnia La Piccionaia per le famiglie, dai 5 anni, liberamente ispirato a una fiaba raccolta da Italo Calvino: il viaggio di una principessa che impara a fidarsi di sé e a superare le paure. Biglietto unico 5 euro; carnet famiglia 13 euro (3 persone) o 16 euro (4 persone).",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Teatro Ferrari",
+    "fonti": [
+      {
+        "nome": "Teatro Ferrari (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfEUKnkDac-/",
         "consultata": "2026-11-04"
       }
     ]
