@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **368 pagine di 255 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **380 pagine di 265 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -22,7 +22,9 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Diocesi di Torino (calendario) | stampa | 4 | https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-cera-una-svolta-festival-sulle-svolte-storiche-dellumanita-7 (+1 altre pagine) | 2026-11-04 |
 | Gallerie d'Italia Torino | ufficiale | 2 | https://www.gallerieditalia.com/it/torino/mostre-e-iniziative | 2026-11-03 |
+| Teatro Magnetto - Camaleontika 2026 | organizzatore | 2 | https://www.teatromagnetto.it/event/camaleontika-2026/2026-05-23 | 2026-11-04 |
 
 ### Vercelli (VC)
 
@@ -111,6 +113,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro Sociale di Como | ufficiale | 8 | https://teatrosocialecomo.it/calendario | 2026-11-04 |
 | Città dei Balocchi Lake Como | organizzatore | 2 | https://www.cittadeibalocchi.it/ | 2026-11-04 |
 | Comune di Como | ufficiale | 2 | https://www.comune.como.it/vivere-il-comune/eventi/Morazzone-a-Como-00001 (+1 altre pagine) | 2026-11-04 |
+| Visit Alta Valle Intelvi | ufficiale | 1 | https://www.visitaltavalleintelvi.com/eventi-alta-valle-intelvi | 2026-11-04 |
 
 ### Sondrio (SO)
 
@@ -140,6 +143,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | SanMartinoEvents Festa 2026 | organizzatore | 6 | https://www.sanmartinoevents.it/ | 2026-11-04 |
 | Comune di Albino | ufficiale | 5 | https://www.comune.albino.bg.it/it/eventi/romanzo-di-dio (+4 altre pagine) | 2026-11-04 |
 | Fondazione Bernareggi - Eventi e mostre | organizzatore | 5 | https://fondazionebernareggi.it/eventi-mostre | 2026-11-04 |
+| Eco di Bergamo - Eventi | stampa | 2 | https://www.ecodibergamo.it/eventi/eppen/dettaglio/manifestazioni/almenno-san-bartolomeo/almenno-divino_306356 | 2026-11-04 |
+| Comune di Almenno San Bartolomeo | ufficiale | 1 | https://www.comune.almennosanbartolomeo.bergamo.it/eventi-data?data=11-11-2026 | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/festival-donizetti-opera-2026 | 2026-11-03 |
 
 ### Brescia (BS)
@@ -148,6 +153,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Teatro Grande di Brescia - Calendario | ufficiale | 14 | https://teatrogrande.it/it/calendario | 2026-11-04 |
 | Comune di Adro | ufficiale | 4 | https://www.comune.adro.bs.it/vivere-il-comune/eventi/calici-di-poesia (+3 altre pagine) | 2026-11-04 |
+| Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica) | aggregatore | 1 | https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449 | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/24a-rassegna-della-microeditoria-italiana | 2026-11-03 |
 
 ### Pavia (PV)
@@ -242,6 +248,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Visit Feltre | ufficiale | 3 | https://visitfeltre.info/categoriaevento/programma-eventi-estivi-a-feltre | 2026-11-04 |
+| Comune di Alpago | ufficiale | 1 | https://www.comune.alpago.bl.it/ | 2026-11-04 |
 
 ### Treviso (TV)
 
@@ -325,6 +332,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Scopri Albenga - calendario eventi | aggregatore | 26 | https://www.scoprialbenga.it/eventi.htm | 2026-11-04 |
 | Teatro Chiabrera | ufficiale | 6 | https://teatrochiabrera.it/artistica-2026-27 | 2026-11-03 |
 | Visit Savona - Il Teatro Chiabrera dà il via alla Stagione 2026/27 | ufficiale | 6 | https://www.visitsavona.com/it/il-teatro-chiabrera-da-il-via-alla-stagione-2026-27 | 2026-11-03 |
+| Museo dell'Arte Vetraria Altarese | organizzatore | 1 | https://www.museodelvetro.org/ | 2026-11-04 |
 
 ### Genova (GE)
 
@@ -348,6 +356,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Comune di Piacenza - Eventi | ufficiale | 3 | https://www.comune.piacenza.it/it/eventi | 2026-11-03 |
+| Comune di Alta Val Tidone | ufficiale | 1 | https://www.comune.altavaltidone.pc.it/it/eventi/festa-dei-mugnai-mulino-borgo-lentino-edizione-2026 | 2026-11-04 |
 
 ### Parma (PR)
 
@@ -707,8 +716,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Fondazione Teatro Petruzzelli | ufficiale | 12 | https://www.fondazionepetruzzelli.it/category/eventi | 2026-11-04 |
 | Puglia Culture - Stagione Teatrale di Bari 2026/27 | organizzatore | 9 | https://www.pugliaculture.it/rassegna/bari-umano-collettivo-stagione-teatrale-2026-27 | 2026-11-04 |
+| Il Tacco di Bacco | aggregatore | 5 | https://iltaccodibacco.it/altamura (+1 altre pagine) | 2026-11-04 |
 | SiViaggia | stampa | 3 | https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020 | 2026-11-03 |
-| Il Tacco di Bacco - Eventi a Alberobello | aggregatore | 1 | https://iltaccodibacco.it/alberobello | 2026-11-04 |
 | TEDx - pagina dell'evento | organizzatore | 1 | https://www.ted.com/tedx/events/67474 | 2026-11-04 |
 
 ### Taranto (TA)
@@ -873,6 +882,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Turismo Sassari – Calendario eventi | ufficiale | 4 | https://turismosassari.it/calendario-eventi (+3 altre pagine) | 2026-11-04 |
+| Alghero Turismo - calendario eventi | ufficiale | 1 | https://algheroturismo.eu/eventi-alghero | 2026-11-04 |
 
 ### Gallura Nord-Est Sardegna (OT)
 

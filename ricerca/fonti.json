@@ -223,6 +223,22 @@
    "titolo": "Fiera di San Martino"
   },
   {
+   "url": "https://algheroturismo.eu/eventi-alghero",
+   "dominio": "algheroturismo.eu",
+   "nome": "Alghero Turismo - calendario eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sardegna"
+   ],
+   "province": [
+    "SS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.amatmarche.net/",
    "dominio": "amatmarche.net",
    "nome": "AMAT - Platea delle Marche",
@@ -1440,6 +1456,54 @@
    ],
    "province": [
     "TN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.almennosanbartolomeo.bergamo.it/eventi-data?data=11-11-2026",
+   "dominio": "comune.almennosanbartolomeo.bergamo.it",
+   "nome": "Comune di Almenno San Bartolomeo",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.alpago.bl.it/",
+   "dominio": "comune.alpago.bl.it",
+   "nome": "Comune di Alpago",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "BL"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.altavaltidone.pc.it/it/eventi/festa-dei-mugnai-mulino-borgo-lentino-edizione-2026",
+   "dominio": "comune.altavaltidone.pc.it",
+   "nome": "Comune di Alta Val Tidone",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "PC"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -2833,6 +2897,38 @@
    "titolo": "IG User Business Discovery | Meta for Developers"
   },
   {
+   "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-cera-una-svolta-festival-sulle-svolte-storiche-dellumanita-7",
+   "dominio": "diocesi.torino.it",
+   "nome": "Diocesi di Torino (calendario)",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-giornata-internazionale-contro-la-violenza-sulle-donne-un-mese-di-iniziative",
+   "dominio": "diocesi.torino.it",
+   "nome": "Diocesi di Torino (calendario)",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://direzioneregionalemuseilazio.cultura.gov.it/eventi/aperture-straordinarie-del-ponte-real-ferdinando",
    "dominio": "direzioneregionalemuseilazio.cultura.gov.it",
    "nome": "Direzione regionale Musei nazionali Lazio",
@@ -2860,6 +2956,22 @@
    ],
    "province": [
     "AR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449",
+   "dominio": "dovesagrare.it",
+   "nome": "Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -2911,6 +3023,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Mostre in Campania, novembre 2026: gli appuntamenti da non perdere"
+  },
+  {
+   "url": "https://www.ecodibergamo.it/eventi/eppen/dettaglio/manifestazioni/almenno-san-bartolomeo/almenno-divino_306356",
+   "dominio": "ecodibergamo.it",
+   "nome": "Eco di Bergamo - Eventi",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://emiliaromagnaturismo.it/it/eventi",
@@ -4311,6 +4439,22 @@
    "tipo": "aggregatore",
    "esito": "letta",
    "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/altamura",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 4,
    "regioni": [
     "Puglia"
    ],
@@ -6832,6 +6976,22 @@
    "titolo": "Eventi - Museo del 900 - Comune di Milano"
   },
   {
+   "url": "https://www.museodelvetro.org/",
+   "dominio": "museodelvetro.org",
+   "nome": "Museo dell'Arte Vetraria Altarese",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "SV"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.museomaga.it/",
    "dominio": "museomaga.it",
    "nome": "Museo MA*GA",
@@ -8876,6 +9036,22 @@
    "titolo": "What's on - Teatro La Fenice"
   },
   {
+   "url": "https://www.teatromagnetto.it/event/camaleontika-2026/2026-05-23",
+   "dominio": "teatromagnetto.it",
+   "nome": "Teatro Magnetto - Camaleontika 2026",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatromarrucino.eu/",
    "dominio": "teatromarrucino.eu",
    "nome": "Teatro Marrucino",
@@ -10120,6 +10296,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Eventi Alessandria - Alessandria"
+  },
+  {
+   "url": "https://www.visitaltavalleintelvi.com/eventi-alta-valle-intelvi",
+   "dominio": "visitaltavalleintelvi.com",
+   "nome": "Visit Alta Valle Intelvi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "CO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.visitarezzo.com/it/notizie-eventi-arezzo",

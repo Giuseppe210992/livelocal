@@ -35866,5 +35866,634 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "paolo-buonvino-la-musica-oltre-le-storie-alghero",
+    "titolo": "Paolo Buonvino - La musica oltre le storie",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:30",
+    "luogo": "Teatro Civico Gavì Ballero",
+    "indirizzo": "Alghero",
+    "cap": null,
+    "comune": "112001",
+    "frazione": null,
+    "lat": 40.59978,
+    "lon": 8.29886,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dal vivo del compositore Paolo Buonvino, che porta sul palco le sue colonne sonore più note in arrangiamenti nuovi, con racconti tra un brano e l'altro. Fa parte della rassegna Frequenze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ARC Suoni Diversi, con Comune di Alghero e Fondazione Alghero",
+    "fonti": [
+      {
+        "nome": "Alghero Turismo - calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://algheroturismo.eu/eventi-alghero/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "accensione-albero-aspettando-il-natale-alfianello",
+    "titolo": "Aspettando il Natale: accensione dell'albero e spettacoli per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-12-08T15:00",
+    "fine": "2026-12-08T20:00",
+    "luogo": "Piazza Pavoni",
+    "indirizzo": "Piazza Pavoni, Alfianello",
+    "cap": "25020",
+    "comune": "017004",
+    "frazione": null,
+    "lat": 45.2664,
+    "lon": 10.14954,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di festa in piazza per l'inizio del clima natalizio: si accende l'albero, ci sono spettacoli per i più piccoli e una merenda per tutti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Dovesagrare (dati Regione Lombardia, sagre e fiere su area pubblica)",
+        "tipo": "aggregatore",
+        "url": "https://www.dovesagrare.it/evento/alfianello/aspettando-il-natale-2026-alfianello-2026-12-08-open-lombardia-sagre-26449",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "juliet-teatro-circo-almese",
+    "titolo": "Juliet (rassegna Camaleontika)",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Almese",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di teatro circo, quarto appuntamento della dodicesima edizione della rassegna Camaleontika al Teatro Magnetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mov_FabulaRasa",
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto - Camaleontika 2026",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/camaleontika-2026/2026-05-23/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tecniche-di-lavoro-di-gruppo-almese",
+    "titolo": "Tecniche di lavoro di gruppo - Appunti per uno schiuma party (Camaleontika)",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Almese",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che chiude la rassegna Camaleontika 2026 al Teatro Magnetto di Almese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mov_FabulaRasa",
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto - Camaleontika 2026",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/camaleontika-2026/2026-05-23/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aperitivi-con-la-storia-almenno-san-bartolomeo",
+    "titolo": "Aperitivi con la storia: storie di donne, storie d'Italia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:30",
+    "fine": null,
+    "luogo": "Sala Polifunzionale della scuola elementare",
+    "indirizzo": "Almenno San Bartolomeo",
+    "cap": null,
+    "comune": "016006",
+    "frazione": null,
+    "lat": 45.75,
+    "lon": 9.56647,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro serale sulla lunga strada verso l'emancipazione delle donne in Italia, a ingresso gratuito, con appuntamento sul tema del boom economico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Almenno San Bartolomeo",
+    "fonti": [
+      {
+        "nome": "Comune di Almenno San Bartolomeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.almennosanbartolomeo.bergamo.it/eventi-data?data=11-11-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "almenno-di-vino-11-novembre-almenno-san-bartolomeo",
+    "titolo": "Almenno di Vino: serata di degustazione con la cantina Cascinetto d'Agro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:00",
+    "fine": "2026-11-11T22:00",
+    "luogo": "Sala delle Associazioni",
+    "indirizzo": "via Zuccala, Almenno San Bartolomeo",
+    "cap": null,
+    "comune": "016006",
+    "frazione": null,
+    "lat": 45.75,
+    "lon": 9.56647,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla storia e alla cultura del vino con degustazione di vini di una cantina locale, formaggi e assaggi. Fa parte di un ciclo di quattro serate.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": "Iscrizione obbligatoria",
+    "organizzatore": "Pro Loco Almenno San Bartolomeo",
+    "fonti": [
+      {
+        "nome": "Eco di Bergamo - Eventi",
+        "tipo": "stampa",
+        "url": "https://www.ecodibergamo.it/eventi/eppen/dettaglio/manifestazioni/almenno-san-bartolomeo/almenno-divino_306356/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "almenno-di-vino-18-novembre-almenno-san-bartolomeo",
+    "titolo": "Almenno di Vino: serata di degustazione con la Cantina Val San Martino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T20:00",
+    "fine": "2026-11-18T22:00",
+    "luogo": "Sala delle Associazioni",
+    "indirizzo": "via Zuccala, Almenno San Bartolomeo",
+    "cap": null,
+    "comune": "016006",
+    "frazione": null,
+    "lat": 45.75,
+    "lon": 9.56647,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultima serata del ciclo dedicato a storia e cultura del vino, con degustazione di una cantina locale, formaggi e assaggi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": "Iscrizione obbligatoria",
+    "organizzatore": "Pro Loco Almenno San Bartolomeo",
+    "fonti": [
+      {
+        "nome": "Eco di Bergamo - Eventi",
+        "tipo": "stampa",
+        "url": "https://www.ecodibergamo.it/eventi/eppen/dettaglio/manifestazioni/almenno-san-bartolomeo/almenno-divino_306356/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-libro-antonio-dazzi-alpago",
+    "titolo": "Presentazione del libro «Antonio Dazzi» con l'autore Egidio Pasuch",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T20:30",
+    "fine": null,
+    "luogo": "Sala Parrocchiale di Farra d'Alpago",
+    "indirizzo": "Farra d'Alpago",
+    "cap": null,
+    "comune": "025072",
+    "frazione": null,
+    "lat": 46.13006,
+    "lon": 12.36405,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autore per la presentazione di un libro dedicato ad Antonio Dazzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Alpago",
+    "fonti": [
+      {
+        "nome": "Comune di Alpago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.alpago.bl.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cartoons-orchestra-altamura",
+    "titolo": "Cartoons Orchestra",
+    "categoria": "bambini",
+    "inizio": "2026-11-05",
+    "fine": null,
+    "luogo": "Teatro Mangiatordi",
+    "indirizzo": "Teatro Mangiatordi, Altamura",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con le più famose colonne sonore dei film Disney, adatto anche ai bambini dai 3 anni in su.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/altamura/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "immagini-tra-le-note-altamura",
+    "titolo": "Immagini tra le Note",
+    "categoria": "concerto",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Teatro Mangiatordi",
+    "indirizzo": "Teatro Mangiatordi, Altamura",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto che racconta il legame tra musica e cinema, con stili e atmosfere molto diversi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/altamura/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "daria-biancardi-orchestra-del-levante-altamura",
+    "titolo": "Daria Biancardi con l'Orchestra del Levante",
+    "categoria": "concerto",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Teatro Mangiatordi",
+    "indirizzo": "Teatro Mangiatordi, Altamura",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in cui la voce soul di Daria Biancardi incontra un'orchestra: un viaggio fra emozioni e arrangiamenti eleganti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/altamura/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "altamura-jazz-festival-serena-grittani-quintet-altamura",
+    "titolo": "Altamura Jazz Festival: Serena Grittani quintet, «Cinema Mon Amour!»",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T21:00",
+    "fine": null,
+    "luogo": "Teatro Mangiatordi",
+    "indirizzo": "Teatro Mangiatordi, Altamura",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dell'ottava edizione dell'Altamura Jazz Festival: il quintetto di Serena Grittani propone un concerto dedicato alle musiche del cinema.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/altamura/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "san-martino-accensione-fornaci-museo-vetro-altare",
+    "titolo": "San Martino: accensione delle fornaci al Museo dell'Arte Vetraria",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Museo dell'Arte Vetraria Altarese",
+    "indirizzo": "Altare",
+    "cap": null,
+    "comune": "009005",
+    "frazione": null,
+    "lat": 44.32523,
+    "lon": 8.33347,
+    "coordinateApprossimate": true,
+    "descrizione": "Weekend con la tradizionale Messa del Fuoco e le fornaci accese: un maestro vetraio lavora il vetro dal vivo e domenica alle 15 si presenta la bottiglia commemorativa. Domenica c'è anche la Fiera di San Martino per le vie del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo dell'Arte Vetraria Altarese",
+    "fonti": [
+      {
+        "nome": "Museo dell'Arte Vetraria Altarese",
+        "tipo": "organizzatore",
+        "url": "https://www.museodelvetro.org/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-dei-mugnai-mulino-borgo-lentino-alta-val-tidone",
+    "titolo": "Festa dei Mugnai al Mulino Borgo Lentino",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Mulino Borgo Lentino",
+    "indirizzo": "Alta Val Tidone",
+    "cap": null,
+    "comune": "033049",
+    "frazione": null,
+    "lat": 44.89913,
+    "lon": 9.35883,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta a tutti con il premio ai mugnai storici e riconoscimenti ai maestri di macina che hanno dedicato la vita all'arte molitoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione La Strada dei Mulini",
+    "fonti": [
+      {
+        "nome": "Comune di Alta Val Tidone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altavaltidone.pc.it/it/eventi/festa-dei-mugnai-mulino-borgo-lentino-edizione-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inaugurazione-mostra-presepi-concerto-gospel-alta-valle-intelvi",
+    "titolo": "Inaugurazione della Mostra dei Presepi e concerto Gospel",
+    "categoria": "mostra",
+    "inizio": "2026-12-06",
+    "fine": null,
+    "luogo": "Villa Turconi",
+    "indirizzo": "Via Martino Novi 20, Alta Valle Intelvi",
+    "cap": null,
+    "comune": "013253",
+    "frazione": null,
+    "lat": 45.97572,
+    "lon": 9.03641,
+    "coordinateApprossimate": true,
+    "descrizione": "Si inaugura la mostra dei presepi a Villa Turconi, con un concerto Gospel. La mostra riapre poi dal 24 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo del presepe e U.S.L.I.",
+    "fonti": [
+      {
+        "nome": "Visit Alta Valle Intelvi",
+        "tipo": "ufficiale",
+        "url": "https://www.visitaltavalleintelvi.com/eventi-alta-valle-intelvi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lultimo-operaio-niccolo-zancan-alpignano",
+    "titolo": "Presentazione del libro «L'ultimo operaio» di Niccolò Zancan",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Ex Philips, Industrial Park",
+    "indirizzo": "ex Strada Statale 24, Alpignano",
+    "cap": null,
+    "comune": "001008",
+    "frazione": null,
+    "lat": 45.10123,
+    "lon": 7.51688,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autore nei locali dell'ex Philips, che per la prima volta riaprono al pubblico, dentro il festival «C'era una svolta».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Alpignano",
+    "fonti": [
+      {
+        "nome": "Diocesi di Torino (calendario)",
+        "tipo": "stampa",
+        "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-cera-una-svolta-festival-sulle-svolte-storiche-dellumanita-7/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "regina-margherita-di-savoia-salone-cruto-alpignano",
+    "titolo": "Incontro sulla regina Margherita di Savoia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Salone Cruto",
+    "indirizzo": "Alpignano",
+    "cap": null,
+    "comune": "001008",
+    "frazione": null,
+    "lat": 45.10123,
+    "lon": 7.51688,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con la scrittrice Bruna Bertolo sulla regina Margherita, con cimeli esposti e, per finire, assaggio di pizza Margherita. Chiude il festival «C'era una svolta».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Alpignano",
+    "fonti": [
+      {
+        "nome": "Diocesi di Torino (calendario)",
+        "tipo": "stampa",
+        "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-cera-una-svolta-festival-sulle-svolte-storiche-dellumanita-7/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-violenza-nelle-parole-biblioteca-alpignano",
+    "titolo": "«La violenza nelle parole»: incontro con Elisa Forte",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:00",
+    "fine": null,
+    "luogo": "Biblioteca Caduti per la Libertà",
+    "indirizzo": "via Matteotti 2, Alpignano",
+    "cap": null,
+    "comune": "001008",
+    "frazione": null,
+    "lat": 45.10123,
+    "lon": 7.51688,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sulle discriminazioni di genere e sulla responsabilità del linguaggio quotidiano, con la giornalista Elisa Forte, per la Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Alpignano",
+    "fonti": [
+      {
+        "nome": "Diocesi di Torino (calendario)",
+        "tipo": "stampa",
+        "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-giornata-internazionale-contro-la-violenza-sulle-donne-un-mese-di-iniziative/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "marcia-la-forza-di-ogni-passo-alpignano",
+    "titolo": "Marcia «La forza di ogni passo» contro la violenza sulle donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T14:30",
+    "fine": null,
+    "luogo": "Palazzo Municipale",
+    "indirizzo": "viale Vittoria 14, Alpignano",
+    "cap": null,
+    "comune": "001008",
+    "frazione": null,
+    "lat": 45.10123,
+    "lon": 7.51688,
+    "coordinateApprossimate": true,
+    "descrizione": "Corteo per le vie della città con soste dedicate alla memoria delle vittime di femminicidio e testimonianze; arrivo alla Casa della Legalità Lea Garofalo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Alpignano",
+    "fonti": [
+      {
+        "nome": "Diocesi di Torino (calendario)",
+        "tipo": "stampa",
+        "url": "https://www.diocesi.torino.it/site/wd-appuntamenti/alpignano-giornata-internazionale-contro-la-violenza-sulle-donne-un-mese-di-iniziative/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
