@@ -45031,5 +45031,3580 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "luce-dalabastro-busca",
+    "titolo": "Luce d'Alabastro, mostra della Triennale di scultura",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-31",
+    "luogo": "Casa Francotto",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Nel piano terra di Casa Francotto sono esposti i dodici prototipi di opere monumentali in alabastro della prima Triennale di scultura di Busca. I visitatori possono votare l'opera preferita, che deciderà l'ordine di realizzazione dei monumenti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Monviso Arte APS",
+    "fonti": [
+      {
+        "nome": "Turismo Busca, Luce d'Alabastro",
+        "tipo": "ufficiale",
+        "url": "https://www.turismobusca.it/luce-dalabastro/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "frankenstein-busto-arsizio",
+    "titolo": "Frankenstein",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": "2026-11-07T21:00",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento italiano del romanzo di Mary Shelley, prodotto da Il Mecenate con oltre trenta attori e un circo dal vivo. Lo spettacolo va in scena il 6 e il 7 novembre alle 21, con biglietti da 22 a 28 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 22
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Frankenstein",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/frankenstein/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "accabadora-busto-arsizio",
+    "titolo": "Accabadora",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Monologo di Anna Della Rosa dal romanzo di Michela Murgia, con la regia di Veronica Cruciani. Racconta la storia di Maria, cresciuta in Sardegna con la donna che aiuta i malati a morire. Dura circa 80 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 22
+    },
+    "prenotazione": "https://www.teatrosociale.it/spettacoli/accabadora-teatro-sociale/",
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Accabadora",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/accabadora-teatro-sociale/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "bravisssssimo-busto-arsizio",
+    "titolo": "Bravisssssimo!",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Raul Cremona, tra magia e comicità, con un viaggio nella sua lunga memoria artistica. Lo accompagna al pianoforte Marco Castelli. Dura circa 90 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 32
+    },
+    "prenotazione": "https://www.teatrosociale.it/spettacoli/bravisssssimo/",
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Bravisssssimo!",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/bravisssssimo/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "come-rialzarsi-e-tornare-a-sorridere-busto-arsizio",
+    "titolo": "Come rialzarsi e tornare a sorridere",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Monologo di Matteo Sinatti che unisce psicologia e racconto emotivo sulle fragilità e sulle rinascite delle persone. Dura circa 80 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": "https://www.teatrosociale.it/spettacoli/come-rialzarsi-e-tornare-a-sorridere/",
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Come rialzarsi e tornare a sorridere",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/come-rialzarsi-e-tornare-a-sorridere/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "diario-di-un-trapezista-busto-arsizio",
+    "titolo": "Diario di un trapezista",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Racconto teatrale del giornalista Sigfrido Ranucci sul dietro le quinte delle sue inchieste più difficili, con le storie di persone rimaste nell'ombra. Dura circa 90 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": "https://www.teatrosociale.it/spettacoli/diario-di-un-trapezista/",
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Diario di un trapezista",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/diario-di-un-trapezista/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lets-twist-again-busto-arsizio",
+    "titolo": "Let's Twist Again",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo show dei Black Blues Brothers, cinque acrobati che in una sala d'aspetto ballano twist e rock'n'roll tra piramidi umane e salti mortali. Dura circa 75 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": "https://www.teatrosociale.it/spettacoli/lets-twist-again/",
+    "organizzatore": "Teatro Sociale di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Let's Twist Again",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/lets-twist-again/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "maratonina-citta-di-busto-arsizio",
+    "titolo": "33ª Maratonina Città di Busto Arsizio",
+    "categoria": "sport",
+    "inizio": "2026-11-08T09:00",
+    "fine": "2026-11-08T12:00",
+    "luogo": "Viale Cadorna",
+    "indirizzo": "Viale Cadorna, Busto Arsizio",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Corsa cittadina alla sua 33ª edizione. La partenza è alle 9 da viale Cadorna, l'arrivo in via Foscolo e alle 12 le premiazioni al PalaCastiglioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Busto Arsizio",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiat-lux-walter-hertzsch-bologna",
+    "titolo": "Fiat Lux! Walter Hertzsch incontra Giorgio Morandi",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-01-10",
+    "luogo": "Casa Morandi",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra allestita a Casa Morandi, a Bologna, che mette a confronto le opere di Walter Hertzsch con quelle di Giorgio Morandi. Resta aperta fino al 10 gennaio 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Civici di Bologna",
+    "fonti": [
+      {
+        "nome": "Cultura Bologna, calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/objects/calendario-bologna-cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "portami-al-museo-pinacoteca-bologna",
+    "titolo": "Portami al Museo! Attività per famiglie in Pinacoteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Pinacoteca Nazionale di Bologna",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività pensate per le famiglie nella Pinacoteca Nazionale di Bologna, da fare insieme davanti alle opere. Dedicata soprattutto ai bambini accompagnati dai genitori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pinacoteca Nazionale di Bologna",
+    "fonti": [
+      {
+        "nome": "Cultura Bologna, calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/objects/calendario-bologna-cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "quartetto-goldberg-bologna",
+    "titolo": "Quartetto Goldberg",
+    "categoria": "concerto",
+    "inizio": "2026-11-04T20:30",
+    "fine": null,
+    "luogo": "Sala Biagi",
+    "indirizzo": "Quartiere Santo Stefano, Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Quartetto Goldberg mercoledì 4 novembre alle 20.30 nella Sala Biagi, nel quartiere Santo Stefano di Bologna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cultura Bologna, calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/objects/calendario-bologna-cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "francesco-assisi-poeta-latino-bologna",
+    "titolo": "Francesco d'Assisi poeta latino?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-04T18:00",
+    "fine": null,
+    "luogo": "Museo Civico Medievale",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro che si chiede se Francesco d'Assisi sia stato anche poeta in latino, nel Museo Civico Medievale di Bologna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cultura Bologna, calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/objects/calendario-bologna-cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "non-basta-piu-dare-servizi-ai-bambini-bologna",
+    "titolo": "Non basta più dare ai bambini servizi, dobbiamo restituire loro le città",
+    "categoria": "conferenza",
+    "inizio": "2026-11-04T17:00",
+    "fine": null,
+    "luogo": "Biblioteca dell'Archiginnasio, Sala dello Stabat Mater",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul bisogno di restituire ai bambini le città, oltre a offrire loro servizi. Si svolge nella Sala dello Stabat Mater della Biblioteca dell'Archiginnasio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cultura Bologna, calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/objects/calendario-bologna-cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "costellazioni-di-parole-calcinaia",
+    "titolo": "Costellazioni di parole, mostra di Celina Elmi",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-06",
+    "luogo": "Museo della Ceramica Lodovico Coccapani",
+    "indirizzo": "Calcinaia",
+    "cap": null,
+    "comune": "050004",
+    "frazione": null,
+    "lat": 43.67989,
+    "lon": 10.61084,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di illustrazioni di Celina Elmi che unisce racconti e parole della lingua italiana. L'inaugurazione è sabato 7 novembre alle 17, con letture e un incontro con l'artista. Ingresso gratuito fino al 6 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Calcinaia",
+    "fonti": [
+      {
+        "nome": "Comune di Calcinaia, notizia sulla mostra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calcinaia.pi.it/novita/guardiamo-le-costellazioni-si-di-parole",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "torneo-scacchi-under-16-calcinaia",
+    "titolo": "Torneo di scacchi per under 16",
+    "categoria": "sport",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Biblioteca comunale P. P. Pasolini",
+    "indirizzo": "Calcinaia",
+    "cap": null,
+    "comune": "050004",
+    "frazione": null,
+    "lat": 43.67989,
+    "lon": 10.61084,
+    "coordinateApprossimate": true,
+    "descrizione": "Torneo gratuito di scacchi per ragazzi under 16 nella biblioteca comunale di Calcinaia. Fa parte del mese del gioco organizzato dal Comune a novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Calcinaia",
+    "fonti": [
+      {
+        "nome": "Comune di Calcinaia, notizie",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calcinaia.pi.it/tipi-di-notizia/notizie",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-autunnale-busto-garolfo",
+    "titolo": "Fiera Autunnale",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22T08:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Via Diverse",
+    "indirizzo": "Via Diverse, Busto Garolfo",
+    "cap": "20020",
+    "comune": "015041",
+    "frazione": null,
+    "lat": 45.54456,
+    "lon": 8.88453,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera autunnale di commercianti su aree pubbliche, organizzata dal Comune di Busto Garolfo. Si svolge domenica 22 novembre dalle 8 alle 19.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Busto Garolfo",
+    "fonti": [
+      {
+        "nome": "Giraitalia, Fiera Autunnale 2026",
+        "tipo": "aggregatore",
+        "url": "https://www.giraitalia.com/fiera/lombardia/fiera-autunnale-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-volo-delle-anatre-calenzano",
+    "titolo": "Il volo delle anatre",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:15",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Via Pietro Mascagni, 18",
+    "indirizzo": "Via Pietro Mascagni, 18, 50041 Calenzano FI",
+    "cap": "50041",
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione T'IMMAGINI: un uomo rincorre i ricordi per essere sicuro di aver vissuto davvero, tra memoria e tempo che passa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatromanzonicalenzano.it/biglietteria-e-prenotazioni",
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/events/t-immagini-stagione-teatrale-2026-2027-727193",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "stand-up-classic-calenzano",
+    "titolo": "Stand Up Classic - Un'operaccia satirica",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:15",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Via Pietro Mascagni, 18",
+    "indirizzo": "Via Pietro Mascagni, 18, 50041 Calenzano FI",
+    "cap": "50041",
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo spettacolo di Paolo Rossi, con musica dal vivo, rilegge i grandi classici, da Omero a Shakespeare, in chiave comica e attuale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatromanzonicalenzano.it/biglietteria-e-prenotazioni",
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/events/t-immagini-stagione-teatrale-2026-2027-727195",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-cena-d-addio-calenzano",
+    "titolo": "Una cena d'addio",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:15",
+    "fine": "2026-12-05T23:00",
+    "luogo": "Via Pietro Mascagni, 18",
+    "indirizzo": "Via Pietro Mascagni, 18, 50041 Calenzano FI",
+    "cap": "50041",
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia piena di ironia su una giovane coppia che decide di organizzare cene d'addio per lasciare fuori dalla vita gli ex amici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatromanzonicalenzano.it/biglietteria-e-prenotazioni",
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/events/t-immagini-stagione-teatrale-2026-2027-727196",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "uomo-solo-in-fila-calenzano",
+    "titolo": "Uomo solo in fila - I pensieri di Pasquale",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:15",
+    "fine": "2026-12-12T23:00",
+    "luogo": "Via Pietro Mascagni, 18",
+    "indirizzo": "Via Pietro Mascagni, 18, 50041 Calenzano FI",
+    "cap": "50041",
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Maurizio Micheli in uno spettacolo comico-amaro: un uomo in fila in un ufficio pubblico, tra attese, ricordi e canzoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatromanzonicalenzano.it/biglietteria-e-prenotazioni",
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/events/t-immagini-stagione-teatrale-2026-2027-727197",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "30-mostra-mercato-olio-calenzano",
+    "titolo": "30ª Mostra mercato dell'olio extravergine di oliva",
+    "categoria": "mercatino",
+    "inizio": "2026-11-06T15:30",
+    "fine": "2026-11-06T19:00",
+    "luogo": "Via Giuseppe Garibaldi, 7",
+    "indirizzo": "Via Giuseppe Garibaldi, 7, 50041 Calenzano FI",
+    "cap": "50041",
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra mercato dell'olio extravergine, presentazione dell'olio del Distretto Biologico e premiazione della gara Dolcezze all'olio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Calenzano",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/events/30-mostra-mercato-dellolio-extravergine-di-oliva-731450",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "serata-da-cani-calolziocorte",
+    "titolo": "Serata da cani: pronto soccorso e attività sportive",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T19:00",
+    "fine": null,
+    "luogo": "Sede della Pro Loco, via Calvi",
+    "indirizzo": "Via Calvi, Calolziocorte",
+    "cap": null,
+    "comune": "097013",
+    "frazione": null,
+    "lat": 45.7961,
+    "lon": 9.44401,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata informativa dedicata al pronto soccorso e alle attività sportive per chi vive con un cane, nella sede della Pro Loco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Calolziocorte",
+    "fonti": [
+      {
+        "nome": "Comune di Calolziocorte - Avvisi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calolziocorte.lc.it/Novita/Avvisi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "bella-e-la-bestia-caltanissetta",
+    "titolo": "La fiaba della Bella e la Bestia",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T18:00",
+    "fine": null,
+    "luogo": "Teatro Rosso di San Secondo",
+    "indirizzo": "Salita Matteotti, Caltanissetta",
+    "cap": null,
+    "comune": "085004",
+    "frazione": null,
+    "lat": 37.4696,
+    "lon": 14.00735,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per bambini e famiglie della rassegna La stagione delle fiabe, con la storia della Bella e la Bestia, al Teatro Rosso di San Secondo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Rosso di San Secondo e Compagnia Argante",
+    "fonti": [
+      {
+        "nome": "Caltanissetta Informa",
+        "tipo": "stampa",
+        "url": "https://www.caltanissettainforma.it/caltanissetta-torna-la-stagione-delle-fiabe-quattro-appuntamenti-a-teatro-per-bambini-e-famiglie/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "corsa-del-sorriso-loretta-pardini-camaiore",
+    "titolo": "La Corsa del Sorriso per Loretta Pardini",
+    "categoria": "sport",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Pieve di Camaiore",
+    "indirizzo": "Pieve di Camaiore, Camaiore",
+    "cap": null,
+    "comune": "046005",
+    "frazione": null,
+    "lat": 43.92801,
+    "lon": 10.32101,
+    "coordinateApprossimate": true,
+    "descrizione": "Sesta edizione della corsa dedicata a Loretta Pardini, in programma domenica 8 novembre 2026 alla Pieve di Camaiore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LaVersilia.it - Eventi a Camaiore",
+        "tipo": "aggregatore",
+        "url": "https://www.laversilia.it/eventi-camaiore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "via-francigena-pontemazzori-camaiore",
+    "titolo": "Come pellegrini sulla Via Francigena",
+    "categoria": "sport",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Pontemazzori",
+    "indirizzo": "Pontemazzori, Camaiore",
+    "cap": null,
+    "comune": "046005",
+    "frazione": null,
+    "lat": 43.92801,
+    "lon": 10.32101,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione a piedi sul tratto della Via Francigena che dal borgo di Pontemazzori arriva all'abitato di Montemagno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LaVersilia.it - Eventi a Camaiore",
+        "tipo": "aggregatore",
+        "url": "https://www.laversilia.it/eventi-camaiore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "prim-olio-primovino-camaiore",
+    "titolo": "Prim'Olio Primovino 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico di Camaiore",
+    "indirizzo": "Centro Storico di Camaiore, Camaiore",
+    "cap": null,
+    "comune": "046005",
+    "frazione": null,
+    "lat": 43.92801,
+    "lon": 10.32101,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate nel centro storico di Camaiore dedicate all'olio e al vino, con l'appuntamento Prim'Olio Primovino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LaVersilia.it - Eventi a Camaiore",
+        "tipo": "aggregatore",
+        "url": "https://www.laversilia.it/eventi-camaiore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-antiquariato-camaiore-novembre",
+    "titolo": "Mercatino dell'antiquariato",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Centro storico di Camaiore",
+    "indirizzo": "Centro Storico di Camaiore, Camaiore",
+    "cap": null,
+    "comune": "046005",
+    "frazione": null,
+    "lat": 43.92801,
+    "lon": 10.32101,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di antiquariato, brocante e vintage nel centro storico di Camaiore, con bancarelle per chi cerca oggetti d'antiquariato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LaVersilia.it - Eventi a Camaiore",
+        "tipo": "aggregatore",
+        "url": "https://www.laversilia.it/eventi-camaiore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "francigena-e-dintorni-camaiore",
+    "titolo": "La Francigena e i suoi dintorni",
+    "categoria": "sport",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Centro storico di Camaiore",
+    "indirizzo": "Centro Storico di Camaiore, Camaiore",
+    "cap": null,
+    "comune": "046005",
+    "frazione": null,
+    "lat": 43.92801,
+    "lon": 10.32101,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione ad anello tra i paesaggi e i borghi delle colline di Camaiore, in parte lungo la Via Francigena, con finale in compagnia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LaVersilia.it - Eventi a Camaiore",
+        "tipo": "aggregatore",
+        "url": "https://www.laversilia.it/eventi-camaiore",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inclusivamente-biblioteca-cameri",
+    "titolo": "InclusivaMente: con Alice Basso in Biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Cameri",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con la scrittrice Alice Basso in biblioteca, per rispondere insieme alle ottanta domande di Atena Ferraris.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cameri",
+    "fonti": [
+      {
+        "nome": "Comune di Cameri - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.cameri.no.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-delle-forze-armate-milite-ignoto-campi-bisenzio",
+    "titolo": "Festa delle Forze Armate e Milite ignoto",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Via Don Minzoni",
+    "indirizzo": "Via Don Minzoni, Campi Bisenzio",
+    "cap": null,
+    "comune": "048006",
+    "frazione": null,
+    "lat": 43.82256,
+    "lon": 11.12855,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia organizzata dal Comune per la Festa delle Forze Armate e il ricordo del Milite ignoto, il 4 novembre. L'appuntamento è in via Don Minzoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Campi Bisenzio",
+    "fonti": [
+      {
+        "nome": "Calendario eventi 2026 del Comune di Campi Bisenzio (allegato 1)",
+        "tipo": "ufficiale",
+        "url": "https://campibisenzio.trasparenza-valutazione-merito.it/web/trasparenza/papca-p?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=2&p_p_state=pop_up&p_p_mode=view&p_p_resource_id=downloadAllegato&p_p_cacheability=cacheLevelPage&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_downloadSigned=true&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=2607999&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-della-schiaccia-campigliese-campiglia-marittima",
+    "titolo": "Sagra della Schiaccia Campigliese",
+    "categoria": "sagra",
+    "inizio": "2026-10-31",
+    "fine": "2026-11-08",
+    "luogo": "Centro storico",
+    "indirizzo": "Centro storico, Campiglia Marittima",
+    "cap": "57021",
+    "comune": "049002",
+    "frazione": null,
+    "lat": 43.03492,
+    "lon": 10.61431,
+    "coordinateApprossimate": true,
+    "descrizione": "Sagra dedicata alla schiaccia campigliese, dolce tipico del borgo, con stand gastronomici nelle vie del centro storico. Nel programma ci sono anche mercatini, mostre, musica dal vivo e spettacoli itineranti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ente Valorizzazione e Pro Loco Campiglia Marittima",
+    "fonti": [
+      {
+        "nome": "Sagre Toscane",
+        "tipo": "aggregatore",
+        "url": "https://www.sagretoscane.com/sagre/li/campiglia-marittima/festa-d-autunno-campiglia-marittima.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-fiera-di-san-martino-campodarsego",
+    "titolo": "Mercatino della Fiera di San Martino",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08T09:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Via Roma",
+    "indirizzo": "Via Roma, Campodarsego",
+    "cap": null,
+    "comune": "028017",
+    "frazione": null,
+    "lat": 45.50238,
+    "lon": 11.9247,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di artigianato artistico, tradizioni popolari, prodotti enogastronomici e benessere, nell'ambito della Fiera di San Martino. Previste anche dimostrazioni, laboratori creativi e un'area gioco per bambini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale NSV Organizzazione Eventi APS",
+    "fonti": [
+      {
+        "nome": "Padova Oggi",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/mercatino-fiera-campodarsego-8-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cusafest-renato-pennisi-campobello-di-mazara",
+    "titolo": "CusaFest: Renato Pennisi, La Sicilia salverà il mondo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T18:00",
+    "fine": null,
+    "luogo": "Ex Chiesa dell'Addolorata",
+    "indirizzo": "Ex Chiesa dell'Addolorata, Campobello di Mazara",
+    "cap": null,
+    "comune": "081004",
+    "frazione": null,
+    "lat": 37.6052,
+    "lon": 12.71609,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro letterario con l'autore Renato Pennisi, nell'ambito della rassegna CusaFest promossa dal Comune per far crescere la lettura. L'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Campobello di Mazara",
+    "fonti": [
+      {
+        "nome": "Balarm",
+        "tipo": "stampa",
+        "url": "https://www.balarm.it/eventi/cusafest-a-campobello-di-mazara-quattro-incontri-letterari-per-rilanciare-la-cultura-148987",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cusafest-roberto-puglisi-campobello-di-mazara",
+    "titolo": "CusaFest: Roberto Puglisi, Amare vuol dire non perdersi mai",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Ex Chiesa dell'Addolorata",
+    "indirizzo": "Ex Chiesa dell'Addolorata, Campobello di Mazara",
+    "cap": null,
+    "comune": "081004",
+    "frazione": null,
+    "lat": 37.6052,
+    "lon": 12.71609,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro letterario con l'autore Roberto Puglisi, nell'ambito della rassegna CusaFest promossa dal Comune per far crescere la lettura. L'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Campobello di Mazara",
+    "fonti": [
+      {
+        "nome": "Balarm",
+        "tipo": "stampa",
+        "url": "https://www.balarm.it/eventi/cusafest-a-campobello-di-mazara-quattro-incontri-letterari-per-rilanciare-la-cultura-148987",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cusafest-paola-maria-liotta-campobello-di-mazara",
+    "titolo": "CusaFest: Paola Maria Liotta, Fenice iblea",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05T18:00",
+    "fine": null,
+    "luogo": "Ex Chiesa dell'Addolorata",
+    "indirizzo": "Ex Chiesa dell'Addolorata, Campobello di Mazara",
+    "cap": null,
+    "comune": "081004",
+    "frazione": null,
+    "lat": 37.6052,
+    "lon": 12.71609,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro letterario con l'autrice Paola Maria Liotta, nell'ambito della rassegna CusaFest promossa dal Comune per far crescere la lettura. L'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Campobello di Mazara",
+    "fonti": [
+      {
+        "nome": "Balarm",
+        "tipo": "stampa",
+        "url": "https://www.balarm.it/eventi/cusafest-a-campobello-di-mazara-quattro-incontri-letterari-per-rilanciare-la-cultura-148987",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "predatori-di-pianura-camponogara",
+    "titolo": "Predatori di pianura",
+    "categoria": "teatro",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Teatro Comunale Dario Fo",
+    "indirizzo": "Camponogara",
+    "cap": null,
+    "comune": "027004",
+    "frazione": null,
+    "lat": 45.37903,
+    "lon": 12.0876,
+    "coordinateApprossimate": true,
+    "descrizione": "Andrea Pennacchi porta in scena uno spettacolo liberamente tratto da La Bilora di Ruzante, tra commedia e tragedia, che parla di paure e speranze di oggi. Apre la stagione 2026/2027 del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com",
+    "organizzatore": "Assessorato alla Cultura del Comune di Camponogara",
+    "fonti": [
+      {
+        "nome": "Arteven - stagione 2026/2027 del Teatro Dario Fo",
+        "tipo": "ufficiale",
+        "url": "https://www.arteven.it/camponogara-in-partenza-la-stagione-2026-2027-del-teatro-comunale-dario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "woodstock-rewind-camponogara",
+    "titolo": "Woodstock Rewind - generazioni per il pianeta",
+    "categoria": "teatro",
+    "inizio": "2026-12-03",
+    "fine": null,
+    "luogo": "Teatro Comunale Dario Fo",
+    "indirizzo": "Camponogara",
+    "cap": null,
+    "comune": "027004",
+    "frazione": null,
+    "lat": 45.37903,
+    "lon": 12.0876,
+    "coordinateApprossimate": true,
+    "descrizione": "Un viaggio nel tempo musicale tra le canzoni di Janis Joplin, Joan Baez, Bob Dylan e dei Rolling Stones, con una riflessione su priorità e valori per il pianeta. Sul palco la Fucina Culturale Machiavelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com",
+    "organizzatore": "Fucina Culturale Machiavelli",
+    "fonti": [
+      {
+        "nome": "Arteven - stagione 2026/2027 del Teatro Dario Fo",
+        "tipo": "ufficiale",
+        "url": "https://www.arteven.it/camponogara-in-partenza-la-stagione-2026-2027-del-teatro-comunale-dario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ti-ho-sognato-italia-canegrate",
+    "titolo": "Presentazione del libro «Ti ho sognato ITALIA»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Canegrate",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Aleks Vulaj «Ti ho sognato ITALIA», un ponte di ricordi che guarda al futuro. Incontro aperto al pubblico al Polo Culturale Catarabia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concorso-nazionale-di-poesia-molinari-canegrate",
+    "titolo": "Concorso nazionale di poesia R. Molinari - premiazione",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T16:00",
+    "fine": null,
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Canegrate",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione del Concorso nazionale di poesia dedicato a Roberto Molinari, in programma sabato 14 novembre alle 16 al Polo Culturale Catarabia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "camminata-azzurra-campolongo-maggiore",
+    "titolo": "Camminata Azzurra - insieme per la prevenzione",
+    "categoria": "sport",
+    "inizio": "2026-11-15T09:00",
+    "fine": null,
+    "luogo": "Piazzetta del Municipio",
+    "indirizzo": "Campolongo Maggiore",
+    "cap": null,
+    "comune": "027003",
+    "frazione": null,
+    "lat": 45.33618,
+    "lon": 12.0577,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione di una camminata di 4 km ad anello dedicata alla prevenzione della salute maschile. La partecipazione è gratuita; si consiglia di vestirsi di azzurro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Campolongo Maggiore",
+    "fonti": [
+      {
+        "nome": "Comune di Campolongo Maggiore - Novità",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.campolongo.ve.it/novita/15-novembre-camminata-azzurra-insieme-per-la-prevenzione/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "antenati-the-grave-party-camposampiero",
+    "titolo": "Antenati. The Grave Party",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Marco Paolini torna al Ferrari con uno spettacolo sull'evoluzione dell'umanità vista attraverso il rapporto con i nostri antenati, tra ironia, ecologia e cambiamenti climatici.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pigiama-party-camposampiero",
+    "titolo": "Pigiama Party",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia Baladam B-Side sul rapporto tra finzione e realtà nel mondo iperdigitalizzato, raccontato con un'ironia complessa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lupi-buoni-e-tori-con-le-ali-camposampiero",
+    "titolo": "Lupi buoni e tori con le ali",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T16:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per famiglie dai 4 anni della compagnia ArteVox Teatro: la storia di Abaco e Rustico, due personaggi che sfidano gli stereotipi per trovare il proprio posto nel mondo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sdeng-camposampiero",
+    "titolo": "Sdeng!",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T16:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per i più piccoli di Alessandro Maioni: un inventore costruisce un cantiere poetico fatto di materia, corpo e immaginazione. Posti limitati e prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-lettera-camposampiero",
+    "titolo": "La lettera",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Paolo Nani porta in scena uno spettacolo di teatro fisico liberamente ispirato a Esercizi di Stile di Queneau, con un ritmo che non lascia tregua.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cinerentola-camposampiero",
+    "titolo": "Cinerentola",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T16:00",
+    "fine": null,
+    "luogo": "Teatro Ferrari",
+    "indirizzo": "Via Andrea Palladio, 1",
+    "cap": null,
+    "comune": "028019",
+    "frazione": null,
+    "lat": 45.56984,
+    "lon": 11.94717,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo prenatalizio della compagnia La Baracca Testoni Ragazzi, un gioco di specchi tra realtà e finzione che riscrive con ironia la favola di Cenerentola. Adatto dai 6 ai 99 anni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": "https://www.teatroferrari.it",
+    "organizzatore": "La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Camposampiero - Il teatro per tutti 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.camposampiero.pd.it/novita/il-teatro-per-tutti-al-ferrari-un-nuovo-ricchissimo-programma/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-nazionale-del-tartufo-canelli",
+    "titolo": "Fiera Nazionale del Tartufo e Fiera di San Martin",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08T09:00",
+    "fine": null,
+    "luogo": "Palatartufo e piazze del centro",
+    "indirizzo": "Corso Libertà",
+    "cap": null,
+    "comune": "005017",
+    "frazione": null,
+    "lat": 44.72206,
+    "lon": 8.28293,
+    "coordinateApprossimate": true,
+    "descrizione": "Due storiche fiere di Canelli nello stesso giorno: la Fiera Nazionale del Tartufo, dedicata alle eccellenze del territorio, e la Fiera di San Martin, con oltre cento bancarelle. Previste sfilate dei trifulau e il concorso del tartufo bianco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Canelli Eventi - Fiera del Tartufo",
+        "tipo": "organizzatore",
+        "url": "https://www.canellieventi.it/eventi/fiera-del-tartufo/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "down-cantu",
+    "titolo": "DOWN",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Teatro comunale San Teodoro",
+    "indirizzo": "Cantù",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della rassegna Fuori Stagione del Teatro San Teodoro, in scena venerdì 6 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatrosanteodoro.it",
+    "organizzatore": "Teatro comunale San Teodoro",
+    "fonti": [
+      {
+        "nome": "Teatro comunale San Teodoro - Stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosanteodoro.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-bella-giornata-cantu",
+    "titolo": "UNA BELLA GIORNATA",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro comunale San Teodoro",
+    "indirizzo": "Cantù",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della rassegna Fuori Stagione del Teatro San Teodoro, in scena sabato 7 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatrosanteodoro.it",
+    "organizzatore": "Teatro comunale San Teodoro",
+    "fonti": [
+      {
+        "nome": "Teatro comunale San Teodoro - Stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosanteodoro.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "storie-quasi-impossibili-cantu",
+    "titolo": "STORIE QUASI IMPOSSIBILI",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T16:30",
+    "fine": null,
+    "luogo": "Teatro comunale San Teodoro",
+    "indirizzo": "Cantù",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione Teatro Ragazzi del San Teodoro, pensato per il pubblico più giovane, in scena domenica 8 novembre alle 16.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatrosanteodoro.it",
+    "organizzatore": "Teatro comunale San Teodoro",
+    "fonti": [
+      {
+        "nome": "Teatro comunale San Teodoro - Stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosanteodoro.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "comedyficio-2-cantu",
+    "titolo": "COMEDYFICIO #2",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Teatro comunale San Teodoro",
+    "indirizzo": "Cantù",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna Comedyficio al Teatro San Teodoro, in programma venerdì 13 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.teatrosanteodoro.it",
+    "organizzatore": "Teatro comunale San Teodoro",
+    "fonti": [
+      {
+        "nome": "Teatro comunale San Teodoro - Stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosanteodoro.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "caorle-christmas-time-2026",
+    "titolo": "Caorle Christmas Time 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05",
+    "fine": "2027-01-10",
+    "luogo": "Centro storico",
+    "indirizzo": "Caorle",
+    "cap": null,
+    "comune": "027005",
+    "frazione": null,
+    "lat": 45.63963,
+    "lon": 12.87008,
+    "coordinateApprossimate": true,
+    "descrizione": "Un mese e più di Natale sul mare: nel centro storico si trovano mercatini artigianali, casette di legno, spettacoli, concerti e videomapping ogni sera sulla chiesa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Caorle Christmas Time - Tourist Office App (Regione del Veneto)",
+        "tipo": "ufficiale",
+        "url": "https://touristofficeapp.com/it/caorle/eventi/caorle-christmas-time?id=0c223060-d6ba-4c53-bdd0-08deccf693f0",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "paolo-ruffini-din-don-down-caorle",
+    "titolo": "Paolo Ruffini - Din Don Down",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "PalaExpomar",
+    "indirizzo": "Caorle",
+    "cap": null,
+    "comune": "027005",
+    "frazione": null,
+    "lat": 45.63963,
+    "lon": 12.87008,
+    "coordinateApprossimate": true,
+    "descrizione": "Paolo Ruffini sul palco con la compagnia Mayor von Frinzius in uno spettacolo tra ironia, improvvisazione e momenti di tenerezza, sul senso della normalità e del divino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Caorle.com - Paolo Ruffini Din Don Down",
+        "tipo": "aggregatore",
+        "url": "https://www.caorle.com/en/news-events/paolo-ruffini-din-don-down-at-palaexpomar-in-caorle/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "omaggio-a-franco-battiato-canicatti",
+    "titolo": "Omaggio a Franco Battiato",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Cine Teatro Odeon",
+    "indirizzo": "Canicattì",
+    "cap": null,
+    "comune": "084011",
+    "frazione": null,
+    "lat": 37.37176,
+    "lon": 13.83806,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato alle canzoni di Franco Battiato al Cine Teatro Odeon di Canicattì, sabato 21 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Canzoni.it - Concerti Canicattì",
+        "tipo": "aggregatore",
+        "url": "https://www.canzoni.it/concerti/italia/agrigento/canicatti/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "4-novembre-2026-museo-archeologico-canosa",
+    "titolo": "4 novembre 2026 al Museo Nazionale Archeologico di Canosa",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Museo Nazionale Archeologico di Canosa",
+    "indirizzo": "Canosa di Puglia",
+    "cap": null,
+    "comune": "110004",
+    "frazione": null,
+    "lat": 41.18977,
+    "lon": 16.01721,
+    "coordinateApprossimate": true,
+    "descrizione": "Nel Giorno dell'Unità Nazionale e della Giornata delle Forze Armate il museo statale resta aperto con ingresso gratuito, con l'orario consueto dalle 8 alle 18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "fonti": [
+      {
+        "nome": "Cultura.gov.it - 4 novembre 2026 al Museo Archeologico di Canosa",
+        "tipo": "ufficiale",
+        "url": "https://cultura.gov.it/evento/4-novembre-2026-al-museo-nazionale-archeologico-di-canosa",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-iv-novembre-capannori",
+    "titolo": "Concerto IV Novembre",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Chiesa parrocchiale di San Pietro a Marcigliano",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per la festa del 4 novembre nella chiesa di San Pietro a Marcigliano, con il Coro San Pietro e il Coro Mosaico. Un appuntamento di musica corale aperto a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-della-castagna-marlia",
+    "titolo": "Festa della castagna",
+    "categoria": "sagra",
+    "inizio": "2026-11-08T14:30",
+    "fine": null,
+    "luogo": "Mercato di Marlia",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa della castagna al mercato di Marlia, con mondine, necci, pasta fritta e vin brulé. Una festa di prodotti tipici dell'autunno, da gustare nel paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-unita-nazionale-camigliano",
+    "titolo": "Giornata dell'Unità Nazionale e delle Forze Armate",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-08T11:00",
+    "fine": null,
+    "luogo": "Parco della Rimembranza Marchesa Anna Torrigiani Fry",
+    "indirizzo": "Camigliano, Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia pubblica nel Parco della Rimembranza di Camigliano per la Giornata dell'Unità Nazionale e delle Forze Armate. Un momento di memoria aperto alla cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-olio-frantoi-aperti-compito",
+    "titolo": "Sagra dell'olio e Frantoi Aperti",
+    "categoria": "sagra",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Pieve e Sant'Andrea di Compito",
+    "indirizzo": "Pieve e Sant'Andrea di Compito, Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Sagra dell'olio con i frantoi aperti a Pieve e Sant'Andrea di Compito, nell'ambito della manifestazione Olio Nòvo promossa dal Comune. Una giornata per visitare i frantoi e assaggiare l'olio nuovo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "voci-di-donne-ritmi-del-mondo-capannori",
+    "titolo": "Voci di donne - Ritmi del mondo",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Cinema Teatro Artè",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Coro Etnico Le Agorà al Cinema Teatro Artè, con un programma di canti e ritmi dal mondo. Una serata di musica corale dal vivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro Etnico Le Agorà",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-mettersi-in-cammino-capannori",
+    "titolo": "Mettersi in cammino: mostra sulle pratiche del camminare",
+    "categoria": "mostra",
+    "inizio": "2026-11-10T10:30",
+    "fine": null,
+    "luogo": "Museo Athena",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra Mettersi in cammino al Museo Athena, un'esposizione dedicata alle pratiche del camminare. La mostra è curata dallo staff del Museo senza barriere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo Athena",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-se-mai-me-ne-andro-caravaggio",
+    "titolo": "Presentazione del libro: Se Mai Me Ne Andrò Da Qui",
+    "categoria": "conferenza",
+    "inizio": "2026-11-05T20:45",
+    "fine": null,
+    "luogo": "Auditorium Piero Ferri, centro civico San Bernardino",
+    "indirizzo": "Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Mario Francesco Gastoldi, organizzata dall'associazione Arkys con il patrocinio della Città di Caravaggio. L'ingresso è gratuito e l'incontro è aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Arkys rete di idee APS",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/presentazione-del-libro-se-mai-me-ne-andro-da-qui",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "domenica-in-scena-la-poavola-caravaggio",
+    "titolo": "Domenica in scena 2026: La Poavola",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Auditorium Piero Ferri, Centro Civico San Bernardino",
+    "indirizzo": "Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per bambini e famiglie con Piccola Fanteria, Carillon e Micaela Vernice, nell'auditorium del Centro Civico San Bernardino. L'ingresso è libero senza prenotazione, fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio - Domenica in scena",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/domenica-in-scena-728698",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-lumina-in-tenebris-caravaggio",
+    "titolo": "Concerto Lumina In Tenebris",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T20:45",
+    "fine": null,
+    "luogo": "Chiesa di San Bernardino",
+    "indirizzo": "Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto Musiche per il commiato della Germania barocca, eseguito dal Magnificat Choir & Consort nella chiesa di San Bernardino. L'ingresso è gratuito, con parcheggio e accesso anche per le sedie a rotelle.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/concerto-lumina-in-tenebris",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "domenica-in-scena-boef-asen-caravaggio",
+    "titolo": "Domenica in scena 2026: Boef & Asen",
+    "categoria": "bambini",
+    "inizio": "2026-12-06T17:00",
+    "fine": null,
+    "luogo": "Auditorium Piero Ferri, Centro Civico San Bernardino",
+    "indirizzo": "Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per famiglie con I Barabbas' Clowns, nell'auditorium del Centro Civico San Bernardino. L'ingresso è libero senza prenotazione, fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio - Domenica in scena",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/domenica-in-scena-728698",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "radici-e-futuro-cinema-italiano-carate",
+    "titolo": "Radici e futuro: L'Italia del XX e del XXI secolo raccontata dal nostro cinema",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:45",
+    "fine": null,
+    "luogo": "Sala IX Novembre, Palazzo Comunale Nuovo",
+    "indirizzo": "Via Cesare Battisti 2, Carate Brianza",
+    "cap": null,
+    "comune": "108015",
+    "frazione": null,
+    "lat": 45.67246,
+    "lon": 9.23757,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico della Biblioteca comunale Germano Nobili sul cinema italiano del Novecento e di oggi, con il critico cinematografico Beppe Musicco. La prenotazione è obbligatoria: i posti sono 100.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.brianzabiblioteche.it",
+    "organizzatore": "Biblioteca comunale Germano Nobili",
+    "fonti": [
+      {
+        "nome": "Comune di Carate Brianza - News",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caratebrianza.mb.it/it/news/radici-e-futuro-incontri-pubblici-di-varia-cultura-coordina-maria-grazia-fornaroli",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "club-del-libro-liberi-di-leggere-cardano",
+    "titolo": "Club del libro - Liberi di leggere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T15:00",
+    "fine": null,
+    "luogo": "Biblioteca Civica Gianni Rodari",
+    "indirizzo": "Via Torre, 2, Cardano al Campo",
+    "cap": null,
+    "comune": "012032",
+    "frazione": null,
+    "lat": 45.64474,
+    "lon": 8.75661,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro mensile di lettura in biblioteca: si discute insieme di un libro scelto per l'appuntamento. La partecipazione è libera e gratuita, riservata agli adulti dai 18 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Gianni Rodari",
+    "fonti": [
+      {
+        "nome": "Comune di Cardano al Campo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.cardanoalcampo.va.it/vivere-il-comune/evento/novembre-2026-in-biblioteca/club-del-libro-liberi-di-leggere-novembre-2026/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-posto-delle-storie-a-tutta-musica-cardano",
+    "titolo": "Il posto delle storie: A tutta musica! Letture animate",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:30",
+    "fine": null,
+    "luogo": "Biblioteca civica Gianni Rodari",
+    "indirizzo": "Via Torre, 2, Cardano al Campo",
+    "cap": null,
+    "comune": "012032",
+    "frazione": null,
+    "lat": 45.64474,
+    "lon": 8.75661,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture animate per bambini dai 3 ai 10 anni, a tema musicale, curate dai volontari della biblioteca. L'ingresso è libero, ma bisogna prenotarsi in biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Gianni Rodari",
+    "fonti": [
+      {
+        "nome": "Comune di Cardano al Campo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.cardanoalcampo.va.it/vivere-il-comune/evento/novembre-2026-in-biblioteca/il-posto-delle-storie-a-sbagliare-storie-letture-animate-per-bambini-dai-3-ai-10-anni-novembre-2026/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "piccoli-passi-grandi-diritti-cardano",
+    "titolo": "Piccoli passi... grandi diritti! Laboratorio e lettura",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "fine": null,
+    "luogo": "Biblioteca Civica Gianni Rodari",
+    "indirizzo": "Via Torre, 2, Cardano al Campo",
+    "cap": null,
+    "comune": "012032",
+    "frazione": null,
+    "lat": 45.64474,
+    "lon": 8.75661,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di storie e attività creative per bambini dai 5 ai 10 anni, nella Giornata internazionale dei diritti dell'infanzia. L'ingresso è gratuito e la prenotazione è obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Gianni Rodari",
+    "fonti": [
+      {
+        "nome": "Comune di Cardano al Campo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.cardanoalcampo.va.it/vivere-il-comune/evento/novembre-2026-in-biblioteca/piccoli-passi-grandi-diritti-laboratorio-e-lettura/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cardano-al-cinema-c-e-ancora-domani",
+    "titolo": "Cardano al cinema: C'è ancora domani (cineforum)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T20:30",
+    "fine": null,
+    "luogo": "Sala Consiliare Sandro Pertini (Il Cubo)",
+    "indirizzo": "Via Giuseppe Verdi 13, Cardano al Campo",
+    "cap": null,
+    "comune": "012032",
+    "frazione": null,
+    "lat": 45.64474,
+    "lon": 8.75661,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film C'è ancora domani di Paola Cortellesi, seguita da uno scambio di opinioni tra il pubblico. È una delle cinque serate del ciclo di cineforum che arriva fino a marzo 2027; l'ingresso è libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cardano al Campo con Associazione Culturale Laura Prati",
+    "fonti": [
+      {
+        "nome": "Comune di Cardano al Campo - Cardano al cinema",
+        "tipo": "ufficiale",
+        "url": "https://comune.cardanoalcampo.va.it/vivere-il-comune/evento/cardano-al-cinema-cineforum-2026-2027/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aron-quartet-cameristica-capua",
+    "titolo": "Aron Quartet - Cameristica",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T19:30",
+    "fine": null,
+    "luogo": "Museo Campano di Capua",
+    "indirizzo": "Via Roma, 68, Capua",
+    "cap": "81043",
+    "comune": "061015",
+    "frazione": null,
+    "lat": 41.11532,
+    "lon": 14.20994,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica da camera con l'Aron Quartet di Vienna, primo appuntamento della rassegna cameristica al Museo Campano. Sul palco quattro musicisti che suonano il repertorio per quartetto d'archi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Autunno Musicale",
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco - Aron Quartet",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/en/campania/eventi/333154.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-piccola-mozart-carpenedolo",
+    "titolo": "La piccola Mozart",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Palazzo Laffranchi",
+    "indirizzo": "Carpenedolo",
+    "cap": null,
+    "comune": "017039",
+    "frazione": null,
+    "lat": 45.34925,
+    "lon": 10.43532,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per famiglie della stagione teatrale Circuito Contemporaneo, curata dall'associazione Chronos3 e portata in scena dall'Ensemble Teatro. Si svolge di domenica pomeriggio a Palazzo Laffranchi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Chronos3",
+    "fonti": [
+      {
+        "nome": "Comune di Carpenedolo - avvisi (home)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.carpenedolo.bs.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aperitivi-letterari-2026-2027-carpenedolo",
+    "titolo": "Aperitivi letterari 2026/2027",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Spazio Chronos3 (Casa Girelli)",
+    "indirizzo": "Via Ceresara, Carpenedolo",
+    "cap": null,
+    "comune": "017039",
+    "frazione": null,
+    "lat": 45.34925,
+    "lon": 10.43532,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro letterario con la professoressa Rosalia Baccinelli allo Spazio Chronos3, nella Casa Girelli di via Ceresara. Fa parte della serie di aperitivi letterari della stagione 2026/2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Chronos3 e Casa del Popolo 1956",
+    "fonti": [
+      {
+        "nome": "Comune di Carpenedolo - avvisi (home)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.carpenedolo.bs.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oscar-teatro-animosi-carrara",
+    "titolo": "Oscar",
+    "categoria": "teatro",
+    "inizio": "2026-11-04T21:00",
+    "fine": null,
+    "luogo": "Teatro degli Animosi",
+    "indirizzo": "Piazza De Andrè, 1, Carrara",
+    "cap": null,
+    "comune": "045003",
+    "frazione": null,
+    "lat": 44.08222,
+    "lon": 10.09376,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della nuova stagione teatrale del Teatro degli Animosi di Carrara, in scena mercoledì 4 novembre alle ore 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro degli Animosi",
+    "fonti": [
+      {
+        "nome": "Visit Riviera Apuana - Eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.visitrivieraapuana.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "quello-che-non-ce-restauro-annunciazione-moneta-carrara",
+    "titolo": "Quello che non c'è: il restauro dell'Annunciazione di Moneta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T10:00",
+    "fine": null,
+    "luogo": "Nuovo Cinema Garibaldi",
+    "indirizzo": "Via Verdi, 15, Carrara",
+    "cap": null,
+    "comune": "045003",
+    "frazione": null,
+    "lat": 44.08222,
+    "lon": 10.09376,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del progetto di restauro dell'Annunciazione di Moneta, con ingresso gratuito, al Nuovo Cinema Garibaldi di Carrara.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Riviera Apuana - Eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.visitrivieraapuana.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "venerdi-della-ghironda-carmagnola-2026-11-13",
+    "titolo": "Venerdì della Ghironda",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "La Ghironda Carmagnola",
+    "indirizzo": "Via Novara 102, Carmagnola",
+    "cap": "10022",
+    "comune": "001059",
+    "frazione": null,
+    "lat": 44.85837,
+    "lon": 7.73533,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di balfolk, cioè ballo popolare con musica dal vivo, con il gruppo Di Doux. È organizzata dall'associazione La Ghironda nella sua sede di via Novara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Ghironda Carmagnola",
+    "fonti": [
+      {
+        "nome": "La Ghironda Carmagnola - profilo su Agenda Trad",
+        "tipo": "organizzatore",
+        "url": "https://agendatrad.org/orga/la-ghironda-carmagnola.tpwkqjrj?lang=it",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "venerdi-della-ghironda-carmagnola-2026-12-11",
+    "titolo": "Venerdì della Ghironda",
+    "categoria": "concerto",
+    "inizio": "2026-12-11T21:00",
+    "fine": null,
+    "luogo": "La Ghironda Carmagnola",
+    "indirizzo": "Via Novara 102, Carmagnola",
+    "cap": "10022",
+    "comune": "001059",
+    "frazione": null,
+    "lat": 44.85837,
+    "lon": 7.73533,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di balfolk con il Duo Doro Pignolo, nella rassegna Venerdì della Ghironda organizzata dall'associazione La Ghironda nella sua sede di via Novara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Ghironda Carmagnola",
+    "fonti": [
+      {
+        "nome": "La Ghironda Carmagnola - profilo su Agenda Trad",
+        "tipo": "organizzatore",
+        "url": "https://agendatrad.org/orga/la-ghironda-carmagnola.tpwkqjrj?lang=it",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "antica-fiera-carmignano-2026",
+    "titolo": "Antica Fiera di Carmignano 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-01",
+    "fine": null,
+    "luogo": "Piazza Matteotti e Piazza Vittorio Emanuele II",
+    "indirizzo": "Piazza Matteotti e Piazza Vittorio Emanuele II, Carmignano",
+    "cap": null,
+    "comune": "100002",
+    "frazione": null,
+    "lat": 43.79973,
+    "lon": 11.01859,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera tradizionale con mercatini di prodotti tipici della zona, degustazioni, spettacoli e laboratori per bambini. L'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Carmignano",
+    "fonti": [
+      {
+        "nome": "Comune di Prato - Tempo libero (scheda evento)",
+        "tipo": "aggregatore",
+        "url": "https://tempolibero.comune.prato.it/event/9422fd10-ae58-11f0-8779-675be9f2f0f5/appointment/ec3fc080-cbcf-11f1-9413-9b8e1a4062d8",
+        "consultata": "2026-11-04"
+      },
+      {
+        "nome": "Il Borghista",
+        "tipo": "aggregatore",
+        "url": "https://www.ilborghista.it/events/antica-fiera-di-carmignano-2026-martedi-1-dicembre-pro-loco-carmignano-aps-e-da",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "callas-callas-callas-carpi",
+    "titolo": "Callas, Callas, Callas",
+    "categoria": "teatro",
+    "inizio": "2026-11-04T21:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Carpi",
+    "indirizzo": "Piazza dei Martiri, 72, Carpi",
+    "cap": null,
+    "comune": "036005",
+    "frazione": null,
+    "lat": 44.8017,
+    "lon": 10.89251,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza al Teatro Comunale di Carpi, in programma mercoledì 4 novembre alle ore 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale di Carpi",
+    "fonti": [
+      {
+        "nome": "Comune di Carpi - Eventi (home)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.carpi.mo.it/",
+        "consultata": "2026-11-04"
+      },
+      {
+        "nome": "Teatro Comunale di Carpi",
+        "tipo": "ufficiale",
+        "url": "https://teatrocarpi.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "misurare-il-salto-delle-rane-carpi",
+    "titolo": "Misurare il salto delle rane",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Teatro Comunale di Carpi",
+    "indirizzo": "Piazza dei Martiri, 72, Carpi",
+    "cap": null,
+    "comune": "036005",
+    "frazione": null,
+    "lat": 44.8017,
+    "lon": 10.89251,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma sabato 7 e domenica 8 novembre al Teatro Comunale di Carpi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale di Carpi",
+    "fonti": [
+      {
+        "nome": "Comune di Carpi - Eventi (home)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.carpi.mo.it/",
+        "consultata": "2026-11-04"
+      },
+      {
+        "nome": "Teatro Comunale di Carpi",
+        "tipo": "ufficiale",
+        "url": "https://teatrocarpi.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lezioni-semiserie-casalmaggiore-2026-11-14",
+    "titolo": "Lezioni semiserie",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Comunale di Casalmaggiore",
+    "indirizzo": "Via Benedetto Cairoli, 53",
+    "cap": null,
+    "comune": "019021",
+    "frazione": null,
+    "lat": 44.98698,
+    "lon": 10.45418,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione di prosa del Teatro Comunale di Casalmaggiore: una rilettura teatrale di un classico della letteratura siciliana, con toni leggeri ma anche riflessivi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale di Casalmaggiore",
+    "fonti": [
+      {
+        "nome": "Teatro Comunale di Casalmaggiore - calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrocasalmaggiore.it/it/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lattrice-casalmaggiore-2026-12-11",
+    "titolo": "L'Attrice",
+    "categoria": "teatro",
+    "inizio": "2026-12-11",
+    "fine": null,
+    "luogo": "Teatro Comunale di Casalmaggiore",
+    "indirizzo": "Via Benedetto Cairoli, 53",
+    "cap": null,
+    "comune": "019021",
+    "frazione": null,
+    "lat": 44.98698,
+    "lon": 10.45418,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di prosa in cartellone al Teatro Comunale di Casalmaggiore. Sul palco prende forma la vita controversa di una donna, Angelica Pavan, attraverso frammenti di scena intensi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale di Casalmaggiore",
+    "fonti": [
+      {
+        "nome": "Teatro Comunale di Casalmaggiore - calendario",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrocasalmaggiore.it/it/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "party-letterario-casalgrande-2026-11-14",
+    "titolo": "Party letterario: viaggiare attraverso lo sguardo delle artiste",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T17:00",
+    "fine": null,
+    "luogo": "Teatro De André",
+    "indirizzo": "Casalgrande",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul tema dei viaggi raccontati attraverso lo sguardo delle artiste, con un appuntamento di letture e conversazione. Fa parte della rassegna Nuovi linguaggi del Teatro De André.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro De André",
+    "fonti": [
+      {
+        "nome": "Teatro De André - Nuovi linguaggi",
+        "tipo": "organizzatore",
+        "url": "https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "manifesta-spettacolo-casalgrande-2026-11-21",
+    "titolo": "MANIFESTA. La voce degli uomini sulla parità di genere (spettacolo)",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Teatro De André",
+    "indirizzo": "Casalgrande",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo e installazione sulla parità di genere, in occasione della Giornata internazionale contro la violenza sulle donne. Un appuntamento della rassegna Nuovi linguaggi che dà la parola agli uomini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro De André",
+    "fonti": [
+      {
+        "nome": "Teatro De André - Nuovi linguaggi",
+        "tipo": "organizzatore",
+        "url": "https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "manifesta-installazione-casalgrande-2026-11-22",
+    "titolo": "MANIFESTA. La voce degli uomini sulla parità di genere (installazione)",
+    "categoria": "mostra",
+    "inizio": "2026-11-22T17:00",
+    "fine": "2026-11-22T21:00",
+    "luogo": "Teatro De André",
+    "indirizzo": "Casalgrande",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione dedicata alla voce degli uomini sulla parità di genere, visitabile nel pomeriggio e la sera. È un'iniziativa legata alla giornata contro la violenza sulle donne, nella rassegna Nuovi linguaggi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro De André",
+    "fonti": [
+      {
+        "nome": "Teatro De André - Nuovi linguaggi",
+        "tipo": "organizzatore",
+        "url": "https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "casalgrande-slam-2-casalgrande-2026-11-27",
+    "titolo": "Casalgrande Slam 2",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T20:30",
+    "fine": null,
+    "luogo": "Teatro De André",
+    "indirizzo": "Casalgrande",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento dello slam di poesia organizzato a Casalgrande dal gruppo Mutuo Soccorso Poetico. Si svolge nella rassegna Nuovi linguaggi del Teatro De André.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mutuo Soccorso Poetico APS",
+    "fonti": [
+      {
+        "nome": "Teatro De André - Nuovi linguaggi",
+        "tipo": "organizzatore",
+        "url": "https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cineforum-generazioni-casalgrande-2026-12-12",
+    "titolo": "Cineforum GenerAzioni: Men, Women and Children",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T16:00",
+    "fine": null,
+    "luogo": "Teatro Fabrizio De André",
+    "indirizzo": "Piazza Roberto Ruffilli 1",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Men, Women and Children con un momento di confronto su tecnologia, social network, cyberbullismo e gioco online. Il tema centrale sono le relazioni tra giovani e adulti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "GenerAzioni",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia - agenda Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi?comune=Casalgrande",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "vietato-innamorarsi-casalgrande-2026-12-13",
+    "titolo": "Vietato innamorarsi",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T16:00",
+    "fine": null,
+    "luogo": "Teatro De André",
+    "indirizzo": "Casalgrande",
+    "cap": null,
+    "comune": "035012",
+    "frazione": null,
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Creazione teatrale nata dal progetto di residenza Qui e Ora, presentata al Teatro De André nella rassegna Nuovi linguaggi. Uno spettacolo pomeridiano di domenica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Qui e Ora Residenza Teatrale",
+    "fonti": [
+      {
+        "nome": "Teatro De André - Nuovi linguaggi",
+        "tipo": "organizzatore",
+        "url": "https://teatrodeandre.it/category/stagione-26-27/fuori-26-27/nuovi-linguaggi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sul-lastrico-casale-monferrato-2026-11-04",
+    "titolo": "Sul Lastrico",
+    "categoria": "teatro",
+    "inizio": "2026-11-04T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Maurizio Lastrico che unisce teatro, stand-up comedy e racconto personale. Prima replica della serata nel cartellone di prosa del Teatro Municipale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 42
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sul-lastrico-casale-monferrato-2026-11-05",
+    "titolo": "Sul Lastrico (replica fuori abbonamento)",
+    "categoria": "teatro",
+    "inizio": "2026-11-05T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica fuori abbonamento dello spettacolo di Maurizio Lastrico, che mescola teatro, comicità dal vivo e racconto personale. Si svolge al Teatro Municipale di Casale Monferrato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 42
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lisistrata-casale-monferrato-2026-11-17",
+    "titolo": "Lisistrata",
+    "categoria": "teatro",
+    "inizio": "2026-11-17T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia di Aristofane riletta in chiave contemporanea: le donne oppongono desiderio e vita alla follia della guerra. La replica del 17 novembre è audiodescritta per il pubblico non vedente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lisistrata-casale-monferrato-2026-11-18",
+    "titolo": "Lisistrata (seconda replica)",
+    "categoria": "teatro",
+    "inizio": "2026-11-18T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia di Aristofane riletta in chiave contemporanea, con una storia al femminile che contrappone la vita e il desiderio alla guerra. Replica del 18 novembre al Teatro Municipale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-boheme-casale-monferrato-2026-11-21",
+    "titolo": "La Bohème",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:30",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera lirica eseguita dall'Orchestra B. Bruni insieme al coro Lirico Francesco Tamagno. Spettacolo fuori abbonamento al Teatro Municipale di Casale Monferrato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pinocchio-circo-meraviglie-casale-monferrato-2026-11-27",
+    "titolo": "Pinocchio - Il circo delle meraviglie",
+    "categoria": "bambini",
+    "inizio": "2026-11-27T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo tratto dalla storia di Pinocchio, con testo e regia di Jacopo Pelliccia. In scena il circo delle meraviglie, fuori abbonamento al Teatro Municipale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "brava-bravissima-casale-monferrato-2026-12-06",
+    "titolo": "Brava, bravissima... anche meno",
+    "categoria": "teatro",
+    "inizio": "2026-12-06T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia in scena fuori abbonamento al Teatro Municipale di Casale Monferrato, nella programmazione di dicembre. Il programma prevede due interpreti in scena.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sei-personaggi-casale-monferrato-2026-12-12",
+    "titolo": "Sei personaggi in cerca d'autore",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Classico del teatro del Novecento messo in scena fuori abbonamento al Teatro Municipale di Casale Monferrato. Lo spettacolo ha una regia di Maurizio Messana.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 26
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "madre-courage-casale-monferrato-2026-12-15",
+    "titolo": "Madre Courage e i suoi figli",
+    "categoria": "teatro",
+    "inizio": "2026-12-15T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Il testo di Brecht è accompagnato da musiche eseguite dal vivo in un arrangiamento rock e contemporaneo. Lo spettacolo è in programma nel cartellone di prosa del Teatro Municipale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "madre-courage-casale-monferrato-2026-12-16",
+    "titolo": "Madre Courage e i suoi figli (seconda replica)",
+    "categoria": "teatro",
+    "inizio": "2026-12-16T21:00",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Il testo di Brecht è accompagnato da musiche eseguite dal vivo in un arrangiamento rock e contemporaneo. Seconda replica dello spettacolo nel cartellone di prosa del Teatro Municipale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-municipale/512659063",
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Casale News - stagione 2026/27 Teatro Municipale",
+        "tipo": "stampa",
+        "url": "https://www.casalenews.it/spettacoli/teatro-municipale-presentata-la-stagione-202627-56219.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "de-andre-la-storia-casale-monferrato-2026-12-11",
+    "titolo": "De André La Storia",
+    "categoria": "concerto",
+    "inizio": "2026-12-11",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piazza Castello 9",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale dedicato alle canzoni di Fabrizio De André, in una nuova versione legata al trentesimo anniversario dell'album Anime Salve. Si svolge al Teatro Municipale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco - Teatro Municipale Casale Monferrato",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/casale-monferrato/teatro-municipale",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "hallowine-casamassima",
+    "titolo": "HalloWine - 3^ edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-07",
+    "luogo": "Centro storico",
+    "indirizzo": "Casamassima",
+    "cap": null,
+    "comune": "072015",
+    "frazione": null,
+    "lat": 40.9455,
+    "lon": 16.9246,
+    "coordinateApprossimate": true,
+    "descrizione": "Due serate di vino, cibo tipico e musica nel borgo, con gli stand delle cantine e animazione per i bambini. Il programma e stato spostato dal fine settimana precedente per il meteo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Casamassima",
+    "fonti": [
+      {
+        "nome": "Comune di Casamassima - Homepage",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.casamassima.ba.it/",
+        "consultata": "2026-11-04"
+      },
+      {
+        "nome": "il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/puglia/eventi/333998.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-gospel-solidarieta-casatenovo",
+    "titolo": "Concerto Gospel",
+    "categoria": "concerto",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Auditorium di Casatenovo",
+    "indirizzo": "Casatenovo",
+    "cap": null,
+    "comune": "097016",
+    "frazione": null,
+    "lat": 45.6822,
+    "lon": 9.32319,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di solidarietà con due cori, uno di Milano e uno di Lecco, che propongono il repertorio gospel. Si tiene nell'auditorium del paese il 6 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Casatenovo - Homepage (lista eventi)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.casatenovo.lc.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "virgo-onde-gravitazionali-cascina",
+    "titolo": "Alla scoperta di Virgo. Ascoltare il cosmo con le onde gravitazionali",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T15:00",
+    "fine": null,
+    "luogo": "Interferometro Virgo",
+    "indirizzo": "Via E. Amaldi, Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata all'interferometro Virgo, lo strumento che cerca le onde gravitazionali. Un modo per capire come si ascolta il cosmo. Ingresso libero, con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "volta-celeste-cascina",
+    "titolo": "La Volta Celeste",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-15T17:30",
+    "fine": null,
+    "luogo": "La Città del Teatro",
+    "indirizzo": "Via Tosco Romagnola 656, Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di un'opera dello scultore Marcantonio Bibbiani, donata al Comune e collocata nel foyer del teatro. Aperta a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "restauro-bellotti-bon-cascina",
+    "titolo": "Un tesoro ritrovato - Il restauro del Bellotti Bon",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T17:30",
+    "fine": null,
+    "luogo": "Biblioteca Comunale P. Impastato",
+    "indirizzo": "Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il sindaco, un architetto e la direttrice del restauro sul ripristino del teatro storico di Cascina. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-vita-accanto-cascina",
+    "titolo": "Una vita accanto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale P. Impastato",
+    "indirizzo": "Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Albertina Gasparroni racconta il proprio lavoro accanto a grandi figure della politica italiana, in dialogo con una giornalista. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "saggezza-audacia-sassoli-cascina",
+    "titolo": "La Saggezza e l'Audacia. Discorsi per l'Italia e per l'Europa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale P. Impastato",
+    "indirizzo": "Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di David Sassoli, con un intervento di Claudio Sardo e un'intervista a una giornalista. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-per-europa-cascina",
+    "titolo": "Concerto per l'Europa",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T18:00",
+    "fine": null,
+    "luogo": "Pieve dei Santi Ippolito e Cassiano",
+    "indirizzo": "Piazza San Casciano 1, Cascina",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Corale Polifonica Cascinese dedicato all'Europa, nella pieve del paese. Un appuntamento serale per chi ama la musica corale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Corale Polifonica Cascinese",
+    "fonti": [
+      {
+        "nome": "Pisatoday - Cascina Europa 2026",
+        "tipo": "stampa",
+        "url": "https://www.pisatoday.it/cronaca/cascina-europa-2026-programma.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
