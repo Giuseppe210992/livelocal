@@ -11300,5 +11300,71 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "yifan-wu-pianoforte-modena",
+    "titolo": "Yifan Wu in concerto: pianoforte all'Auditorium Marco Biagi",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T17:30",
+    "fine": null,
+    "luogo": "Auditorium Fondazione Marco Biagi",
+    "indirizzo": "Largo Marco Biagi 10, Modena",
+    "comune": "036023",
+    "frazione": null,
+    "lat": 44.6489,
+    "lon": 10.93,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del pianista Yifan Wu, vincitore del Concorso Pianistico Internazionale Busoni, nella stagione MusicaCantoParola della Gioventù Musicale d'Italia. Biglietto 13 euro, ridotti 10 e 5.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": "Gioventù Musicale d'Italia – sede di Modena",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Gioventù Musicale d'Italia, sede di Modena – calendario concerti",
+        "tipo": "organizzatore",
+        "url": "https://gmimodena.it/calendario-dei-concerti/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oratorio-de-noel-cattedrale-modena",
+    "titolo": "Oratorio de Noël di Saint-Saëns nel Duomo di Modena",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T20:30",
+    "fine": null,
+    "luogo": "Cattedrale di Modena",
+    "indirizzo": "Corso Duomo, Modena",
+    "comune": "036023",
+    "frazione": null,
+    "lat": 44.6465,
+    "lon": 10.9253,
+    "coordinateApprossimate": true,
+    "descrizione": "Torna dopo molti anni a Modena l'Oratorio de Noël di Camille Saint-Saëns, eseguito nella cornice del Duomo. Evento speciale della stagione MusicaCantoParola. Biglietto 10 euro, ridotto 5.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Gioventù Musicale d'Italia – sede di Modena",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Gioventù Musicale d'Italia, sede di Modena – calendario concerti",
+        "tipo": "organizzatore",
+        "url": "https://gmimodena.it/calendario-dei-concerti/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
