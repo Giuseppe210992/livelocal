@@ -16,6 +16,11 @@
    "esito": "nessun-evento",
    "eventi": 0
   },
+  "108003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
   "113001": {
    "data": "2026-11-04",
    "esito": "nessun-evento",
@@ -37,6 +42,16 @@
    "eventi": 0
   },
   "115002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "115003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "115004": {
    "data": "2026-11-04",
    "esito": "nessun-evento",
    "eventi": 0
@@ -477,6 +492,201 @@
    "eventi": 0
   },
   "068002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "009001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "060003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 1
+  },
+  "004003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 1
+  },
+  "067001": {
+   "data": "2026-11-04",
+   "esito": "fonti-illeggibili",
+   "eventi": 0
+  },
+  "015005": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "065003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "076003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "058003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 5
+  },
+  "016003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "002003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "014001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "034001": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 1
+  },
+  "013003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "009002": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 27
+  },
+  "072003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 1
+  },
+  "024002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "022002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "001004": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "078006": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "028003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 7
+  },
+  "035001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "016004": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 5
+  },
+  "013005": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "009004": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "009003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "012002": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 1
+  },
+  "018003": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "014002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "005002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "018004": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "081001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "083001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "022003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 2
+  },
+  "021001": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "006003": {
+   "data": "2026-11-04",
+   "esito": "eventi",
+   "eventi": 0
+  },
+  "078007": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "084002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "075002": {
+   "data": "2026-11-04",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "075003": {
    "data": "2026-11-04",
    "esito": "nessun-evento",
    "eventi": 0

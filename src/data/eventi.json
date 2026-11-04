@@ -34214,5 +34214,1657 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "liszt-a-fumetti-mostra-albano-laziale",
+    "titolo": "Liszt a fumetti: mostra al Museo Civico",
+    "categoria": "mostra",
+    "inizio": "2026-11-05T17:00",
+    "fine": null,
+    "luogo": "Museo Civico Mario Antonacci",
+    "indirizzo": "Museo Civico Mario Antonacci, Albano Laziale",
+    "cap": null,
+    "comune": "058003",
+    "frazione": null,
+    "lat": 41.71022,
+    "lon": 12.633,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra che racconta il compositore Franz Liszt con le tecniche del fumetto, tra copertine immaginarie e vignette disegnate da Raffaele Valeri. Si visita negli orari del museo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Liszt Albano (Associazione Amici della Musica Cesare de Sanctis)",
+    "fonti": [
+      {
+        "nome": "Festival Liszt Albano",
+        "tipo": "organizzatore",
+        "url": "https://festivalisztalbano.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rap-sodia-dosto-yevski-albano-laziale",
+    "titolo": "Rap-Sodia con Dosto & Yevski",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T18:00",
+    "fine": null,
+    "luogo": "Palazzo Savelli",
+    "indirizzo": "Palazzo Savelli, Albano Laziale",
+    "cap": null,
+    "comune": "058003",
+    "frazione": null,
+    "lat": 41.71022,
+    "lon": 12.633,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di musica e comicità con pianoforte e contrabbasso, ispirato alla Rapsodia n. 2 di Liszt, nell'ambito del Festival Liszt.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Liszt Albano (Associazione Amici della Musica Cesare de Sanctis)",
+    "fonti": [
+      {
+        "nome": "Festival Liszt Albano",
+        "tipo": "organizzatore",
+        "url": "https://festivalisztalbano.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "roberto-cappello-pianoforte-albano-laziale",
+    "titolo": "Roberto Cappello al pianoforte: Schubert-Liszt, Rimskij-Korsakov, Gershwin",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T18:00",
+    "fine": null,
+    "luogo": "Palazzo Savelli",
+    "indirizzo": "Palazzo Savelli, Albano Laziale",
+    "cap": null,
+    "comune": "058003",
+    "frazione": null,
+    "lat": 41.71022,
+    "lon": 12.633,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital del pianista Roberto Cappello con lieder di Schubert-Liszt, Sherazade, Danze polovesiane e Rapsodia in blu, per il Festival Liszt.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Liszt Albano (Associazione Amici della Musica Cesare de Sanctis)",
+    "fonti": [
+      {
+        "nome": "Festival Liszt Albano",
+        "tipo": "organizzatore",
+        "url": "https://festivalisztalbano.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-liszt-40-anni-albano-laziale",
+    "titolo": "Il Festival Liszt festeggia 40 anni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Palazzo Savelli",
+    "indirizzo": "Palazzo Savelli, Albano Laziale",
+    "cap": null,
+    "comune": "058003",
+    "frazione": null,
+    "lat": 41.71022,
+    "lon": 12.633,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio per i quarant'anni del festival: proiezione del docufilm «Liszt ad Albano e il suo festival» e presentazione del libro antologico delle edizioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Liszt Albano (Associazione Amici della Musica Cesare de Sanctis)",
+    "fonti": [
+      {
+        "nome": "Festival Liszt Albano",
+        "tipo": "organizzatore",
+        "url": "https://festivalisztalbano.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-del-gusto-albano-laziale",
+    "titolo": "Festival del Gusto",
+    "categoria": "sagra",
+    "inizio": "2026-11-06T18:00",
+    "fine": "2026-11-08T21:30",
+    "luogo": "Area del Museo Civico (Viale Scalchi e Via Risorgimento)",
+    "indirizzo": "Viale Scalchi e Via Risorgimento, Albano Laziale",
+    "cap": null,
+    "comune": "058003",
+    "frazione": null,
+    "lat": 41.71022,
+    "lon": 12.633,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre sere di assaggi gratuiti di ristoranti e chef dei Castelli Romani, con musica dal vivo, uno show cooking e un DJ set finale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "TrovaSagre",
+        "tipo": "aggregatore",
+        "url": "https://trovasagre.com/en/evento/festival-del-gusto-albano-laziale-rm-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arte-di-esprimersi-luce-propria-alatri",
+    "titolo": "L'Arte di Esprimersi - Luce Propria",
+    "categoria": "mostra",
+    "inizio": "2026-11-06T10:00",
+    "fine": null,
+    "luogo": "Chiostro di San Francesco",
+    "indirizzo": "Piazza Regina Margherita, Alatri",
+    "cap": null,
+    "comune": "060003",
+    "frazione": null,
+    "lat": 41.72797,
+    "lon": 13.36037,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate per giovani, arte e creatività, con inaugurazione e convegno la mattina del 6 novembre. L'esposizione nel chiostro resta visitabile fino al 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione L'Albero di Thomas OdV",
+    "fonti": [
+      {
+        "nome": "La Provincia Frosinone",
+        "tipo": "stampa",
+        "url": "https://laprovinciafrosinone.it/2026/11/04/creativita-e-territorio-alatri-si-accende-con-larte-di-esprimersi-luce-propria/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercato-mondiale-tartufo-bianco-alba",
+    "titolo": "Mercato Mondiale del Tartufo Bianco d'Alba",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14T09:30",
+    "fine": "2026-11-15T19:30",
+    "luogo": "Cortile della Maddalena",
+    "indirizzo": "Via Luigi Paruzza, Alba",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.68794,
+    "lon": 8.03089,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato all'aperto nel centro storico dove si compra il tartufo fresco dai cercatori, con prodotti del territorio e vini di Langhe, Monferrato e Roero. Aperto ogni sabato e domenica fino al 6 dicembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Ente Fiera Internazionale del Tartufo Bianco d'Alba",
+    "fonti": [
+      {
+        "nome": "Langhe.net",
+        "tipo": "aggregatore",
+        "url": "https://langhe.net/evento/mercato-mondiale-tartufo-bianco-alba-15-11-26/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-dell-artigianato-albenga",
+    "titolo": "Mercatino dell'artigianato",
+    "categoria": "mercatino",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Piazza IV Novembre",
+    "indirizzo": "Piazza IV Novembre, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di prodotti artigianali in centro, nella giornata di sabato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tra le torri APS",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontro-con-l-autrice-anna-vera-viva-albenga",
+    "titolo": "Incontro con l'autrice Anna Vera Viva",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T17:30",
+    "fine": null,
+    "luogo": "Antico Frantoio Sommariva",
+    "indirizzo": "Antico Frantoio Sommariva, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice nell'ambito della serie di presentazioni letterarie curate da una libreria cittadina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Libreria San Michele",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sei-un-mito-il-dopo-ottobre-de-andre-albenga",
+    "titolo": "Sei un mito - Il dopo Ottobre De André",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di musica e parole in ricordo di Fabrizio De André, con la partecipazione di diverse realtà locali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fieui di Caruggi",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rapalline-jazz-nights-con-gabriele-mirabassi-albenga",
+    "titolo": "Rapalline Jazz Nights con Gabriele Mirabassi",
+    "categoria": "concerto",
+    "inizio": "2026-11-10T21:15",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata jazz con la Rapalline Jazz Band e il clarinettista Gabriele Mirabassi, a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Le Rapalline in Jazz APS",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "conferenza-giustizia-legalita-e-fiducia-nelle-istituzioni-albenga",
+    "titolo": "Conferenza «Giustizia, legalità e fiducia nelle istituzioni»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T16:30",
+    "fine": null,
+    "luogo": "Palazzo Oddo",
+    "indirizzo": "Aula Magna, Palazzo Oddo, via Roma 58, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza pubblica sul rapporto tra giustizia, legalità e istituzioni, con l'avvocato Giorgio Cangiano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre Comprensoriale Ingauna",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "convegno-di-archeologia-e-storia-dei-liguri-preromani-albenga",
+    "titolo": "Convegno di archeologia e storia dei Liguri preromani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T15:00",
+    "fine": null,
+    "luogo": "Palazzo Peloso Cepolla",
+    "indirizzo": "Palazzo Peloso Cepolla, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno con docenti delle università di Tarragona e Genova sulla storia e l'archeologia dei Liguri prima dei Romani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Istituto Internazionale di Studi Liguri - sezione di Albenga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-dell-artigianato-e-dei-prodotti-agricoli-albenga",
+    "titolo": "Mercatino dell'artigianato e dei prodotti agricoli",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Piazza Trincheri",
+    "indirizzo": "Piazza Trincheri, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino con prodotti artigianali e agricoli per tutto il fine settimana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-ambra-rosa-mamma-sei-sempre-nei-miei-pensieri-spostati-con-cinzia-leone-albenga",
+    "titolo": "L'Ambra rosa: «Mamma sei sempre nei miei pensieri. Spostati» con Cinzia Leone",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T18:00",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico scritto e interpretato da Cinzia Leone, con Federica Lugli, per la rassegna teatrale L'Ambra rosa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Teatro Ingaunia",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "albenga-passato-e-presente-donne-nella-storia-di-albenga-albenga",
+    "titolo": "Albenga Passato e Presente: «Donne nella storia di Albenga»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T17:00",
+    "fine": null,
+    "luogo": "Auditorium San Carlo",
+    "indirizzo": "Auditorium San Carlo, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna di storia locale dedicato alle donne che hanno segnato la storia della città. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "camminata-solidale-sulla-via-julia-augusta-albenga",
+    "titolo": "Camminata solidale sulla Via Julia Augusta",
+    "categoria": "sport",
+    "inizio": "2026-11-22T10:00",
+    "fine": null,
+    "luogo": "Istituto Agrario, località San Bernardino",
+    "indirizzo": "Piazzale dell'Istituto Agrario, località San Bernardino, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata per l'equità di genere lungo la Via Julia Augusta, con raccolta fondi e aperitivo all'arrivo a Santa Croce.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Zonta Alassio-Albenga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-ambra-rosa-due-volte-piu-brave-le-prime-donne-con-cristina-sarti-albenga",
+    "titolo": "L'Ambra rosa: «Due volte più brave - le prime donne» con Cristina Sarti",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T18:00",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Cristina Sarti con musiche dal vivo di Luisa Repoli al pianoforte, per la rassegna L'Ambra rosa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Teatro Ingaunia",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "conferenza-l-archivio-svelato-albenga",
+    "titolo": "Conferenza «L'Archivio svelato»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T16:30",
+    "fine": null,
+    "luogo": "Palazzo Oddo",
+    "indirizzo": "Aula Magna, Palazzo Oddo, via Roma 58, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sulle antiche carte dell'archivio diocesano e su ciò che raccontano delle radici della città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre Comprensoriale Ingauna",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-del-libro-canzoniere-dell-anima-di-claudia-granato-albenga",
+    "titolo": "Presentazione del libro «Canzoniere dell'anima» di Claudia Granato",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T16:30",
+    "fine": "2026-11-27T18:00",
+    "luogo": "Biblioteca civica S. Comane, Sala Don Balletto",
+    "indirizzo": "Biblioteca civica, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Claudia Granato, un dialogo con una donna. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-del-libro-in-brasile-con-jorge-amado-albenga",
+    "titolo": "Presentazione del libro «In Brasile con Jorge Amado»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:00",
+    "fine": null,
+    "luogo": "Auditorium San Carlo",
+    "indirizzo": "Auditorium San Carlo, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Roberto Francavilla dedicato al viaggio in Brasile sulle tracce dello scrittore Jorge Amado.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Libreria San Michele e APS Cosavuoichetilegga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "campionato-regionale-di-ciclocross-albenga",
+    "titolo": "Campionato Regionale di Ciclocross",
+    "categoria": "sport",
+    "inizio": "2026-11-29T06:00",
+    "fine": "2026-11-29T16:00",
+    "luogo": "Lungocenta Croce Bianca, Lungomare C. Colombo",
+    "indirizzo": "Lungocenta Croce Bianca, Lungomare Cristoforo Colombo, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Gara di ciclocross valida per il campionato regionale, lungo il Centa e il lungomare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ASD Jolly Race",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-scambio-ligure-per-auto-e-moto-d-epoca-albenga",
+    "titolo": "Mostra scambio ligure per auto e moto d'epoca",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-06",
+    "luogo": "Piazza Corridoni",
+    "indirizzo": "Piazza Corridoni, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra e scambio di auto, moto e ricambi d'epoca per due giorni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-di-roberto-fazzetto-il-sogno-non-finisce-mai-albenga",
+    "titolo": "Concerto di Roberto Fazzetto: «Il sogno non finisce mai»",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:00",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di presentazione del nuovo album del musicista Roberto Fazzetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-plastici-e-diorami-ferroviari-albenga",
+    "titolo": "Mostra «Plastici e diorami ferroviari»",
+    "categoria": "mostra",
+    "inizio": "2026-12-06",
+    "fine": "2027-01-06",
+    "luogo": "via Cesare Battisti 5",
+    "indirizzo": "Via Cesare Battisti 5, angolo Viale Martiri della Libertà, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione di plastici e diorami ferroviari realizzati dagli appassionati del modellismo di Albenga.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Modellismo Albenga APS",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incanto-di-natale-concerto-benefico-albenga",
+    "titolo": "«Incanto di Natale» - concerto benefico",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Chiesa di Santa Maria in Fontibus",
+    "indirizzo": "Chiesa di Santa Maria in Fontibus, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Natale a scopo benefico, con cioccolata calda al termine; il ricavato sostiene le attività dell'associazione organizzatrice.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "U.I.L.D.M. sezione di Albenga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-del-libro-liguri-in-armi-di-federico-frasson-albenga",
+    "titolo": "Presentazione del libro «Liguri in armi» di Federico Frasson",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T16:30",
+    "fine": null,
+    "luogo": "Palazzo Peloso Cepolla",
+    "indirizzo": "Palazzo Peloso Cepolla, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro sui Liguri in armi, con la professoressa Eleonora Salomone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Istituto Internazionale di Studi Liguri - sezione di Albenga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-ambra-rosa-pazza-di-tom-topor-albenga",
+    "titolo": "L'Ambra rosa: «Pazza» di Tom Topor",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T18:00",
+    "fine": null,
+    "luogo": "Teatro Ambra",
+    "indirizzo": "Teatro Ambra, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Vanessa Gravina e Nicola Lugnanese, regia di Fabrizio Coniglio, per la rassegna L'Ambra rosa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Teatro Ingaunia",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "conferenza-gli-acquerelli-liguri-albenga",
+    "titolo": "Conferenza «Gli acquerelli liguri»",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T16:30",
+    "fine": null,
+    "luogo": "Palazzo Oddo",
+    "indirizzo": "Aula Magna, Palazzo Oddo, via Roma 58, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sugli acquerelli dedicati ai paesaggi liguri, con la professoressa Luisa Nattero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre Comprensoriale Ingauna",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-del-coro-unitre-le-voci-del-centa-a-san-giorgio-albenga",
+    "titolo": "Concerto del Coro Unitre «Le voci del Centa» a San Giorgio",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T20:45",
+    "fine": null,
+    "luogo": "Teatro Don Pelle",
+    "indirizzo": "Teatro Don Pelle, San Giorgio d'Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo concerto natalizio del coro dell'Unitre, nella frazione di San Giorgio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre Comprensoriale Ingauna",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "albenga-passato-e-presente-i-corpi-musicali-di-albenga-nell-800-e-nel-900-albenga",
+    "titolo": "Albenga Passato e Presente: «I Corpi musicali di Albenga nell'800 e nel 900»",
+    "categoria": "conferenza",
+    "inizio": "2026-12-19T17:00",
+    "fine": null,
+    "luogo": "Auditorium San Carlo",
+    "indirizzo": "Auditorium San Carlo, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sulla storia delle bande musicali cittadine, con la partecipazione dei corpi bandistici locali. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-dell-accademia-musico-vocale-ingaunia-e-marcelli-albenga",
+    "titolo": "Concerto dell'Accademia Musico Vocale Ingaunia «E. Marcelli»",
+    "categoria": "concerto",
+    "inizio": "2026-12-19T21:00",
+    "fine": null,
+    "luogo": "Cattedrale San Michele",
+    "indirizzo": "Cattedrale San Michele, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'accademia musicale cittadina nella cattedrale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "babbo-natale-dei-vigili-del-fuoco-albenga",
+    "titolo": "Babbo Natale dei Vigili del Fuoco",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T16:00",
+    "fine": null,
+    "luogo": "Piazza San Michele",
+    "indirizzo": "Piazza San Michele, Albenga",
+    "cap": null,
+    "comune": "009002",
+    "frazione": null,
+    "lat": 44.0637,
+    "lon": 8.1843,
+    "coordinateApprossimate": true,
+    "descrizione": "Arrivo di Babbo Natale con i Vigili del Fuoco in piazza, pensato per i bambini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vigili del Fuoco, distaccamento di Albenga",
+    "fonti": [
+      {
+        "nome": "Scopri Albenga - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.scoprialbenga.it/eventi.htm",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "luce-pietra-memoria-mostra-alberobello",
+    "titolo": "Mostra «Luce, Pietra, Memoria. Alberobello tra pittura e fotografia»",
+    "categoria": "mostra",
+    "inizio": "2026-08-01",
+    "fine": "2026-12-31",
+    "luogo": "Casa D'Amore",
+    "indirizzo": "Casa D'Amore, Alberobello",
+    "cap": null,
+    "comune": "072003",
+    "frazione": null,
+    "lat": 40.79759,
+    "lon": 17.23734,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra per i trent'anni dell'iscrizione di Alberobello nella lista UNESCO, con dipinti e fotografie che raccontano la luce, la pietra e la memoria dei trulli. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Tacco di Bacco - Eventi a Alberobello",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/alberobello/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "degustazione-vini-museo-fungo-porcino-albareto",
+    "titolo": "Degustazione di vini al Museo del Fungo Porcino",
+    "categoria": "sagra",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Museo del Fungo Porcino",
+    "indirizzo": "Museo del Fungo Porcino, Albareto",
+    "cap": null,
+    "comune": "034001",
+    "frazione": null,
+    "lat": 44.43464,
+    "lon": 9.70024,
+    "coordinateApprossimate": true,
+    "descrizione": "Degustazione di vini nelle sale del museo dedicato al fungo porcino, nell'ambito degli eventi dell'Alta Val Taro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Turismo Valtaro e Valceno - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://www.turismovaltaro.it/calendario-eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insieme-a-parigi-albignasego",
+    "titolo": "Insieme a Parigi (Sognando Broadway)",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T20:30",
+    "fine": "2026-11-07T23:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical della compagnia Veronamusical, un viaggio tra Russia e Parigi fatto di sogni, amore e musiche spettacolari. Spettacolo adatto a tutte le età, nel festival Sognando Broadway.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "a-qualcuno-piace-caldo-albignasego",
+    "titolo": "A qualcuno piace caldo",
+    "categoria": "teatro",
+    "inizio": "2026-11-11T21:00",
+    "fine": "2026-11-11T23:15",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia tratta dal film di Billy Wilder, con Euridice Axen, Giulio Corso e Pietro Bontempo, regia di Geppy Gleijeses. Fa parte della stagione teatrale 2026/2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pinocchio-albignasego",
+    "titolo": "Pinocchio (Domeniche in famiglia)",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T16:30",
+    "fine": "2026-11-15T17:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Ullallà Teatro per famiglie, consigliato dai 5 anni in su, nella rassegna Domeniche in famiglia. Inserito nel Colibrì Festival 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "w-la-storia-di-willy-wonka-albignasego",
+    "titolo": "W - La storia di Willy Wonka",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T20:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical della compagnia Mouge dedicato alla storia di Willy Wonka e al suo mondo di cioccolato. Fa parte del festival Sognando Broadway.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "falstaff-larte-di-farla-franca-albignasego",
+    "titolo": "Falstaff. L'arte di farla franca",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T21:00",
+    "fine": "2026-12-04T22:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con Emilio Solfrizzi, liberamente ispirato a Shakespeare e Molière, con testo e regia di Davide Sacco. Stagione teatrale 2026/2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pandizenzero-storie-dolci-di-natale-albignasego",
+    "titolo": "Pandizenzero. Storie dolci di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-06T16:30",
+    "fine": "2026-12-06T17:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo del Teatro del Buratto per bambini dai 3 anni, con storie dolci di Natale. Rassegna Domeniche in famiglia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-in-casa-scrooge-albignasego",
+    "titolo": "Natale in Casa Scrooge",
+    "categoria": "teatro",
+    "inizio": "2026-12-19T20:30",
+    "fine": "2026-12-19T23:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical natalizio ispirato al Canto di Natale di Dickens, portato in scena dalla compagnia La Pecora Nera. Nel festival Sognando Broadway.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "note-di-angelo-albizzate",
+    "titolo": "Note di Angelo, concerto benefico",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T20:30",
+    "fine": null,
+    "luogo": "Sala Piotti",
+    "indirizzo": "Piazza IV Novembre 2",
+    "cap": null,
+    "comune": "012002",
+    "frazione": null,
+    "lat": 45.72621,
+    "lon": 8.80006,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto degli allievi del Liceo Musicale Manzoni di Varese con brani scritti da un giovane musicista scomparso nel 2023. Ingresso a offerta libera per sostenere borse di studio; serve prenotare in anticipo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondo Angelo Rizzi per la Musica e l'Arte",
+    "fonti": [
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/musica-memoria-e-solidarieta-ad-albizzate-il-concerto-note-di-angelo/2727334/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "romanzo-di-dio-presentazione-albino",
+    "titolo": "Romanzo di Dio, presentazione del libro di Piera Testa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T16:00",
+    "fine": "2026-11-07T17:15",
+    "luogo": "Biblioteca civica di Albino",
+    "indirizzo": "Via Giuseppe Mazzini 68",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice Piera Testa che presenta il suo romanzo sulla liberazione da una relazione di dipendenza. Terzo appuntamento della rassegna ApPassionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/romanzo-di-dio",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "capire-lintelligenza-artificiale-albino",
+    "titolo": "Capire l'Intelligenza Artificiale con Ester Mignani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T17:15",
+    "luogo": "Biblioteca civica di Albino",
+    "indirizzo": "Via Giuseppe Mazzini 68",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro in biblioteca per capire che cos'è l'intelligenza artificiale, come funziona e come usarla bene, con esempi pratici e dispense. Quarto appuntamento di ApPassionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/capire-l-intelligenza-artificiale-con-ester-mignani",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inferno-xxvi-canto-di-ulisse-albino",
+    "titolo": "Inferno XXVI: il Canto di Ulisse con Enzo Noris",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T17:15",
+    "luogo": "Biblioteca civica di Albino",
+    "indirizzo": "Via Giuseppe Mazzini 68",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Enzo Noris, presidente del comitato bergamasco della Società Dante Alighieri, commenta il canto di Ulisse della Divina Commedia con slide e materiali. Quinto appuntamento di ApPassionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/inferno-xxvi-il-canto-di-ulisse",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nati-per-leggere-in-festa-albino",
+    "titolo": "Nati per Leggere in Festa 2026",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Biblioteca ragazzi di Albino",
+    "indirizzo": "Via Mazzini 68",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata per bambini da 0 a 6 anni con esposizione di libri, letture condivise, angoli creativi e gadget. Apertura al mattino e al pomeriggio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/nati-per-leggere-in-festa-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "afghanistan-viaggio-nel-paese-dei-contrasti-albino",
+    "titolo": "Afghanistan: un viaggio nel paese dei contrasti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Sede CAI Albino",
+    "indirizzo": "Albino",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata con il relatore Valentino Poli, consigliere regionale del CAI, su storia, ambiente e società dell'Afghanistan. Rassegna ImmaginAzione, patrocinata dal Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CAI Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/afghanistan-un-viaggio-nel-paese-dei-contrasti",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-del-ringraziamento-aldeno",
+    "titolo": "Festa del Ringraziamento",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-08T09:00",
+    "fine": "2026-11-08T17:00",
+    "luogo": "Piazza Cesare Battisti",
+    "indirizzo": "Piazza Cesare Battisti, Aldeno",
+    "cap": "38060",
+    "comune": "022003",
+    "frazione": null,
+    "lat": 45.97116,
+    "lon": 11.09263,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata alle tradizioni agricole del paese: ritrovo dei trattori con colazione contadina, sfilata dei mezzi agricoli accompagnata dalla banda, messa con benedizione, pranzo in comunità e castagnata nel pomeriggio. Ci sono anche una mostra di trattori d'epoca, un mercatino di produttori e animali da cortile per i bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Aldeno",
+    "fonti": [
+      {
+        "nome": "Comune di Aldeno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi/Festa-del-Ringraziamento-Aldeno",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pianificare-il-futuro-successioni-testamento-donazioni-aldeno",
+    "titolo": "Pianificare il futuro: incontro su successioni, testamento e donazioni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T17:00",
+    "fine": null,
+    "luogo": "Teatro comunale di Aldeno",
+    "indirizzo": "Piazza Cesare Battisti, Aldeno",
+    "cap": "38060",
+    "comune": "022003",
+    "frazione": null,
+    "lat": 45.97116,
+    "lon": 11.09263,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata informativa con un notaio che spiega in modo pratico come funzionano successioni, testamento e donazioni, e come tutelare i conviventi. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo del Tempo Libero Altinum e Università della Terza Età di Aldeno",
+    "fonti": [
+      {
+        "nome": "Comune di Aldeno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi/Pianificare-il-futuro-serata-organizzata-dal-Circolo-del-Tempo-Libero-Altinum-e-Universita-della-Terza-Eta",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]

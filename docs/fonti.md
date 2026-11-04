@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-04. **352 pagine di 245 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-04. **368 pagine di 255 siti** hanno dato eventi; 59 fonti sono post di Instagram o Facebook; 44 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -43,6 +43,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Cuneo Cultura (portale del Comune di Cuneo) | ufficiale | 4 | https://www.cuneocultura.it/eventi/calendario | 2026-11-03 |
 | Comune di Cuneo - Eventi | ufficiale | 1 | https://www.comune.cuneo.it/vivere-il-comune/eventi | 2026-11-03 |
 | Fiera Internazionale del Tartufo Bianco d'Alba - Altri eventi | organizzatore | 1 | https://www.fieradeltartufo.org/categorie-eventi/altri-eventi | 2026-11-03 |
+| Langhe.net | aggregatore | 1 | https://langhe.net/evento/mercato-mondiale-tartufo-bianco-alba-15-11-26 | 2026-11-04 |
 | Visit Piemonte | ufficiale | 1 | https://www.visitpiemonte.com/en/events/fiera-internazionale-del-tartufo-bianco-dalba-96th-edition | 2026-11-03 |
 
 ### Asti (AT)
@@ -101,6 +102,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fondazione Marcello Morandini | organizzatore | 1 | https://www.fondazionemarcellomorandini.com/fondazione-marcello-morandini-eventi/sintonie-stagione-concertistica-2026 | 2026-11-04 |
 | Frontaliere Ticino | stampa | 1 | https://frontaliereticino.ch/articoli-frontaliere/mostre-maga-gallarate-2026 | 2026-11-03 |
 | Teatro di Varese | organizzatore | 1 | https://www.teatrodivarese.com/ | 2026-11-04 |
+| VareseNews | stampa | 1 | https://www.varesenews.it/2026/11/musica-memoria-e-solidarieta-ad-albizzate-il-concerto-note-di-angelo/2727334 | 2026-11-04 |
 
 ### Como (CO)
 
@@ -136,6 +138,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | MilanoToday | stampa | 9 | https://www.milanotoday.it/social/segnalazioni/mercatini-natale-lombardia-calendario-novembre-2026.html | 2026-11-04 |
 | SanMartinoEvents Festa 2026 | organizzatore | 6 | https://www.sanmartinoevents.it/ | 2026-11-04 |
+| Comune di Albino | ufficiale | 5 | https://www.comune.albino.bg.it/it/eventi/romanzo-di-dio (+4 altre pagine) | 2026-11-04 |
 | Fondazione Bernareggi - Eventi e mostre | organizzatore | 5 | https://fondazionebernareggi.it/eventi-mostre | 2026-11-04 |
 | in-Lombardia (turismo della Regione Lombardia) | ufficiale | 1 | https://www.in-lombardia.it/evento/festival-donizetti-opera-2026 | 2026-11-03 |
 
@@ -211,6 +214,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Mart, mostre ed eventi | ufficiale | 7 | https://www.mart.tn.it/mostre-eventi | 2026-11-04 |
+| Comune di Aldeno | ufficiale | 2 | https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi/Festa-del-Ringraziamento-Aldeno (+1 altre pagine) | 2026-11-04 |
 | Trento Città del Natale | ufficiale | 1 | https://natale.visittrento.it/mercatino | 2026-11-03 |
 | Visit Rovereto e Vallagarina | ufficiale | 1 | https://www.visitrovereto.it/vivi/eventi/mercatino-di-natale-ala | 2026-11-04 |
 
@@ -258,6 +262,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Tecnogas Auditorium Albignasego | organizzatore | 7 | https://www.auditoriumalbignasego.it/eventi | 2026-11-04 |
 | Casa al Carmine - Mostre in Veneto 2026-2027 | aggregatore | 5 | https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027 | 2026-11-03 |
 | Museo Villa Bassi Rathgeb | organizzatore | 5 | https://www.museovillabassiabano.it/eventi-in-corso (+1 altre pagine) | 2026-11-04 |
 | Teatro Pietro d'Abano | organizzatore | 5 | https://teatropietrodabano.it/en/eventi-teatro | 2026-11-04 |
@@ -317,6 +322,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Scopri Albenga - calendario eventi | aggregatore | 26 | https://www.scoprialbenga.it/eventi.htm | 2026-11-04 |
 | Teatro Chiabrera | ufficiale | 6 | https://teatrochiabrera.it/artistica-2026-27 | 2026-11-03 |
 | Visit Savona - Il Teatro Chiabrera dà il via alla Stagione 2026/27 | ufficiale | 6 | https://www.visitsavona.com/it/il-teatro-chiabrera-da-il-via-alla-stagione-2026-27 | 2026-11-03 |
 
@@ -349,6 +355,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Parma Welcome (portale turistico di Parma) | aggregatore | 2 | https://parmawelcome.it/mostre-parma (+1 altre pagine) | 2026-11-04 |
 | Palazzo Tarasconi (sede della mostra) | organizzatore | 1 | https://palazzotarasconi.it/mostra/caravaggio-e-la-luce-del-seicento-11-novembre-2026-28-marzo-2027 | 2026-11-04 |
+| Turismo Valtaro e Valceno - calendario eventi | aggregatore | 1 | https://www.turismovaltaro.it/calendario-eventi | 2026-11-04 |
 
 ### Reggio nell'Emilia (RE)
 
@@ -558,7 +565,9 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Festival Liszt Albano | organizzatore | 4 | https://festivalisztalbano.it/ | 2026-11-04 |
 | Palazzo Esposizioni Roma | organizzatore | 4 | https://www.palazzoesposizioniroma.it/ | 2026-11-03 |
+| TrovaSagre | aggregatore | 1 | https://trovasagre.com/en/evento/festival-del-gusto-albano-laziale-rm-2026 | 2026-11-04 |
 
 ### Latina (LT)
 
@@ -578,6 +587,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | Ministero della Cultura | ufficiale | 3 | https://cultura.gov.it/evento/4-novembre-2026-alla-torre-di-cicerone (+2 altre pagine) | 2026-11-03 |
+| La Provincia Frosinone | stampa | 1 | https://laprovinciafrosinone.it/2026/11/04/creativita-e-territorio-alatri-si-accende-con-larte-di-esprimersi-luce-propria | 2026-11-04 |
 | VisitLazio – Regione Lazio | ufficiale | 1 | https://www.visitlazio.com/eventi-lazio/a-campoli-appennino-la-mostra-campora-di-e-lecce | 2026-11-03 |
 | Visit Valle di Comino | aggregatore | 1 | https://visitvalledicomino.com/eventi/39a-festa-del-tartufo-di-campoli-appennino-bianco-e-nero-pregiato | 2026-11-03 |
 
@@ -698,6 +708,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fondazione Teatro Petruzzelli | ufficiale | 12 | https://www.fondazionepetruzzelli.it/category/eventi | 2026-11-04 |
 | Puglia Culture - Stagione Teatrale di Bari 2026/27 | organizzatore | 9 | https://www.pugliaculture.it/rassegna/bari-umano-collettivo-stagione-teatrale-2026-27 | 2026-11-04 |
 | SiViaggia | stampa | 3 | https://siviaggia.it/notizie/sagre-feste-puglia-novembre-2026/606020 | 2026-11-03 |
+| Il Tacco di Bacco - Eventi a Alberobello | aggregatore | 1 | https://iltaccodibacco.it/alberobello | 2026-11-04 |
 | TEDx - pagina dell'evento | organizzatore | 1 | https://www.ted.com/tedx/events/67474 | 2026-11-04 |
 
 ### Taranto (TA)
@@ -994,4 +1005,4 @@ Provate dagli agenti e non utilizzabili. Non riprovare con gli stessi strumenti:
 
 ## Pagine aperte che non hanno dato eventi
 
-138 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.
+137 pagine sono state lette ma non hanno prodotto eventi (data o luogo mancanti, già passati, già presenti, fuori zona). Elenco in `ricerca/fonti.json` (`eventi: 0`, `esito: letta`): utile per non riaprirle inutilmente.
