@@ -303,6 +303,22 @@
    "titolo": "AMAT"
   },
   {
+   "url": "https://www.amatmarche.net/civitanova-marche-2026-27",
+   "dominio": "amatmarche.net",
+   "nome": "AMAT - Civitanova Marche 2026-27",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.amatmarche.net/recanati-2026-2027",
    "dominio": "amatmarche.net",
    "nome": "",
@@ -1240,10 +1256,10 @@
   {
    "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
    "dominio": "calabriastraordinaria.it",
-   "nome": "Calabria Straordinaria (Regione Calabria)",
+   "nome": "Calabria Straordinaria - Teatro Scaramuzza",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 6,
+   "eventi": 14,
    "regioni": [
     "Calabria"
    ],
@@ -1493,6 +1509,22 @@
    "titolo": ""
   },
   {
+   "url": "https://castellammaredelgolfoinvacanza.it/blog/eventi-a-castellammare-del-golfo-novembre",
+   "dominio": "castellammaredelgolfoinvacanza.it",
+   "nome": "Castellammare del Golfo in vacanza - Eventi a novembre 2026",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.castellinforma.it/home/?st=town&ts=Ariccia",
    "dominio": "castellinforma.it",
    "nome": "CastellInforma",
@@ -1732,6 +1764,86 @@
    ],
    "province": [
     "RC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.cividale.com/it/la_stagione_teatrale",
+   "dominio": "cividale.com",
+   "nome": "Comune di Cividale del Friuli - La Stagione Teatrale 2026-2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Friuli-Venezia Giulia"
+   ],
+   "province": [
+    "UD"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.civitafestival.it/genesis-duo-project",
+   "dominio": "civitafestival.it",
+   "nome": "Civitafestival - Genesis Duo Project",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "VT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.civitafestival.it/nuova-filarmonica-del-mare",
+   "dominio": "civitafestival.it",
+   "nome": "Civitafestival - Nuova Filarmonica del Mare",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "VT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.civitafestival.it/recital-pianistico-di-roberto-moretti",
+   "dominio": "civitafestival.it",
+   "nome": "Civitafestival - Recital pianistico di Roberto Moretti",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "VT"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.civitafestival.it/sudditi-digitali",
+   "dominio": "civitafestival.it",
+   "nome": "Civitafestival - Sudditi digitali",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "VT"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -3085,6 +3197,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+   "dominio": "comune.castelfidardo.an.it",
+   "nome": "Comune di Castelfidardo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.castelgoffredo.mn.it/it/events/anselmo-e-giacomo-due-voci-per-la-costituzione-8-11-26",
    "dominio": "comune.castelgoffredo.mn.it",
    "nome": "Comune di Castel Goffredo - eventi",
@@ -3096,6 +3224,22 @@
    ],
    "province": [
     "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.castellanza.va.it/argomenti/dettaglio/index.html?page=0&categorie=argomento/tempo-libero",
+   "dominio": "comune.castellanza.va.it",
+   "nome": "Comune di Castellanza - Tempo libero",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "VA"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -3513,6 +3657,150 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+   "dominio": "comune.cinisello-balsamo.mi.it",
+   "nome": "Comune di Cinisello Balsamo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 18,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cirie.to.it/it/news/cirieauditorium-al-via-le-iniziative-per-linaugurazione-il-3-novembre-la-cerimonia-istituzionale-e-il-9-novembre-lopening-show",
+   "dominio": "comune.cirie.to.it",
+   "nome": "Comune di Cirié - Notizie",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi/nonna-gruffalo",
+   "dominio": "comune.codogno.lo.it",
+   "nome": "Comune di Codogno, pagina Il racconto del sabato – Nonna Gruffalò",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi/sulla-strada-mostra",
+   "dominio": "comune.codogno.lo.it",
+   "nome": "Comune di Codogno, pagina Sulla Strada – Mostra",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LO"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/nati-per-leggere-festa-2026",
+   "dominio": "comune.colognoalserio.bg.it",
+   "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/spettacolo-teatrale-intrecci-di-cura",
+   "dominio": "comune.colognoalserio.bg.it",
+   "nome": "Comune di Cologno al Serio, Spettacolo teatrale Intrecci di cura",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/storie-merenda-per-bambini-di-6-7-anni-3",
+   "dominio": "comune.colognoalserio.bg.it",
+   "nome": "Comune di Cologno al Serio, Storie a merenda",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/tisana-dautore-0",
+   "dominio": "comune.colognoalserio.bg.it",
+   "nome": "Comune di Cologno al Serio, Tisana d'autore",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+   "dominio": "comune.colognomonzese.mi.it",
+   "nome": "Comune di Cologno Monzese - eventi sociali",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 12,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.como.it/vivere-il-comune/eventi",
    "dominio": "comune.como.it",
    "nome": "",
@@ -3555,6 +3843,134 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Comune di Como - Sant'Elia. Gli anni Trenta tra Razionalismo e Astrattismo"
+  },
+  {
+   "url": "https://www.comune.concesio.bs.it/it/events/alienando-lab-di-art-connecting-people",
+   "dominio": "comune.concesio.bs.it",
+   "nome": "Comune di Concesio - eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.concesio.bs.it/it/events/il-paradosso-delle-immagini-da-duchamp-a-warhol-a-cattelan-727740-727741",
+   "dominio": "comune.concesio.bs.it",
+   "nome": "Comune di Concesio - eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/evento-culturale/concerto-i-romantici-beethoven-e-schumann",
+   "dominio": "comune.cortona.ar.it",
+   "nome": "Comune di Cortona - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "AR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/evento-culturale/il-cantico-di-frate-sole-interpretazioni-nellarte",
+   "dominio": "comune.cortona.ar.it",
+   "nome": "Comune di Cortona - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "AR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cosenza.it/it/eventi/stagione-concertistica-internazionale-autunno-musicale-6",
+   "dominio": "comune.cosenza.it",
+   "nome": "Comune di Cosenza - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "CS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-2",
+   "dominio": "comune.cosenza.it",
+   "nome": "Comune di Cosenza - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "CS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-3",
+   "dominio": "comune.cosenza.it",
+   "nome": "Comune di Cosenza - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "CS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-4",
+   "dominio": "comune.cosenza.it",
+   "nome": "Comune di Cosenza - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "CS"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.cosenza.it/it/novita/page/teatro-rendano-presentata-la-nuova-stagione-2026-2027",
@@ -4133,6 +4549,22 @@
    "titolo": "OLBIA | CITTA' DEL NATALE 2026 - Consorzio di Portorotondo"
   },
   {
+   "url": "https://coratolive.it/2026/11/02/senti-che-murgia-memoriae-a-corato-prende-il-via-la-rassegna-dedicata-alla-civilta-contadina-e-alle-tradizioni-locali",
+   "dominio": "coratolive.it",
+   "nome": "CoratoLive - Senti che Murgia Memoriae",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://cortonamaec.org/eventi-maec",
    "dominio": "cortonamaec.org",
    "nome": "",
@@ -4143,6 +4575,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Archivi Eventi - MAEC Cortona | Museo dell'Accademia Etrusca e della Città di Cortona"
+  },
+  {
+   "url": "https://crema-news.it/appuntamenti/gli-appuntamenti-da-oggi-a-mercoled-",
+   "dominio": "crema-news.it",
+   "nome": "Crema News - Appuntamenti",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "CR"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.cronacheponentine.com/calendario-eventi",
@@ -4731,17 +5179,17 @@
   {
    "url": "https://www.cuneocultura.it/eventi/calendario",
    "dominio": "cuneocultura.it",
-   "nome": "Cuneo Cultura (portale del Comune di Cuneo)",
+   "nome": "Cuneo Cultura - Calendario eventi",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 4,
+   "eventi": 14,
    "regioni": [
     "Piemonte"
    ],
    "province": [
     "CN"
    ],
-   "consultata": "2026-11-03",
+   "consultata": "2026-11-04",
    "titolo": "Calendario eventi culturali a Cuneo • Cuneo Cultura"
   },
   {
@@ -5064,6 +5512,22 @@
    ],
    "province": [
     "BZ"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://ertfvg.it/teatri/cordenons",
+   "dominio": "ertfvg.it",
+   "nome": "ERT FVG - Teatro di Cordenons",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Friuli-Venezia Giulia"
+   ],
+   "province": [
+    "PN"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -5833,6 +6297,22 @@
    "titolo": "Eventi | Fiesole. Paesaggi plurali"
   },
   {
+   "url": "https://www.firenzetoday.it/eventi/natale-castelfiorentino-eventi-2026.html",
+   "dominio": "firenzetoday.it",
+   "nome": "FirenzeToday - Natale a Castelfiorentino 2026",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "FI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.foggiatoday.it/eventi",
    "dominio": "foggiatoday.it",
    "nome": "",
@@ -6520,6 +7000,22 @@
    ],
    "province": [
     "AN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.ilborghista.it/events/mercatino-di-natale-2026-12-mercatino-di-natale-2026-metauro-eventi-o-d-v-pro-loco-di-serrungarina",
+   "dominio": "ilborghista.it",
+   "nome": "Il Borghista, scheda evento",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "PU"
    ],
    "consultata": "2026-11-04",
    "titolo": ""
@@ -8345,6 +8841,22 @@
    "titolo": "La Camerata delle Arti – La Camerata delle Arti"
   },
   {
+   "url": "https://lacascinacornaredo.it/eventi",
+   "dominio": "lacascinacornaredo.it",
+   "nome": "La Cascina Cornaredo - Eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.lagotrasimeno.net/it/eventi",
    "dominio": "lagotrasimeno.net",
    "nome": "Lago Trasimeno Consorzio URAT",
@@ -8933,6 +9445,22 @@
    "titolo": "IL CALENDARIO DEGLI EVENTI IN PROVINCIA Agrigento  - Sicilia, storia, cultura, archeologia, enogastronomia, turismo, hotels, ristoranti, iti"
   },
   {
+   "url": "https://lombardia.piazzainfesta.it/concorezzo/feel-the-bass-line-112748",
+   "dominio": "lombardia.piazzainfesta.it",
+   "nome": "Piazza in Festa (Lombardia)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.lovevda.it/it/eventi/ricerca-generale",
    "dominio": "lovevda.it",
    "nome": "",
@@ -9005,6 +9533,22 @@
    "titolo": "Asti: mercatino di Natale - Il Magico Paese di Natale"
   },
   {
+   "url": "https://mantova24.net/cultura",
+   "dominio": "mantova24.net",
+   "nome": "Mantova24 - Cultura",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.marcheteatro.it/stagione-2026-27-di-ancona-prosa-danza",
    "dominio": "marcheteatro.it",
    "nome": "Marche Teatro - Stagione 2026-27 di Ancona Prosa-Danza",
@@ -9062,6 +9606,22 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+   "dominio": "me.comuni-chiamo.com",
+   "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 10,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FE"
+   ],
+   "consultata": "2026-11-04",
    "titolo": ""
   },
   {
@@ -9648,6 +10208,22 @@
    "titolo": "Torna il mese del Fuoco di Agnone: svelate le date 2026 della ‘Ndocciata e della Festa dei Fuochi Rituali - La 'Ndocciata"
   },
   {
+   "url": "https://www.nonsoloeventimarche.it/dettaglio.php?id=civitanova-all-opera---civitanova-marche",
+   "dominio": "nonsoloeventimarche.it",
+   "nome": "Non solo eventi Marche - Civitanova all'Opera",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=ancona&page=5",
    "dominio": "nonsoloeventimarche.it",
    "nome": "Non solo eventi Marche",
@@ -9818,6 +10394,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Eventi Oristano - Oristano Turismo"
+  },
+  {
+   "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+   "dominio": "padovaoggi.it",
+   "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "PD"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.padovaoggi.it/eventi/mercatino-fiera-campodarsego-8-novembre-2026.html",
@@ -10385,6 +10977,22 @@
    "titolo": "Pro Loco Città di Caserta APS – INSIEME PER SVILUPPARE IL TERRITORIO CASERTANO"
   },
   {
+   "url": "https://www.prolococolleferro.it/eventi",
+   "dominio": "prolococolleferro.it",
+   "nome": "Pro Loco Città di Colleferro, agenda eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.prolocoisernia.com/",
    "dominio": "prolocoisernia.com",
    "nome": "",
@@ -10421,6 +11029,22 @@
    "tipo": "organizzatore",
    "esito": "letta",
    "eventi": 9,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.pugliaculture.it/rassegna/corato-mappe-umane-stagione-teatrale-2026-27",
+   "dominio": "pugliaculture.it",
+   "nome": "Puglia Culture - Corato Mappe Umane 2026/27",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
    "regioni": [
     "Puglia"
    ],
@@ -10621,6 +11245,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Mostre in evidenza - Regione Autonoma Valle d'Aosta"
+  },
+  {
+   "url": "https://www.riminitoday.it/eventi/incontri-autore-coriano-libri-presentazioni-calendario-2026-2027.html",
+   "dominio": "riminitoday.it",
+   "nome": "RiminiToday - Incontri con l'autore Coriano",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RN"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://rivieradeifiori.travel/eventi",
@@ -11492,6 +12132,22 @@
    "titolo": ""
   },
   {
+   "url": "https://teatroaccademia.it/",
+   "dominio": "teatroaccademia.it",
+   "nome": "Teatro Accademia di Conegliano - stagione 2026/27",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "TV"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatroalessandrino.it/eventi-ospiti",
    "dominio": "teatroalessandrino.it",
    "nome": "Teatro Alessandrino",
@@ -11906,6 +12562,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Home – Teatro Marrucino"
+  },
+  {
+   "url": "https://www.teatromarrucino.eu/presentata-la-stagione-lirica-2026-del-teatro-marrucino",
+   "dominio": "teatromarrucino.eu",
+   "nome": "Teatro Marrucino - Stagione Lirica 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "CH"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
   },
   {
    "url": "https://www.teatromarrucino.eu/stagione-concertistica",
@@ -13506,6 +14178,54 @@
    ],
    "province": [
     "FC"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-14",
+   "dominio": "visitcittasantangelo.it",
+   "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "PE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-15",
+   "dominio": "visitcittasantangelo.it",
+   "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "PE"
+   ],
+   "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://visitcittasantangelo.it/evento/presentazione-stagione-2026-2027",
+   "dominio": "visitcittasantangelo.it",
+   "nome": "Visit Città Sant'Angelo - Presentazione stagione 2026/2027",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Abruzzo"
+   ],
+   "province": [
+    "PE"
    ],
    "consultata": "2026-11-04",
    "titolo": ""

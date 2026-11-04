@@ -52336,5 +52336,4202 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "partita-dei-pronipoti-castelfidardo",
+    "titolo": "La partita dei pronipoti tra Italo Polacchi e Castelfidardo-P.Picena",
+    "categoria": "sport",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Campo sportivo di Rione Buozzi",
+    "indirizzo": "Castelfidardo",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Un'amichevole di calcio al campo sportivo del Rione Buozzi, con un incontro che ha un significato storico per la città. Si gioca il 4 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castelfidardo",
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "stand-up-comedy-alessandro-ciacci-castelfidardo",
+    "titolo": "Stand up comedy: Alessandro Ciacci live all'On Stage",
+    "categoria": "teatro",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "On Stage",
+    "indirizzo": "Castelfidardo",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Una serata di stand up comedy con Alessandro Ciacci, vincitore di LOL, con una comicità ironica e surreale. Lo spettacolo è previsto il 12 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castelfidardo",
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "santa-house-in-tour-castelfiorentino",
+    "titolo": "Santa House in Tour",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T14:30",
+    "fine": null,
+    "luogo": "Piazza Gramsci",
+    "indirizzo": "Castelfiorentino",
+    "cap": null,
+    "comune": "048010",
+    "frazione": null,
+    "lat": 43.61855,
+    "lon": 10.95935,
+    "coordinateApprossimate": true,
+    "descrizione": "Una casina di Babbo Natale in piazza Gramsci, aperta per tre giorni dal 28 novembre. I bambini possono imbucare la letterina, incontrare Babbo Natale e farsi una foto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "FirenzeToday - Natale a Castelfiorentino 2026",
+        "tipo": "stampa",
+        "url": "https://www.firenzetoday.it/eventi/natale-castelfiorentino-eventi-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "accensione-albero-di-natale-castelfiorentino",
+    "titolo": "Accensione del grande albero di Natale",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-05T17:00",
+    "fine": null,
+    "luogo": "Piazza Gramsci",
+    "indirizzo": "Castelfiorentino",
+    "cap": null,
+    "comune": "048010",
+    "frazione": null,
+    "lat": 43.61855,
+    "lon": 10.95935,
+    "coordinateApprossimate": true,
+    "descrizione": "L'accensione del grande albero di Natale in piazza Gramsci, nel giorno della Gran Parata di Natale. È uno dei momenti simbolo del Natale di Comunità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "FirenzeToday - Natale a Castelfiorentino 2026",
+        "tipo": "stampa",
+        "url": "https://www.firenzetoday.it/eventi/natale-castelfiorentino-eventi-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-chiesa-san-lorenzo-castelfiorentino",
+    "titolo": "Concerto nella chiesa di San Lorenzo",
+    "categoria": "concerto",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Chiesa di San Lorenzo",
+    "indirizzo": "Castelfiorentino",
+    "cap": null,
+    "comune": "048010",
+    "frazione": null,
+    "lat": 43.61855,
+    "lon": 10.95935,
+    "coordinateApprossimate": true,
+    "descrizione": "Un concerto nella chiesa di San Lorenzo, previsto domenica 13 dicembre nel programma del Natale di Comunità. L'orario non è indicato nella fonte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "FirenzeToday - Natale a Castelfiorentino 2026",
+        "tipo": "stampa",
+        "url": "https://www.firenzetoday.it/eventi/natale-castelfiorentino-eventi-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cassatella-cuntu-ncantu-manciu-castellammare-del-golfo",
+    "titolo": "Cuntu, N'cantu e Manciu – La Cassatella",
+    "categoria": "sagra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-15",
+    "luogo": "Centro storico",
+    "indirizzo": "Castellammare del Golfo",
+    "cap": null,
+    "comune": "081005",
+    "frazione": null,
+    "lat": 38.01097,
+    "lon": 12.82713,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni dedicati alla cassatella, il dolce tipico della zona, con sapori e tradizione nelle strade pedonali del centro storico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Castellammare del Golfo in vacanza - Eventi a novembre 2026",
+        "tipo": "aggregatore",
+        "url": "https://castellammaredelgolfoinvacanza.it/blog/eventi-a-castellammare-del-golfo-novembre",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autunno-di-libri-bottonuto-castellanza",
+    "titolo": "Autunno di Libri - Bottonuto di fragole e sangue",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T21:00",
+    "fine": null,
+    "luogo": "Sala Conferenze della Biblioteca Civica",
+    "indirizzo": "Castellanza",
+    "cap": null,
+    "comune": "012042",
+    "frazione": null,
+    "lat": 45.611,
+    "lon": 8.89867,
+    "coordinateApprossimate": true,
+    "descrizione": "Una serata di presentazione di libro nella rassegna letteraria Autunno di libri, in Biblioteca civica. La rassegna prosegue con altre serate fino al 10 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castellanza",
+    "fonti": [
+      {
+        "nome": "Comune di Castellanza - Tempo libero",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellanza.va.it/argomenti/dettaglio/index.html?page=0&categorie=argomento/tempo-libero/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "archivi-svelati-sguardi-sul-novecento-castellanza",
+    "titolo": "Archivi svelati: sguardi sul Novecento",
+    "categoria": "mostra",
+    "inizio": "2026-10-17",
+    "fine": "2026-11-08",
+    "luogo": "Villa Pomini",
+    "indirizzo": "Castellanza",
+    "cap": null,
+    "comune": "012042",
+    "frazione": null,
+    "lat": 45.611,
+    "lon": 8.89867,
+    "coordinateApprossimate": true,
+    "descrizione": "Una mostra con la Collezione dell'Archivio Fotografico Italiano, nel bicentenario della scoperta della fotografia. Si può visitare fino all'8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castellanza",
+    "fonti": [
+      {
+        "nome": "Comune di Castellanza - Tempo libero",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellanza.va.it/argomenti/dettaglio/index.html?page=0&categorie=argomento/tempo-libero/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "anniversario-strage-nassiriya-cinisello-balsamo",
+    "titolo": "Anniversario Strage di Nassiriya",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-12T11:00",
+    "fine": null,
+    "luogo": "Piazza Caduti di Nassiriya",
+    "indirizzo": "Piazza Caduti di Nassiriya",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia per l'anniversario della strage di Nassiriya, in programma alle 11 in piazza Caduti di Nassiriya a Cinisello Balsamo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ridere-con-le-storie-cinisello-balsamo",
+    "titolo": "Ridere con le storie",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Il Pertini (sala piccoli, piano 1)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale nella sala piccoli del Centro culturale Il Pertini, sabato 14 novembre alle 10.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "a-teatro-con-voi-cinisello-balsamo",
+    "titolo": "A teatro con Voi",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T14:30",
+    "fine": null,
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "vicolo Fiume 4",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in tre atti al Cineteatro Pax, sabato 14 novembre alle 14.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concorso-lirico-licitra-2026-serata-finale-cinisello-balsamo",
+    "titolo": "Concorso Lirico Internazionale Salvatore Licitra 2026 - Serata Finale",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T21:00",
+    "fine": null,
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "vicolo Fiume 4",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata finale del Concorso Lirico Internazionale Salvatore Licitra 2026, al Cineteatro Pax alle 21 di domenica 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-mai-sazio-storiella-storiellina-cinisello-balsamo",
+    "titolo": "Teatro Mai Sazio: Storiella & Storiellina",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T16:30",
+    "fine": null,
+    "luogo": "Il Pertini (sala piccoli, piano 1)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Teatro Mai Sazio nella sala piccoli del Centro culturale Il Pertini, sabato 21 novembre alle 16.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lattesa-cinisello-balsamo",
+    "titolo": "L'attesa",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Il Pertini (auditorium Falcone e Borsellino)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale nell'auditorium Falcone e Borsellino del Centro culturale Il Pertini, sabato 21 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-passo-di-francesco-cinisello-balsamo",
+    "titolo": "Il passo di Francesco",
+    "categoria": "mostra",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Il Pertini (piano terra, area periodici)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di fotografie di Luigi Salerno e Matteo Reni, ispirata al Testamento di San Francesco e allestita al Centro culturale Il Pertini per gli 800 anni dalla morte del santo. Visitabile dal 20 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontri-con-la-montagna-ortles-gran-zebru-cinisello-balsamo",
+    "titolo": "Incontri con la montagna - Ortles & Gran Zebrù",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Il Pertini (sala incontri, piano -1)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alle montagne Ortles e Gran Zebrù, nella sala incontri del Centro culturale Il Pertini, venerdì 20 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "chi-era-frate-francesco-cinisello-balsamo",
+    "titolo": "Chi era frate Francesco?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T21:00",
+    "fine": null,
+    "luogo": "Il Pertini (auditorium Falcone e Borsellino)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Dialogo tra un frate cappuccino e un poeta per l'ottavo centenario della morte di San Francesco d'Assisi, nell'auditorium del Centro culturale Il Pertini, martedì 24 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insieme-come-allora-2026-cinisello-balsamo",
+    "titolo": "Insieme come allora 2026",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T16:00",
+    "fine": null,
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "vicolo Fiume 4",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di cabaret al Cineteatro Pax, domenica 29 novembre alle 16.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-libro-villa-ghirlanda-silva-cinisello-balsamo",
+    "titolo": "Presentazione del libro con Filippo Pizzoni, Laura Sabrina Pelissetti, Lionella Scazzosi e Anna Zottola",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:00",
+    "fine": null,
+    "luogo": "Villa Ghirlanda Silva (sala degli specchi)",
+    "indirizzo": "via Frova 10",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro con dialogo tra gli autori, nella sala degli specchi di Villa Ghirlanda Silva, giovedì 19 novembre alle 17.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-tesoro-in-vasi-di-creta-cinisello-balsamo",
+    "titolo": "Un tesoro in vasi di creta",
+    "categoria": "mostra",
+    "inizio": "2026-12-02",
+    "fine": null,
+    "luogo": "Il Pertini (piano -1, foyer)",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra nel foyer al piano -1 del Centro culturale Il Pertini, aperta dal 2 dicembre 2026. La pagina non indica la data di fine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-8-novembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-15-novembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-22-novembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-29-novembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-6-dicembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-usato-riciclo-13-dicembre-cinisello-balsamo",
+    "titolo": "M.U.R. - Mercatino dell'usato e del riciclo",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T12:00",
+    "fine": null,
+    "luogo": "Piazzetta del Salto",
+    "indirizzo": "Cinisello Balsamo",
+    "cap": null,
+    "comune": "015077",
+    "frazione": null,
+    "lat": 45.55739,
+    "lon": 9.21809,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dell'usato e del riciclo in Piazzetta del Salto, domenica alle 12. Una delle domeniche del mercatino M.U.R. di novembre e dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cinisello Balsamo",
+    "fonti": [
+      {
+        "nome": "Comune di Cinisello Balsamo - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cinisello-balsamo.mi.it/spip.php?article40683",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cirieauditorium-opening-show-cirie",
+    "titolo": "CiriéAuditorium Opening Show",
+    "categoria": "concerto",
+    "inizio": "2026-11-09T21:00",
+    "fine": null,
+    "luogo": "CiriéAuditorium",
+    "indirizzo": "Cirié",
+    "cap": null,
+    "comune": "001086",
+    "frazione": null,
+    "lat": 45.21968,
+    "lon": 7.59173,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa di apertura del nuovo CiriéAuditorium, aperta a tutti, con il sound di Bandakadabra e altre sorprese. Lunedì 9 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cirié",
+    "fonti": [
+      {
+        "nome": "Comune di Cirié - Notizie",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cirie.to.it/it/news/cirieauditorium-al-via-le-iniziative-per-linaugurazione-il-3-novembre-la-cerimonia-istituzionale-e-il-9-novembre-lopening-show",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cirieauditorium-open-weekend-cirie",
+    "titolo": "CiriéAuditorium Open Weekend",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-15T18:30",
+    "luogo": "CiriéAuditorium",
+    "indirizzo": "Cirié",
+    "cap": null,
+    "comune": "001086",
+    "frazione": null,
+    "lat": 45.21968,
+    "lon": 7.59173,
+    "coordinateApprossimate": true,
+    "descrizione": "Il nuovo CiriéAuditorium apre le porte per far scoprire gli ambienti del teatro, sabato 14 e domenica 15 novembre dalle 15 alle 18.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cirié",
+    "fonti": [
+      {
+        "nome": "Comune di Cirié - Notizie",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cirie.to.it/it/news/cirieauditorium-al-via-le-iniziative-per-linaugurazione-il-3-novembre-la-cerimonia-istituzionale-e-il-9-novembre-lopening-show",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-traviata-11-dicembre-chieti",
+    "titolo": "La Traviata",
+    "categoria": "teatro",
+    "inizio": "2026-12-11T20:30",
+    "fine": null,
+    "luogo": "Teatro Marrucino",
+    "indirizzo": "Chieti",
+    "cap": null,
+    "comune": "069022",
+    "frazione": null,
+    "lat": 42.35839,
+    "lon": 14.1622,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera lirica in tre atti di Giuseppe Verdi al Teatro Marrucino, ultima opera della Stagione Lirica 2026. Venerdì 11 dicembre alle 20.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.ciaotickets.com",
+    "organizzatore": "Teatro Marrucino",
+    "fonti": [
+      {
+        "nome": "Teatro Marrucino - Stagione Lirica 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.teatromarrucino.eu/presentata-la-stagione-lirica-2026-del-teatro-marrucino/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-traviata-13-dicembre-chieti",
+    "titolo": "La Traviata",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T17:30",
+    "fine": null,
+    "luogo": "Teatro Marrucino",
+    "indirizzo": "Chieti",
+    "cap": null,
+    "comune": "069022",
+    "frazione": null,
+    "lat": 42.35839,
+    "lon": 14.1622,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera lirica in tre atti di Giuseppe Verdi al Teatro Marrucino, ultima opera della Stagione Lirica 2026. Domenica 13 dicembre alle 17.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.ciaotickets.com",
+    "organizzatore": "Teatro Marrucino",
+    "fonti": [
+      {
+        "nome": "Teatro Marrucino - Stagione Lirica 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.teatromarrucino.eu/presentata-la-stagione-lirica-2026-del-teatro-marrucino/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "win-for-life-cividale-del-friuli",
+    "titolo": "Win for Life",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Adelaide Ristori",
+    "indirizzo": "Via Adelaide Ristori 30, Cividale del Friuli",
+    "cap": null,
+    "comune": "030026",
+    "frazione": null,
+    "lat": 46.0827,
+    "lon": 13.44406,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical diretto da Giorgio Gallione, in scena al Teatro Ristori nella stagione teatrale 2026-2027. La storia parte da una proposta di denaro per sempre e si trasforma in una commedia musicale piena di colpi di scena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cividale del Friuli ed ERT FVG",
+    "fonti": [
+      {
+        "nome": "Comune di Cividale del Friuli - La Stagione Teatrale 2026-2027",
+        "tipo": "ufficiale",
+        "url": "https://www.cividale.com/it/la_stagione_teatrale",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tutti-gli-uomini-che-non-sono-cividale-del-friuli",
+    "titolo": "Tutti gli uomini che non sono",
+    "categoria": "teatro",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Teatro Adelaide Ristori",
+    "indirizzo": "Via Adelaide Ristori 30, Cividale del Friuli",
+    "cap": null,
+    "comune": "030026",
+    "frazione": null,
+    "lat": 46.0827,
+    "lon": 13.44406,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia-verità con Paolo Calabresi e Carolina Di Domenico, che racconta esperienze di trasformismo tra filmati originali e riflessioni su identità e finzione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cividale del Friuli ed ERT FVG",
+    "fonti": [
+      {
+        "nome": "Comune di Cividale del Friuli - La Stagione Teatrale 2026-2027",
+        "tipo": "ufficiale",
+        "url": "https://www.cividale.com/it/la_stagione_teatrale",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-stagione-2026-2027-citta-sant-angelo",
+    "titolo": "Presentazione stagione 2026/2027",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T18:30",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del cartellone 2026/2027 del Città Sant'Angelo Music Festival nel Teatro Comunale. L'ingresso è libero e aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città Sant'Angelo Music Festival",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Presentazione stagione 2026/2027",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/presentazione-stagione-2026-2027/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "orgel-matinee-29-novembre-citta-sant-angelo",
+    "titolo": "Orgel-Matinée con Luca Migliorelli",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele 16, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Breve concerto d'organo della mattina, con l'organista Luca Migliorelli, nella Collegiata di San Michele Arcangelo. Parte del Festival Organistico Internazionale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Organistico Internazionale Città Sant'Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-14/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "orgel-matinee-6-dicembre-citta-sant-angelo",
+    "titolo": "Orgel-Matinée con Francesco D'Annibale",
+    "categoria": "concerto",
+    "inizio": "2026-12-06T11:00",
+    "fine": "2026-12-06T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele 16, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Breve concerto d'organo della mattina, con l'organista Francesco D'Annibale, nella Collegiata di San Michele Arcangelo. Parte del Festival Organistico Internazionale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Organistico Internazionale Città Sant'Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-15/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "laus-mariae-8-dicembre-citta-sant-angelo",
+    "titolo": "Laus Mariae",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T18:30",
+    "fine": null,
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele 16, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per voce e organo con il controtenore Vincenzo Franchini e l'organista Francesco Scarcella, nella Collegiata. Parte del Festival Organistico Internazionale, con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Organistico Internazionale Città Sant'Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-14/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "orgel-matinee-13-dicembre-citta-sant-angelo",
+    "titolo": "Orgel-Matinée con Walter D'Arcangelo",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T11:00",
+    "fine": "2026-12-13T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele 16, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Breve concerto d'organo della mattina, con l'organista Walter D'Arcangelo, nella Collegiata di San Michele Arcangelo. Parte del Festival Organistico Internazionale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Organistico Internazionale Città Sant'Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-14/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-pastorella-di-santa-lucia-citta-sant-angelo",
+    "titolo": "La pastorella di S. Lucia",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T19:00",
+    "fine": null,
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele 16, Città Sant'Angelo",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per violino, zampogna, cornamusa e organo, con Marco Giacinucci e l'organista Walter D'Arcangelo, nella Collegiata. Parte del Festival Organistico Internazionale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Organistico Internazionale Città Sant'Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo - Festival Organistico Internazionale",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-14/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nuova-filarmonica-del-mare-civita-castellana",
+    "titolo": "Nuova Filarmonica del Mare",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:30",
+    "fine": null,
+    "luogo": "Sala delle Ciminiere - Complesso MICE",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Nuova Filarmonica del Mare, orchestra di giovani musicisti diretta e solista dal flautista Edoardo Petti, con brani di Elgar, Puccini, Barber e Vivaldi. Fa parte del Civitafestival Winter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "fonti": [
+      {
+        "nome": "Civitafestival - Nuova Filarmonica del Mare",
+        "tipo": "organizzatore",
+        "url": "https://www.civitafestival.it/nuova-filarmonica-del-mare/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sudditi-digitali-civita-castellana",
+    "titolo": "Sudditi digitali",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T17:00",
+    "fine": null,
+    "luogo": "Sala conferenze Forte Sangallo",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Sudditi digitali di Stefano Epifani e Mauro Minenna, con un dialogo tra gli autori, la giornalista Monica Paternesi e il direttore artistico Fabio Galadini. Parte della rassegna Il domani che verrà.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "fonti": [
+      {
+        "nome": "Civitafestival - Sudditi digitali",
+        "tipo": "organizzatore",
+        "url": "https://www.civitafestival.it/sudditi-digitali/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "genesis-duo-project-civita-castellana",
+    "titolo": "Genesis Duo Project",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T17:30",
+    "fine": null,
+    "luogo": "Sala Caprari - Complesso MICE",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per violino e pianoforte che rilegge in chiave classica alcuni brani dei Genesis, con Nicola Narduzzi al violino ed Enrico Mazzoni al pianoforte. Fa parte del Civitafestival Winter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "fonti": [
+      {
+        "nome": "Civitafestival - Genesis Duo Project",
+        "tipo": "organizzatore",
+        "url": "https://www.civitafestival.it/genesis-duo-project/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "recital-pianistico-roberto-moretti-civita-castellana",
+    "titolo": "Recital pianistico di Roberto Moretti",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T17:30",
+    "fine": null,
+    "luogo": "Sala Caprari - Complesso MICE",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital di pianoforte del giovane pianista Roberto Moretti, con la Sonata op. 57 di Beethoven e le Ballate op. 10 di Brahms. Fa parte del Civitafestival Winter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "fonti": [
+      {
+        "nome": "Civitafestival - Recital pianistico di Roberto Moretti",
+        "tipo": "organizzatore",
+        "url": "https://www.civitafestival.it/recital-pianistico-di-roberto-moretti/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "marco-polo-e-le-citta-invisibili-civitanova-marche",
+    "titolo": "Marco Polo e le città invisibili",
+    "categoria": "teatro",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-18",
+    "luogo": "Teatro Rossini",
+    "indirizzo": "Via B. Buozzi 1, Civitanova Marche",
+    "cap": null,
+    "comune": "043013",
+    "frazione": null,
+    "lat": 43.31338,
+    "lon": 13.68494,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con Luca Zingaretti tratto dalle Città invisibili di Italo Calvino, con adattamento di Edoardo Erba e regia di Giuseppe Dipasquale. Anteprima nazionale nella stagione del Teatro Rossini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "AMAT - Azienda Teatri di Civitanova",
+    "fonti": [
+      {
+        "nome": "AMAT - Civitanova Marche 2026-27",
+        "tipo": "organizzatore",
+        "url": "https://www.amatmarche.net/civitanova-marche-2026-27/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gianni-schicchi-franciscus-civitanova-marche",
+    "titolo": "Gianni Schicchi / Franciscus",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:15",
+    "fine": null,
+    "luogo": "Teatro Annibal Caro",
+    "indirizzo": "Via Annibal Caro 2, Civitanova Marche Alta",
+    "cap": null,
+    "comune": "043013",
+    "frazione": null,
+    "lat": 43.31338,
+    "lon": 13.68494,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera di Puccini Gianni Schicchi, preceduta dalla prima assoluta di Franciscus di Emanuele Stracchi, che apre l'ottava edizione di Civitanova all'Opera. Dirige Alfredo Sorichetti con l'Orchestra Sinfonica dell'Adriatico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitanova all'Opera",
+    "fonti": [
+      {
+        "nome": "Non solo eventi Marche - Civitanova all'Opera",
+        "tipo": "aggregatore",
+        "url": "https://www.nonsoloeventimarche.it/dettaglio.php?id=civitanova-all-opera---civitanova-marche",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "predatori-di-pianura-cittadella",
+    "titolo": "Predatori di pianura",
+    "categoria": "teatro",
+    "inizio": "2026-11-12T21:00",
+    "fine": "2026-11-13T21:00",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Cittadella",
+    "cap": null,
+    "comune": "028032",
+    "frazione": null,
+    "lat": 45.65463,
+    "lon": 11.7688,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di prosa di e con Andrea Pennacchi, in scena al Teatro Sociale nelle serate del 12 e 13 novembre, nell'ambito della stagione di prosa nazionale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Cittadella",
+    "fonti": [
+      {
+        "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-soffitta-in-piazza-cittadella",
+    "titolo": "La soffitta in piazza",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15T08:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Cittadella",
+    "cap": null,
+    "comune": "028032",
+    "frazione": null,
+    "lat": 45.65463,
+    "lon": 11.7688,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino del vintage e del design, con collezionismo, mobili, ceramiche, moda e accessori, allestito nel centro storico di Cittadella.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-santa-cecilia-complesso-bandistico-cittadella",
+    "titolo": "Concerto per Santa Cecilia con il Complesso Bandistico Ciro Bianchi",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Cittadella",
+    "cap": null,
+    "comune": "028032",
+    "frazione": null,
+    "lat": 45.65463,
+    "lon": 11.7688,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Complesso Bandistico Ciro Bianchi al Teatro Sociale, in occasione della festa di Santa Cecilia, patrona della musica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Cittadella",
+    "fonti": [
+      {
+        "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-mercato-officine-creattive-cittadella",
+    "titolo": "Mostra mercato di Officine CreATTive",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Centro storico",
+    "indirizzo": "Cittadella",
+    "cap": null,
+    "comune": "028032",
+    "frazione": null,
+    "lat": 45.65463,
+    "lon": 11.7688,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato di artigianato creativo e street market nel centro storico di Cittadella, a cura di Officine CreATTive.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Officine CreATTive",
+    "fonti": [
+      {
+        "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insieme-con-laura-morante-cittadella",
+    "titolo": "Insieme, con Laura Morante",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Cittadella",
+    "cap": null,
+    "comune": "028032",
+    "frazione": null,
+    "lat": 45.65463,
+    "lon": 11.7688,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Laura Morante, dal titolo Insieme, nella stagione di prosa nazionale del Teatro Sociale di Cittadella.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Cittadella",
+    "fonti": [
+      {
+        "nome": "PadovaOggi - Tutti gli eventi di novembre a Cittadella",
+        "tipo": "stampa",
+        "url": "https://www.padovaoggi.it/eventi/eventi-cittadella-novembre-2026.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-monumenta-lignae-codigoro",
+    "titolo": "Monumenta Lignae: mostra di opere in legno",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T11:00",
+    "fine": null,
+    "luogo": "Sala Pro Loco",
+    "indirizzo": "Codigoro",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di opere create con legno e bastoncini del ghiacciolo dell'artista Nazzareno Bertelli Motta. Inaugurazione il 7 novembre alle 11, aperta fino al 15 novembre con orario 10-12 e 15-18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codigoro",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "florestano-vancini-coscienza-critica-codigoro",
+    "titolo": "Florestano Vancini: la coscienza critica del cinema italiano",
+    "categoria": "mostra",
+    "inizio": "2026-11-10T11:00",
+    "fine": null,
+    "luogo": "Palazzo del Vescovo, Biblioteca G. Bassani",
+    "indirizzo": "Codigoro",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra per il centenario della nascita del regista Florestano Vancini. Si inaugura il 10 novembre alle 11 e resta aperta fino al 5 dicembre 2026, dal martedì al giovedì.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cineclub Fedic di Lagosanto",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercato-san-martino-11-novembre-codigoro",
+    "titolo": "Mercato straordinario della creatività e dell'hobby (festa di San Martino)",
+    "categoria": "mercatino",
+    "inizio": "2026-11-11T10:00",
+    "fine": null,
+    "luogo": "Piazza Matteotti, Via IV Novembre, Galleria San Martino",
+    "indirizzo": "Piazza Matteotti",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato straordinario per la festa del patrono San Martino, con prodotti tipici autunnali, castagne, torte e cioccolato. Ci sono anche banchi di creatività e hobby. Orario 10-18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codigoro",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercato-creativita-hobby-15-novembre-codigoro",
+    "titolo": "Mercato straordinario della creatività e dell'hobby",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15T10:00",
+    "fine": null,
+    "luogo": "Piazza Matteotti, Via IV Novembre, Galleria San Martino",
+    "indirizzo": "Piazza Matteotti",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda giornata del mercato straordinario di Codigoro, con prodotti tipici autunnali, castagne, torte e cioccolato. Orario 10-18, in piazza Matteotti e nella Galleria San Martino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codigoro",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arrivo-san-martino-a-cavallo-codigoro",
+    "titolo": "Arrivo di San Martino a cavallo",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-11T16:00",
+    "fine": null,
+    "luogo": "Riviera Cavallotti, Via IV Novembre, Piazza Matteotti",
+    "indirizzo": "Piazza Matteotti",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Nel giorno del patrono San Martino, il santo arriva a cavallo accompagnato dai gruppi della città. Alle 18 segue la messa solenne nella chiesa di piazza Matteotti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Cowboy del Delta del Po e Gruppo Artistico Mezzogorese",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-brodo-e-bolliti-codigoro",
+    "titolo": "9° Sagra del Brodo e dei Bolliti",
+    "categoria": "sagra",
+    "inizio": "2026-11-11T12:15",
+    "fine": null,
+    "luogo": "Piazza Garibaldi",
+    "indirizzo": "Piazza Garibaldi",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Stand gastronomico con brodi artigianali e bolliti, curato dalla N.U.S. Codigorese. Aperto a pranzo e a cena dall'11 al 15 novembre, con orari diversi a seconda del giorno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "N.U.S. Codigorese",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "laboratorio-san-martino-riciclo-codigoro",
+    "titolo": "Laboratorio di San Martino con materiale di riciclo",
+    "categoria": "bambini",
+    "inizio": "2026-11-11T15:00",
+    "fine": null,
+    "luogo": "Galleria San Martino",
+    "indirizzo": "Galleria San Martino",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per fare oggetti di San Martino con materiale di riciclo, organizzato dall'Oasi Garzaia. Per partecipare si prenota per telefono.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Oasi Garzaia",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "laboratorio-benvenuti-in-atelier-codigoro",
+    "titolo": "Benvenuti in atelier: laboratorio di disegno e abiti",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Biblioteca Comunale G. Bassani",
+    "indirizzo": "Codigoro",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per ragazzi dagli 8 ai 14 anni: disegnano e realizzano abiti ispirati alle quattro stagioni. Si svolge in biblioteca dalle 15 alle 19.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "CNA Federmoda",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "spizaldrila-in-scatola-codigoro",
+    "titolo": "Spizaldrila in scatola: spettacolo per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T16:00",
+    "fine": null,
+    "luogo": "Piazza Matteotti",
+    "indirizzo": "Piazza Matteotti",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di clownerie per bambini intitolato «Spizaldrila in scatola», che si svolge in piazza Matteotti. È una storia raccontata da una finestra.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "chi-e-di-scena-po-di-pure-codigoro",
+    "titolo": "Po' 'd purè!: rassegna di teatro dialettale «Chi è di scena?»",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Teatro Arena, Piazza Matteotti",
+    "indirizzo": "Piazza Matteotti",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di teatro dialettale della rassegna «Chi è di scena?», portato in scena dalla Compagnia Teatro dei Stanchi di Quartesana. Va in scena al Teatro Arena in piazza Matteotti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Teatro dei Stanchi di Quartesana",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro, programma Festa di San Martino 2026",
+        "tipo": "ufficiale",
+        "url": "https://me.comuni-chiamo.com/@codigoro/c/37f043cf-16e4-4089-b02e-9208bafeed51",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sulla-strada-ghiottone-errante-codogno",
+    "titolo": "Sulla Strada: Il Ghiottone Errante (mostra su Beppo Novello)",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Raccolta d'arte Lamberti (RAL)",
+    "indirizzo": "Via Felice Cavallotti 6",
+    "cap": null,
+    "comune": "098019",
+    "frazione": null,
+    "lat": 45.16748,
+    "lon": 9.69535,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima tappa della mostra «Sulla Strada» sui viaggi di Beppo Novello. Aperta il 14-15 e il 21-22 novembre, con orario 10-12 e 15-18. Visite su prenotazione per gruppi e scuole.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codogno",
+    "fonti": [
+      {
+        "nome": "Comune di Codogno, pagina Sulla Strada – Mostra",
+        "tipo": "ufficiale",
+        "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi/sulla-strada-mostra/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sulla-strada-nikolajewka-codogno",
+    "titolo": "Sulla Strada: Nikolajewka, andata e ritorno (mostra su Beppo Novello)",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Associazione Nazionale Combattenti e Reduci (ANCR)",
+    "indirizzo": "Via Felice Cavallotti 4",
+    "cap": null,
+    "comune": "098019",
+    "frazione": null,
+    "lat": 45.16748,
+    "lon": 9.69535,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda tappa della mostra «Sulla Strada» di Beppo Novello. Aperta il 14-16 e il 19-22 novembre, con orario 10-12 e 15-18. La guida è affidata agli studenti del Liceo Giuseppe Novello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codogno",
+    "fonti": [
+      {
+        "nome": "Comune di Codogno, pagina Sulla Strada – Mostra",
+        "tipo": "ufficiale",
+        "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi/sulla-strada-mostra/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nonna-gruffalo-biblioteca-codogno",
+    "titolo": "Il racconto del sabato: Nonna Gruffalò",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T10:30",
+    "fine": null,
+    "luogo": "Sala ragazzi della Civica Biblioteca Popolare «Luigi Ricca»",
+    "indirizzo": "Viale Luigi Gandolfi 6",
+    "cap": null,
+    "comune": "098019",
+    "frazione": null,
+    "lat": 45.16748,
+    "lon": 9.69535,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura ad alta voce di «Nonna Gruffalò», seguita da un laboratorio creativo. È pensata per bambini dai 3 agli 8 anni, con un adulto accompagnatore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codogno",
+    "fonti": [
+      {
+        "nome": "Comune di Codogno, pagina Il racconto del sabato – Nonna Gruffalò",
+        "tipo": "ufficiale",
+        "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi/nonna-gruffalo/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-dietro-quel-portone-colleferro",
+    "titolo": "Presentazione del libro «Dietro quel portone»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Biblioteca comunale «Riccardo Morandi»",
+    "indirizzo": "Colleferro",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro «Dietro quel portone», ospitata nella biblioteca comunale «Riccardo Morandi» di Colleferro. È un incontro aperto a chiunque sia interessato alla lettura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Città di Colleferro",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dalla-penna-alla-cronaca-colleferro",
+    "titolo": "Dalla penna alla cronaca: dove finiscono i silenzi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Biblioteca comunale «Riccardo Morandi»",
+    "indirizzo": "Colleferro",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul giornalismo di cronaca e sulle storie che restano fuori dalle notizie, ospitato nella biblioteca comunale «Riccardo Morandi» di Colleferro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Città di Colleferro",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-peperoncino-mercatino-colleferro",
+    "titolo": "Villaggio dei sapori d'Italia: festa del peperoncino e mercatino dell'artigianato",
+    "categoria": "sagra",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Piazza Piero Gobetti, Via F. Petrarca",
+    "indirizzo": "Piazza Piero Gobetti, Via F. Petrarca",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa dedicata al peperoncino, con prodotti dei sapori d'Italia e un mercatino dell'artigianato in piazza Gobetti. Si svolge a Colleferro di sabato 7 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Città di Colleferro",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "open-gospel-day-colleferro",
+    "titolo": "Open Gospel Day",
+    "categoria": "concerto",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Auditorium Fabbrica della Musica",
+    "indirizzo": "Colleferro",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata alla musica gospel nell'Auditorium Fabbrica della Musica di Colleferro. È aperta a chi vuole ascoltare o partecipare, domenica 8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Città di Colleferro",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-santa-cecilia-pignatelli-colleferro",
+    "titolo": "Concerto di Santa Cecilia, memorial G. Pignatelli",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Chiesa di Santa Barbara",
+    "indirizzo": "Colleferro",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in ricordo del maestro G. Pignatelli, dedicato a Santa Cecilia, nella chiesa di Santa Barbara a Colleferro. Il giorno indicato è il 28 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-con-gli-occhi-di-angelo-colleferro",
+    "titolo": "Con gli occhi di Angelo: mostra in ricordo di Angelo Tora",
+    "categoria": "mostra",
+    "inizio": "2026-11-05",
+    "fine": null,
+    "luogo": "Palazzo Morandi, ex direzione BPD",
+    "indirizzo": "Colleferro",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra in ricordo di Angelo Tora, intitolata «Con gli occhi di Angelo». Si visita a Palazzo Morandi, nell'ex direzione BPD. La fonte indica solo il giorno 5 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Città di Colleferro",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/eventi",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-natale-serrungarina-colli-al-metauro",
+    "titolo": "12ª Mercatino di Natale di Serrungarina",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T10:30",
+    "fine": null,
+    "luogo": "Borgo di Serrungarina",
+    "indirizzo": "Serrungarina, Colli al Metauro",
+    "cap": null,
+    "comune": "041069",
+    "frazione": null,
+    "lat": 43.74888,
+    "lon": 12.89881,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale nel borgo di Serrungarina, con una tensostruttura riscaldata per il ristoro e un'area camper. Ingresso gratuito e bus navetta gratuito dal bocciodromo di Tavernelle.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Metauro Eventi O.D.V. / Pro Loco di Serrungarina",
+    "fonti": [
+      {
+        "nome": "Il Borghista, scheda evento",
+        "tipo": "aggregatore",
+        "url": "https://www.ilborghista.it/events/mercatino-di-natale-2026-12-mercatino-di-natale-2026-metauro-eventi-o-d-v-pro-loco-di-serrungarina",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nati-per-leggere-in-festa-cologno-al-serio",
+    "titolo": "Nati per leggere in festa 2026: letture animate",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": null,
+    "luogo": "Polo Zerosei (scuola dell'infanzia e nido comunale)",
+    "indirizzo": "via Circonvallazione",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture animate per bambini da 0 a 6 anni, organizzate dalla biblioteca comunale con il progetto Nati per leggere. Si svolge nel Polo Zerosei di via Circonvallazione. Serve la prenotazione in biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale Spazio Cultura Civico 5",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/nati-per-leggere-festa-2026",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tisana-d-autore-cologno-al-serio",
+    "titolo": "Tisana d'autore",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T20:30",
+    "fine": null,
+    "luogo": "Spazio Cultura Civico 5 (biblioteca comunale)",
+    "indirizzo": "Piazza Giuseppe Garibaldi 5",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Una chiacchierata con una storica dell'arte e guida turistica, davanti a una tisana. È una serata per adulti, senza prenotazione. Si svolge nello Spazio Cultura Civico 5.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale Spazio Cultura Civico 5",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Tisana d'autore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/tisana-dautore-0",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "storie-a-merenda-cologno-al-serio",
+    "titolo": "Storie a merenda (6-7 anni)",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T16:30",
+    "fine": null,
+    "luogo": "Giardino della Biblioteca comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi, Cologno al Serio",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Storie lette ai bambini di 6-7 anni nel giardino della biblioteca, con la merenda. La prenotazione è obbligatoria per telefono o per email.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cologno al Serio",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Storie a merenda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/storie-merenda-per-bambini-di-6-7-anni-3",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "intrecci-di-cura-cologno-al-serio",
+    "titolo": "Intrecci di cura: spettacolo teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T20:00",
+    "fine": null,
+    "luogo": "Auditorium delle scuole",
+    "indirizzo": "Via Alcide De Gasperi 22",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale ad ingresso libero, organizzato dall'associazione Visioni Teatrali con il Comune. Va in scena nell'auditorium delle scuole di via De Gasperi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Visioni Teatrali",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Spettacolo teatrale Intrecci di cura",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/spettacolo-teatrale-intrecci-di-cura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ludicon-viii-convention-giochi-cologno-monzese",
+    "titolo": "LUDICON VIII edizione - convention di giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Pieve di Cologno",
+    "indirizzo": "Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Convention di giochi da tavolo e di ruolo che dura un intero weekend, con gioco e condivisione per chi ama stare in compagnia. Si svolge alla Pieve di Cologno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giochiamo-insieme-in-biblioteca-cologno-monzese",
+    "titolo": "Giochiamo insieme in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Un pomeriggio di giochi in scatola e di escape da tavolo della serie Unlock, pensato per socializzare e mettersi alla prova. Si svolge in biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "massaggio-infantile-cologno-monzese-5-novembre",
+    "titolo": "Massaggio Infantile (Shantala)",
+    "categoria": "bambini",
+    "inizio": "2026-11-05T13:30",
+    "fine": "2026-11-05T15:30",
+    "luogo": "Spazio Stella",
+    "indirizzo": "via Ovidio, 1, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso gratuito di massaggio Shantala per genitori e neonati da 0 a 8 mesi, allo Spazio Stella. Ci si trova giovedì 5 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "massaggio-infantile-cologno-monzese-12-novembre",
+    "titolo": "Massaggio Infantile (Shantala)",
+    "categoria": "bambini",
+    "inizio": "2026-11-12T13:30",
+    "fine": "2026-11-12T15:30",
+    "luogo": "Spazio Stella",
+    "indirizzo": "via Ovidio, 1, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso gratuito di massaggio Shantala per genitori e neonati da 0 a 8 mesi, allo Spazio Stella. Ci si trova giovedì 12 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "massaggio-infantile-cologno-monzese-19-novembre",
+    "titolo": "Massaggio Infantile (Shantala)",
+    "categoria": "bambini",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Spazio Stella",
+    "indirizzo": "via Ovidio, 1, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso gratuito di massaggio Shantala per genitori e neonati da 0 a 8 mesi, allo Spazio Stella. L'orario non è riportato nella pagina del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "spazio-ai-papa-cologno-monzese-14-novembre",
+    "titolo": "Spazio ai Papà (1° incontro)",
+    "categoria": "bambini",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Spazio Stella",
+    "indirizzo": "via Ovidio, 1, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo di tre incontri gratuiti per papà e bambini da 0 a 3 anni, con un'educatrice e una pedagogista. La prenotazione è obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "spazio-ai-papa-cologno-monzese-5-dicembre",
+    "titolo": "Spazio ai Papà (2° incontro)",
+    "categoria": "bambini",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Spazio Stella",
+    "indirizzo": "via Ovidio, 1, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo di tre incontri gratuiti per papà e bambini da 0 a 3 anni, con un'educatrice e una pedagogista. La prenotazione è obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaming-zone-2026-cologno-monzese-14-novembre",
+    "titolo": "Gaming Zone 2026 - giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T14:30",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Via della Repubblica 21",
+    "indirizzo": "via della Repubblica 21, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento gratuito per giocare a giochi da tavolo e di ruolo, in un pomeriggio aperto a tutti. Fa parte della rassegna Gaming Zone del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaming-zone-2026-cologno-monzese-28-novembre",
+    "titolo": "Gaming Zone 2026 - giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Villa Citterio",
+    "indirizzo": "via Galilei 2, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento gratuito per giocare a giochi da tavolo e di ruolo, in un pomeriggio aperto a tutti. Fa parte della rassegna Gaming Zone del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaming-zone-2026-cologno-monzese-5-dicembre",
+    "titolo": "Gaming Zone 2026 - giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T14:30",
+    "fine": "2026-12-05T19:00",
+    "luogo": "Via della Repubblica 21",
+    "indirizzo": "via della Repubblica 21, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento gratuito per giocare a giochi da tavolo e di ruolo, in un pomeriggio aperto a tutti. Fa parte della rassegna Gaming Zone del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaming-zone-2026-cologno-monzese-12-dicembre",
+    "titolo": "Gaming Zone 2026 - giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T15:00",
+    "fine": "2026-12-12T19:00",
+    "luogo": "Villa Citterio",
+    "indirizzo": "via Galilei 2, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento gratuito per giocare a giochi da tavolo e di ruolo, in un pomeriggio aperto a tutti. Fa parte della rassegna Gaming Zone del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaming-zone-2026-cologno-monzese-19-dicembre",
+    "titolo": "Gaming Zone 2026 - giochi da tavolo e di ruolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T10:00",
+    "fine": "2026-12-19T23:00",
+    "luogo": "Pieve di Cologno",
+    "indirizzo": "piazza San Matteo 24, Cologno Monzese",
+    "cap": null,
+    "comune": "015081",
+    "frazione": null,
+    "lat": 45.53333,
+    "lon": 9.28025,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento gratuito per giocare a giochi da tavolo e di ruolo, dalla mattina a sera. Fa parte della rassegna Gaming Zone del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno Monzese - eventi sociali",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognomonzese.mi.it/it/categorie-eventi/75781",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-paradosso-delle-immagini-concesio",
+    "titolo": "Il paradosso delle immagini. Da Duchamp a Warhol a Cattelan (3° incontro)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-04T20:30",
+    "fine": "2026-11-04T22:30",
+    "luogo": "Via Enrico Mattei, 99",
+    "indirizzo": "Via Enrico Mattei, 99, Concesio",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo incontro del ciclo sulle immagini che hanno cambiato il nostro modo di guardare l'arte, dedicato a Maurizio Cattelan. Relatrice la storica dell'arte Giovanna Brambilla; partecipazione gratuita fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Collezione Paolo VI - arte contemporanea",
+    "fonti": [
+      {
+        "nome": "Comune di Concesio - eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/events/il-paradosso-delle-immagini-da-duchamp-a-warhol-a-cattelan-727740-727741",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "alienando-laboratorio-artistico-concesio",
+    "titolo": "Alienando - laboratorio artistico",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T09:30",
+    "fine": "2026-11-14T12:30",
+    "luogo": "Via Enrico Mattei, 99",
+    "indirizzo": "Via Enrico Mattei, 99, Concesio",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio artistico gratuito per ragazzi dai 14 anni: si realizza un collage ispirato al pianeta Venere e alla fantasia spaziale. Lo organizza la biblioteca di Concesio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Concesio",
+    "fonti": [
+      {
+        "nome": "Comune di Concesio - eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/events/alienando-lab-di-art-connecting-people",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ambra-angiolini-la-misteriosa-scomparsa-di-w-conegliano",
+    "titolo": "Ambra Angiolini - La misteriosa scomparsa di W",
+    "categoria": "teatro",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Teatro Accademia",
+    "indirizzo": "Conegliano",
+    "cap": null,
+    "comune": "026021",
+    "frazione": null,
+    "lat": 45.89965,
+    "lon": 12.29353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Ambra Angiolini nella stagione 2026/27 del Teatro Accademia. Il titolo è La misteriosa scomparsa di W.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Accademia di Conegliano",
+    "fonti": [
+      {
+        "nome": "Teatro Accademia di Conegliano - stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://teatroaccademia.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rosencratz-e-guildenstern-sono-morti-conegliano",
+    "titolo": "Rosencratz e Guildenstern sono morti",
+    "categoria": "teatro",
+    "inizio": "2026-12-06",
+    "fine": null,
+    "luogo": "Teatro Accademia",
+    "indirizzo": "Conegliano",
+    "cap": null,
+    "comune": "026021",
+    "frazione": null,
+    "lat": 45.89965,
+    "lon": 12.29353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Francesco Pannofino, Francesco Acquaroli e Paolo Sassanelli, nella stagione 2026/27 del Teatro Accademia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Accademia di Conegliano",
+    "fonti": [
+      {
+        "nome": "Teatro Accademia di Conegliano - stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://teatroaccademia.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-amante-marchesi-solder-conegliano",
+    "titolo": "L'amante",
+    "categoria": "teatro",
+    "inizio": "2026-12-16",
+    "fine": null,
+    "luogo": "Teatro Accademia",
+    "indirizzo": "Conegliano",
+    "cap": null,
+    "comune": "026021",
+    "frazione": null,
+    "lat": 45.89965,
+    "lon": 12.29353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Giorgio Marchesi e Simonetta Solder, nella stagione 2026/27 del Teatro Accademia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Accademia di Conegliano",
+    "fonti": [
+      {
+        "nome": "Teatro Accademia di Conegliano - stagione 2026/27",
+        "tipo": "ufficiale",
+        "url": "https://teatroaccademia.it/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "feel-the-bass-line-concorezzo",
+    "titolo": "Feel the bass line - masterclass sul basso elettrico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T18:45",
+    "fine": null,
+    "luogo": "Biblioteca comunale di Concorezzo",
+    "indirizzo": "Concorezzo",
+    "cap": null,
+    "comune": "108021",
+    "frazione": null,
+    "lat": 45.59126,
+    "lon": 9.33359,
+    "coordinateApprossimate": true,
+    "descrizione": "Masterclass gratuita dedicata al basso elettrico, con tecniche e stili dello strumento. Si svolge in biblioteca comunale ed è aperta anche ad appassionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale di Concorezzo",
+    "fonti": [
+      {
+        "nome": "Piazza in Festa (Lombardia)",
+        "tipo": "aggregatore",
+        "url": "https://lombardia.piazzainfesta.it/concorezzo/feel-the-bass-line-112748",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "scandalo-corato",
+    "titolo": "Scandalo",
+    "categoria": "teatro",
+    "inizio": "2026-11-11T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale di Corato",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di prosa con Anna Valle e Gianmarco Saurino, in scena al Teatro Comunale di Corato nella stagione Mappe Umane 2026/27. Un appuntamento per chi ama il teatro di parola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Puglia Culture",
+    "fonti": [
+      {
+        "nome": "Puglia Culture - Corato Mappe Umane 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://www.pugliaculture.it/rassegna/corato-mappe-umane-stagione-teatrale-2026-27/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pacifico-diario-sentimentale-corato",
+    "titolo": "Pacifico - Diario sentimentale di una donna libera",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale di Corato",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del cantautore Pacifico al Teatro Comunale di Corato, con il suo spettacolo Diario sentimentale di una donna libera. Fa parte della stagione Mappe Umane 2026/27.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Puglia Culture",
+    "fonti": [
+      {
+        "nome": "Puglia Culture - Corato Mappe Umane 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://www.pugliaculture.it/rassegna/corato-mappe-umane-stagione-teatrale-2026-27/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "falstaff-corato",
+    "titolo": "Falstaff",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T19:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Corato",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione Mappe Umane 2026/27 al Teatro Comunale di Corato, con la direzione del maestro Giuseppe Maiorano. Inizio alle 19 della domenica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Puglia Culture",
+    "fonti": [
+      {
+        "nome": "Puglia Culture - Corato Mappe Umane 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://www.pugliaculture.it/rassegna/corato-mappe-umane-stagione-teatrale-2026-27/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "senti-che-murgia-memoriae-mostra-corato",
+    "titolo": "Senti che Murgia - Memoriae, mostra sulla civiltà contadina",
+    "categoria": "mostra",
+    "inizio": "2026-11-06T18:00",
+    "fine": "2026-11-22T20:00",
+    "luogo": "Largo Abbazia",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra sulla civiltà contadina e sulle tradizioni del territorio murgiano, allestita a Largo Abbazia nell'ambito della rassegna Senti che Murgia. Si visita ogni giorno dalle 18 alle 20, con inaugurazione il 6 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Quadratum Corato",
+    "fonti": [
+      {
+        "nome": "CoratoLive - Senti che Murgia Memoriae",
+        "tipo": "stampa",
+        "url": "https://coratolive.it/2026/11/02/senti-che-murgia-memoriae-a-corato-prende-il-via-la-rassegna-dedicata-alla-civilta-contadina-e-alle-tradizioni-locali/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "escursione-alta-murgia-senti-che-murgia-corato",
+    "titolo": "Escursione in ecosistema boschivo - Senti che Murgia",
+    "categoria": "sport",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Alta Murgia - Ciclovia AQP",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata nell'ecosistema boschivo dell'Alta Murgia, con brevi racconti in dialetto locale. È un'iniziativa della Pro Loco Quadratum nell'ambito della rassegna Senti che Murgia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Quadratum Corato",
+    "fonti": [
+      {
+        "nome": "CoratoLive - Senti che Murgia Memoriae",
+        "tipo": "stampa",
+        "url": "https://coratolive.it/2026/11/02/senti-che-murgia-memoriae-a-corato-prende-il-via-la-rassegna-dedicata-alla-civilta-contadina-e-alle-tradizioni-locali/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-frantoio-ribatti-corato",
+    "titolo": "Visita al Frantoio Ribatti - Senti che Murgia",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T10:00",
+    "fine": null,
+    "luogo": "Frantoio oleario Ribatti",
+    "indirizzo": "Corato",
+    "cap": null,
+    "comune": "072020",
+    "frazione": null,
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita al frantoio oleario Ribatti di Corato, per scoprire come si lavora l'olio. È un'iniziativa della Pro Loco Quadratum nell'ambito della rassegna Senti che Murgia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Quadratum Corato",
+    "fonti": [
+      {
+        "nome": "CoratoLive - Senti che Murgia Memoriae",
+        "tipo": "stampa",
+        "url": "https://coratolive.it/2026/11/02/senti-che-murgia-memoriae-a-corato-prende-il-via-la-rassegna-dedicata-alla-civilta-contadina-e-alle-tradizioni-locali/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cuore-blu-matilde-masi-coriano",
+    "titolo": "Cuore Blu, presentazione del libro di Matilde Masi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T17:00",
+    "fine": null,
+    "luogo": "Sala Gianna Preda, Biblioteca comunale G.A. Battarra",
+    "indirizzo": "Coriano",
+    "cap": null,
+    "comune": "099003",
+    "frazione": null,
+    "lat": 43.96761,
+    "lon": 12.56962,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo d'avventura e fantasia Cuore Blu di Matilde Masi, un viaggio tra poesia, mare e immaginazione. Fa parte della rassegna Incontri con l'autore della biblioteca Battarra. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Coriano",
+    "fonti": [
+      {
+        "nome": "RiminiToday - Incontri con l'autore Coriano",
+        "tipo": "stampa",
+        "url": "https://www.riminitoday.it/eventi/incontri-autore-coriano-libri-presentazioni-calendario-2026-2027.html",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "buongiorno-ministro-cordenons",
+    "titolo": "Buongiorno, Ministro!",
+    "categoria": "teatro",
+    "inizio": "2026-11-18T20:45",
+    "fine": null,
+    "luogo": "Auditorium Aldo Moro (Centro Culturale Aldo Moro)",
+    "indirizzo": "Via Traversagna, 4, Cordenons",
+    "cap": null,
+    "comune": "093017",
+    "frazione": null,
+    "lat": 46.00481,
+    "lon": 12.72858,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma all'Auditorium Aldo Moro di Cordenons, nella stagione teatrale del Circuito ERT FVG. Biglietti interi a 23 euro, ridotti a 20 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": "https://ertfvg.it/teatri/cordenons/",
+    "organizzatore": "ERT FVG",
+    "fonti": [
+      {
+        "nome": "ERT FVG - Teatro di Cordenons",
+        "tipo": "ufficiale",
+        "url": "https://ertfvg.it/teatri/cordenons/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-romantici-beethoven-schumann-cortona",
+    "titolo": "Concerto «I romantici Beethoven e Schumann»",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T18:00",
+    "fine": "2026-11-07T19:30",
+    "luogo": "Chiesa San Domenico",
+    "indirizzo": "Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica da camera con il pianista Marvin Allen Wolfthal e il Quartetto Hubay, con brani di Beethoven e Schumann. È aperto a tutti e l'ingresso è libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cortona",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/evento-culturale/concerto-i-romantici-beethoven-e-schumann",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cantico-frate-sole-interpretazioni-arte-cortona",
+    "titolo": "Il Cantico di frate Sole: interpretazioni nell'arte",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T16:00",
+    "fine": "2026-11-06T18:00",
+    "luogo": "MAEC - Museo dell'Accademia Etrusca e della Città di Cortona",
+    "indirizzo": "Piazza Signorelli 9, Cortona",
+    "cap": "52044",
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza di Veruska Picchiarelli, storica dell'arte, sul Cantico delle Creature di san Francesco e sulla sua eco nell'arte medievale. Si tiene nell'ambito degli incontri di Cortona Francescana ed è aperta a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MAEC - Museo dell'Accademia Etrusca e della Città di Cortona",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/evento-culturale/il-cantico-di-frate-sole-interpretazioni-nellarte",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autunno-musicale-note-di-donna-cosenza",
+    "titolo": "Autunno Musicale: Note di Donna",
+    "categoria": "concerto",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Salita S. Agostino",
+    "indirizzo": "Salita S. Agostino, Cosenza",
+    "cap": "87100",
+    "comune": "078045",
+    "frazione": null,
+    "lat": 39.27837,
+    "lon": 16.27127,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di sassofono e pianoforte con Paola Galdarella e Cristina Gianino, nella stagione concertistica Autunno Musicale. Il biglietto intero costa 10 euro, quello ridotto 5 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cosenza",
+    "fonti": [
+      {
+        "nome": "Comune di Cosenza - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cosenza.it/it/eventi/stagione-concertistica-internazionale-autunno-musicale-6",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autunno-musicale-arte-del-canto-cosenza",
+    "titolo": "Autunno Musicale: L'Arte del Canto",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Salita S. Agostino",
+    "indirizzo": "Salita S. Agostino, Cosenza",
+    "cap": "87100",
+    "comune": "078045",
+    "frazione": null,
+    "lat": 39.27837,
+    "lon": 16.27127,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital con il soprano Claudia Nicole Calabrese e la pianista Emilia Di Pasquale, dal titolo L'Arte del Canto tra palcoscenico e salotto. Fa parte della stagione Autunno Musicale. Biglietto intero 10 euro, ridotto 5 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cosenza",
+    "fonti": [
+      {
+        "nome": "Comune di Cosenza - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-3",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autunno-musicale-musiche-senza-confini-cosenza",
+    "titolo": "Autunno Musicale: Musiche Senza Confini",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Salita S. Agostino",
+    "indirizzo": "Salita S. Agostino, Cosenza",
+    "cap": "87100",
+    "comune": "078045",
+    "frazione": null,
+    "lat": 39.27837,
+    "lon": 16.27127,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Duo Mistral con il clarinettista Antonio Puglia e il pianista Mariano Meloni, dal titolo Musiche senza confini. Fa parte della stagione Autunno Musicale. Biglietto intero 10 euro, ridotto 5 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cosenza",
+    "fonti": [
+      {
+        "nome": "Comune di Cosenza - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-2",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autunno-musicale-capolavori-romantici-cosenza",
+    "titolo": "Autunno Musicale: Capolavori Romantici",
+    "categoria": "concerto",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Salita S. Agostino",
+    "indirizzo": "Salita S. Agostino, Cosenza",
+    "cap": "87100",
+    "comune": "078045",
+    "frazione": null,
+    "lat": 39.27837,
+    "lon": 16.27127,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con il violoncellista Luca Provenzani e la pianista Fabiana Barbini, dal titolo Capolavori romantici. Fa parte della stagione Autunno Musicale. Biglietto intero 10 euro, ridotto 5 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cosenza",
+    "fonti": [
+      {
+        "nome": "Comune di Cosenza - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cosenza.it/it/eventi/xxvii-stagione-concertistica-internazionale-autunno-musicale-4",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fattoria-didattica-erbe-aromatiche-cornaredo",
+    "titolo": "Fattoria didattica: alla scoperta delle erbe aromatiche",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T15:30",
+    "fine": "2026-11-07T16:30",
+    "luogo": "La Cascina",
+    "indirizzo": "Via Brughiera 51, Cornaredo",
+    "cap": null,
+    "comune": "015087",
+    "frazione": null,
+    "lat": 45.49182,
+    "lon": 9.02406,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività per bambini in una fattoria didattica: raccolta delle erbe aromatiche in campo aperto e composizione di un mazzo profumato da portare a casa. Il programma è pensato per i più piccoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Cascina",
+    "fonti": [
+      {
+        "nome": "La Cascina Cornaredo - Eventi",
+        "tipo": "organizzatore",
+        "url": "https://lacascinacornaredo.it/eventi/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arte-rigenera-arte-cuneo",
+    "titolo": "Arte rigenera Arte",
+    "categoria": "mostra",
+    "inizio": "2026-10-10",
+    "fine": "2026-11-29",
+    "luogo": "Vescovado Nuovo di Cuneo, piano terra",
+    "indirizzo": "via Amedeo Rossi, 28",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione d'arte al piano terra del Vescovado Nuovo di Cuneo, in via Amedeo Rossi, aperta fino a fine novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dentro-e-fuori-dai-libri-cece-e-cice-cuneo",
+    "titolo": "Dentro e fuori dai libri con Cece e Cice (24-48 mesi)",
+    "categoria": "bambini",
+    "inizio": "2026-11-04",
+    "fine": null,
+    "luogo": "Biblioteca 0-18",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività per bambini da 24 a 48 mesi alla Biblioteca 0-18 di Cuneo, con Cece e Cice. Ingresso a pagamento.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-continuita-del-male-cuneo",
+    "titolo": "La continuità del male. Che cosa resta del fascismo nell'Italia di oggi?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-05",
+    "fine": null,
+    "luogo": "Spazio incontri Fondazione CRC",
+    "indirizzo": "via Roma 17",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico a ingresso libero allo Spazio incontri della Fondazione CRC, in via Roma, sul rapporto tra fascismo e Italia di oggi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cuneo Cultura",
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "my-cup-of-tea-cuneo",
+    "titolo": "My cup of tea, 6 novembre (per genitori e bambini da 0 a 6 anni)",
+    "categoria": "bambini",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Biblioteca 0-18",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento alla Biblioteca 0-18 di Cuneo dedicato a genitori e bambini da 0 a 6 anni, in programma il 6 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "music-for-aido-cuneo",
+    "titolo": "Music for Aido… Un dono che dura una vita",
+    "categoria": "concerto",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Teatro Toselli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento musicale al Teatro Toselli di Cuneo, legato al tema della donazione di organi e del sostegno ad AIDO.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "acque-giustizia-e-pace-cuneo",
+    "titolo": "Acque, giustizia e pace",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Camera di Commercio di Cuneo, Salone d'Onore",
+    "indirizzo": "via Emanuele Filiberto 3",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro nel Salone d'Onore della Camera di Commercio di Cuneo, in via Emanuele Filiberto 3, sui temi dell'acqua, della giustizia e della pace.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nessuno-tranne-me-cuneo",
+    "titolo": "Nessuno tranne me (5-6 anni)",
+    "categoria": "bambini",
+    "inizio": "2026-11-17",
+    "fine": null,
+    "luogo": "Biblioteca 0-18",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività per bambini di 5 e 6 anni alla Biblioteca 0-18 di Cuneo, con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "boxeur-cuneo",
+    "titolo": "BOXEUR",
+    "categoria": "teatro",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Teatro Cuore Immacolato",
+    "indirizzo": "via D. Livio Bianco 1",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo al Teatro Cuore Immacolato di Cuneo, in via D. Livio Bianco 1, aperto al pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "simone-pieranni-la-gen-z-in-piazza-cuneo",
+    "titolo": "La Gen Z in piazza: proteste in Asia meridionale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Cinema Monviso",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro al Cinema Monviso di Cuneo sulle proteste dei giovani in Asia meridionale, con Simone Pieranni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pium-se-n-cafe-cuneo",
+    "titolo": "Pium-se 'n cafè",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Toselli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia in dialetto, inserita nella rassegna di teatro dialettale, al Teatro Toselli di Cuneo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura - Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi/calendario/",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "crema-sportiva-foto-angelo-peia-crema",
+    "titolo": "Crema sportiva - Le foto di Angelo Peia",
+    "categoria": "mostra",
+    "inizio": "2026-10-31",
+    "fine": "2026-11-08",
+    "luogo": "Sale Agello, Museo Civico di Crema e del Cremasco",
+    "indirizzo": "Crema",
+    "cap": null,
+    "comune": "019035",
+    "frazione": null,
+    "lat": 45.36608,
+    "lon": 9.68304,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Angelo Peia dedicata allo sport cremasco, visitabile nelle sale del Museo Civico di Crema fino all'8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Crema News - Appuntamenti",
+        "tipo": "stampa",
+        "url": "https://crema-news.it/appuntamenti/gli-appuntamenti-da-oggi-a-mercoled-",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-unita-nazionale-crema",
+    "titolo": "Giornata dell'Unità Nazionale e Festa delle Forze Armate",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-04T09:30",
+    "fine": "2026-11-04T10:45",
+    "luogo": "Piazza Duomo, Cattedrale e Piazza Trento e Trieste",
+    "indirizzo": "Piazza Duomo",
+    "cap": null,
+    "comune": "019035",
+    "frazione": null,
+    "lat": 45.36608,
+    "lon": 9.68304,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia pubblica con deposizione di corone, Santa Messa in Cattedrale, alzabandiera e discorso del Sindaco in piazza Trento e Trieste.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Crema News - Appuntamenti",
+        "tipo": "stampa",
+        "url": "https://crema-news.it/appuntamenti/gli-appuntamenti-da-oggi-a-mercoled-",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "via-convento-buscoldo-curtatone",
+    "titolo": "Via Convento",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Teatro Verdi di Buscoldo",
+    "indirizzo": "Curtatone",
+    "cap": null,
+    "comune": "020021",
+    "frazione": null,
+    "lat": 45.10695,
+    "lon": 10.71503,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia amatoriale di infermiere del Poma al Teatro Verdi di Buscoldo, a offerta libera, con l'incasso devoluto in beneficenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia amatoriale Attrici per caso",
+    "fonti": [
+      {
+        "nome": "Mantova24 - Cultura",
+        "tipo": "stampa",
+        "url": "https://mantova24.net/cultura",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "trio-massimo-quarta-tre-voci-due-mondi-crotone",
+    "titolo": "Trio Massimo Quarta - Tre voci, due mondi",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Trio Massimo Quarta, dal titolo «Tre voci, due mondi», al Teatro Comunale Vincenzo Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Vincenzo Scaramuzza",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "e-fuori-nevica-18-novembre-crotone",
+    "titolo": "E fuori nevica, con Vincenzo Salemme",
+    "categoria": "teatro",
+    "inizio": "2026-11-18T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con Vincenzo Salemme, replica del 18 novembre al Teatro Scaramuzza di Crotone, dopo la data del 17.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Vincenzo Scaramuzza",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "benedetto-lupo-fantasie-schumann-crotone",
+    "titolo": "Benedetto Lupo - Fantasie di R. Schumann",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital del pianista Benedetto Lupo con le Fantasie di Robert Schumann, al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Vincenzo Scaramuzza",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "assassinio-sull-orient-express-crotone",
+    "titolo": "Assassinio sull'Orient Express",
+    "categoria": "teatro",
+    "inizio": "2026-12-08T18:00",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Claudio «Greg» Gregori, in programma l'8 dicembre al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Vincenzo Scaramuzza",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-stanza-di-agnese-crotone",
+    "titolo": "La stanza di Agnese",
+    "categoria": "teatro",
+    "inizio": "2026-12-11T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia Meridiani Perduti Teatro, nell'ambito di Alétheia Festival della Cultura, al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Meridiani Perduti Teatro",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "swing-circus-ronaldo-16-dicembre-crotone",
+    "titolo": "Swing",
+    "categoria": "teatro",
+    "inizio": "2026-12-16T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di circo contemporaneo della compagnia Circus Ronaldo, in scena al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circus Ronaldo",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "swing-circus-ronaldo-17-dicembre-crotone",
+    "titolo": "Swing",
+    "categoria": "teatro",
+    "inizio": "2026-12-17T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica dello spettacolo di circo contemporaneo della compagnia Circus Ronaldo, al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circus Ronaldo",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lo-schiaccianoci-balletto-crotone",
+    "titolo": "Lo Schiaccianoci",
+    "categoria": "teatro",
+    "inizio": "2026-12-19T20:30",
+    "fine": null,
+    "luogo": "Teatro Comunale Vincenzo Scaramuzza",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Balletto Lo Schiaccianoci prodotto da Brancaccio LAB, in scena al Teatro Scaramuzza di Crotone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Brancaccio LAB",
+    "fonti": [
+      {
+        "nome": "Calabria Straordinaria - Teatro Scaramuzza",
+        "tipo": "ufficiale",
+        "url": "https://calabriastraordinaria.it/eventi/stagione-teatrale-teatro-vincenzo-scaramuzza",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
