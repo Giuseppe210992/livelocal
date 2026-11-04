@@ -56790,5 +56790,69 @@
         "consultata": "2026-11-04"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08T17:00",
+    "prenotazione": null,
+    "slug": "monumenti-aperti-convento-delle-bettine-campi-bisenzio-2026",
+    "titolo": "Monumenti Aperti 2026: visita al Convento delle Bettine",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07T15:00",
+    "luogo": "Convento delle Bettine",
+    "indirizzo": "Campi Bisenzio (FI)",
+    "comune": "048006",
+    "lat": 43.824,
+    "lon": 11.129,
+    "descrizione": "Sabato 7 e domenica 8 novembre, dalle 15 alle 17, giovani ciceroni accompagnano i visitatori alla scoperta della storia e della bellezza del Convento delle Bettine, con la collaborazione di ACLI, Imago Mundi, Associazione Bettina Onlus e della scuola media Garibaldi. Visita gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Campi Bisenzio",
+    "fonti": [
+      {
+        "nome": "Comune di Campi Bisenzio (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUmV5Qsckh/",
+        "consultata": "2026-11-04"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15",
+    "prenotazione": null,
+    "slug": "ingorgo-letterario-2026-borgo-san-lorenzo",
+    "titolo": "Ingorgo Letterario 2026: il festival del libro e degli autori",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09",
+    "luogo": "Palazzo Comunale",
+    "indirizzo": "Borgo San Lorenzo (FI)",
+    "comune": "048004",
+    "lat": 43.954,
+    "lon": 11.386,
+    "descrizione": "Nona edizione del festival del libro e degli autori, dal 9 al 15 novembre, sul tema «Il riflesso»: incontri con scrittori, presentazioni, letture, appuntamenti per le scuole e attività per i più piccoli. Il cuore del festival è il Palazzo Comunale; il programma completo è su ingorgoletterario.org. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Ingorgo Letterario",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUMhwXjH_G/",
+        "consultata": "2026-11-04"
+      }
+    ]
   }
 ]
