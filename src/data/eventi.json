@@ -11236,5 +11236,69 @@
     ],
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-periferia-dell-anima-volti-e-ferite-pistoia",
+    "titolo": "La periferia dell'anima. Volti e ferite",
+    "categoria": "mostra",
+    "inizio": "2026-09-25",
+    "fine": "2026-11-25",
+    "luogo": "Moon Gallery",
+    "indirizzo": "Via Giosuè Carducci 31, Pistoia",
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.9335,
+    "lon": 10.917,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Davide Cerullo: un percorso tra volti, sguardi e storie di Scampia, lontano dagli stereotipi. Fa parte del programma di Pistoia Capitale italiana del libro 2026. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Moon Gallery",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia – Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/80633/la-periferia-dell-anima-volti-e-ferite",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "atto-400-da-pistoia-a-parigi-atto-melani-pistoia",
+    "titolo": "ATTO 400. Da Pistoia a Parigi – Atto Melani",
+    "categoria": "mostra",
+    "inizio": "2026-10-09",
+    "fine": "2026-12-31",
+    "luogo": "Biblioteca Forteguerriana",
+    "indirizzo": "Piazza della Sapienza 5, Pistoia",
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.9318,
+    "lon": 10.9172,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra per i 400 anni dalla nascita di Atto Melani (1626-1714), diplomatico e cantante pistoiese. Aperta negli orari della biblioteca: lunedì, mercoledì e venerdì 9-13.30; martedì e giovedì 9-13.30 e 15-17.30. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Forteguerriana",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia – Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/80633/atto-400-da-pistoia-a-parigi-atto-melani-2519204",
+        "consultata": "2026-11-04"
+      }
+    ],
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
