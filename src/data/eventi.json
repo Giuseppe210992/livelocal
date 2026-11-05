@@ -57598,5 +57598,69 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "intrecci-di-comunita-renzo-crociara-palazzo-del-vescovo-codigoro",
+    "titolo": "Intrecci di comunità: Renzo Crociara presenta «La Banda del Ragno Nero»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T17:00",
+    "luogo": "Palazzo del Vescovo, piano nobile",
+    "indirizzo": "Codigoro",
+    "comune": "038005",
+    "lat": 44.8582,
+    "lon": 12.1277,
+    "descrizione": "Primo appuntamento della seconda edizione della rassegna letteraria «Intrecci di comunità»: l'artista codigorese Renzo Crociara presenta il suo libro autobiografico «La Banda del Ragno Nero», in dialogo con la responsabile della biblioteca, con letture dell'attrice Milena Medici. Informazioni e prenotazioni in biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Biblioteca comunale «Giorgio Bassani» di Codigoro",
+    "fonti": [
+      {
+        "nome": "Comune di Codigoro (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSFZXHnIRx/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "erreci-busto-arsizio-altino-volley-palaborsani-castellanza-2026-11-07",
+    "titolo": "Volley: Erreci Busto Arsizio – Altino, partita dedicata alla memoria e alla solidarietà",
+    "categoria": "sport",
+    "inizio": "2026-11-07T16:00",
+    "luogo": "Palaborsani",
+    "indirizzo": "Via Legnano, Castellanza",
+    "comune": "012042",
+    "lat": 45.611,
+    "lon": 8.8987,
+    "descrizione": "Settima giornata di andata della regular season: Erreci Busto Arsizio Volley contro Altino, con SuperDreams. La partita è dedicata a chi ha lasciato troppo presto questo mondo e a chi oggi affronta le stesse battaglie: tutti gli spettatori sono invitati a indossare una maglietta bianca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Erreci Busto Arsizio Volley",
+    "fonti": [
+      {
+        "nome": "Città di Castellanza (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR8GYYiX87/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
