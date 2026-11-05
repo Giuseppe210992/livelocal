@@ -56925,5 +56925,101 @@
         "consultata": "2026-11-04"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "aperitivo-con-l-autore-mario-alzati-canegrate-2026-11-07",
+    "titolo": "Aperitivo con l'Autore: Mario Alzati presenta «Il profumo della gramigna»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T17:00",
+    "luogo": "Sede Peppino Impastato",
+    "indirizzo": "Via A. da Giussano 5, Canegrate",
+    "comune": "015046",
+    "lat": 45.566,
+    "lon": 8.9248,
+    "descrizione": "32° appuntamento della rassegna letteraria «Aperitivo con l'Autore»: incontro con lo scrittore Mario Alzati, che presenta il suo libro «Il profumo della gramigna». A seguire un piccolo rinfresco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRezFNDiSQ/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "italo-landrini-avrei-dovuto-dirti-auditorium-sant-angelo-bastia-umbra",
+    "titolo": "Bastia presenta libri: Italo Landrini e «Avrei dovuto dirti»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T17:30",
+    "luogo": "Auditorium Sant'Angelo",
+    "indirizzo": "Via Sant'Angelo 2, Bastia Umbra",
+    "comune": "054002",
+    "lat": 43.0643,
+    "lon": 12.5287,
+    "descrizione": "Appuntamento della rassegna «Bastia presenta libri – Autunno d'autori»: Italo Landrini presenta «Avrei dovuto dirti», in dialogo con Paola Gualfetti e Lucia Pallaracci. Promosso dall'Assessorato alla Cultura e dalla Biblioteca comunale «Alberto La Volpe».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Bastia Umbra",
+    "fonti": [
+      {
+        "nome": "Comune di Bastia Umbra (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRjVDRRloV/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "koncime-passeggiata-botanica-san-piero-a-sieve-2026-11-08",
+    "titolo": "Koncime: passeggiata d'autunno da San Piero a Sieve alla Fortezza di San Martino",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T10:30",
+    "luogo": "Piazzetta Guglielmo Luigi de Cambray Digny (ritrovo)",
+    "indirizzo": "San Piero a Sieve, Scarperia e San Piero",
+    "comune": "048053",
+    "lat": 43.993,
+    "lon": 11.332,
+    "descrizione": "Appuntamento mensile di botanica del Progetto Kontatto: passeggiata itinerante di circa 4 ore tra natura, storia e racconti, dal centro di San Piero a Sieve alla Fortezza medicea di San Martino e al Convento di Bosco ai Frati. Facile, con pranzo al sacco. Gratuita, per ragazzi e giovani dai 16 ai 30 anni, con iscrizione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Progetto Kontatto",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRa2vEsZ7O/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
