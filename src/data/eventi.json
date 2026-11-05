@@ -57887,5 +57887,133 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "escape-room-ai-biblioteca-cernusco-sul-naviglio-2026-11-07",
+    "titolo": "Escape room per famiglie nella rassegna sull'intelligenza artificiale",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T14:00",
+    "luogo": "Biblioteca civica, spazio gaming",
+    "indirizzo": "Cernusco sul Naviglio",
+    "comune": "015070",
+    "lat": 45.52604,
+    "lon": 9.33272,
+    "descrizione": "Appuntamento per famiglie dentro la rassegna del Comune dedicata all'intelligenza artificiale: una escape room nello spazio gaming della biblioteca. Si ripete il 28 novembre e il 16 gennaio alle 14:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Cernusco sul Naviglio",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cernusco sul Naviglio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPvVDQDaTC/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "gospel-for-joy-25-anni-castellanza-2026",
+    "titolo": "Gospel For Joy: 25 anni di musica e passione",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "luogo": "Cineteatro Dante",
+    "indirizzo": "Castellanza",
+    "comune": "012042",
+    "lat": 45.611,
+    "lon": 8.89867,
+    "descrizione": "Il coro Gospel For Joy festeggia 25 anni con il concerto «25... tutto merito del gospel», diretto da Fabio Gallazzi. Presenta Danilo Lamperti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Castellanza",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Castellanza",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPXTPOiUVc/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08T18:00",
+    "prenotazione": null,
+    "slug": "mostra-montanari-volpe-casalgrande-2026",
+    "titolo": "Mostra di Mila Montanari e Franca Volpe",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T15:00",
+    "luogo": "Sala espositiva Gino Strada",
+    "indirizzo": "Piazza Ruffilli 2",
+    "comune": "035012",
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "descrizione": "Mostra delle artiste Mila Montanari e Franca Volpe. Aperta sabato 7 novembre dalle 15 alle 18 e domenica 8 novembre dalle 10 alle 12 e dalle 15 alle 18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Casalgrande",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPT3tij7t2/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "domenico-quirico-le-quattro-jihad-chiampo-2026",
+    "titolo": "Domenico Quirico presenta «Le quattro jihad»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T20:30",
+    "luogo": "Auditorium comunale",
+    "indirizzo": "Chiampo",
+    "comune": "024029",
+    "lat": 45.54759,
+    "lon": 11.27691,
+    "descrizione": "Il giornalista Domenico Quirico presenta il suo ultimo libro sullo scontro tra islam e Occidente da Napoleone a Hamas. Serata a cura dell'Associazione Le idee in Circolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Associazione Le idee in Circolo, Comune di Chiampo",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiampo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPSJS7Bw1l/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
