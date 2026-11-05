@@ -57662,5 +57662,133 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "anastasia-fiaba-musicale-cinema-teatro-comunale-catanzaro",
+    "titolo": "Anastasia: fiaba musicale in due atti al Cinema Teatro Comunale",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T18:00",
+    "luogo": "Cinema Teatro Comunale",
+    "indirizzo": "Catanzaro",
+    "comune": "079023",
+    "lat": 38.89,
+    "lon": 16.6025,
+    "descrizione": "Spettacolo per famiglie nella rassegna «Teatro Incanto – Il Comunale»: la fiaba musicale «Anastasia» in due atti. Alle 17 colazione con accoglienza VIP per i piccoli spettatori. Biglietti online su ilcomunalecz.it; i posti sono quasi esauriti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cinema Teatro Comunale di Catanzaro",
+    "fonti": [
+      {
+        "nome": "Cinema Teatro Comunale (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRY6yYFEGv/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "premio-san-michele-d-oro-2026-varenne-castiglion-fiorentino",
+    "titolo": "Premio San Michele d'Oro 2026 alla leggenda di Varenne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21T18:00",
+    "luogo": "Chiesa di Sant'Angelo al Cassero",
+    "indirizzo": "Castiglion Fiorentino",
+    "comune": "051012",
+    "lat": 43.3293,
+    "lon": 11.9269,
+    "descrizione": "Cerimonia di consegna del Premio San Michele d'Oro 2026, dedicato alla leggenda di Varenne: il premio sarà ritirato dallo storico driver del campione, Giampaolo Minnucci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Castiglion Fiorentino",
+    "fonti": [
+      {
+        "nome": "Comune di Castiglion Fiorentino (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR8qHiFK3C/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "musica-e-salute-concerto-ictus-teatro-dante-castellanza",
+    "titolo": "Musica è salute: concerto e informazione sull'ictus cerebrale",
+    "categoria": "concerto",
+    "inizio": "2026-11-06T21:00",
+    "luogo": "Teatro Dante",
+    "indirizzo": "Castellanza",
+    "comune": "012042",
+    "lat": 45.611,
+    "lon": 8.8987,
+    "descrizione": "Concerto di musica leggera del Corpo Musicale Santa Cecilia con A.L.I.Ce. Legnano, associazione per la lotta all'ictus cerebrale: momenti di approfondimento su come riconoscere i segnali dell'ictus e cosa fare, con medici di Neurologia a disposizione del pubblico. Ingresso a offerta libera, contributo consigliato 10 euro.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "organizzatore": "Corpo Musicale Santa Cecilia e A.L.I.Ce. Legnano",
+    "fonti": [
+      {
+        "nome": "Città di Castellanza (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfQHYD5DbhN/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-29T18:00",
+    "prenotazione": null,
+    "slug": "di-corpo-di-latte-di-cielo-mostra-giulia-bonora-castelnuovo-rangone",
+    "titolo": "Di corpo, di latte, di cielo: mostra di Giulia Bonora",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T16:30",
+    "luogo": "Sala Michela Murgia, Biblioteca Luis Sepúlveda",
+    "indirizzo": "Via Fermi 1, Castelnuovo Rangone",
+    "comune": "036007",
+    "lat": 44.5621,
+    "lon": 10.9293,
+    "descrizione": "Inaugurazione sabato 7 novembre alle 16:30 della mostra di Giulia Bonora, nel mese di iniziative contro la violenza sulle donne, con Ricognizioni sull'Arte APS e Circolo Caos APS. Visitabile fino al 29 novembre ogni sabato e domenica, dalle 10 alle 12 e dalle 16 alle 18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Castelnuovo Rangone",
+    "fonti": [
+      {
+        "nome": "Comune di Castelnuovo Rangone (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPywo7jvFl/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
