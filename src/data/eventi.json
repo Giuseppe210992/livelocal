@@ -57790,5 +57790,102 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "plastic-free-cernusco-sul-naviglio-2026",
+    "titolo": "Plastic Free: raccolta dei rifiuti al Parco Comi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T09:30",
+    "luogo": "Parco Comi",
+    "indirizzo": "viale Assunta",
+    "comune": "015070",
+    "lat": 45.52604,
+    "lon": 9.33272,
+    "descrizione": "Giornata di raccolta dei rifiuti abbandonati organizzata dal Comune con Plastic Free. Iscrizioni dal sito di Plastic Free.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Cernusco sul Naviglio",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cernusco sul Naviglio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR4URqAKaM/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-12T21:30",
+    "prenotazione": null,
+    "slug": "donne-e-denaro-chiari-2026",
+    "titolo": "Donne e Denaro: liberi di scegliere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:00",
+    "luogo": "Sala Repossi",
+    "indirizzo": "Piazza Martiri della Libertà",
+    "comune": "017052",
+    "lat": 45.53312,
+    "lon": 9.9182,
+    "descrizione": "Incontro sull'educazione finanziaria e l'indipendenza economica femminile, guidato dall'educatore finanziario Mauro Farina (AIEF), nel Mese dell'Educazione Finanziaria. Patrocinio del Comune di Chiari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "AIEF con il patrocinio del Comune di Chiari",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPeSLDFZXa/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "november-pork-casalgrande-2026",
+    "titolo": "November Pork al Parco Liofante di Salvaterra",
+    "categoria": "sagra",
+    "inizio": "2026-11-07T19:30",
+    "luogo": "Parco Liofante",
+    "indirizzo": "Salvaterra",
+    "comune": "035012",
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "descrizione": "Quinta edizione: cena all you can eat con quizzone a squadre alle 19:30, poi dalle 22:30 Disco Night con musica anni 80, 90 e 2000, a ingresso libero. Cena su prenotazione obbligatoria. Adulti 28 euro, 11-14 anni 16 euro, 6-10 anni 11 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "organizzatore": "Comune di Casalgrande",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPeKZyj4Lw/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
