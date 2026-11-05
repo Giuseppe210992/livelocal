@@ -57021,5 +57021,102 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "giovanni-mereghetti-mauritania-ultima-frontiera-villa-pomini-castellanza",
+    "titolo": "Archivi Svelati: Giovanni Mereghetti presenta «Mauritania, l'ultima frontiera»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08T11:00",
+    "luogo": "Villa Pomini",
+    "indirizzo": "Via Don L. Testori 14, Castellanza",
+    "comune": "012042",
+    "lat": 45.611,
+    "lon": 8.8987,
+    "descrizione": "Ultimo appuntamento della rassegna «Archivi Svelati – Sguardi sul Novecento»: il fotografo Giovanni Mereghetti racconta il progetto fotografico del suo libro «Mauritania, l'ultima frontiera» attraverso immagini e storie. Al termine firma copie. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Castellanza",
+    "fonti": [
+      {
+        "nome": "Città di Castellanza (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfVQ9TNjVMs/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "filottete-dimenticato-teatro-dei-borgia-filanda-cernusco-sul-naviglio",
+    "titolo": "Filottete dimenticato: Teatro dei Borgia alla Filanda",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:20",
+    "luogo": "Filanda",
+    "indirizzo": "Via Pietro da Cernusco 2, Cernusco sul Naviglio",
+    "comune": "015070",
+    "lat": 45.526,
+    "lon": 9.3327,
+    "descrizione": "Secondo spettacolo dell'anteprima di stagione teatrale: «Filottete dimenticato» del Teatro dei Borgia, da Sofocle, con Daniele Nuccetelli, regia di Gianpiero Borgia, parole di Fabrizio Sinisi. Replica domenica 8 novembre alle 19:30. Prevendite online su bigliettoveloce.it.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Cernusco sul Naviglio",
+    "fonti": [
+      {
+        "nome": "Comune di Cernusco sul Naviglio (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfVOQ_QG8W5/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08T17:30",
+    "prenotazione": null,
+    "slug": "roma-e-la-civilta-romana-gioco-dell-oca-mast-castel-goffredo",
+    "titolo": "Il museo MAST a misura di bambino: Roma e la civiltà romana",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T15:30",
+    "luogo": "MAST – Museo Alta Società e Territorio",
+    "indirizzo": "Castel Goffredo",
+    "comune": "020015",
+    "lat": 45.2961,
+    "lon": 10.4784,
+    "descrizione": "Laboratorio per bambini da 8 a 12 anni: con un originale Gioco dell'Oca si esplora l'antica Roma tra dadi, sfide e gladiatori. Dura 2 ore, costa 15 euro; iscrizione entro 3 giorni dall'incontro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "organizzatore": "Museo MAST di Castel Goffredo",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfVKFo_kUuT/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
