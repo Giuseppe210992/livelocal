@@ -2,36 +2,36 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**1941 eventi pubblicati, 1821 in programma.** Province con almeno un evento in programma: **109 su 110**.
+**2066 eventi pubblicati, 1945 in programma.** Province con almeno un evento in programma: **110 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Lombardia | 363 | 353 | 12 / 12 |
-| Emilia-Romagna | 233 | 210 | 9 / 9 |
+| Lombardia | 411 | 401 | 12 / 12 |
+| Emilia-Romagna | 237 | 214 | 9 / 9 |
 | Toscana | 209 | 204 | 10 / 10 |
-| Sicilia | 120 | 117 | 9 / 9 |
-| Piemonte | 115 | 106 | 8 / 8 |
-| Veneto | 115 | 106 | 7 / 7 |
-| Lazio | 118 | 105 | 5 / 5 |
-| Puglia | 105 | 100 | 6 / 6 |
-| Liguria | 97 | 92 | 4 / 4 |
-| Campania | 87 | 70 | 5 / 5 |
-| Marche | 66 | 60 | 5 / 5 |
+| Lazio | 135 | 122 | 5 / 5 |
+| Sicilia | 121 | 118 | 9 / 9 |
+| Piemonte | 124 | 114 | 8 / 8 |
+| Veneto | 119 | 110 | 7 / 7 |
+| Puglia | 114 | 109 | 6 / 6 |
+| Liguria | 106 | 101 | 4 / 4 |
+| Campania | 88 | 71 | 5 / 5 |
+| Marche | 75 | 69 | 5 / 5 |
+| Umbria | 63 | 59 | 2 / 2 |
 | Calabria | 55 | 54 | 5 / 5 |
-| Umbria | 54 | 50 | 2 / 2 |
 | Abruzzo | 46 | 45 | 4 / 4 |
 | Sardegna | 38 | 37 | 8 / 8 |
-| Friuli-Venezia Giulia | 39 | 35 | 4 / 4 |
-| Trentino-Alto Adige | 27 | 26 | 2 / 2 |
+| Friuli-Venezia Giulia | 40 | 36 | 4 / 4 |
+| Trentino-Alto Adige | 31 | 30 | 2 / 2 |
 | Valle d'Aosta | 24 | 23 | 1 / 1 |
 | Molise | 16 | 15 | 2 / 2 |
 | Basilicata | 14 | 13 | 2 / 2 |
 
 ## Province senza eventi in programma (da cercare per prime)
 
-- Gorizia (GO), Friuli-Venezia Giulia
+Nessuna: tutte le province hanno almeno un evento.
 
 ## Instagram
 

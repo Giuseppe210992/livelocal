@@ -319,6 +319,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.amatmarche.net/grottammare-2026-2027",
+   "dominio": "amatmarche.net",
+   "nome": "AMAT - Grottammare 2026-2027",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.amatmarche.net/recanati-2026-2027",
    "dominio": "amatmarche.net",
    "nome": "",
@@ -329,6 +345,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Recanati 2026-2027"
+  },
+  {
+   "url": "https://ambienticulturaligenovesi.it/event/stagione-concertistica-auditorium-campodonico-rassegna-musicale-a-cura-del-corpo-bandistico-citta-di-lavagna",
+   "dominio": "ambienticulturaligenovesi.it",
+   "nome": "Ambienti culturali genovesi - Stagione concertistica Auditorium Campodonico",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.anyticket.it/anyticketprod/Default.aspx?partner=PIRA",
@@ -1138,6 +1170,22 @@
    "titolo": "Eventi"
   },
   {
+   "url": "https://caigualdotadino.it/?post_type=tribe_events&eventDisplay=list",
+   "dominio": "caigualdotadino.it",
+   "nome": "CAI Gualdo Tadino - Eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://calabriastraordinaria.it/",
    "dominio": "calabriastraordinaria.it",
    "nome": "",
@@ -1637,6 +1685,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.castellinforma.it/home/?st=town&ts=Grottaferrata",
+   "dominio": "castellinforma.it",
+   "nome": "CastelInforma (Consorzio SCR)",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.cattolica.info/eventi",
    "dominio": "cattolica.info",
    "nome": "Gli Eventi di Cattolica (cattolica.info)",
@@ -1846,6 +1910,22 @@
     "BO"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.cittametropolitanaroma.it/events/event/lanuvio-torna-il-festival-della-maza-tra-storia-sapori-e-tradizioni-antiche",
+   "dominio": "cittametropolitanaroma.it",
+   "nome": "Città metropolitana di Roma Capitale - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -4525,6 +4605,118 @@
    "titolo": ""
   },
   {
+   "url": "https://www.comune.giussano.mb.it/it/eventi",
+   "dominio": "comune.giussano.mb.it",
+   "nome": "Comune di Giussano - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 10,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/ascoltare-oltre",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Ascoltare oltre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/carta-canta",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Carta Canta",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/crescere-senza-perdersi",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Crescere senza perdersi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/gorgonzola-celebra-san-francesco-dassisi/forza-venite-gente",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Forza venite gente",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/serata-della-montagna-con-ettore-campana",
+   "dominio": "comune.gorgonzola.mi.it",
+   "nome": "Comune di Gorgonzola - Serata della montagna",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.gorizia.it/it/categories/calendario-unico-16202",
    "dominio": "comune.gorizia.it",
    "nome": "",
@@ -4549,6 +4741,38 @@
    "titolo": "DAG - Digital Art Gallery - Comune di Gorizia"
   },
   {
+   "url": "https://www.comune.grezzana.vr.it/it/eventi/la-gabriella-e-le-ragazze-storie-di-tina-anselmi",
+   "dominio": "comune.grezzana.vr.it",
+   "nome": "Comune di Grezzana - La Gabriella e le ragazze",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.grezzana.vr.it/it/eventi/un-cuore-di-donna",
+   "dominio": "comune.grezzana.vr.it",
+   "nome": "Comune di Grezzana - Un cuore di donna",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.grosseto.it/notizia/grosseto-ricorda-lalluvione-del-1966-mostre-fotografie-e-testimonianze-per-il-60-anniversario",
    "dominio": "comune.grosseto.it",
    "nome": "",
@@ -4558,6 +4782,38 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.gubbio.pg.it/en/news/gubbio-e-natale-2026-la-citta-si-accende-di-magia",
+   "dominio": "comune.gubbio.pg.it",
+   "nome": "Comune di Gubbio - Gubbio è Natale 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 8,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.gussago.bs.it/EG0/EGSCHTST38.HBL?en=egt61&MESSA=PUBBLICA",
+   "dominio": "comune.gussago.bs.it",
+   "nome": "Comune di Gussago - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -4571,6 +4827,246 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Città di Imperia"
+  },
+  {
+   "url": "https://comune.induno-olona.va.it/argomenti/argomento-dettaglio/3106388",
+   "dominio": "comune.induno-olona.va.it",
+   "nome": "Comune di Induno Olona - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 7,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "VA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.ivrea.to.it/it/argomenti/eventi",
+   "dominio": "comune.ivrea.to.it",
+   "nome": "Comune di Ivrea - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/in-the-mood-cineforum-ottobre26",
+   "dominio": "comune.lainate.mi.it",
+   "nome": "Comune di Lainate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/laboratorio-in-biblioteca",
+   "dominio": "comune.lainate.mi.it",
+   "nome": "Comune di Lainate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/lainate-comics-play",
+   "dominio": "comune.lainate.mi.it",
+   "nome": "Comune di Lainate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/oltre-mina",
+   "dominio": "comune.lainate.mi.it",
+   "nome": "Comune di Lainate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/voci-in-dialogo-2-2-2-2",
+   "dominio": "comune.lainate.mi.it",
+   "nome": "Comune di Lainate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/al-cavallino-bianco",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate - Teatro Comunale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/bubbles-is-magic",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate - Teatro Comunale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/celebrazioni-del-iv-novembre",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/esposizione-auto-depoca-2026-il-fascino-della-storia-torna-in-piazza",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/pierino-e-il-lupo",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate - Teatro Comunale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/romanzi-e-autori-4-incontri-tra-ottobre-e-novembre",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/totalmente-incompatibili",
+   "dominio": "comune.limbiate.mb.it",
+   "nome": "Comune di Limbiate - Teatro Comunale",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MB"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.lodi.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1080",
@@ -5689,6 +6185,22 @@
    "titolo": "Calendario"
   },
   {
+   "url": "https://www.culturaimola.it/calendar",
+   "dominio": "culturaimola.it",
+   "nome": "Cultura Imola - agenda",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "BO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.culturaveneto.it/cultura-tradizione/feste-popolari-rievocazioni/73832d16-81ac-49ae-9063-77375f1e6023",
    "dominio": "culturaveneto.it",
    "nome": "Cultura Veneto (Regione Veneto)",
@@ -5735,6 +6247,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Stagione Teatrale Nazionale 26/27 – Caltanissetta – CALTANISSETTA (CL) – 2026 – DalVivo Concerti"
+  },
+  {
+   "url": "https://www.dettaglidigrottaglie.it/blog/2026/08/30/pianofestival",
+   "dominio": "dettaglidigrottaglie.it",
+   "nome": "DettagliDiGrottaglie",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "TA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://developers.facebook.com/docs/content-library-and-api/get-access",
@@ -6190,7 +6718,7 @@
    "nome": "Calendario Eventi isola d'Ischia",
    "tipo": "aggregatore",
    "esito": "letta",
-   "eventi": 1,
+   "eventi": 2,
    "regioni": [
     "Campania"
    ],
@@ -6829,6 +7357,22 @@
    "titolo": "2026 Eventi in programma - Cagliari FestivalScienza"
   },
   {
+   "url": "https://www.fieradelbollito.it/",
+   "dominio": "fieradelbollito.it",
+   "nome": "Fiera del Bollito (sito della fiera; pagina letta: home del sito dedicato)",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.fieradeltartufo.org/calendario",
    "dominio": "fieradeltartufo.org",
    "nome": "",
@@ -7110,6 +7654,22 @@
     "VA"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.fondazionepergolesispontini.com/calendario",
+   "dominio": "fondazionepergolesispontini.com",
+   "nome": "Fondazione Pergolesi Spontini - Calendario",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "AN"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -7543,6 +8103,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Eventi ed escursioni | Grado"
+  },
+  {
+   "url": "https://www.grugliascooratorio.it/events",
+   "dominio": "grugliascooratorio.it",
+   "nome": "Go Grugliasco Oratorio - Eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.guidatorino.com/eventi-torino-novembre",
@@ -7982,6 +8558,38 @@
     "CE"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/guidonia-montecelio",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Guidonia Montecelio",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/puglia/eventi/333186.html",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Laterza",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "TA"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -10621,6 +11229,22 @@
    "titolo": "Archivi Eventi - Jazzinsieme"
   },
   {
+   "url": "https://jesolo.it/events-1/categoria/eventi",
+   "dominio": "jesolo.it",
+   "nome": "Comune di Jesolo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VE"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://labollateatro.it/",
    "dominio": "labollateatro.it",
    "nome": "LaBolla, Bollate",
@@ -10678,6 +11302,22 @@
     "PG"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.laives-leifers.it/it/laives/info-servizi/eventi/grandi-eventi.html",
+   "dominio": "laives-leifers.it",
+   "nome": "Laives - Appuntamenti da non perdere",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -10869,6 +11509,38 @@
    "titolo": "eventi Minturno 7 novembre 2026 Archivi - Latina Quotidiano"
   },
   {
+   "url": "https://www.latinatoday.it/eventi/concerti-d-autunno-2026-latina.html",
+   "dominio": "latinatoday.it",
+   "nome": "LatinaToday - Concerti d'Autunno 2026",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "LT"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.lavagnaturismo.it/novit%C3%A0-ed-eventi",
+   "dominio": "lavagnaturismo.it",
+   "nome": "Comune di Lavagna - Novità ed eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "GE"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.laversilia.it/eventi-camaiore",
    "dominio": "laversilia.it",
    "nome": "LaVersilia.it - Eventi a Camaiore",
@@ -10917,6 +11589,22 @@
    "titolo": "Calici a Corte a Minturno"
   },
   {
+   "url": "https://www.leccesette.it/news/226886061574/festival-di-santa-cecilia-il-22-novembre-2026-a-lecce",
+   "dominio": "leccesette.it",
+   "nome": "LeccéSette - Festival di Santa Cecilia",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "LE"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.leccotoday.it/attualita/novembre-mostre-musei-2026.html",
    "dominio": "leccotoday.it",
    "nome": "LeccoToday",
@@ -10933,6 +11621,22 @@
    "titolo": "Novembre nei musei di Lecco tra mostre e iniziative per la famiglia"
   },
   {
+   "url": "https://www.legnanoevents.it/",
+   "dominio": "legnanoevents.it",
+   "nome": "LegnanoEvents - Home",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://leopolda.adarte.18tickets.it/",
    "dominio": "leopolda.adarte.18tickets.it",
    "nome": "Teatro Fonderia Leopolda - programmazione",
@@ -10944,6 +11648,38 @@
    ],
    "province": [
     "GR"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://lericicoast.it/evento/caselli-50-mostra-dedicata-alla-figura-e-allopera-del-maestro-giuseppe-caselli",
+   "dominio": "lericicoast.it",
+   "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "SP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://lericicoast.it/evento/il-magico-mondo-di-babbo-natale-arriva-a-lerici",
+   "dominio": "lericicoast.it",
+   "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "SP"
    ],
    "consultata": "2026-11-05",
    "titolo": ""
@@ -11294,6 +12030,22 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-03",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.lozac.it/programmazione",
+   "dominio": "lozac.it",
+   "nome": "ZAC! - Programmazione",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -12396,6 +13148,22 @@
    "titolo": ""
   },
   {
+   "url": "https://palazzofontana.it/eventi",
+   "dominio": "palazzofontana.it",
+   "nome": "Palazzo Fontana - Eventi",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.palazzorealemilano.it/",
    "dominio": "palazzorealemilano.it",
    "nome": "",
@@ -12683,6 +13451,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "PISTOIA CITTÀ DEL NATALE"
+  },
+  {
+   "url": "https://planetario.imperiamusei.it/programmazione-degli-spettacoli-al-planetario",
+   "dominio": "planetario.imperiamusei.it",
+   "nome": "Imperia Musei - Planetario di Imperia",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "IM"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.politeamacatanzaro.net/",
@@ -13560,6 +14344,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.scopri.gorizia.it/eventi/italia-settanta-eventi-di-novembre",
+   "dominio": "scopri.gorizia.it",
+   "nome": "Scopri Gorizia - Italia Settanta, eventi di novembre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Friuli-Venezia Giulia"
+   ],
+   "province": [
+    "GO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.scoprialbenga.it/eventi.htm",
    "dominio": "scoprialbenga.it",
    "nome": "Scopri Albenga - calendario eventi",
@@ -13910,6 +14710,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Teatro Diego Fabbri di Forlì - Stagione 2026/27 - Spettacolo in Emilia-Romagna"
+  },
+  {
+   "url": "https://www.speziacultura.it/evento/i-giovedi-in-archivio",
+   "dominio": "speziacultura.it",
+   "nome": "SpeziaCultura - I Giovedì in archivio",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Liguria"
+   ],
+   "province": [
+    "SP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.stresaturismo.it/it/eventi",
@@ -14297,6 +15113,22 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatrodannunziolatina.it/programmazione/stagioni/stagione-teatrale-26-27/trentanni-di-luce-speranza-e-solidarieta",
+   "dominio": "teatrodannunziolatina.it",
+   "nome": "Teatro Gabriele D'Annunzio - Trent'anni di luce",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "LT"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -15967,6 +16799,22 @@
    "titolo": "Verona Marathon | 42k, 21k, 10k"
   },
   {
+   "url": "https://www.viaggiando-italia.it/villaggio-di-natale-ladispoli-2026-un-mese-di-festa-tra-mercatini-spettacoli-e-mare-dinverno",
+   "dominio": "viaggiando-italia.it",
+   "nome": "Viaggiando Italia",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.virgilio.it/italia/potenza/eventi/mese/novembre",
    "dominio": "virgilio.it",
    "nome": "",
@@ -16338,6 +17186,38 @@
    ],
    "province": [
     "UD"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitgiaveno.it/eventi-programmazione",
+   "dominio": "visitgiaveno.it",
+   "nome": "Visit Giaveno - Eventi in programmazione",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Piemonte"
+   ],
+   "province": [
+    "TO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitlatiano.it/2026/11",
+   "dominio": "visitlatiano.it",
+   "nome": "VisitLatiano - Novembre 2026",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BR"
    ],
    "consultata": "2026-11-05",
    "titolo": ""
@@ -16883,6 +17763,22 @@
    "titolo": "Tutti gli eventi a Viterbo"
   },
   {
+   "url": "https://www.vivasicilia.com/festa-dell-immacolata-grammichele",
+   "dominio": "vivasicilia.com",
+   "nome": "VivaSicilia - Festa dell’Immacolata Grammichele",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "CT"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.vivaticket.com/it/tour/sagra-musicale-malatestiana/4276",
    "dominio": "vivaticket.com",
    "nome": "Vivaticket - 77ª Sagra Musicale Malatestiana",
@@ -16989,6 +17885,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "News ed eventi - ViviSpilimbergo - ll sito Ufficiale del Turismo di Spilimbergo"
+  },
+  {
+   "url": "https://www.weroad.it/wemeet/eventi/gravina-in-puglia/sagra-del-cardoncello-394d381e-f8c6-4434-8237-156e4023f43b",
+   "dominio": "weroad.it",
+   "nome": "WeMeet - Sagra del Cardoncello",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.westofsicily.com/it/eventi/calendario",
