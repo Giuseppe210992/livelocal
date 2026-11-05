@@ -58272,5 +58272,101 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "massimo-zamboni-pregate-per-ea-casalgrande-2026",
+    "titolo": "Massimo Zamboni in «Pregate per Ea»",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T21:00",
+    "luogo": "Teatro Fabrizio De André",
+    "indirizzo": "Casalgrande",
+    "comune": "035012",
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "descrizione": "Per i vent'anni del Polo culturale di Casalgrande, Massimo Zamboni (fondatore di CCCP e CSI) sul palco con Erik Montanari e Cristiano Roversi: musica, parole e memoria dall'Appennino reggiano. Prenotazione obbligatoria presso la biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Biblioteca comunale di Casalgrande",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfMvES8DPKy/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-07T13:00",
+    "prenotazione": null,
+    "slug": "hai-una-domanda-il-dottore-risponde-bastia-umbra-2026",
+    "titolo": "Hai una domanda? Il dottore risponde (3ª edizione)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T10:00",
+    "luogo": "Auditorium Sant'Angelo",
+    "indirizzo": "Piazza Umberto I",
+    "comune": "054002",
+    "lat": 43.06426,
+    "lon": 12.52874,
+    "descrizione": "Incontro con medici e specialisti di diverse discipline per fare domande su prevenzione, salute e benessere, organizzato dalle Farmacie Comunali. Gadget per i partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Farmacie Comunali di Bastia Umbra",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bastia Umbra",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfO4ZfhD7iY/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "sentiero-dei-lettori-banda-dei-musi-neri-stagno-collesalvetti-2026",
+    "titolo": "Il sentiero dei lettori: «La Banda dei Musi Neri» e Musica Criminale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T21:00",
+    "luogo": "Sala Lettura N. G. Lepori",
+    "indirizzo": "Stagno",
+    "comune": "049008",
+    "lat": 43.57422,
+    "lon": 10.43368,
+    "descrizione": "Furore OdV apre la nuova stagione con lo scrittore Maurizio Mini e il romanzo «La Banda dei Musi Neri». In apertura «Musica Criminale», percorso tra parole e canzoni coordinato da Andrea Pellegrini, con Claudio Monteleone, Gabriele Quirino e Francesco Carone. Progetto «Librarsi».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Furore OdV, Comune di Collesalvetti",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Collesalvetti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfO1AP2AVjB/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
