@@ -58015,5 +58015,69 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-12-31",
+    "prenotazione": null,
+    "slug": "riapertura-casa-atrio-mosaico-ercolano-2026",
+    "titolo": "Riapre la Casa dell'Atrio a Mosaico",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-06",
+    "luogo": "Parco Archeologico di Ercolano",
+    "indirizzo": "Ercolano",
+    "comune": "063064",
+    "lat": 40.81953,
+    "lon": 14.38011,
+    "descrizione": "La Casa dell'Atrio a Mosaico torna visitabile dal 6 novembre al 31 dicembre, tutti i giorni mattina e pomeriggio. Inaugurazione e conferenza stampa il 5 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Parco Archeologico di Ercolano",
+    "fonti": [
+      {
+        "nome": "Instagram Parco Archeologico di Ercolano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUeHOejGX2/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-12-09T12:00",
+    "prenotazione": null,
+    "slug": "apertura-casa-a-graticcio-ercolano-2026",
+    "titolo": "Apertura della Casa a Graticcio",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-11T09:00",
+    "luogo": "Parco Archeologico di Ercolano",
+    "indirizzo": "Ercolano",
+    "comune": "063064",
+    "lat": 40.81953,
+    "lon": 14.38011,
+    "descrizione": "La Casa a Graticcio è visitabile ogni mercoledì dalle 9 alle 12, dall'11 novembre al 9 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Parco Archeologico di Ercolano",
+    "fonti": [
+      {
+        "nome": "Instagram Parco Archeologico di Ercolano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUeHOejGX2/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
