@@ -58368,5 +58368,101 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-28T12:00",
+    "prenotazione": null,
+    "slug": "open-day-polo-0-6-cologno-al-serio-2026",
+    "titolo": "Open day della Scuola dell'Infanzia e del Nido comunale",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "luogo": "Polo 0-6 Giannini Belotti",
+    "indirizzo": "Cologno al Serio",
+    "comune": "016079",
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "descrizione": "Le famiglie possono conoscere gli ambienti, il personale e le proposte educative della Scuola dell'Infanzia «Papa Giovanni XXIII» e del Nido «Pimpì Oselì», con visite agli spazi e laboratori per i più piccoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Cologno al Serio",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cologno al Serio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXZsJmMbj-/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "la-luce-di-san-francesco-restauri-castiglion-fiorentino-2026",
+    "titolo": "La luce di San Francesco: presentazione dei restauri",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07T10:30",
+    "luogo": "Chiesa di San Francesco",
+    "indirizzo": "Castiglion Fiorentino",
+    "comune": "051012",
+    "lat": 43.3293,
+    "lon": 11.92691,
+    "descrizione": "Incontro sul recupero di vetrate, oreficerie e affreschi del complesso francescano, seguito dalla visita guidata alle lunette del chiostro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Castiglion Fiorentino",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castiglion Fiorentino",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXUN1Oglv3/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08T12:30",
+    "prenotazione": null,
+    "slug": "chiari-e-la-sua-storia-visita-guidata-2026",
+    "titolo": "Chiari e la sua storia: visita guidata",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T11:00",
+    "luogo": "Scalinata di Villa Mazzotti (ritrovo)",
+    "indirizzo": "Chiari",
+    "comune": "017052",
+    "lat": 45.53312,
+    "lon": 9.9182,
+    "descrizione": "Visita guidata alla scoperta della storia e del patrimonio culturale della città, nella 24ª edizione della Rassegna della Microeditoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Chiari",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXJphYlbXF/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
