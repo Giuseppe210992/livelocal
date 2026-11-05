@@ -3,6 +3,22 @@
  "generato": "2026-11-06",
  "fonti": [
   {
+   "url": "https://abrescia.giornaledibrescia.it/ricerca?category=4",
+   "dominio": "abrescia.giornaledibrescia.it",
+   "nome": "Giornale di Brescia (aBrescia), agenda",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://abruzzoconleproloco.it/2026",
    "dominio": "abruzzoconleproloco.it",
    "nome": "",
@@ -97,6 +113,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Diego Fabbri - Accademia Perduta"
+  },
+  {
+   "url": "https://accademiaperduta.it/teatro-dragoni/madre-per-sempre",
+   "dominio": "accademiaperduta.it",
+   "nome": "Accademia Perduta - Teatro Dragoni",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://acqualagna.com/programma",
@@ -1186,6 +1218,22 @@
    "titolo": ""
   },
   {
+   "url": "https://calabria.jblasa.com/calabria/eventi-in-calabria",
+   "dominio": "calabria.jblasa.com",
+   "nome": "Il Calabria Jblasa - Eventi in Calabria",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "RC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://calabriastraordinaria.it/",
    "dominio": "calabriastraordinaria.it",
    "nome": "",
@@ -1584,6 +1632,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Gli spettacoli | Teatro Carlo Felice"
+  },
+  {
+   "url": "https://cartellone.emiliaromagnacultura.it/it/evento/madre-per-sempre",
+   "dominio": "cartellone.emiliaromagnacultura.it",
+   "nome": "Cartellone Emilia-Romagna - Madre per sempre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.casaalcarmine.it/it/2026/09/29/mostre-veneto-autunno-inverno-2026-2027",
@@ -5071,17 +5135,17 @@
   {
    "url": "https://www.comune.lodi.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1080",
    "dominio": "comune.lodi.it",
-   "nome": "Comune di Lodi",
+   "nome": "Comune di Lodi - Eventi",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 2,
+   "eventi": 5,
    "regioni": [
     "Lombardia"
    ],
    "province": [
     "LO"
    ],
-   "consultata": "2026-11-04",
+   "consultata": "2026-11-05",
    "titolo": "Eventi"
   },
   {
@@ -5099,6 +5163,54 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Teatro Lauro Rossi | Stagione 2026 / 2027"
+  },
+  {
+   "url": "https://comune.magenta.mi.it/amministrazione/associazioni-cittadine/iniziative-patrocinate/iniziative-patrocinate-anno-2026",
+   "dominio": "comune.magenta.mi.it",
+   "nome": "Comune di Magenta - iniziative patrocinate 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.maranello.mo.it/vivere-maranello/eventi/buon-natale-maranello",
+   "dominio": "comune.maranello.mo.it",
+   "nome": "Comune di Maranello - Buon Natale Maranello",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "MO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.maranello.mo.it/vivere-maranello/eventi/orologio-apocalisse",
+   "dominio": "comune.maranello.mo.it",
+   "nome": "Comune di Maranello - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "MO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.marsala.tp.it/",
@@ -5125,6 +5237,22 @@
    "titolo": "Eventi"
   },
   {
+   "url": "https://www.comune.marsala.tp.it/it/eventi/flavia-di-tomasso-violino-barbara-di-mario-pianoforte",
+   "dominio": "comune.marsala.tp.it",
+   "nome": "Comune di Marsala - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.comune.marsala.tp.it/it/eventi/fratelli-mancuso",
    "dominio": "comune.marsala.tp.it",
    "nome": "Comune di Marsala",
@@ -5139,6 +5267,342 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Fratelli Mancuso"
+  },
+  {
+   "url": "https://www.comune.marsala.tp.it/it/events/elvira-maria-iannuzzi-alessandro-panatteri",
+   "dominio": "comune.marsala.tp.it",
+   "nome": "Comune di Marsala - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.marsala.tp.it/it/events/gran-concerto-di-natale",
+   "dominio": "comune.marsala.tp.it",
+   "nome": "Comune di Marsala - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.marsala.tp.it/it/events/mauro-carpi-quartet",
+   "dominio": "comune.marsala.tp.it",
+   "nome": "Comune di Marsala - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sicilia"
+   ],
+   "province": [
+    "TP"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.marsciano.pg.it/it/news/arte-e-cultura-a-novembre",
+   "dominio": "comune.marsciano.pg.it",
+   "nome": "Comune di Marsciano - Arte e cultura a novembre",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Umbria"
+   ],
+   "province": [
+    "PG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.martinafranca.ta.it/Vivere-il-comune/Eventi/ARMONIE-DI-NATALE-2026",
+   "dominio": "comune.martinafranca.ta.it",
+   "nome": "Comune di Martina Franca - Armonie di Natale 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "TA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.martinengo.bg.it/it/eventi/da-bene-confiscato-a-bene-comune-incontro-con-don-luigi-ciotti",
+   "dominio": "comune.martinengo.bg.it",
+   "nome": "Comune di Martinengo - Da bene confiscato a bene comune",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.martinengo.bg.it/it/eventi/filandone-in-giallo",
+   "dominio": "comune.martinengo.bg.it",
+   "nome": "Comune di Martinengo - Filandone in Giallo",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 7,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.massalombarda.ra.it/Vivere-il-comune/Eventi/41-RASSEGNA-CORALE-CITTA-MASSA-LOMBARDA",
+   "dominio": "comune.massalombarda.ra.it",
+   "nome": "Comune di Massa Lombarda - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.massarosa.lu.it/notizie/Mercatini-di-Natale--ecco-le-date--al-via-la-macchina-organizzativa.html",
+   "dominio": "comune.massarosa.lu.it",
+   "nome": "Comune di Massarosa - Notizie",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "LU"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.matelica.mc.it/vivere_il_comune/eventi/evento_121.html",
+   "dominio": "comune.matelica.mc.it",
+   "nome": "Comune di Matelica - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.matelica.mc.it/vivere_il_comune/eventi/evento_136.html",
+   "dominio": "comune.matelica.mc.it",
+   "nome": "Comune di Matelica - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.matelica.mc.it/vivere_il_comune/eventi/evento_145.html",
+   "dominio": "comune.matelica.mc.it",
+   "nome": "Comune di Matelica - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.matelica.mc.it/vivere_il_comune/eventi/evento_148.html",
+   "dominio": "comune.matelica.mc.it",
+   "nome": "Comune di Matelica - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://comune.melito.na.it/vivere-il-comune/eventi",
+   "dominio": "comune.melito.na.it",
+   "nome": "Comune di Melito di Napoli - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/l-ora-di-un-buon-risotto-gadda-e-milano-in-biblioteca",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/luigi-gino-celio-1919-1945-presentazione-del-libro-in-biblioteca",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/paesaggi-acquerelli-e-pastelli-in-mostra-in-biblioteca",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/pinocchio-readymade-presentazione-del-libro-di-lello-cassinotti",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/quando-la-vita-cambia-incontro-in-biblioteca",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi/63396/rassegna-laboratorio-d-autore-elena-pucillo-e-truong-van-dan",
+   "dominio": "comune.melzo.mi.it",
+   "nome": "Comune di Melzo - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.comune.merate.lc.it/vivere_il_comune/eventi/evento_504.html",
+   "dominio": "comune.merate.lc.it",
+   "nome": "Comune di Merate - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://comune.minturno.lt.it/novita",
@@ -7017,6 +7481,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.facebook.com/comunedimediglia/posts/-tra-le-corde-e-le-stelle-iii-edizione-concerto-oltre-le-note%EF%B8%8F-una-serata-di-mus/1142735274951877",
+   "dominio": "facebook.com",
+   "nome": "Comune di Mediglia - Facebook",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "MI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.facebook.com/events/mignano-monte-lungo/inno-al-novello-mignano-monte-lungo-ce/409922013263900/?locale=es_ES",
    "dominio": "facebook.com",
    "nome": "",
@@ -7299,6 +7779,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Gli Eventi del Mese"
+  },
+  {
+   "url": "https://www.ferrari.com/it-IT/museums/events-calendar",
+   "dominio": "ferrari.com",
+   "nome": "Ferrari Museums - Calendario eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "MO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://festeinpaese.it/provincia-evento/ogliastra",
@@ -8393,6 +8889,22 @@
    "titolo": "Tutti gli eventi a Pescara"
   },
   {
+   "url": "https://ilragazzodellaviagluck.com/eventi/martina-franca-teatro-nuovo-2026-11-22.html",
+   "dominio": "ilragazzodellaviagluck.com",
+   "nome": "Il Ragazzo della Via Gluck - scheda della data di Martina Franca",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "TA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://iltaccodibacco.it/agropoli",
    "dominio": "iltaccodibacco.it",
    "nome": "Il Tacco di Bacco",
@@ -8572,6 +9084,22 @@
    ],
    "province": [
     "RM"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://iltaccodibacco.it/locorotondo",
+   "dominio": "iltaccodibacco.it",
+   "nome": "Il Tacco di Bacco - Locorotondo",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "BA"
    ],
    "consultata": "2026-11-05",
    "titolo": ""
@@ -10429,6 +10957,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.instagram.com/p/DfUnwNmCfO3",
+   "dominio": "instagram.com",
+   "nome": "Comune di Mazzano - Instagram",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.instagram.com/p/DfUnwyrAaEe",
    "dominio": "instagram.com",
    "nome": "Comune di Cadelbosco di Sopra (Instagram)",
@@ -12005,6 +12549,22 @@
    "titolo": "IL CALENDARIO DEGLI EVENTI IN PROVINCIA Agrigento  - Sicilia, storia, cultura, archeologia, enogastronomia, turismo, hotels, ristoranti, iti"
   },
   {
+   "url": "https://locri.comune.digital/eventi",
+   "dominio": "locri.comune.digital",
+   "nome": "Comune di Locri - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Calabria"
+   ],
+   "province": [
+    "RC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://lombardia.piazzainfesta.it/concorezzo/feel-the-bass-line-112748",
    "dominio": "lombardia.piazzainfesta.it",
    "nome": "Piazza in Festa (Lombardia)",
@@ -12049,6 +12609,22 @@
    "titolo": ""
   },
   {
+   "url": "https://lucerabynight.it/artecultura-aps-un-anno-di-eventi-tra-musica-e-solidarieta",
+   "dominio": "lucerabynight.it",
+   "nome": "LuceraByNight",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "FG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.lucidartista.it/salerno-mostra-darte-presepiale-dal-07-novembre-2026-al-10-gennaio-2027.html",
    "dominio": "lucidartista.it",
    "nome": "Luci d'Artista (lucidartista.it)",
@@ -12063,6 +12639,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Salerno, Mostra d’Arte Presepiale dal 07 novembre 2026 al 10 gennaio 2027"
+  },
+  {
+   "url": "https://www.luinonotizie.it/2026/11/05/luino-un-libro-in-mano-per-dire-no-alla-violenza-sabato-un-raduno-a-palazzo-verbania/588033",
+   "dominio": "luinonotizie.it",
+   "nome": "Luinonotizie",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "VA"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.luminariegaeta.it/",
@@ -12123,6 +12715,38 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Asti: mercatino di Natale - Il Magico Paese di Natale"
+  },
+  {
+   "url": "https://www.manfredoniaeventi.com/evento/domenica-al-parco-archeologico-ingresso-gratuito-manfredonia-6-dicembre-2026",
+   "dominio": "manfredoniaeventi.com",
+   "nome": "ManfredoniaEventi - Domenica al Parco Archeologico",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "FG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.manfredoniaeventi.com/guide/eventi-a-manfredonia-in-autunno-2026-cosa-fare-tra-ottobre-e-novembre",
+   "dominio": "manfredoniaeventi.com",
+   "nome": "ManfredoniaEventi - Guida autunno 2026",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "FG"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://mantova24.net/cultura",
@@ -12295,6 +12919,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Villaggio Tirolese | Mercatini di Natale Arezzo"
+  },
+  {
+   "url": "https://www.mercatinodelgusto.it/",
+   "dominio": "mercatinodelgusto.it",
+   "nome": "Mercatino del Gusto - San Martino e la Luce 2026",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "LE"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.mercatinodinataleaosta.it/",
@@ -12616,6 +13256,22 @@
    "titolo": "Novità - Museion"
   },
   {
+   "url": "https://www.museodellacittalivorno.it/eventi",
+   "dominio": "museodellacittalivorno.it",
+   "nome": "Museo della Città di Livorno - Eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "LI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.museodelnovecento.org/it/eventi",
    "dominio": "museodelnovecento.org",
    "nome": "Museo del Novecento - Comune di Milano",
@@ -12878,6 +13534,22 @@
    ],
    "consultata": "2026-11-03",
    "titolo": "Non solo eventi marche - Eventi Ascoli Piceno"
+  },
+  {
+   "url": "https://www.nonsoloeventimarche.it/eventi-per-provincia.php?id=macerata",
+   "dominio": "nonsoloeventimarche.it",
+   "nome": "Non solo eventi Marche, Eventi Macerata",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Marche"
+   ],
+   "province": [
+    "MC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
   },
   {
    "url": "https://www.nuovoteatroverdi.com/programma-stagione-artistica-2026-2027",
@@ -13501,6 +14173,22 @@
    "titolo": "Programmazione Spettacoli - Teatro Politeama Greco Lecce - Teatro Lecce"
   },
   {
+   "url": "https://politeamamanerbio.it/",
+   "dominio": "politeamamanerbio.it",
+   "nome": "Teatro Politeama Manerbio - programma",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.pordenonewithlove.it/it/eventi/elenco-eventi",
    "dominio": "pordenonewithlove.it",
    "nome": "",
@@ -13661,6 +14349,22 @@
    "titolo": "Home - ProLoco Città di Isernia"
   },
   {
+   "url": "https://www.prolocomariano.it/iniziativa/il-mercato-in-piazza-2",
+   "dominio": "prolocomariano.it",
+   "nome": "Pro Loco Mariano - Calendario",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "CO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.pugliaculture.it/aree-di-intervento/circuito-e-stagioni-teatrali/foggia-taranto-e-lecce-al-via-tre-nuove-stagioni-teatrali-comunali",
    "dominio": "pugliaculture.it",
    "nome": "Puglia Culture – Foggia, Taranto e Lecce: al via tre nuove stagioni teatrali comunali",
@@ -13708,6 +14412,22 @@
     "BA"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.pugliaculture.it/rassegna/massafra-stagione-teatrale-2026-27",
+   "dominio": "pugliaculture.it",
+   "nome": "Puglia Culture - Stagione Teatrale 2026/27 Massafra",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "TA"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -14912,6 +15632,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatroallevigne.com/",
+   "dominio": "teatroallevigne.com",
+   "nome": "Teatro alle Vigne - Lodi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LO"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://teatrobiondo.it/calendario",
    "dominio": "teatrobiondo.it",
    "nome": "Teatro Biondo Palermo",
@@ -15148,6 +15884,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatrodelgigliogiacomopuccini.it/it/il-calendario",
+   "dominio": "teatrodelgigliogiacomopuccini.it",
+   "nome": "Teatro del Giglio Giacomo Puccini, calendario",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Toscana"
+   ],
+   "province": [
+    "LU"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://teatrodipisa.it/",
    "dominio": "teatrodipisa.it",
    "nome": "Teatro di Pisa - Teatro Verdi, stagione 2026-2027",
@@ -15273,14 +16025,14 @@
    "nome": "Teatro Guglielmi (Comune di Massa) - Spettacoli",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 4,
+   "eventi": 7,
    "regioni": [
     "Toscana"
    ],
    "province": [
     "MS"
    ],
-   "consultata": "2026-11-04",
+   "consultata": "2026-11-05",
    "titolo": "Spettacoli | Teatro Guglielmi"
   },
   {
@@ -16029,6 +16781,22 @@
    "titolo": "Minturno in Rosa, settima edizione sul Lungomare di Scauri - \"Il Golfo a portata di click - Telegolfo RTG Notizie Online\""
   },
   {
+   "url": "https://telenorba.it/2026/11/05/alla-scoperta-dei-giochi-antichi-con-il-mediterranean-playground-dal-6-all8-novembre-a-matera",
+   "dominio": "telenorba.it",
+   "nome": "Telenorba - Mediterranean Playground",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Basilicata"
+   ],
+   "province": [
+    "MT"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://tempolibero.comune.prato.it/",
    "dominio": "tempolibero.comune.prato.it",
    "nome": "Comune di Prato - Cartellone Eventi",
@@ -16355,6 +17123,22 @@
     "RA"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.turismo.it/eventi-festival/fiere-enogastronomiche/merano-winefestival-2026-programma-date",
+   "dominio": "turismo.it",
+   "nome": "Turismo.it",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Trentino-Alto Adige"
+   ],
+   "province": [
+    "BZ"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -16767,6 +17551,22 @@
    "titolo": ""
   },
   {
+   "url": "https://veneto.piazzainfesta.it/malo/natale-a-malo-2026-118367",
+   "dominio": "veneto.piazzainfesta.it",
+   "nome": "Piazza in Festa - Natale a Malo 2026",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VI"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
    "url": "https://www.ventilucenti.it/evento-spettacolo/schiaccianoci-2026-petrarca",
    "dominio": "ventilucenti.it",
    "nome": "Venti Lucenti - Schiaccianoci 2026",
@@ -16980,6 +17780,22 @@
     "FC"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitbrescia.it/eventi/manerbio-jazz-festival",
+   "dominio": "visitbrescia.it",
+   "nome": "Visit Brescia - Manerbio Jazz Festival 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "BS"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -17344,6 +18160,54 @@
     "LO"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitmandello.it/en-us/vivi/appuntamenti",
+   "dominio": "visitmandello.it",
+   "nome": "Visit Mandello - appuntamenti",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitmandello.it/en-us/vivi/appuntamenti/22-11-2026",
+   "dominio": "visitmandello.it",
+   "nome": "Visit Mandello - appuntamenti del 22 novembre 2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lombardia"
+   ],
+   "province": [
+    "LC"
+   ],
+   "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visitmanfredonia.com/orari-e-info",
+   "dominio": "visitmanfredonia.com",
+   "nome": "VisitManfredonia - Orari e info",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Puglia"
+   ],
+   "province": [
+    "FG"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
@@ -17872,6 +18736,22 @@
     "RA"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.viviromagna.it/meldola",
+   "dominio": "viviromagna.it",
+   "nome": "Viviromagna - Eventi a Meldola",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "FC"
+   ],
+   "consultata": "2026-11-05",
    "titolo": ""
   },
   {
