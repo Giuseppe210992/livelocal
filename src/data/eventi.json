@@ -57470,5 +57470,133 @@
         "consultata": "2026-11-05"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "trofeo-memorial-nereo-allegri-corsa-su-strada-chiampo-2026",
+    "titolo": "34° Trofeo Memorial Nereo Allegri: corsa su strada a Chiampo",
+    "categoria": "sport",
+    "inizio": "2026-11-08T09:00",
+    "luogo": "Piazza Giacomo Zanella",
+    "indirizzo": "Piazza Giacomo Zanella, Chiampo",
+    "comune": "024029",
+    "lat": 45.5476,
+    "lon": 11.2769,
+    "descrizione": "Quinta prova del Campionato Provinciale CSI di corsa su strada, organizzata dal G.S. Atletica Valchiampo con il patrocinio del Comune. Domenica 8 novembre alle 9 in piazza Zanella.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "G.S. Atletica Valchiampo A.S.D.",
+    "fonti": [
+      {
+        "nome": "Comune di Chiampo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfSLsY4mslr/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "gruppo-d-acquisto-efficienza-energetica-cer-castel-maggiore-2026-11-10",
+    "titolo": "Gruppo d'acquisto per l'efficienza energetica: incontro pubblico della CER",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T21:00",
+    "luogo": "Sala Maria Grazia Cutuli",
+    "indirizzo": "Via Bondanello 41, Castel Maggiore",
+    "comune": "037019",
+    "lat": 44.5717,
+    "lon": 11.3534,
+    "descrizione": "Incontro pubblico della Comunità Energetica Rinnovabile di Castel Maggiore con AESS sul nuovo gruppo d'acquisto per riqualificare le abitazioni: fotovoltaico, infissi, pompa di calore e climatizzatori, con sopralluogo preliminare e prezzi convenzionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "CER Castel Maggiore",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Maggiore (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRus3-FABu/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "matilda-de-angiolini-in-concerto-villa-marazzi-cesano-boscone",
+    "titolo": "Matilda De Angiolini in concerto: Fano e Ravel a Villa Marazzi",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:30",
+    "luogo": "Sala delle Carrozze, Villa Marazzi",
+    "indirizzo": "Via Dante 47, Cesano Boscone",
+    "comune": "015074",
+    "lat": 45.4413,
+    "lon": 9.0872,
+    "descrizione": "Appuntamento della rassegna «Una finestra sulla musica», con la direzione artistica del maestro Giuseppe Mesiano: la giovane pianista Matilda De Angiolini esegue pagine di Guido Alberto Fano e Maurice Ravel. A cura dell'associazione musicale L'Echo e del Comitato di Quartiere Pasubio Vive APS. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione musicale L'Echo",
+    "fonti": [
+      {
+        "nome": "Comune di Cesano Boscone (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRm_2hH247/",
+        "consultata": "2026-11-05"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-05",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "vini-e-vinili-museo-della-citta-e-del-territorio-corato-2026-11-10",
+    "titolo": "Vini e Vinili: degustazione guidata e musica al Museo di Corato",
+    "categoria": "sagra",
+    "inizio": "2026-11-10T20:00",
+    "luogo": "Museo della Città e del Territorio",
+    "indirizzo": "Via Trilussa, Corato",
+    "comune": "072020",
+    "lat": 41.0965,
+    "lon": 16.3679,
+    "descrizione": "Torna la rassegna di vino e musica, con le cantine Rivera e Crifo e la degustazione guidata di Antonio Amenduni. Posti limitati, prenotazione online. Iniziativa della Pro Loco Quadratum Corato nell'ambito di «Senti che Murgia», con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Quadratum Corato",
+    "fonti": [
+      {
+        "nome": "Pro Loco Corato (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRitTIIPX1/",
+        "consultata": "2026-11-05"
+      }
+    ]
   }
 ]
