@@ -97132,5 +97132,38 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-popolare-della-ricerca-storica-codroipo-2026",
+    "titolo": "Festival popolare della ricerca storica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11",
+    "fine": "2026-11-14",
+    "luogo": "Biblioteca civica «don G. Pressacco» e Teatro Benois De Cecco",
+    "indirizzo": "Codroipo",
+    "cap": null,
+    "comune": "030027",
+    "frazione": null,
+    "lat": 45.95889,
+    "lon": 12.98566,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione del festival con quattro appuntamenti su Grande Guerra, Seconda guerra mondiale, letteratura, storia raccontata a fumetti, tradizioni popolari e memoria di Telecapodistria. Idea di Luca De Clara. Tutti gli incontri sono a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Codroipo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Codroipo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZEtaojZJV/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia"
   }
 ]
