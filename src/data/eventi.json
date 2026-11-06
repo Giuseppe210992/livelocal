@@ -97797,5 +97797,38 @@
     "lat": 45.04154,
     "lon": 9.71813,
     "descrizione": "Il 12 e 13 dicembre 2026 il Laboratorio Aperto di Piacenza ospita Creare. Questo mercatino di alto artigianato si trova in Piazza Casali 10."
+  },
+  {
+    "slug": "botticino-doc-santa-maria-assunta-visita-botticino-2026-11-08",
+    "titolo": "Botticino D.O.C.: Santa Maria Assunta. Un filo tra arte e filantropi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T15:00",
+    "fine": null,
+    "luogo": "Chiesa parrocchiale di Santa Maria Assunta",
+    "indirizzo": "Piazza IV Novembre, Botticino Sera",
+    "cap": null,
+    "comune": "017023",
+    "frazione": null,
+    "lat": 45.55004,
+    "lon": 10.31401,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla chiesa parrocchiale di Santa Maria Assunta con Marisa Fanconi dell'Associazione Bresciastory, di circa due ore, seguita da degustazione di vino Botticino D.O.C. alle Cantine Franzoni. Gratuita fino a esaurimento posti; prenotazioni sul sito del Museo del Marmo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Botticino",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Botticino (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfE3o9clK4F/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia"
   }
 ]
