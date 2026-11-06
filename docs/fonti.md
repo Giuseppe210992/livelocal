@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-06. **938 pagine di 644 siti** hanno dato eventi; 166 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-06. **987 pagine di 676 siti** hanno dato eventi; 169 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -863,13 +863,20 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Culture Roma - Casa del Cinema 2025-2026 | ufficiale | 56 | https://culture.roma.it/manifestazione/casa-del-cinema-2025-2026 (+4 altre pagine) | 2026-11-06 |
 | CastellInforma - Frascati | aggregatore | 24 | https://www.castellinforma.it/home/?st=town&ts=Frascati (+2 altre pagine) | 2026-11-05 |
+| Teatro Ghione - spettacoli in programmazione | ufficiale | 23 | https://www.teatroghione.it/eventi (+1 altre pagine) | 2026-11-06 |
+| Roma Sotterranea (programma visite) | organizzatore | 20 | https://www.visiteromasotterranea.it/tour/programs | 2026-11-06 |
+| RomaToday | stampa | 17 | https://www.romatoday.it/eventi/roma-jazz-festival-1-24-novembre-2026.html (+2 altre pagine) | 2026-11-06 |
 | Accademia Nazionale di Santa Cecilia – calendario concerti | ufficiale | 14 | https://santacecilia.it/concerti/calendario-concerti | 2026-11-06 |
 | Teatro di Roma - Teatro Torlonia | ufficiale | 14 | https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia (+3 altre pagine) | 2026-11-06 |
 | Teatro Brancaccio - Stagione 2026-2027 | ufficiale | 13 | https://teatrobrancaccio.it/stagione-sezione/stagione-2026-2027 | 2026-12-04 |
 | Teatro Ambra Jovinelli - Figli | ufficiale | 12 | https://www.ambrajovinelli.org/figli-dal-9-al-20-dicembre-2026 | 2026-11-06 |
 | Romaeuropa Festival - programma | organizzatore | 11 | https://romaeuropa.net/programma | 2026-11-06 |
+| Roma Jazz Festival (programma) | organizzatore | 11 | https://romajazzfestival.it/programma | 2026-11-06 |
+| Eliseo Teatro - Meno di due | ufficiale | 10 | https://eliseoteatro.it/spettacoli/piccolo-eliseo-2026-2027/meno-di-due (+1 altre pagine) | 2026-11-06 |
 | Teatro Manzoni - Programma | ufficiale | 10 | https://teatromanzoniroma.it/programma | 2026-11-06 |
+| Teatro Petrolini - Prossimi spettacoli | ufficiale | 10 | https://www.teatropetrolini.it/spettacoli | 2026-11-06 |
 | Auditorium Parco della Musica – eventi | ufficiale | 9 | https://www.auditorium.com/it/eventi | 2026-11-06 |
 | Teatro Belli - Home | ufficiale | 9 | https://www.teatrobelli.it/ | 2026-11-06 |
 | Biblioteche di Roma - Eventi a Casa della Memoria e della Storia | ufficiale | 8 | https://www.bibliotechediroma.it/opac/news/eventi-a-casa-della-memoria-e-della-storia/30410 | 2026-11-06 |
@@ -880,35 +887,44 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Teatro di Roma - biglietteria Vivaticket | ufficiale | 7 | https://teatrodiroma.vivaticket.it/ | 2026-11-06 |
 | Teatro Quirino - Stagione 2026-2027 | ufficiale | 7 | https://www.teatroquirino.it/stagione-2026-2027 | 2026-11-06 |
 | Teatro Vittoria - Stagione 2026-2027 | ufficiale | 7 | https://www.teatrovittoria.it/ | 2026-11-06 |
-| Roma Capitale - Culture Roma (SomministrArte 2026) | ufficiale | 6 | https://culture.roma.it/manifestazione/somministrarte-2026 | 2026-11-06 |
 | Pro Loco Città di Colleferro, agenda eventi | organizzatore | 6 | https://www.prolococolleferro.it/eventi | 2026-11-04 |
+| Sala Umberto - Stagione 2026-2027 | ufficiale | 6 | https://salaumberto.com/stagione-sezione/stagione-2026-2027 | 2026-11-06 |
+| Teatro Tordinona - Programma | organizzatore | 6 | https://www.tordinonateatro.it/p/programma.html | 2026-11-06 |
 | IUC – Stagione completa | organizzatore | 5 | https://www.concertiiuc.it/stagione-completa | 2026-11-06 |
 | Teatro Parioli Costanzo - Stagione 2026-27 | ufficiale | 5 | https://www.ilparioli.it/mec-category/stagione-teatrale-2026-27 | 2026-11-06 |
+| Roma Unplugged Festival | organizzatore | 5 | https://www.romaunpluggedfestival.it/ | 2026-11-06 |
+| Teatro Golden - Stagione 2026-2027 | ufficiale | 5 | https://www.teatrogolden.it/stagione-2026-2027 | 2026-11-06 |
+| Teatro Trastevere - La stagione 26/27 | ufficiale | 5 | https://www.teatrotrastevere.it/la-stagione | 2026-11-06 |
 | Festival Liszt Albano | organizzatore | 4 | https://festivalisztalbano.it/ | 2026-11-04 |
 | Fondazione Pro Musica e Arte Sacra – XXV Festival | organizzatore | 4 | https://www.fondazionepromusicaeartesacra.org/fondazione/xxiv-festival-internazionale | 2026-11-06 |
 | Mondoreale | stampa | 4 | https://www.mondoreale.it/2026/10/anzio-nasce-anzio-che-legge-cinque-incontri-con-gli-autori-tra-ottobre-e-dicembre | 2026-11-04 |
+| Museo Nazionale Romano | ufficiale | 4 | https://museonazionaleromano.it/evento/il-museo-in-scena (+1 altre pagine) | 2026-11-06 |
 | Palazzo Esposizioni Roma | organizzatore | 4 | https://www.palazzoesposizioniroma.it/ | 2026-11-03 |
+| Parco Regionale dell'Appia Antica – eventi | ufficiale | 3 | https://eventi.parcoappiaantica.it/ | 2026-11-06 |
 | Fondazione Giovanni Pierluigi da Palestrina - Eventi | organizzatore | 3 | https://www.fondazionepierluigipalestrina.it/eventi | 2026-11-06 |
 | Musei Capitolini - Calendario | ufficiale | 3 | https://www.museicapitolini.org/it/calendario | 2026-11-06 |
 | MAXXI - Gordon Matta-Clark | ufficiale | 2 | https://www.maxxi.art/en/events/gordon-matta-clark (+1 altre pagine) | 2026-11-06 |
 | Museo di Roma in Trastevere - The Thin Line | ufficiale | 2 | https://www.museodiromaintrastevere.it/it/cartella-stampa/thin-line (+1 altre pagine) | 2026-11-06 |
 | Rome 15K - info gara | organizzatore | 2 | https://www.rome15k.com/15k-info | 2026-11-06 |
 | Auditorium Conciliazione – calendario | ufficiale | 1 | https://auditoriumconciliazione.it/ | 2026-11-06 |
+| Gallerie Nazionali Barberini Corsini | ufficiale | 1 | https://barberinicorsini.org/evento/barberiniana-ii-tributo-alla-fioritura-delle-arti-romane-nella-prima-meta-del-xvii-secolo | 2026-11-06 |
 | Città metropolitana di Roma Capitale - Eventi | ufficiale | 1 | https://www.cittametropolitanaroma.it/events/event/lanuvio-torna-il-festival-della-maza-tra-storia-sapori-e-tradizioni-antiche | 2026-11-05 |
+| Parco archeologico del Colosseo | ufficiale | 1 | https://colosseo.it/evento/bill-viola-foro-romano | 2026-11-06 |
 | Comune di Fiumicino - Eventi | ufficiale | 1 | https://comune.fiumicino.rm.it/it/eventi/alici-no-strane-a-km-0 | 2026-11-05 |
 | Concerto di Natale in Cattedrale – sito ufficiale | organizzatore | 1 | https://www.concertodinataleincattedrale.it/ | 2026-11-06 |
 | Galleria Borghese - sito ufficiale | ufficiale | 1 | https://galleriaborghese.cultura.gov.it/ | 2026-11-06 |
 | Il Sistina - Mamma Mia 2026 | ufficiale | 1 | https://ilsistina.it/mamma-mia-2026 | 2026-11-06 |
 | Il Tacco di Bacco - Guidonia Montecelio | aggregatore | 1 | https://iltaccodibacco.it/guidonia-montecelio | 2026-11-05 |
+| MoaCasa | organizzatore | 1 | https://www.moacasa.com/ | 2026-11-06 |
 | Palazzo Bonaparte - Mostre | organizzatore | 1 | https://www.mostrepalazzobonaparte.it/mostra-kandinsky.php | 2026-11-06 |
 | Musei di Villa Torlonia - Elisa Montessori | ufficiale | 1 | https://www.museivillatorlonia.it/it/mostra-evento/elisa-montessori-nel-corso-del-tempo | 2026-11-06 |
 | Museo Carlo Bilotti - Marina Bindella. Cosmografie | ufficiale | 1 | https://www.museocarlobilotti.it/it/mostra-evento/marina-bindella-cosmografie | 2026-11-06 |
 | Museo di Roma - Keith Haring | ufficiale | 1 | https://www.museodiroma.it/it/mostra-evento/keith-haring | 2026-11-06 |
 | Museo Napoleonico - Il barocco italiano a Dresda | ufficiale | 1 | https://www.museonapoleonico.it/it/mostra-evento/il-barocco-italiano-dresda-0 | 2026-11-06 |
+| OggiRoma | aggregatore | 1 | https://www.oggiroma.it/eventi/visite-guidate/la-galleria-doria-pamphilj/94899 | 2026-11-06 |
 | Teatro dell'Opera di Roma – stagione 2026/27 | ufficiale | 1 | https://www.operaroma.it/news/il-dolce-suono-mi-colpi-la-stagione-2026-2027-del-teatro-dellopera-di-roma | 2026-11-06 |
 | Più libri più liberi | organizzatore | 1 | https://plpl.it/ | 2026-11-06 |
 | Roma Arte in Nuvola - Info utili | organizzatore | 1 | https://romaarteinnuvola.eu/informazioni | 2026-11-06 |
-| RomaToday – Concerto di Natale alla Chiesa di San Paolo entro le Mura | stampa | 1 | https://www.romatoday.it/eventi/concerto-natale-chiesa-san-paolo-entro-le-mura-17-dicembre-2026.html | 2026-11-06 |
 | Roma Urbs Mundi - percorso e regolamento | organizzatore | 1 | https://www.romaurbsmundi.it/2023/09/26/ecco-il-nuovo-percorso-della-roma-urbs-mundi | 2026-11-06 |
 | Sport e Salute - Corri Libera 2026 | ufficiale | 1 | https://www.sportesalute.eu/primo-piano/corri-libera-2026-roma-corre-contro-la-violenza-sulle-donne-il-15-novembre-torna-la-5-km-dal-colosseo-ai-fori-imperiali-lo-sport-diventa-una-corsa-collettiva-per-la-liberta.html | 2026-11-06 |
 | TrovaSagre | aggregatore | 1 | https://trovasagre.com/en/evento/festival-del-gusto-albano-laziale-rm-2026 | 2026-11-04 |
@@ -1029,14 +1045,31 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Teatro Trianon Viviani – Programmazione | ufficiale | 31 | https://www.teatrotrianon.org/programmazione | 2026-12-02 |
+| Teatro di San Carlo – Prossimi spettacoli | ufficiale | 25 | https://www.teatrosancarlo.it/ (+2 altre pagine) | 2026-11-06 |
 | Comune di Napoli - Giro Giro Napoli 2026 | ufficiale | 16 | https://www.comune.napoli.it/vivere-il-comune/eventi/giro-giro-napoli-2026 | 2026-11-05 |
+| ilbotteghino - concerti in Campania | aggregatore | 13 | https://ilbotteghino.com/concerti-in-campania | 2026-11-06 |
 | Ministero della Cultura | ufficiale | 10 | https://cultura.gov.it/evento/4-novembre-al-mann-2026 (+9 altre pagine) | 2026-11-03 |
+| Museo e Real Bosco di Capodimonte | ufficiale | 9 | https://capodimonte.cultura.gov.it/dal-30-giugno-al-13-dicembre-2026-il-festival-movimentale-al-museo-e-real-bosco-di-capodimonte (+1 altre pagine) | 2026-11-06 |
+| Teatro Augusteo - concerti/eventi 2026/27 | ufficiale | 9 | https://www.teatroaugusteo.it/1/concerti_eventi_2026_27_1363682.html | 2026-11-06 |
+| Città della Scienza – Calendario eventi | ufficiale | 8 | https://www.cittadellascienza.it/calendario-eventi (+2 altre pagine) | 2026-11-06 |
 | Parco Archeologico di Ercolano - Ministero della Cultura | ufficiale | 6 | https://ercolano.cultura.gov.it/ultimi-sabato-disponibili-prenotazioni-ancora-aperte | 2026-11-05 |
+| Teatro Elicantropo | ufficiale | 6 | https://www.teatroelicantropo.com/ | 2026-11-06 |
+| Teatro Diana Napoli | ufficiale | 4 | https://teatrodiana.it/ | 2026-11-06 |
+| Teatro Politeama - Napoli | ufficiale | 4 | https://www.teatropoliteama.it/ | 2026-11-06 |
 | Comune di Forio - Eventi | ufficiale | 3 | https://www.comune.forio.na.it/en-us/vivere-il-comune/eventi (+2 altre pagine) | 2026-11-05 |
+| Napoli da Vivere - Concerti d'Autunno al Conservatorio | stampa | 3 | https://www.napolidavivere.it/2026/09/24/concerti-conservatorio-san-pietro-a-majella | 2026-11-06 |
 | Calendario Eventi isola d'Ischia | aggregatore | 2 | https://eventi.ischia.it/calendario/eventi | 2026-11-05 |
 | Il Taccuino di Bacco - Eventi Mugnano di Napoli e dintorni | aggregatore | 2 | https://iltaccodibacco.it/mugnano-di-napoli | 2026-11-05 |
+| Museo Madre Napoli - Gli anni. Capitolo 3 | ufficiale | 2 | https://www.madrenapoli.it/mostre/living-collapse (+1 altre pagine) | 2026-11-06 |
+| Nuova Orchestra Scarlatti - eventi | organizzatore | 2 | https://www.nuovaorchestrascarlatti.it/eventi | 2026-11-06 |
+| Teatro di Napoli - stagione 2026-2027 | ufficiale | 2 | https://www.teatrodinapoli.it/stagione/stagione-2026-2027 | 2026-11-06 |
+| Università Federico II - Notizie | ufficiale | 2 | https://www.unina.it/it/w/corpi-spazi-suoni-luce-il-cinema-di-mario-martone (+1 altre pagine) | 2026-11-06 |
+| Arte.it - Arte e Resistenza a Napoli | aggregatore | 1 | https://www.arte.it/calendario-arte/napoli/mostra-arte-e-resistenza-a-napoli-il-percorso-creativo-di-marino-mazzacurati-104479 | 2026-11-06 |
 | Comune di Melito di Napoli - Eventi | ufficiale | 1 | https://comune.melito.na.it/vivere-il-comune/eventi | 2026-11-05 |
 | eCampania | stampa | 1 | https://www.ecampania.it/news/cultura/519039/mostre-in-campania-novembre-2026-gli-appuntamenti-da-non-perdere.html | 2026-11-03 |
+| Ocean Film Festival World Tour Italia - date e biglietti | organizzatore | 1 | https://www.oceanfilmfestivalitalia.it/date-e-biglietti.html | 2026-11-06 |
+| Palazzo Reale di Napoli | ufficiale | 1 | https://palazzorealedinapoli.org/evento/casa-corriere-festiaval-2026 | 2026-11-06 |
 | Spazio Mosaico - scheda evento | organizzatore | 1 | https://www.spaziomosaico.it/evento/oltre-gli-stereotipi-25-novembre-boscotrecase | 2026-11-04 |
 
 ### Avellino (AV)
@@ -1345,7 +1378,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-166 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+169 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 

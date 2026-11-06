@@ -603,6 +603,22 @@
    "titolo": "Mostre d'arte - Genova - Eventi d'arte - Esposizioni - Calendario - 11/2026 - Arte.it"
   },
   {
+   "url": "https://www.arte.it/calendario-arte/napoli/mostra-arte-e-resistenza-a-napoli-il-percorso-creativo-di-marino-mazzacurati-104479",
+   "dominio": "arte.it",
+   "nome": "Arte.it - Arte e Resistenza a Napoli",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.arte.it/calendario-arte/padova/2026/11",
    "dominio": "arte.it",
    "nome": "Arte.it - Mostre Padova novembre 2026",
@@ -1088,6 +1104,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "5/1000 - Barattelli Concerti"
+  },
+  {
+   "url": "https://barberinicorsini.org/evento/barberiniana-ii-tributo-alla-fioritura-delle-arti-romane-nella-prima-meta-del-xvii-secolo",
+   "dominio": "barberinicorsini.org",
+   "nome": "Gallerie Nazionali Barberini Corsini",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.basilicataturistica.it/eventi",
@@ -1706,6 +1738,38 @@
    "titolo": ""
   },
   {
+   "url": "https://capodimonte.cultura.gov.it/dal-30-giugno-al-13-dicembre-2026-il-festival-movimentale-al-museo-e-real-bosco-di-capodimonte",
+   "dominio": "capodimonte.cultura.gov.it",
+   "nome": "Museo e Real Bosco di Capodimonte",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 8,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://capodimonte.cultura.gov.it/mostra/andrea-fogli-atlas-partenope",
+   "dominio": "capodimonte.cultura.gov.it",
+   "nome": "Museo e Real Bosco di Capodimonte - mostra",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://carboniaturismo.it/it/events/mese",
    "dominio": "carboniaturismo.it",
    "nome": "Carbonia Turismo – Comune di Carbonia",
@@ -2105,6 +2169,54 @@
    "titolo": ""
   },
   {
+   "url": "https://www.cittadellascienza.it/",
+   "dominio": "cittadellascienza.it",
+   "nome": "Città della Scienza",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.cittadellascienza.it/calendario-eventi",
+   "dominio": "cittadellascienza.it",
+   "nome": "Città della Scienza – Calendario eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.cittadellascienza.it/futuroremoto2026",
+   "dominio": "cittadellascienza.it",
+   "nome": "Città della Scienza",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.cittametropolitanaroma.it/events/event/lanuvio-torna-il-festival-della-maza-tra-storia-sapori-e-tradizioni-antiche",
    "dominio": "cittametropolitanaroma.it",
    "nome": "Città metropolitana di Roma Capitale - Eventi",
@@ -2275,6 +2387,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Scopri i prossimi eventi di musica classica a Teatro Savoia."
+  },
+  {
+   "url": "https://colosseo.it/evento/bill-viola-foro-romano",
+   "dominio": "colosseo.it",
+   "nome": "Parco archeologico del Colosseo",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/calici-di-poesia",
@@ -7513,6 +7641,70 @@
    "titolo": ""
   },
   {
+   "url": "https://culture.roma.it/63-festival-di-nuova-consonanza-tempo",
+   "dominio": "culture.roma.it",
+   "nome": "Culture Roma – Festival di Nuova Consonanza",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 12,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://culture.roma.it/manifestazione/casa-del-cinema-2025-2026",
+   "dominio": "culture.roma.it",
+   "nome": "Culture Roma - Casa del Cinema 2025-2026",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 21,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://culture.roma.it/manifestazione/drag-me-up-queer-art-festival-2026",
+   "dominio": "culture.roma.it",
+   "nome": "Culture Roma – Drag me up",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://culture.roma.it/manifestazione/romaeuropa-festival-2026-kids-family",
+   "dominio": "culture.roma.it",
+   "nome": "Culture Roma – Romaeuropa Kids & Family",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 8,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://culture.roma.it/manifestazione/somministrarte-2026",
    "dominio": "culture.roma.it",
    "nome": "Roma Capitale - Culture Roma (SomministrArte 2026)",
@@ -7833,6 +8025,38 @@
    "titolo": ""
   },
   {
+   "url": "https://eliseoteatro.it/",
+   "dominio": "eliseoteatro.it",
+   "nome": "Eliseo Teatro - Piccolo Eliseo 2026-2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://eliseoteatro.it/spettacoli/piccolo-eliseo-2026-2027/meno-di-due",
+   "dominio": "eliseoteatro.it",
+   "nome": "Eliseo Teatro - Meno di due",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://emiliaromagnaturismo.it/it/eventi",
    "dominio": "emiliaromagnaturismo.it",
    "nome": "",
@@ -8054,6 +8278,22 @@
     "NA"
    ],
    "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://eventi.parcoappiaantica.it/",
+   "dominio": "eventi.parcoappiaantica.it",
+   "nome": "Parco Regionale dell'Appia Antica – eventi",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
@@ -9795,6 +10035,22 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Sotto una buona stella 2026 – Festa inaugurale a Sant'Agata de' Goti | Il Borghista"
+  },
+  {
+   "url": "https://ilbotteghino.com/concerti-in-campania",
+   "dominio": "ilbotteghino.com",
+   "nome": "ilbotteghino - concerti in Campania",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 13,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.ilfaroonline.it/notizie-di-citta/minturno",
@@ -12893,6 +13149,54 @@
    "titolo": ""
   },
   {
+   "url": "https://www.instagram.com/p/DfZcv-xmiE3",
+   "dominio": "instagram.com",
+   "nome": "Instagram Comune di Novellara",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "RE"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.instagram.com/p/DfZPAbFHIv6",
+   "dominio": "instagram.com",
+   "nome": "Instagram Musei Civici Cagliari",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Sardegna"
+   ],
+   "province": [
+    "CA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.instagram.com/p/DfZZ0-XoFqb",
+   "dominio": "instagram.com",
+   "nome": "Instagram Comune di Pescantina",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Veneto"
+   ],
+   "province": [
+    "VR"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.instagram.com/p/DJebCQqsrP3",
    "dominio": "instagram.com",
    "nome": "",
@@ -14253,6 +14557,38 @@
    "titolo": "Calendario Eventi"
   },
   {
+   "url": "https://www.madrenapoli.it/mostre/gli-anni-capitolo-3",
+   "dominio": "madrenapoli.it",
+   "nome": "Museo Madre Napoli - Gli anni. Capitolo 3",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.madrenapoli.it/mostre/living-collapse",
+   "dominio": "madrenapoli.it",
+   "nome": "Museo Madre Napoli - Living Collapse",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.maforlimpopoli.it/sabati-in-famiglia-mani-nella-storia-sabato-12-settembre-3-ottobre-14-novembre-e-19-dicembre",
    "dominio": "maforlimpopoli.it",
    "nome": "MAF - Museo Archeologico di Forlimpopoli",
@@ -14668,6 +15004,22 @@
     "MO"
    ],
    "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.moacasa.com/",
+   "dominio": "moacasa.com",
+   "nome": "MoaCasa",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
@@ -15176,6 +15528,38 @@
    "titolo": ""
   },
   {
+   "url": "https://museonazionaleromano.it/evento/il-museo-in-scena",
+   "dominio": "museonazionaleromano.it",
+   "nome": "Museo Nazionale Romano",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://museonazionaleromano.it/evento/la-grande-trama-il-patrimonio-culturale-nellera-digitale",
+   "dominio": "museonazionaleromano.it",
+   "nome": "Museo Nazionale Romano",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://museotaranto.cultura.gov.it/it",
    "dominio": "museotaranto.cultura.gov.it",
    "nome": "",
@@ -15257,6 +15641,22 @@
    "regioni": [],
    "province": [],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.napolidavivere.it/2026/09/24/concerti-conservatorio-san-pietro-a-majella",
+   "dominio": "napolidavivere.it",
+   "nome": "Napoli da Vivere - Concerti d'Autunno al Conservatorio",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 3,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
@@ -15472,6 +15872,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+   "dominio": "nuovaorchestrascarlatti.it",
+   "nome": "Nuova Orchestra Scarlatti - eventi",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.nuovoteatroverdi.com/programma-stagione-artistica-2026-2027",
    "dominio": "nuovoteatroverdi.com",
    "nome": "Fondazione Nuovo Teatro Verdi – programma stagione 2026-2027",
@@ -15504,6 +15920,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.oceanfilmfestivalitalia.it/date-e-biglietti.html",
+   "dominio": "oceanfilmfestivalitalia.it",
+   "nome": "Ocean Film Festival World Tour Italia - date e biglietti",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.oggiacomo.it/prossimi-eventi",
    "dominio": "oggiacomo.it",
    "nome": "",
@@ -15514,6 +15946,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Prossimi eventi | Oggi a Como"
+  },
+  {
+   "url": "https://www.oggiroma.it/eventi/visite-guidate/la-galleria-doria-pamphilj/94899",
+   "dominio": "oggiroma.it",
+   "nome": "OggiRoma",
+   "tipo": "aggregatore",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.ohbejohbej.it/",
@@ -15865,6 +16313,22 @@
     "BA"
    ],
    "consultata": "2026-11-05",
+   "titolo": ""
+  },
+  {
+   "url": "https://palazzorealedinapoli.org/evento/casa-corriere-festiaval-2026",
+   "dominio": "palazzorealedinapoli.org",
+   "nome": "Palazzo Reale di Napoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
@@ -16903,12 +17367,76 @@
    "titolo": ""
   },
   {
+   "url": "https://romajazzfestival.it/programma",
+   "dominio": "romajazzfestival.it",
+   "nome": "Roma Jazz Festival (programma)",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 11,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.romatoday.it/eventi/concerto-natale-chiesa-san-paolo-entro-le-mura-17-dicembre-2026.html",
    "dominio": "romatoday.it",
    "nome": "RomaToday – Concerto di Natale alla Chiesa di San Paolo entro le Mura",
    "tipo": "stampa",
    "esito": "letta",
    "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.romatoday.it/eventi/roald-dahl-al-cinema-troisi-la-rassegna-8-novembre-27-dicembre-2026.html",
+   "dominio": "romatoday.it",
+   "nome": "RomaToday - Roald Dahl al Cinema Troisi",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.romatoday.it/eventi/roma-jazz-festival-1-24-novembre-2026.html",
+   "dominio": "romatoday.it",
+   "nome": "RomaToday",
+   "tipo": "stampa",
+   "esito": "letta",
+   "eventi": 11,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.romaunpluggedfestival.it/",
+   "dominio": "romaunpluggedfestival.it",
+   "nome": "Roma Unplugged Festival",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 5,
    "regioni": [
     "Lazio"
    ],
@@ -17241,6 +17769,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Teatro"
+  },
+  {
+   "url": "https://salaumberto.com/stagione-sezione/stagione-2026-2027",
+   "dominio": "salaumberto.com",
+   "nome": "Sala Umberto - Stagione 2026-2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://salentosagreeventi.it/events/san-martino-in-piazza-monteroni-di-lecce-2026",
@@ -18048,6 +18592,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatroaugusteo.it/1/concerti_eventi_2026_27_1363682.html",
+   "dominio": "teatroaugusteo.it",
+   "nome": "Teatro Augusteo - concerti/eventi 2026/27",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatrobelli.it/",
    "dominio": "teatrobelli.it",
    "nome": "Teatro Belli - Home",
@@ -18332,6 +18892,38 @@
    "titolo": ""
   },
   {
+   "url": "https://teatrodiana.it/",
+   "dominio": "teatrodiana.it",
+   "nome": "Teatro Diana Napoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatrodinapoli.it/stagione/stagione-2026-2027",
+   "dominio": "teatrodinapoli.it",
+   "nome": "Teatro di Napoli - stagione 2026-2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://teatrodipisa.it/",
    "dominio": "teatrodipisa.it",
    "nome": "Teatro di Pisa - Teatro Verdi, stagione 2026-2027",
@@ -18444,6 +19036,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatroelicantropo.com/",
+   "dominio": "teatroelicantropo.com",
+   "nome": "Teatro Elicantropo",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatrofenaroli.it/",
    "dominio": "teatrofenaroli.it",
    "nome": "Teatro Fenaroli Lanciano",
@@ -18488,6 +19096,38 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatroghione.it/eventi",
+   "dominio": "teatroghione.it",
+   "nome": "Teatro Ghione - spettacoli in programmazione",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 22,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatroghione.it/spettacoli/a-christmas-carol-2026",
+   "dominio": "teatroghione.it",
+   "nome": "Teatro Ghione - A CHRISTMAS CAROL",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://www.teatrogiordano.it/calendario.html",
    "dominio": "teatrogiordano.it",
    "nome": "Teatro Umberto Giordano - Calendario",
@@ -18502,6 +19142,22 @@
    ],
    "consultata": "2026-11-04",
    "titolo": "Calendario - Teatro Umberto Giordano"
+  },
+  {
+   "url": "https://www.teatrogolden.it/stagione-2026-2027",
+   "dominio": "teatrogolden.it",
+   "nome": "Teatro Golden - Stagione 2026-2027",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://teatrogrande.it/calendario",
@@ -18788,6 +19444,22 @@
    "titolo": ""
   },
   {
+   "url": "https://www.teatropetrolini.it/spettacoli",
+   "dominio": "teatropetrolini.it",
+   "nome": "Teatro Petrolini - Prossimi spettacoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 10,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://teatropietrodabano.it/en/eventi-teatro",
    "dominio": "teatropietrodabano.it",
    "nome": "Teatro Pietro d'Abano",
@@ -18801,6 +19473,22 @@
     "PD"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatropoliteama.it/",
+   "dominio": "teatropoliteama.it",
+   "nome": "Teatro Politeama - Napoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 4,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
@@ -18878,6 +19566,54 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Teatro Rendano Cosenza"
+  },
+  {
+   "url": "https://www.teatrosancarlo.it/",
+   "dominio": "teatrosancarlo.it",
+   "nome": "Teatro di San Carlo – Prossimi spettacoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatrosancarlo.it/spettacoli",
+   "dominio": "teatrosancarlo.it",
+   "nome": "Teatro di San Carlo - calendario spettacoli",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 9,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatrosancarlo.it/spettacoli/luisa-miller",
+   "dominio": "teatrosancarlo.it",
+   "nome": "Teatro di San Carlo - Luisa Miller",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 7,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.teatrosanteodoro.it/",
@@ -19095,6 +19831,38 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Teatro Stabile del Veneto"
+  },
+  {
+   "url": "https://www.teatrotrastevere.it/la-stagione",
+   "dominio": "teatrotrastevere.it",
+   "nome": "Teatro Trastevere - La stagione 26/27",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 5,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.teatrotrianon.org/programmazione",
+   "dominio": "teatrotrianon.org",
+   "nome": "Teatro Trianon Viviani – Programmazione",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 31,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-12-02",
+   "titolo": ""
   },
   {
    "url": "https://www.teatroudine.it/",
@@ -19540,6 +20308,22 @@
    "province": [],
    "consultata": "2026-11-03",
    "titolo": "Pricing | TinyFish"
+  },
+  {
+   "url": "https://www.tordinonateatro.it/p/programma.html",
+   "dominio": "tordinonateatro.it",
+   "nome": "Teatro Tordinona - Programma",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 6,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://touristofficeapp.com/it/caorle/eventi/caorle-christmas-time?id=0c223060-d6ba-4c53-bdd0-08deccf693f0",
@@ -20087,6 +20871,38 @@
    "titolo": "home"
   },
   {
+   "url": "https://www.unina.it/it/w/corpi-spazi-suoni-luce-il-cinema-di-mario-martone",
+   "dominio": "unina.it",
+   "nome": "Università Federico II - Notizie",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.unina.it/it/w/la-memoria-della-terra-12-tappe-per-leggere-la-storia-geologica-dell-italia",
+   "dominio": "unina.it",
+   "nome": "Università Federico II - Notizie",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 1,
+   "regioni": [
+    "Campania"
+   ],
+   "province": [
+    "NA"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
+  },
+  {
    "url": "https://unionetresinarosecchia.it/eventi?comune=Casalgrande",
    "dominio": "unionetresinarosecchia.it",
    "nome": "Unione Tresinaro Secchia - agenda Casalgrande",
@@ -20612,6 +21428,22 @@
     "BL"
    ],
    "consultata": "2026-11-04",
+   "titolo": ""
+  },
+  {
+   "url": "https://www.visiteromasotterranea.it/tour/programs",
+   "dominio": "visiteromasotterranea.it",
+   "nome": "Roma Sotterranea (programma visite)",
+   "tipo": "organizzatore",
+   "esito": "letta",
+   "eventi": 20,
+   "regioni": [
+    "Lazio"
+   ],
+   "province": [
+    "RM"
+   ],
+   "consultata": "2026-11-06",
    "titolo": ""
   },
   {
