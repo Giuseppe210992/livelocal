@@ -97697,5 +97697,39 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "slug": "capodanno-2026-bertinoro",
+    "titolo": "Festeggiamo insieme Capodanno 2026 a Bertinoro",
+    "categoria": "teatro",
+    "inizio": "2026-12-31T22:00",
+    "fine": null,
+    "luogo": "Teatro Ex Seminario Novelli",
+    "indirizzo": "Bertinoro",
+    "cap": null,
+    "comune": "040003",
+    "frazione": null,
+    "lat": 44.15685,
+    "lon": 12.14525,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di fine anno con lo spettacolo comico «Amamaz» del duo Pizzol-Bartolini e il concerto dei Molleggiati, omaggio ad Adriano Celentano. Brindisi di mezzanotte per tutti. Posti assegnati in base alla cronologia di vendita.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bertinoro",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Bertinoro (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfFZvlglP-v/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia"
   }
 ]
