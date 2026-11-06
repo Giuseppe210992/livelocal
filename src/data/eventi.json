@@ -97731,5 +97731,71 @@
     ],
     "inserito": "2026-11-06",
     "inseritoDa": "ia"
+  },
+  {
+    "categoria": "mercatino",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Natale a Piacenza",
+    "fonti": [
+      {
+        "nome": "Visit Piacenza - Natale a Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://visitpiacenza.it/events/natale-a-piacenza/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "slug": "a-mano-market-auditorium-sant-ilario-piacenza",
+    "titolo": "A/Mano market (Piacenza, novembre)",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Auditorium Sant'Ilario",
+    "indirizzo": "Piacenza",
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "descrizione": "Il 28 e 29 novembre 2026 l'Auditorium Sant'Ilario di Piacenza ospita A/Mano market. Si tratta di un mercato dedicato ai prodotti artigianali."
+  },
+  {
+    "categoria": "mercatino",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Natale a Piacenza",
+    "fonti": [
+      {
+        "nome": "Visit Piacenza - Natale a Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://visitpiacenza.it/events/natale-a-piacenza/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "slug": "creare-mercatino-alto-artigianato-piacenza",
+    "titolo": "Creare, mercatino di alto artigianato a Piacenza",
+    "inizio": "2026-12-12",
+    "fine": "2026-12-13",
+    "luogo": "Laboratorio Aperto - ex chiesa del Carmine",
+    "indirizzo": "Piazza Casali 10",
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "descrizione": "Il 12 e 13 dicembre 2026 il Laboratorio Aperto di Piacenza ospita Creare. Questo mercatino di alto artigianato si trova in Piazza Casali 10."
   }
 ]

@@ -208,7 +208,7 @@
    "nome": "Agendaonline.it",
    "tipo": "aggregatore",
    "esito": "letta",
-   "eventi": 2,
+   "eventi": 1,
    "regioni": [
     "Campania"
    ],
@@ -3171,10 +3171,10 @@
   {
    "url": "https://www.comune.brindisi.it/novita/nuovo-teatro-verdi-presentata-la-stagione-2026-27-una-costellazione-di-storie",
    "dominio": "comune.brindisi.it",
-   "nome": "Comune di Brindisi - stagione 2026-27 del Nuovo Teatro Verdi",
+   "nome": "Comune di Brindisi – stagione 2026-27 del Nuovo Teatro Verdi",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 9,
+   "eventi": 5,
    "regioni": [
     "Puglia"
    ],
@@ -14942,7 +14942,7 @@
    "nome": "MilanoToday",
    "tipo": "stampa",
    "esito": "letta",
-   "eventi": 9,
+   "eventi": 8,
    "regioni": [
     "Lombardia"
    ],
@@ -14951,7 +14951,6 @@
     "LC",
     "MB",
     "MI",
-    "MN",
     "PV",
     "SO"
    ],
@@ -17356,7 +17355,7 @@
    "nome": "Romaeuropa Festival - programma",
    "tipo": "organizzatore",
    "esito": "letta",
-   "eventi": 11,
+   "eventi": 9,
    "regioni": [
     "Lazio"
    ],
@@ -18098,16 +18097,12 @@
   {
    "url": "https://simulecco.it/iniziative-culturali",
    "dominio": "simulecco.it",
-   "nome": "SiMUL - Sistema museale urbano lecchese",
-   "tipo": "ufficiale",
+   "nome": "",
+   "tipo": "",
    "esito": "letta",
-   "eventi": 1,
-   "regioni": [
-    "Lombardia"
-   ],
-   "province": [
-    "LC"
-   ],
+   "eventi": 0,
+   "regioni": [],
+   "province": [],
    "consultata": "2026-11-03",
    "titolo": "Iniziative Culturali - SiMUL"
   },
@@ -18223,7 +18218,7 @@
    "nome": "SiViaggia",
    "tipo": "stampa",
    "esito": "letta",
-   "eventi": 3,
+   "eventi": 2,
    "regioni": [
     "Puglia"
    ],
@@ -19009,7 +19004,7 @@
    "nome": "Teatro di Roma - biglietteria Vivaticket",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 7,
+   "eventi": 6,
    "regioni": [
     "Lazio"
    ],
@@ -19573,7 +19568,7 @@
    "nome": "Teatro di San Carlo – Prossimi spettacoli",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 9,
+   "eventi": 2,
    "regioni": [
     "Campania"
    ],
@@ -19589,7 +19584,7 @@
    "nome": "Teatro di San Carlo - calendario spettacoli",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 9,
+   "eventi": 7,
    "regioni": [
     "Campania"
    ],
@@ -19854,7 +19849,7 @@
    "nome": "Teatro Trianon Viviani – Programmazione",
    "tipo": "ufficiale",
    "esito": "letta",
-   "eventi": 31,
+   "eventi": 25,
    "regioni": [
     "Campania"
    ],
@@ -19870,7 +19865,7 @@
    "nome": "Teatro Nuovo Giovanni da Udine",
    "tipo": "organizzatore",
    "esito": "letta",
-   "eventi": 4,
+   "eventi": 3,
    "regioni": [
     "Friuli-Venezia Giulia"
    ],
@@ -21829,6 +21824,22 @@
    "province": [],
    "consultata": "2026-11-04",
    "titolo": "Eventi in programma - VisitOssola"
+  },
+  {
+   "url": "https://visitpiacenza.it/events/natale-a-piacenza",
+   "dominio": "visitpiacenza.it",
+   "nome": "Visit Piacenza - Natale a Piacenza",
+   "tipo": "ufficiale",
+   "esito": "letta",
+   "eventi": 2,
+   "regioni": [
+    "Emilia-Romagna"
+   ],
+   "province": [
+    "PC"
+   ],
+   "consultata": "2026-11-06",
+   "titolo": ""
   },
   {
    "url": "https://www.visitpiemonte.com/en",
