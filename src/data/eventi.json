@@ -76850,5 +76850,70 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "a-cosa-serve-la-filosofia-incontri-al-museo-castel-goffredo-2026",
+    "titolo": "Incontri al museo: A cosa serve la filosofia?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:30",
+    "luogo": "MAST - Museo Alta Terra Mantovana",
+    "indirizzo": "Castel Goffredo",
+    "comune": "020015",
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "descrizione": "Serata di filosofia per accendere la meraviglia, abitare il dubbio e guardare il mondo con occhi nuovi. Biglietto 12 euro (10 con il pacchetto tre incontri); iscrizione entro 3 giorni prima dell'incontro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "organizzatore": "Comune di Castel Goffredo",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXu5Drgjrx/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-21T12:00",
+    "prenotazione": null,
+    "slug": "1946-la-scelta-archivio-storico-massa-lombarda-2026",
+    "titolo": "Open day dell'Archivio storico: «1946 la Scelta»",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T10:00",
+    "luogo": "Archivio Storico Comunale",
+    "indirizzo": "Via Bagnarolo 12/b",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "descrizione": "Nell'Open day degli Archivi storici della Bassa Romagna, apertura con la mostra «1946 la Scelta. La vigilia del referendum tra ordini prefestivi e avvisi sindacali». Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Massa Lombarda, Archivi storici della Bassa Romagna",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXuDKMAgO8/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
