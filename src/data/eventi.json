@@ -97498,5 +97498,138 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "dalle-ombre-del-vapore-alla-luce-dell-arte-cagliari-2026-11-07",
+    "titolo": "Dalle ombre del vapore alla luce dell'arte: come il Musée d'Orsay ha rivoluzionato il nostro sguardo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T16:00",
+    "luogo": "Galleria Comunale d'Arte",
+    "indirizzo": "Giardini Pubblici, Cagliari",
+    "comune": "118006",
+    "lat": 39.2205,
+    "lon": 9.113,
+    "descrizione": "Conferenza dello storico dell'arte Giorgio Muceli nel ciclo «Alla scoperta dei grandi musei», dedicato ai musei italiani e internazionali. Dedicata al Musée d'Orsay. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "fonti": [
+      {
+        "nome": "Musei Civici Cagliari (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRgokCmU5a/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "passeggiar-narrando-nave-2026-11-07",
+    "titolo": "Passeggiar narrando",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07T15:00",
+    "luogo": "Sagrato della Chiesa parrocchiale di Santa Maria Immacolata",
+    "indirizzo": "Nave",
+    "comune": "017117",
+    "lat": 45.58986,
+    "lon": 10.28763,
+    "descrizione": "Passeggiata di circa un'ora curata da Teatro19 e dai partecipanti al laboratorio: una mappa di passi e ricordi di persone over 65 per scoprire Nave. Alla fine tè caldo. Partenza dal sagrato; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Nave e Teatro19",
+    "fonti": [
+      {
+        "nome": "Comune di Nave (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR4_2zDdm1/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "serata-burraco-orzinuovi-2026-11-10",
+    "titolo": "Serata del Burraco a Orzinuovi (10 novembre)",
+    "categoria": "sport",
+    "inizio": "2026-11-10T20:15",
+    "luogo": "Enoteca Ottagono (sede temporanea)",
+    "indirizzo": "Viale Adua, Orzinuovi",
+    "comune": "017125",
+    "lat": 45.3985,
+    "lon": 9.9365,
+    "descrizione": "Serata di burraco nella sede temporanea dell'Enoteca Ottagono, per la manutenzione della sala Bortolo Zanotti. Altre date: 10 e 24 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Orzinuovi",
+    "fonti": [
+      {
+        "nome": "Comune di Orzinuovi (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR7x7bREiQ/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "serata-burraco-orzinuovi-2026-11-24",
+    "titolo": "Serata del Burraco a Orzinuovi (24 novembre)",
+    "categoria": "sport",
+    "inizio": "2026-11-24T20:15",
+    "luogo": "Enoteca Ottagono (sede temporanea)",
+    "indirizzo": "Viale Adua, Orzinuovi",
+    "comune": "017125",
+    "lat": 45.3985,
+    "lon": 9.9365,
+    "descrizione": "Serata di burraco nella sede temporanea dell'Enoteca Ottagono, per la manutenzione della sala Bortolo Zanotti. Altre date: 10 e 24 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Orzinuovi",
+    "fonti": [
+      {
+        "nome": "Comune di Orzinuovi (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR7x7bREiQ/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
