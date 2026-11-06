@@ -57346,8 +57346,8 @@
   {
     "frazione": null,
     "coordinateApprossimate": true,
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
+    "stato": "rinviato",
+    "inizioPrecedente": "2026-11-07T09:30",
     "inserito": "2026-11-05",
     "inseritoDa": "ia",
     "fine": null,
@@ -57355,7 +57355,7 @@
     "slug": "un-albero-per-ogni-neonato-cavidole-castelnuovo-rangone-2026",
     "titolo": "Un albero per ogni neonato a Cavidole",
     "categoria": "cerimonia",
-    "inizio": "2026-11-07T09:30",
+    "inizio": "2026-11-14T09:30",
     "luogo": "Via Nizzola (ritrovo)",
     "indirizzo": "Via Nizzola, Cavidole, Castelnuovo Rangone",
     "comune": "036007",
@@ -57372,6 +57372,12 @@
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfSZLPmgJLF/",
         "consultata": "2026-11-05"
+      },
+      {
+        "nome": "Instagram Comune di Castelnuovo Rangone (rinvio)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW-1Q3Cehb/",
+        "consultata": "2026-11-06"
       }
     ]
   },
@@ -77040,6 +77046,102 @@
         "nome": "Instagram Comune di Casalgrande",
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfW0guJjApn/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "gran-premio-del-brasile-in-diretta-auditorium-enzo-ferrari-maranello-2026",
+    "titolo": "Gran Premio del Brasile in diretta all'Auditorium Enzo Ferrari",
+    "categoria": "sport",
+    "inizio": "2026-11-08T18:00",
+    "luogo": "Auditorium Enzo Ferrari",
+    "indirizzo": "Maranello",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "descrizione": "Proiezione in diretta della gara di Formula 1 a Maranello. Ingresso gratuito fino a esaurimento posti; l'Auditorium apre al pubblico trenta minuti prima dell'inizio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Maranello",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfWcg6Xj9cI/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "tour-de-france-prehistorica-editore-biblioteca-castel-goffredo-2026",
+    "titolo": "Tour de France con Prehistorica Editore",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Piazza Matteotti 7",
+    "comune": "020015",
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "descrizione": "Incontro con la casa editrice Prehistorica, unica in Italia dedicata solo alla letteratura francese, tra stile, ricerca linguistica e narrativa. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Castel Goffredo",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW-z-NjKzo/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-17",
+    "prenotazione": null,
+    "slug": "la-pace-si-fa-strada-mostra-massa-lombarda-2026",
+    "titolo": "La pace si fa strada: mostra sulla marcia Fusignano-Marzabotto",
+    "categoria": "mostra",
+    "inizio": "2026-11-06",
+    "luogo": "Sala del Carmine",
+    "indirizzo": "Via Rustici 2",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "descrizione": "Mostra documentaria sulla marcia per la pace di 90 chilometri Fusignano-Marzabotto del 6-8 ottobre 1961. Inaugurazione venerdì 6 novembre alle 18:00 con gli interventi di istituzioni e promotori; la mostra resta aperta fino al 17 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massa Lombarda",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW-1SWHwxR/",
         "consultata": "2026-11-06"
       }
     ]
