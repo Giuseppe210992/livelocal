@@ -77209,5 +77209,69 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "piazza-rovente-presentazione-libro-francavilla-fontana-2026",
+    "titolo": "Presentazione del libro «Francavilla Fontana. Piazza rovente»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T18:00",
+    "luogo": "Castello Imperiali",
+    "indirizzo": "Francavilla Fontana",
+    "comune": "074008",
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "descrizione": "Presentazione del volume «Francavilla Fontana. Piazza rovente – Il fuoco non purifica» di Alessandro Rodia, che ricostruisce con documenti e fonti inedite una pagina dimenticata della storia cittadina. Con i saluti del sindaco e del prefetto di Brindisi; conduce Francesco Carriere dell'Università di Bari. Con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Francavilla Fontana (patrocinio)",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUeMX2DTdB/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-11T18:00",
+    "prenotazione": null,
+    "slug": "ritratti-di-noi-laboratorio-creativo-goito-2026-11-11",
+    "titolo": "Ritratti di noi: laboratorio creativo per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-11-11T16:30",
+    "luogo": "Centro Arcobaleno",
+    "indirizzo": "Goito",
+    "comune": "020026",
+    "lat": 45.25036,
+    "lon": 10.66094,
+    "descrizione": "Laboratorio della Biblioteca condotto da Arianna Maiocchi per bambine e bambini di 7-11 anni: con forme, colori e materiali si scoprono il proprio volto e la relazione con l'altro, fino a un'opera collettiva. Gratuito, posti limitati, prenotazione obbligatoria presso la biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Biblioteca di Goito",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Goito",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUUURyxesD/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
