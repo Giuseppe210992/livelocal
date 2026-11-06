@@ -81364,5 +81364,37 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22",
+    "prenotazione": null,
+    "slug": "celebrazioni-san-martino-patrono-magenta-2026",
+    "titolo": "Celebrazioni di San Martino a Magenta",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-06",
+    "luogo": "Centro storico e Basilica di San Martino",
+    "indirizzo": "Magenta",
+    "comune": "015130",
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "descrizione": "Calendario di iniziative religiose, culturali e popolari dal 6 al 22 novembre: l'8 novembre Messa Solenne Internazionale e apertura della Perdonanza di San Martino; l'11 novembre Festa liturgica, Concerto di San Martino in Basilica e assegnazione del 27° San Martino d'Oro. Promosse da Comune, Comunità Pastorale e Pro Loco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Magenta, Comunità Pastorale e Pro Loco",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUqu49DQra/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
