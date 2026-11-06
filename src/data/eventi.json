@@ -81396,5 +81396,134 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-07T12:00",
+    "prenotazione": null,
+    "slug": "carezze-di-suoni-laboratorio-biblioteca-guastalla-2026",
+    "titolo": "Carezze di suoni: musica e libri per i più piccoli",
+    "categoria": "bambini",
+    "inizio": "2026-11-07T10:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Guastalla",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "descrizione": "Laboratorio multisensoriale tra ritmo, canto, movimento e libri, a cura di Sara Ancelotti (Cooperativa Charta), in due turni: alle 10 per bambini da 0 a 12 mesi, alle 11 per bambini da 13 a 24 mesi. Posti limitati, prenotazione obbligatoria presso la biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Biblioteca di Guastalla",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUI27UgcC_/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "orientamento-scolastico-desiderio-e-talento-magenta-2026",
+    "titolo": "Sostenere desiderio e talento: incontro sull'orientamento scolastico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T21:00",
+    "luogo": "Sala Consiliare",
+    "indirizzo": "via Fornaroli 30",
+    "comune": "015130",
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "descrizione": "Incontro per le famiglie di studenti delle classi seconde e terze delle scuole medie sulla scelta della scuola superiore, con l'assessore Giampiero Chiodini e Stefano Gheno, specialista di psicologia del lavoro (Università Cattolica).",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Assessorato alle Scuole e all'Educazione di Magenta",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUA66uNwvm/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "camminata-alpina-cortine-nave-2026",
+    "titolo": "5ª Camminata Alpina a Cortine",
+    "categoria": "sport",
+    "inizio": "2026-11-07T16:00",
+    "luogo": "Sede del Gruppo Alpini Cortine (partenza)",
+    "indirizzo": "via Prada, Cortine",
+    "comune": "017117",
+    "lat": 45.58986,
+    "lon": 10.28763,
+    "descrizione": "Camminata non competitiva aperta a tutti nel circuito «10 camminate»: percorso tra Villa Zanardelli, cascina Mezzana, cascina Navazze e Val Listrea con ristori e stand gastronomico finale. Obbligatoria la pila frontale. Iscrizione 12 euro, gratis sotto i 10 anni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "organizzatore": "Gruppo Alpini Cortine, con il patrocinio del Comune di Nave",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Nave",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfU9s0FHUHF/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2027-01-06",
+    "prenotazione": null,
+    "slug": "mercatino-di-natale-piazza-cappelletti-desenzano-2026",
+    "titolo": "Mercatino di Natale in Piazza Cappelletti",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14",
+    "luogo": "Piazza Cappelletti",
+    "indirizzo": "Desenzano del Garda",
+    "comune": "017067",
+    "lat": 45.45394,
+    "lon": 10.56427,
+    "descrizione": "Per la prima volta un villaggio natalizio con 37 casette in legno, tra artigianato, idee regalo e prodotti tipici, con proiezioni luminose e 16 spettacoli itineranti. Aperto tutti i sabati e le domeniche, il 7 e 8 dicembre e ogni giorno dal 26 dicembre al 6 gennaio. Si parte il 14 novembre con la Jingle Band e il 15 con lo spettacolo di bolle di sapone, dalle 16 alle 18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Desenzano del Garda",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Desenzano del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfU9MTYM9LP/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
