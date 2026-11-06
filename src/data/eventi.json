@@ -88230,5 +88230,101 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-29T18:30",
+    "prenotazione": null,
+    "slug": "le-amazzoni-e-i-corpi-non-conformi-mostra-novellara-2026",
+    "titolo": "Le Amazzoni e i corpi non conformi: mostra di Domitilla Marzuoli",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T10:30",
+    "luogo": "Ex Macello Comunale",
+    "indirizzo": "Via Pietro Mascagni 13",
+    "comune": "035028",
+    "lat": 44.8452,
+    "lon": 10.7087,
+    "descrizione": "Mostra d'arte sulla pluralità dei corpi e delle identità. Inaugurazione sabato 14 novembre: alle 10:30 visita guidata e talk con l'artista, alle 16:30 laboratorio «Collage e Manifesto Attivista». Aperta sabato e domenica 10:00-12:30 e 15:30-18:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Novellara",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Novellara",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZcv-xmiE3/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "racconti-sul-ciclismo-con-gianni-bugno-pescantina-2026",
+    "titolo": "Racconti sul ciclismo con Gianni Bugno",
+    "categoria": "sport",
+    "inizio": "2026-11-06T20:45",
+    "luogo": "Teatro Guido Bianchi",
+    "indirizzo": "Pescantina",
+    "comune": "023058",
+    "lat": 45.49065,
+    "lon": 10.86121,
+    "descrizione": "Serata sul grande ciclismo con Gianni Bugno, due volte campione del mondo, e altri protagonisti del ciclismo professionistico e dilettantistico; conduce Luciano Purgato. Verrà presentato anche lo studio di fattibilità per il restauro del Velodromo San Lorenzo. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Pro Loco Ospedaletto e Comune di Pescantina",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Pescantina",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZZ0-XoFqb/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-12T17:00",
+    "prenotazione": null,
+    "slug": "primi-passi-nella-lettura-galleria-comunale-arte-cagliari-2026",
+    "titolo": "Primi passi nella lettura: libri tattili e sonori per i piccoli",
+    "categoria": "bambini",
+    "inizio": "2026-11-12T16:00",
+    "luogo": "Biblioteca Specialistica, Galleria Comunale d'Arte",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "descrizione": "Incontro per bambini da 0 a 2 anni con un genitore o accompagnatore, per sperimentare forme diverse di lettura, tra cui libri tattili e sonori. Durata un'ora, massimo 15 partecipanti, ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZPAbFHIv6/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
