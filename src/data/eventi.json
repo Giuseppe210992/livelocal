@@ -97631,5 +97631,71 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-30",
+    "prenotazione": null,
+    "cap": null,
+    "slug": "dreams-giorgio-bormida-albissola-marina-2026-11",
+    "titolo": "Dreams di Giorgio Bormida – Vetrina d'Artista",
+    "categoria": "mostra",
+    "inizio": "2026-11-02",
+    "luogo": "Centro Artigianale Restauri",
+    "indirizzo": "Via Repetto 18, Albissola Marina",
+    "comune": "009003",
+    "lat": 44.33218,
+    "lon": 8.49337,
+    "descrizione": "Percorso fotografico di Giorgio Bormida, artista visivo e fotografo, nella Vetrina d'Artista del Centro Artigianale Restauri. Aperta dal lunedì al sabato, ore 9-19.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Visit Albissola",
+    "fonti": [
+      {
+        "nome": "Visit Albissola (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/De86RqWiPdW/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "concerto-fanfara-carabinieri-villa-d-alme-2026-11-07",
+    "titolo": "Concerto della Fanfara del III Reggimento Carabinieri Lombardia",
+    "categoria": "concerto",
+    "inizio": "2026-11-07",
+    "luogo": "Teatro Serassi",
+    "indirizzo": "Via Sereno Locatelli Milesi, Villa d'Almè",
+    "comune": "016239",
+    "lat": 45.75318,
+    "lon": 9.62367,
+    "descrizione": "Concerto per il 75° anniversario della Sezione di Villa d'Almè dell'Associazione Nazionale Carabinieri, fondata l'11 marzo 1951. Orario non indicato dalla fonte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Almè",
+    "fonti": [
+      {
+        "nome": "Comune di Almè (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/De_9iXrG4Kz/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
