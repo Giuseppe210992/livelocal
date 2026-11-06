@@ -76979,5 +76979,69 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "disegniamo-insieme-un-mondo-gentile-massarosa-2026",
+    "titolo": "Disegniamo insieme un mondo gentile",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T16:00",
+    "luogo": "Municipio",
+    "indirizzo": "Massarosa",
+    "comune": "046018",
+    "lat": 43.87004,
+    "lon": 10.32576,
+    "descrizione": "Nella Giornata Mondiale della Gentilezza, bambini e famiglie sono invitati in Municipio per una merenda condivisa, per colorare insieme una grande illustrazione, che resterà esposta in Comune a Natale, e per trasformare il proprio disegno in una spilla. Con i grafici e disegnatori di Disegnata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massarosa, Disegnata",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massarosa",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW7YxpxqtE/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "quanta-vita-c-e-quattro-stagioni-vivaldi-casalgrande-2026",
+    "titolo": "Quanta vita c'è. Note e parole di cura",
+    "categoria": "concerto",
+    "inizio": "2026-11-10T20:30",
+    "luogo": "Teatro Fabrizio De André",
+    "indirizzo": "Casalgrande",
+    "comune": "035012",
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "descrizione": "Le Quattro Stagioni di Vivaldi intrecciate a letture su relazioni e cura: Orchestra Dedicata con Daniele Ruzza al violino e Maria Antonietta Centoducati voce recitante. Ingresso a offerta libera: il ricavato sostiene il progetto InVita. Promosso dal Lions Club Scandiano con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "organizzatore": "Lions Club Scandiano, InVita, con il patrocinio del Comune di Casalgrande",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW0guJjApn/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
