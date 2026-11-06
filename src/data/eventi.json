@@ -97264,5 +97264,72 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T12:00",
+    "prenotazione": null,
+    "cap": null,
+    "slug": "teatro-a-colazione-il-gatto-con-gli-stivali-lastra-a-signa-2026-11-15",
+    "titolo": "Teatro a Colazione: Il gatto con gli stivali",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T09:30",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "via Matteotti 8, Lastra a Signa",
+    "comune": "048024",
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "descrizione": "Prima delle sette domeniche di teatro per famiglie: colazione nel foyer dalle 9:30, alle 11 lo spettacolo «Il gatto con gli stivali» (dai 4 anni), preceduto da una coreografia della scuola di danza Luv Dance. Biglietti: adulti 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; colazione 3,50 euro. Si replica il 13 dicembre, 10 e 24 gennaio, 7 e 21 febbraio, 7 marzo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "organizzatore": "Teatro delle Arti, con il Comune di Lastra a Signa",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfSK5mSm7rY/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-08T13:00",
+    "prenotazione": null,
+    "cap": null,
+    "slug": "foglie-colori-e-fantasia-acquerello-parco-del-laghetto-desenzano-2026-11-08",
+    "titolo": "Foglie, colori e fantasia: laboratorio di acquerello al Parco del Laghetto",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T10:00",
+    "luogo": "Parco del Laghetto",
+    "indirizzo": "Desenzano del Garda",
+    "comune": "017067",
+    "lat": 45.45394,
+    "lon": 10.56427,
+    "descrizione": "Laboratorio gratuito di acquerello con foglie vere per festeggiare gli alberi del territorio, aperto a tutte le età dai 7 anni, materiali inclusi; i bambini vanno accompagnati da un genitore. Prenotazione obbligatoria online. Si ripete domenica 22 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Desenzano del Garda",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Desenzano del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRuaxCsZMl/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
