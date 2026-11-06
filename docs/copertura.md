@@ -2,19 +2,19 @@
 
 File generato da `scripts/copertura.mjs`: non modificarlo a mano.
 
-**2447 eventi pubblicati, 2323 in programma.** Province con almeno un evento in programma: **110 su 110**.
+**2655 eventi pubblicati, 2531 in programma.** Province con almeno un evento in programma: **110 su 110**.
 
 ## Per regione
 
 | Regione | Pubblicati | In programma | Province con eventi |
 |---|---:|---:|---:|
-| Lombardia | 502 | 490 | 12 / 12 |
-| Emilia-Romagna | 281 | 258 | 9 / 9 |
-| Toscana | 235 | 230 | 10 / 10 |
+| Lombardia | 509 | 497 | 12 / 12 |
+| Lazio | 337 | 324 | 5 / 5 |
+| Emilia-Romagna | 283 | 260 | 9 / 9 |
+| Toscana | 236 | 231 | 10 / 10 |
 | Veneto | 179 | 169 | 7 / 7 |
-| Piemonte | 161 | 151 | 8 / 8 |
+| Piemonte | 163 | 153 | 8 / 8 |
 | Puglia | 153 | 148 | 6 / 6 |
-| Lazio | 141 | 128 | 5 / 5 |
 | Sicilia | 130 | 127 | 9 / 9 |
 | Liguria | 106 | 101 | 4 / 4 |
 | Campania | 109 | 92 | 5 / 5 |
@@ -35,7 +35,7 @@ Nessuna: tutte le province hanno almeno un evento.
 
 ## Instagram
 
-- Account leggibili ogni giorno: **199**
-- Candidati in attesa di essere valutati: 1618
+- Account leggibili ogni giorno: **208**
+- Candidati in attesa di essere valutati: 1631
 - Account provati e non adatti o non leggibili: 27
-- Link a post in attesa di controllo: 531
+- Link a post in attesa di controllo: 507

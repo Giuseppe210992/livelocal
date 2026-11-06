@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-06. **892 pagine di 604 siti** hanno dato eventi; 156 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-06. **938 pagine di 644 siti** hanno dato eventi; 166 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -864,16 +864,57 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
 | CastellInforma - Frascati | aggregatore | 24 | https://www.castellinforma.it/home/?st=town&ts=Frascati (+2 altre pagine) | 2026-11-05 |
+| Accademia Nazionale di Santa Cecilia – calendario concerti | ufficiale | 14 | https://santacecilia.it/concerti/calendario-concerti | 2026-11-06 |
+| Teatro di Roma - Teatro Torlonia | ufficiale | 14 | https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia (+3 altre pagine) | 2026-11-06 |
+| Teatro Brancaccio - Stagione 2026-2027 | ufficiale | 13 | https://teatrobrancaccio.it/stagione-sezione/stagione-2026-2027 | 2026-12-04 |
+| Teatro Ambra Jovinelli - Figli | ufficiale | 12 | https://www.ambrajovinelli.org/figli-dal-9-al-20-dicembre-2026 | 2026-11-06 |
+| Romaeuropa Festival - programma | organizzatore | 11 | https://romaeuropa.net/programma | 2026-11-06 |
+| Teatro Manzoni - Programma | ufficiale | 10 | https://teatromanzoniroma.it/programma | 2026-11-06 |
+| Auditorium Parco della Musica – eventi | ufficiale | 9 | https://www.auditorium.com/it/eventi | 2026-11-06 |
+| Teatro Belli - Home | ufficiale | 9 | https://www.teatrobelli.it/ | 2026-11-06 |
+| Biblioteche di Roma - Eventi a Casa della Memoria e della Storia | ufficiale | 8 | https://www.bibliotechediroma.it/opac/news/eventi-a-casa-della-memoria-e-della-storia/30410 | 2026-11-06 |
+| Roma Tre Orchestra – Concerti 26-27 | organizzatore | 8 | https://r3o.org/stagione-artistica/concerti-26-27 | 2026-11-06 |
+| Teatro Verde - Home | ufficiale | 8 | https://www.teatroverde.it/ | 2026-11-06 |
+| Alexanderplatz Jazz Club – calendario | organizzatore | 7 | https://www.alexanderplatzjazz.com/tutti-gli-eventi | 2026-11-06 |
+| Teatro dell'Opera di Roma – calendario stagione 2026/27 (PDF) | ufficiale | 7 | https://operaroma.b-cdn.net/wp-content/uploads/2026/06/TEATRO-DELLOPERA-DI-ROMA-STAGIONE_26-27_LOW.pdf | 2026-11-06 |
+| Teatro di Roma - biglietteria Vivaticket | ufficiale | 7 | https://teatrodiroma.vivaticket.it/ | 2026-11-06 |
+| Teatro Quirino - Stagione 2026-2027 | ufficiale | 7 | https://www.teatroquirino.it/stagione-2026-2027 | 2026-11-06 |
+| Teatro Vittoria - Stagione 2026-2027 | ufficiale | 7 | https://www.teatrovittoria.it/ | 2026-11-06 |
+| Roma Capitale - Culture Roma (SomministrArte 2026) | ufficiale | 6 | https://culture.roma.it/manifestazione/somministrarte-2026 | 2026-11-06 |
 | Pro Loco Città di Colleferro, agenda eventi | organizzatore | 6 | https://www.prolococolleferro.it/eventi | 2026-11-04 |
+| IUC – Stagione completa | organizzatore | 5 | https://www.concertiiuc.it/stagione-completa | 2026-11-06 |
+| Teatro Parioli Costanzo - Stagione 2026-27 | ufficiale | 5 | https://www.ilparioli.it/mec-category/stagione-teatrale-2026-27 | 2026-11-06 |
 | Festival Liszt Albano | organizzatore | 4 | https://festivalisztalbano.it/ | 2026-11-04 |
+| Fondazione Pro Musica e Arte Sacra – XXV Festival | organizzatore | 4 | https://www.fondazionepromusicaeartesacra.org/fondazione/xxiv-festival-internazionale | 2026-11-06 |
 | Mondoreale | stampa | 4 | https://www.mondoreale.it/2026/10/anzio-nasce-anzio-che-legge-cinque-incontri-con-gli-autori-tra-ottobre-e-dicembre | 2026-11-04 |
 | Palazzo Esposizioni Roma | organizzatore | 4 | https://www.palazzoesposizioniroma.it/ | 2026-11-03 |
 | Fondazione Giovanni Pierluigi da Palestrina - Eventi | organizzatore | 3 | https://www.fondazionepierluigipalestrina.it/eventi | 2026-11-06 |
+| Musei Capitolini - Calendario | ufficiale | 3 | https://www.museicapitolini.org/it/calendario | 2026-11-06 |
+| MAXXI - Gordon Matta-Clark | ufficiale | 2 | https://www.maxxi.art/en/events/gordon-matta-clark (+1 altre pagine) | 2026-11-06 |
+| Museo di Roma in Trastevere - The Thin Line | ufficiale | 2 | https://www.museodiromaintrastevere.it/it/cartella-stampa/thin-line (+1 altre pagine) | 2026-11-06 |
+| Rome 15K - info gara | organizzatore | 2 | https://www.rome15k.com/15k-info | 2026-11-06 |
+| Auditorium Conciliazione – calendario | ufficiale | 1 | https://auditoriumconciliazione.it/ | 2026-11-06 |
 | Città metropolitana di Roma Capitale - Eventi | ufficiale | 1 | https://www.cittametropolitanaroma.it/events/event/lanuvio-torna-il-festival-della-maza-tra-storia-sapori-e-tradizioni-antiche | 2026-11-05 |
 | Comune di Fiumicino - Eventi | ufficiale | 1 | https://comune.fiumicino.rm.it/it/eventi/alici-no-strane-a-km-0 | 2026-11-05 |
+| Concerto di Natale in Cattedrale – sito ufficiale | organizzatore | 1 | https://www.concertodinataleincattedrale.it/ | 2026-11-06 |
+| Galleria Borghese - sito ufficiale | ufficiale | 1 | https://galleriaborghese.cultura.gov.it/ | 2026-11-06 |
+| Il Sistina - Mamma Mia 2026 | ufficiale | 1 | https://ilsistina.it/mamma-mia-2026 | 2026-11-06 |
 | Il Tacco di Bacco - Guidonia Montecelio | aggregatore | 1 | https://iltaccodibacco.it/guidonia-montecelio | 2026-11-05 |
+| Palazzo Bonaparte - Mostre | organizzatore | 1 | https://www.mostrepalazzobonaparte.it/mostra-kandinsky.php | 2026-11-06 |
+| Musei di Villa Torlonia - Elisa Montessori | ufficiale | 1 | https://www.museivillatorlonia.it/it/mostra-evento/elisa-montessori-nel-corso-del-tempo | 2026-11-06 |
+| Museo Carlo Bilotti - Marina Bindella. Cosmografie | ufficiale | 1 | https://www.museocarlobilotti.it/it/mostra-evento/marina-bindella-cosmografie | 2026-11-06 |
+| Museo di Roma - Keith Haring | ufficiale | 1 | https://www.museodiroma.it/it/mostra-evento/keith-haring | 2026-11-06 |
+| Museo Napoleonico - Il barocco italiano a Dresda | ufficiale | 1 | https://www.museonapoleonico.it/it/mostra-evento/il-barocco-italiano-dresda-0 | 2026-11-06 |
+| Teatro dell'Opera di Roma – stagione 2026/27 | ufficiale | 1 | https://www.operaroma.it/news/il-dolce-suono-mi-colpi-la-stagione-2026-2027-del-teatro-dellopera-di-roma | 2026-11-06 |
+| Più libri più liberi | organizzatore | 1 | https://plpl.it/ | 2026-11-06 |
+| Roma Arte in Nuvola - Info utili | organizzatore | 1 | https://romaarteinnuvola.eu/informazioni | 2026-11-06 |
+| RomaToday – Concerto di Natale alla Chiesa di San Paolo entro le Mura | stampa | 1 | https://www.romatoday.it/eventi/concerto-natale-chiesa-san-paolo-entro-le-mura-17-dicembre-2026.html | 2026-11-06 |
+| Roma Urbs Mundi - percorso e regolamento | organizzatore | 1 | https://www.romaurbsmundi.it/2023/09/26/ecco-il-nuovo-percorso-della-roma-urbs-mundi | 2026-11-06 |
+| Sport e Salute - Corri Libera 2026 | ufficiale | 1 | https://www.sportesalute.eu/primo-piano/corri-libera-2026-roma-corre-contro-la-violenza-sulle-donne-il-15-novembre-torna-la-5-km-dal-colosseo-ai-fori-imperiali-lo-sport-diventa-una-corsa-collettiva-per-la-liberta.html | 2026-11-06 |
 | TrovaSagre | aggregatore | 1 | https://trovasagre.com/en/evento/festival-del-gusto-albano-laziale-rm-2026 | 2026-11-04 |
+| Turismo Roma - C’era una volta... Scugnizzi | ufficiale | 1 | https://www.turismoroma.it/it/eventi/cera-una-voltascugnizzi | 2026-11-06 |
 | Viaggiando Italia | stampa | 1 | https://www.viaggiando-italia.it/villaggio-di-natale-ladispoli-2026-un-mese-di-festa-tra-mercatini-spettacoli-e-mare-dinverno | 2026-11-05 |
+| Vivaticket - Christmas Garden | aggregatore | 1 | https://www.vivaticket.com/it/tour/christmas-garden/5108 | 2026-11-06 |
 
 ### Latina (LT)
 
@@ -1304,7 +1345,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-156 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+166 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 
