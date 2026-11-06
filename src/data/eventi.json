@@ -76658,5 +76658,69 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T19:00",
+    "prenotazione": null,
+    "slug": "castagnata-di-san-martino-san-pietro-in-cerro-2026",
+    "titolo": "Castagnata di San Martino a San Pietro in Cerro",
+    "categoria": "sagra",
+    "inizio": "2026-11-15T10:00",
+    "luogo": "Piazza G. Verdi",
+    "indirizzo": "San Pietro in Cerro",
+    "comune": "033041",
+    "lat": 45.02986,
+    "lon": 9.93415,
+    "descrizione": "Castagne calde, vin brulé e specialità piacentine dell'Osteria del Cerro (anolini in brodo, polenta, salsiccia con patate, torta di patate, cicciolata), mercatino creativo, trattori d'epoca e, nel pomeriggio, canti e balli con Anna Karaoke.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Il Cerro",
+    "fonti": [
+      {
+        "nome": "Instagram UNPLI Pro Loco Emilia Romagna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfWlPOtjWDR/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "chor-dae-stimmen-musicae-busca-2026",
+    "titolo": "Musicaè: CHOR:DÆ Stimmen diretto da Claudio Fenoglio",
+    "categoria": "concerto",
+    "inizio": "2026-11-06T21:00",
+    "luogo": "Chiesa della Confraternita della Santissima Trinità (la Rossa)",
+    "indirizzo": "Busca",
+    "comune": "004034",
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "descrizione": "La rassegna Musicaè riparte con l'ensemble vocale CHOR:DÆ Stimmen diretto da Claudio Fenoglio: Zigeunerlieder di Brahms, la cantata Mirjams Siegesgesang di Schubert e pagine a cappella di Bruckner. Ingresso libero con precedenza ai soci, senza prenotazione; accesso dalle 20:15.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione Amici della Musica Busca",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW7YORlG9N/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
