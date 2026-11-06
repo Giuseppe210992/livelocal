@@ -76530,5 +76530,133 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "agroarcheo-trekking-sentieri-del-re-capua-2026",
+    "titolo": "Agroarcheo Trekking 4.0: Sentieri del Re",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T09:00",
+    "luogo": "Basilica Benedettina (partenza)",
+    "indirizzo": "Capua",
+    "comune": "061015",
+    "lat": 41.11532,
+    "lon": 14.20994,
+    "descrizione": "Escursione inclusiva di 4 km (circa 2 ore, adatta a tutti) dalla Basilica Benedettina al Rifugio del Pellegrino, tra tratturi, Pianoro della Ripartenza e Bosco di San Vito. Al termine degustazione di vini Pallagrello e Casavecchia con prodotti tipici. Prenotazione presso la Pro Loco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco di Capua",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco di Capua",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfX4rpAKRP8/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2027-01-31",
+    "prenotazione": null,
+    "slug": "cratere-2016-2026-madonna-misericordia-museo-nazionale-romano-roma",
+    "titolo": "Cratere 2016|2026. Storie di comunità e ricostruzioni",
+    "categoria": "mostra",
+    "inizio": "2026-11-11",
+    "luogo": "Museo Nazionale Romano - Terme di Diocleziano",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "descrizione": "Il restauro della Madonna della Misericordia, scultura lignea policroma danneggiata dal sisma, torna al pubblico nel racconto dei territori del cratere 2016. Progetto del Dipartimento per la valorizzazione del patrimonio culturale con il Museo Nazionale Romano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Dipartimento per la valorizzazione del patrimonio culturale, Museo Nazionale Romano",
+    "fonti": [
+      {
+        "nome": "Instagram DiVa Dipartimento Valorizzazione patrimonio culturale",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfWz_dsjuXi/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "l-oca-d-autunno-codroipo-2026",
+    "titolo": "L'oca d'autunno: sapori, storie e tradizioni friulane",
+    "categoria": "sagra",
+    "inizio": "2026-11-06T20:00",
+    "luogo": "Museo Civico delle Carrozze d'Epoca",
+    "indirizzo": "Codroipo",
+    "comune": "030027",
+    "lat": 45.95889,
+    "lon": 12.98566,
+    "descrizione": "Serata dedicata all'oca nella cultura gastronomica friulana, tra racconti, curiosità e libri, con degustazione finale di lasagna friulana con oca e patate. Posti limitati, prenotazione obbligatoria presso i Civici Musei.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Civici Musei di Codroipo",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Codroipo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfWtpURDSaY/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T17:00",
+    "prenotazione": null,
+    "slug": "aperture-orchidee-serre-liberty-villa-litta-lainate-2026-11-15",
+    "titolo": "Visite guidate alle orchidee nelle serre Liberty di Villa Litta",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-15T14:00",
+    "luogo": "Villa Litta, serre Liberty",
+    "indirizzo": "Lainate",
+    "comune": "015116",
+    "lat": 45.56611,
+    "lon": 9.0257,
+    "descrizione": "Apertura mensile straordinaria delle serre Liberty con la collezione di orchidee e visite guidate gratuite a cura di ALAO. Prenotazione sul sito di ALAO.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Villa Litta, ALAO Orchidee",
+    "fonti": [
+      {
+        "nome": "Instagram Villa Litta Lainate",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfWqPZhgvZh/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
