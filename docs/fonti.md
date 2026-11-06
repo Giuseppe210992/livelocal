@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-06. **849 pagine di 568 siti** hanno dato eventi; 133 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-06. **855 pagine di 572 siti** hanno dato eventi; 155 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -44,6 +44,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 | Fonte | Tipo | Eventi | Pagina da riaprire | Ultima lettura |
 |---|---|---:|---|---|
+| Circolo dei lettori di Novara - calendario eventi | organizzatore | 8 | https://novara.circololettori.it/eventi | 2026-11-06 |
 | ARONAnelWEB | stampa | 7 | https://www.aronanelweb.it/evento/rassegna-cai-arona-i-ritmi-della-montagna-con-max-cassani (+2 altre pagine) | 2026-11-04 |
 | ATL Novara - Calendario eventi | ufficiale | 4 | https://www.turismonovara.it/it/eventimanifestazioni | 2026-11-03 |
 | Comune di Castelletto Sopra Ticino - Eventi | ufficiale | 3 | https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/sotto-i-veli-del-tempo-132894-1-9f06e9ee956f1f1c5d42ac283c0ce14a (+2 altre pagine) | 2026-11-04 |
@@ -221,6 +222,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Giornale di Brescia (aBrescia), agenda | stampa | 3 | https://abrescia.giornaledibrescia.it/ricerca?category=4 | 2026-11-05 |
 | Centro Fiera Montichiari | organizzatore | 3 | https://www.centrofiera.it/ | 2026-11-05 |
 | Comune di Cazzago San Martino - Eventi | ufficiale | 3 | https://comune.cazzago.bs.it/vivere-il-comune/eventi | 2026-11-04 |
+| Vivaticket - Teatro Sociale (Palazzolo sull'Oglio) | aggregatore | 3 | https://www.vivaticket.com/it/venue/teatro-sociale/8096050 | 2026-11-06 |
 | Comune di Brescia - Eventi | ufficiale | 2 | https://www.comune.brescia.it/it/eventi | 2026-11-04 |
 | Comune di Carpenedolo - avvisi (home) | ufficiale | 2 | https://www.comune.carpenedolo.bs.it/ | 2026-11-04 |
 | Comune di Concesio - eventi | ufficiale | 2 | https://www.comune.concesio.bs.it/it/events/alienando-lab-di-art-connecting-people (+1 altre pagine) | 2026-11-04 |
@@ -542,6 +544,8 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | ModenaToday - Tutti gli eventi a Modena | stampa | 11 | https://www.modenatoday.it/eventi | 2026-11-05 |
 | Radio Pico | stampa | 11 | https://www.radiopico.it/torna-il-festival-del-noir-di-finale-emilia-mo-tra-novita-e-grandi-ospiti | 2026-11-05 |
 | Teatro Comunale Modena Pavarotti-Freni | ufficiale | 4 | https://www.teatrocomunalemodena.it/danza (+1 altre pagine) | 2026-11-04 |
+| Vox Club Nonantola - eventi | organizzatore | 4 | https://www.voxclub.it/ | 2026-11-06 |
+| Stagione 2026-2027 Nonantola | ufficiale | 3 | https://www.ater.emr.it/it/teatri-e-stagioni/stagione-2026-2027-nonantola | 2026-11-06 |
 | Comune di Maranello - Buon Natale Maranello | ufficiale | 3 | https://www.comune.maranello.mo.it/vivere-maranello/eventi/buon-natale-maranello (+1 altre pagine) | 2026-11-05 |
 | Comune di Carpi - Eventi (home) | ufficiale | 2 | https://www.comune.carpi.mo.it/ | 2026-11-04 |
 | Gioventù Musicale d'Italia, sede di Modena – calendario concerti | organizzatore | 2 | https://gmimodena.it/calendario-dei-concerti | 2026-11-04 |
@@ -833,6 +837,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Festival Liszt Albano | organizzatore | 4 | https://festivalisztalbano.it/ | 2026-11-04 |
 | Mondoreale | stampa | 4 | https://www.mondoreale.it/2026/10/anzio-nasce-anzio-che-legge-cinque-incontri-con-gli-autori-tra-ottobre-e-dicembre | 2026-11-04 |
 | Palazzo Esposizioni Roma | organizzatore | 4 | https://www.palazzoesposizioniroma.it/ | 2026-11-03 |
+| Fondazione Giovanni Pierluigi da Palestrina - Eventi | organizzatore | 3 | https://www.fondazionepierluigipalestrina.it/eventi | 2026-11-06 |
 | Città metropolitana di Roma Capitale - Eventi | ufficiale | 1 | https://www.cittametropolitanaroma.it/events/event/lanuvio-torna-il-festival-della-maza-tra-storia-sapori-e-tradizioni-antiche | 2026-11-05 |
 | Comune di Fiumicino - Eventi | ufficiale | 1 | https://comune.fiumicino.rm.it/it/eventi/alici-no-strane-a-km-0 | 2026-11-05 |
 | Il Tacco di Bacco - Guidonia Montecelio | aggregatore | 1 | https://iltaccodibacco.it/guidonia-montecelio | 2026-11-05 |
@@ -1135,7 +1140,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | Balarm.it | aggregatore | 55 | http://www.balarm.it/tutti-gli-eventi-in-sicilia-di-novembre-2026 | 2026-11-04 |
 | Teatro Massimo di Palermo | ufficiale | 6 | https://www.teatromassimo.it/ | 2026-11-04 |
 | Teatro Biondo Palermo | ufficiale | 5 | https://teatrobiondo.it/calendario | 2026-11-04 |
-| Portale del Turismo - Comune di Palermo | ufficiale | 2 | https://turismo.comune.palermo.it/palermo-welcome-accade-a-palermo-dettaglio.php?id=2117 | 2026-11-04 |
+| Portale del Turismo - Comune di Palermo | ufficiale | 3 | https://turismo.comune.palermo.it/palermo-welcome-accade-a-palermo-dettaglio.php?id=2117 (+1 altre pagine) | 2026-11-06 |
 | Visit Sicily – Regione Siciliana | ufficiale | 2 | https://www.visitsicily.info/evento-new/sfincione-fest-2026 (+1 altre pagine) | 2026-11-03 |
 | Comune di Bagheria | ufficiale | 1 | https://www.comune.bagheria.pa.it/it/eventi | 2026-11-04 |
 | Sfincione Fest | organizzatore | 1 | https://sfincionefest.it/ | 2026-11-03 |
@@ -1264,7 +1269,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-133 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+155 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 

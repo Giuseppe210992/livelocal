@@ -77273,5 +77273,731 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "slug": "carrozzeria-orfeo-nonantola-2026-11-07",
+    "titolo": "Carrozzeria Orfeo",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T21:00",
+    "fine": null,
+    "luogo": "Teatro Massimo Troisi",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia Carrozzeria Orfeo al Teatro Massimo Troisi di Nonantola, nella stagione di prosa 2026-2027, sabato sera alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Stagione 2026-2027 Nonantola",
+        "tipo": "ufficiale",
+        "url": "https://www.ater.emr.it/it/teatri-e-stagioni/stagione-2026-2027-nonantola",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fuori-di-teatro-nonantola-2026-12-05",
+    "titolo": "Fuori di Teatro ODV",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:00",
+    "fine": null,
+    "luogo": "Teatro Massimo Troisi",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di teatro con Fuori di Teatro ODV al Teatro Massimo Troisi di Nonantola, sabato 5 dicembre alle 21, nella stagione 2026-2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Stagione 2026-2027 Nonantola",
+        "tipo": "ufficiale",
+        "url": "https://www.ater.emr.it/it/teatri-e-stagioni/stagione-2026-2027-nonantola",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "roberta-biagiarelli-nonantola-2026-12-12",
+    "titolo": "Roberta Biagiarelli",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Massimo Troisi",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento teatrale con Roberta Biagiarelli al Teatro Massimo Troisi di Nonantola, sabato 12 dicembre alle 21, nella stagione 2026-2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Stagione 2026-2027 Nonantola",
+        "tipo": "ufficiale",
+        "url": "https://www.ater.emr.it/it/teatri-e-stagioni/stagione-2026-2027-nonantola",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rats-vox-club-nonantola-2026-11-21",
+    "titolo": "RATS",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Vox Club",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dei RATS al Vox Club di Nonantola, sabato 21 novembre alle 21, con musica dal vivo in un locale del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vox Club",
+    "fonti": [
+      {
+        "nome": "Vox Club Nonantola - eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.voxclub.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "madame-vox-club-nonantola-2026-11-28",
+    "titolo": "MADAME",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Vox Club",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di MADAME al Vox Club di Nonantola, sabato 28 novembre 2026. Il programma non indica l'orario di inizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vox Club",
+    "fonti": [
+      {
+        "nome": "Vox Club Nonantola - eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.voxclub.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "macy-gray-vox-club-nonantola-2026-12-07",
+    "titolo": "MACY GRAY",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T21:00",
+    "fine": null,
+    "luogo": "Vox Club",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Macy Gray al Vox Club di Nonantola, lunedì 7 dicembre 2026 alle 21, con musica dal vivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vox Club",
+    "fonti": [
+      {
+        "nome": "Vox Club Nonantola - eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.voxclub.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nitro-vox-club-nonantola-2026-12-18",
+    "titolo": "NITRO",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": null,
+    "luogo": "Vox Club",
+    "indirizzo": "Nonantola",
+    "cap": null,
+    "comune": "036027",
+    "frazione": null,
+    "lat": 44.68531,
+    "lon": 11.05588,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dei Nitro al Vox Club di Nonantola, venerdì 18 dicembre 2026 alle 21, in programma nel locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vox Club",
+    "fonti": [
+      {
+        "nome": "Vox Club Nonantola - eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.voxclub.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "bla-bla-bla-novara-2026-11-07",
+    "titolo": "Bla bla bla",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T16:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Alberto Infelise nella Sala Sibilla Aleramo del Castello Sforzesco di Novara, organizzato dal Circolo dei lettori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-tempo-della-vita-e-delle-transizioni-novara-2026-11-08",
+    "titolo": "Il tempo della vita e delle transizioni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08T11:00",
+    "fine": null,
+    "luogo": "Sala delle Vetrate",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Dialogo con Riccarda Zezza sul tempo della vita e delle transizioni, nell'ambito di Dialoghi con la Scienza, alla Sala delle Vetrate del Castello Sforzesco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "urano-e-la-cerimonia-del-te-novara-2026-11-09",
+    "titolo": "Urano e la cerimonia del tè",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Mimesis con l'autore Marco Pesatori, nella Sala Sibilla Aleramo del Castello Sforzesco di Novara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gli-americani-novara-2026-11-11",
+    "titolo": "Gli americani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro che parte da Per chi suona la campana di Ernest Hemingway, con Fabrizio Coppola e Roberto Gallaurese, al Circolo dei lettori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "latin-lover-novara-2026-11-12",
+    "titolo": "Latin lover",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Latin lover, edito da Blackie, con l'autore Daniele Michienzi nella Sala Sibilla Aleramo del Castello di Novara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "prima-dellincendio-novara-2026-11-13",
+    "titolo": "Prima dell'incendio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Playground con Emidio Clementi, alla Sala Sibilla Aleramo del Castello Sforzesco, venerdì 13 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-freccia-del-tempo-novara-2026-11-15",
+    "titolo": "La freccia del tempo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T11:00",
+    "fine": null,
+    "luogo": "Sala delle Vetrate",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Dialogo con Gabriele Ghisellini su La freccia del tempo, nella rassegna Dialoghi con la Scienza alla Sala delle Vetrate di Novara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-tempo-dentro-di-noi-novara-2026-11-22",
+    "titolo": "Il tempo dentro di noi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T11:00",
+    "fine": null,
+    "luogo": "Sala delle Vetrate",
+    "indirizzo": "Castello Sforzesco",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Roberto Manfredini sul tempo dentro di noi, nella rassegna Dialoghi con la Scienza alla Sala delle Vetrate del Castello.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo dei lettori di Novara",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara - calendario eventi",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-silenzio-e-cosa-viva-palazzolo-sulloglio",
+    "titolo": "Il silenzio è cosa viva",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Palazzolo sull'Oglio",
+    "cap": null,
+    "comune": "017133",
+    "frazione": null,
+    "lat": 45.59217,
+    "lon": 9.88997,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo in programma al Teatro Sociale di Palazzolo sull'Oglio sabato 14 novembre 2026. Data e titolo sono quelli della pagina di biglietteria del teatro, senza orario indicato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Vivaticket - Teatro Sociale (Palazzolo sull'Oglio)",
+        "tipo": "aggregatore",
+        "url": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "storie-dinverno-palazzolo-sulloglio",
+    "titolo": "Storie d'inverno",
+    "categoria": "teatro",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Palazzolo sull'Oglio",
+    "cap": null,
+    "comune": "017133",
+    "frazione": null,
+    "lat": 45.59217,
+    "lon": 9.88997,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma al Teatro Sociale di Palazzolo sull'Oglio sabato 12 dicembre 2026. Data e titolo sono quelli della pagina di biglietteria del teatro, senza orario indicato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Vivaticket - Teatro Sociale (Palazzolo sull'Oglio)",
+        "tipo": "aggregatore",
+        "url": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "albert-ed-io-palazzolo-sulloglio",
+    "titolo": "Albert ed io",
+    "categoria": "teatro",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Palazzolo sull'Oglio",
+    "cap": null,
+    "comune": "017133",
+    "frazione": null,
+    "lat": 45.59217,
+    "lon": 9.88997,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma al Teatro Sociale di Palazzolo sull'Oglio domenica 13 dicembre 2026. Data e titolo sono quelli della pagina di biglietteria del teatro, senza orario indicato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Vivaticket - Teatro Sociale (Palazzolo sull'Oglio)",
+        "tipo": "aggregatore",
+        "url": "https://www.vivaticket.com/it/venue/teatro-sociale/8096050",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dipinti-e-vini-dautore-palestrina",
+    "titolo": "Dipinti & Vini d'Autore, XVI edizione",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Casa natale del Pierluigi",
+    "indirizzo": "Palestrina",
+    "cap": null,
+    "comune": "058074",
+    "frazione": null,
+    "lat": 41.81668,
+    "lon": 12.85756,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di dipinti e vini d'autore, arrivata alla sedicesima edizione, che si tiene nella casa natale di Giovanni Pierluigi da Palestrina nel fine settimana del 21 e 22 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Giovanni Pierluigi da Palestrina",
+    "fonti": [
+      {
+        "nome": "Fondazione Giovanni Pierluigi da Palestrina - Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.fondazionepierluigipalestrina.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-cappella-musicale-santa-maria-in-via-palestrina",
+    "titolo": "Concerto della Cappella Musicale di S. Maria in Via",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Basilica Cattedrale di Palestrina",
+    "indirizzo": "Palestrina",
+    "cap": null,
+    "comune": "058074",
+    "frazione": null,
+    "lat": 41.81668,
+    "lon": 12.85756,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Cappella Musicale di Santa Maria in Via nella Basilica Cattedrale di Palestrina, sabato 28 novembre 2026. L'orario non è indicato nella pagina della Fondazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Giovanni Pierluigi da Palestrina",
+    "fonti": [
+      {
+        "nome": "Fondazione Giovanni Pierluigi da Palestrina - Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.fondazionepierluigipalestrina.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-madrigali-in-cinque-palestrina",
+    "titolo": "Concerto dei Madrigali in Cinque",
+    "categoria": "concerto",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Chiesa di S. Lucia",
+    "indirizzo": "Palestrina",
+    "cap": null,
+    "comune": "058074",
+    "frazione": null,
+    "lat": 41.81668,
+    "lon": 12.85756,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del gruppo Madrigali in Cinque nella Chiesa di Santa Lucia a Palestrina, sabato 12 dicembre 2026. L'orario non è indicato nella pagina della Fondazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Giovanni Pierluigi da Palestrina",
+    "fonti": [
+      {
+        "nome": "Fondazione Giovanni Pierluigi da Palestrina - Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.fondazionepierluigipalestrina.it/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "jeff-koons-tribute-palermo",
+    "titolo": "Jeff Koons Tribute",
+    "categoria": "mostra",
+    "inizio": "2026-10-22",
+    "fine": "2027-01-11",
+    "luogo": "Palazzo Reale",
+    "indirizzo": "Palermo",
+    "cap": null,
+    "comune": "082053",
+    "frazione": null,
+    "lat": 38.13008,
+    "lon": 13.33116,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione dedicata alle opere di Jeff Koons nel Palazzo Reale di Palermo, aperta dal 22 ottobre 2026 all'11 gennaio 2027. È la prima volta che la Sicilia ospita le sue opere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Palermo Welcome - Portale del Turismo, Comune di Palermo",
+        "tipo": "ufficiale",
+        "url": "https://turismo.comune.palermo.it/palermo-welcome-news.php",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
