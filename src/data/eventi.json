@@ -77145,5 +77145,69 @@
         "consultata": "2026-11-06"
       }
     ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "oh-per-bacco-san-martino-monterone-forio-2026",
+    "titolo": "Oh Per Bacco: la festa di San Martino a Monterone",
+    "categoria": "sagra",
+    "inizio": "2026-11-08T10:30",
+    "luogo": "Piazza Cerriglio, Monterone",
+    "indirizzo": "Forio",
+    "comune": "063031",
+    "lat": 40.72813,
+    "lon": 13.87228,
+    "descrizione": "Giornata di tradizioni, vino e sapori: laboratorio di cucina per bambini alle 10:30, show cooking con degustazione alle 12, Le Cantine di San Martino alle 13 e musica popolare con Giancarlo Paglialunga e il Marianna Ricciardi Ensemble («Il Salento incontra la Campania»). Organizza Actus Tragicus con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Actus Tragicus, con il patrocinio del Comune di Forio",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Forio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfVDk0cNT_r/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "slug": "benemerenza-civica-eufemino-festa-associazioni-erba-2026",
+    "titolo": "Benemerenza civica Eufemino, riconoscimenti civici e Festa delle Associazioni",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-19T20:30",
+    "luogo": "Cineteatro Excelsior",
+    "indirizzo": "Erba",
+    "comune": "013095",
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "descrizione": "Serata aperta ai cittadini con il conferimento della Benemerenza civica «Eufemino», l'assegnazione dei Riconoscimenti civici 2026 e la Festa delle Associazioni erbesi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Erba",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW6zu2HJz5/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
