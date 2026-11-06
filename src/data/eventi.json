@@ -77999,5 +77999,3370 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-e-reale-2026-nichelino",
+    "titolo": "Natale è Reale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2026-12-13",
+    "luogo": "Palazzina di Caccia di Stupinigi",
+    "indirizzo": "Piazza Principe Amedeo 7, Stupinigi (Nichelino)",
+    "cap": "10042",
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Villaggio natalizio nelle scuderie della Palazzina di Caccia di Stupinigi, con mercatino coperto, laboratori, presepi e uno spettacolo per famiglie. Aperto nei giorni 28-29 novembre e 5, 6, 7, 8, 12 e 13 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://www.natalereale.it",
+    "organizzatore": "Fondazione Ordine Mauriziano",
+    "fonti": [
+      {
+        "nome": "Fondazione Ordine Mauriziano",
+        "tipo": "ufficiale",
+        "url": "https://www.ordinemauriziano.it/palazzina-stupinigi/eventi/natale-reale-2026/",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "Natale è Reale (sito dell'evento)",
+        "tipo": "organizzatore",
+        "url": "https://www.natalereale.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "peter-hammill-tour-2026-nichelino",
+    "titolo": "Peter Hammill. Tour 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Superga 44, Nichelino",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Peter Hammill porta il suo tour 2026 sul palco del Teatro Superga di Nichelino, nell'ambito della stagione 2026/27 del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://teatrosuperga.it",
+    "organizzatore": "Teatro Superga",
+    "fonti": [
+      {
+        "nome": "Turismo Torino e Provincia",
+        "tipo": "aggregatore",
+        "url": "https://turismotorino.org/it/visita/eventi/teatro-superga-di-nichelino-stagione-2026-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gabriele-piazza-eterofobo-nichelino",
+    "titolo": "Gabriele Piazza. Eterofobo",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Superga 44, Nichelino",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Gabriele Piazza presenta Eterofobo al Teatro Superga di Nichelino, uno degli appuntamenti della stagione teatrale 2026/27.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://teatrosuperga.it",
+    "organizzatore": "Teatro Superga",
+    "fonti": [
+      {
+        "nome": "Turismo Torino e Provincia",
+        "tipo": "aggregatore",
+        "url": "https://turismotorino.org/it/visita/eventi/teatro-superga-di-nichelino-stagione-2026-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "simonetta-musitano-cerco-solo-divertimento-nichelino",
+    "titolo": "Simonetta Musitano. Cerco solo divertimento",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Superga 44, Nichelino",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Simonetta Musitano porta sul palco Cerco solo divertimento al Teatro Superga di Nichelino, nella stagione 2026/27.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://teatrosuperga.it",
+    "organizzatore": "Teatro Superga",
+    "fonti": [
+      {
+        "nome": "Turismo Torino e Provincia",
+        "tipo": "aggregatore",
+        "url": "https://turismotorino.org/it/visita/eventi/teatro-superga-di-nichelino-stagione-2026-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-gatto-con-gli-stivali-nichelino",
+    "titolo": "Il gatto con gli stivali",
+    "categoria": "teatro",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Superga 44, Nichelino",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo spettacolo Il gatto con gli stivali arriva al Teatro Superga di Nichelino, tra gli appuntamenti della stagione 2026/27.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://teatrosuperga.it",
+    "organizzatore": "Teatro Superga",
+    "fonti": [
+      {
+        "nome": "Turismo Torino e Provincia",
+        "tipo": "aggregatore",
+        "url": "https://turismotorino.org/it/visita/eventi/teatro-superga-di-nichelino-stagione-2026-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "annagaia-marchioro-fulminata-nichelino",
+    "titolo": "Annagaia Marchioro. Fulminata",
+    "categoria": "teatro",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Superga 44, Nichelino",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "Annagaia Marchioro porta Fulminata al Teatro Superga di Nichelino, con un appuntamento della stagione teatrale 2026/27.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": "https://teatrosuperga.it",
+    "organizzatore": "Teatro Superga",
+    "fonti": [
+      {
+        "nome": "Turismo Torino e Provincia",
+        "tipo": "aggregatore",
+        "url": "https://turismotorino.org/it/visita/eventi/teatro-superga-di-nichelino-stagione-2026-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-di-santa-caterina-novi-ligure",
+    "titolo": "Fiera di Santa Caterina 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22",
+    "fine": "2026-11-25",
+    "luogo": "Centro",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "La tradizionale fiera di Santa Caterina di Novi Ligure, alla 418ª edizione, con bancarelle in centro per quattro giorni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "hockey-torneo-santa-caterina-novi-ligure",
+    "titolo": "Hockey, torneo di Santa Caterina",
+    "categoria": "sport",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Pattinodromo",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Decima edizione del torneo di hockey su pattini organizzato dall'ASD Novi Hockey, al pattinodromo di Novi Ligure.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ASD Novi Hockey",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "orizzonti-sicuri-insieme-si-vince-novi-ligure",
+    "titolo": "Orizzonti sicuri - Insieme si vince",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Teatro Giacometti",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico con la criminologa Roberta Bruzzone, in programma al teatro Giacometti di Novi Ligure.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dal-pentapartito-al-nuovo-centrosinistra-novi-ligure",
+    "titolo": "Dal pentapartito al nuovo centrosinistra",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026, nella Biblioteca Civica di Novi Ligure, sul passaggio dal pentapartito al nuovo centrosinistra.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-libro-sul-comodino-novi-ligure",
+    "titolo": "Il libro sul comodino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo incontro in biblioteca a Novi Ligure con Pasquale Coluccio, nell'ambito della programmazione culturale del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-giornalista-ribelle-novi-ligure",
+    "titolo": "La giornalista ribelle",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo La giornalista ribelle.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-bosco-a-tutto-ritmo-novi-ligure",
+    "titolo": "Un bosco a tutto ritmo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento della rassegna In biblioteca c'è 2026 nella Biblioteca Civica di Novi Ligure, dal titolo Un bosco a tutto ritmo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-avventure-della-famiglia-catastrofino-novi-ligure",
+    "titolo": "Le avventure della famiglia Catastrofino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo Le avventure della famiglia Catastrofino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-luna-e-i-falo-novi-ligure",
+    "titolo": "La luna e i falò",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo La luna e i falò.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-gran-borbottante-novi-ligure",
+    "titolo": "Il gran borbottante",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo Il gran borbottante.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gli-adolescenti-e-il-loro-peso-novi-ligure",
+    "titolo": "Gli adolescenti e il loro peso",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo Gli adolescenti e il loro peso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-politica-novese-nel-nuovo-millennio-novi-ligure",
+    "titolo": "La politica novese nel nuovo millennio",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04",
+    "fine": null,
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Novi Ligure",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna In biblioteca c'è 2026 alla Biblioteca Civica di Novi Ligure, dal titolo La politica novese nel nuovo millennio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-maria-zanella-occhiobello",
+    "titolo": "La Maria Zanella",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:30",
+    "fine": null,
+    "luogo": "Teatro Tosi",
+    "indirizzo": "Occhiobello",
+    "cap": null,
+    "comune": "029033",
+    "frazione": null,
+    "lat": 44.91915,
+    "lon": 11.60559,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo del Teatro Instabile di Meano per il 75° anniversario dell'alluvione del 1951, scritto da Sergio Pierattini e interpretato da Maria Paiato. Precede la proiezione di podcast con le testimonianze dei cittadini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Occhiobello",
+    "fonti": [
+      {
+        "nome": "Comune di Occhiobello - Home (novità)",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.occhiobello.ro.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "battito-dali-occhiobello",
+    "titolo": "Battito d'ali",
+    "categoria": "mostra",
+    "inizio": "2026-11-07T17:30",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Occhiobello",
+    "cap": null,
+    "comune": "029033",
+    "frazione": null,
+    "lat": 44.91915,
+    "lon": 11.60559,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica sull'avifauna del Delta del Po, con fenicotteri, aironi e falchi di palude ripresi nelle diverse stagioni. Visitabile fino al 21 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "touristofficeapp - Regione del Veneto",
+        "tipo": "ufficiale",
+        "url": "https://touristofficeapp.com/it/occhiobello/eventi/battito-dali?id=1d866bee-4c69-4f66-648a-08df34b0608b",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "La Voce di Rovigo (Polesine24)",
+        "tipo": "stampa",
+        "url": "https://www.polesine24.it/cultura/2026/10/28/news/il-delta-del-po-in-un-grande-battito-dali-406798/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "autismo-nel-ciclo-di-vita-olgiate-olona",
+    "titolo": "Autismo nel ciclo di vita e progettualità: incontro di confronto e approfondimento",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Teatro Area 101",
+    "indirizzo": "Via Bellotti 22, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro tra servizi sanitari, Comune e associazioni sul sostegno alle persone con autismo e alle loro famiglie, con la proiezione del cortometraggio Out-ismo. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nine-ingiulla-canta-fabrizio-de-andre-olgiate-olona",
+    "titolo": "Ninè Ingiulla canta Fabrizio De André",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": null,
+    "luogo": "Area 101",
+    "indirizzo": "Via Bellotti 22, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata benefica dedicata alle canzoni di Fabrizio De André, con Ninè Ingiulla, organizzata dal Lions Club per finanziare un pulmino sociale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Lions Club Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontro-con-mirko-zilahy-olgiate-olona",
+    "titolo": "Incontro con l'autore: Mirko Zilahy",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T21:00",
+    "fine": null,
+    "luogo": "Teatrino di Villa Gonzaga",
+    "indirizzo": "Via Luigia Greppi 3, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo scrittore Mirko Zilahy presenta il suo libro Il giardino delle ombre, con moderazione di Amanda Colombo e firmacopie al termine. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "in-mezzo-al-mar-7-novembre-olgiate-olona",
+    "titolo": "In mezzo al mar",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T20:45",
+    "fine": null,
+    "luogo": "Teatro Don Pino",
+    "indirizzo": "Via Ortigara 6, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia in due atti della compagnia I Variopinti, scritta e diretta da Palma Maggi, tra sogni, musica e burlesque, ambientata sul mare. Ingresso a libera offerta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia I Variopinti",
+    "fonti": [
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "in-mezzo-al-mar-8-novembre-olgiate-olona",
+    "titolo": "In mezzo al mar",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T16:30",
+    "fine": null,
+    "luogo": "Teatro Don Pino",
+    "indirizzo": "Via Ortigara 6, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica pomeridiana della commedia in due atti della compagnia I Variopinti, scritta e diretta da Palma Maggi, ambientata sul mare. Ingresso a libera offerta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia I Variopinti",
+    "fonti": [
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "costruiamo-insieme-dalla-carta-allorigami-olgiate-olona",
+    "titolo": "Costruiamo insieme: dalla carta all'origami",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T15:00",
+    "fine": "2026-11-21T16:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di origami per bambini dai 7 ai 10 anni in biblioteca: da semplici fogli di carta si costruiscono animali e fiori. Serve la prenotazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-in-biblioteca-olgiate-olona",
+    "titolo": "La Notte dei Pupazzi in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-26T15:00",
+    "fine": "2026-11-26T17:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini dai 3 ai 7 anni: i pupazzi portati da casa trascorrono una notte tra i libri della biblioteca comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "alla-ricerca-di-babbo-natale-olgiate-olona",
+    "titolo": "Alla ricerca di Babbo Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T15:30",
+    "fine": null,
+    "luogo": "Teatrino di Villa Gonzaga",
+    "indirizzo": "Via Luigia Greppi 3, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio didattico-scientifico per bambini dai 5 agli 11 anni, con esperimenti guidati da due folletti scienziati nell'ambito del Festival della Scienza 2026.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "VareseNews",
+        "tipo": "stampa",
+        "url": "https://www.varesenews.it/2026/11/novembre-ricco-di-appuntamenti-a-olgiate-olona-cultura-teatro-solidarieta-e-iniziative-per-tutte-le-eta/2727616/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-per-uno-sconosciuto-omegna",
+    "titolo": "Concerto per uno sconosciuto",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Teatrino del Mastronauta",
+    "indirizzo": "Omegna",
+    "cap": null,
+    "comune": "103050",
+    "frazione": null,
+    "lat": 45.87054,
+    "lon": 8.41748,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di e con Pietro Cerchiello, con musiche dal vivo, nella seconda edizione della rassegna Contro Torrente al Teatrino del Mastronauta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "VisitOmegna - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.visitomegna.it/it/news/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "suite-nomade-concerto-agrano-omegna",
+    "titolo": "Suite Nomade - Concerto di musica classica",
+    "categoria": "concerto",
+    "inizio": "2026-11-06T20:45",
+    "fine": null,
+    "luogo": "Chiesa San Maiolo di Agrano",
+    "indirizzo": "Agrano, Omegna",
+    "cap": null,
+    "comune": "103050",
+    "frazione": null,
+    "lat": 45.87054,
+    "lon": 8.41748,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica classica con il Duo Celtique, con Alessandro Grosso alla fisarmonica e Isabella Carcione, nella chiesa di San Maiolo ad Agrano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "VisitOmegna - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.visitomegna.it/it/news/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-ispettore-orbassano",
+    "titolo": "L'Ispettore",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Teatro Sandro Pertini",
+    "indirizzo": "Via dei Mulini 1, Orbassano",
+    "cap": null,
+    "comune": "001171",
+    "frazione": null,
+    "lat": 45.00606,
+    "lon": 7.55583,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della Compagnia di Prosa di Quattordio nella rassegna Orbassano in scena, al Teatro Sandro Pertini. Biglietto intero 8 euro, ridotto 5 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "FITA Piemonte",
+    "fonti": [
+      {
+        "nome": "FITA Piemonte - comunicato stampa",
+        "tipo": "organizzatore",
+        "url": "https://www.fitanazionale.eu/comunicati/orbassanoinscena2026/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "salome-orbassano",
+    "titolo": "Salomè",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Teatro Sandro Pertini",
+    "indirizzo": "Via dei Mulini 1, Orbassano",
+    "cap": null,
+    "comune": "001171",
+    "frazione": null,
+    "lat": 45.00606,
+    "lon": 7.55583,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo del Teatro degli Strilloni nella rassegna Orbassano in scena, al Teatro Sandro Pertini. Biglietto intero 8 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "FITA Piemonte",
+    "fonti": [
+      {
+        "nome": "FITA Piemonte - comunicato stampa",
+        "tipo": "organizzatore",
+        "url": "https://www.fitanazionale.eu/comunicati/orbassanoinscena2026/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "morte-di-galeazzo-ciano-orbassano",
+    "titolo": "Morte di Galeazzo Ciano",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T21:00",
+    "fine": null,
+    "luogo": "Teatro Sandro Pertini",
+    "indirizzo": "Via dei Mulini 1, Orbassano",
+    "cap": null,
+    "comune": "001171",
+    "frazione": null,
+    "lat": 45.00606,
+    "lon": 7.55583,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di IdeaTeatro, ultimo appuntamento della prima edizione della rassegna Orbassano in scena al Teatro Sandro Pertini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "FITA Piemonte",
+    "fonti": [
+      {
+        "nome": "FITA Piemonte - comunicato stampa",
+        "tipo": "organizzatore",
+        "url": "https://www.fitanazionale.eu/comunicati/orbassanoinscena2026/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "breaking-brecht-oleggio",
+    "titolo": "Breaking Brecht",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Via Roma, Oleggio",
+    "cap": null,
+    "comune": "003108",
+    "frazione": null,
+    "lat": 45.59683,
+    "lon": 8.64626,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della stagione teatrale 2026/2027 del Teatro Civico di Oleggio, in programma venerdì 6 novembre alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Oleggio",
+    "fonti": [
+      {
+        "nome": "Comune di Oleggio - Patrimonio culturale (novità)",
+        "tipo": "ufficiale",
+        "url": "https://comune.oleggio.no.it/argomenti/argomento-dettaglio/2402264",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "taxi-a-due-piazze-oleggio",
+    "titolo": "Taxi a due piazze",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Oleggio",
+    "cap": null,
+    "comune": "003108",
+    "frazione": null,
+    "lat": 45.59683,
+    "lon": 8.64626,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo in programma sabato 7 novembre nel teatro comunale di Oleggio, con biglietto unico non numerato a 20 euro più prevendita.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Clappit (biglietteria)",
+        "tipo": "aggregatore",
+        "url": "https://www.clappit.com/biglietti/taxi-a-due-piazze-07-novembre-2026-teatro-comunale-oleggio-43053.html",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oderzo-suona-lucio-battisti",
+    "titolo": "Oderzo suona Lucio Battisti",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Teatro Cristallo",
+    "indirizzo": "Oderzo",
+    "cap": null,
+    "comune": "026051",
+    "frazione": null,
+    "lat": 45.77198,
+    "lon": 12.4979,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dal vivo che rilegge le canzoni di Lucio Battisti con un ensemble di musicisti, senza imitazioni dell'artista.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Vivaticket",
+        "tipo": "aggregatore",
+        "url": "https://www.vivaticket.com/it/ticket/oderzo-suona-battisti/306484",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "equilibrio-proiezione-film-orbetello-2026-11-21",
+    "titolo": "Equilibrio, proiezione del film documentario",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T17:00",
+    "fine": null,
+    "luogo": "CEA Casale della Giannella",
+    "indirizzo": "Orbetello",
+    "cap": null,
+    "comune": "053018",
+    "frazione": null,
+    "lat": 42.50439,
+    "lon": 11.23603,
+    "coordinateApprossimate": true,
+    "descrizione": "Film documentario presentato di persona dal regista Federico Santini e dalla protagonista Marika Francioli. Si tiene al Casale della Giannella, dentro la rassegna autunnale delle Oasi WWF. L'ingresso è libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Oasi WWF Orbetello",
+    "fonti": [
+      {
+        "nome": "Orbetello Turismo - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://orbetelloturismo.it/events/category/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visite-fenicotteri-rosa-orbetello-2026-12-05",
+    "titolo": "Visite guidate alla scoperta dei fenicotteri rosa",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-08",
+    "luogo": "Oasi WWF Orbetello",
+    "indirizzo": "Orbetello",
+    "cap": null,
+    "comune": "053018",
+    "frazione": null,
+    "lat": 42.50439,
+    "lon": 11.23603,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattro giorni di visite guidate nell'Oasi WWF di Orbetello per osservare da vicino i fenicotteri rosa. Il giro è previsto alle 10:00. Per costi e prenotazioni occorre contattare l'organizzazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Oasi WWF Orbetello",
+    "fonti": [
+      {
+        "nome": "Orbetello Turismo - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://orbetelloturismo.it/events/category/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "parenti-serpenti-conferenza-orbetello-2026-12-19",
+    "titolo": "Parenti serpenti, conferenza sui serpenti italiani",
+    "categoria": "conferenza",
+    "inizio": "2026-12-19T17:00",
+    "fine": null,
+    "luogo": "CEA Casale della Giannella",
+    "indirizzo": "Orbetello",
+    "cap": null,
+    "comune": "053018",
+    "frazione": null,
+    "lat": 42.50439,
+    "lon": 11.23603,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro divulgativo sui serpenti che vivono in Italia, tenuto da un naturalista e fotografo. Si svolge al Casale della Giannella dentro il calendario autunnale delle Oasi WWF, con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Oasi WWF Orbetello",
+    "fonti": [
+      {
+        "nome": "Orbetello Turismo - calendario eventi",
+        "tipo": "aggregatore",
+        "url": "https://orbetelloturismo.it/events/category/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giochiamo-con-il-coding-oria-2026-11-27",
+    "titolo": "Giochiamo con il Coding",
+    "categoria": "bambini",
+    "inizio": "2026-11-27T16:30",
+    "fine": "2026-11-27T18:30",
+    "luogo": "Biblioteca comunale De Pace-Lombardi",
+    "indirizzo": "Chiostro Parco Montalbano, Oria",
+    "cap": null,
+    "comune": "074011",
+    "frazione": null,
+    "lat": 40.49183,
+    "lon": 17.66028,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio digitale per ragazzi nella biblioteca di Oria, guidato da CoderDojo Lecce. Si impara a programmare con il gioco, in un pomeriggio di attività gratuite.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale De Pace-Lombardi",
+    "fonti": [
+      {
+        "nome": "Idea Radio nel Mondo",
+        "tipo": "stampa",
+        "url": "https://www.idearadionelmondo.it/2026/11/04/oria-biblioteca-de-pace-lombardi-eventi-novembre-2026/?amp=1",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sfilata-concerto-banda-rutigliano-orta-nova-2026-11-08",
+    "titolo": "Sfilata e concerto della Banda di Rutigliano, Orta Nova Sound Lab",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T20:00",
+    "fine": null,
+    "luogo": "Chiesa del Santissimo Crocifisso",
+    "indirizzo": "Via Piemonte, Orta Nova",
+    "cap": null,
+    "comune": "071036",
+    "frazione": null,
+    "lat": 41.32134,
+    "lon": 15.72142,
+    "coordinateApprossimate": true,
+    "descrizione": "Sfilata per le vie del paese della storica Banda di Rutigliano, seguita da un concerto di brani del repertorio operistico italiano. Fa parte del percorso Orta Nova Sound Lab, che porterà alla nascita di una banda cittadina. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Nazionale Bande da Giro (ANBG)",
+    "fonti": [
+      {
+        "nome": "PlayNews24 (comunicato stampa)",
+        "tipo": "stampa",
+        "url": "https://playnews24.com/2026/11/05/orta-nova-sound-lab-domenica-8-novembre-sfilata-e-concerto-con-la-storica-banda-di-rutigliano/",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "RutiglianoOnline (comunicato stampa)",
+        "tipo": "stampa",
+        "url": "https://www.rutiglianoonline.it/notizie/attualita/15491-la-storica-banda-di-rutigliano-protagonista-all-orta-nova-sound-lab.html",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-disavventure-della-verita-orvieto-2026-11-20",
+    "titolo": "Le disavventure della verità, con Umberto Galimberti",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T20:30",
+    "fine": null,
+    "luogo": "Teatro Mancinelli",
+    "indirizzo": "Orvieto",
+    "cap": null,
+    "comune": "055023",
+    "frazione": null,
+    "lat": 42.7343,
+    "lon": 12.1518,
+    "coordinateApprossimate": true,
+    "descrizione": "Il filosofo Umberto Galimberti presenta al pubblico il suo incontro dal titolo «Le disavventure della verità», in serata al Teatro Mancinelli di Orvieto. Per i biglietti si fa riferimento ai canali dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Comune di Orvieto - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.orvieto.tr.it/it/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "Feltrinelli Editore - appuntamenti",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/10/16/le-disavventure-della-verita-incontro-con-umberto-galimberti-a-orvieto/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "indovina-chi-viene-a-cena-osimo-2026-11-07",
+    "titolo": "Indovina chi viene a cena?",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Teatro La Nuova Fenice",
+    "indirizzo": "Piazza Marconi, 6, Osimo",
+    "cap": null,
+    "comune": "042034",
+    "frazione": null,
+    "lat": 43.48426,
+    "lon": 13.46232,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia di William Arthur Rose, nell'adattamento di Mario Scaletta, con Cesare Bocci e Vittoria Belvedere e la regia di Guglielmo Ferro. Prima delle due serate del weekend al Teatro La Nuova Fenice di Osimo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro La Nuova Fenice",
+    "fonti": [
+      {
+        "nome": "Teatro La Nuova Fenice - stagione 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://teatrolanuovafeniceosimo.it/stagione-26-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "indovina-chi-viene-a-cena-osimo-2026-11-08",
+    "titolo": "Indovina chi viene a cena?",
+    "categoria": "teatro",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Teatro La Nuova Fenice",
+    "indirizzo": "Piazza Marconi, 6, Osimo",
+    "cap": null,
+    "comune": "042034",
+    "frazione": null,
+    "lat": 43.48426,
+    "lon": 13.46232,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica domenicale dello spettacolo tratto dal testo di William Arthur Rose, con Cesare Bocci e Vittoria Belvedere, diretto da Guglielmo Ferro. Si svolge nella sala del teatro in piazza Marconi, nel cuore di Osimo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro La Nuova Fenice",
+    "fonti": [
+      {
+        "nome": "Teatro La Nuova Fenice - stagione 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://teatrolanuovafeniceosimo.it/stagione-26-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "hanno-ucciso-habibi-osimo-2026-11-12",
+    "titolo": "Hanno ucciso Habibi, primo studio teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "Teatro La Nuova Fenice",
+    "indirizzo": "Piazza Marconi, 6, Osimo",
+    "cap": null,
+    "comune": "042034",
+    "frazione": null,
+    "lat": 43.48426,
+    "lon": 13.46232,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo studio teatrale ispirato al libro di Shrouq Aila, con Isabella Carloni e Francesco Savoretti. Una serata in cui il lavoro è ancora in costruzione, proposta dalla stagione del teatro osimano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro La Nuova Fenice",
+    "fonti": [
+      {
+        "nome": "Teatro La Nuova Fenice - stagione 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://teatrolanuovafeniceosimo.it/stagione-26-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ruoli-secondari-ozpetek-osimo-2026-12-15",
+    "titolo": "Ruoli secondari, nuovo spettacolo di Ferzan Ozpetek",
+    "categoria": "teatro",
+    "inizio": "2026-12-15",
+    "fine": null,
+    "luogo": "Teatro La Nuova Fenice",
+    "indirizzo": "Piazza Marconi, 6, Osimo",
+    "cap": null,
+    "comune": "042034",
+    "frazione": null,
+    "lat": 43.48426,
+    "lon": 13.46232,
+    "coordinateApprossimate": true,
+    "descrizione": "Il nuovo spettacolo di Ferzan Ozpetek, in scena per due serate nel cartellone della stagione 2026/27 del Teatro La Nuova Fenice. Questa è la prima replica, di martedì.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro La Nuova Fenice",
+    "fonti": [
+      {
+        "nome": "Teatro La Nuova Fenice - stagione 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://teatrolanuovafeniceosimo.it/stagione-26-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ruoli-secondari-ozpetek-osimo-2026-12-16",
+    "titolo": "Ruoli secondari, nuovo spettacolo di Ferzan Ozpetek",
+    "categoria": "teatro",
+    "inizio": "2026-12-16",
+    "fine": null,
+    "luogo": "Teatro La Nuova Fenice",
+    "indirizzo": "Piazza Marconi, 6, Osimo",
+    "cap": null,
+    "comune": "042034",
+    "frazione": null,
+    "lat": 43.48426,
+    "lon": 13.46232,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda serata del nuovo spettacolo di Ferzan Ozpetek al Teatro La Nuova Fenice di Osimo, nella stagione 2026/27. L'appuntamento è di mercoledì 16 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro La Nuova Fenice",
+    "fonti": [
+      {
+        "nome": "Teatro La Nuova Fenice - stagione 2026/27",
+        "tipo": "organizzatore",
+        "url": "https://teatrolanuovafeniceosimo.it/stagione-26-27",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "echi-di-paese-osio-sotto-2026-11-07",
+    "titolo": "Echi di paese, Ruralia racconta",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Ruralia",
+    "indirizzo": "Via Torquato Tasso, Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Viaggio narrativo e musicale tra i borghi di provincia e le storie di un tempo, proposto dalla rassegna Ruralia racconta. Serata nel museo di via Torquato Tasso, a ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Osio Sotto",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto - Ruralia racconta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/ruralia-racconta-728873",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "parole-della-terra-osio-sotto-2026-11-20",
+    "titolo": "Parole della terra, storie di pani e campi",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Ruralia",
+    "indirizzo": "Via Torquato Tasso, Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Racconti su pani, campi coltivati e tradizioni antiche, per riscoprire il lavoro della terra di una volta. Fa parte della rassegna Ruralia racconta, con ingresso gratuito nel museo di via Torquato Tasso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Osio Sotto",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto - Ruralia racconta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/ruralia-racconta-728873",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "t-riot-feat-germana-la-sorsa-masseria-cantone-ostuni",
+    "titolo": "T-Riot featuring Germana La Sorsa",
+    "categoria": "concerto",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Masseria Cantone",
+    "indirizzo": "Ostuni",
+    "cap": null,
+    "comune": "074012",
+    "frazione": null,
+    "lat": 40.72999,
+    "lon": 17.54877,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto jazz di tre musicisti pugliesi che si ritrovano sul palco dopo diversi anni, con la voce di Germana La Sorsa. Appuntamento alla Masseria Cantone di Ostuni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/ostuni/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "4-mani-in-magia-e-voce-masseria-cantone-ostuni",
+    "titolo": "4 Mani in magia e voce",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Masseria Cantone",
+    "indirizzo": "Ostuni",
+    "cap": null,
+    "comune": "074012",
+    "frazione": null,
+    "lat": 40.72999,
+    "lon": 17.54877,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'ensemble di Francesco Greco, un incontro tra musica e canto presentato come un viaggio senza confini tra emozione e virtuosismo. Si svolge alla Masseria Cantone di Ostuni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/ostuni/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "patrizia-conte-quintet-oggi-sono-io-masseria-cantone-ostuni",
+    "titolo": "Patrizia Conte quintet: Oggi sono io",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Masseria Cantone",
+    "indirizzo": "Ostuni",
+    "cap": null,
+    "comune": "074012",
+    "frazione": null,
+    "lat": 40.72999,
+    "lon": 17.54877,
+    "coordinateApprossimate": true,
+    "descrizione": "Il quintetto della cantante Patrizia Conte presenta il progetto Oggi sono io, con voce e una band di cinque musicisti. Concerto alla Masseria Cantone di Ostuni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/ostuni/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "san-martino-al-chiostro-ostuni",
+    "titolo": "San Martino al Chiostro",
+    "categoria": "sagra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Chiostro dell'Annunziata",
+    "indirizzo": "via Ludovico Pepe, Ostuni",
+    "cap": null,
+    "comune": "074012",
+    "frazione": null,
+    "lat": 40.72999,
+    "lon": 17.54877,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giorni di festa di San Martino con vino, prodotti del territorio, tradizioni e musica nel Chiostro dell'Annunziata di Ostuni. Un weekend dedicato alla stagione autunnale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "il Tacco di Bacco",
+        "tipo": "aggregatore",
+        "url": "https://iltaccodibacco.it/ostuni/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fiera-di-santandrea-ovada",
+    "titolo": "Fiera di Sant'Andrea 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Centro storico (vie e piazze del centro)",
+    "indirizzo": "via Torino, piazza XX Settembre, piazza Matteotti, Ovada",
+    "cap": null,
+    "comune": "006121",
+    "frazione": null,
+    "lat": 44.62437,
+    "lon": 8.63778,
+    "coordinateApprossimate": true,
+    "descrizione": "La fiera di fine novembre riempie le vie e le piazze del centro di Ovada con bancarelle di commercianti e artigiani. Il sabato e la domenica si può passeggiare tra gli stand.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Ovada",
+    "fonti": [
+      {
+        "nome": "Rural Pop-Up (Ovada, feste ed eventi)",
+        "tipo": "aggregatore",
+        "url": "https://rural-pop-up.com/it/comuni/ovada-360/eventi",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "Procom - Fiera di Sant'Andrea 2026",
+        "tipo": "aggregatore",
+        "url": "https://www.procom-on-line.it/fiere/fiera-di-sant-andrea.html",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "vi-ta-vino-e-tartufi-ovada",
+    "titolo": "VI.TA - Vino e Tartufi, fiera regionale",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Centro storico di Ovada (Loggia di San Sebastiano, piazza Assunta)",
+    "indirizzo": "Loggia di San Sebastiano, piazza Assunta, Ovada",
+    "cap": null,
+    "comune": "006121",
+    "frazione": null,
+    "lat": 44.62437,
+    "lon": 8.63778,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera regionale dedicata a vino e tartufo nel centro storico di Ovada. Il mercato del vino è sotto la Loggia di San Sebastiano e i banchi del tartufo sono in piazza Assunta, con degustazioni e musica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Ovada e del Monferrato Ovadese",
+    "fonti": [
+      {
+        "nome": "Rural Pop-Up (Ovada, feste ed eventi)",
+        "tipo": "aggregatore",
+        "url": "https://rural-pop-up.com/it/comuni/ovada-360/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-conseguenze-femminicidi-sguardo-chi-resta-ozzano",
+    "titolo": "Le conseguenze: i femminicidi e lo sguardo di chi resta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T20:30",
+    "fine": null,
+    "luogo": "Sala Raparelli",
+    "indirizzo": "Ozzano dell'Emilia",
+    "cap": null,
+    "comune": "037046",
+    "frazione": null,
+    "lat": 44.42837,
+    "lon": 11.47606,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna Incontri con l'autore con una giornalista, fotografa e autrice, sul tema dei femminicidi e di chi resta a vivere con quella perdita. Venerdì 6 novembre alle 20.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Ozzano dell'Emilia",
+    "fonti": [
+      {
+        "nome": "Comune di Ozzano dell'Emilia - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "san-martino-ponte-rizzoli-ozzano",
+    "titolo": "Festa di San Martino: pranzo, musica e convivialità a Ponte Rizzoli",
+    "categoria": "sagra",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Centro civico di Ponte Rizzoli",
+    "indirizzo": "via E. Duse, 2, Ponte Rizzoli, Ozzano dell'Emilia",
+    "cap": null,
+    "comune": "037046",
+    "frazione": null,
+    "lat": 44.42837,
+    "lon": 11.47606,
+    "coordinateApprossimate": true,
+    "descrizione": "Pranzo di San Martino aperto a tutti, con musica e momenti di convivialità, organizzato dall'associazione Il Ponte nel Centro civico di Ponte Rizzoli. Domenica 8 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Il Ponte",
+    "fonti": [
+      {
+        "nome": "Comune di Ozzano dell'Emilia - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "squamata-expo-autunno-ozzano",
+    "titolo": "Squamata Expo: edizione autunnale della mostra-mercato",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Palazzetto dello Sport",
+    "indirizzo": "Ozzano dell'Emilia",
+    "cap": null,
+    "comune": "037046",
+    "frazione": null,
+    "lat": 44.42837,
+    "lon": 11.47606,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione d'autunno della mostra-mercato Squamata Expo nel Palazzetto dello Sport di Ozzano dell'Emilia, in programma domenica 15 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ozzano dell'Emilia - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lasciami-volare-gianpietro-ghidini-paderno-dugnano",
+    "titolo": "Lasciami volare: incontro con Gianpietro Ghidini",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:30",
+    "fine": null,
+    "luogo": "Cineteca Milano Metropolis - Sala Chaplin",
+    "indirizzo": "via Oslavia 8, Paderno Dugnano",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Gianpietro Ghidini racconta la sua storia e quella del figlio Emanuele nell'incontro-testimonianza Lasciami volare. La serata è aperta a tutti, mercoledì 11 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Ema PesciolinoRosso ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano - Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi/",
+        "consultata": "2026-11-06"
+      },
+      {
+        "nome": "Fondazione Ema PesciolinoRosso ETS - scheda evento",
+        "tipo": "organizzatore",
+        "url": "https://www.pesciolinorosso.org/it-it/incontro-con-gianpietro-ghidini-a-paderno-dugnano.aspx",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "the-stage-is-hers-caffe-pedrocchi-padova",
+    "titolo": "The Stage is Hers",
+    "categoria": "mostra",
+    "inizio": "2026-10-19",
+    "fine": "2026-11-22",
+    "luogo": "Caffè Pedrocchi",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Alessandra Freguja allestita al Caffè Pedrocchi di Padova, aperta fino al 22 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pinocchio-in-galleria-gran-guardia-padova",
+    "titolo": "Pinocchio in galleria",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-04",
+    "luogo": "Sala della Gran Guardia",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di pittura di José Luis Cicciò dal titolo Pinocchio in galleria, nella Sala della Gran Guardia di Padova dal 7 novembre al 4 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oltre-teatro-sanclemente-padova-2026-11-07",
+    "titolo": "Oltre (rassegna teatrale)",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Teatro Sanclemente",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della rassegna teatrale Oltre, dedicata al teatro nel cuore della zona industriale di Padova. Appuntamento del 7 novembre 2026 al Teatro Sanclemente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oltre-teatro-sanclemente-padova-2026-11-14",
+    "titolo": "Oltre (rassegna teatrale)",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Sanclemente",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento della rassegna teatrale Oltre al Teatro Sanclemente di Padova, nella zona industriale cittadina, in programma il 14 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oltre-teatro-sanclemente-padova-2026-11-21",
+    "titolo": "Oltre (rassegna teatrale)",
+    "categoria": "teatro",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Teatro Sanclemente",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna teatrale Oltre nel Teatro Sanclemente di Padova, nel cuore della zona industriale. Lo spettacolo è in programma il 21 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oltre-teatro-sanclemente-padova-2026-11-28",
+    "titolo": "Oltre (rassegna teatrale)",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Teatro Sanclemente",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo appuntamento di novembre della rassegna teatrale Oltre al Teatro Sanclemente di Padova, nella zona industriale cittadina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aspettando-la-mia-opera-prima-linutile-padova-2026-11-07",
+    "titolo": "Aspettando La mia opera Prima",
+    "categoria": "teatro",
+    "inizio": "2026-11-07",
+    "fine": null,
+    "luogo": "Sala Teatro de Linutile",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della rassegna Aspettando La mia opera Prima, in programma alla Sala Teatro de Linutile di Padova il 7 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aspettando-la-mia-opera-prima-linutile-padova-2026-11-15",
+    "titolo": "Aspettando La mia opera Prima",
+    "categoria": "teatro",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Sala Teatro de Linutile",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento della rassegna Aspettando La mia opera Prima alla Sala Teatro de Linutile di Padova, previsto per il 15 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aspettando-la-mia-opera-prima-linutile-padova-2026-12-12",
+    "titolo": "Aspettando La mia opera Prima",
+    "categoria": "teatro",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Sala Teatro de Linutile",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna Aspettando La mia opera Prima alla Sala Teatro de Linutile di Padova, in programma il 12 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "aspettando-la-mia-opera-prima-linutile-padova-2026-12-13",
+    "titolo": "Aspettando La mia opera Prima",
+    "categoria": "teatro",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Sala Teatro de Linutile",
+    "indirizzo": "Padova",
+    "cap": null,
+    "comune": "028060",
+    "frazione": null,
+    "lat": 45.40341,
+    "lon": 11.88312,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna Aspettando La mia opera Prima alla Sala Teatro de Linutile di Padova, previsto per il 13 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Padova",
+    "fonti": [
+      {
+        "nome": "Padova Cultura - Eventi culturali",
+        "tipo": "ufficiale",
+        "url": "https://padovacultura.padovanet.it/it/eventi-culturali",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dove-la-terra-sfiora-il-cielo-pavia",
+    "titolo": "Dove la terra sfiora il cielo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T18:00",
+    "fine": "2026-11-06T19:30",
+    "luogo": "Biblioteca Mirabello Scala",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione di un libro che racconta l'Oltrepò pavese visto dall'alto, con le immagini scattate da un drone. Un incontro semplice per chi ama il territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pavia",
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "che-spettacolo-pavia",
+    "titolo": "Che spettacolo! - presentazione del libro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T16:30",
+    "fine": "2026-11-07T18:00",
+    "luogo": "Biblioteca Dolcini",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro in biblioteca con gli autori di un libro sulla storia dei teatri, delle sale da musica, dei cinema e delle sale da ballo della città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pavia",
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-classe-operaia-va-in-paradiso-pavia",
+    "titolo": "La classe operaia va in paradiso",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T18:00",
+    "fine": null,
+    "luogo": "Auditorium di San Tommaso",
+    "indirizzo": "Palazzo San Tommaso, Piazza del Lino 1, Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film di Elio Petri del 1971, primo appuntamento della retrospettiva dedicata al regista. Racconta l'alienazione della classe operaia attraverso la storia di un operaio in fabbrica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Università di Pavia",
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-in-te-grata-pavia",
+    "titolo": "L'IN-TE-GRATA",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T18:00",
+    "fine": null,
+    "luogo": "Aula Magna del Collegio Cardano",
+    "indirizzo": "Viale Resistenza 15, Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di un'autrice che torna, venticinque anni dopo, nello stesso luogo. Il dialogo è con il docente Lele Rozza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-limite-come-scoperta-dell-umano-pavia",
+    "titolo": "Il limite come scoperta dell'umano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:00",
+    "fine": "2026-11-12T22:30",
+    "luogo": "Collegio F.lli Cairoli",
+    "indirizzo": "Piazza Collegio Cairoli 1, Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del ciclo della Scuola di Cittadinanza e Partecipazione sulle frontiere dell'umano, dedicato al limite inteso come malattia o fragilità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Scuola di Cittadinanza e Partecipazione",
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "vegetarianismo-storia-antologica-pavia",
+    "titolo": "Vegetarianismo. Storia antologica di un'idea moderna",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T18:00",
+    "fine": null,
+    "luogo": "Aula Goldoniana del Collegio Ghislieri",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo incontro del ciclo I Lunedì della Storia, dedicato a un libro sulla storia del vegetarianismo. Ne discutono gli autori con una docente universitaria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "pavia.app (agenda eventi)",
+        "tipo": "aggregatore",
+        "url": "https://pavia.app/eventi",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "premio-illustratori-tarantasio-2026-paullo",
+    "titolo": "Premio Illustratori Tarantasio 2026 - Finimondo",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T17:00",
+    "fine": null,
+    "luogo": "Sala Consiliare della Città di Paullo",
+    "indirizzo": "Piazza della Libertà 3, Paullo",
+    "cap": null,
+    "comune": "015169",
+    "frazione": null,
+    "lat": 45.41685,
+    "lon": 9.40394,
+    "coordinateApprossimate": true,
+    "descrizione": "Premiazione della nona edizione del premio dedicato agli illustratori, con la mostra dei lavori in concorso. Si svolge nella sala consiliare del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Paullo Cultura",
+    "fonti": [
+      {
+        "nome": "Paullo Cultura (sito della Città di Paullo)",
+        "tipo": "ufficiale",
+        "url": "https://www.paullocultura.it/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lui-e-meglio-di-me-pescara",
+    "titolo": "Lui è meglio di me. Presentazione con Gabriele e Mattia Cirilli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Spazio Matta",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Gabriele Cirilli, attore abruzzese, presenta il libro insieme al figlio Mattia: un confronto tra due generazioni e due percorsi artistici, dentro il Festival di Libri e Altrecose.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "premio-citta-di-penne-a-mogol-pescara",
+    "titolo": "Premio Nazionale di Narrativa Città di Penne a Mogol",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-06T16:30",
+    "fine": null,
+    "luogo": "CineTeatro Massimo, sala 2",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Il premio narrativo Città di Penne, nato negli anni Settanta, riconosce Mogol, autore di molte canzoni italiane, in un incontro pubblico dentro il Festival di Libri e Altrecose.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "noi-e-annie-pescara",
+    "titolo": "Noi e Annie",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T16:00",
+    "fine": null,
+    "luogo": "Auditorium Petruzzi, Museo delle Genti d’Abruzzo",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura-spettacolo con tre attrici ispirata all'opera di Annie Ernaux, sul rapporto tra memoria personale e collettiva e sull'identità femminile.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Florian Metateatro",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "linferno-di-fante-pescara",
+    "titolo": "L'inferno di Fante",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T19:00",
+    "fine": null,
+    "luogo": "CLAP Museum",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione della biografia a fumetti dello scrittore John Fante, scritta da Frank Spotnitz e disegnata da José Hernández, con un dialogo tra gli ospiti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontro-con-matteo-nucci-pescara",
+    "titolo": "Incontro con Matteo Nucci",
+    "categoria": "conferenza",
+    "inizio": "2026-11-07T19:00",
+    "fine": null,
+    "luogo": "Spazio Matta",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con lo scrittore Matteo Nucci dentro il Festival di Libri e Altrecose, nato dalla collaborazione con il festival Macondo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontro-con-toni-ricciardi-pescara",
+    "titolo": "Incontro con Toni Ricciardi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08T18:00",
+    "fine": null,
+    "luogo": "Sala Unione, Nuovo Spazio FLA",
+    "indirizzo": "Piazza Unione, Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Toni Ricciardi nell'ambito della collaborazione tra il FLA e il John Fante Festival, dedicato allo scrittore di origine abruzzese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "percorsi-darte-contemporanea-pescara",
+    "titolo": "Percorsi d'arte contemporanea",
+    "categoria": "mostra",
+    "inizio": "2026-11-08T18:30",
+    "fine": null,
+    "luogo": "Museo delle Genti d’Abruzzo",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di una mostra con oltre ottanta opere donate dagli artisti alla Fondazione Genti d'Abruzzo: le opere saranno messe all'asta a dicembre per sostenere i progetti della fondazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Genti d’Abruzzo",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lasciarsi-tardi-di-pietrantonio-pescara",
+    "titolo": "Lasciarsi tardi, anteprima nazionale con Donatella Di Pietrantonio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17",
+    "fine": null,
+    "luogo": "Teatro Massimo",
+    "indirizzo": "Pescara",
+    "cap": null,
+    "comune": "068028",
+    "frazione": null,
+    "lat": 42.4558,
+    "lon": 14.20337,
+    "coordinateApprossimate": true,
+    "descrizione": "Anteprima nazionale del nuovo romanzo di Donatella Di Pietrantonio, in dialogo con il direttore del FLA Vincenzo d'Aquino. Il libro racconta la fine di una relazione lunga trent'anni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FLA – Festival di Libri e Altrecose",
+    "fonti": [
+      {
+        "nome": "Comune di Pescara – FLA 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pescara.it/novita/dal-5-all8-novembre-gli-eventi-del-fla-2026-quattro-giorni-per-farsi-nuove-domande/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nero-e-altri-colori-pesaro",
+    "titolo": "Nero e altri colori",
+    "categoria": "mostra",
+    "inizio": "2026-10-13",
+    "fine": "2026-11-27",
+    "luogo": "Biblioteca San Giovanni",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di illustrazioni e dipinti di Enrico Liverani alla Biblioteca San Giovanni di Pesaro, aperta fino al 27 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pesaro",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "flower-power-remix-pesaro",
+    "titolo": "Flower Power Remix",
+    "categoria": "mostra",
+    "inizio": "2026-10-25",
+    "fine": "2026-11-22",
+    "luogo": "Casa Bucci Ceramiche",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di Felipe Cardeña alla Casa Bucci Ceramiche di Pesaro, con opere in ceramica aperte fino al 22 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pesaro",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sfumature-dellanima-pesaro",
+    "titolo": "Sfumature dell'anima, mostra di Aldo Ottaviani",
+    "categoria": "mostra",
+    "inizio": "2026-11-03",
+    "fine": "2026-11-09",
+    "luogo": "Spazio espositivo di via Rossini 38",
+    "indirizzo": "Via Rossini 38, Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di dipinti di Aldo Ottaviani nello spazio espositivo di via Rossini a Pesaro, aperta fino al 9 novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pesaro",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "intelligenze-diritti-umani-pesaro",
+    "titolo": "Intelligenze. Quale futuro per i diritti umani? Con Benedetta Giovanola",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "fine": null,
+    "luogo": "Biblioteca San Giovanni",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico alla Biblioteca San Giovanni di Pesaro sul futuro dei diritti umani, con Benedetta Giovanola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pesaro",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dittico-delle-radici-pesaro",
+    "titolo": "Dittico delle Radici, Stagione di Danza 2026/27",
+    "categoria": "teatro",
+    "inizio": "2026-11-06T21:00",
+    "fine": null,
+    "luogo": "Teatro Rossini",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura della Stagione di Danza 2026-27 del Teatro Rossini con lo spettacolo Dittico delle Radici, un viaggio coreografico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pesaro",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro – Calendario eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/calendario-eventi/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gioia-marchegiani-boschi-giardini-pavullo",
+    "titolo": "Boschi, giardini e altre pause",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2027-04-11T19:00",
+    "luogo": "Galleria d'Arte Contemporanea di Palazzo Ducale",
+    "indirizzo": "Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Opere di Gioia Marchegiani, illustratrice e pittrice romana esperta di disegno botanico, a Palazzo Ducale. Il giorno dell'inaugurazione è prevista una performance di danza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pavullo nel Frignano",
+    "fonti": [
+      {
+        "nome": "Comune di Pavullo nel Frignano – Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavullo-nel-frignano.mo.it/evento/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-tradizione-celtica-pavullo",
+    "titolo": "Musica a Palazzo: Viaggio nella Tradizione Celtica (Trio Smeraldo)",
+    "categoria": "concerto",
+    "inizio": "2026-11-07T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica celtica con flauto, violoncello e chitarra nella Galleria Francesco IV di Palazzo Ducale. Ingresso libero fino a esaurimento dei posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Laboratorio Culturale APS – Artinscena",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-corde-attorno-al-mondo-pavullo",
+    "titolo": "Musica a Palazzo: Corde Attorno al Mondo (Trio Mai D'Accordo)",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per tre chitarre dal titolo Corde Attorno al Mondo, a ingresso libero nella Galleria Francesco IV di Palazzo Ducale a Pavullo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Laboratorio Culturale APS – Artinscena",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-quartetto-chalumeau-pavullo",
+    "titolo": "Musica a Palazzo: Quartetto Chalumeau",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per quattro clarinetti del Quartetto Chalumeau, eseguito da studenti e docenti del Conservatorio di Modena e Carpi, a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio di Modena e Carpi “Luciano Pavarotti”",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-romanza-alla-luna-pavullo",
+    "titolo": "Musica a Palazzo: Romanza alla Luna (Duo Maffizzoni-Candeli)",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di flauto e chitarra del Duo Maffizzoni-Candeli nella Galleria Francesco IV di Palazzo Ducale, a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Laboratorio Culturale APS – Artinscena",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-giovincelli-ensemble-pavullo",
+    "titolo": "Musica a Palazzo: Giovincelli Ensemble",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'ensemble d'archi Giovincelli con cinque musicisti, a ingresso libero nella Galleria Francesco IV di Palazzo Ducale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio di Modena e Carpi “Luciano Pavarotti”",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-modena-trumpet-ensemble-pavullo",
+    "titolo": "Musica a Palazzo: Modena Trumpet Ensemble",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Modena Trumpet Ensemble, quintetto di trombe, a ingresso libero nella Galleria Francesco IV di Palazzo Ducale a Pavullo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio di Modena e Carpi “Luciano Pavarotti”",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "musica-a-palazzo-duo-di-chitarre-pavullo",
+    "titolo": "Musica a Palazzo: Duo di Chitarre",
+    "categoria": "concerto",
+    "inizio": "2026-12-19T18:00",
+    "fine": null,
+    "luogo": "Palazzo Ducale, Galleria Francesco IV",
+    "indirizzo": "Via Giardini 3, Pavullo nel Frignano",
+    "cap": null,
+    "comune": "036030",
+    "frazione": null,
+    "lat": 44.33747,
+    "lon": 10.8444,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per due chitarre con Filippo Taroni e Tommaso Galletti, a ingresso libero nella Galleria Francesco IV di Palazzo Ducale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio di Modena e Carpi “Luciano Pavarotti”",
+    "fonti": [
+      {
+        "nome": "Oj Eventi – Musica a Palazzo",
+        "tipo": "aggregatore",
+        "url": "https://www.ojeventi.it/eventi/musica-a-palazzo-vii-edizione-a-pavullo-nel-frignano-dal-24-ottobre-2026-al-6-gennaio-2027-mo/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-del-fungo-delle-mele-e-delle-castagne-pedara",
+    "titolo": "Sagra del Fungo, delle Mele e delle Castagne dell'Etna",
+    "categoria": "sagra",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-22",
+    "luogo": "Expò di Piazza del Popolo",
+    "indirizzo": "Piazza del Popolo, Pedara",
+    "cap": null,
+    "comune": "087034",
+    "frazione": null,
+    "lat": 37.63883,
+    "lon": 15.05215,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di sagra autunnale a Pedara con prodotti del territorio, area street food coperta, spettacoli e musica dal vivo nell'area espositiva di piazza del Popolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Eventi e Sagre di Sicilia (post Facebook)",
+        "tipo": "aggregatore",
+        "url": "https://www.facebook.com/eventiesagredisicilia/posts/pedara-ct20-21-e-22-novembre-2026sagra-del-fungo-delle-mele-e-delle-castagne-del/1584099477094560/",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-a-pergine-mercatino",
+    "titolo": "Natale a Pergine: mercatino di Natale nel centro storico",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-12-27T21:30",
+    "luogo": "Centro storico",
+    "indirizzo": "Piazza Gavazzi, Pergine Valsugana",
+    "cap": null,
+    "comune": "022139",
+    "frazione": null,
+    "lat": 46.05828,
+    "lon": 11.2361,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale nel centro storico con casette di artigiani, laboratori, show cooking e concerti nei weekend. L'ingresso è gratuito, alcune attività sono a pagamento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pergine Valsugana – Natale a Pergine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pergine.tn.it/Vivere-il-Comune/Eventi/Natale-a-Pergine",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-passo-soltanto-pero",
+    "titolo": "Un passo soltanto, spettacolo teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T20:30",
+    "fine": null,
+    "luogo": "Centro Greppi",
+    "indirizzo": "Pero",
+    "cap": null,
+    "comune": "015170",
+    "frazione": null,
+    "lat": 45.51076,
+    "lon": 9.07707,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in occasione della Giornata mondiale della salute mentale, portato in scena al Centro Greppi da Auser Pero con l'associazione TantiQuanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Auser Pero",
+    "fonti": [
+      {
+        "nome": "Comune di Pero – Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pero.mi.it/it",
+        "consultata": "2026-11-06"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-04",
+    "inseritoDa": "ia"
   }
 ]
