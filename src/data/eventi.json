@@ -97198,5 +97198,71 @@
     ],
     "inserito": "2026-11-06",
     "inseritoDa": "ia"
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "materia-di-donne-circe-e-medusa-villa-presti-ospitaletto-2026-11-13",
+    "titolo": "Materia di Donne: Circe e Medusa, concerto narrativo",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "luogo": "Villa Presti",
+    "indirizzo": "Ospitaletto",
+    "comune": "017127",
+    "lat": 45.55145,
+    "lon": 10.07495,
+    "descrizione": "Primo appuntamento della rassegna «Materia di Donne», nel mese contro la violenza sulle donne: con Michela Duina, un concerto narrativo che restituisce voce e dignità a Circe e Medusa. Ingresso libero. Seguono il 18 novembre «Dare forma» (con prenotazione) e il 27 novembre «Donna nel corpo» (ingresso libero, portare tappetino).",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Ospitaletto",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Ospitaletto",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfW-0lCDTg_/",
+        "consultata": "2026-11-06"
+      }
+    ]
+  },
+  {
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-06",
+    "inseritoDa": "ia",
+    "fine": null,
+    "prenotazione": null,
+    "cap": null,
+    "slug": "olimpia-orlando-furioso-teatro-musica-rete-di-daphne-orzinuovi-2026",
+    "titolo": "«Olimpia»: teatro e musica per Rete di Daphne",
+    "categoria": "teatro",
+    "inizio": "2026-11-11T20:30",
+    "luogo": "Centro Culturale Aldo Moro",
+    "indirizzo": "Orzinuovi",
+    "comune": "017125",
+    "lat": 45.39788,
+    "lon": 9.93642,
+    "descrizione": "Marta Ossoli porta in scena «Olimpia», personaggio dell'Orlando Furioso di Ariosto, con Alberto Simoni al violino. Ingresso a offerta libera: l'intero ricavato sostiene i progetti di autonomia delle donne vittime di violenza. Promosso da Rete di Daphne.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "organizzatore": "Rete di Daphne, Comune di Orzinuovi",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Orzinuovi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUWzFAxA8B/",
+        "consultata": "2026-11-06"
+      }
+    ]
   }
 ]
