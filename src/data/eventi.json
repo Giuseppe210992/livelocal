@@ -98953,5 +98953,139 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-art-institute-di-chicago-conferenza-galleria-comunale-cagliari-2026-11-21",
+    "titolo": "L'Art Institute di Chicago: storia, architettura e ruolo culturale di un'icona americana",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Galleria Comunale d'Arte",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza del ciclo «Alla scoperta dei grandi musei», tenuta dagli storici dell'arte dei Musei Civici. Orario non indicato dalla fonte; prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Musei Civici Cagliari (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfQAhJWjcG1/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "wanda-nazzari-partiture-di-ruggine-e-di-seta-palazzo-di-citta-cagliari",
+    "titolo": "Wanda Nazzari. Partiture di ruggine e di seta",
+    "categoria": "mostra",
+    "inizio": "2026-07-31",
+    "fine": "2026-11-08",
+    "luogo": "Palazzo di Città",
+    "indirizzo": "Piazza Palazzo 6, Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a cura di Mariolina Cosseddu che ripercorre oltre cinquant'anni di ricerca di una delle voci più autorevoli dell'arte contemporanea in Sardegna. Aperta dal martedì alla domenica, ore 10-18. Domenica 8 novembre visite guidate speciali alle 11 e alle 16.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Musei Civici Cagliari (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfO1BSaFK--/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "oltre-la-pagina-paola-zarini-castello-galliate-2026-11-07",
+    "titolo": "Oltre la pagina – opere di Paola Zarini",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-15",
+    "luogo": "Sale Sud del Castello di Galliate",
+    "indirizzo": "Galliate",
+    "cap": null,
+    "comune": "003068",
+    "frazione": null,
+    "lat": 45.48527,
+    "lon": 8.71211,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di Paola Zarini nell'ambito di Avventure di Carta 2026: libri che si leggono con gli occhi e con il silenzio, forme di carta che si aprono nello spazio. Aperta sabato e domenica dal 7 al 15 novembre, ore 10-12:30 e 15-18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avventure di Carta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Avventure di Carta (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfFb_Q7Mweh/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pinocchio-a-teatro-insieme-teatro-sociale-como-2026-11-29",
+    "titolo": "Pinocchio – «A teatro insieme» al Teatro Sociale di Como",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T16:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Como",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo «Pinocchio», ideazione e regia di Luigina Dagostino, proposto dall'Associazione Ex-Alunni dell'Istituto San Vincenzo nella rassegna «A teatro insieme». Posti limitati: i nominativi vanno comunicati entro il 16 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ex-Alunni Istituto San Vincenzo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Erba (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfCUcxAlW8j/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
