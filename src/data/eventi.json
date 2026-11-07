@@ -99087,5 +99087,139 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-mercato-del-libro-ioleggoperche-castello-galliate-2026-11-07",
+    "titolo": "Mostra mercato del libro – #ioleggoperché",
+    "categoria": "mercatino",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Sale Sud del Castello di Galliate",
+    "indirizzo": "Galliate",
+    "cap": null,
+    "comune": "003068",
+    "frazione": null,
+    "lat": 45.48527,
+    "lon": 8.71211,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato del libro in collaborazione con la Libreria La Talpa di Novara per la festa di #ioleggoperché: si può donare un libro per sostenere le biblioteche scolastiche di Galliate. Sabato 7 e domenica 8 novembre, ore 10-12:30 e 15-18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avventure di Carta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Avventure di Carta (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfH_xMksKYz/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "filastrocche-musica-0-12-mesi-biblioteca-galliate-2026-11-09",
+    "titolo": "Filastrocche: musica, coccole e parole per bimbi da 0 a 12 mesi",
+    "categoria": "bambini",
+    "inizio": "2026-11-09T10:00",
+    "fine": null,
+    "luogo": "Sala Stucchi della Biblioteca",
+    "indirizzo": "Galliate",
+    "cap": null,
+    "comune": "003068",
+    "frazione": null,
+    "lat": 45.48527,
+    "lon": 8.71211,
+    "coordinateApprossimate": true,
+    "descrizione": "Esperienza musicale per bimbi fino a 12 mesi con Francesca Colli della Scuola di Musica Dedalo. Posti limitati, iscrizione obbligatoria presso la biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avventure di Carta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Avventure di Carta (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfKBE7NMl2V/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "berretto-a-sonagli-silvio-orlando-teatro-sociale-como-2026-12-09",
+    "titolo": "Berretto a sonagli con Silvio Orlando – «A teatro insieme» a Como",
+    "categoria": "teatro",
+    "inizio": "2026-12-09T20:30",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Como",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo proposto dall'Associazione Ex-Alunni dell'Istituto San Vincenzo nella rassegna «A teatro insieme» al Teatro Sociale di Como. Biglietto under 18: 10 euro. Posti limitati: i nominativi vanno comunicati entro il 25 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 27
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ex-Alunni Istituto San Vincenzo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Erba (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfCVBoqCEHF/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gaber-mi-fa-male-il-mondo-marcore-teatro-sociale-como-2026-12-16",
+    "titolo": "Gaber – Mi fa male il mondo con Neri Marcorè – «A teatro insieme» a Como",
+    "categoria": "teatro",
+    "inizio": "2026-12-16T20:30",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Como",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo proposto dall'Associazione Ex-Alunni dell'Istituto San Vincenzo nella rassegna «A teatro insieme» al Teatro Sociale di Como. Biglietto under 18: 10 euro. Posti limitati: i nominativi vanno comunicati entro il 3 dicembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 32
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ex-Alunni Istituto San Vincenzo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Erba (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfCVBoqCEHF/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
