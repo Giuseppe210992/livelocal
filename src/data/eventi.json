@@ -97896,5 +97896,38 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-dei-sapori-cameri-2026-11",
+    "titolo": "Sagra dei Sapori a Cameri",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-08",
+    "luogo": "Area Mercato",
+    "indirizzo": "Cameri",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di sagra con cena venerdì 6 e sabato 7 novembre dalle 19:30 e pranzo domenica 8 dalle 12:30. Menu con vitello tonnato, risotto salsiccia e taleggio, gnocchi con crema di zucca, stufato d'asino con polenta, arrosto con patate, formaggi, dolci artigianali e vini. Asporto su prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Cameri",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Pro Loco Cameri (Instagram)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/De9O7WDDfRQ/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
