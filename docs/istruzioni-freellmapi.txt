@@ -1,14 +1,16 @@
-Cerca sul web gli eventi pubblici di novembre e dicembre 2026 a Peschiera Borromeo (MI) e scrivili nel formato qui sotto.
+ISTRUZIONI PER IL PLAYGROUND DI FREELLMAPI - due messaggi per ogni comune.
+Copia SOLO il testo dentro le righe «MESSAGGIO», senza le righe di intestazione e senza simboli come tre apici.
 
-Regole:
-- Usa solo quello che trovi nei risultati della ricerca. Mai a memoria, mai link inventati: fonte_url deve essere un indirizzo uscito dalla ricerca.
-- Fonti ammesse: sito del Comune, Pro Loco, teatri, musei, biblioteche, parrocchie, associazioni, portali turistici. Scarta social, schede di aziende, annunci di lavoro, siti stranieri.
-- Un evento va scritto solo se nei risultati ci sono GIA' scritti: data di inizio (con anno 2026), luogo preciso (un posto con un nome, anche «Centro storico») e titolo. Altrimenti saltalo: non dedurre date, non indovinare luoghi.
-- Mai telefoni, email o nomi di privati. Per le prenotazioni, solo un link.
-- Descrizione tua, 100-300 caratteri, 2 frasi, senza copiare e senza ripetere il titolo.
-- Al massimo 8 eventi.
+==================== MESSAGGIO 1 (la ricerca) ====================
+Cerca sul web gli eventi pubblici di novembre e dicembre 2026 a Peschiera Borromeo (MI): sito del Comune, Pro Loco, teatri, musei, biblioteche, associazioni. Dammi per ogni evento titolo, data, luogo e il link della pagina da cui l'hai letto.
+==================== FINE MESSAGGIO 1 ====================
 
-Formato: un blocco per evento, blocchi separati da una riga vuota, una riga per campo «campo: valore»:
+(Aspetta la risposta. Deve comparire «web sources» e ci mette qualche secondo. Se risponde in 1 secondo, riprova scrivendo di nuovo il messaggio 1.)
+
+==================== MESSAGGIO 2 (il formato) ====================
+Ora trasforma gli eventi che hai appena trovato in blocchi di testo, usando SOLO quello che hai letto nei risultati: non aggiungere niente a memoria e non inventare link. Scrivi un evento solo se hai già data di inizio con anno 2026, luogo preciso (un posto con un nome, anche «Centro storico») e titolo; altrimenti saltalo. Mai telefoni, email o nomi di privati. Descrizione tua, 100-300 caratteri, 2 frasi, senza copiare e senza ripetere il titolo. Al massimo 8 eventi.
+
+Un blocco per evento, blocchi separati da una riga vuota, una riga per campo «campo: valore»:
 
 titolo:
 categoria: (una sola tra mostra, visita-guidata, apertura-straordinaria, concerto, teatro, sagra, festa-religiosa, mercatino, conferenza, sport, bambini, cerimonia)
@@ -21,11 +23,12 @@ fine: (facoltativa, stesso formato)
 descrizione:
 prezzo: (gratuito, «12 euro», a offerta, oppure non indicato)
 organizzatore: (nome di un ente, non di una persona)
-fonte_url:
+fonte_url: (il link della pagina da cui hai letto)
 fonte_nome:
 fonte_tipo: (ufficiale, organizzatore, stampa o aggregatore)
 
-Rispondi solo con i blocchi, senza commenti né titoli. Se non trovi nessun evento con data e luogo scritti, rispondi solo: # nessun evento: Peschiera Borromeo (MI)
+Scrivi solo i blocchi, senza commenti né titoli.
+==================== FINE MESSAGGIO 2 ====================
 
---- Per i comuni successivi, cambia solo la prima riga: «Cerca sul web gli eventi pubblici di novembre e dicembre 2026 a NOME (SIGLA) e scrivili nel formato qui sotto.» ---
-Prossimi comuni: Pianezza (TO), Pianiga (VE), Pianoro (BO), Piazza Armerina (EN)
+Per i comuni successivi cambia solo il nome nel messaggio 1:
+Pianezza (TO), Pianiga (VE), Pianoro (BO), Piazza Armerina (EN)
