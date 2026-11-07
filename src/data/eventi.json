@@ -98260,5 +98260,71 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-prete-da-sprea-rassegna-teatrale-chiampo-2026-11-07",
+    "titolo": "Il Prete da Sprea – apertura della rassegna teatrale di Chiampo",
+    "categoria": "teatro",
+    "inizio": "2026-11-07T20:45",
+    "fine": null,
+    "luogo": "Auditorium comunale",
+    "indirizzo": "Chiampo",
+    "cap": null,
+    "comune": "024029",
+    "frazione": null,
+    "lat": 45.54759,
+    "lon": 11.27691,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo «Il Prete da Sprea», che apre la rassegna teatrale di Chiampo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Chiampo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Chiampo (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfAfT_BBKRZ/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inaugurazione-spazio-kaleida-cento-2026-11-07",
+    "titolo": "Inaugurazione di Spazio Kaleida",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-07T11:30",
+    "fine": null,
+    "luogo": "Spazio Kaleida",
+    "indirizzo": "Via Carlo Breveglieri 2, Cento",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del centro polifunzionale Spazio Kaleida, punto unitario di accesso e fornitura di servizi, alla presenza del cardinale Matteo Maria Zuppi e del sindaco Edoardo Accorsi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cento",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfEqnCbAOu5/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
