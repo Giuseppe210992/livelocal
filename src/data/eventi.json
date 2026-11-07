@@ -99221,5 +99221,104 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "jasmine-and-the-midnight-hearts-teatro-excelsior-erba-2026-11-20",
+    "titolo": "Jasmine & The Midnight Hearts – Erba in scena",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Teatro Excelsior",
+    "indirizzo": "Via Diaz, Erba",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di musica dal vivo che chiude la rassegna «Terre Alte del Lario»: la voce di Jasmine Furletti attraversa le grandi icone del soul, pop e R&B, da Whitney Houston ad Aretha Franklin, da Chaka Khan ad Anita Baker. Ingresso libero e gratuito; i biglietti si prenotano online.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Città di Erba (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfHenqOlW-O/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "stravaganza-dacia-maraini-teatro-magnani-fidenza-2026-11-08",
+    "titolo": "Stravaganza – spettacolo dal testo di Dacia Maraini",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T17:30",
+    "fine": null,
+    "luogo": "Teatro Magnani",
+    "indirizzo": "Fidenza",
+    "cap": null,
+    "comune": "034014",
+    "frazione": null,
+    "lat": 44.86199,
+    "lon": 10.05582,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo tratto dal testo di Dacia Maraini, regia di Serena Mattace Raso, che mette al centro le persone, le emozioni e il valore delle differenze. Iniziativa di A.N.D.O.S. Fidenza, Centro Socio-Riabilitativo Il Sole e Cooperativa InterAzioni con il Comune di Fidenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.N.D.O.S. Fidenza",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Fidenza (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfDBqiMlImI/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "due-passi-in-natura-mumab-parco-stirone-fidenza-2026-11-08",
+    "titolo": "Due passi in natura – primo appuntamento al MUMAB e nel Parco dello Stirone",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "MUMAB e Parco dello Stirone e del Piacenziano",
+    "indirizzo": "Fidenza",
+    "cap": null,
+    "comune": "034014",
+    "frazione": null,
+    "lat": 44.86199,
+    "lon": 10.05582,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo appuntamento della nuova rassegna di attività gratuite tra il MUMAB e il Parco dello Stirone, nelle «Domeniche Detox» della Regione Emilia-Romagna: un'occasione per staccare dalla tecnologia e scoprire i benefici del contatto con la natura. Partecipazione gratuita, prenotazioni online sul sito del MUMAB.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MUMAB Mille Pioppi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Visit Fidenza (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfKrtItjYQD/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
