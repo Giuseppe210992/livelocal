@@ -98161,5 +98161,71 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "pale-blue-dot-biennale-light-art-casa-del-mantegna-mantova",
+    "titolo": "Pale Blue Dot – Biennale Light Art Mantova",
+    "categoria": "mostra",
+    "inizio": "2026-10-31",
+    "fine": "2027-01-31",
+    "luogo": "Casa del Mantegna",
+    "indirizzo": "Via G. Acerbi 47, Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Sesta edizione della Biennale Light Art Mantova, a cura di Vittorio Erlindo con Jacqueline Ceresoli. Installazioni luminose, arte, scienza e tecnologia ispirate alla fotografia della Terra scattata nel 1990 dalla sonda Voyager 1.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa del Mantegna",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo (Instagram)",
+        "tipo": "stampa",
+        "url": "https://www.instagram.com/p/DfKEwgckVc1/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-d-autunno-cernusco-sul-naviglio-2026-11-07",
+    "titolo": "Festa d'Autunno a Cernusco sul Naviglio",
+    "categoria": "mercatino",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-07",
+    "luogo": "Centro storico",
+    "indirizzo": "Cernusco sul Naviglio",
+    "cap": null,
+    "comune": "015070",
+    "frazione": null,
+    "lat": 45.52604,
+    "lon": 9.33272,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini con prodotti tipici e artigianato, animazione per famiglie, trenino itinerante nel centro storico (9:30-12:30 e 14:30-18:00), artisti di strada dalle 15:00 e spettacolo alle 17:30 in piazza Gavazzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cernusco sul Naviglio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cernusco sul Naviglio (Instagram)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfHenNJjkOT/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
