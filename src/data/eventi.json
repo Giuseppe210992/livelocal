@@ -99485,5 +99485,105 @@
     ],
     "inserito": "2026-11-07",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "alza-la-musica-pan-del-bosco-lastra-a-signa-2026-11-12",
+    "titolo": "Alza la Musica: Pan del Bosco",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T21:00",
+    "fine": "2026-11-12T23:00",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di musica dal vivo con Pan del Bosco nella rassegna Alza la Musica della stagione A Teatro Aperto. Aperitivo alle 19.30, musica dalle 21.00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti – A Teatro Aperto",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfCfV-3uvRl/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "alza-la-musica-giulia-locaso-lastra-a-signa-2026-12-03",
+    "titolo": "Alza la Musica: Giulia Locaso",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T21:00",
+    "fine": "2026-12-03T23:00",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Giulia Locaso nella rassegna Alza la Musica della stagione A Teatro Aperto. Aperitivo alle 19.30, musica dalle 21.00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti – A Teatro Aperto",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfCfV-3uvRl/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cambio-scena-edda-lastra-a-signa-2027-01-21",
+    "titolo": "Cambio Scena: Edda",
+    "categoria": "teatro",
+    "inizio": "2027-01-21T21:00",
+    "fine": "2027-01-21T23:00",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Teatro popolare d'arte nella rassegna di teatro contemporaneo Cambio Scena. Aperitivo alle 19.30, sipario alle 21.00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti – A Teatro Aperto",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfCad0iNc62/",
+        "consultata": "2026-11-07"
+      }
+    ],
+    "inserito": "2026-11-07",
+    "inseritoDa": "ia"
   }
 ]
