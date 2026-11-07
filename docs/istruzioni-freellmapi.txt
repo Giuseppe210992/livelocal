@@ -1,55 +1,31 @@
-Sei un ricercatore di eventi pubblici in Italia. Cerco eventi reali, aperti al pubblico, in un luogo fisico, con inizio tra oggi (7 novembre 2026) e fine gennaio 2027.
+Cerca sul web gli eventi pubblici di novembre e dicembre 2026 a Peschiera Borromeo (MI) e scrivili nel formato qui sotto.
 
-COSA FARE, per ognuno dei comuni elencati in fondo:
-1. Cerca SOLO su fonti ufficiali o dell'organizzatore: sito del Comune, Pro Loco, teatri, musei, biblioteche, parrocchie, associazioni, portali turistici. Ignora social network, schede di aziende, annunci di lavoro, siti stranieri, siti di notizie generiche.
-2. Apri davvero la pagina dell'evento e copia da lì titolo, data, ora e luogo ESATTI. Non usare mai le anteprime dei risultati di ricerca.
-3. Non dedurre e non inventare niente. Niente «ogni sabato», niente mesi indovinati, niente luoghi presunti. Se manca la data di inizio, o il luogo preciso (un posto con un nome, anche «Centro storico»), oppure la pagina non si legge: SALTA quell'evento.
-4. Non scrivere mai telefoni, email, nomi di privati o altri contatti, in nessun campo. Per le prenotazioni, solo un link.
-5. La descrizione è tua, di 100-300 caratteri, 2 frasi, senza copiare dal sito e senza ripetere il titolo.
-6. Al massimo 8 eventi per comune, i più vicini nel tempo.
+Regole:
+- Usa solo quello che trovi nei risultati della ricerca. Mai a memoria, mai link inventati: fonte_url deve essere un indirizzo uscito dalla ricerca.
+- Fonti ammesse: sito del Comune, Pro Loco, teatri, musei, biblioteche, parrocchie, associazioni, portali turistici. Scarta social, schede di aziende, annunci di lavoro, siti stranieri.
+- Un evento va scritto solo se nei risultati ci sono GIA' scritti: data di inizio (con anno 2026), luogo preciso (un posto con un nome, anche «Centro storico») e titolo. Altrimenti saltalo: non dedurre date, non indovinare luoghi.
+- Mai telefoni, email o nomi di privati. Per le prenotazioni, solo un link.
+- Descrizione tua, 100-300 caratteri, 2 frasi, senza copiare e senza ripetere il titolo.
+- Al massimo 8 eventi.
 
-FORMATO DELLA RISPOSTA (obbligatorio):
-- UN blocco per evento, blocchi separati da una riga vuota.
-- Una riga per campo, nella forma «campo: valore», con questi campi e in questo ordine:
+Formato: un blocco per evento, blocchi separati da una riga vuota, una riga per campo «campo: valore»:
 
 titolo:
-categoria: (UNA sola tra: mostra, visita-guidata, apertura-straordinaria, concerto, teatro, sagra, festa-religiosa, mercatino, conferenza, sport, bambini, cerimonia)
+categoria: (una sola tra mostra, visita-guidata, apertura-straordinaria, concerto, teatro, sagra, festa-religiosa, mercatino, conferenza, sport, bambini, cerimonia)
 comune:
-provincia: (sigla di due lettere, es. MI)
-luogo: (nome del posto, es. Teatro Comunale)
-indirizzo: (via e numero; se non lo trovi lascia vuoto)
+provincia: (sigla)
+luogo:
+indirizzo: (vuoto se non c'è)
 inizio: (AAAA-MM-GG oppure AAAA-MM-GG HH:MM)
-fine: (facoltativa, stesso formato dell'inizio: o tutte e due con l'ora o tutte e due senza)
+fine: (facoltativa, stesso formato)
 descrizione:
 prezzo: (gratuito, «12 euro», a offerta, oppure non indicato)
-organizzatore: (nome pubblico dell'ente, non di una persona)
-fonte_url: (la pagina esatta da cui hai letto i dati)
-fonte_nome: (nome del sito)
+organizzatore: (nome di un ente, non di una persona)
+fonte_url:
+fonte_nome:
 fonte_tipo: (ufficiale, organizzatore, stampa o aggregatore)
 
-- Nessun commento, nessuna introduzione, nessun elenco puntato, nessun titolo, niente grassetto: solo i blocchi.
-- Se per un comune non trovi eventi leggibili, scrivi una sola riga: «# nessun evento: NomeComune (SIGLA)».
+Rispondi solo con i blocchi, senza commenti né titoli. Se non trovi nessun evento con data e luogo scritti, rispondi solo: # nessun evento: Peschiera Borromeo (MI)
 
-ESEMPIO DI UN BLOCCO (non copiarlo, serve solo per il formato):
-
-titolo: Concerto d'autunno della banda cittadina
-categoria: concerto
-comune: Esempiopoli
-provincia: MI
-luogo: Teatro Comunale
-indirizzo: Via Roma 10
-inizio: 2026-11-21 21:00
-fine:
-descrizione: La banda cittadina propone un programma di marce e brani d'autunno. La serata si tiene nel teatro del paese ed è aperta a tutti.
-prezzo: gratuito
-organizzatore: Comune di Esempiopoli
-fonte_url: https://www.comune.esempiopoli.mi.it/eventi/concerto-autunno
-fonte_nome: Comune di Esempiopoli
-fonte_tipo: ufficiale
-
-COMUNI DA CERCARE:
-Peschiera Borromeo (MI)
-Pianezza (TO)
-Pianiga (VE)
-Pianoro (BO)
-Piazza Armerina (EN)
+--- Per i comuni successivi, cambia solo la prima riga: «Cerca sul web gli eventi pubblici di novembre e dicembre 2026 a NOME (SIGLA) e scrivili nel formato qui sotto.» ---
+Prossimi comuni: Pianezza (TO), Pianiga (VE), Pianoro (BO), Piazza Armerina (EN)
