@@ -1,0 +1,84 @@
+# Estrae eventi da pagine note con un modello gratuito (FreeLLMAPI), senza passare da Claude.
+# Una volta al giorno (e a mano da Actions → «Estrai eventi con FreeLLMAPI» → Run workflow).
+# Segreto da creare: FREELLMAPI_KEY. Variabili facoltative: FREELLMAPI_URL, FREELLMAPI_MODEL.
+# Il giro SCRIVE solo se il sito si costruisce e i controlli passano (npm run build): altrimenti non salva nulla.
+name: Estrai eventi con FreeLLMAPI
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: 'Solo prova: mostra cosa troverebbe, senza salvare'
+        type: boolean
+        default: false
+      max:
+        description: 'Quante pagine al massimo'
+        default: '12'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estrai-eventi
+  cancel-in-progress: false
+
+jobs:
+  estrai:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Estrai gli eventi
+        env:
+          FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
+          FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
+          FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
+          MAX_FONTI: ${{ inputs.max || '12' }}
+          TZ: Europe/Rome
+        run: |
+          if [ "${{ inputs.prova }}" = "true" ]; then
+            node scripts/estrai-eventi-ia.mjs --prova | tee giro.txt
+          else
+            node scripts/estrai-eventi-ia.mjs | tee giro.txt
+          fi
+      - name: Controlla che il sito si costruisca
+        if: ${{ !inputs.prova }}
+        run: npm run build
+        env:
+          TZ: Europe/Rome
+      - name: Salva
+        if: ${{ !inputs.prova }}
+        run: |
+          git config user.name "livelocal-bot"
+          git config user.email "livelocal-bot@users.noreply.github.com"
+          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json
+          if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
+          git commit -m "Estrazione automatica di eventi (FreeLLMAPI): $(date +%F)"
+          for i in 1 2 3 4; do
+            if ! git pull --rebase origin main; then
+              # Conflitto solo su eventi.json: si tiene la versione online e si aggiungono i nostri eventi.
+              if git diff --name-only --diff-filter=U | grep -qx 'src/data/eventi.json'; then
+                node scripts/risolvi-conflitto-eventi.mjs
+                git add src/data/eventi.json
+                GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
+              else
+                git rebase --abort; sleep $((i * 5)); continue
+              fi
+            fi
+            git push origin HEAD:main && break
+            sleep $((i * 5))
+          done
+      - name: Riepilogo
+        if: always()
+        run: |
+          echo '### Giro di estrazione' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

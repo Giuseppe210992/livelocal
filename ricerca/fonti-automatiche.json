@@ -1,0 +1,10 @@
+{
+  "_nota": "Pagine che l'automazione (scripts/estrai-eventi-ia.mjs) riapre ogni giorno. Una riga per pagina: url, nome, tipo (ufficiale = Comune/ente/teatro/museo/portale turistico; organizzatore = sito di chi organizza), dettagli (true = segue anche i link alle schede dei singoli eventi). Per aggiungerne basta una riga qui. Solo pagine pubbliche che non vietano i robot.",
+  "fonti": [
+    { "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi", "nome": "Città di Peschiera Borromeo", "tipo": "ufficiale", "dettagli": true },
+    { "url": "https://www.comune.piacenza.it/it/eventi", "nome": "Comune di Piacenza", "tipo": "ufficiale", "dettagli": true },
+    { "url": "https://visitpiacenza.it/events/natale-a-piacenza/", "nome": "Visit Piacenza - Natale a Piacenza", "tipo": "ufficiale", "dettagli": false },
+    { "url": "https://www.comune.pianodisorrento.na.it/", "nome": "Comune di Piano di Sorrento", "tipo": "ufficiale", "dettagli": true },
+    { "url": "https://teatripiacenza.it/calendario/", "nome": "Fondazione Teatri Piacenza", "tipo": "ufficiale", "dettagli": true }
+  ]
+}
