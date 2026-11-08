@@ -110516,5 +110516,72 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "lepidotteri-ali-a-scaglie-museo-setificio-monti-abbadia-lariana-2026-11-15",
+    "titolo": "Lepidotteri: ali a scaglie – letture e laboratorio per famiglie",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T10:30",
+    "fine": "2026-11-15T12:30",
+    "luogo": "Civico Museo Setificio Monti",
+    "indirizzo": "Abbadia Lariana",
+    "cap": null,
+    "comune": "097001",
+    "frazione": null,
+    "lat": 45.8977,
+    "lon": 9.3578,
+    "coordinateApprossimate": true,
+    "descrizione": "Per l'evento nazionale Kid Pass «Avventure tra le pagine»: letture a bassa voce a tema farfalle con un operatore Nati per Leggere, visita guidata per famiglie e laboratorio per creare una farfalla con foglie d'autunno. Tariffa Kid Pass 5 euro a famiglia; prenotazione consigliata al museo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Civico Museo Setificio Monti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Civico Museo Setificio Monti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfVMGaaoRKp/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "progetto-burzio-convegno-officine-h-ivrea-2026-11-27",
+    "titolo": "Progetto Burzio: «Gli uomini che fanno le macchine» – convegno pubblico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": "2026-11-27T20:00",
+    "luogo": "Polo Formativo Universitario Officine H",
+    "indirizzo": "Via Monte Navale 2, Ivrea",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.4538,
+    "lon": 7.8912,
+    "coordinateApprossimate": true,
+    "descrizione": "A 150 anni dalla nascita di Domenico Burzio, primo direttore tecnico Olivetti, convegno pubblico sul valore della competenza tecnica, dalla storia della prima Olivetti al futuro del Canavese. Promosso dalla Città di Ivrea con la Fondazione Natale Capellaro e altri enti; al mattino percorsi didattici per le scuole.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Ivrea – Fondazione Natale Capellaro",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Museo Tecnologicamente",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfP3qgmu0ih/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
