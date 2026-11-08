@@ -24,16 +24,19 @@ Cosa fa la ricerca quando parte (è già così, nessuna modifica): legge le pagi
 
 Un solo avvio ogni 5 minuti. Il numero massimo è 120.
 
-## Nella chat di giot.ai: connettore
+## Nella chat di giot.ai: connettore (versione Cloudflare)
 
-La chat ha la sezione **Impostazioni → Connettori** (servizi MCP, come TinyFish). Lo script ora parla anche questo linguaggio, quindi si può aggiungere come connettore e usare a parole.
+Il server della chat rifiuta gli indirizzi che rispondono con un reindirizzamento, e Google Apps Script risponde sempre così: per il **connettore** non funziona (per il link nel browser sì). Per il connettore si usa `docs/avvio-da-chat-worker.js` su un **Cloudflare Worker** gratuito, che risponde direttamente.
 
-1. **Aggiorna lo script**: incolla di nuovo tutto `docs/avvio-da-chat-script.gs` al posto del vecchio codice e salva. Poi **Esegui il deployment → Gestisci i deployment** → matita sul deployment esistente → **Versione: Nuova versione** → **Esegui il deployment**. L'indirizzo `/exec` resta lo stesso.
-2. Nella chat: **Impostazioni → Connettori → Aggiungi connettore**. Nome: `LiveLocal avvio`. Indirizzo: `INDIRIZZO/exec?chiave=LA_TUA_FRASE`. Salva e controlla che compaiano **3 strumenti**.
-3. Prova a scrivere: «dimmi lo stato delle ricerche di LiveLocal», poi «avvia la ricerca dei comuni, 40». Le operazioni che avviano qualcosa chiedono conferma.
+1. dash.cloudflare.com → crea un account gratuito (email + password), conferma l'email.
+2. **Workers e Pages** (o *Compute → Workers*) → **Crea** → **Crea Worker** → nome `livelocal-avvio` → **Distribuisci** (con il testo di esempio).
+3. **Modifica il codice** → cancella tutto → incolla `docs/avvio-da-chat-worker.js` → **Distribuisci**.
+4. Nel Worker: **Impostazioni → Variabili e segreti → Aggiungi**: tipo **Segreto** `GITHUB_TOKEN` (lo stesso token GitHub di prima) e tipo **Segreto** `SEGRETO` (una frase lunga e senza spazi) → **Distribuisci**.
+5. Prova nel browser: `https://livelocal-avvio.TUOUTENTE.workers.dev/?chiave=FRASE&cmd=stato`.
+6. Nella chat: Impostazioni → Connettori → Aggiungi connettore → nome `LiveLocal avvio`, indirizzo `https://livelocal-avvio.TUOUTENTE.workers.dev/?chiave=FRASE`, autenticazione **Nessuna (chiave già nell'indirizzo)** → Collega. Devono comparire **3 strumenti**.
+7. Prova: «dimmi lo stato delle ricerche di LiveLocal», poi «avvia la ricerca dei comuni, 40».
 
-Strumenti: `avvia_ricerca_comuni`, `avvia_lettura_fonti`, `stato_ricerche`.
-Se la chat non riesce a collegarsi (Apps Script risponde con un reindirizzamento che alcuni programmi non seguono), usa i tre indirizzi come preferiti: stesso risultato.
+Strumenti: `avvia_ricerca_comuni`, `avvia_lettura_fonti`, `stato_ricerche`. Una ricerca non parte se la stessa è già in coda o in corso.
 
 ## Attenzione
 
