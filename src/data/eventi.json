@@ -110284,5 +110284,104 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-biblioteca-della-legalita-borgo-san-lorenzo-2026-11-10",
+    "titolo": "Inaugurazione della Biblioteca della Legalità (BIL)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T17:00",
+    "fine": "2026-11-10T18:30",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.9635,
+    "lon": 11.4049,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della sezione locale della BIL, progetto di IBBY Italia con libri per giovani lettori sulla cultura della legalità, realizzata con l'Istituto Comprensivo e l'associazione Progetto Accoglienza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Borgo San Lorenzo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgo San Lorenzo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZoyN5M1kP/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "quello-che-le-donne-teatro-santa-maria-maggiore-bussolengo-2026-11-20",
+    "titolo": "Quello che le donne – concerto spettacolo",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": "2026-11-20T23:00",
+    "luogo": "Teatro di Santa Maria Maggiore",
+    "indirizzo": "Bussolengo",
+    "cap": null,
+    "comune": "023015",
+    "frazione": null,
+    "lat": 45.4663,
+    "lon": 10.846,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo appuntamento con il concerto spettacolo scritto e diretto da Alberto Rizzi, dedicato all'universo femminile, in occasione della giornata contro la violenza sulle donne. Ingresso gratuito con prenotazione dalla sezione eventi del sito del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bussolengo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bussolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZa6cugTw7/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "a-scuola-tra-memoria-e-meraviglia-museo-diocesano-asti-2026",
+    "titolo": "A scuola tra memoria e meraviglia: mostra al Museo Diocesano San Giovanni",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-12-20",
+    "luogo": "Museo Diocesano San Giovanni",
+    "indirizzo": "Via Natta 36, Asti",
+    "cap": null,
+    "comune": "005005",
+    "frazione": null,
+    "lat": 44.9134,
+    "lon": 8.1944,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra su come si andava a scuola nell'astigiano cento anni fa: fotografie d'epoca e antichi strumenti scientifici del Seminario Vescovile. Inaugurazione il 7 novembre alle 17.30. Ingresso a offerta libera.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo Diocesano San Giovanni",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Museo Diocesano San Giovanni",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfW1F35G-TD/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
