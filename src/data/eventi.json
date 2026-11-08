@@ -100287,5 +100287,71 @@
         "consultata": "2026-11-08"
       }
     ]
+  },
+  {
+    "slug": "smilea-dautore-gherardo-nerucci-montale-2026-11-20",
+    "titolo": "Smilea d'Autore: Gherardo Nerucci",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T17:00",
+    "fine": "2026-11-20T19:00",
+    "luogo": "Villa Castello Smilea",
+    "indirizzo": "Montale",
+    "cap": null,
+    "comune": "047010",
+    "frazione": null,
+    "lat": 43.96063,
+    "lon": 11.02502,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna La Smilea d'Autore dedicata agli autori del territorio montalese e pistoiese. Conversazione su Gherardo Nerucci politico, a cura di Laura Santanni e Giacomo Bini. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Montale – Biblioteca comunale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montale",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montale.pt.it/notizie/smilea_d_autore_novembre-dicembre_2026.html",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "smilea-dautore-lorenzo-nesi-montale-2026-12-04",
+    "titolo": "Smilea d'Autore: Lorenzo Nesi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T17:00",
+    "fine": "2026-12-04T19:00",
+    "luogo": "Villa Castello Smilea",
+    "indirizzo": "Montale",
+    "cap": null,
+    "comune": "047010",
+    "frazione": null,
+    "lat": 43.96063,
+    "lon": 11.02502,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna La Smilea d'Autore dedicata agli autori del territorio montalese e pistoiese. Una vita dedicata all'educazione dei giovani, a cura di Giacomo Bini e Andrea Bolognesi; nella serata si presenta il libro «La vita e le opere di Lorenzo Nesi» di Andrea Bolognesi. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Montale – Biblioteca comunale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montale",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montale.pt.it/notizie/smilea_d_autore_novembre-dicembre_2026.html",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
