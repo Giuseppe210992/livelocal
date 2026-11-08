@@ -169,9 +169,12 @@ function controlla(e, mappaTesti) {
   if (motivi.length) return motivi;
   const testo = mappaTesti.get(normUrl(e.fonte_url));
   if (!testo) return ['fonte_url non è una delle pagine lette'];
+  // Confronto senza punteggiatura, accenti e maiuscole: conta che le PAROLE siano quelle della pagina, nello stesso ordine.
+  const nz = (s) => ' ' + norm(s).replace(/[^a-z0-9]+/g, ' ').trim() + ' ';
+  const tt = nz(testo);
+  if (!tt.includes(nz(e.citazione_data))) motivi.push('citazione della data non presente nella pagina');
+  if (!tt.includes(nz(e.citazione_luogo))) motivi.push('citazione del luogo non presente nella pagina');
   const t = norm(testo);
-  if (!t.includes(norm(e.citazione_data))) motivi.push('citazione della data non presente nella pagina');
-  if (!t.includes(norm(e.citazione_luogo))) motivi.push('citazione del luogo non presente nella pagina');
   if (!dataCoerente(String(e.inizio), e.citazione_data)) motivi.push('la data non coincide con la citazione');
   const paroleLuogo = norm(e.luogo).split(/[^a-z0-9]+/).filter((p) => p.length >= 5);
   if (paroleLuogo.length && !paroleLuogo.some((p) => t.includes(p))) motivi.push('il luogo non compare nella pagina');
