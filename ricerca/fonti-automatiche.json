@@ -1,10 +1,1325 @@
 {
-  "_nota": "Pagine che l'automazione (scripts/estrai-eventi-ia.mjs) riapre ogni giorno. Una riga per pagina: url, nome, tipo (ufficiale = Comune/ente/teatro/museo/portale turistico; organizzatore = sito di chi organizza), dettagli (true = segue anche i link alle schede dei singoli eventi). Per aggiungerne basta una riga qui. Solo pagine pubbliche che non vietano i robot.",
-  "fonti": [
-    { "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi", "nome": "Città di Peschiera Borromeo", "tipo": "ufficiale", "dettagli": true },
-    { "url": "https://www.comune.piacenza.it/it/eventi", "nome": "Comune di Piacenza", "tipo": "ufficiale", "dettagli": true },
-    { "url": "https://visitpiacenza.it/events/natale-a-piacenza/", "nome": "Visit Piacenza - Natale a Piacenza", "tipo": "ufficiale", "dettagli": false },
-    { "url": "https://www.comune.pianodisorrento.na.it/", "nome": "Comune di Piano di Sorrento", "tipo": "ufficiale", "dettagli": true },
-    { "url": "https://teatripiacenza.it/calendario/", "nome": "Fondazione Teatri Piacenza", "tipo": "ufficiale", "dettagli": true }
-  ]
+ "_nota": "Pagine che l'automazione (scripts/estrai-eventi-ia.mjs) riapre ogni giorno. Una riga per pagina: url, nome, tipo (ufficiale = Comune/ente/teatro/museo/portale turistico; organizzatore = sito di chi organizza), dettagli (true = segue anche i link alle schede dei singoli eventi). Per aggiungerne basta una riga qui. Solo pagine pubbliche che non vietano i robot.",
+ "fonti": [
+  {
+   "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi",
+   "nome": "Città di Peschiera Borromeo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.piacenza.it/it/eventi",
+   "nome": "Comune di Piacenza",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://visitpiacenza.it/events/natale-a-piacenza/",
+   "nome": "Visit Piacenza - Natale a Piacenza",
+   "tipo": "ufficiale",
+   "dettagli": false
+  },
+  {
+   "url": "https://www.comune.pianodisorrento.na.it/",
+   "nome": "Comune di Piano di Sorrento",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatripiacenza.it/calendario/",
+   "nome": "Fondazione Teatri Piacenza",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://calabriastraordinaria.it/eventi",
+   "nome": "Calabria Straordinaria Live",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.culturabologna.it/agenda",
+   "nome": "Calendario del Comune di Bologna (culturabologna.it)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatrostabile.umbria.it/calendario",
+   "nome": "Teatro Stabile dell'Umbria",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrotrianon.org/programmazione",
+   "nome": "Teatro Trianon Viviani",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://cultura.gov.it/evento",
+   "nome": "Cultura.gov.it",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatroghione.it/eventi",
+   "nome": "Teatro Ghione",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fiesoleforyou.it/eventi",
+   "nome": "Comune di Fiesole",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.monza.it/it/eventi",
+   "nome": "Comune di Monza",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.napoli.it/vivere-il-comune/eventi",
+   "nome": "Comune di Napoli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrosancarlo.it/spettacoli",
+   "nome": "Teatro di San Carlo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.tcvi.it/it/eventi",
+   "nome": "Teatro Comunale Città di Vicenza, calendario",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.cuneocultura.it/eventi",
+   "nome": "Cuneo Cultura",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrodiroma.net/spettacoli",
+   "nome": "Teatro di Roma",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatrogrande.it/it/calendario",
+   "nome": "Teatro Grande di Brescia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.museodelnovecento.org/it/eventi",
+   "nome": "Museo del Novecento",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://acqualagna.com/programma",
+   "nome": "Programma 61a Fiera del Tartufo Bianco di Acqualagna",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.lainate.mi.it/vivere-il-comune/evento",
+   "nome": "Comune di Lainate",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.noviligure.al.it/it/eventi",
+   "nome": "Comune di Novi Ligure",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+   "nome": "Fondazione Teatro Petruzzelli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.in-lombardia.it/evento",
+   "nome": "in",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi",
+   "nome": "Comune di Montecchio Maggiore",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fierasanmartinochieri.it/programma",
+   "nome": "Fiera Nazionale di San Martino Chieri",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://romajazzfestival.it/programma",
+   "nome": "Roma Jazz Festival (programma)",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.giussano.mb.it/it/eventi",
+   "nome": "Comune di Giussano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://eliseoteatro.it/spettacoli",
+   "nome": "Eliseo Teatro",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatromanzoniroma.it/programma",
+   "nome": "Teatro Manzoni",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatropetrolini.it/spettacoli",
+   "nome": "Teatro Petrolini",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.auditorium.com/it/eventi",
+   "nome": "Auditorium Parco della Musica",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://romaeuropa.net/programma",
+   "nome": "Romaeuropa Festival",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrolafenice.it/en/whats-on",
+   "nome": "Teatro La Fenice, calendario",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.arcore.mb.it/vivere-il-comune/evento",
+   "nome": "Comune di Arcore",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.chiavari.ge.it/it/events",
+   "nome": "Comune di Chiavari",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento",
+   "nome": "Comune di Gorgonzola",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento",
+   "nome": "Comune di Limbiate",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.martinengo.bg.it/it/eventi",
+   "nome": "Comune di Martinengo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://novara.circololettori.it/eventi",
+   "nome": "Circolo dei lettori di Novara",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatrosocialecomo.it/calendario",
+   "nome": "Teatro Sociale di Como",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.turismo.comunecervia.it/it/eventi",
+   "nome": "Turismo Cervia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.auditoriumalbignasego.it/eventi",
+   "nome": "Tecnogas Auditorium Albignasego",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.atripalda.av.it/it/eventi",
+   "nome": "Comune di Atripalda",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.cesate.mi.it/vivere-il-comune/evento",
+   "nome": "Comune di Cesate",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.liricocagliari.it/evento",
+   "nome": "Teatro Lirico di Cagliari",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.reggioemiliawelcome.it/it/eventi",
+   "nome": "Reggio Emilia Welcome",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatroguglielmi.it/spettacoli",
+   "nome": "Teatro Guglielmi (Comune di Massa)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.turismo.pisa.it/eventi",
+   "nome": "Comune di Pisa",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.ancona.it/it/eventi",
+   "nome": "Comune di Ancona",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+   "nome": "Comune di Capannori",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.castenaso.bo.it/it-it/vivere-il-comune/eventi",
+   "nome": "Comune di Castenaso",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cento.fe.it/it/eventi",
+   "nome": "Comune di Cento",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.melzo.mi.it/it/eventi",
+   "nome": "Comune di Melzo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://eventi.sondrioevalmalenco.it/evento",
+   "nome": "Sondrio e Valmalenco (portale eventi)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fondazionepergolesispontini.com/calendario",
+   "nome": "Fondazione Pergolesi Spontini",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.goldoniteatro.it/spettacoli",
+   "nome": "Fondazione Teatro Goldoni",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.prolococolleferro.it/eventi",
+   "nome": "Pro Loco Città di Colleferro, agenda eventi",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrosociale.it/spettacoli",
+   "nome": "Teatro Sociale di Busto Arsizio, Accabadora",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://turismo.comune.terni.it/eventi",
+   "nome": "Vivi Terni",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.turismofvg.it/it/mare/eventi",
+   "nome": "Turismo FVG",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.vallidiargenta.org/eventi",
+   "nome": "Valli di Argenta",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://visitcittasantangelo.it/evento",
+   "nome": "Visit Città Sant'Angelo",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitpistoia.eu/eventi",
+   "nome": "Visit Pistoia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.bruneck.com/it/scoprire/eventi",
+   "nome": "Brunico",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.albino.bg.it/it/eventi",
+   "nome": "Comune di Albino",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi",
+   "nome": "Comune di Asola",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.badiapolesine.ro.it/eventi",
+   "nome": "Comune di Badia Polesine",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.calenzano.fi.it/it/events",
+   "nome": "Comune di Calenzano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cassanodadda.mi.it/it/eventi",
+   "nome": "Comune di Cassano d'Adda",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cosenza.it/it/eventi",
+   "nome": "Comune di Cosenza",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.erba.co.it/it/eventi",
+   "nome": "Comune di Erba",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.gerenzano.va.it/it/eventi",
+   "nome": "Comune di Gerenzano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.marsala.tp.it/it/events",
+   "nome": "Comune di Marsala",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.morrovalle.mc.it/vivere-il-comune/eventi",
+   "nome": "Comune di Morrovalle",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+   "nome": "Comune di Pesaro",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://saisonculturellevda.it/spettacoli",
+   "nome": "Saison Culturelle",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatroalfieriasti.it/events",
+   "nome": "Teatro Alfieri Asti",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://teatrobiondo.it/calendario",
+   "nome": "Teatro Biondo Palermo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitbertinoro.it/it/eventi",
+   "nome": "Visit Bertinoro",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.abruzzoturismo.it/it/eventi",
+   "nome": "Regione Abruzzo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi",
+   "nome": "Comune di Adro",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bernareggio.mb.it/it/events",
+   "nome": "Comune di Bernareggio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.caravaggio.bg.it/it/eventi",
+   "nome": "Comune di Caravaggio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.cardanoalcampo.va.it/vivere-il-comune/evento",
+   "nome": "Comune di Cardano al Campo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.castellarano.re.it/it/eventi",
+   "nome": "Comune di Castellarano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.chieri.to.it/it/eventi",
+   "nome": "Comune di Chieri",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi",
+   "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.macerata.it/vivere-il-comune/eventi",
+   "nome": "Comune di Macerata",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.matelica.mc.it/vivere_il_comune/eventi",
+   "nome": "Comune di Matelica",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.olgiateolona.va.it/eventi",
+   "nome": "Comune di Olgiate Olona",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.laives-leifers.it/it/laives/info-servizi/eventi",
+   "nome": "Laives",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://lamialiguria.it/eventi",
+   "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://museonazionaleromano.it/evento",
+   "nome": "Museo Nazionale Romano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://museotaranto.cultura.gov.it/it/eventi",
+   "nome": "MArTA",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.sardegnaturismo.it/eventi",
+   "nome": "Sardegna Turismo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://carboniaturismo.it/it/events",
+   "nome": "Carbonia Turismo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi",
+   "nome": "Comune di Castelletto Sopra Ticino",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+   "nome": "Comune di Cazzago San Martino",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi",
+   "nome": "Comune di Codogno, pagina Il racconto del sabato",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.forio.na.it/en-us/vivere-il-comune/eventi",
+   "nome": "Comune di Forio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.maranello.mo.it/vivere-maranello/eventi",
+   "nome": "Comune di Maranello",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.martinafranca.ta.it/Vivere-il-comune/Eventi",
+   "nome": "Comune di Martina Franca",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi",
+   "nome": "Comune di Ozzano dell'Emilia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://cultura.comune.salerno.it/eventi",
+   "nome": "Salerno Cultura",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.eppan.com/it/eventi",
+   "nome": "Associazione Turistica Appiano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fondazionepierluigipalestrina.it/eventi",
+   "nome": "Fondazione Giovanni Pierluigi da Palestrina",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fortedibard.it/eventi",
+   "nome": "Forte di Bard",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.italia.it/it/friuli-venezia-giulia/udine/cosa-fare",
+   "nome": "Italia.it (portale ufficiale ENIT)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.lozac.it/programmazione",
+   "nome": "ZAC!",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.mudec.it/eventi",
+   "nome": "MUDEC",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.museicapitolini.org/it/calendario",
+   "nome": "Musei Capitolini",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://spazioduende.it/eventi",
+   "nome": "Spazio Duende",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.stresaturismo.it/it/eventi",
+   "nome": "Stresa Turismo (Pro Loco / Comune di Stresa)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+   "nome": "Fondazione Arena di Verona",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi",
+   "nome": "Comune di Aldeno",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bellaria-igea-marina.rn.it/it/events",
+   "nome": "Comune di Bellaria Igea Marina",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+   "nome": "Comune di Borgo San Lorenzo, eventi",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.brescia.it/it/eventi",
+   "nome": "Comune di Brescia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.canegrate.mi.it/vivere-il-comune/eventi",
+   "nome": "Comune di Canegrate",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+   "nome": "Comune di Castelfidardo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.como.it/vivere-il-comune/eventi",
+   "nome": "Comune di Como",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.concesio.bs.it/it/events",
+   "nome": "Comune di Concesio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi",
+   "nome": "Comune di Cortona",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cusano-milanino.mi.it/agenda",
+   "nome": "Comune di Cusano Milanino",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.grezzana.vr.it/it/eventi",
+   "nome": "Comune di Grezzana",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.ivrea.to.it/it/argomenti/eventi",
+   "nome": "Comune di Ivrea",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.merate.lc.it/vivere_il_comune/eventi",
+   "nome": "Comune di Merate",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.mortara.pv.it/vivere_il_comune/eventi",
+   "nome": "Comune di Mortara",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.osiosotto.bg.it/it/eventi",
+   "nome": "Comune di Osio Sotto",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.pistoia.it/it/eventi",
+   "nome": "Comune di Pistoia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.ravenna.it/vivere-il-comune/eventi",
+   "nome": "Comune di Ravenna",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://francavillafontana.comune.digital/eventi",
+   "nome": "Comune di Francavilla Fontana",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.grugliascooratorio.it/events",
+   "nome": "Go Grugliasco Oratorio",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://lericicoast.it/evento",
+   "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://locri.comune.digital/eventi",
+   "nome": "Comune di Locri",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.madrenapoli.it/mostre",
+   "nome": "Museo Madre Napoli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.maxxi.art/en/events",
+   "nome": "MAXXI",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://miramare.cultura.gov.it/eventi",
+   "nome": "Castello di Miramare, eventi",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+   "nome": "Nuova Orchestra Scarlatti",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrocasalmaggiore.it/it/calendario",
+   "nome": "Teatro Comunale di Casalmaggiore",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrodinapoli.it/stagione",
+   "nome": "Teatro di Napoli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatromagnetto.it/event",
+   "nome": "Teatro Magnetto",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://touristofficeapp.com/it/caorle/eventi",
+   "nome": "Caorle Christmas Time",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitmandello.it/en-us/vivi/appuntamenti",
+   "nome": "Visit Mandello",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitmoladibari.it/evento",
+   "nome": "Visit Mola di Bari",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.alexala.it/it/eventi",
+   "nome": "Alexala",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://barberinicorsini.org/evento",
+   "nome": "Gallerie Nazionali Barberini Corsini",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.canellieventi.it/eventi",
+   "nome": "Canelli Eventi",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://cannetosabino.it/event",
+   "nome": "Associazione Pro Canneto",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://cartellone.emiliaromagnacultura.it/it/evento",
+   "nome": "Cartellone Emilia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.cittametropolitanaroma.it/events",
+   "nome": "Città metropolitana di Roma Capitale",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://colosseo.it/evento",
+   "nome": "Parco archeologico del Colosseo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.altavaltidone.pc.it/it/eventi",
+   "nome": "Comune di Alta Val Tidone",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.alzano.bg.it/vivere-il-comune/eventi",
+   "nome": "Comune di Alzano Lombardo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bagheria.pa.it/it/eventi",
+   "nome": "Comune di Bagheria",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bitonto.ba.it/it/eventi",
+   "nome": "Comune di Bitonto",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bresso.mi.it/it/eventi",
+   "nome": "Comune di Bresso",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.buccinasco.mi.it/it/eventi",
+   "nome": "Comune di Buccinasco",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.bustoarsizio.va.it/it/eventi",
+   "nome": "Comune di Busto Arsizio, eventi",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.cameri.no.it/vivere-il-comune/eventi",
+   "nome": "Comune di Cameri",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.castelgoffredo.mn.it/it/events",
+   "nome": "Comune di Castel Goffredo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cerreto-guidi.fi.it/it/eventi",
+   "nome": "Comune di Cerreto Guidi",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.cuneo.it/vivere-il-comune/eventi",
+   "nome": "Comune di Cuneo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.desio.mb.it/it/eventi",
+   "nome": "Comune di Desio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.firenze.it/vivere-il-comune/eventi",
+   "nome": "Comune di Firenze",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.fiumicino.rm.it/it/eventi",
+   "nome": "Comune di Fiumicino",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.mantova.it/it/eventi",
+   "nome": "Comune di Mantova",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.massalombarda.ra.it/Vivere-il-comune/Eventi",
+   "nome": "Comune di Massa Lombarda",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.melito.na.it/vivere-il-comune/eventi",
+   "nome": "Comune di Melito di Napoli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.mondovi.cn.it/eventi",
+   "nome": "Comune di Mondovì",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.monteargentario.gr.it/it-it/vivere-il-comune/eventi",
+   "nome": "Comune di Monte Argentario",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.montegrottoterme.pd.it/eventi",
+   "nome": "Comune di Montegrotto Terme",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://comune.monteprandone.ap.it/eventi",
+   "nome": "Comune di Monteprandone",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.montopoli.pi.it/eventi",
+   "nome": "Comune di Montopoli in Val d'Arno",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.musile.ve.it/vivere-il-comune/eventi",
+   "nome": "Comune di Musile di Piave",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.orvieto.tr.it/it/eventi",
+   "nome": "Comune di Orvieto",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi",
+   "nome": "Comune di Paderno Dugnano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.pavullo-nel-frignano.mo.it/evento",
+   "nome": "Comune di Pavullo nel Frignano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.pergine.tn.it/Vivere-il-Comune/Eventi",
+   "nome": "Comune di Pergine Valsugana",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comune.ragusa.it/it/eventi",
+   "nome": "Comune di Ragusa",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+   "nome": "Comune di Figline e Incisa Valdarno",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://direzioneregionalemuseilazio.cultura.gov.it/eventi",
+   "nome": "Direzione regionale Musei nazionali Lazio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://emiliaromagnaturismo.it/it/eventi",
+   "nome": "Emilia Romagna Turismo (Regione Emilia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://eventi.comune.verbania.it/Eventi",
+   "nome": "Comune di Verbania",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://eventi.comune.vicenza.it/Eventi",
+   "nome": "VIVA",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.feltrinellieditore.it/appuntamenti",
+   "nome": "Feltrinelli Editore",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.fondazionemacte.com/it/programma",
+   "nome": "MACTE (Fondazione MACTE)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.illagomaggiore.it/eventi",
+   "nome": "Il Lago Maggiore",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://jesolo.it/events-1/categoria/eventi",
+   "nome": "Comune di Jesolo",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://lacascinacornaredo.it/eventi",
+   "nome": "La Cascina Cornaredo",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.laquilacongressi.it/evento",
+   "nome": "L'Aquila Congressi",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://letsgo.gorizia.it/eventi",
+   "nome": "Let's Go Gorizia (Comune di Gorizia)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.merano-suedtirol.it/it/merano/informazioni-servizi/eventi",
+   "nome": "Merano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.museibassano.it/it/eventi",
+   "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.museodellacittalivorno.it/eventi",
+   "nome": "Museo della Città di Livorno",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.ordinemauriziano.it/palazzina-stupinigi/eventi",
+   "nome": "Fondazione Ordine Mauriziano",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://palazzoareseborromeo.it/evento",
+   "nome": "Palazzo Arese Borromeo",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.palazzodiamanti.it/mostre",
+   "nome": "Palazzo dei Diamanti",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://palazzorealedinapoli.org/evento",
+   "nome": "Palazzo Reale di Napoli",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://prolocoaversa.it/evento",
+   "nome": "Pro Loco Aversa Normanna",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://prolocobotticino.it/eventi",
+   "nome": "Pro Loco Botticino",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.scopri.gorizia.it/eventi",
+   "nome": "Scopri Gorizia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.spaziomosaico.it/evento",
+   "nome": "Spazio Mosaico",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatrodannunziolatina.it/programmazione",
+   "nome": "Teatro Gabriele D'Annunzio",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.teatromassimobellini.it/eventi",
+   "nome": "Teatro Massimo Bellini di Catania",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.ted.com/tedx/events",
+   "nome": "TEDx",
+   "tipo": "organizzatore",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.turismoroma.it/it/eventi",
+   "nome": "Turismo Roma",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://unionetresinarosecchia.it/eventi",
+   "nome": "Unione Tresinaro Secchia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://valledaostaheritage.com/whats-on",
+   "nome": "Valle d'Aosta Heritage",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitbrescia.it/eventi",
+   "nome": "Visit Brescia",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://visitcesenatico.it/vivi-cesenatico/eventi",
+   "nome": "Visit Cesenatico",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitlmr.it/it/eventi",
+   "nome": "Visit Langhe Monferrato Roero",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitlodi.it/it/evento",
+   "nome": "VisitLodi (Regione Lombardia)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitmuve.it/evento",
+   "nome": "MUVE, Agenda Contemporanea 2026",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitpiemonte.com/en/events",
+   "nome": "Visit Piemonte",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitrimini.com/en/events",
+   "nome": "Visit Rimini",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visitrovereto.it/vivi/eventi",
+   "nome": "Visit Rovereto e Vallagarina",
+   "tipo": "ufficiale",
+   "dettagli": true
+  },
+  {
+   "url": "https://www.visittuscany.com/en/events",
+   "nome": "Visit Tuscany (portale turistico della Toscana)",
+   "tipo": "ufficiale",
+   "dettagli": true
+  }
+ ]
 }

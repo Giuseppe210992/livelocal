@@ -30,16 +30,17 @@ const prova = args.includes('--prova');
 const simula = opz('--simula');
 const htmlLocale = opz('--html');
 const urlLocale = opz('--url');
-const MAX_FONTI = Number(opz('--max') ?? process.env.MAX_FONTI ?? 12);
+const MAX_FONTI = Number(opz('--max') ?? process.env.MAX_FONTI ?? 60);
 
 const BASE = (process.env.FREELLMAPI_URL || 'https://ai.roomandrelax.it/v1').replace(/\/$/, '');
 const CHIAVE = process.env.FREELLMAPI_KEY || '';
 const MODELLO = process.env.FREELLMAPI_MODEL || 'auto';
 const UA = 'LiveLocalBot/1.0 (+https://livelocal.roomandrelax.it)';
 const MAX_TESTO = 22000;      // caratteri della pagina principale mandati al modello
-const MAX_DETTAGLI = 6;
-const BUDGET_MS = Number(process.env.BUDGET_MINUTI ?? 20) * 60000; // il giro si ferma da solo dopo questo tempo
-const INIZIO = Date.now();       // pagine di dettaglio per fonte
+const MAX_DETTAGLI = 10;
+const BUDGET_MS = Number(process.env.BUDGET_MINUTI ?? 75) * 60000; // il giro si ferma da solo dopo questo tempo
+const INIZIO = Date.now();
+const CONCORRENZA = Math.max(1, Number(process.env.CONCORRENZA ?? 3)); // pagine lavorate insieme       // pagine di dettaglio per fonte
 const MAX_TESTO_DETTAGLIO = 3000;
 
 const OGGI = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Rome' });
@@ -191,6 +192,9 @@ const stato = existsSync(fileStato) ? JSON.parse(readFileSync(fileStato, 'utf8')
 let elenco;
 if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false }];
 else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
+const ROTTA_DA_GIORNI = 14;
+const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
+elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
 elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
 // Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
@@ -207,18 +211,22 @@ if (!simula && !args.includes('--prompt')) {
 }
 
 const blocchi = [];
-const resoconto = [`Giro del ${OGGI}: ${elenco.length} fonti, modello ${simula ? 'simulato' : MODELLO}.`];
+const resoconto = [`Giro del ${OGGI}: ${elenco.length} fonti, modello ${simula ? 'simulato' : MODELLO}, ${CONCORRENZA} in parallelo.`];
+let fermato = false; // diventa true se la chiave o l'indirizzo non funzionano: inutile continuare
 
-for (const fonte of elenco) {
-  if (Date.now() - INIZIO > BUDGET_MS) { resoconto.push('  ..   tempo a disposizione finito: le pagine rimaste saranno lette al prossimo giro'); break; }
-  console.log(`[${Math.round((Date.now() - INIZIO) / 1000)} s] ${fonte.nome}`);
-  const riga = { ultima: OGGI, eventi: 0, esito: '' };
+// Lavora UNA fonte e restituisce le righe del resoconto e i blocchi trovati (così le fonti in parallelo non si mescolano).
+async function lavora(fonte) {
+  const righe = [];
+  const nuovi = [];
+  const precedente = stato.fonti[fonte.url]?.falliti ?? 0;
+  const riga = { ultima: OGGI, eventi: 0, esito: '', falliti: precedente + 1 }; // si azzera solo se la pagina dà un risultato
+  const chiudi = () => { stato.fonti[fonte.url] = riga; return { righe, nuovi }; };
   try {
     let html, urlFinale = fonte.url;
     if (htmlLocale) html = readFileSync(htmlLocale, 'utf8');
     else {
       const s = await scarica(fonte.url);
-      if (s.errore) { riga.esito = 'non letta: ' + s.errore; resoconto.push(`  --  ${fonte.nome}: ${riga.esito}`); stato.fonti[fonte.url] = riga; continue; }
+      if (s.errore) { riga.esito = 'non letta: ' + s.errore; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
       html = s.html; urlFinale = s.urlFinale;
     }
     const pagine = [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
@@ -229,7 +237,7 @@ for (const fonte of elenco) {
         if (!d.errore) pagine.push({ url: link, testo: htmlInTesto(d.html).slice(0, MAX_TESTO_DETTAGLIO) });
       }
     }
-    if (pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; resoconto.push(`  --  ${fonte.nome}: ${riga.esito}`); stato.fonti[fonte.url] = riga; continue; }
+    if (pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
 
     const mappa = new Map(pagine.map((p) => [normUrl(p.url), p.testo]));
     if (args.includes('--prompt')) { console.log(costruisciPrompt(pagine)); process.exit(0); }
@@ -238,9 +246,9 @@ for (const fonte of elenco) {
     let buoni = 0;
     for (const e of trovati) {
       const motivi = controlla(e, mappa);
-      if (motivi.length) { resoconto.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
+      if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();
-      blocchi.push([
+      nuovi.push([
         `titolo: ${campo(e.titolo)}`, `categoria: ${campo(e.categoria)}`, `comune: ${campo(e.comune)}`, `provincia: ${campo(e.provincia)}`,
         `luogo: ${campo(e.luogo)}`, `indirizzo: ${campo(e.indirizzo)}`, `inizio: ${campo(e.inizio)}`, `fine: ${campo(e.fine)}`,
         `descrizione: ${campo(e.descrizione)}`, `prezzo: ${campo(e.prezzo)}`, `organizzatore: ${campo(e.organizzatore)}`,
@@ -249,16 +257,33 @@ for (const fonte of elenco) {
       buoni++;
     }
     riga.eventi = buoni;
+    riga.falliti = 0; // la pagina ha risposto e il modello ha lavorato: non è «rotta», anche se oggi non ha eventi
     riga.esito = `ok: ${trovati.length} proposti, ${buoni} superano il controllo`;
-    resoconto.push(`  ok   ${fonte.nome}: ${riga.esito}`);
+    righe.push(`  ok   ${fonte.nome}: ${riga.esito}`);
   } catch (err) {
     riga.esito = 'errore: ' + String(err.message ?? err).slice(0, 100);
-    resoconto.push(`  !!   ${fonte.nome}: ${riga.esito}`);
-    if (/FREELLMAPI_KEY|raggiungibile/.test(riga.esito)) { stato.fonti[fonte.url] = riga; break; }
+    righe.push(`  !!   ${fonte.nome}: ${riga.esito}`);
+    if (/FREELLMAPI_KEY|raggiungibile|HTTP 401|HTTP 403/.test(riga.esito)) fermato = true;
   }
-  stato.fonti[fonte.url] = riga;
-  if (!simula) await pausa(4000);
+  return chiudi();
 }
+
+let prossima = 0;
+let saltateTempo = 0;
+const risultati = [];
+async function operaio() {
+  while (!fermato && prossima < elenco.length) {
+    if (Date.now() - INIZIO > BUDGET_MS) { saltateTempo = elenco.length - prossima; return; }
+    const fonte = elenco[prossima++];
+    console.log(`[${Math.round((Date.now() - INIZIO) / 1000)} s] ${fonte.nome}`);
+    risultati.push(await lavora(fonte));
+    if (!simula) await pausa(2000);
+  }
+}
+await Promise.all(Array.from({ length: CONCORRENZA }, () => operaio()));
+for (const r of risultati) { resoconto.push(...r.righe); blocchi.push(...r.nuovi); }
+if (saltateTempo) resoconto.push(`  ..   tempo a disposizione finito: ${saltateTempo} pagine saranno lette al prossimo giro`);
+resoconto.push(`Riepilogo: ${risultati.length} pagine lavorate, ${blocchi.length} eventi superano il controllo.`);
 
 console.log(resoconto.join('\n'));
 if (prova) {

@@ -1,12 +1,13 @@
 # Estrae eventi da pagine note con un modello gratuito (FreeLLMAPI), senza passare da Claude.
-# Una volta al giorno (e a mano da Actions → «Estrai eventi con FreeLLMAPI» → Run workflow).
+# Quattro volte al giorno (circa 3:23, 9:23, 15:23, 21:23 ora italiana) e a mano da Actions → «Estrai eventi con FreeLLMAPI» → Run workflow.
+# Ogni giro legge le fonti rimaste indietro da più tempo (fino a 60) e lavora 3 pagine alla volta.
 # Segreto da creare: FREELLMAPI_KEY. Variabili facoltative: FREELLMAPI_URL, FREELLMAPI_MODEL.
 # Il giro SCRIVE solo se il sito si costruisce e i controlli passano (npm run build): altrimenti non salva nulla.
 name: Estrai eventi con FreeLLMAPI
 
 on:
   schedule:
-    - cron: '23 3 * * *'
+    - cron: '23 2,8,14,20 * * *'
   workflow_dispatch:
     inputs:
       prova:
@@ -15,7 +16,7 @@ on:
         default: false
       max:
         description: 'Quante pagine al massimo'
-        default: '12'
+        default: '60'
 
 permissions:
   contents: write
@@ -27,7 +28,7 @@ concurrency:
 jobs:
   estrai:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -40,7 +41,9 @@ jobs:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
-          MAX_FONTI: ${{ inputs.max || '12' }}
+          MAX_FONTI: ${{ inputs.max || '60' }}
+          BUDGET_MINUTI: '100'
+          CONCORRENZA: '3'
           TZ: Europe/Rome
         run: |
           if [ "${{ inputs.prova }}" = "true" ]; then

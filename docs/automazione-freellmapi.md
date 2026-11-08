@@ -20,18 +20,18 @@ Una GitHub Action (`.github/workflows/estrai-eventi.yml`) riapre ogni giorno le 
 3. Nella stessa pagina, scheda **Variables → New repository variable** (facoltative):
    - `FREELLMAPI_URL` = l'indirizzo base con `/v1` (es. `https://ai.roomandrelax.it/v1`). Se non lo imposti, usa proprio questo.
    - `FREELLMAPI_MODEL` = il modello. Consigliato `gpt-oss-120b` (risponde bene in JSON); se non lo imposti usa `auto`.
-4. **Prima prova, senza salvare niente**: scheda **Actions → Estrai eventi con FreeLLMAPI → Run workflow**, spunta **Solo prova**, lascia 12 pagine (o scrivi 3 per un giro corto) e premi il pulsante verde.
+4. **Prima prova, senza salvare niente**: scheda **Actions → Estrai eventi con FreeLLMAPI → Run workflow**, spunta **Solo prova**, lascia 60 pagine (o scrivi 3 per un giro corto) e premi il pulsante verde.
 5. Quando ha finito, apri l'esecuzione: in fondo c'è il **Riepilogo** con le pagine lette, gli eventi proposti, quelli scartati e perché. Mandalo a Claude per il controllo.
-6. Se va bene, lo stesso comando **senza** «Solo prova» salva davvero. Poi gira da solo ogni notte (circa le 4:23 ora italiana).
+6. Se va bene, lo stesso comando **senza** «Solo prova» salva davvero. Poi gira da solo quattro volte al giorno (circa alle 3:23, 9:23, 15:23 e 21:23 ora italiana).
 
 ## Aggiungere pagine
 
-Una riga in `ricerca/fonti-automatiche.json` (`url`, `nome`, `tipo`: `ufficiale` o `organizzatore`, `dettagli`: `true` se la pagina è un elenco con link alle schede). Meglio calendari di Comuni, teatri, musei, Pro Loco e portali turistici. Claude può farlo in blocco partendo da `docs/fonti.md`. Ogni giro legge al massimo 12 pagine, le meno recenti per prime.
+Una riga in `ricerca/fonti-automatiche.json` (`url`, `nome`, `tipo`: `ufficiale` o `organizzatore`, `dettagli`: `true` se la pagina è un elenco con link alle schede). Meglio calendari di Comuni, teatri, musei, Pro Loco e portali turistici. Claude può farlo in blocco partendo da `docs/fonti.md`. Ogni giro legge fino a 60 pagine, le meno recenti per prime, tre alla volta (circa 100 secondi per pagina, tempo massimo 100 minuti). Una pagina che non risponde o è vuota per 3 giri di fila viene messa da parte per 14 giorni (`ricerca/automazione-stato.json`, campo `falliti`).
 
 ## Limiti da conoscere
 
 - **Pagine che caricano il contenuto con JavaScript** o che bloccano i robot risultano «non lette» o «pagina vuota»: restano nell'elenco dello stato (`ricerca/automazione-stato.json`) e si possono togliere.
 - **FreeLLMAPI deve essere raggiungibile da internet** (da questa sessione di Claude il suo indirizzo non si raggiunge, quindi il collaudo reale lo fa la Action).
-- **Quota gratuita**: ogni pagina usa una richiesta al modello. 12 pagine al giorno sono poche per qualunque fornitore gratuito.
+- **Quota gratuita**: ogni pagina usa una richiesta al modello. con 60 pagine per giro e 4 giri al giorno sono fino a 240 richieste al giorno: se il fornitore gratuito arriva al limite, il giro si ferma da solo e riprende al successivo.
 - **Qualità**: i modelli gratuiti sbagliano più dei grandi. Il controllo sulle citazioni toglie le invenzioni, non gli errori di interpretazione (categoria, prezzo, organizzatore): Claude fa un controllo a campione sulle consegne automatiche.
 - Gli eventi arrivano come «pubblicato» con fonte `ufficiale` o `organizzatore` (secondo la riga della fonte) e con l'avviso «Possono esserci errori» già presente sul sito.
