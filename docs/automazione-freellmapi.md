@@ -35,3 +35,12 @@ Una riga in `ricerca/fonti-automatiche.json` (`url`, `nome`, `tipo`: `ufficiale`
 - **Quota gratuita**: ogni pagina usa una richiesta al modello. con 60 pagine per giro e 4 giri al giorno sono fino a 240 richieste al giorno: se il fornitore gratuito arriva al limite, il giro si ferma da solo e riprende al successivo.
 - **Qualità**: i modelli gratuiti sbagliano più dei grandi. Il controllo sulle citazioni toglie le invenzioni, non gli errori di interpretazione (categoria, prezzo, organizzatore): Claude fa un controllo a campione sulle consegne automatiche.
 - Gli eventi arrivano come «pubblicato» con fonte `ufficiale` o `organizzatore` (secondo la riga della fonte) e con l'avviso «Possono esserci errori» già presente sul sito.
+
+## Giro dei comuni da 10.000 abitanti (Action «Estrai eventi dei comuni con FreeLLMAPI»)
+
+Seconda Action (`.github/workflows/estrai-comuni.yml`), ogni 3 ore, 30 comuni per giro. Per ogni comune da 10.000 abitanti non ancora fatto (`ricerca/comuni-grandi.json`, segnalibro in `ricerca/comuni-progresso.json`):
+1. trova il sito ufficiale del Comune (da Wikidata, salvato in `ricerca/comuni-siti.json`; se manca prova gli indirizzi tipici `comune.<nome>.<sigla>.it`);
+2. cerca nella pagina iniziale il link «Eventi/Agenda/Manifestazioni»;
+3. legge quella pagina e fino a 10 schede di dettaglio, poi segue la stessa procedura dell'altra Action (citazioni controllate, importazione con controlli, build, salvataggio);
+4. segna il comune come `eventi`, `nessun-evento` o `fonti-illeggibili` (sito non trovato, pagina vuota o bloccata).
+Prima prova reale (8/11/2026, 10 comuni): 5 con eventi, 1 senza, 5 illeggibili; i siti che caricano gli eventi con JavaScript restano il limite principale. Per fermare tutto: Actions → la Action → menu «…» → Disable workflow.
