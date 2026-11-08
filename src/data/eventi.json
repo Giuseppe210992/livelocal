@@ -110383,5 +110383,138 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "sabato-botanico-visita-guidata-orto-botanico-pisa-2026-11-21",
+    "titolo": "Sabato Botanico: visita guidata all'Orto e Museo Botanico",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T15:00",
+    "fine": "2026-11-21T16:30",
+    "luogo": "Orto e Museo Botanico",
+    "indirizzo": "Via Ghini 13, Pisa",
+    "cap": null,
+    "comune": "050026",
+    "frazione": null,
+    "lat": 43.716,
+    "lon": 10.4,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla scoperta del patrimonio botanico dell'Orto, che cambia con le stagioni. Costo 10 euro a persona, gratis sotto i 6 anni. Prenotazione necessaria entro le 12:00 di venerdì 20 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Orto e Museo Botanico di Pisa – Università di Pisa",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Orto e Museo Botanico di Pisa",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfPJjyHDAqr/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arboratorio-introduzione-teorica-orto-botanico-pisa-2026-11-19",
+    "titolo": "L'Arboratorio – introduzione alle specie arboree spontanee",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T10:00",
+    "fine": "2026-11-19T12:00",
+    "luogo": "Orto e Museo Botanico",
+    "indirizzo": "Via Ghini 13, Pisa",
+    "cap": null,
+    "comune": "050026",
+    "frazione": null,
+    "lat": 43.716,
+    "lon": 10.4,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro del laboratorio per la Giornata nazionale degli alberi: che cos'è un albero, strutture utili all'identificazione e specie arboree italiane. Partecipazione gratuita con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orto e Museo Botanico di Pisa – Università di Pisa",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Orto e Museo Botanico di Pisa",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXoBTcCW72/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arboratorio-visita-guidata-alberi-orto-botanico-pisa-2026-11-19",
+    "titolo": "L'Arboratorio – visita guidata alle specie arboree dell'Orto",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-19T14:00",
+    "fine": "2026-11-19T16:00",
+    "luogo": "Orto e Museo Botanico",
+    "indirizzo": "Via Ghini 13, Pisa",
+    "cap": null,
+    "comune": "050026",
+    "frazione": null,
+    "lat": 43.716,
+    "lon": 10.4,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alle specie arboree dell'Orto Botanico, secondo incontro del laboratorio L'Arboratorio. Partecipazione gratuita con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orto e Museo Botanico di Pisa – Università di Pisa",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Orto e Museo Botanico di Pisa",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXoBTcCW72/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "arboratorio-escursione-sentieri-dei-tre-pini-pisa-2026-11-21",
+    "titolo": "L'Arboratorio – escursione ai Sentieri dei Tre Pini",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T14:00",
+    "luogo": "Orto e Museo Botanico",
+    "indirizzo": "Via Ghini 13, Pisa",
+    "cap": null,
+    "comune": "050026",
+    "frazione": null,
+    "lat": 43.716,
+    "lon": 10.4,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione ai Sentieri dei Tre Pini a San Piero a Grado per riconoscere le specie spontanee con chiavi di identificazione e app Urban Flora. Partecipazione gratuita con prenotazione; ritrovo da definire con l'organizzazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orto e Museo Botanico di Pisa – Università di Pisa",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Orto e Museo Botanico di Pisa",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfXoBTcCW72/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
