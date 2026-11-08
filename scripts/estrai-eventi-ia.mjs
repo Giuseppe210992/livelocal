@@ -221,7 +221,30 @@ function trovaPaginaEventi(html, base) {
   trovati.sort((a, b) => b.punti - a.punti || a.url.length - b.url.length);
   return trovati[0]?.url ?? null;
 }
+// Siti ufficiali dei Comuni da Wikidata (proprietà P856, indicizzati per codice ISTAT P635): una sola richiesta, poi salvati in ricerca/comuni-siti.json.
+const fileSiti = 'ricerca/comuni-siti.json';
+async function sitiDaWikidata() {
+  if (existsSync(fileSiti)) return JSON.parse(readFileSync(fileSiti, 'utf8'));
+  const sparql = 'SELECT ?istat ?sito WHERE { ?c wdt:P31 wd:Q747074 . ?c wdt:P635 ?istat . ?c wdt:P856 ?sito . }';
+  try {
+    const r = await fetch('https://query.wikidata.org/sparql?format=json&query=' + encodeURIComponent(sparql), { headers: { 'User-Agent': UA, Accept: 'application/sparql-results+json' }, signal: AbortSignal.timeout(90000) });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const out = {};
+    for (const b of (await r.json()).results.bindings) {
+      const k = b.istat.value.padStart(6, '0');
+      (out[k] ??= []).includes(b.sito.value) || out[k].push(b.sito.value);
+    }
+    writeFileSync(fileSiti, JSON.stringify(out) + '\n');
+    console.log(`Siti dei Comuni da Wikidata: ${Object.keys(out).length} comuni.`);
+    return out;
+  } catch (e) {
+    console.log('Wikidata non raggiungibile (' + String(e.message ?? e).slice(0, 60) + '): si provano solo gli indirizzi tipici.');
+    return {};
+  }
+}
+
 async function preparaComuni(quanti) {
+  const sitiWikidata = await sitiDaWikidata();
   const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
   const province = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
   const grandi = new Set(JSON.parse(readFileSync('ricerca/comuni-grandi.json', 'utf8')).comuni.map((c) => c.codice));
@@ -234,7 +257,7 @@ async function preparaComuni(quanti) {
       const c = coda[i++];
       const sigla = province.get(c.provincia).sigla;
       let sito = null, html = null;
-      for (const ind of indirizziComune(c, sigla)) {
+      for (const ind of [...(sitiWikidata[c.codiceIstat] ?? []).filter((u) => /^https?:\/\//.test(u)), ...indirizziComune(c, sigla)]) {
         const s = await scarica(ind);
         if (!s.errore && s.html.length > 500) { sito = s.urlFinale; html = s.html; break; }
       }
