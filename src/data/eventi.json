@@ -110748,5 +110748,71 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "crescere-a-portata-di-schermo-biblioteca-chiampo-2026-11-11",
+    "titolo": "Crescere a portata di schermo – serata per genitori",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:30",
+    "fine": "2026-11-11T22:00",
+    "luogo": "Biblioteca di Chiampo – Sala P3",
+    "indirizzo": "Chiampo",
+    "cap": null,
+    "comune": "024029",
+    "frazione": null,
+    "lat": 45.5476,
+    "lon": 11.2769,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata con la psicologa clinica Carlotta Zoso su come gestire smartphone, tablet e tecnologie digitali in famiglia e sugli effetti sulla crescita di bambini e ragazzi. In collaborazione con il Comitato Genitori dell'IC A. Faedo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Chiampo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiampo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZq55QiAIO/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-presentazione-stagione-concertistica-auditorium-celesti-desenzano-2026-11-11",
+    "titolo": "Concerto di presentazione della Stagione Concertistica 2026-2027",
+    "categoria": "concerto",
+    "inizio": "2026-11-11T20:30",
+    "fine": "2026-11-11T22:30",
+    "luogo": "Auditorium Andrea Celesti",
+    "indirizzo": "Desenzano del Garda",
+    "cap": null,
+    "comune": "017067",
+    "frazione": null,
+    "lat": 45.4539,
+    "lon": 10.5643,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto straordinario di apertura della stagione, con i docenti del Garda Lake Music Excellence: Kyoko Takezawa e Alberto Martini (violino), Luca Ranieri (viola), Wen-Sinn Yang (violoncello) ed Edoardo Strabbioli (pianoforte). Ingresso libero; la stagione prosegue fino a marzo 2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Desenzano del Garda",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Desenzano del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZLn-2sloq/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
