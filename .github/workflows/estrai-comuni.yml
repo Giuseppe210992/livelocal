@@ -1,0 +1,84 @@
+# Cerca gli eventi dei comuni da 10.000 abitanti non ancora fatti, con un modello gratuito (FreeLLMAPI), senza passare da Claude.
+# Per ogni comune: trova il sito del Comune, la sua pagina «Eventi», legge le schede e importa gli eventi che superano i controlli.
+# Gira ogni 3 ore e a mano da Actions → «Estrai eventi dei comuni con FreeLLMAPI» → Run workflow.
+# Segreto necessario: FREELLMAPI_KEY (lo stesso dell'altra Action). Il segnalibro è ricerca/comuni-progresso.json.
+name: Estrai eventi dei comuni con FreeLLMAPI
+
+on:
+  schedule:
+    - cron: '41 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: 'Solo prova: mostra cosa troverebbe, senza salvare'
+        type: boolean
+        default: false
+      quanti:
+        description: 'Quanti comuni in questo giro'
+        default: '30'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estrai-eventi
+  cancel-in-progress: false
+
+jobs:
+  estrai:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Cerca gli eventi dei comuni
+        env:
+          FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
+          FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
+          FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
+          COMUNI_PER_GIRO: ${{ inputs.quanti || '30' }}
+          BUDGET_MINUTI: '100'
+          CONCORRENZA: '3'
+          TZ: Europe/Rome
+        run: |
+          if [ "${{ inputs.prova }}" = "true" ]; then
+            node scripts/estrai-eventi-ia.mjs --comuni --prova | tee giro.txt
+          else
+            node scripts/estrai-eventi-ia.mjs --comuni | tee giro.txt
+          fi
+      - name: Controlla che il sito si costruisca
+        if: ${{ !inputs.prova }}
+        run: npm run build
+        env:
+          TZ: Europe/Rome
+      - name: Salva
+        if: ${{ !inputs.prova }}
+        run: |
+          git config user.name "livelocal-bot"
+          git config user.email "livelocal-bot@users.noreply.github.com"
+          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json ricerca/comuni-progresso.json
+          if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
+          git commit -m "Estrazione automatica dei comuni (FreeLLMAPI): $(date +%F-%H%M)"
+          for i in 1 2 3 4; do
+            if ! git pull --rebase origin main; then
+              if node scripts/risolvi-conflitto-eventi.mjs; then
+                git add src/data/eventi.json ricerca/comuni-progresso.json ricerca/automazione-stato.json
+                GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
+              else
+                git rebase --abort; sleep $((i * 5)); continue
+              fi
+            fi
+            git push origin HEAD:main && break
+            sleep $((i * 5))
+          done
+      - name: Riepilogo
+        if: always()
+        run: |
+          echo '### Giro dei comuni' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          tail -60 giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

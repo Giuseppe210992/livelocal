@@ -114,9 +114,9 @@ function linkDettaglio(html, base) {
 }
 
 // ---------- 2) Modello ----------
-function costruisciPrompt(pagine) {
+function costruisciPrompt(pagine, hint = '') {
   const testo = pagine.map((p, i) => `=== PAGINA ${i + 1}: ${p.url}\n${p.testo}`).join('\n\n');
-  return `Oggi è ${OGGI}. Estrai gli eventi pubblici in luogo fisico, aperti al pubblico, che iniziano da oggi in poi, dalle pagine qui sotto. Usa SOLO ciò che è scritto nelle pagine.
+  return `${hint ? hint + '\n' : ''}Oggi è ${OGGI}. Estrai gli eventi pubblici in luogo fisico, aperti al pubblico, che iniziano da oggi in poi, dalle pagine qui sotto. Usa SOLO ciò che è scritto nelle pagine.
 
 Regole:
 - Un evento si scrive solo se la pagina riporta già la data di inizio (con giorno e mese) e un luogo preciso (un posto con un nome; «Centro storico» va bene). Altrimenti saltalo. Mai dedurre date da «ogni sabato» o simili, mai indovinare.
@@ -190,13 +190,73 @@ const fileFonti = 'ricerca/fonti-automatiche.json';
 const fileStato = 'ricerca/automazione-stato.json';
 const stato = existsSync(fileStato) ? JSON.parse(readFileSync(fileStato, 'utf8')) : { _nota: 'Generato da scripts/estrai-eventi-ia.mjs: ultimo giro per ogni fonte.', fonti: {} };
 
+// ---- Modalità --comuni: per ogni comune da 10.000 abitanti non ancora fatto, trova il sito del Comune e la sua pagina «Eventi».
+const fileProgresso = 'ricerca/comuni-progresso.json';
+const progresso = existsSync(fileProgresso) ? JSON.parse(readFileSync(fileProgresso, 'utf8')) : { _nota: 'Comuni già censiti. esito: eventi | nessun-evento | fonti-illeggibili.', fatti: {} };
+const modalitaComuni = args.includes('--comuni');
+const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 30);
+
+const slugComune = (c) => c.slug;
+function indirizziComune(c, sigla) {
+  const s = slugComune(c), g = sigla.toLowerCase();
+  return [`https://www.comune.${s}.${g}.it/`, `https://comune.${s}.${g}.it/`, `https://www.comune.${s}.it/`, `https://comune.${s}.it/`];
+}
+function trovaPaginaEventi(html, base) {
+  const trovati = [];
+  for (const m of html.matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    let u;
+    try { u = new URL(decodifica(m[1]), base); } catch { continue; }
+    if (u.host !== new URL(base).host || !/^https?:$/.test(u.protocol)) continue;
+    if (/\.(pdf|jpe?g|png|gif|zip|docx?)$/i.test(u.pathname)) continue;
+    const testo = htmlInTesto(m[2]).toLowerCase().slice(0, 60);
+    const percorso = (u.pathname + u.search).toLowerCase();
+    let punti = 0;
+    if (/^(eventi|agenda|agenda eventi|calendario eventi|tutti gli eventi|eventi e manifestazioni|manifestazioni|eventi in programma)$/.test(testo.trim())) punti += 5;
+    else if (/\b(eventi|agenda|manifestazioni|appuntamenti)\b/.test(testo)) punti += 3;
+    if (/\/(eventi|events|agenda|manifestazioni|appuntamenti)\/?$/.test(u.pathname.toLowerCase())) punti += 4;
+    else if (/(eventi|events|agenda|manifestazioni)/.test(percorso)) punti += 1;
+    if (/news|notizie|avvisi|bandi|albo|trasparen|gara|concors/.test(percorso)) punti -= 3;
+    if (punti >= 3) trovati.push({ url: normUrl(u.toString()), punti });
+  }
+  trovati.sort((a, b) => b.punti - a.punti || a.url.length - b.url.length);
+  return trovati[0]?.url ?? null;
+}
+async function preparaComuni(quanti) {
+  const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
+  const province = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
+  const grandi = new Set(JSON.parse(readFileSync('ricerca/comuni-grandi.json', 'utf8')).comuni.map((c) => c.codice));
+  const coda = territorio.comuni.filter((c) => grandi.has(c.codiceIstat) && !progresso.fatti[c.codiceIstat])
+    .sort((a, b) => a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat)).slice(0, quanti);
+  const out = [];
+  let i = 0;
+  async function cerca() {
+    while (i < coda.length) {
+      const c = coda[i++];
+      const sigla = province.get(c.provincia).sigla;
+      let sito = null, html = null;
+      for (const ind of indirizziComune(c, sigla)) {
+        const s = await scarica(ind);
+        if (!s.errore && s.html.length > 500) { sito = s.urlFinale; html = s.html; break; }
+      }
+      if (!sito) { progresso.fatti[c.codiceIstat] = { data: OGGI, esito: 'fonti-illeggibili', eventi: 0 }; console.log(`  --  ${c.nome} (${sigla}): sito del Comune non trovato`); continue; }
+      const pagina = trovaPaginaEventi(html, sito) ?? normUrl(sito);
+      out.push({ url: pagina, nome: `Comune di ${c.nome}`, tipo: 'ufficiale', dettagli: true, codiceComune: c.codiceIstat, hint: `Comune di riferimento: ${c.nome} (${sigla}). Gli eventi che si svolgono in questo Comune vanno scritti con comune: ${c.nome} e provincia: ${sigla}.` });
+      await pausa(500);
+    }
+  }
+  await Promise.all(Array.from({ length: 4 }, () => cerca()));
+  console.log(`Comuni preparati: ${out.length} su ${coda.length} (gli altri non hanno un sito trovato).`);
+  return out;
+}
+
 let elenco;
-if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false }];
+if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
+else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false }];
 else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
-elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
-elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
+if (!modalitaComuni) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
+if (!modalitaComuni) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
 // Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
 if (!simula && !args.includes('--prompt')) {
@@ -221,7 +281,14 @@ async function lavora(fonte) {
   const nuovi = [];
   const precedente = stato.fonti[fonte.url]?.falliti ?? 0;
   const riga = { ultima: OGGI, eventi: 0, esito: '', falliti: precedente + 1 }; // si azzera solo se la pagina dà un risultato
-  const chiudi = () => { stato.fonti[fonte.url] = riga; return { righe, nuovi }; };
+  const chiudi = () => {
+    if (!fonte.codiceComune) stato.fonti[fonte.url] = riga;
+    if (fonte.codiceComune) {
+      const letto = riga.esito.startsWith('ok');
+      progresso.fatti[fonte.codiceComune] = { data: OGGI, esito: !letto ? 'fonti-illeggibili' : nuovi.length ? 'eventi' : 'nessun-evento', eventi: nuovi.length };
+    }
+    return { righe, nuovi };
+  };
   try {
     let html, urlFinale = fonte.url;
     if (htmlLocale) html = readFileSync(htmlLocale, 'utf8');
@@ -241,8 +308,8 @@ async function lavora(fonte) {
     if (pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
 
     const mappa = new Map(pagine.map((p) => [normUrl(p.url), p.testo]));
-    if (args.includes('--prompt')) { console.log(costruisciPrompt(pagine)); process.exit(0); }
-    const risposta = await chiediAlModello(costruisciPrompt(pagine));
+    if (args.includes('--prompt')) { console.log(costruisciPrompt(pagine, fonte.hint ?? '')); process.exit(0); }
+    const risposta = await chiediAlModello(costruisciPrompt(pagine, fonte.hint ?? ''));
     const trovati = Array.isArray(risposta.eventi) ? risposta.eventi : [];
     let buoni = 0;
     for (const e of trovati) {
@@ -293,6 +360,7 @@ if (prova) {
 }
 console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
+if (modalitaComuni) writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
 if (blocchi.length) {
   mkdirSync('ricerca/consegne', { recursive: true });
   const nomeFile = `ricerca/consegne/auto-${OGGI}-${new Date().toISOString().slice(11, 16).replace(':', '')}.txt`;
