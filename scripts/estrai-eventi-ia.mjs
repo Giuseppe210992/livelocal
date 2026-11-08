@@ -37,7 +37,9 @@ const CHIAVE = process.env.FREELLMAPI_KEY || '';
 const MODELLO = process.env.FREELLMAPI_MODEL || 'auto';
 const UA = 'LiveLocalBot/1.0 (+https://livelocal.roomandrelax.it)';
 const MAX_TESTO = 22000;      // caratteri della pagina principale mandati al modello
-const MAX_DETTAGLI = 6;       // pagine di dettaglio per fonte
+const MAX_DETTAGLI = 6;
+const BUDGET_MS = Number(process.env.BUDGET_MINUTI ?? 20) * 60000; // il giro si ferma da solo dopo questo tempo
+const INIZIO = Date.now();       // pagine di dettaglio per fonte
 const MAX_TESTO_DETTAGLIO = 3000;
 
 const OGGI = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Rome' });
@@ -137,7 +139,7 @@ async function chiediAlModello(prompt) {
   for (let tentativo = 1; tentativo <= 3; tentativo++) {
     const corpo = { model: MODELLO, temperature: 0, max_tokens: 6000, messages: [{ role: 'system', content: 'Sei un assistente che estrae dati strutturati. Rispondi solo con JSON.' }, { role: 'user', content: prompt }], response_format: { type: 'json_object' } };
     if (tentativo === 3) delete corpo.response_format;
-    const r = await fetch(`${BASE}/chat/completions`, { method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${CHIAVE}` }, body: JSON.stringify(corpo), signal: AbortSignal.timeout(180000) });
+    const r = await fetch(`${BASE}/chat/completions`, { method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${CHIAVE}` }, body: JSON.stringify(corpo), signal: AbortSignal.timeout(90000) });
     if (r.status === 429 || r.status >= 500) { await pausa(25000 * tentativo); continue; }
     if (!r.ok) { if (r.status === 400 && tentativo < 3) continue; throw new Error(`modello: HTTP ${r.status}`); }
     const j = await r.json();
@@ -188,10 +190,25 @@ if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'uffi
 else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
 elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
+// Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
+if (!simula && !args.includes('--prompt')) {
+  if (!CHIAVE) { console.error('ERRORE: manca il segreto FREELLMAPI_KEY.'); process.exit(1); }
+  try {
+    const r = await fetch(`${BASE}/models`, { headers: { Authorization: `Bearer ${CHIAVE}` }, signal: AbortSignal.timeout(20000) });
+    console.log(`Collegamento a ${BASE}: HTTP ${r.status}${r.ok ? ' (ok)' : ''}`);
+    if (r.status === 401 || r.status === 403) { console.error('ERRORE: la chiave è stata rifiutata (401/403). Controlla FREELLMAPI_KEY.'); process.exit(1); }
+  } catch (e) {
+    console.error(`ERRORE: ${BASE} non risponde (${String(e.message ?? e).slice(0, 80)}). Controlla FREELLMAPI_URL.`);
+    process.exit(1);
+  }
+}
+
 const blocchi = [];
 const resoconto = [`Giro del ${OGGI}: ${elenco.length} fonti, modello ${simula ? 'simulato' : MODELLO}.`];
 
 for (const fonte of elenco) {
+  if (Date.now() - INIZIO > BUDGET_MS) { resoconto.push('  ..   tempo a disposizione finito: le pagine rimaste saranno lette al prossimo giro'); break; }
+  console.log(`[${Math.round((Date.now() - INIZIO) / 1000)} s] ${fonte.nome}`);
   const riga = { ultima: OGGI, eventi: 0, esito: '' };
   try {
     let html, urlFinale = fonte.url;
