@@ -101015,5 +101015,171 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "d-i-m-m-i-circolo-di-lettura-per-bambini-2026-2027-piazzola-sul-brenta",
+    "titolo": "D.I.M.M.I. Circolo di lettura per bambini 2026/2027",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:45",
+    "fine": "2026-11-14T12:45",
+    "luogo": "Biblioteca - Centro culturale A. Mantegna",
+    "indirizzo": "Piazza IV Novembre, 2",
+    "cap": null,
+    "comune": "028063",
+    "frazione": null,
+    "lat": 45.54192,
+    "lon": 11.77696,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per bambini delle classi quarta e quinta della Scuola Primaria con Federica Ortolan.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Piazzola sul Brenta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piazzolasulbrenta.pd.it/vivere-il-comune/eventi/d-i-m-m-i-circolo-di-lettura-per-bambini-2026-2027",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-di-screening-uditivo-gratutito-pieve-emanuele",
+    "titolo": "Giornata di screening uditivo gratutito",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-16T09:00",
+    "fine": "2026-11-16T17:00",
+    "luogo": "Centro di Cultura Socio Sanitaria E.Taddei",
+    "indirizzo": "Via Pietro Mascagni, 2, 20072 Pieve Emanuele MI",
+    "cap": null,
+    "comune": "015173",
+    "frazione": null,
+    "lat": 45.35223,
+    "lon": 9.1961,
+    "coordinateApprossimate": true,
+    "descrizione": "Il 16 novembre 2026, dalle 9:00 alle 17:00, il Centro di Cultura Socio Sanitaria E.Taddei ospiterà una giornata di screening gratuito dell'udito per i cittadini di Pieve Emanuele, con esami audiometrici a cura di OTOACUSTICA LOMBARDA e consegna di un gadget.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pieve Emanuele",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pieveemanuele.mi.it/it/eventi/giornata-di-screening-uditivo-gratutito",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "introduzione-alla-toponomastica-della-riviera-della-brenta-pianiga",
+    "titolo": "Introduzione alla toponomastica della Riviera della Brenta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T19:00",
+    "fine": "2026-11-09T20:30",
+    "luogo": "Aula Alvise Zotti",
+    "indirizzo": "presso I.C.S. Giovanni XXII - ingresso da Viale Giulio Onesti, 2",
+    "cap": null,
+    "comune": "027028",
+    "frazione": null,
+    "lat": 45.455,
+    "lon": 12.02934,
+    "coordinateApprossimate": true,
+    "descrizione": "Un viaggio affascinante tra storia, territorio, tradizioni e curiosità, per conoscere l’origine dei nomi dei luoghi che fanno parte della nostra quotidianità e riscoprire le radici della nostra comunità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pianiga",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianiga.ve.it/vivere-il-comune/eventi/introduzione-alla-toponomastica-della-riviera-della-brenta",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "2a-san-martino-run-2026-pianiga",
+    "titolo": "2à San Martino Run 2026",
+    "categoria": "sport",
+    "inizio": "2026-11-08T07:30",
+    "fine": "2026-11-08T11:00",
+    "luogo": "Piazza San Martino",
+    "indirizzo": "Piazza San Martino, 1",
+    "cap": null,
+    "comune": "027028",
+    "frazione": null,
+    "lat": 45.455,
+    "lon": 12.02934,
+    "coordinateApprossimate": true,
+    "descrizione": "Una mattinata all’insegna dello sport, del movimento e della condivisione, immersi nei colori e nelle suggestive atmosfere dell’autunno!",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pianiga",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianiga.ve.it/vivere-il-comune/eventi/2a-san-martino-run-2026",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sagra-di-san-martino-2026-pianiga",
+    "titolo": "Sagra di San Martino 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-06T19:00",
+    "fine": "2026-11-15T18:30",
+    "luogo": "Piazza Mercato",
+    "indirizzo": "Piazza Mercato,1",
+    "cap": null,
+    "comune": "027028",
+    "frazione": null,
+    "lat": 45.455,
+    "lon": 12.02934,
+    "coordinateApprossimate": true,
+    "descrizione": "Torna l'appuntamento più atteso dell'autunno! L'Associazione San Martino, in collaborazione con la Parrocchia di San Martino Vescovo e con il Comune di Pianiga, vi invita a un ricco calendario di eventi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione San Martino",
+    "fonti": [
+      {
+        "nome": "Comune di Pianiga",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianiga.ve.it/vivere-il-comune/eventi/sagra-di-san-martino-2026",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
   }
 ]
