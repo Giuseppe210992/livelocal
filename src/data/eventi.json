@@ -103367,5 +103367,3777 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-di-natale-piacenza",
+    "titolo": "Mercatino di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-24",
+    "luogo": "Piazza Cavalli",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino natalizio con casette tradizionali che offrono oggetti artigianali, idee regalo e specialità gastronomiche. Presenza di Babbo Natale per l'accoglienza dei bambini e la raccolta delle letterine.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Piacenza - Natale a Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://visitpiacenza.it/events/natale-a-piacenza",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-mano-market-piacenza",
+    "titolo": "A/Mano market",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Auditorium Sant’Ilario",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato dedicato ai prodotti artigianali. L'evento si svolge in due date a novembre presso l'Auditorium Sant'Ilario, con una successiva sessione a dicembre in un luogo diverso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Piacenza - Natale a Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://visitpiacenza.it/events/natale-a-piacenza",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "creare-piacenza",
+    "titolo": "Creare",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12",
+    "fine": "2026-12-13",
+    "luogo": "Laboratorio Aperto – Ex chiesa del Carmine",
+    "indirizzo": "Piazza Casali, 10",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino che propone creazioni di alto artigianato. I banchi sono allestiti presso il Laboratorio Aperto nell'ex chiesa del Carmine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Piacenza - Natale a Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://visitpiacenza.it/events/natale-a-piacenza",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "io-olivia-piano-di-sorrento",
+    "titolo": "Io, Olivia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T17:00",
+    "fine": "2026-11-13T20:00",
+    "luogo": "Sala Conferenze del Centro Culturale Comunale di Piano di Sorrento",
+    "indirizzo": "Via delle Rose, 80063 Piano di Sorrento NA",
+    "cap": null,
+    "comune": "063053",
+    "frazione": null,
+    "lat": 40.62432,
+    "lon": 14.42372,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo «Io, Olivia» di Mariaelena Castellano, parte della rassegna «A tutto volume 2026‑2027», con lettura e discussione, promossa dal Comune di Piano di Sorrento, Assessorato alla Cultura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Piano di Sorrento, Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Piano di Sorrento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianodisorrento.na.it/it/eventi/1860-la-verita-presentazione-al-centro-culturale-comunale-731772-731775",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dialogo-sulla-gentilezza-piano-di-sorrento",
+    "titolo": "Dialogo sulla gentilezza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T19:00",
+    "fine": null,
+    "luogo": "Basilica di San Michele Arcangelo",
+    "indirizzo": "Piano di Sorrento",
+    "cap": null,
+    "comune": "063053",
+    "frazione": null,
+    "lat": 40.62432,
+    "lon": 14.42372,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico con Daniel Lumera sulla gentilezza, organizzato dalla Città di Piano di Sorrento con La Lumera ODV e Italia Gentile, presso la Basilica di San Michele Arcangelo, aperto a tutti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Piano di Sorrento",
+    "fonti": [
+      {
+        "nome": "Comune di Piano di Sorrento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianodisorrento.na.it/it/eventi/la-bottega-delle-parole-732454",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-fiabe-di-donna-ruvia-con-dada-napoli",
+    "titolo": "Le fiabe di donna Ruvia con DADÀ",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "piazza Vincenzo Calenda, 9 - 80139 Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale con la partecipazione della band Dadà. Il progetto porta in scena fiabe e narrazioni in chiave moderna, combinando testi e musica dal vivo in una messa in scena teatrale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "guagliunera-a-cura-di-polo-napoli",
+    "titolo": "Guagliunera a cura di POLO",
+    "categoria": "concerto",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "piazza Vincenzo Calenda, 9 - 80139 Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale a cura del rapper Polo. L'evento si inserisce nella rassegna della Musica Campana, proponendo una serata di hip-hop e musica contemporanea dedicata ai giovani e al pubblico urbano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchio-che-cos-e-una-persona-di-davide-iodice-napoli",
+    "titolo": "Pinocchio. Che cos’è una persona? di DAVIDE IODICE",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "piazza Vincenzo Calenda, 9 - 80139 Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale della fiaba di Pinocchio curato da Davide Iodice. Lo spettacolo indaga il concetto di persona attraverso la narrazione classica, proponendo una riflessione sul teatro e sull'identità umana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-valle-dell-arno-ricorda-l-alluvione-fiesole",
+    "titolo": "La valle dell’Arno ricorda l’alluvione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08T09:30",
+    "fine": null,
+    "luogo": "Circolo R.Murri-Ellera",
+    "indirizzo": "Fiesole",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma di incontri, testimonianze e iniziative per ricordare i giorni dell’alluvione del 1966, organizzato dal Comune e dalle Associazioni della Valle dell’Arno di Fiesole in occasione del 60° anniversario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune e le Associazioni della Valle dell’Arno di Fiesole",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "animae-loci-itinerario-letterario-e-artistico-alla-ricerca-dei-luoghi-fiesole",
+    "titolo": "Animae Loci – Itinerario letterario e artistico alla ricerca dei luoghi dell’anima. Generare futuro – Il cielo della parità",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:30",
+    "fine": null,
+    "luogo": "Chiesa della Badia Fiesolana",
+    "indirizzo": "Via dei Roccettini, 9",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro su donne, scienza ed esplorazione del cosmo, a cura dell'Associazione culturale La Nottola di Minerva ETS, nell'ambito della serie Animae Loci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale La Nottola di Minerva ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-fiesolano-2026-sergio-cammariere-tour-2026-la-pioggia-che-non-fiesole",
+    "titolo": "Autunno Fiesolano 2026 – Sergio Cammariere Tour 2026 – La pioggia che non cade mai",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T21:00",
+    "fine": null,
+    "luogo": "Teatro di Fiesole",
+    "indirizzo": "Largo Piero Farulli, 1",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Sergio Cammariere nell'ambito del tour 2026, parte della stagione Autunno Fiesolano 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "salunta-e-sapori-d-autunno-25-edizione-fiesole",
+    "titolo": "Salunta e sapori d’autunno – 25° edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-14T10:30",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Piazza Etrusca",
+    "indirizzo": "Compiobbi",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione per scoprire il territorio attraverso la promozione e valorizzazione delle eccellenze agricole e artigianali, organizzata da Confraternita di Misericordia, ProLoco e Ass.Punto e a canapo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Confraternita di Misericordia di Pontassieve sez. Compiobbi, ProLoco Valle dell’Arno, Ass.Punto e a canapo",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-uomo-rondine-fiesole",
+    "titolo": "L’uomo rondine",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:45",
+    "fine": null,
+    "luogo": "Teatro di Fiesole",
+    "indirizzo": "Largo Piero Farulli, 1",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Maurizio Lombardi, parte della stagione Autunno Fiesolano 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sapori-e-colori-fiesole",
+    "titolo": "Sapori e colori",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Piazza Mino",
+    "indirizzo": "Fiesole",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato di collezionismo, artigianato e non solo, aperta per l'intera giornata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "salunta-e-sapori-d-autunno-25-edizione-fiesole-15-11",
+    "titolo": "Salunta e sapori d’autunno – 25° edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-15T10:30",
+    "fine": "2026-11-15T19:00",
+    "luogo": "Piazza Etrusca",
+    "indirizzo": "Compiobbi",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo giorno della manifestazione per la promozione delle eccellenze agricole e artigianali del territorio, organizzata da Confraternita di Misericordia, ProLoco e Ass.Punto e a canapo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Confraternita di Misericordia di Pontassieve sez. Compiobbi, ProLoco Valle dell’Arno, Ass.Punto e a canapo",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maria-donna-tra-le-donne-fiesole",
+    "titolo": "Maria, donna tra le donne",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-15T11:00",
+    "fine": null,
+    "luogo": "Museo Bandini",
+    "indirizzo": "via Duprè, 1",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata con i mediatori del progetto AMIR, attività gratuita con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Progetto AMIR",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-fiesolano-2026-across-generations-vaglia",
+    "titolo": "Autunno Fiesolano 2026 – Across Generations",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T15:30",
+    "fine": null,
+    "luogo": "Sala Rossa della Paggeria di Villa Demidoff",
+    "indirizzo": "via Fiorentina 276",
+    "cap": null,
+    "comune": "048046",
+    "frazione": null,
+    "lat": 43.88821,
+    "lon": 11.28977,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale della Scuola di Musica di Fiesole, ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Scuola di Musica di Fiesole",
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-uomo-rondine-fiesole-15-11",
+    "titolo": "L’uomo rondine",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T16:45",
+    "fine": null,
+    "luogo": "Teatro di Fiesole",
+    "indirizzo": "Largo Piero Farulli, 1",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Maurizio Lombardi, replica pomeridiana nell'ambito della stagione Autunno Fiesolano 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-fiesolano-2026-deandre-deandre-storia-di-un-impiegato-fiesole",
+    "titolo": "Autunno Fiesolano 2026 – Deandré#Deandré – Storia di un impiegato",
+    "categoria": "concerto",
+    "inizio": "2026-11-16T21:00",
+    "fine": null,
+    "luogo": "Teatro di Fiesole",
+    "indirizzo": "Largo Piero Farulli, 1",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo dedicato a Fabrizio De André con introduzione di Benedetto Ferrara e Finaz, parte della stagione Autunno Fiesolano 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-del-brocantage-monza",
+    "titolo": "Mercatino del Brocantage",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08",
+    "fine": "2026-11-08",
+    "luogo": "Via Bergamo / Pesa del Lino",
+    "indirizzo": "Via Bergamo, 20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di antiquariato e oggettistica. A cura di Associazione Borgo Bergamo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Borgo Bergamo",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/events/mercatino-del-brocantage-652579-2516081-2518507-2520295",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "suoni-in-cammino-monza",
+    "titolo": "Suoni in cammino",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T16:00",
+    "fine": "2026-11-08T23:00",
+    "luogo": "Chiesa del Carrobiolo",
+    "indirizzo": "20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna musicale itinerante con concerti in chiese e sale. Le quattro stagioni di Vivaldi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Libertamente",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/events/suoni-in-cammino",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "perche-margherita-e-bella-monza",
+    "titolo": "Perchè Margherita è bella...",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Sala Maddalena",
+    "indirizzo": "20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna con spettacoli di parole, musica e fiori, conferenze in concerto. Margherita e la luna.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Realtà Debora Mancini Ets",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/events/perche-margherita-e-bella",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "wec-6-hours-of-monza-2026-monza",
+    "titolo": "WEC 6 Hours of Monza 2026",
+    "categoria": "sport",
+    "inizio": "2026-11-06T07:30",
+    "fine": "2026-11-08T17:30",
+    "luogo": "Autodromo nazionale di Monza",
+    "indirizzo": "Viale di Vedano, 5, 20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Finale di stagione del mondiale endurance. Evento con Hypercar e LMGT3.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Autodromo Nazionale Monza",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/events/wec-6-hours-of-monza-2026",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-amici-del-mercoledi-monza",
+    "titolo": "Gli Amici del Mercoledì",
+    "categoria": "mostra",
+    "inizio": "2026-11-06T10:30",
+    "fine": "2026-11-11T19:00",
+    "luogo": "Punto Arte",
+    "indirizzo": "Via Bergamo, 2/c, 20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di pittura con opere di Nadia Bassetti, Paola Bramati, Milena Corbisiero, Vanni Redaelli, Alberto Rizzi, Cristina Stefanoni, Stefania Zanoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/events/gli-amici-del-mercoledi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "siberia-piacenza",
+    "titolo": "Siberia",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T15:30",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Via Verdi 41",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera in tre atti di Umberto Giordano, libretto di Luigi Illica. Nuova produzione coprodotta dal Teatro Municipale di Piacenza e dal Teatro Comunale Pavarotti-Freni di Modena. Direttore Sesto Quatrini, regia Roberto Catalano. Con Iwona Sobotka, Vincenzo Costanzo, Claudio Sgura, Silvia Beltrami, Eleonora Boaretto. Orchestra dell'Emilia-Romagna Arturo Toscanini e Coro del Teatro Municipale di Piacenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatri Piacenza",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatri Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://teatripiacenza.it/evento/siberia",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "coppelia-ballet-de-l-opera-national-du-capitole-brescia",
+    "titolo": "Coppélia Ballet de l’Opéra national du Capitole",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T15:30",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Balletto classico in tre atti su musiche di Léo Delibes, danzato dal Ballet de l’Opéra national du Capitole con coreografie di Jean-Guillaume Bart.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nonsoloscienza-maurizio-memo-un-viaggio-nelle-neuroscienze-brescia",
+    "titolo": "#nonsoloscienza | Maurizio Memo Un viaggio nelle neuroscienze",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T10:30",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sulle neuroscienze con Maurizio Memo, esplorando come nascono i pensieri, le idee e le emozioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "chamber-orchestra-of-europe-sir-antonio-pappano-direttore-brescia",
+    "titolo": "Chamber Orchestra of Europe Sir Antonio Pappano Direttore",
+    "categoria": "concerto",
+    "inizio": "2026-11-11T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con la Chamber Orchestra of Europe diretta da Sir Antonio Pappano, con Alexandre Kantorow al pianoforte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-per-una-pace-possibile-brescia",
+    "titolo": "Presentazione libro 'Per una pace possibile'",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Per una pace possibile' di Adolfo Ceretti e Roberto Cornelli, riflettendo sulla pace e la convivenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-italiana-in-algeri-di-gioachino-rossini-brescia",
+    "titolo": "L'italiana in Algeri di Gioachino Rossini",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera di Gioachino Rossini con un'ambientazione contemporanea, ispirata a un fatto realmente accaduto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-italiana-in-algeri-di-gioachino-rossini-brescia-28-11",
+    "titolo": "L'italiana in Algeri di Gioachino Rossini",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T15:30",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Grande, Brescia, 28/11. Opera di Gioachino Rossini con un'ambientazione contemporanea, ispirata a un fatto realmente accaduto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nonsoloscienza-massimo-della-valle-c-e-qualcuno-la-fuori-brescia",
+    "titolo": "#nonsoloscienza | Massimo Della Valle C'è qualcuno là fuori?",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T10:30",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza di Massimo Della Valle sulla ricerca di vita intelligente nel cosmo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "canti-scuciti-beatrice-sberna-brescia",
+    "titolo": "Canti scuciti Beatrice Sberna",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con Beatrice Sberna e Emanuele Maniscalco, recuperando perle nascoste della canzone italiana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-canto-degli-alberi-giulia-peri-brescia",
+    "titolo": "Il canto degli alberi Giulia Peri",
+    "categoria": "concerto",
+    "inizio": "2026-12-09T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato al tema del rapporto fra musica e natura, con Giulia Peri e Gregorio Nardi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cavalleria-rusticana-pagliacci-brescia",
+    "titolo": "Cavalleria Rusticana/Pagliacci",
+    "categoria": "teatro",
+    "inizio": "2026-12-11T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Dittico verista composto da Cavalleria Rusticana di Pietro Mascagni e Pagliacci di Ruggero Leoncavallo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cavalleria-rusticana-pagliacci-brescia-13-12",
+    "titolo": "Cavalleria Rusticana/Pagliacci",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T15:30",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Grande, Brescia, 13/12. Dittico verista composto da Cavalleria Rusticana di Pietro Mascagni e Pagliacci di Ruggero Leoncavallo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "barocco-other-stories-raffaele-pe-e-saturnino-brescia",
+    "titolo": "BAROCCO & OTHER STORIES Raffaele Pe e Saturnino",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Corso Zanardelli, 9/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Progetto inedito di Raffaele Pe con Saturnino, un dialogo tra epoche e linguaggi musicali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione del Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "minotaur-nel-labirinto-del-potere-prima-visione-gran-premio-della-giur-cuneo",
+    "titolo": "MINOTAUR- NEL LABIRINTO DEL POTERE (PRIMA VISIONE – GRAN PREMIO DELLA GIURIA CANNES 2026)",
+    "categoria": "mostra",
+    "inizio": "2026-10-29",
+    "fine": "2026-11-08",
+    "luogo": "Cinema Monviso",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Minotaur, che ha vinto il Gran Premio della Giuria a Cannes 2026. L'evento si tiene al Cinema Monviso e l'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "per-silenzio-e-vento-cuneo",
+    "titolo": "PER SILENZIO E VENTO",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-08",
+    "luogo": "Cinema Monviso",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Per Silenzio e Vento presso il Cinema Monviso. L'evento fa parte della programmazione del cinema comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inizio-percorsi-d-arte-novi-ligure",
+    "titolo": "Inizio Percorsi d'Arte",
+    "categoria": "mostra",
+    "inizio": "2026-11-05T16:00",
+    "fine": "2026-11-10T18:00",
+    "luogo": "Palazzo ex Monte di Pietà",
+    "indirizzo": "Via Monte di Pietà",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Inizio dei corsi di ceramica, disegno e pittura per ragazzi e adulti promossi da Laboratori d'Arte APS. Le attività si svolgono presso i locali del palazzo con orari diversificati per le varie specialità artistiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Laboratori d'Arte APS",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/events/iscrizioni-percorsi-d-arte-2520268",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sinfonie-quantistiche-suono-luce-coscienza-novi-ligure",
+    "titolo": "Sinfonie quantistiche: suono, luce, coscienza",
+    "categoria": "concerto",
+    "inizio": "2026-11-09T21:00",
+    "fine": null,
+    "luogo": "Teatro Romualdo Marenco",
+    "indirizzo": "Via Nicolò Girardengo, 48",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Chiusura del Lavagnino Film Festival con un dialogo su scienza e musica con Federico Faggin. Interventi musicali de I Solisti Orchestra Classica di Alessandria in formazione di quintetto. Conferimento del Lavagnino Science Award 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rotary Club Gavi Libarna",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/events/dal-barocco-al-jazz-passando-per-il-cinema-2520238",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-calendario-artistico-novese-2027-novi-ligure",
+    "titolo": "Presentazione calendario artistico novese 2027",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T19:00",
+    "fine": "2026-11-12T23:00",
+    "luogo": "Nuovo Circolo Ilva",
+    "indirizzo": "Corso Piave, 2",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del calendario artistico 'Novi e dintorni: il Novese in bianco e nero'. Intervengono Lorenzo Robbiano e Sergio Tinello. L'iniziativa unisce la memoria storica del territorio alla sensibilizzazione sulla donazione. È prevista una cena al termine.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Aido di Novi Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/events/calendario-artistico-novese-2027",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luigi-il-viaggio-di-tenco-novi-ligure",
+    "titolo": "Luigi, il viaggio di Tenco",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Teatro Romualdo Marenco",
+    "indirizzo": "Via Nicolò Girardengo, 48",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Filippo Rovati che ripercorre la figura del cantautore Luigi Tenco. La performance unisce racconto drammaturgico e musica, dedicata al ricordo di Giulio Campastro. Ingresso a pagamento con biglietti interi e ridotti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Marenco",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/events/tullio-solenghi-in-colpi-di-timone-2518153-2519098-2519099-2519691-2519692-2519973",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "abcd-emozioni-novi-ligure",
+    "titolo": "ABCD'Emozioni",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T17:00",
+    "fine": "2026-11-15T19:00",
+    "luogo": "Teatro Romualdo Marenco",
+    "indirizzo": "Via Nicolò Girardengo, 48",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza per bambini e famiglie curato da Isacco Basilotta e Aichatou Cherif. Il teatro esplora le emozioni attraverso colori, suoni e movimenti, favorendo la relazione e la trasformazione. Ingresso a posto unico.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Dispari Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/events/hhh-2519710",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-to-reveal-roma",
+    "titolo": "In to reveal",
+    "categoria": "teatro",
+    "inizio": "2026-12-20",
+    "fine": null,
+    "luogo": "Teatro Manzoni Roma",
+    "indirizzo": "Via Monte Zebio, 14/C, 00195 Roma RM",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance sperimentale 'In to reveal' al Teatro Manzoni Roma, prevista per il 20 dicembre 2026. L'evento propone un percorso scenico innovativo, con elementi di danza e multimedia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Manzoni",
+        "tipo": "ufficiale",
+        "url": "https://teatromanzoniroma.it/programma/categorie/manzoni-eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-da-camera-bari",
+    "titolo": "Concerto da camera",
+    "categoria": "concerto",
+    "inizio": "2026-11-09",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di musica classica in forma di concerto da camera. La pagina elenca la data specifica di inizio dell'appuntamento senza dettagli aggiuntivi su orchestra o solisti in questa sezione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-lac-des-cygnes-bari",
+    "titolo": "Le lac des cygnes",
+    "categoria": "teatro",
+    "inizio": "2026-11-12",
+    "fine": "2026-11-15",
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza Il lago dei cigni di Čajkovskij, rappresentato in più date a novembre 2026. Include una conversazione introduttiva a cura di Leonetta Bentivoglio nel foyer.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerti-famila-2026-bari",
+    "titolo": "Concerti Famila 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della serie Concerti Famila, realizzati in collaborazione con il Gruppo Megamark. La pagina riporta la data singola per il 19 novembre, parte di una stagione di otto appuntamenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-sinfonico-bari",
+    "titolo": "Concerto sinfonico",
+    "categoria": "concerto",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico in programma per il 25 novembre 2026 al Teatro Petruzzelli. La descrizione si basa esclusivamente sulla data e sulla categoria dell'evento riportate in elenco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerti-famila-2026-bari-29-11",
+    "titolo": "Concerti Famila 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento della serie Concerti Famila in questa stagione, previsto per il 29 novembre. L'evento è promosso in collaborazione con i supermercati Famila per la cultura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "recital-da-camera-bari",
+    "titolo": "Recital da camera",
+    "categoria": "concerto",
+    "inizio": "2026-12-03",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital in forma da camera in programma per il 3 dicembre 2026. La scheda evento riporta la data di inizio senza ulteriori dettagli sul programma musicale o sui musicisti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buttafuoco-mons-gallo-la-parola-bari",
+    "titolo": "Buttafuoco / Mons. Gallo – La Parola",
+    "categoria": "concerto",
+    "inizio": "2026-12-04",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale incentrato sul tema de 'La Parola'. La descrizione indica che la grande musica risponde a temi come la Parola, la Scrittura, la Storia e il Pensiero. In programma il 4 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-sinfonico-bari-14-12",
+    "titolo": "Concerto sinfonico",
+    "categoria": "concerto",
+    "inizio": "2026-12-14",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico previsto per il 14 dicembre 2026 al Teatro Petruzzelli. La pagina elenca la data senza specificare direttore o orchestra in questo frammento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-barbiere-di-siviglia-bari",
+    "titolo": "Il barbiere di Siviglia",
+    "categoria": "concerto",
+    "inizio": "2026-12-16",
+    "fine": "2026-12-22",
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione dell'opera Il barbiere di Siviglia di Rossini, in programma dal 16 al 22 dicembre. Include una conversazione introduttiva con Ilaria Narici e Sergio Ragni nel foyer del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-straordinario-fuori-abbonamento-bari",
+    "titolo": "Concerto straordinario fuori abbonamento",
+    "categoria": "concerto",
+    "inizio": "2026-12-29",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'Orchestra del Teatro Petruzzelli in cui Beatrice Rana riceve la nomina di Artista in residenza stabile. Appuntamento fuori abbonamento previsto per il 29 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-sinfonico-corale-bari",
+    "titolo": "Concerto sinfonico corale",
+    "categoria": "concerto",
+    "inizio": "2027-01-03",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto che coinvolge sia l'orchestra sia il coro del teatro, in programma per la domenica 3 gennaio 2027. La scheda riporta solo la data e il titolo generico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "carofiglio-de-bortoli-la-scrittura-bari",
+    "titolo": "Carofiglio / De Bortoli – La Scrittura",
+    "categoria": "concerto",
+    "inizio": "2027-01-15",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale dedicato al tema de 'La Scrittura', parte di una serie che esamina i fondamenti della musica. In calendario per il venerdì 15 gennaio 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "zenobia-di-niccolo-piccinni-bari",
+    "titolo": "Zenobia di Niccolò Piccinni",
+    "categoria": "concerto",
+    "inizio": "2027-01-27",
+    "fine": "2027-02-02",
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera di Piccinni con direzione di Federico Maria Sardelli e regia di Daniele Luchetti. Nuova produzione con Orchestra e Coro del Teatro Petruzzelli. Prima presentazione il 21 gennaio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-da-camera-bari-28-01",
+    "titolo": "Concerto da camera",
+    "categoria": "concerto",
+    "inizio": "2027-01-28",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento di musica da camera in programma per il giovedì 28 gennaio 2027. La lista eventi riporta la data senza ulteriori dettagli sulla formazione artistica in questo frammmento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cardini-guersi-la-storia-bari",
+    "titolo": "Cardini / Guersi – La Storia",
+    "categoria": "concerto",
+    "inizio": "2027-02-05",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto incentrato sul tema 'La Storia'. La descrizione del evento sottolinea il rapporto tra musica e pensiero storico. Si terrà venerdì 5 febbraio 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-per-bambini-a-spasso-con-il-mostro-giussano",
+    "titolo": "Spettacolo teatrale per bambini - A spasso con il mostro",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T14:45",
+    "fine": "2026-11-08T15:45",
+    "luogo": "Centro Generazioni",
+    "indirizzo": "Via 4 Novembre, 20",
+    "cap": null,
+    "comune": "108024",
+    "frazione": null,
+    "lat": 45.6935,
+    "lon": 9.21093,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per bambini dai 3 anni a cura della compagnia Equivochi. La storia segue le avventure di un topolino nel bosco, mescolando furbizia e risate in un'avventura divertente.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia teatrale Equivochi",
+    "fonti": [
+      {
+        "nome": "Comune di Giussano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.giussano.mb.it/it/eventi/spettacolo-teatrale-per-bambini-a-spasso-con-il-mostro",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "non-e-mai-troppo-tardi-per-muoversi-giussano",
+    "titolo": "Non è mai troppo tardi per muoversi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T18:00",
+    "fine": "2026-12-01T20:00",
+    "luogo": "Sala Consiliare Aligi Sassu",
+    "indirizzo": "Piazza Aldo Moro, 1",
+    "cap": null,
+    "comune": "108024",
+    "frazione": null,
+    "lat": 45.6935,
+    "lon": 9.21093,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza rivolta agli over 65 che esplora temi di salute, longevità e movimento, con esperti che discutono di strumenti per migliorare l'autonomia e la qualità della vita quotidiana.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Giussano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.giussano.mb.it/it/eventi/non-e-mai-troppo-tardi-per-muoversi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gor-go-on-tour-2026-gorgonzola",
+    "titolo": "Gor’go’on-Tour 2026",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08",
+    "fine": null,
+    "luogo": "Casa delle Arti",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Tour guidato di Gorgonzola dedicato alla storia, con letture dedicate a Dario Fo e aperitivo. L'evento si svolge in un pomeriggio tra patrimonio locale e teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/tipologia/concorso-e-cerimonia",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-grandi-dell-inferno-corso-con-marco-erba-a-ca-busca-gorgonzola",
+    "titolo": "I Grandi dell’Inferno: corso con Marco Erba a Ca’ Busca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09",
+    "fine": null,
+    "luogo": "Ca’ Busca",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro di un ciclo di quattro lezioni gratuite tenute da Marco Erba per rileggere Dante attraverso personaggi dell'Inferno, presso la biblioteca di Gorgonzola.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/tipologia/concorso-e-cerimonia",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apollo-granforte-un-menestrello-errante-gorgonzola",
+    "titolo": "Apollo Granforte, un menestrello errante",
+    "categoria": "mostra",
+    "inizio": "2026-11-13",
+    "fine": "2026-11-22",
+    "luogo": "Palazzo Pirola",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra documentaria dedicata ad Apollo Granforte, baritono del Novecento legato a Gorgonzola, ospitata presso Palazzo Pirola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/tipologia/concorso-e-cerimonia",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "blade-runner-cine-concert-roma",
+    "titolo": "Blade Runner Cine-concert",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Sala Santa Cecilia",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna Concerti Straordinari con esecuzione della colonna sonora del film Blade Runner in formato cine-concerto. L'evento fa parte della programmazione della Fondazione Musica per Roma presso l'Auditorium.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "joe-jackson-band-roma",
+    "titolo": "Joe Jackson + Band",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T20:00",
+    "fine": null,
+    "luogo": "Sala Sinopoli",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Il leggendario artista britannico Joe Jackson torna con un nuovo progetto. Il concerto presenta un repertorio di canzoni pop sofisticate, costruite su differenti ritmi e combinazioni di strumenti, lontano dalla sua cifra stilistica abituale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 46
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/joe-jackson-band",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "murubutu-roma",
+    "titolo": "Murubutu",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T20:00",
+    "fine": null,
+    "luogo": "Sala Petrassi",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Il rapper e insegnante Murubutu presenta il progetto in cui rivisita il suo repertorio in chiave jazz, accompagnato dalla Moon Jazz Band. Un incontro tra rap, letteratura e jazz con sonorità hip hop classiche.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/murubutu",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "joss-stone-merry-christmas-love-with-live-symphony-orchestra-roma",
+    "titolo": "Joss Stone – “Merry Christmas, Love. With Live Symphony Orchestra”",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T20:00",
+    "fine": null,
+    "luogo": "Sala Santa Cecilia",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Joss Stone si esibisce in uno show natalizio accompagnata da orchestra sinfonica. Il concerto fa parte di una serie di date europee per l'inverno, combinando il suo stile soul con arrangiamenti orchestrali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/joss-stone-merry-christmas-love-with-live-symphony-orchestra",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-mezza-novara",
+    "titolo": "La mezza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro La nave di Teseo con Costanza DiQuattro, discussione su identità e cambiamento, evento aperto al pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visibili-percorso-di-autonomia-professionale-novara",
+    "titolo": "Visibili. Percorso di autonomia professionale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "fine": null,
+    "luogo": "Sala delle Vetrate",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro su autonomia professionale basato su Storia dei miei soldi, con Melissa Panarello e Giulia Ciarapica, aperto a tutti i partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tema-libero-conoscere-le-storie-di-chi-lavora-con-le-storie-novara",
+    "titolo": "Tema libero: conoscere le storie di chi lavora con le storie",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza con Nicola Manuppelli del Maino Editore, approfondimento su narrazioni e professioni legate alla scrittura, aperta al pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "matinee-il-cinema-al-circolo-novara",
+    "titolo": "Matinée. Il Cinema al Circolo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "fine": null,
+    "luogo": "Sala delle Mura",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica \"Fedeli al Re #2\" con Roberto Gallaurese, accompagnata da discussione sul film, evento gratuito per il pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "colonna-sonora-novara",
+    "titolo": "Colonna sonora",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T18:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Jack Frusciante è uscito dal gruppo\" con Carlo Bordone, discussione su musica e letteratura, evento gratuito.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookclub-3-novara",
+    "titolo": "Bookclub #3",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T21:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo",
+    "indirizzo": "Castello Sforzesco, Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del Bookclub su \"Relazioni liquide in tempi liquidi\", discussione aperta con partecipazione del pubblico, ingresso libero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "evento-finale-piccoli-esploratori-martinengo",
+    "titolo": "Evento finale Piccoli Esploratori",
+    "categoria": "bambini",
+    "inizio": "2026-11-08T15:00",
+    "fine": "2026-11-08T18:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento conclusivo del progetto 'Piccoli Esploratori' dedicato alla storia e ai monumenti del borgo. Il programma include la mostra dei manufatti, la proiezione di un video, la consegna degli attestati ai 'Custodi del Patrimonio' e una merenda finale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Martinengo",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/piccoli-esploratori-710841-715030-726674-729838",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "riunione-del-gruppo-di-lettura-martinengo",
+    "titolo": "Riunione del gruppo di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T21:00",
+    "fine": "2026-11-12T22:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura per approfondire il libro \"L'ultima cosa che sai\" di Paolo Roversi. L'evento fa da preambolo all'incontro con l'autore previsto per il 21 novembre successivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/riunione-del-gruppo-di-lettura-712962-718577-723096-728799-732007",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "filandone-in-giallo-a-cena-con-il-commissario-martinengo",
+    "titolo": "Filandone in Giallo / A cena con il commissario",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-16T20:00",
+    "fine": "2026-11-16T22:00",
+    "luogo": "Ristorante Aurelio",
+    "indirizzo": "Via Allegreni, 34",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla letteratura noir e alla cucina siciliana. Degustazione di un menù tipico ispirato al Commissario Montalbano accompagnata dalla lettura dal vivo di pagine di Andrea Camilleri. Prenotazione obbligatoria entro il 13 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 45
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/filandone-in-giallo-a-cena-con-il-commissario",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "filandone-in-giallo-identikit-di-un-colpevole-martinengo",
+    "titolo": "Filandone in Giallo /Identikit di un colpevole",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:45",
+    "fine": "2026-11-19T22:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Maurizio Lorenzi, poliziotto e scrittore, e Giovanni Battista Rossi, disegnatore della Polizia Scientifica. Dialogo moderato da Micaela Vernice sulla costruzione dell'identikit del colpevole, dal caso reale alla pagina scritta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/filandone-in-giallo-a-cena-con-il-commissario-732181",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "win-for-life-albignasego",
+    "titolo": "Win for life",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T21:00",
+    "fine": "2026-12-20T22:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical di e con gli Oblivion, con Graziana Borciani, Davide Calabrese, Francesca Folloni, Lorenzo Scuda e Fabio Vagnarelli. Regia di Giorgio Gallione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Oblivion",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sonata-per-tubi-albignasego",
+    "titolo": "Sonata per tubi",
+    "categoria": "bambini",
+    "inizio": "2027-01-10T16:30",
+    "fine": "2027-01-10T17:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per tutti con arie di musica classica eseguite con strumenti inconsueti. Compagnia Nando e Maila, con Ferdinando D’Andria, Maila Sparapani e Marilù D’Andria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Nando e Maila",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casanova-grand-tour-albignasego",
+    "titolo": "Casanova Grand Tour",
+    "categoria": "teatro",
+    "inizio": "2027-01-21T21:00",
+    "fine": "2027-01-21T22:15",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Commedia dell’Arte della compagnia Pantakin. Regia di Emanuele Pasqualini, con Rossana Mantese, Duccio Zanone e altri.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Pantakin",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uno-nessuno-centomila-albignasego",
+    "titolo": "Uno Nessuno Centomila",
+    "categoria": "teatro",
+    "inizio": "2027-02-03T21:00",
+    "fine": "2027-02-03T23:00",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Via della Costituzione 4",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale del romanzo di Luigi Pirandello, con Primo Reggiani, Francesca Valtorta, Jane Alexander, Fabrizio Bordignon e Enrico Ottaviano. Regia di Nicasio Anzelmo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Tecnogas Auditorium Albignasego",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/eventi",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "parliamo-d-opera-rigoletto-cagliari",
+    "titolo": "Parliamo d’opera: Rigoletto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-08T11:00",
+    "fine": null,
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di approfondimento sul melodramma di Giuseppe Verdi in programma al Teatro Lirico di Cagliari. L'evento precede le repliche dello spettacolo e offre spunti per la comprensione dell'opera.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/opera",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "grigory-sokolov-cagliari",
+    "titolo": "Grigory Sokolov",
+    "categoria": "concerto",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di pianoforte solista di Grigory Sokolov. Il programma include la Sonata in si bemolle maggiore D.960 di Franz Schubert e la Sonata n. 3 in fa minore op. 5 di Johannes Brahms.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/concerti",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "parliamo-d-opera-figlie-di-maggio-cagliari",
+    "titolo": "Parliamo d’opera: Figlie di maggio",
+    "categoria": "conferenza",
+    "inizio": "2026-12-06T11:00",
+    "fine": null,
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di approfondimento dedicato all'opera lirica in due atti 'Figlie di maggio' (Fillas de màju), con soggetto di Francesco Abate e Guido Barbieri e musica di Cristian Carrara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/dicembre-al-lirico",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "figlie-di-maggio-cagliari",
+    "titolo": "Figlie di maggio",
+    "categoria": "concerto",
+    "inizio": "2026-12-11",
+    "fine": "2026-12-12",
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera lirica in due atti con titolo originale 'Fillas de màju'. Soggetto di Francesco Abate e Guido Barbieri, libretto di Guido Barbieri e musica di Cristian Carrara. Prima esecuzione assoluta e nuova composizione su commissione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/dicembre-al-lirico",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lirico-night-cagliari",
+    "titolo": "Lirico Night",
+    "categoria": "concerto",
+    "inizio": "2026-12-15T19:00",
+    "fine": null,
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento serale con DJ set live sul palcoscenico del teatro. L'evento fa parte della rassegna 'Dicembre al Lirico' che propone iniziative musicali e di intrattenimento nel periodo natalizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/dicembre-al-lirico",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-schiaccianoci-cagliari",
+    "titolo": "Lo schiaccianoci",
+    "categoria": "teatro",
+    "inizio": "2026-12-22",
+    "fine": "2026-12-24",
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza dello stile classico interpretato dall'Istanbul State Opera and Ballet. L'evento è inserito nel cartellone 'Dicembre al Lirico' e prevede 4 date di rappresentazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/dicembre-al-lirico",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stefano-bollani-and-friends-cagliari",
+    "titolo": "Stefano Bollani and Friends",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T18:00",
+    "fine": null,
+    "luogo": "Teatro Lirico di Cagliari",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di fine anno con il pianista e cantante italiano Stefano Bollani e una formazione di ospiti. L'evento chiude la programmazione della stagione presso la fondazione cagliaritana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/dicembre-al-lirico",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-amante-incontro-massa",
+    "titolo": "L'amante - Incontro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T18:00",
+    "fine": null,
+    "luogo": "Stanze del Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il pubblico della compagnia dello spettacolo L'amante, che presenta il lavoro teatrale tratto dall'opera di Harold Pinter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Savà Produzioni Creative",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-casa-tutti-bene-incontro-massa",
+    "titolo": "A casa tutti bene - Incontro",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T18:30",
+    "fine": null,
+    "luogo": "Stanze del Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il pubblico della compagnia dello spettacolo A casa tutti bene, scritto e diretto da Gabriele Muccino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "strappo-alla-regola-incontro-massa",
+    "titolo": "Strappo alla regola - Incontro",
+    "categoria": "conferenza",
+    "inizio": "2026-12-13T18:00",
+    "fine": null,
+    "luogo": "Stanze del Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il pubblico della compagnia dello spettacolo Strappo alla regola, scritto e diretto da Edoardo Erba.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cosmos-massa",
+    "titolo": "Cosmos",
+    "categoria": "teatro",
+    "inizio": "2026-12-22T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza dell'Evolution Dance Theater con coreografie di Anthony Heinl e Nadessja Casavecchia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Evolution Dance Theater",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "charm-city-singers-international-massa",
+    "titolo": "Charm City Singers International",
+    "categoria": "concerto",
+    "inizio": "2026-12-27T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto gospel fuori abbonamento a cura della produzione ReggioIniziativeCulturali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ReggioIniziativeCulturali",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nord-ost-massa",
+    "titolo": "Nord-Ost",
+    "categoria": "teatro",
+    "inizio": "2027-01-08T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo del Teatro dei Servi, di Torsten Buchsteiner, con adattamento e regia di Andrea Battistini e regia video di Michele Ambrogi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro dei Servi",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dopo-la-prova-massa",
+    "titolo": "Dopo la prova",
+    "categoria": "teatro",
+    "inizio": "2027-01-09T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima nazionale dello spettacolo di Ingmar Bergman con Gabriele Lavia e Federica Di Martino, regia di Gabriele Lavia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ruoli-secondari-massa",
+    "titolo": "Ruoli secondari",
+    "categoria": "teatro",
+    "inizio": "2027-01-15T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo spettacolo di Ferzan Ozpetek, prodotto dal Nuovo Teatro diretta da Marco Balsamo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuovo Teatro",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "silent-reading-party-ancona",
+    "titolo": "Silent Reading Party",
+    "categoria": "mostra",
+    "inizio": "2026-11-08T10:30",
+    "fine": "2026-11-08T12:30",
+    "luogo": "Museo Omero",
+    "indirizzo": "Piazza Ugo Bassi, 22, 60131 Ancona AN, Italia",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di lettura condivisa e accessibile presso il Museo Tattile Statale Omero. I partecipanti possono portare libri cartacei, e-book o ascoltare audiolibri, in un ambiente che promuove l'inclusività e la riscoperta del piacere della lettura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa delle Culture Ancona e Mattatoio n. 46",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/silent-reading-party",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "italian-cheese-awards-ancona",
+    "titolo": "Italian Cheese Awards",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-08T17:00",
+    "fine": null,
+    "luogo": "Mole Vanvitelliana",
+    "indirizzo": "Piazza San Francesco, 1, 60121 Ancona AN, Italia",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione della quindicesima edizione del principale riconoscimento italiano per i formaggi. Verranno consegnati premi speciali e statutette a 34 formaggi finalisti selezionati da 14 regioni italiane.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Guru Comunicazione",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/italian-cheese-awards",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trofeo-del-monte-conero-castelfidardo",
+    "titolo": "Trofeo del Monte Conero",
+    "categoria": "sport",
+    "inizio": "2026-11-07T08:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Castelfidardo",
+    "indirizzo": "Piazza Trento e Trieste, 60021 Castelfidardo AN, Italia",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione di regolarità per auto e moto storiche organizzata dal CAMSA. Include prove di abilità sul Monte Conero, una sosta enogastronomica e una sessione culturale al Teatro delle Muse dedicata a Franco Corelli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Club Auto e Moto Storiche di Ancona (CAMSA)",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/trofeo-del-monte-conero",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "da-vicino-conversazioni-e-visite-in-mostra-cento",
+    "titolo": "'Da vicino' Conversazioni e visite in mostra",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T17:30",
+    "fine": "2026-11-08T18:30",
+    "luogo": "Civica Pinacoteca il Guercino",
+    "indirizzo": "Via Giacomo Matteotti, 16, 44042 Cento",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata a tema sul mosaico barocco con Fausto Gozzi. Si analizzano le origini di Marcello Provenzale e la tecnica della stampa di traduzione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/da-vicino-conversazioni-e-visite-in-mostra-729836-729837",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "da-vicino-conversazioni-e-visite-in-mostra-cento-29-11",
+    "titolo": "'Da vicino' Conversazioni e visite in mostra",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T17:30",
+    "fine": null,
+    "luogo": "Civica Pinacoteca il Guercino",
+    "indirizzo": "Via Giacomo Matteotti, 16, 44042 Cento",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata a cura di Giovanni Sassu. Si esplora il rapporto tra l'artista Marcello Provenzale e Guercino, analizzando committenza e mediazione artistica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/da-vicino-conversazioni-e-visite-in-mostra-729836-729837",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "da-vicino-conversazioni-e-visite-in-mostra-cento-27-12",
+    "titolo": "'Da vicino' Conversazioni e visite in mostra",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-27T17:30",
+    "fine": null,
+    "luogo": "Civica Pinacoteca il Guercino",
+    "indirizzo": "Via Giacomo Matteotti, 16, 44042 Cento",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata a cura di Valeria Tassinari. Focus sulle \"minute meraviglie\" e sull'eredità di Provenzale nel mosaico minuto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/da-vicino-conversazioni-e-visite-in-mostra-729836-729837",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-prima-di-mahler-concerto-inaugurale-livorno",
+    "titolo": "LA PRIMA DI MAHLER Concerto inaugurale",
+    "categoria": "concerto",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto inaugurale della stagione sinfonica al Teatro Goldoni di Livorno. L'evento è dedicato alla Prima Sinfonia di Gustav Mahler, eseguita dall'Orchestra del Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gran-gala-haendel-livorno-14-11",
+    "titolo": "GRAN GALA' HÄENDEL",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato a Georg Friedrich Händel, inserito nella sezione del Festival Musica Barocca. L'evento si svolgerà presso il Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cambiamo-musica-livorno",
+    "titolo": "CAMBIAMO MUSICA",
+    "categoria": "concerto",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale dal titolo 'Cambiamo Musica' inserito nel programma eventi del Teatro Goldoni per il novembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchio-il-gran-teatro-della-vita-livorno",
+    "titolo": "PINOCCHIO Il Gran Teatro della Vita",
+    "categoria": "teatro",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale basata sulla figura di Pinocchio. L'evento è programmato presso il Teatro Goldoni all'interno della sezione eventi della stagione 2026/2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buon-compleanno-mascagni-livorno",
+    "titolo": "BUON COMPLEANNO, MASCAGNI",
+    "categoria": "concerto",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico in onore di Pietro Mascagni. L'evento è parte della programmazione sinfonica del Teatro Goldoni di Livorno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "morte-accidentale-di-un-anarchico-livorno",
+    "titolo": "MORTE ACCIDENTALE DI UN ANARCHICO",
+    "categoria": "teatro",
+    "inizio": "2026-12-15",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di prosa di Dario Fo. La messa in scena è programmata per il dicembre 2026 presso il Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "symphonic-musicals-tra-danza-e-livorno",
+    "titolo": "SYMPHONIC MUSICALS – Tra Danza e...",
+    "categoria": "concerto",
+    "inizio": "2026-12-11",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico che esplora colonne sonore e musica da musical, con probabili elementi di danza. Programmazione della stagione del Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vinicio-capossela-livorno",
+    "titolo": "VINICIO CAPOSSELA",
+    "categoria": "teatro",
+    "inizio": "2026-12-19",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico con Vinicio Capossela. L'evento è inserito nella programmazione eventi del Teatro Goldoni per il periodo natalizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "valerio-lundini-i-vazzanikki-livorno",
+    "titolo": "VALERIO LUNDINI & I VAZZANIKKI",
+    "categoria": "concerto",
+    "inizio": "2026-12-30",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del gruppo musicale Valerio Lundini & I Vazzanikki. Evento di fine anno programmato presso il Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ultimo-dell-anno-sulle-note-di-morricone-livorno",
+    "titolo": "ULTIMO DELL'ANNO SULLE NOTE DI MORRICONE",
+    "categoria": "concerto",
+    "inizio": "2026-12-31",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di capodanno dedicato alle musiche di Ennio Morricone. L'evento è programmato per la sera del 31 dicembre al Teatro Goldoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
   }
 ]
