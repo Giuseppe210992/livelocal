@@ -110583,5 +110583,104 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "cantico-delle-creature-mostra-fotografica-castel-goffredo-2026",
+    "titolo": "Cantico delle Creature – mostra fotografica",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-15",
+    "luogo": "Salone ex Gelso",
+    "indirizzo": "Via Monte Baldo 5, Castel Goffredo",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.2961,
+    "lon": 10.4784,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Marina Corradi e Matilde Fenotti dedicata a Papa Francesco, con Agesti e il Fotoclub Il Castello. Inaugurazione sabato 7 novembre alle 16; aperta domenica 8 e 15 (10–12 e 16–18) e sabato 14 (16–18). Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Agesti Castel Goffredo – Comune di Castel Goffredo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZ4OAqj0An/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "premiazione-premio-acerbi-castel-goffredo-2026-11-14",
+    "titolo": "Premiazione del vincitore della 34ª edizione del Premio Acerbi",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T17:30",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Sala consiliare",
+    "indirizzo": "Piazza Mazzini 1, Castel Goffredo",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.2961,
+    "lon": 10.4784,
+    "coordinateApprossimate": true,
+    "descrizione": "Castel Goffredo ospita il vincitore del Premio Acerbi con la cerimonia di premiazione in Sala consiliare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castel Goffredo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfaTswfDF1y/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "truffe-come-difendersi-incontro-cesano-boscone-2026-11-11",
+    "titolo": "Truffe, come difendersi – incontro sulla sicurezza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T15:00",
+    "fine": "2026-11-11T16:30",
+    "luogo": "Sala della Trasparenza",
+    "indirizzo": "Via Libertà 9, Cesano Boscone",
+    "cap": null,
+    "comune": "015074",
+    "frazione": null,
+    "lat": 45.4413,
+    "lon": 9.0872,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con consigli pratici ed esempi concreti per riconoscere le truffe, dentro e fuori casa, con il comandante dei Carabinieri Antonio Plaitano e il comandante della Polizia Locale Armando Clemente. Introduce il sindaco Marco Pozza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesano Boscone",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZH0a9jBxt/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
