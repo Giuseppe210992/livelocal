@@ -135,7 +135,7 @@ lettura: for (const c of lette) {
   if (inizio && nuovi.some((n) => chiave(n.titolo, n.inizio) === chiave(c.titolo, inizio))) err.push('doppione dentro lo stesso file');
   if (err.length) { scarti.push({ nome, err }); continue lettura; }
 
-  const base = `${norm(c.titolo).slice(0, 70)}-${comune.slug}`;
+  const base = `${norm(c.titolo).slice(0, 70).replace(/-+$/, '')}-${comune.slug}`.replace(/-{2,}/g, '-'); // mai due trattini di fila (il taglio a 70 caratteri può lasciarne uno in fondo)
   let slug = base;
   if (slugEsistenti.has(slug) || nuovi.some((n) => n.slug === slug)) slug = `${base}-${inizio.slice(8, 10)}-${inizio.slice(5, 7)}`;
   if (slugEsistenti.has(slug) || nuovi.some((n) => n.slug === slug)) { scarti.push({ nome, err: ['slug già usato'] }); continue; }
