@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-06. **987 pagine di 676 siti** hanno dato eventi; 169 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-08. **989 pagine di 677 siti** hanno dato eventi; 199 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -190,6 +190,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 | MUDEC - Mostre in corso | ufficiale | 3 | https://www.mudec.it/mostre-in-corso-2 (+1 altre pagine) | 2026-11-04 |
 | Comune di Canegrate - Eventi | ufficiale | 2 | https://comune.canegrate.mi.it/vivere-il-comune/eventi | 2026-11-04 |
 | Comune di Cusano Milanino - Agenda eventi | ufficiale | 2 | https://www.comune.cusano-milanino.mi.it/agenda/categoria/eventi | 2026-11-05 |
+| Comune di Peschiera Borromeo | ufficiale | 2 | https://www.comune.peschieraborromeo.mi.it/it/eventi/le-particelle-nano-e-nanomateriali (+1 altre pagine) | 2026-11-08 |
 | LaBolla, Bollate | organizzatore | 2 | https://labollateatro.it/ | 2026-11-04 |
 | LegnanoEvents - Home | aggregatore | 2 | https://www.legnanoevents.it/ | 2026-11-05 |
 | Comune di Baranzate | ufficiale | 1 | https://www.comune.baranzate.mi.it/it/news/celebrazione-giorno-dell-unita-nazionale-e-giornata-delle-forze-armate-domenica-8-novembre-2026 | 2026-11-04 |
@@ -1377,7 +1378,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-169 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+199 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 

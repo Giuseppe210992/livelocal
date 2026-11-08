@@ -100783,5 +100783,71 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-particelle-nano-e-nanomateriali-peschiera-borromeo",
+    "titolo": "Le particelle nano e nanomateriali",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T20:30",
+    "fine": "2026-11-09T22:30",
+    "luogo": "Auditorium Norma Cossetto Biblioteca Comunale G.Gerosa Brichetto",
+    "indirizzo": "Via Giosuè Carducci, 5",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di divulgazione scientifica sulle nanoparticelle e sui nanomateriali, usati dalla medicina all'elettronica, dai cosmetici all'energia. Ingresso gratuito, ma è richiesta la tessera annuale Auser.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "UTE - Auser Insieme Peschiera Borromeo APS",
+    "fonti": [
+      {
+        "nome": "Comune di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi/le-particelle-nano-e-nanomateriali",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ti-racconto-la-tubercolosi-peschiera-borromeo",
+    "titolo": "Ti racconto la tubercolosi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T20:30",
+    "fine": "2026-12-03T22:30",
+    "luogo": "Auditorium Norma Cossetto Biblioteca Comunale G.Gerosa Brichetto",
+    "indirizzo": "Via Giosuè Carducci, 5",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sulla tubercolosi, la malattia più diffusa al mondo, che ha lasciato tracce anche nell'arte, nella lirica e nella poesia. Ingresso gratuito, ma è richiesta la tessera annuale Auser.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "UTE - Auser Insieme Peschiera Borromeo APS",
+    "fonti": [
+      {
+        "nome": "Comune di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/events/le-particelle-nano-e-nanomateriali-732812-732814-732816",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
   }
 ]
