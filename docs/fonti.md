@@ -2,7 +2,7 @@
 
 File generato da `scripts/fonti.mjs`: non modificarlo a mano. I dati grezzi sono in `ricerca/fonti.json` (una riga per pagina) e `ricerca/fonti-consultate.json` (pagine aperte e ricerche fatte).
 
-Aggiornato il 2026-11-08. **989 pagine di 677 siti** hanno dato eventi; 199 fonti sono post di Instagram o Facebook; 42 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
+Aggiornato il 2026-11-08. **990 pagine di 678 siti** hanno dato eventi; 243 fonti sono post di Instagram o Facebook; 43 pagine non si sono lette (bloccate, vuote o errore); 366 ricerche già fatte.
 
 ## Come usarlo per aggiornare senza ricominciare
 
@@ -672,6 +672,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 |---|---|---:|---|---|
 | Visit Pistoia - Eventi | ufficiale | 6 | https://www.visitpistoia.eu/eventi | 2026-11-04 |
 | Comune di Monsummano Terme - Eventi | ufficiale | 4 | https://www.comune.monsummano-terme.pt.it/node | 2026-11-05 |
+| Comune di Montale | ufficiale | 2 | https://www.comune.montale.pt.it/notizie/smilea_d_autore_novembre-dicembre_2026.html | 2026-11-08 |
 | Comune di Pistoia – Eventi | ufficiale | 2 | https://www.comune.pistoia.it/it/eventi/80633/la-periferia-dell-anima-volti-e-ferite (+1 altre pagine) | 2026-11-04 |
 | Pro Loco Il Rondò - Blog | organizzatore | 1 | https://www.rondomontevettolini.it/blog | 2026-11-05 |
 
@@ -1378,7 +1379,7 @@ Regole che valgono sempre: mai copiare il testo delle pagine, mai contatti priva
 
 ## Instagram e Facebook
 
-199 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
+243 fonti sono post di Instagram o Facebook, letti dal controllo automatico (`ricerca/instagram-account.json`, `scripts/controlla-instagram.mjs`). Si trovano in `ricerca/fonti.json`. Non si riaprono a mano: non accedere mai con l'account personale.
 
 ## Pagine che non si sono lette
 
@@ -1436,6 +1437,10 @@ Provate dagli agenti e non utilizzabili. Non riprovare con gli stessi strumenti:
 - https://www.ohbejohbej.it/
 - https://orchestrasinfonicasiciliana.it/it/attivita/stagione
 - https://www.teatrocurci.it/
+
+### errore: 403 (1)
+
+- https://opac.cubinrete.it/library/Biblioteca-di-Peschiera-Borromeo/cal/CDF-aHR0cHM6Ly9jdWJpLmNvc2VkYWZhcmUubmV0L2V2ZW50aS9jb25mZXJlbnplL2luY29udHJvLWwtYXV0b3JlL2F1dHVubm8tbGV0dGVyYXJpby0yMDI2LTY1NjE3Lmh0bWw
 
 ### errore:invalid_url (1)
 
