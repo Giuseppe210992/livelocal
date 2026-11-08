@@ -126,7 +126,8 @@ Regole:
 - "descrizione": 100-300 caratteri, tua, solo fatti letti (tema, ospiti, tipo di evento), senza ipotesi, senza ripetere il titolo.
 - "titolo" e "luogo" in maiuscole e minuscole normali (non tutto in maiuscolo), senza virgolette attorno al titolo e senza articoli iniziali nel luogo (scrivi «Auditorium Norma Cossetto», non «ALL'AUDITORIUM NORMA COSSETTO»). Le citazioni invece vanno copiate identiche alla pagina.
 - Mai telefoni, email, nomi di privati o contatti in nessun campo.
-- categoria: una sola tra ${categorie.join(', ')}.
+- categoria: una sola tra ${categorie.join(', ')} (danza e balletto = teatro; opera e musica = concerto). Nessun'altra parola.
+- Controlla che nei testi non ci siano parole attaccate o frasi spezzate: riscrivi con cura.
 - Al massimo 15 eventi.
 
 Rispondi SOLO con JSON valido: {"eventi":[{"titolo":"","categoria":"","comune":"","provincia":"sigla","luogo":"","indirizzo":"","inizio":"AAAA-MM-GG oppure AAAA-MM-GG HH:MM","fine":"","descrizione":"","prezzo":"","organizzatore":"","fonte_url":"","citazione_data":"","citazione_luogo":""}]}. Se non ci sono eventi validi: {"eventi":[]}.
@@ -285,11 +286,12 @@ for (const r of risultati) { resoconto.push(...r.righe); blocchi.push(...r.nuovi
 if (saltateTempo) resoconto.push(`  ..   tempo a disposizione finito: ${saltateTempo} pagine saranno lette al prossimo giro`);
 resoconto.push(`Riepilogo: ${risultati.length} pagine lavorate, ${blocchi.length} eventi superano il controllo.`);
 
-console.log(resoconto.join('\n'));
 if (prova) {
-  console.log(`\n--- PROVA: ${blocchi.length} eventi superano il controllo (non scritti) ---\n${blocchi.join('\n\n')}`);
+  console.log(`\n--- PROVA: ${blocchi.length} eventi superano il controllo (non scritti) ---\n${blocchi.join('\n\n')}\n`);
+  console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
   process.exit(0);
 }
+console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
 if (blocchi.length) {
   mkdirSync('ricerca/consegne', { recursive: true });

@@ -89,7 +89,10 @@ lettura: for (const c of lette) {
   for (const k of ['titolo', 'categoria', 'comune', 'luogo', 'inizio', 'descrizione', 'fonte_url']) if (vuoto(c[k])) err.push('manca ' + k);
   if (err.length) { scarti.push({ nome, err }); continue; }
 
-  const categoria = norm(c.categoria);
+  // Il modello a volte inventa categorie vicine a quelle ammesse: si riportano alla più simile.
+  const ALIAS = { danza: 'teatro', balletto: 'teatro', prosa: 'teatro', commedia: 'teatro', spettacolo: 'teatro', musical: 'teatro', opera: 'concerto', lirica: 'concerto', musica: 'concerto', festival: 'concerto', libri: 'conferenza', presentazione: 'conferenza', incontro: 'conferenza', laboratorio: 'bambini', fiera: 'mercatino', mercato: 'mercatino', esposizione: 'mostra', visita: 'visita-guidata', festa: 'sagra' };
+  const categoria0 = norm(c.categoria);
+  const categoria = ALIAS[categoria0] ?? categoria0;
   if (!categorie.has(categoria)) err.push('categoria non valida: ' + c.categoria);
 
   const comune = comuniPerNome.get(norm(c.comune) + '|' + (c.provincia ?? '').toLowerCase().trim()) ?? (vuoto(c.provincia) ? comuniPerNome.get(norm(c.comune) + '|') : null);
@@ -112,6 +115,7 @@ lettura: for (const c of lette) {
   const tipo = tipoFonte(url, c.fonte_tipo);
 
   if (c.descrizione.length < 60) err.push('descrizione troppo corta (minimo 60 caratteri)');
+  if (/[A-Za-zÀ-ÿ]{26,}/.test(c.descrizione)) err.push('descrizione con parole attaccate (testo rovinato)');
   if (c.descrizione.length > 700) err.push('descrizione troppo lunga (massimo 700 caratteri)');
   if (CONTATTO.test(`${c.titolo} ${c.descrizione} ${c.organizzatore ?? ''} ${c.luogo} ${c.indirizzo ?? ''}`)) err.push('contatto privato (telefono o email) nel testo');
   if (!vuoto(c.prenotazione) && !/^https?:\/\//.test(c.prenotazione)) err.push('prenotazione: solo link, mai telefoni');
