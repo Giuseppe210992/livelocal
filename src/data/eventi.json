@@ -100882,5 +100882,138 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "estate-di-san-martino-piacenza",
+    "titolo": "Estate di San Martino",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-08T08:30",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Piazza Cavalli",
+    "indirizzo": "Piazza Cavalli, 29121 Piacenza PC, Italia",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di festa con sbandieratori, spettacolo itinerante, mercanti di qualità, hobbisti, creativi, giochi di una volta ed enogastronomia. L'evento anima il centro storico con la partecipazione di produttori locali e associazioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/events/estate-di-san-martino",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "manufatto-piacenza",
+    "titolo": "Manufatto",
+    "categoria": "mercatino",
+    "inizio": "2026-11-08T09:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Piazza Duomo",
+    "indirizzo": "Piazza Duomo, 33, 29121 Piacenza PC, Italia",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino dedicato all'artigianato, all'autoproduzione, alla creatività indipendente e al riciclo. Un appuntamento per celebrare la creatività artigianale nel cuore della città.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/events/manufatto",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-piacenza",
+    "titolo": "Visite guidate",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T11:00",
+    "fine": "2026-11-08T12:30",
+    "luogo": "Sede di piazza Cavalli 7",
+    "indirizzo": "Piazza Cavalli, 7, 29121 Piacenza PC, Italia",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "City tour alla scoperta della città, tra storie di viaggio, commerci e intrecci tra persone e culture. Percorso pensato per adulti, famiglie e gruppi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/events/visite-guidate",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "magico-canto-piacenza",
+    "titolo": "Magico Canto",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": "2026-11-08T19:00",
+    "luogo": "Chiesa di San Giovanni in Canale",
+    "indirizzo": "Via Croce, 26, 29121 Piacenza PC, Italia",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto celebrativo per il 50° anno di attività del Coro Polifonico Farnesiano. Le Voci Bianche e Giovanili del coro incontrano i Piccoli Cantori di Torino in un viaggio tra epoche e linguaggi musicali diversi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro Polifonico Farnesiano",
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/events/magico-canto",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
   }
 ]

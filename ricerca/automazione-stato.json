@@ -1,0 +1,15 @@
+{
+ "_nota": "Generato da scripts/estrai-eventi-ia.mjs: ultimo giro per ogni fonte.",
+ "fonti": {
+  "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
+   "ultima": "2026-11-08",
+   "eventi": 0,
+   "esito": "ok: 6 proposti, 0 superano il controllo"
+  },
+  "https://www.comune.piacenza.it/it/eventi": {
+   "ultima": "2026-11-08",
+   "eventi": 4,
+   "esito": "ok: 5 proposti, 4 superano il controllo"
+  }
+ }
+}
