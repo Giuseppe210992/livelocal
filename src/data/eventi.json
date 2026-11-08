@@ -100849,5 +100849,38 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hayez-boldini-casorati-moda-e-costume-castello-novara-2026",
+    "titolo": "Hayez, Boldini, Casorati. Moda e costume nella società moderna",
+    "categoria": "mostra",
+    "inizio": "2026-10-31",
+    "fine": "2027-04-04",
+    "luogo": "Castello di Novara",
+    "indirizzo": "Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a cura di Elisabetta Chiodini, organizzata da METS Percorsi d'Arte con Comune di Novara e Fondazione Castello di Novara: capolavori della pittura italiana dialogano con abiti e accessori d'epoca, dai primi dell'Ottocento agli anni Venti del Novecento. Biglietti e informazioni sul sito di METS.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "METS Percorsi d'Arte – Comune di Novara",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram A-Novara (Comune di Novara)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfH-j6JDMg4/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
