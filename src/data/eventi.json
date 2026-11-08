@@ -110682,5 +110682,71 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "lai-spiegata-in-modo-semplice-villa-marazzi-cesano-boscone-2026-11-17",
+    "titolo": "L'AI spiegata in modo semplice",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T19:00",
+    "fine": "2026-11-17T20:30",
+    "luogo": "Biblioteca di Villa Marazzi",
+    "indirizzo": "Via Dante Alighieri 47, Cesano Boscone",
+    "cap": null,
+    "comune": "015074",
+    "frazione": null,
+    "lat": 45.4413,
+    "lon": 9.0872,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pratico con dimostrazioni dal vivo, in collaborazione con MachineSignal: come funziona l'intelligenza artificiale, come usarla ogni giorno e come riconoscere le nuove truffe con voci imitate e video falsi. Iscrizione online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesano Boscone",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfaAgkxDHin/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "come-difendersi-da-furti-e-truffe-circolo-auser-cavidole-castelnuovo-rangone-2026-11-11",
+    "titolo": "Prevenzione e sicurezza: come difendersi da furti e truffe",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:00",
+    "fine": "2026-11-11T22:00",
+    "luogo": "Circolo Auser di Cavidole",
+    "indirizzo": "Cavidole, Castelnuovo Rangone",
+    "cap": null,
+    "comune": "036007",
+    "frazione": null,
+    "lat": 44.54,
+    "lon": 10.96,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo di una serie di incontri sulla sicurezza pubblica con tre relatori esperti. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castelnuovo Rangone",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castelnuovo Rangone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfaF8qCiXXS/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
