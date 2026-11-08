@@ -24,10 +24,16 @@ Cosa fa la ricerca quando parte (è già così, nessuna modifica): legge le pagi
 
 Un solo avvio ogni 5 minuti. Il numero massimo è 120.
 
-## Nella chat di giot.ai
+## Nella chat di giot.ai: connettore
 
-- Se la chat permette di collegare **strumenti, webhook o funzioni** (di solito dal pulsante «+»), aggiungi l'indirizzo `/exec` come funzione con i parametri `cmd` e `quanti` e la chiave tra i valori fissi. Poi basta scrivere «avvia la ricerca dei comuni, 40».
-- Se non lo permette, salva i tre indirizzi come **preferiti** del browser (o fatti incollare il link in chat dal modello e toccalo): un tocco avvia la ricerca.
+La chat ha la sezione **Impostazioni → Connettori** (servizi MCP, come TinyFish). Lo script ora parla anche questo linguaggio, quindi si può aggiungere come connettore e usare a parole.
+
+1. **Aggiorna lo script**: incolla di nuovo tutto `docs/avvio-da-chat-script.gs` al posto del vecchio codice e salva. Poi **Esegui il deployment → Gestisci i deployment** → matita sul deployment esistente → **Versione: Nuova versione** → **Esegui il deployment**. L'indirizzo `/exec` resta lo stesso.
+2. Nella chat: **Impostazioni → Connettori → Aggiungi connettore**. Nome: `LiveLocal avvio`. Indirizzo: `INDIRIZZO/exec?chiave=LA_TUA_FRASE`. Salva e controlla che compaiano **3 strumenti**.
+3. Prova a scrivere: «dimmi lo stato delle ricerche di LiveLocal», poi «avvia la ricerca dei comuni, 40». Le operazioni che avviano qualcosa chiedono conferma.
+
+Strumenti: `avvia_ricerca_comuni`, `avvia_lettura_fonti`, `stato_ricerche`.
+Se la chat non riesce a collegarsi (Apps Script risponde con un reindirizzamento che alcuni programmi non seguono), usa i tre indirizzi come preferiti: stesso risultato.
 
 ## Attenzione
 
