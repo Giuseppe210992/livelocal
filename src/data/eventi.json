@@ -101181,5 +101181,170 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maginarium-pau-segales-mattatoio-roma-2026",
+    "titolo": "Maginarium di Pau Segalés",
+    "categoria": "bambini",
+    "inizio": "2026-10-30",
+    "fine": "2026-11-15",
+    "luogo": "Mattatoio",
+    "indirizzo": "Piazza Orazio Giustiniani 4, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.8764,
+    "lon": 12.4752,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo in una roulotte trasformata in teatro, tra magia, mistero e illusione, nel festival Romaeuropa Kids & Family dedicato ai più piccoli e alle famiglie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Romaeuropa Festival – Mattatoio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfHR8HPlcP6/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sformat-formati-originali-roma-smistamento-roma-2026",
+    "titolo": "SFORMAT – formati originali",
+    "categoria": "mostra",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-22",
+    "luogo": "Roma Smistamento / TWM Factory",
+    "indirizzo": "Via Giuseppe Arimondi 3, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.9096,
+    "lon": 12.5418,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra performativa «Mentre se ne va» del collettivo Sala Sola e videoinstallazione performativa «Digital Odyssey» di Bluecheese Project, con prove aperte e spettacoli a ingresso gratuito; per alcuni appuntamenti serve la prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bluecheese Project APS",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRnfZtlKjS/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-di-nuova-consonanza-63-auditorium-roma-2026",
+    "titolo": "63ª edizione del Festival di Nuova Consonanza",
+    "categoria": "concerto",
+    "inizio": "2026-11-06",
+    "fine": "2026-12-20",
+    "luogo": "Auditorium Parco della Musica Ennio Morricone",
+    "indirizzo": "Viale Pietro de Coubertin 30, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.9288,
+    "lon": 12.4756,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival di musica contemporanea dedicato al Tempo: oltre 40 eventi, più di 30 prime assolute e 11 prime italiane, tra concerti, teatro musicale, balletto e installazioni, anche al Mattatoio, al Teatro Palladium, alla Basilica Cristo Re e a Villa Aurelia. Si apre il 6 novembre con l'incontro su Mauro Bortolotti e un concerto omaggio a lui e a Franco Evangelisti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Consonanza ETS",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfR4BHHFHE7/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "2099-pinocchio-al-tufello-roma-2026-11-08",
+    "titolo": "2099. Pinocchio al Tufello – 08/11",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T17:00",
+    "fine": "2026-11-08T18:00",
+    "luogo": "Area Sociale del Mercato del Tufello «G. Proietti»",
+    "indirizzo": "Via Monte Sirino 23, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.9475,
+    "lon": 12.533,
+    "coordinateApprossimate": true,
+    "descrizione": "Restituzione pubblica della residenza artistica del Collettivo 7Off/sotto 30, nella rassegna di teatro civile Terzo Incluso: nel 2099 al Tufello, Geppetto è l'unico uomo senza innesti cibernetici. Ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro 7Off",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUH7nCFF2n/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "2099-pinocchio-al-tufello-roma-2026-11-15",
+    "titolo": "2099. Pinocchio al Tufello – 15/11",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T17:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Area Sociale del Mercato del Tufello «G. Proietti»",
+    "indirizzo": "Via Monte Sirino 23, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.9475,
+    "lon": 12.533,
+    "coordinateApprossimate": true,
+    "descrizione": "Restituzione pubblica della residenza artistica del Collettivo 7Off/sotto 30, nella rassegna di teatro civile Terzo Incluso: nel 2099 al Tufello, Geppetto è l'unico uomo senza innesti cibernetici. Ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro 7Off",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfUH7nCFF2n/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
