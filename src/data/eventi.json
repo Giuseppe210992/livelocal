@@ -107139,5 +107139,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "futuro-remoto-40-inaugurazione-georg-nagel-napoli-2026-11-10",
+    "titolo": "Futuro Remoto 2026 – inaugurazione con il Premio Nobel Georg Nagel",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T10:30",
+    "fine": "2026-11-10T12:30",
+    "luogo": "Città della Scienza",
+    "indirizzo": "Via Coroglio 104, Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.803,
+    "lon": 14.176,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento inaugurale della 40ª edizione del festival della scienza, con il biofisico Georg Nagel, Premio Nobel per la Medicina 2026, nella Sala Newton. Ingresso libero fino a esaurimento posti, prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione IDIS – Città della Scienza",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città della Scienza",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfPp3XJiPGn/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "3-giorni-con-la-scuola-pubblica-xxv-napoli-2026",
+    "titolo": "3 Giorni con la Scuola Pubblica – XXV edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": "2026-11-27",
+    "luogo": "Città della Scienza",
+    "indirizzo": "Via Coroglio 104, Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.803,
+    "lon": 14.176,
+    "coordinateApprossimate": true,
+    "descrizione": "Bootcamp della scuola sul tema «Dialoghi, Metodi, Scoperte per affrontare le crisi»: sessioni plenarie, seminari e workshop su intelligenza artificiale, uguaglianza e inclusione, educazione ecologica e scuola-lavoro, con Innovation Expo e The Lab Village. Promosso con l'Assessorato alle Politiche sociali e alla Scuola della Regione Campania.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione IDIS – Città della Scienza",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città della Scienza",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfSEf8slekz/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
