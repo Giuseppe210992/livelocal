@@ -109623,5 +109623,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-08",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marina-abramovic-historical-works-and-transforming-energy-gnamc-roma-2026",
+    "titolo": "Marina Abramović: Historical Works and Transforming Energy",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2027-04-04",
+    "luogo": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+    "indirizzo": "Viale delle Belle Arti 131, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.9167,
+    "lon": 12.4797,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra per gli 80 anni dell'artista, a cura di Shai Baitel e Andrea Tarsia: opere storiche come Imponderabilia, Balkan Baroque e The Artist is Present insieme ai Transitory Objects, strutture di cristalli e minerali. Arriva a Roma in versione ampliata dopo Venezia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram GNAMC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfaGipssgM6/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-vasca-contro-la-violenza-piscina-comunale-bastia-umbra-2026-11-21",
+    "titolo": "Una vasca contro la violenza – staffetta di nuoto",
+    "categoria": "sport",
+    "inizio": "2026-11-21T14:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Piscina comunale",
+    "indirizzo": "Via Hochberg, Bastia Umbra",
+    "cap": null,
+    "comune": "054002",
+    "frazione": null,
+    "lat": 43.0643,
+    "lon": 12.5287,
+    "coordinateApprossimate": true,
+    "descrizione": "Staffetta di nuoto per la Giornata internazionale contro la violenza sulle donne, organizzata dal Comune con Azzurra Soc. Coop. S.D.: conta partecipare, non la prestazione sportiva.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bastia Umbra",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bastia Umbra",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZqyd6C2X1/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
