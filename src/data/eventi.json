@@ -100154,5 +100154,138 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "cap": null,
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia",
+    "slug": "dialoghi-adolescenti-centro-per-le-famiglie-maranello-2026-11-09",
+    "titolo": "Dialoghi adolescenti – incontro del 09/11",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T18:00",
+    "fine": "2026-11-09T20:00",
+    "luogo": "Centro per le Famiglie",
+    "indirizzo": "Maranello",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "descrizione": "Percorso laboratoriale su come dialogare con ragazze e ragazzi adolescenti (dagli 11 anni), per genitori, educatori e adulti di riferimento. Condotto da Silvia Bertoncelli e Vanda De Stefano, psicologa del Centro per le Famiglie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Maranello – Centro per le Famiglie",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRe9AbAP9h/",
+        "consultata": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "cap": null,
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia",
+    "slug": "dialoghi-adolescenti-centro-per-le-famiglie-maranello-2026-11-16",
+    "titolo": "Dialoghi adolescenti – incontro del 16/11",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T18:00",
+    "fine": "2026-11-16T20:00",
+    "luogo": "Centro per le Famiglie",
+    "indirizzo": "Maranello",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "descrizione": "Percorso laboratoriale su come dialogare con ragazze e ragazzi adolescenti (dagli 11 anni), per genitori, educatori e adulti di riferimento. Condotto da Silvia Bertoncelli e Vanda De Stefano, psicologa del Centro per le Famiglie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Maranello – Centro per le Famiglie",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRe9AbAP9h/",
+        "consultata": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "cap": null,
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia",
+    "slug": "dialoghi-adolescenti-centro-per-le-famiglie-maranello-2026-11-23",
+    "titolo": "Dialoghi adolescenti – incontro del 23/11",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T18:00",
+    "fine": "2026-11-23T20:00",
+    "luogo": "Centro per le Famiglie",
+    "indirizzo": "Maranello",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "descrizione": "Percorso laboratoriale su come dialogare con ragazze e ragazzi adolescenti (dagli 11 anni), per genitori, educatori e adulti di riferimento. Condotto da Silvia Bertoncelli e Vanda De Stefano, psicologa del Centro per le Famiglie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Maranello – Centro per le Famiglie",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRe9AbAP9h/",
+        "consultata": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "cap": null,
+    "frazione": null,
+    "coordinateApprossimate": true,
+    "prenotazione": null,
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia",
+    "slug": "vigevano-la-citta-ideale-gita-pro-loco-martinengo-2026-11-22",
+    "titolo": "Vigevano: la città ideale – gita della Pro Loco",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T08:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Partenza dall'ufficio Pro Loco (visita a Vigevano)",
+    "indirizzo": "Via Allegreni 29, Martinengo",
+    "comune": "016133",
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "descrizione": "Giornata alla scoperta di Vigevano: Piazza Ducale, Torre del Bramante, Castello Sforzesco e Museo Internazionale della Calzatura. Quota di 79 euro con visite guidate, pranzo e spostamenti; partenza da Martinengo alle 8:00. Prenotazioni e saldo entro il 10 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 79
+    },
+    "organizzatore": "Pro Loco Martinengo",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Martinengo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfCU5z-jfQL/",
+        "consultata": "2026-11-08"
+      }
+    ]
   }
 ]
