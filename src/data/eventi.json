@@ -100684,5 +100684,104 @@
     "lat": 44.49802,
     "lon": 11.3333,
     "organizzatore": "Cineteca di Bologna"
+  },
+  {
+    "slug": "visita-arz-archivio-renato-zangheri-bologna-2026-11-10",
+    "titolo": "Visita guidata all'Archivio Renato Zangheri (ARZ) – 10/11",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-10T11:00",
+    "fine": "2026-11-10T18:00",
+    "luogo": "Archivio Renato Zangheri di Cinema e Fotografia (ARZ)",
+    "indirizzo": "Bologna, ex Parcheggio Giuriolo",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata ai nuovi spazi dell'ARZ, il polo che riunisce il patrimonio filmico e fotografico della Cineteca e il laboratorio di restauro L'Immagine Ritrovata. Due turni, alle 11:00 o alle 17:00; ingresso gratuito con prenotazione sul sito della programmazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfMzL1GjR4Q/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-arz-archivio-renato-zangheri-bologna-2026-11-17",
+    "titolo": "Visita guidata all'Archivio Renato Zangheri (ARZ) – 17/11",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-17T11:00",
+    "fine": "2026-11-17T18:00",
+    "luogo": "Archivio Renato Zangheri di Cinema e Fotografia (ARZ)",
+    "indirizzo": "Bologna, ex Parcheggio Giuriolo",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata ai nuovi spazi dell'ARZ, il polo che riunisce il patrimonio filmico e fotografico della Cineteca e il laboratorio di restauro L'Immagine Ritrovata. Due turni, alle 11:00 o alle 17:00; ingresso gratuito con prenotazione sul sito della programmazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfMzL1GjR4Q/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-arz-archivio-renato-zangheri-bologna-2026-11-24",
+    "titolo": "Visita guidata all'Archivio Renato Zangheri (ARZ) – 24/11",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-24T11:00",
+    "fine": "2026-11-24T18:00",
+    "luogo": "Archivio Renato Zangheri di Cinema e Fotografia (ARZ)",
+    "indirizzo": "Bologna, ex Parcheggio Giuriolo",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata ai nuovi spazi dell'ARZ, il polo che riunisce il patrimonio filmico e fotografico della Cineteca e il laboratorio di restauro L'Immagine Ritrovata. Due turni, alle 11:00 o alle 17:00; ingresso gratuito con prenotazione sul sito della programmazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfMzL1GjR4Q/",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "inserito": "2026-11-08",
+    "inseritoDa": "ia"
   }
 ]
