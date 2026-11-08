@@ -109689,5 +109689,600 @@
     ],
     "inserito": "2026-11-08",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "sabato-giocoso-rosa",
+    "titolo": "Sabato giocoso",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T15:00",
+    "fine": "2026-11-21T17:00",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Roma, 3, 36027 Rosà VI, Italia",
+    "cap": null,
+    "comune": "024087",
+    "frazione": null,
+    "lat": 45.71731,
+    "lon": 11.75124,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta dedicata ai giochi da tavolo per bambini dai 6 ai 10 anni, organizzata dalla Biblioteca Comunale di Rosà in collaborazione con il Comitato di Biblioteca. Attività ludiche e sociali nel pomeriggio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comitato di Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Rosà",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rosa.vi.it/it/eventi/sabato-giocoso-729471",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-dell-unita-nazionale-e-delle-forze-armate-roncade",
+    "titolo": "Festa dell'Unità Nazionale e delle Forze Armate",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-08T10:00",
+    "fine": "2026-11-08T11:30",
+    "luogo": "Municipio",
+    "indirizzo": "Via Roma, 53, 31056 Roncade TV",
+    "cap": null,
+    "comune": "026069",
+    "frazione": null,
+    "lat": 45.61338,
+    "lon": 12.39532,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione dell'Unità Nazionale e delle Forze Armate con partecipazione della cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Roncade",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.roncade.tv.it/it/eventi/festa-dell-unita-nazionale-e-delle-forze-armate-731512",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "26-edizione-di-frutto-di-un-sostegno-sociale-roncade",
+    "titolo": "26ª edizione di \"Frutto di un Sostegno Sociale\"",
+    "categoria": "mercatino",
+    "inizio": "2026-11-07T09:00",
+    "fine": "2026-11-08T18:00",
+    "luogo": "Municipio",
+    "indirizzo": "Via Roma, 53, 31056 Roncade TV",
+    "cap": null,
+    "comune": "026069",
+    "frazione": null,
+    "lat": 45.61338,
+    "lon": 12.39532,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di mele biologiche per sostenere progetti sociali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione \"IL NOSTRO DOMANI ONLUS\"",
+    "fonti": [
+      {
+        "nome": "Comune di Roncade",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.roncade.tv.it/it/eventi/25a-edizione-di-frutto-di-un-sostegno-sociale-732625",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prendersi-cura-degli-alberi-in-citta-roncade",
+    "titolo": "Prendersi cura degli alberi in città",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:30",
+    "fine": "2026-11-11T21:30",
+    "luogo": "Municipio, sede distaccata piano terra",
+    "indirizzo": "Via San Rocco, 8 B, 31056 Roncade TV",
+    "cap": null,
+    "comune": "026069",
+    "frazione": null,
+    "lat": 45.61338,
+    "lon": 12.39532,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno sulla valutazione di stabilità e potature degli alberi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comitato Provinciale Fipsas di Treviso",
+    "fonti": [
+      {
+        "nome": "Comune di Roncade",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.roncade.tv.it/it/eventi/prendersi-cura-degli-alberi-in-citta",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "minori-al-centro-rovato",
+    "titolo": "Minori al centro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T20:30",
+    "fine": null,
+    "luogo": "Via Martinengo Cesaresco",
+    "indirizzo": "Rovato",
+    "cap": null,
+    "comune": "017166",
+    "frazione": null,
+    "lat": 45.54554,
+    "lon": 10.0106,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro tematico sulla violenza domestica e i minori coinvolti. Interverranno Moira Ottelli, Laura Gamba e Michela Bosio per discutere del tema degli invisibili nella violenza domestica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rovato",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rovato.bs.it/vivere-il-comune/eventi/eventi-sociali/minori-al-centro",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-2026-rovato",
+    "titolo": "Mercatini di Natale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Piazza Cavour",
+    "indirizzo": "Rovato",
+    "cap": null,
+    "comune": "017166",
+    "frazione": null,
+    "lat": 45.54554,
+    "lon": 10.0106,
+    "coordinateApprossimate": true,
+    "descrizione": "Sei edizione del mercatino di Natale delle associazioni. Evento aperto al pubblico con banchi e proposte delle associazioni locali in Piazza Cavour.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rovato",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rovato.bs.it/vivere-il-comune/eventi/eventi-di-affari-o-commerciali",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-l-autore-rovato",
+    "titolo": "Incontro con l'autore",
+    "categoria": "conferenza",
+    "inizio": "2027-01-28T20:30",
+    "fine": null,
+    "luogo": "Via Martinengo Cesaresco",
+    "indirizzo": "Rovato",
+    "cap": null,
+    "comune": "017166",
+    "frazione": null,
+    "lat": 45.54554,
+    "lon": 10.0106,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autore del libro \"Papà il mio cavallo è ancora morto?\". L'evento si concentra su come un narratore racconti la verità ai propri figli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rovato",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rovato.bs.it/vivere-il-comune/eventi/evento-culturale/incontro-con-l-autore",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "polentata-benefica-avis-a-san-nicolo-rottofreno",
+    "titolo": "Polentata benefica AVIS a San Nicolò",
+    "categoria": "sagra",
+    "inizio": "2026-11-08T11:15",
+    "fine": "2026-11-08T14:00",
+    "luogo": "Sede AVIS",
+    "indirizzo": "Via Giacomo Matteotti, 39, 29010 San Nicolò PC",
+    "cap": null,
+    "comune": "033039",
+    "frazione": null,
+    "lat": 45.06344,
+    "lon": 9.56555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro gastronomico benefico promosso dall'associazione AVIS a San Nicolò con offerta di polenta a scopo benefico al termine delle celebrazioni in chiesa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "AVIS",
+    "fonti": [
+      {
+        "nome": "Comune di Rottofreno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rottofreno.pc.it/it/eventi/polentata-benefica-avis-732263",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lezione-gratuita-sulle-manovre-di-disostruzione-pediatrica-rottofreno",
+    "titolo": "Lezione gratuita sulle Manovre di disostruzione pediatrica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T20:15",
+    "fine": "2026-11-10T23:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Dante Alighieri, 29010 San Nicolò PC",
+    "cap": null,
+    "comune": "033039",
+    "frazione": null,
+    "lat": 45.06344,
+    "lon": 9.56555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro formativo teorico e pratico dedicato alla prevenzione e alle manovre di disostruzione delle vie aeree in ambito pediatrico, con dimostrazioni pratiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rottofreno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rottofreno.pc.it/it/eventi/lezione-gratuita-sulle-manovre-di-disostruzione-pediatrica-731395",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerti-d-autunno-2026-xii-edizione-tra-danze-e-balletti-rubano",
+    "titolo": "Concerti d'autunno 2026 - XII Edizione, Tra danze e balletti",
+    "categoria": "concerto",
+    "inizio": "2026-11-08T17:00",
+    "fine": "2026-11-08T20:00",
+    "luogo": "Auditorium dell’Assunta",
+    "indirizzo": "Via Palù, 2",
+    "cap": null,
+    "comune": "028072",
+    "frazione": null,
+    "lat": 45.43562,
+    "lon": 11.8022,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della XII edizione dei Concerti d'autunno. Il duo pianistico Renata Benvegnù e Fabio Crocco eseguiranno musiche di Moszkowski, Dvorak, Brahms, Tchaikovsky e Rossini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "APS Storia e Vita",
+    "fonti": [
+      {
+        "nome": "Comune di Rubano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubano.pd.it/it/eventi/concerti-dautunno-2026-xii-edizione-tra-danze-e-balletti",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-miserabili-rubiera",
+    "titolo": "I miserabili",
+    "categoria": "teatro",
+    "inizio": "2026-11-08T18:00",
+    "fine": "2026-11-08T20:00",
+    "luogo": "Teatro Herberia",
+    "indirizzo": "Piazza Antonio Gramsci, 1b, 42048 Rubiera RE, Italia",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale basato sul musical 'I miserabili', con la Compagnia 'I mille e una notte'. L'azione è spostata dalla Parigi rivoluzionaria alla Reggio Emilia della Resistenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/i-miserabili",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-di-formazione-in-psicologia-sportiva-rubiera",
+    "titolo": "Corso di formazione in psicologia sportiva",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:30",
+    "fine": "2026-11-11T20:30",
+    "luogo": "Palazzo Sacrati - Municipio",
+    "indirizzo": "Via Emilia Est, 5, 42048 Rubiera RE, Italia",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso di formazione psico-educativa per atleti, allenatori, dirigenti e psicologi sportivi. Incontro dal titolo 'Psicologia per l'atleta'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/corso-di-formazione-in-psicologia-sportiva-2519985",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "focus-libri-diego-fontana-presenta-off-line-il-potere-dell-ia-rubiera",
+    "titolo": "Focus libri: Diego Fontana presenta Off line, il potere dell'IA",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:30",
+    "fine": "2026-11-11T20:00",
+    "luogo": "Biblioteca Antonio Urceo detto “Codro”",
+    "indirizzo": "Via Emilia Est, 11, 42048 Rubiera RE, Italia",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Off line, il potere dell'IA' di Diego Fontana. L'autore dialogherà con Graziana Sergio, esperta di comunicazione digitale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/focus-libri-diego-fontana-presenta-off-line-il-potere-dell-ia",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "benessere-senza-eta-rubiera",
+    "titolo": "Benessere senza età",
+    "categoria": "bambini",
+    "inizio": "2026-11-12T15:30",
+    "fine": "2026-11-12T17:30",
+    "luogo": "Sala Lea Garofalo",
+    "indirizzo": "via De Gasperi 2",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio d'arte per persone anziane. Tema: 'Un volto alla Arcimboldo'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Auser Rubiera",
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/benessere-senza-eta-686510-686511-686517-686518-686519-686520-686521",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "topi-in-biblioteca-rubiera",
+    "titolo": "Topi in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T17:00",
+    "fine": "2026-11-13T18:00",
+    "luogo": "Biblioteca Antonio Urceo detto “Codro”",
+    "indirizzo": "Via Emilia Est, 11, 42048 Rubiera RE, Italia",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per ragazzi dai 10 ai 14 anni appassionati di libri, fumetti, film e serie TV.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/topi-in-biblioteca-2516645-2520091",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "benessere-senza-eta-rubiera-19-11",
+    "titolo": "Benessere senza età",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T15:00",
+    "fine": "2026-11-19T17:00",
+    "luogo": "Sala Lea Garofalo",
+    "indirizzo": "via De Gasperi 2",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio dedicato alla musica degli anni '70 per ricordare emozioni e momenti della giovinezza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Auser Rubiera",
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/benessere-senza-eta-686100",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rubiera-chocolate-rubiera",
+    "titolo": "Rubiera Chocolate",
+    "categoria": "sagra",
+    "inizio": "2026-11-22T09:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Via Emilia - Centro storico",
+    "indirizzo": "Via Emilia Est, 42048 Rubiera RE, Italia",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa del cioccolato artigianale con mercatini, degustazioni e prodotti tipici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/rubiera-chocolate",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "benessere-senza-eta-rubiera-26-11",
+    "titolo": "Benessere senza età",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T15:00",
+    "fine": "2026-11-26T17:00",
+    "luogo": "Sala Lea Garofalo",
+    "indirizzo": "via De Gasperi 2",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sulla violenza alle donne con racconto di un'esperienza educativa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Auser Rubiera",
+    "fonti": [
+      {
+        "nome": "Comune di Rubiera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rubiera.re.it/it/events/benessere-senza-eta-686510-686511-686517-686518-686519-686520",
+        "consultata": "2026-11-08"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-08",
+    "inseritoDa": "consegna"
   }
 ]
