@@ -115281,5 +115281,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-09",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "madre-nostra-teatro-delle-arti-lastra-a-signa-2026-11-13",
+    "titolo": "Madre Nostra",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T22:00",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8, Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.745,
+    "lon": 11.0837,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo nato dal lavoro collettivo delle attrici del Centro Per non subire violenza e del Teatro dell'Ortica di Genova, regia di Ilaria Piaggesi e Romina Soldati: sessanta minuti sulla madre in tutte le sue forme, a pochi giorni dal 25 novembre. Biglietti dal link nel profilo del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti – A Teatro Aperto",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfaQYPfNhZl/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insonnia-e-problemi-del-sonno-universita-adulti-ciliverghe-mazzano-2026-11-09",
+    "titolo": "Insonnia e problemi del sonno – Università degli Adulti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T14:30",
+    "fine": "2026-11-09T16:00",
+    "luogo": "Sala Polivalente – Biblioteca «F. Meo», Ciliverghe",
+    "indirizzo": "Ciliverghe di Mazzano",
+    "cap": null,
+    "comune": "017107",
+    "frazione": null,
+    "lat": 45.4996,
+    "lon": 10.3541,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con la dott.ssa Eleonora Caffelli sui problemi più frequenti del sonno, nel ciclo dell'Università degli Adulti dei Comuni di Mazzano e Nuvolera. Le lezioni sono registrate e visibili sul canale YouTube del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Mazzano",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Mazzano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZt6XwApvv/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
