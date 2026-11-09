@@ -115578,5 +115578,71 @@
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "applique-pelle-di-pesce-nanai-venezia-2026-11-12",
+    "titolo": "Appliqué in pelle di pesce Nanai: laboratorio al Museo d'Arte Orientale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T15:00",
+    "fine": "2026-11-12T17:00",
+    "luogo": "Museo d'Arte Orientale (Ca' Pesaro)",
+    "indirizzo": "Santa Croce 2076, Venezia",
+    "cap": null,
+    "comune": "027042",
+    "frazione": null,
+    "lat": 45.4412,
+    "lon": 12.3306,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio pratico con l'artista Nanai Anatoly Donkan sulle tecniche e i motivi tradizionali dell'appliqué in pelle di pesce, tipici delle comunità del basso fiume Amur. Il maestro parla in inglese con traduzione consecutiva. Ingresso gratuito su prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo d'Arte Orientale di Venezia e Università Ca' Foscari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Museo d'Arte Orientale Venezia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfXaSX_FDEy/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "magnifico-1492-palazzo-pitti-firenze-2026",
+    "titolo": "Magnifico 1492: la collezione di Lorenzo de' Medici",
+    "categoria": "mostra",
+    "inizio": "2026-12-03",
+    "fine": "2027-03-01",
+    "luogo": "Tesoro dei Granduchi, Palazzo Pitti",
+    "indirizzo": "Piazza dei Pitti 1, Firenze",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.7653,
+    "lon": 11.2499,
+    "coordinateApprossimate": true,
+    "descrizione": "Grande mostra con oltre cento opere per ricostruire la collezione di Lorenzo il Magnifico come inventariata nel 1492. Per la prima volta riunito il trittico della Battaglia di San Romano di Paolo Uccello. Biglietti prenotabili sul sito delle Gallerie degli Uffizi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gallerie degli Uffizi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Gallerie degli Uffizi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfRS51wgTMk/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
