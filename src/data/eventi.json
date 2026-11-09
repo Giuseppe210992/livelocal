@@ -116071,5 +116071,38 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-09",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-montecchio-maggiore-2026-12-05",
+    "titolo": "Mercatini di Natale a Montecchio Maggiore",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-05T19:00",
+    "luogo": "Piazza Marconi",
+    "indirizzo": "Piazza Marconi, Montecchio Maggiore",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.5051,
+    "lon": 11.4096,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale con artigiani, hobbisti e creativi in piazza Marconi, sabato 5 dicembre dalle 10 alle 19. Sono aperte le candidature per gli espositori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Montecchio Maggiore eventi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Montecchio Maggiore eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfcPUFVDX1L/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
