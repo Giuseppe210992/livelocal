@@ -122209,5 +122209,38 @@
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-guidata-abitare-lo-spazio-luciano-fabro-hangarbicocca-milano-2026-11-15",
+    "titolo": "Visita guidata a «Abitare lo spazio» di Luciano Fabro (15 novembre)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-15T16:00",
+    "fine": "2026-11-15T17:00",
+    "luogo": "Pirelli HangarBicocca",
+    "indirizzo": "Via Chiese 2, Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.5214,
+    "lon": 9.2155,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita con i mediatori museali alla mostra «Abitare lo spazio» di Luciano Fabro. L'ingresso a Pirelli HangarBicocca è gratuito; per le visite guidate si prenota dal link nel profilo Instagram dell'organizzatore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pirelli HangarBicocca",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Pirelli HangarBicocca",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfZ2RMqlNzL/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
