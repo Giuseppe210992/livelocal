@@ -121393,5 +121393,69 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-09",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-donne-che-amano-muoiono-cantiere-florida-firenze-2026-11-19",
+    "titolo": "«Le donne che amano muoiono» al Cantiere Florida (Il Filo Rosso 2026)",
+    "categoria": "teatro",
+    "inizio": "2026-11-19",
+    "luogo": "Cantiere Florida",
+    "indirizzo": "Firenze",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.7696,
+    "lon": 11.22,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento di novembre del programma «Il Filo Rosso 2026», le iniziative del Quartiere 4 contro la violenza maschile sulle donne. Il programma completo è sul profilo del Comune di Firenze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Firenze - Quartiere 4",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Firenze",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfcqwrcjSqX/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-filo-rosso-giornata-conclusiva-gasometro-firenze-2026-11-28",
+    "titolo": "Il Filo Rosso 2026: giornata conclusiva al Gasometro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "luogo": "Gasometro",
+    "indirizzo": "Firenze",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.7696,
+    "lon": 11.22,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata conclusiva del mese di iniziative del Quartiere 4 di Firenze contro la violenza maschile sulle donne. Il programma completo è sul profilo del Comune di Firenze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Firenze - Quartiere 4",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Firenze",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfcqwrcjSqX/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
