@@ -115846,7 +115846,7 @@
     "slug": "luigi-zuccheri-museion-bolzano-2026",
     "titolo": "Luigi Zuccheri al Museion",
     "categoria": "mostra",
-    "inizio": "2026-12-04",
+    "inizio": "2026-12-05",
     "luogo": "Museion - Museo d'arte moderna e contemporanea",
     "indirizzo": "Piazza Piero Siena 1, Bolzano",
     "cap": null,
@@ -115855,7 +115855,7 @@
     "lat": 46.4985,
     "lon": 11.3515,
     "coordinateApprossimate": true,
-    "descrizione": "La più ampia mostra istituzionale finora dedicata a Luigi Zuccheri (1904-1974): dipinti e piccole sculture, molti poco o mai esposti, sul rapporto fra esseri umani, animali e natura. Inaugurazione il 4 dicembre 2026.",
+    "descrizione": "La più ampia mostra istituzionale finora dedicata a Luigi Zuccheri (1904-1974): dipinti e piccole sculture, molti poco o mai esposti, sul rapporto fra esseri umani, animali e natura. Inaugurazione il 4 dicembre 2026 alle 19:00; la mostra resta aperta fino al 17 maggio 2027.",
     "prezzo": {
       "tipo": "non-indicato"
     },
@@ -115867,11 +115867,143 @@
       {
         "nome": "Instagram Museion",
         "tipo": "ufficiale",
-        "url": "https://www.instagram.com/p/DfFVh1Ytayw/",
+        "url": "https://www.instagram.com/p/DfaJciPNaKQ/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2027-05-17"
+  },
+  {
+    "slug": "visite-guidate-roccolo-di-costa-perla-galbiate-2026-12-13",
+    "titolo": "Visite guidate al Roccolo di Costa Perla (13 dicembre)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-13T15:00",
+    "luogo": "Roccolo di Costa Perla, Parco Monte Barro",
+    "indirizzo": "Parco Monte Barro, Galbiate",
+    "cap": null,
+    "comune": "097036",
+    "frazione": null,
+    "lat": 45.8,
+    "lon": 9.4,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al Roccolo di Costa Perla e alla sezione staccata del Museo Etnografico dell'Alta Brianza, ogni seconda domenica del mese dall'8 novembre 2026. Posti limitati, iscrizione obbligatoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo Etnografico dell'Alta Brianza",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Museo Etnografico Alta Brianza",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfQI761tWmC/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2026-12-13T16:30"
+  },
+  {
+    "slug": "garbatella-jazz-festival-roma-2026-11-13",
+    "titolo": "Garbatella Jazz Festival, edizione invernale",
+    "categoria": "concerto",
+    "inizio": "2026-11-13",
+    "luogo": "Villetta Social Lab e Teatro Mongiovino",
+    "indirizzo": "Garbatella, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.8611,
+    "lon": 12.4853,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione speciale invernale per i vent'anni della rassegna, con concerti, omaggi, dibattiti e laboratori a ingresso gratuito alla Villetta Social Lab e al Teatro Mongiovino. Promosso da Roma Capitale e realizzato dall'Associazione Cara Garbatella.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Cara Garbatella, con Roma Capitale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfbs84-j85a/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15"
+  },
+  {
+    "slug": "giorni-di-storia-festival-inaugurazione-sesto-fiorentino-2026-11-26",
+    "titolo": "Giorni di Storia Festival 2026: inaugurazione con Antonio Scurati",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:00",
+    "luogo": "Multisala Grotta",
+    "indirizzo": "Sesto Fiorentino",
+    "cap": null,
+    "comune": "048043",
+    "frazione": null,
+    "lat": 43.8326,
+    "lon": 11.2,
+    "coordinateApprossimate": true,
+    "descrizione": "Apre il festival (26 novembre - 12 dicembre a Firenze, Sesto Fiorentino e Calenzano, dedicato a «fine della guerra o guerra infinita?»). Antonio Scurati presenta «Storie di donne e uomini in lotta per la democrazia». Appuntamenti a ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Sesto Fiorentino",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Calenzano Eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfbzeovm9H0/",
         "consultata": "2026-11-09"
       }
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "anime-night-wave-h2officina-russi-2026-11-10",
+    "titolo": "Anime Night: serata WAVE per ragazze e ragazzi",
+    "categoria": "bambini",
+    "inizio": "2026-11-10T19:00",
+    "luogo": "H2Officina - Ex Lavatoio, Biblioteca Comunale",
+    "indirizzo": "Via Godo Vecchia, Russi",
+    "cap": null,
+    "comune": "039016",
+    "frazione": null,
+    "lat": 44.372,
+    "lon": 11.961,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata a tema anime del ciclo «WAVE - We Are the Vibe Experience» per ragazze e ragazzi del territorio: si incontrano altri appassionati e si condividono le opere preferite. Iscrizione tramite il modulo sul sito del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Russi - H2Officina",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Russi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfbz2oaDUl2/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2026-11-10T22:00"
   }
 ]
