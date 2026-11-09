@@ -121590,5 +121590,104 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-09",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alain-urrutia-abiapuntua-collezione-maramotti-reggio-emilia-2026",
+    "titolo": "Alain Urrutia: ABIAPUNTUA alla Collezione Maramotti",
+    "categoria": "mostra",
+    "inizio": "2026-11-08",
+    "luogo": "Collezione Maramotti",
+    "indirizzo": "Via Fratelli Cervi 66, Reggio nell'Emilia",
+    "cap": null,
+    "comune": "035033",
+    "frazione": null,
+    "lat": 44.685,
+    "lon": 10.641,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuova mostra di Alain Urrutia, «ABIAPUNTUA» (punto di partenza). Accesso libero il giovedì e venerdì dalle 14.30 alle 18.30, il sabato e la domenica dalle 10.30 alle 18.30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Collezione Maramotti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Collezione Maramotti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfKwnP2DUkm/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2027-02-14"
+  },
+  {
+    "slug": "incontro-frank-o-hara-centenario-mambo-bologna-2026-11-12",
+    "titolo": "Frank O'Hara a cent'anni dalla nascita: incontro con Allison Grimaldi Donahue",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T18:00",
+    "luogo": "Foyer del MAMbo",
+    "indirizzo": "Via Don Giovanni Minzoni 14, Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.5063,
+    "lon": 11.3454,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per il centenario della nascita del poeta e curatore del MoMA Frank O'Hara, con l'artista e poeta Allison Grimaldi Donahue e poeti italiani e americani che leggono poesie e traduzioni. Ingresso libero, in italiano e in inglese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MAMbo - Museo d'Arte Moderna di Bologna",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram MAMbo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfcIbo5jKQN/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "letture-al-museo-bambini-mambo-bologna-2026-11-14",
+    "titolo": "Letture al Museo: albo illustrato e laboratorio per bambini al MAMbo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T16:00",
+    "luogo": "MAMbo, Sala delle Ciminiere",
+    "indirizzo": "Via Don Giovanni Minzoni 14, Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.5063,
+    "lon": 11.3454,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura di un albo illustrato in dialogo con la mostra «Cuoghi Corsello. Tra le nuvole» e piccola attività di laboratorio per bambine e bambini dai 4 ai 7 anni accompagnati da adulti. Costo 5 euro a persona, con ingresso al museo gratuito per bambino e accompagnatore. Prenotazione obbligatoria entro le 16 di venerdì 13 novembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Dipartimento educativo MAMbo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram MAMbo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfchOERjW3h/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2026-11-14T18:00"
   }
 ]
