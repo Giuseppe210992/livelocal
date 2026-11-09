@@ -116005,5 +116005,71 @@
     "inserito": "2026-11-09",
     "inseritoDa": "ia",
     "fine": "2026-11-10T22:00"
+  },
+  {
+    "slug": "sanremo-international-guitar-festival-sanremo",
+    "titolo": "Sanremo International Guitar Festival",
+    "categoria": "concerto",
+    "inizio": "2026-11-10T17:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Teatro dell’Opera del Casinò",
+    "indirizzo": "Corso degli Inglesi, 18, 18038 Sanremo IM, Italia",
+    "cap": null,
+    "comune": "008055",
+    "frazione": null,
+    "lat": 43.83796,
+    "lon": 7.76725,
+    "coordinateApprossimate": true,
+    "descrizione": "XII edizione del festival internazionale dedicato alla chitarra classica. Il programma prevede concerti di artisti di fama internazionale, un concorso per giovani talenti e masterclass con docenti specializzati. La direzione artistica è affidata al Maestro Diego Campagna. L'evento si svolge in cinque giorni con appuntamenti giornalieri.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Sanremo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanremo.im.it/it/events/42-sanremo-cup-xxxiv-memorial-dado-tessitore",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cimento-invernale-sanremo",
+    "titolo": "Cimento Invernale",
+    "categoria": "sport",
+    "inizio": "2027-01-01T10:00",
+    "fine": "2027-01-01T11:00",
+    "luogo": "Bagni Euronettuno",
+    "indirizzo": "Lungomare Vittorio Emanuele II, 23, 18038 Sanremo IM, Italia",
+    "cap": null,
+    "comune": "008055",
+    "frazione": null,
+    "lat": 43.83796,
+    "lon": 7.76725,
+    "coordinateApprossimate": true,
+    "descrizione": "Raduno sportivo tradizionale che prevede un bagno in mare in occasione della giornata di Capodanno. L'evento si svolge a inizio gennaio e rappresenta una manifestazione aperta alla popolazione, dedicata allo sport in ambiente marino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Sanremo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanremo.im.it/it/events/forum-bandiera-arancione-705887-705980-706281-706311-706312-706314-706325-706340-706443-706446-706457-706476-706480-706493-706514-2514288-2514742-2514743-2514782-2514807-2515033-2515250-2515254-2515258-2515803-2515806-2515807-2515810-2515976",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
   }
 ]
