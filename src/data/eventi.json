@@ -115446,5 +115446,71 @@
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "a-spasso-per-codigoro-san-martino-codigoro-2026-11-11",
+    "titolo": "A spasso per Codigoro – camminata guidata e San Martino a cavallo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-11T15:00",
+    "fine": "2026-11-11T17:00",
+    "luogo": "Piazza Matteotti",
+    "indirizzo": "Codigoro",
+    "cap": null,
+    "comune": "038005",
+    "frazione": null,
+    "lat": 44.8582,
+    "lon": 12.1277,
+    "coordinateApprossimate": true,
+    "descrizione": "Per la festa patronale di San Martino, passeggiata ad anello tra storia, monumenti e angoli meno noti del centro con la guida turistica Simonetta Sovrani, organizzata dal Comune con la Pro Loco. Alle 16 la rappresentazione di San Martino a cavallo che dona il mantello al mendicante. Gratuita con iscrizione obbligatoria presso l'URP del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Codigoro – Pro Loco di Codigoro",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Codigoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfaMgBplACJ/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-zero-t-fuori-norma-casa-delle-donne-firenze-2026",
+    "titolo": "Festival ZERO T «Fuori norma» – Casa delle Donne",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": "2026-12-13",
+    "luogo": "Casa delle Donne di Firenze – Complesso delle Murate",
+    "indirizzo": "Via delle Vecchie Carceri 8, Firenze",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.265,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione del festival: un mese di incontri, mostre, performance, dibattiti e laboratori per mettere in discussione i modelli culturali che limitano la libertà e l'autodeterminazione delle donne. Ingresso libero e gratuito; per i laboratori è obbligatoria la prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa delle Donne di Firenze – Città di Firenze",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Firenze",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfZ_GWjCWaa/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
