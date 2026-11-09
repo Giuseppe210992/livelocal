@@ -116104,5 +116104,699 @@
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "centenario-della-provincia-di-varese-saronno",
+    "titolo": "Centenario della Provincia di Varese",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Villa Gianetti",
+    "indirizzo": "Saronno",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Una conferenza pubblica organizzata per celebrare il centenario della Provincia di Varese, ospitata nelle sale di Villa Gianetti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Saronno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.saronno.va.it/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-gaming-zone-saronno",
+    "titolo": "Inaugurazione Gaming Zone",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-14T16:00",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Saronno",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione ufficiale della nuova sala dedicata al gaming all'interno della biblioteca comunale, aperta a tutti gli interessati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca e Informagiovani",
+    "fonti": [
+      {
+        "nome": "Comune di Saronno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.saronno.va.it/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consiglio-comunale-saronno",
+    "titolo": "Consiglio Comunale",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-11T20:30",
+    "fine": null,
+    "luogo": "Sala Vanelli",
+    "indirizzo": "Saronno",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Seduta straordinaria del Consiglio comunale convocata per la trattazione di argomenti istituzionali, con prosecuzione il giorno successivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Saronno",
+    "fonti": [
+      {
+        "nome": "Comune di Saronno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.saronno.va.it/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "raccolta-alimentare-savignano-sul-rubicone",
+    "titolo": "Raccolta Alimentare",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Centro storico",
+    "indirizzo": "Savignano sul Rubicone",
+    "cap": null,
+    "comune": "040045",
+    "frazione": null,
+    "lat": 44.10159,
+    "lon": 12.39933,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di solidarietà nell'ambito dei quartieri solidali dedicata alla raccolta di generi alimentari a favore di chi ha bisogno, aperta alla cittadinanza nel centro cittadino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Savignano sul Rubicone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.savignano-sul-rubicone.fc.it/servizi/eventi/cerca_fase02.aspx?Campo_2731=14",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "musiche-popolari-dal-mondo-santarcangelo-di-romagna",
+    "titolo": "Musiche popolari dal mondo",
+    "categoria": "concerto",
+    "inizio": "2026-11-09T20:30",
+    "fine": "2026-11-09T21:30",
+    "luogo": "Centro storico",
+    "indirizzo": "piazza Ganganelli 1",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica folk internazionale eseguito dalla Fermento Etnico Folk Band, che propone un viaggio tra sonorità e ritmi di tradizioni globali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/events/musiche-popolari-dal-mondo",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "veglia-di-san-martino-santarcangelo-di-romagna",
+    "titolo": "Veglia di San Martino",
+    "categoria": "concerto",
+    "inizio": "2026-11-10T20:30",
+    "fine": "2026-11-10T21:30",
+    "luogo": "Centro storico",
+    "indirizzo": "piazza Ganganelli 1",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento dedicato alla poesia giocosa romagnola, con letture e performance di Stefano Stargiotti e collaboratori, in collaborazione con la Pro Loco.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco",
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/events/veglia-di-san-martino",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "57-sagra-nazionale-dei-cantastorie-santarcangelo-di-romagna",
+    "titolo": "57ª Sagra nazionale dei cantastorie",
+    "categoria": "concerto",
+    "inizio": "2026-11-11T10:00",
+    "fine": "2026-11-11T15:30",
+    "luogo": "Centro storico",
+    "indirizzo": "piazza Ganganelli 1",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento con artisti di fama nazionale come Federico Berti, Sandra Boninelli e altri, che si esibiscono in due turni mattutini e pomeridiani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "AICA – Associazione Italiana Cantastorie Lorenzo De Antiquis",
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/events/57a-sagra-nazionale-dei-cantastorie",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-d-argento-2026-sedriano",
+    "titolo": "Letture d'Argento 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-11T15:00",
+    "fine": "2026-11-11T16:00",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Rogerio da Sedriano, Sedriano",
+    "cap": null,
+    "comune": "015204",
+    "frazione": null,
+    "lat": 45.48745,
+    "lon": 8.97487,
+    "coordinateApprossimate": true,
+    "descrizione": "Riprendono gli appuntamenti con le letture ad alta voce dedicate alla terza età per favorire il benessere e la socializzazione, condotte da lettori esperti in un ambiente accogliente.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Sedriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sedriano.mi.it/vivere-il-comune/evento/letture-dargento-2026",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-per-crescere-insieme-sedriano",
+    "titolo": "Storie per crescere insieme",
+    "categoria": "bambini",
+    "inizio": "2026-11-12T17:00",
+    "fine": "2026-11-12T18:00",
+    "luogo": "Biblioteca Comunale di Sedriano",
+    "indirizzo": "Via Rogerio da Sedriano, Sedriano",
+    "cap": null,
+    "comune": "015204",
+    "frazione": null,
+    "lat": 45.48745,
+    "lon": 8.97487,
+    "coordinateApprossimate": true,
+    "descrizione": "Un appuntamento speciale dedicato ai piccolissimi da 0 a 12 mesi e alle loro famiglie per condividere il piacere della lettura attraverso racconti, suoni e momenti di relazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nati per Leggere",
+    "fonti": [
+      {
+        "nome": "Comune di Sedriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sedriano.mi.it/vivere-il-comune/evento/storie-per-crescere-insieme-12-11-2026",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-sabato-delle-storie-in-biblioteca-attivita-di-animazione-della-lett-sedriano",
+    "titolo": "IL SABATO DELLE STORIE ... in Biblioteca: attività di animazione della lettura per bambini dai 12 mesi ai 3 anni",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Rogerio da Sedriano, Sedriano",
+    "cap": null,
+    "comune": "015204",
+    "frazione": null,
+    "lat": 45.48745,
+    "lon": 8.97487,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorsi di lettura, narrazione e ascolto rivolti alla prima infanzia, con attività di animazione della lettura condotte da Maria Camilla Paulin e dedicate ai bambini più piccoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Sedriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sedriano.mi.it/vivere-il-comune/evento/il-sabato-delle-storie-in-biblioteca-attivita-di-animazione-della-lettura-per-bambini-dai-12-mesi-ai-3-anni-14-11-2026",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-natale-2026-con-gli-ambulanti-dell-insubria-sedriano",
+    "titolo": "Aspettando Natale 2026 con gli ambulanti dell'Insubria",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Piazza Mercato",
+    "indirizzo": "Via Pessina",
+    "cap": null,
+    "comune": "015204",
+    "frazione": null,
+    "lat": 45.48745,
+    "lon": 8.97487,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata tra le bancarelle del tradizionale mercato itinerante con una vasta proposta di prodotti, idee regalo, articoli per la casa, accessori e specialità gastronomiche in vista del Natale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ambulanti dell'Insubria",
+    "fonti": [
+      {
+        "nome": "Comune di Sedriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sedriano.mi.it/vivere-il-comune/evento/aspettando-natale-2026-con-gli-ambulanti-dell-insubria",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-delle-pulci-sedriano",
+    "titolo": "Mercatino delle pulci",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Piazza Mercato",
+    "indirizzo": "Sedriano",
+    "cap": null,
+    "comune": "015204",
+    "frazione": null,
+    "lat": 45.48745,
+    "lon": 8.97487,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale mercatino delle pulci aperto a residenti e visitatori per la compravendita di oggetti usati, curiosità e piccoli articoli da collezione nel comune di Sedriano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Sedriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sedriano.mi.it/eventi",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-lunedi-dell-arte-a-s-a-v-rosa-chiumeo-le-formule-utopiche-della-conv-seriate",
+    "titolo": "I lunedì dell’arte A.S.A.V. - Rosa Chiumeo - Le formule utopiche della convivenza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-09T21:00",
+    "fine": null,
+    "luogo": "Auditorium della biblioteca civica Giacinto Gambirasio",
+    "indirizzo": "Via Italia 58",
+    "cap": null,
+    "comune": "016198",
+    "frazione": null,
+    "lat": 45.67222,
+    "lon": 9.73267,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna Lunedì d’arte con la relatrice Rosa Chiumeo. Il tema è \"Le forme utopiche della convivenza\". L’evento si svolge nell’ambito dell’attività dell’Associazione Seriatese Arti Visive.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.S.A.V. - Associazione Seriatese Arti Visive",
+    "fonti": [
+      {
+        "nome": "Comune di Seriate",
+        "tipo": "ufficiale",
+        "url": "https://comune.seriate.bg.it/vivere-il-comune/eventi/i-lunedi-dellarte-a-s-a-v-2",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "videoproiezioni-di-viaggio-2026-2027-seregno",
+    "titolo": "Videoproiezioni di viaggio 2026/2027",
+    "categoria": "mostra",
+    "inizio": "2026-11-11T21:30",
+    "fine": "2026-11-11T23:00",
+    "luogo": "Sala Congressi Mons. Luigi Gandini",
+    "indirizzo": "Via XXIV Maggio",
+    "cap": null,
+    "comune": "108039",
+    "frazione": null,
+    "lat": 45.64974,
+    "lon": 9.20454,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione delle meraviglie naturali della Dancalia e dell'Etiopia del nord a cura di Guido Schmit. Un viaggio visivo attraverso i paesaggi e le culture di queste aree dell'Africa orientale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Seregno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seregno.mb.it/it/events/videoproiezioni-di-viaggio-2026-2027-2520244",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sergei-nakariakov-il-paganini-della-tromba-seregno",
+    "titolo": "Sergei Nakariakov – Il Paganini della tromba",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T21:00",
+    "fine": "2026-11-12T23:00",
+    "luogo": "L'Auditorium",
+    "indirizzo": "Piazza Risorgimento",
+    "cap": null,
+    "comune": "108039",
+    "frazione": null,
+    "lat": 45.64974,
+    "lon": 9.20454,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della nona stagione de I Grandi Concerti con il solista Sergei Nakariakov e l'Orchestra Filarmonica Ettore Pozzoli diretta da Luca Ballabio. Il programma include Haydn e Arban.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Filarmonica Ettore Pozzoli",
+    "fonti": [
+      {
+        "nome": "Comune di Seregno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seregno.mb.it/it/events/sergei-nakariakov-il-paganini-della-tromba",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alla-ricerca-del-libro-perduto-escape-room-letteraria-seregno",
+    "titolo": "Alla Ricerca del Libro Perduto - Escape Room Letteraria",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T17:00",
+    "fine": "2026-11-13T18:00",
+    "luogo": "Biblioteca Civica Ettore Pozzoli",
+    "indirizzo": "Piazza Monsignor Gandini, 9",
+    "cap": null,
+    "comune": "108039",
+    "frazione": null,
+    "lat": 45.64974,
+    "lon": 9.20454,
+    "coordinateApprossimate": true,
+    "descrizione": "Experience di escape room letteraria e teatrale per chi ha dai 14 anni. I partecipanti risolvono enigmi tra pagine di libri per liberare la biblioteca da un sortilegio, riscoprendo capolavori e autori come Italo Calvino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Ettore Pozzoli",
+    "fonti": [
+      {
+        "nome": "Comune di Seregno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seregno.mb.it/it/events/alla-ricerca-del-libro-perduto-escape-room-letteraria-teatrale",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uomo-carnefice-o-vittima-seregno",
+    "titolo": "Uomo: carnefice o vittima?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T20:45",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Sala Congressi Mons. Luigi Gandini",
+    "indirizzo": "Via XXIV Maggio",
+    "cap": null,
+    "comune": "108039",
+    "frazione": null,
+    "lat": 45.64974,
+    "lon": 9.20454,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Intervengono esperti di criminologia, diritto e psicologia per analizzare le condotte violente e la prevenzione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lions Club Seregno Aid",
+    "fonti": [
+      {
+        "nome": "Comune di Seregno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seregno.mb.it/it/events/uomo-carnefice-o-vittima",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-adulti-in-formati-intolleranze-e-allergie-alimentari-serravalle-pistoiese",
+    "titolo": "Corso Adulti In-Formati - Intolleranze e allergie alimentari",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Biblioteca Comunale Eden",
+    "indirizzo": "Piazza Vittorio Veneto, 51034 Casalguidi PT, Italia",
+    "cap": null,
+    "comune": "047020",
+    "frazione": null,
+    "lat": 43.88848,
+    "lon": 10.87113,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso gratuito di tre incontri dedicato alle intolleranze e allergie alimentari, con focus su cause, sintomi e classificazione. Destinato a un pubblico interessato ad approfondire il tema con un approccio pratico e informativo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Serravalle Pistoiese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.serravalle-pistoiese.pt.it/it/events/corso-adulti-in-formati-benefici-della-relazione-tra-uomo-e-animale-2519959",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-in-biblioteca-serravalle-pistoiese",
+    "titolo": "Cinema in Biblioteca",
+    "categoria": "mostra",
+    "inizio": "2026-11-06T16:30",
+    "fine": "2026-12-18T19:00",
+    "luogo": "Biblioteca Comunale Eden",
+    "indirizzo": "Piazza Vittorio Veneto, 51034 Casalguidi PT, Italia",
+    "cap": null,
+    "comune": "047020",
+    "frazione": null,
+    "lat": 43.88848,
+    "lon": 10.87113,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di proiezioni cinematografiche rivolte a bambini delle scuole primarie e ragazzi delle scuole secondarie di primo grado. Sei appuntamenti con ingresso gratuito, dedicati a grandi storie e nuovi sguardi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Serravalle Pistoiese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.serravalle-pistoiese.pt.it/it/events/cinema-in-biblioteca",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerti-d-autunno-sestri-levante",
+    "titolo": "Concerti d’Autunno",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T17:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Sala Bo di Palazzo Fascie",
+    "indirizzo": "Sestri Levante",
+    "cap": null,
+    "comune": "010059",
+    "frazione": null,
+    "lat": 44.28673,
+    "lon": 9.42877,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con i vincitori del 39° Concorso Pianistico “J. S. Bach” accompagnato da una guida all’ascolto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Musicale “Ars Antiqua”",
+    "fonti": [
+      {
+        "nome": "Comune di Sestri Levante",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sestri-levante.ge.it/vivere-il-comune/eventi/concerti-dautunno-2",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "saloncino-dell-orientamento-2026-sestri-levante",
+    "titolo": "Saloncino dell'Orientamento 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T14:30",
+    "fine": "2026-11-17T18:00",
+    "luogo": "Sala Agave dell'Ex Convento dell'Annunziata",
+    "indirizzo": "Sestri Levante",
+    "cap": null,
+    "comune": "010059",
+    "frazione": null,
+    "lat": 44.28673,
+    "lon": 9.42877,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento dedicato agli studenti e alle famiglie che si preparano ad affrontare la scelta della scuola secondaria di secondo grado.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Sestri Levante",
+    "fonti": [
+      {
+        "nome": "Comune di Sestri Levante",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sestri-levante.ge.it/vivere-il-comune/eventi/saloncino-dellorientamento-2026",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
   }
 ]
