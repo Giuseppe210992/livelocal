@@ -121457,5 +121457,138 @@
     ],
     "inserito": "2026-11-09",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "spazio-d-autore-con-gianpiero-taverniti-adro",
+    "titolo": "Spazio d'Autore con Gianpiero Taverniti",
+    "categoria": "mostra",
+    "inizio": "2026-12-04T20:45",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Tulio Dandolo, Adro, BS, Italia",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Gianpiero Taverniti, scrittore e fotografo originario di Catanzaro, dedicato alla Calabria autentica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/spazio-dautore-con-gianpiero-taverniti",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "special-olympics-adro",
+    "titolo": "Special Olympics",
+    "categoria": "sport",
+    "inizio": "2026-11-15T09:30",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Palazzetto dello Sport",
+    "indirizzo": "Via Indipendenza, 6, Adro, BS, Italia",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Torneo quadrangolare di pallavolo a cura di Special Olympics e Team Volley Cazzago.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Special Olympics",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/special-olympics",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "non-c-e-pace-senza-giustizia-sociale-adro",
+    "titolo": "Non c'è pace senza giustizia sociale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-13T19:30",
+    "fine": null,
+    "luogo": "Oratorio don. F. Redolfi",
+    "indirizzo": "Piazza Padre Costantino, Adro, BS, Italia",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena solidale con Fornello Resistente Brescia Franciacorta, a sostegno dei volontari che aiutano migranti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/non-ce-pace-senza-giustizia-sociale",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pro-loco-da-dove-si-comincia-adro",
+    "titolo": "Pro Loco: da dove si comincia?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T20:30",
+    "fine": null,
+    "luogo": "Palazzo Bargnani-Dandolo",
+    "indirizzo": "Via Tullio Dandolo, Adro, BS, Italia",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico per conoscere la realtà della Pro Loco e come può svilupparsi a Adro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "EPLI - Ente Pro Loco Italiane Lombardia",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/pro-loco-da-dove-si-comincia",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-09",
+    "inseritoDa": "consegna"
   }
 ]
