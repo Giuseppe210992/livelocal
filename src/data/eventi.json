@@ -119278,5 +119278,167 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-09",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-immersiva-violenza-donne-castello-caetani-fondi-2026-11-20",
+    "titolo": "Mostra immersiva contro la violenza sulle donne al Castello Caetani",
+    "categoria": "mostra",
+    "inizio": "2026-11-20",
+    "luogo": "Castello Caetani, sala conferenze",
+    "indirizzo": "Piazza Matteotti, Fondi",
+    "cap": null,
+    "comune": "059007",
+    "frazione": null,
+    "lat": 41.3563,
+    "lon": 13.4258,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra immersiva che esplora in modo simbolico l'animo umano e si chiude con una canzone di forza e consapevolezza, promossa dal Comune in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Fondi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Fondi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfbcX6yCjwY/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia",
+    "fine": "2026-11-25"
+  },
+  {
+    "slug": "pillole-di-ben-essere-bambino-cinque-elementi-alme-2026-11-12",
+    "titolo": "Pillole di Ben-Essere: il bambino, i 5 elementi e la sua dieta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:30",
+    "luogo": "Teatro San Fermo",
+    "indirizzo": "Almè",
+    "cap": null,
+    "comune": "016005",
+    "frazione": null,
+    "lat": 45.7312,
+    "lon": 9.604,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il pediatra Davide Angelucci, esperto di Medicina Tradizionale Cinese, sul rapporto fra i cinque elementi e l'alimentazione dei bambini, nella rassegna 2026-2027 dell'Associazione A Piedi Nudi APS. Contributo 10 euro, prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione A Piedi Nudi APS",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Almè",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfb-_RKmwF2/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giravolta-fra-le-storie-biblioteca-alme-2026-11-19",
+    "titolo": "Giravolta fra le storie: letture alla Biblioteca di Almè",
+    "categoria": "bambini",
+    "inizio": "2026-11-19T16:30",
+    "luogo": "Biblioteca comunale Primo Levi",
+    "indirizzo": "Almè",
+    "cap": null,
+    "comune": "016005",
+    "frazione": null,
+    "lat": 45.7312,
+    "lon": 9.604,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di storie e letture insieme per i più piccoli. L'appuntamento, previsto il 12 novembre, è stato spostato a giovedì 19 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Almè",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Almè",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfb_0Zmm4-V/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teresa-zum-zum-civitafestival-winter-civita-castellana-2026-11-16",
+    "titolo": "Teresa Zum Zum al CivitaFestival Winter",
+    "categoria": "teatro",
+    "inizio": "2026-11-16T21:00",
+    "luogo": "Sala Caprari, Complesso MICE",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.2933,
+    "lon": 12.4128,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Belsito Teatro, con regia e interpretazione di Franca Abategiovanni: una donna, le sue paure e il coraggio di affrontarle, fra comicità e riflessione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Civitafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfZjnPGnUQw/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-domani-che-verra-maria-emanuela-bruni-maxxi-civita-castellana-2026-11-19",
+    "titolo": "Il domani che verrà: l'arte nel futuro dei territori con Maria Emanuela Bruni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:00",
+    "luogo": "Sala conferenze, Forte Sangallo",
+    "indirizzo": "Civita Castellana",
+    "cap": null,
+    "comune": "056021",
+    "frazione": null,
+    "lat": 42.2933,
+    "lon": 12.4128,
+    "coordinateApprossimate": true,
+    "descrizione": "Dialogo con Maria Emanuela Bruni, presidente della Fondazione MAXXI, insieme a Monica Paternesi (ANSA) e Fabio Galadini, direttore artistico di CivitaFestival Winter, nel ciclo di libri e dialoghi sul futuro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Civitafestival",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Civitafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfcPKNSnBrN/",
+        "consultata": "2026-11-09"
+      }
+    ],
+    "inserito": "2026-11-09",
+    "inseritoDa": "ia"
   }
 ]
