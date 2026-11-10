@@ -127332,5 +127332,467 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-10",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "film-digger-tradate",
+    "titolo": "Film DIGGER",
+    "categoria": "mostra",
+    "inizio": "2026-11-10T17:00",
+    "fine": "2026-11-10T21:00",
+    "luogo": "Cinema Paolo Grassi",
+    "indirizzo": "Via Giacomo Bianchi 1",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Film diretto da Alejandro G. Iñárritu con Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller e Michael Stuhlbarg. Genere drammatico e commedia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/digger",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "film-digger-tradate-11-11",
+    "titolo": "Film DIGGER",
+    "categoria": "mostra",
+    "inizio": "2026-11-11T21:00",
+    "fine": null,
+    "luogo": "Cinema Paolo Grassi",
+    "indirizzo": "Via Giacomo Bianchi 1",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Cinema Paolo Grassi, Tradate, 11/11. Film diretto da Alejandro G. Iñárritu con Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller e Michael Stuhlbarg. Genere drammatico e commedia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/digger",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "riflessioni-pedagogiche-sul-valore-dell-attesa-tradate",
+    "titolo": "Riflessioni pedagogiche sul valore dell'attesa",
+    "categoria": "bambini",
+    "inizio": "2026-11-12T20:30",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del Calendario dell'Avvento. Crea la tua storia di Natale una pagina al giorno - progetto di Valentina Pasta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/calendario-avvento",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-vita-all-istante-incontro-con-l-autrice-alina-rizzi-tradate",
+    "titolo": "Una vita all'istante. Incontro con l'autrice Alina Rizzi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T20:30",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice Alina Rizzi per la presentazione del libro 'Una vita all'istante'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/alina-rizzi",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-grafologia-e-psicopatologie-narcisismo-ossessi-tradate",
+    "titolo": "Presentazione del libro \"Grafologia e Psicopatologie. Narcisismo, ossessione e violenza tra le righe\" di Candida Livatino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:45",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice Candida Livatino per la presentazione del libro 'Grafologia e Psicopatologie'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/grafologia",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "climate-days-il-clima-cambia-guardiamolo-da-vicino-treviolo",
+    "titolo": "Climate Days: il clima cambia, guardiamolo da vicino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T09:00",
+    "fine": "2026-11-14T13:00",
+    "luogo": "Municipio",
+    "indirizzo": "Via Roma, 43, 24048 Treviolo BG, Italia",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Forum tecnico e dibattito sulla transizione climatica, con approfondimenti sulla strategia locale e interventi di esperti. Incontro aperto alla cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/performance-bibliotecari-per-un-giorno-699466-699801-701792-702360-702366-704390-732324-732355",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-verso-est-treviolo",
+    "titolo": "Gruppo di lettura Verso Est",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Biblioteca di Treviolo",
+    "indirizzo": "Viale Papa Giovanni XXIII, 34, 24048 Treviolo BG, Italia",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Aperi-lettura dedicata ai racconti di Lev Tolstoj, incentrata sulle culture orientali. Evento aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/icone-russe-fra-teoria-cultura-e-lettura-704481",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "io-resto-custodire-la-voce-delle-donne-treviolo",
+    "titolo": "Io resto. Custodire la voce delle donne",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T23:59",
+    "luogo": "Teatro Albegno",
+    "indirizzo": "Via Guglielmo Marconi, 15, 24048 Treviolo BG, Italia",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che affronta il tema della violenza sulle donne, con l'obiettivo di prevenirla e contrastare il silenzio. Regia di Emanuela Palazzi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/performance-bibliotecari-per-un-giorno-699466-699801-701792-702360-702366-704390-729665-731523",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-treviolo",
+    "titolo": "Gruppo di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:45",
+    "fine": "2026-11-24T22:30",
+    "luogo": "Biblioteca di Treviolo",
+    "indirizzo": "Viale Papa Giovanni XXIII, 34, 24048 Treviolo BG, Italia",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di lettura e discussione dedicato al romanzo 'Non si fruga nella polvere' di William Faulkner. Rivolto ad adulti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/performance-bibliotecari-per-un-giorno-699466-699801-701792-702360-702366-704390",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "climate-days-il-clima-cambia-guardiamolo-da-vicino-treviolo-28-11",
+    "titolo": "Climate Days: il clima cambia, guardiamolo da vicino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T20:30",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Auditorium di Mozzo",
+    "indirizzo": "Via Alfredo Piatti, 5, Mozzo (BG)",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Dibattito pubblico sulla sostenibilità delle fonti energetiche green in Italia, con focus sulle transazioni energetiche e il loro impatto ambientale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/performance-bibliotecari-per-un-giorno-699466-699801-701792-702360-702366-704390-732324-732364",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "commissione-biblioteca-e-cultura-treviolo",
+    "titolo": "Commissione biblioteca e cultura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-05T12:00",
+    "luogo": "Biblioteca di Treviolo",
+    "indirizzo": "Viale Papa Giovanni XXIII, 34, 24048 Treviolo BG, Italia",
+    "cap": null,
+    "comune": "016220",
+    "frazione": null,
+    "lat": 45.67095,
+    "lon": 9.60703,
+    "coordinateApprossimate": true,
+    "descrizione": "Riunione per presentare il programma del concerto di Capodanno e discutere iniziative culturali in biblioteca. Partecipazione aperta a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Treviolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.treviolo.bg.it/it/eventi/commissione-biblioteca-e-cultura",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-l-autore-paolo-camagni-trezzo-sull-adda",
+    "titolo": "Incontro con l'autore Paolo Camagni",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T20:45",
+    "fine": null,
+    "luogo": "Sala degli Specchi",
+    "indirizzo": "Via Dante Alighieri, 12, Trezzo sull'Adda, MI, Italia",
+    "cap": null,
+    "comune": "015221",
+    "frazione": null,
+    "lat": 45.60899,
+    "lon": 9.50551,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Una vita in servizio: oltre la divisa, al fianco delle persone di Paolo Camagni, un racconto di 27 anni nella Polizia Locale tra esperienze, incontri, interventi e insegnamenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca A. Manzoni",
+    "fonti": [
+      {
+        "nome": "Comune di Trezzo sull'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.trezzosulladda.mi.it/vivere-il-comune/eventi/incontro-con-lautore-paolo-camagni-4-dicembre-ore-2045",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proteggi-la-tua-salute-un-incontro-gratuito-sul-radon-a-trezzo-sull-ad-trezzo-sull-adda",
+    "titolo": "Proteggi la tua salute: un incontro gratuito sul Radon a Trezzo sull’Adda",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:00",
+    "fine": null,
+    "luogo": "Sala degli specchi della Villa Comunale",
+    "indirizzo": "Via Dante Alighieri, Trezzo sull'Adda, MI, Italia",
+    "cap": null,
+    "comune": "015221",
+    "frazione": null,
+    "lat": 45.60899,
+    "lon": 9.50551,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo per approfondire i rischi legati al Radon, gas radioattivo naturale e seconda causa di tumore polmonare, con la distribuzione gratuita di un misuratore per abitazioni al piano terra.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ARPA Lombardia, Città di Trezzo Sull'Adda e ATS Milano",
+    "fonti": [
+      {
+        "nome": "Comune di Trezzo sull'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.trezzosulladda.mi.it/vivere-il-comune/eventi/proteggi-la-tua-salute-un-incontro-gratuito-sul-radon-trezzo-sulladda",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "breve-storia-del-clima-in-italia-con-luca-mercalli-trezzo-sull-adda",
+    "titolo": "Breve storia del clima in Italia con Luca Mercalli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T15:00",
+    "fine": null,
+    "luogo": "Auditorium Giuseppe Verdi delle Scuole Medie",
+    "indirizzo": "Via Eugenio Curiel, Trezzo sull'Adda, MI, Italia",
+    "cap": null,
+    "comune": "015221",
+    "frazione": null,
+    "lat": 45.60899,
+    "lon": 9.50551,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna Intorno - Orizzonti per conoscere il mondo in cui viviamo in compagnia del climatologo Luca Mercalli, per esplorare la storia climatica italiana dall'ultima glaciazione al XXI secolo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "cubi (Culture Biblioteche in Rete) e Biblioteca Comunale A. Manzoni",
+    "fonti": [
+      {
+        "nome": "Comune di Trezzo sull'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.trezzosulladda.mi.it/vivere-il-comune/eventi/breve-storia-del-clima-italia-con-luca-mercalli",
+        "consultata": "2026-11-10"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-10",
+    "inseritoDa": "consegna"
   }
 ]
