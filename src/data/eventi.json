@@ -134924,5 +134924,2028 @@
     ],
     "inserito": "2026-11-11",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "pmce-huellas-2-il-cammino-della-nuova-musica-dalla-spagna-roma",
+    "titolo": "PMCE – \"HUELLAS 2. Il cammino della nuova musica dalla Spagna\"",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T20:00",
+    "fine": null,
+    "luogo": "Teatro Studio Borgna",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Parco della Musica Contemporanea Ensemble dedicato alla nuova musica spagnola. Esecuzione di opere di cinque compositori spagnoli presenti in sala, inclusi Mikel Urquiza e Helga Arias.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "PMCE Parco della Musica Contemporanea Ensemble",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/pmce-huellas-2-il-cammino-della-nuova-musica-dalla-spagna",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchio-albignasego-15-11",
+    "titolo": "Pinocchio",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T16:30",
+    "fine": "2026-11-15T17:30",
+    "luogo": "Tecnogas Auditorium Albignasego",
+    "indirizzo": "Albignasego",
+    "cap": null,
+    "comune": "028003",
+    "frazione": null,
+    "lat": 45.34661,
+    "lon": 11.86808,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per famiglie del Colibrì Festival 2026. Adatto ai bambini dai 5 anni. Protagonisti Nicolò Batocchio, Pippo Gentile, Angela Graziani e Viola Gentile. Regia di Pippo Gentile.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "ULLALLÀ TEATRO",
+    "fonti": [
+      {
+        "nome": "Tecnogas Auditorium Albignasego",
+        "tipo": "organizzatore",
+        "url": "https://www.auditoriumalbignasego.it/evento/pinocchio",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-italiana-in-algeri-como",
+    "titolo": "L'Italiana in Algeri",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T20:00",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "L'Italiana in Algeri è la terza opera della Stagione al Teatro Sociale di Como. L'opera di Gioachino Rossini, composta nel 1813, è un capolavoro del genere buffo celebre per la sua brillantezza musicale e l'energia teatrale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-4-stagioni-di-villa-erba-2026-sentieri-di-foglie-cernobbio",
+    "titolo": "LE 4 STAGIONI DI VILLA ERBA 2026 – Sentieri di foglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T10:00",
+    "fine": "2026-11-15T22:30",
+    "luogo": "Villa Erba",
+    "indirizzo": "Largo Luchino Visconti, 4",
+    "cap": null,
+    "comune": "013065",
+    "frazione": null,
+    "lat": 45.85541,
+    "lon": 9.07042,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto appuntamento del format 'Le Quattro Stagioni di Villa Erba', dedicato all'autunno. Il progetto culturale e artistico si svolge in collaborazione con il Teatro Sociale di Como AsLiCo, con contributo del Comune di Cernobbio e patrocinio di Provincia e Camera di Commercio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Villa Erba",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-italiana-in-algeri-como-15-11",
+    "titolo": "L'Italiana in Algeri",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T15:30",
+    "fine": "2026-11-15T18:30",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Ripresa della rappresentazione de L'Italiana in Algeri, opera di Gioachino Rossini composta nel 1813. L'evento segna l'affermazione del compositore nel genere buffo, distinguendosi per il virtuosismo vocale e l'irresistibile energia teatrale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vinicio-capossela-in-e-morte-non-avra-dominio-como",
+    "titolo": "VINICIO CAPOSSELA in E Morte non avrà dominio",
+    "categoria": "concerto",
+    "inizio": "2026-11-18T20:30",
+    "fine": "2026-11-18T22:30",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento in musica con Vinicio Capossela, protagonista di 'E Morte non avrà dominio'. Si tratta di una Ballad Opera liberamente tratta dalla vita di Renato Striglia e dall'opera di Dylan Thomas, con quindici canzoni inedite del cantautore.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 32
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "simone-bilardo-silvia-tettamanti-in-adesso-posiflow-como",
+    "titolo": "Simone Bilardo-Silvia Tettamanti in ADESSO · POSIFLOW",
+    "categoria": "teatro",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T22:00",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata teatrale con Simone Bilardo e Silvia Tettamanti, autrice del libro 'Vivo più che mai'. I due portano in scena la loro storia personale fatta di cadute, paure e risate, in un format descritto come 'senza filtri'.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-segreto-con-venerus-como",
+    "titolo": "TEATRO SEGRETO con VENERUS",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:30",
+    "fine": "2026-11-21T02:00",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Sociale e E507 Studio presentano TEATRO SEGRETO, un nuovo Theatrical dedicato a musica e stanze segrete da visitare. La serata include un dj set a cura di VENERUS.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 22
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fairplay-day-sport-in-teatro-ii-ed-como",
+    "titolo": "FAIRPLAY DAY Sport in Teatro. II ed.",
+    "categoria": "sport",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T19:30",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata sportiva organizzata dal CONI Como all'interno del Teatro Sociale. Gli spazi, svuotati delle poltrone, ospiteranno atleti, squadre e associazioni per attività dedicate a bambini e ragazzi, con la platea trasformata in campo da calcio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CONI Como",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "volta-day-como",
+    "titolo": "VOLTA DAY",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T19:30",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata alla scienza in collaborazione con diverse realtà del territorio. Il Teatro si trasformerà in una 'cittadella della scienza' con laboratori per bambini, giochi, escape room, incontri di approfondimento e proiezioni sul metodo di Alessandro Volta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-finale-premio-aeonis-como-international-composition-award-202-como",
+    "titolo": "Concerto Finale Premio Aeonis – Como International Composition Award 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T11:00",
+    "fine": "2026-11-22T12:00",
+    "luogo": "Sala Bianca del Teatro Sociale",
+    "indirizzo": "Via Bellini 1",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna 'Camera con musica' a cura del Conservatorio di Como. Vengono presentate formazioni cameristiche scelte tra quelle espressive della didattica istituzionale nell'ambito della finale del premio per la composizione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio di Como",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookcity-milano-2026-al-teatro-sociale-como",
+    "titolo": "BookCity Milano 2026 al Teatro Sociale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T14:30",
+    "fine": "2026-11-22T15:30",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro inaugurale della terza edizione comasca di BookCity Milano, organizzata con Parolario e Fondazione Volta. L'appuntamento del 22 novembre vede la partecipazione di Giulio Casati come ospite principale della serata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Como AsLiCo",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cena-solidale-d-autunno-dal-campo-alla-tavola-melzo",
+    "titolo": "Cena solidale d'autunno - Dal campo alla tavola",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T19:30",
+    "fine": null,
+    "luogo": "salone Banfi oratorio Sant'Alessandro",
+    "indirizzo": "Oratorio Sant'Alessandro, Melzo",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena con menù completo di prodotti di stagione a chilometro zero e bevande incluse. Evento solidale organizzato per sostenere le attività locali. Si tiene al salone Banfi dell'oratorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-nati-per-leggere-alla-biblioteca-ungaretti-capannori",
+    "titolo": "Letture 'Nati Per Leggere' alla biblioteca 'Ungaretti'",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": null,
+    "luogo": "Biblioteca 'G. Ungaretti'",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture per bambini 0-36 mesi e 4-6 anni e famiglie, tenute dalle lettrici dell'associazione Nati per Leggere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nati per Leggere",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-albero-del-tuo-nome-capannori",
+    "titolo": "L'albero del tuo nome",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:45",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Centro per le famiglie Piccola Artemisia",
+    "indirizzo": "Via Guido Rossa",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa conclusiva del percorso 'E io ti cullerò', con consegna attestati, piantumazione di alberi e attività per bambini da 0 a 6 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Paideia",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/lalbero-del-tuo-nome-2",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "romanicap-concerto-acustico-folkoine-capannori",
+    "titolo": "RomaniCAP: Concerto acustico 'Folkoinè'",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Chiesa romanica di San Quirico in Casale a Guamo",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto acustico di Maria Elena Lippi e Andrea Del Testa con strumenti come chitarra, mandolino e prispolo, nell'ambito del progetto RomaniCAP.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione 'Carlo Piaggia'",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/romanicap-concerto-acustico-folkoine",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-nati-per-leggere-alla-biblioteca-il-melograno-capannori",
+    "titolo": "Letture 'Nati Per Leggere' alla biblioteca 'Il Melograno'",
+    "categoria": "bambini",
+    "inizio": "2026-11-16T16:30",
+    "fine": null,
+    "luogo": "Biblioteca 'Il Melograno' di San Leonardo in Treponzio",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture rivolte a bambini da 0 a 6 anni e alle loro famiglie, condotte dalle lettrici dell'associazione Nati per Leggere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nati per Leggere",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-film-una-donna-fantastica-capannori",
+    "titolo": "Proiezione film 'Una donna fantastica'",
+    "categoria": "mostra",
+    "inizio": "2026-11-18T21:00",
+    "fine": "2026-11-18T23:00",
+    "luogo": "Cinema teatro Artè",
+    "indirizzo": "Via Carlo Piaggia, 74A",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film cileno-spagnolo 'Una donna fantastica' di Sebastian Lelio, dedicato ai temi del contrasto alle discriminazioni di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "LuccAut",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/proiezione-film-una-donna-fantastica",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-anello-dello-scodellino-carmignano",
+    "titolo": "Inaugurazione Anello dello Scodellino",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-15T09:30",
+    "fine": "2026-11-15T16:00",
+    "luogo": "Ex scuola d'infanzia di Bacchereto",
+    "indirizzo": "Via Fontemorana 142",
+    "cap": null,
+    "comune": "100002",
+    "frazione": null,
+    "lat": 43.79973,
+    "lon": 11.01859,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione dell'itinerario escursionistico Anello dello Scodellino, un percorso di 9,4 km tra Carmignano e Quarrata. Include un'escursione guidata a cura di naturalisti e giornalisti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/inaugurazione-anello-dello-scodellino-2026",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "symphonic-musicals-tra-danza-e-livorno-12-12",
+    "titolo": "SYMPHONIC MUSICALS – Tra Danza e...",
+    "categoria": "concerto",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda data del ciclo Symphonic Musicals. Concerto sinfonico che unisce la musica d'orchestra a elementi coreografici e temi popolari del musical contemporaneo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-angelo-del-focolare-livorno",
+    "titolo": "L’ANGELO DEL FOCOLARE",
+    "categoria": "teatro",
+    "inizio": "2026-12-22",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Via C. Goldoni, 83",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di prosa comica tratto dall'opera di Eduardo De Filippo. La rappresentazione propone la classica commedia napoletana dedicata alle festività natalizie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro della Città di Livorno “Carlo Goldoni”",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lubes-libera-universita-dei-santi-benedetto-e-scolastica-asola",
+    "titolo": "LUBES - Libera Università dei Santi Benedetto e Scolastica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T15:00",
+    "fine": "2026-11-11T17:00",
+    "luogo": "Cinema Teatro S. Carlo",
+    "indirizzo": "Via Libertà, 1",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della Libera Università dei Santi Benedetto e Scolastica con docenti e esperti. Lezione serale dedicata a temi culturali e scientifici, aperta a tutti i cittadini interessati all'aggiornamento. Iscrizione singola lezione disponibile.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "LUBES - Libera Università dei Santi Benedetto e Scolastica",
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/lubes-libera-universita-dei-santi-benedetto-e-scolastica",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-prevenzione-truffe-contro-gli-anziani-asola",
+    "titolo": "Incontro prevenzione truffe contro gli anziani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T15:30",
+    "fine": "2026-11-27T16:30",
+    "luogo": "Centro anziani \"Per stare insieme\"",
+    "indirizzo": "Via Mantova 48",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo organizzato dai Carabinieri della Stazione di Asola per sensibilizzare sulla prevenzione delle truffe ai danni degli anziani. Vengono illustrate le modalità di truffa e i comportamenti di tutela. Partecipazione gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comando dei Carabinieri della Stazione di Asola",
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/incontro-prevenzione-truffe-contro-gli-anziani",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-asola-18-11",
+    "titolo": "Gruppo di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T21:00",
+    "fine": "2026-11-18T22:00",
+    "luogo": "Biblioteca comunale \"A. Torresano\"",
+    "indirizzo": "Via Ziacchi, 4",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura serale per adulti. Discussione del libro \"Fumana\" di Paolo Malaguti. Appuntamento mensile per condividere impressioni e confrontarsi su tematiche culturali e letterarie. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale \"Andrea Torresano\"",
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/gruppo-di-lettura-2",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buongiorno-ministro-con-enzo-iacchetti-e-carlotta-proietti-badia-polesine",
+    "titolo": "Buongiorno Ministro - con Enzo Iacchetti e Carlotta Proietti",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia brillante interpretata da Enzo Iacchetti, Carlotta Proietti, Ermenegildo Marciante, Gigi Palla ed Elisabetta Mandalari, con la regia di Ferdinando Ceriani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-volo-delle-anat-calenzano",
+    "titolo": "Il Volo delle Anatرة",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:15",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Teatro Manzoni",
+    "indirizzo": "Via Pietro Mascagni, 18",
+    "cap": null,
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Matteo Dall'Olmo, interpretato con Giulia Borsini e Roberto Salemi. La trama segue il personaggio di Aldemaro, che in una stanza ingombra rincorre i ricordi per dare senso alla propria esistenza, affrontando la lotta contro il tempo che confonde la memoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Macchina del Suono",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/eventi/t-immagini-stagione-teatrale-2026-2027-727193",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "libri-a-volonta-il-mercatino-dei-libri-usabili-cassano-d-adda",
+    "titolo": "Libri a volontà: il mercatino dei libri usabili",
+    "categoria": "mercatino",
+    "inizio": "2026-11-13T14:30",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via D. Alighieri, 4, 20062 Cassano d'Adda MI, Italia",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di libri usati in biblioteca con formula all you can read: acquistando una borsa di tela (15 euro), si possono riempire di libri. I libri sono anche in vendita a partire da 2 euro. Evento in collaborazione con l'Associazione Passato Prossimo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Passato Prossimo",
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/libri-a-volonta-il-mercatino-dei-libri-usabili",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cio-che-non-si-vede-cassano-d-adda",
+    "titolo": "Ciò che non si vede",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T21:00",
+    "fine": "2026-11-22T23:00",
+    "luogo": "TeCa - Teatro Cassanese",
+    "indirizzo": "V. Europa, 20062 Cassano d'Adda MI, Italia",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che invita a riflettere sui lati nascosti della violenza e su ciò che è celato ma presente nella vita. L'evento si svolge presso il Teatro Cassanese con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/cio-che-non-si-vede",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "25-anniversario-della-fondazione-ancora-ets-erba",
+    "titolo": "25° Anniversario della Fondazione \"Ancora ETS\"",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-12T21:00",
+    "fine": "2026-11-12T23:59",
+    "luogo": "Cineteatro Excelsior",
+    "indirizzo": "Via Diaz, 5",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione del venticinquesimo anniversario della fondazione, con proiezioni commentate da Gherardo Colombo e Maurizio Ferretto e presentazione del libro \"Todo Pasa\" di Michele Filanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Ancora ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/25-anniversario-della-fondazione-ancora-ets",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimana-nazionale-nati-per-leggere-erba",
+    "titolo": "Settimana Nazionale \"NATI PER LEGGERE\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T12:30",
+    "luogo": "Piazza Vittorio Veneto (Piazza Mercato)",
+    "indirizzo": "Piazza Vittorio Veneto",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Momento di lettura condivisa per famiglie con bambini da 0 a 6 anni, nell'ambito della settimana delle biblioteche del sistema BRIANZABIBLIOTECHE e dell'iniziativa \"NPL - Noi Portiamo Libri\".",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sistema BRIANZABIBLIOTECHE",
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/settimana-nazionale-nati-per-leggere-733653",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornalismo-e-letteratura-una-voce-internazionale-leila-guerriero-aosta",
+    "titolo": "Giornalismo e Letteratura, Una Voce Internazionale: Leila Guerriero",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T18:00",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice Leila Guerriero, vincitrice del Premio Strega Europeo 2026 con \"La chiamata\". L'autrice è in dialogo con Serena Ferrara, operatrice culturale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page4",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nero-e-altri-colori-di-enrico-liverani-pesaro",
+    "titolo": "Nero e altri colori di Enrico Liverani",
+    "categoria": "mostra",
+    "inizio": "2026-10-13",
+    "fine": "2026-11-27",
+    "luogo": "Biblioteca San Giovanni",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di illustrazioni e dipinti di Enrico Liverani ospitata nella Biblioteca San Giovanni. L'esposizione raccoglie le opere dell'artista in un percorso espositivo aperto al pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "leaders-nati-per-esserlo-pesaro",
+    "titolo": "Leaders - Nati per esserlo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T07:00",
+    "fine": "2026-11-15T07:00",
+    "luogo": "Auditorium Scavolini",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso su strategie di Health Coaching per ottenere risultati eccellenti. L'iniziativa si tiene presso l'Auditorium Scavolini e mira a formare i partecipanti sul tema del leadership.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi/prossimi-eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "timbri-bestiali-e-animali-immaginari-pesaro",
+    "titolo": "Timbri Bestiali e animali immaginari",
+    "categoria": "bambini",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-14",
+    "luogo": "Parco San Bartolo",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratori didattici del Parco San Bartolo dedicati ai più piccoli. L'attività si concentra su temi ambientali e naturalistici con focus sugli animali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/ambiente/eventi-ambiente",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepe-in-grotta-sotto-le-antiche-mura-bertinoro",
+    "titolo": "Presepe in grotta sotto le antiche mura",
+    "categoria": "mostra",
+    "inizio": "2026-12-06",
+    "fine": "2027-01-06",
+    "luogo": "Neviera del seminario",
+    "indirizzo": "Sentiero Monte dei preti, ingresso da Via del Soccorso",
+    "cap": null,
+    "comune": "040003",
+    "frazione": null,
+    "lat": 44.15685,
+    "lon": 12.14525,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione di un presepe all'interno della neviera del seminario, accessibile tramite il sentiero Monte dei preti, con inaugurazione la prima domenica di dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Bertinoro",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbertinoro.it/it/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "indovina-cos-e-caravaggio",
+    "titolo": "Indovina cos'è",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T17:30",
+    "luogo": "Centro Civico di San Bernardino",
+    "indirizzo": "Viale Giovanni XXIII, 17, 24043 Caravaggio BG, Italia",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura camishibai per bambini da 6 a 8 anni, organizzato dalla biblioteca Banfi con Abibook. L'attività si svolge nella saletta Fermo Stella del Centro Civico San Bernardino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Banfi di Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/indovina-cos-e",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "universita-del-tempo-libero-12a-edizione-botanica-3-bernareggio",
+    "titolo": "Università del Tempo Libero 12a edizione BOTANICA 3",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T14:30",
+    "fine": "2026-11-11T16:15",
+    "luogo": "Auditorium Europa",
+    "indirizzo": "Via Morselli, 1",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza e ultima lezione del ciclo di Botanica dell'Università del Tempo Libero, tenuta da Elisabetta Caporali. Tema: strategie riproduttive delle angiosperme.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bernareggio",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/cultura-universita-del-tempo-libero-12a-edizione-botanica-1-723993-723994",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tempo-d-autore-bernareggio",
+    "titolo": "Tempo d'autore",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T20:45",
+    "fine": "2026-11-13T22:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Caos Nero. Il Black Metal in Brianza' di Massimo Grimaldi, nell'ambito della rassegna 'Tempo d'Autore'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-tempo-d-autore-venerdi-13-novembre",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-al-volo-bernareggio",
+    "titolo": "Letture al Volo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T11:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini e bambine dai 3 anni: i volontari leggono un libro scelto da chi partecipa. Organizzata dalla Biblioteca Civica e dal gruppo di lettura Mille e una Storia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica, Mille e una Storia",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-letture-al-volo-in-biblioteca-731216-731217",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-di-disegno-manga-colorazione-e-ombreggiature-bernareggio",
+    "titolo": "Corso di Disegno Manga: Colorazione e ombreggiature",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo incontro del corso di disegno manga per ragazzi dai 10 anni, curato da Ilaria Stucchi. Focus su colorazione e ombreggiature. Posti limitati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-corso-di-disegno-manga-1-728660",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-al-volo-bernareggio-21-11",
+    "titolo": "Letture al Volo",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per letture pubbliche dedicate ai più piccoli: i volontari della Biblioteca Civica leggono libri scelti dai bambini e bambine dai 3 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica, Mille e una Storia",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-letture-al-volo-in-biblioteca-731216-731217-731218",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "io-sono-qui-lamonacadimonza-bernareggio",
+    "titolo": "Io sono qui. Lamonacadimonza",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:30",
+    "fine": "2026-11-22T18:30",
+    "luogo": "Auditorium Europa",
+    "indirizzo": "Via Morselli, 1",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per la Giornata internazionale contro la violenza sulle donne. Monologo sulla figura di Gertrude, la Monaca di Monza, scritto da Gian Luca Favetto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bernareggio",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/cultura-spettacolo-io-sono-qui-lamonacadimonza",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-odore-assordante-del-bianco-bernareggio",
+    "titolo": "L'odore assordante del bianco",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Oratorio San Mauro",
+    "indirizzo": "Via Obizzone da Bernareggio, 24",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale del Gruppo Teatro Bagai dal ciclo 'Non Solo Bianco'. Racconta la reclusione di Van Gogh nel manicomio di Saint-Paul. Regia di Marco Bianco e Simona Lazzari.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Teatro Bagai",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/spettacolo-l-odore-assordante-del-bianco",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-di-disegno-manga-crea-il-tuo-eroe-manga-bernareggio",
+    "titolo": "Corso di Disegno Manga: Crea il tuo eroe manga",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-05T11:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto e ultimo incontro del corso di disegno manga per ragazzi dai 10 anni. I partecipanti creano il proprio eroe manga. A cura di Ilaria Stucchi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-corso-di-disegno-manga-1-728661",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-intrecci-di-cura-cologno-al-serio",
+    "titolo": "Spettacolo teatrale: INTRECCI DI CURA",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T20:00",
+    "fine": null,
+    "luogo": "Spazio Cultura Civico 5",
+    "indirizzo": "Spazio Cultura Civico 5",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale intitolato 'Intrecci di cura', presentato nell'ambito delle attività di tempo libero del Comune di Cologno al Serio. L'evento è aperto al pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "conosci-olgiate-olona-dal-quiz-alla-scoperta-del-territorio-olgiate-olona",
+    "titolo": "Conosci Olgiate Olona? Dal quiz alla scoperta del territorio",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T10:30",
+    "fine": null,
+    "luogo": "Chiesa di Sant'Antonio Abate",
+    "indirizzo": "Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata guidata finale del percorso 'Conosci Olgiate Olona?', con apertura straordinaria della Chiesa di Sant'Antonio Abate, visita alla Valle Olona e arrivo a Villa Gonzaga. Include consegna di libri illustrati e momento conviviale con vin brulé.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi/3675512/conosci-olgiate-olona-camminando-storia-cultura",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-grandi-processi-della-storia-jacqiues-de-molay-l-ultimo-gran-maestro-savona",
+    "titolo": "I grandi processi della storia: Jacqiues de Molay, l’ultimo gran maestro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:00",
+    "fine": null,
+    "luogo": "Sala Rossa in Corso Italia 19",
+    "indirizzo": "Corso Italia 19",
+    "cap": null,
+    "comune": "009056",
+    "frazione": null,
+    "lat": 44.33596,
+    "lon": 8.42357,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza dedicata a Jacqiues de Molay, ultimo gran maestro del tempio, parte di una rassegna culturale che esplora grandi processi e figure storiche con dibattiti e incontri pubblici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Archeosofica",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/i-grandi-processi-della-storia-ciclo-di-incontri-a-savona",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "italia-argentina-a-genova-il-nations-championship-al-ferraris-genova",
+    "titolo": "Italia-Argentina a Genova: il Nations Championship al Ferraris",
+    "categoria": "sport",
+    "inizio": "2026-11-14T12:40",
+    "fine": null,
+    "luogo": "Stadio Luigi Ferraris",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di rugby internazionale della Nations Championship tra la Nazionale italiana e i Pumas argentini, la seconda partita casalinga della serie, ospitata allo Stadio Luigi Ferraris.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/italia-argentina-a-genova-il-nations-championship-al-ferraris",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "savona-half-marathon-2026-savona",
+    "titolo": "Savona Half Marathon 2026",
+    "categoria": "sport",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Savona",
+    "indirizzo": "Savona",
+    "cap": null,
+    "comune": "009056",
+    "frazione": null,
+    "lat": 44.33596,
+    "lon": 8.42357,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione sportiva dedicata alla mezza maratona in Riviera, che coinvolge la città di Savona in una domenica di sport tra il 14 e il 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-di-san-martino-a-biassa-della-spezia-la-spezia",
+    "titolo": "Festa di San Martino a Biassa della Spezia",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Biassa della Spezia",
+    "indirizzo": "La Spezia",
+    "cap": null,
+    "comune": "011015",
+    "frazione": null,
+    "lat": 44.10989,
+    "lon": 9.82119,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione religiosa e tradizionale in onore di San Martino, che si tiene a Biassa, frazione de La Spezia, tra il 14 e il 15 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maledetti-architetti-visite-guidate-sulle-architetture-piu-controverse-genova",
+    "titolo": "Maledetti Architetti: visite guidate sulle architetture più controverse del ‘900 a Genova",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Quartiere Quarto Alto",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata gratuita dedicata all'architettura moderna del Novecento a Genova, con focus sul quartiere di Quarto Alto per l'edizione 2026.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/maledetti-architetti-genova",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-misteriosa-scomparsa-di-w-genova",
+    "titolo": "La misteriosa scomparsa di W",
+    "categoria": "teatro",
+    "inizio": "2026-11-10",
+    "fine": "2026-11-11",
+    "luogo": "Teatro Politeama Genovese",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale interpretato da Ambra Angiolini, in programma al Teatro Politeama Genovese nei giorni 10 e 11 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Politeama Genovese",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "starman-genova",
+    "titolo": "Starman",
+    "categoria": "teatro",
+    "inizio": "2026-11-10",
+    "fine": "2026-11-15",
+    "luogo": "Teatro Gustavo Modena",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Produzione teatrale dell'omonimo musical, in scena al Teatro Gustavo Modena dal 10 al 15 novembre nell'ambito dell'agenda dei teatri genovesi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Nazionale Genova",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-sera-della-prima-genova",
+    "titolo": "La sera della prima",
+    "categoria": "teatro",
+    "inizio": "2026-11-11",
+    "fine": null,
+    "luogo": "Teatro Eleonora Duse",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma l'11 novembre al Teatro Eleonora Duse, incluso nella rosa degli eventi teatrali della settimana a Genova.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Nazionale Genova",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gloria-genova",
+    "titolo": "Gloria",
+    "categoria": "teatro",
+    "inizio": "2026-11-11",
+    "fine": null,
+    "luogo": "Teatro Ivo Chiesa",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Recita del titolo teatrale \"Gloria\" in programma al Teatro Ivo Chiesa dall'11 al 13 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Nazionale Genova",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "amore-conflitto-e-destino-genova",
+    "titolo": "Amore, conflitto e destino",
+    "categoria": "teatro",
+    "inizio": "2026-11-12T18:00",
+    "fine": null,
+    "luogo": "Teatro Carlo Felice",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento teatrale in programma alle 18:00 al Teatro Carlo Felice, parte dell'agenda culturale genovese della settimana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Carlo Felice",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "monet-una-vita-a-colori-genova",
+    "titolo": "Monet. Una vita a colori",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T20:30",
+    "fine": null,
+    "luogo": "Teatro Politeama Genovese",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale o teatrale dedicato alla vita di Monet, in programma alle 20:30 al Teatro Politeama Genovese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Politeama Genovese",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "what-the-body-does-not-remember-genova",
+    "titolo": "What the body does not remember",
+    "categoria": "teatro",
+    "inizio": "2026-11-12",
+    "fine": null,
+    "luogo": "Sala Aldo Trionfo",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento teatrale in programma alla Sala Aldo Trionfo il 12 novembre, nell'ambito dell'attività del Teatro della Tosse.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro della Tosse",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corrado-bologna-le-parole-volano-lucano-imperia",
+    "titolo": "Corrado Bologna- Le parole volano: Lucano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T18:00",
+    "fine": null,
+    "luogo": "Teatro Cavour",
+    "indirizzo": "Imperia",
+    "cap": null,
+    "comune": "008031",
+    "frazione": null,
+    "lat": 43.89913,
+    "lon": 8.00407,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culturale con Corrado Bologna, dal titolo 'Le parole volano: Lucano', in programma alle 18:00 al Teatro Cavour di Imperia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Pubblico Ligure",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vivere-con-filosofia-felicita-vivere-bene-secondo-epicuro-imperia",
+    "titolo": "Vivere con filosofia: felicità. Vivere bene secondo Epicuro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T18:00",
+    "fine": null,
+    "luogo": "Teatro Cavour",
+    "indirizzo": "Imperia",
+    "cap": null,
+    "comune": "008031",
+    "frazione": null,
+    "lat": 43.89913,
+    "lon": 8.00407,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro filosofico con Simone Regazzoni sulla felicità secondo Epicuro, in programma alle 18:00 al Teatro Cavour di Imperia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Pubblico Ligure",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pietro-cerchietto-concerto-per-uno-sconosciuto-sori",
+    "titolo": "Pietro Cerchietto – Concerto per uno sconosciuto",
+    "categoria": "concerto",
+    "inizio": "2026-11-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Sori",
+    "indirizzo": "Sori",
+    "cap": null,
+    "comune": "010060",
+    "frazione": null,
+    "lat": 44.39221,
+    "lon": 9.11319,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Pietro Cerchietto intitolato 'Concerto per uno sconosciuto', in programma alle 21:00 al Teatro Comunale di Sori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Pubblico Ligure",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/agenda-teatri-della-settimana",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
   }
 ]
