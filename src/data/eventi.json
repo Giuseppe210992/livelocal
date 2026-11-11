@@ -134113,5 +134113,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-11",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-forme-dell-anima-voghera",
+    "titolo": "Le forme dell'anima",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11T09:15",
+    "fine": "2026-11-11T12:00",
+    "luogo": "Cinema Arlecchino",
+    "indirizzo": "Via XX Settembre, 92",
+    "cap": null,
+    "comune": "018182",
+    "frazione": null,
+    "lat": 45.00827,
+    "lon": 9.01347,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno sulla scienza e la società con la forma della luce e applicazioni avanzate del laser.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Voghera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.voghera.pv.it/it/eventi/le-forme-dell-anima-731404",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "san-germano-gospel-choir-voghera",
+    "titolo": "San Germano Gospel Choir",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Ridotto ex Casino Sociale",
+    "indirizzo": "Via Gioachino Dell'Isola, 2",
+    "cap": null,
+    "comune": "018182",
+    "frazione": null,
+    "lat": 45.00827,
+    "lon": 9.01347,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di San Germano Gospel Choir con Viaggio fra Gospel e Spiritual.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Voghera",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.voghera.pv.it/it/eventi/san-germano-gospel-choir",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-11",
+    "inseritoDa": "consegna"
   }
 ]
