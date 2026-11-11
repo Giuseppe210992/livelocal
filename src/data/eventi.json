@@ -134764,5 +134764,69 @@
     ],
     "inserito": "2026-11-11",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "serata-di-educazione-finanziaria-sala-consiliare-magenta-2026-11-18",
+    "titolo": "Serata di educazione finanziaria per giovani adulti e famiglie",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T21:00",
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Via Fornaroli 30, Magenta",
+    "cap": null,
+    "comune": "015130",
+    "frazione": null,
+    "lat": 45.464,
+    "lon": 8.882,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata aperta a tutta la cittadinanza su gestione del budget familiare, pianificazione delle spese e valore del risparmio, con l'educatrice finanziaria AIEF Adelina Porretti. Partecipazione libera e gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Magenta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmIomLN6Fn/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-vita-e-i-segreti-delle-farfalle-circolo-massese-massa-lombarda-2026-11-13",
+    "titolo": "«La vita e i segreti delle farfalle» con Auro Rambelli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T20:45",
+    "luogo": "Circolo Massese",
+    "indirizzo": "Piazza Matteotti 5, Massa Lombarda",
+    "cap": null,
+    "comune": "039013",
+    "frazione": null,
+    "lat": 44.415,
+    "lon": 11.804,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata alla scoperta del mondo delle farfalle, fra curiosità, caratteristiche e segreti di questi insetti, con Auro Rambelli. Ingresso gratuito, aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Massa Lombarda",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmG-ywCa09/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
   }
 ]
