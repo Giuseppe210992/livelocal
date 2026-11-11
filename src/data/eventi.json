@@ -134602,5 +134602,70 @@
     ],
     "inserito": "2026-11-11",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "onde-a-spasso-con-l-europa-stefania-saglietti-museo-egizio-torino-2026-11-15",
+    "titolo": "«A spasso con l'Europa»: concerto d'arpa di Stefania Saglietti al Museo Egizio",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T11:00",
+    "luogo": "Museo Egizio",
+    "indirizzo": "Via Accademia delle Scienze 6, Torino",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.0679,
+    "lon": 7.6844,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna musicale «Onde» al Museo Egizio, in collaborazione con il Conservatorio di Torino e l'Orchestra Filarmonica di Torino: l'arpista Stefania Saglietti percorre il repertorio arpistico moderno e contemporaneo di autori francesi, tedeschi, italiani e inglesi. A cura di Fondazione Merz.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Merz",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Merz",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfmw2ris8y4/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "linea-c-ultima-fermata-colosseo-ottavo-colle-roma-2026-11-14",
+    "titolo": "Linea C – Un viaggio urbano tra centro e periferie: ultima tappa al Colosseo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T10:00",
+    "luogo": "Colosseo",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.8902,
+    "lon": 12.4922,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinta e ultima tappa del progetto «Linea C» di OTTAVO COLLE APS, con il sostegno di Roma Capitale e in collaborazione con Zètema: un modo diverso di scoprire il Colosseo e il territorio che lo circonda. Evento gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "OTTAVO COLLE APS, con Roma Capitale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Roma Capitale",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfmpg6Yl-zd/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia",
+    "fine": "2026-11-14T12:00"
   }
 ]
