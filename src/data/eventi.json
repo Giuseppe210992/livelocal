@@ -136947,5 +136947,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-11",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-a-colazione-digiringiro-lastra-a-signa-2027-02-21",
+    "titolo": "Teatro a Colazione: Digiringiro",
+    "categoria": "teatro",
+    "inizio": "2027-02-21",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8, Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/Dfj_eUxNKbl/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-a-colazione-amletino-lastra-a-signa-2027-03-07",
+    "titolo": "Teatro a Colazione: Amletino",
+    "categoria": "teatro",
+    "inizio": "2027-03-07",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Via Matteotti 8, Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/Dfj_eUxNKbl/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
   }
 ]
