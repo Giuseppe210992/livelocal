@@ -134179,5 +134179,234 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-11",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "note-d-autunno-erbesi-dialoghi-musicali-erba-2026-11-14",
+    "titolo": "Note d'autunno erbesi: dialoghi musicali tra violoncello e pianoforte",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "luogo": "Sala Polivalente, Centro Polifunzionale San Maurizio",
+    "indirizzo": "Via Alserio 5, Erba",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81,
+    "lon": 9.225,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del duo Asja Mosconi (violoncello) e Ignas Maknikas (pianoforte) nella rassegna Note d'autunno erbesi 2026. Posti limitati, prenotazione obbligatoria tramite il codice QR sulla locandina o il link nelle storie del Comune.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Erba",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfjyyJ9Dob7/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "radici-d-aria-contro-la-violenza-di-genere-desenzano-2026-11-26",
+    "titolo": "«Radici d'Aria»: incontro contro la violenza di genere",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:30",
+    "luogo": "Sala della Musa, Villa Brunati",
+    "indirizzo": "Rivoltella, Desenzano del Garda",
+    "cap": null,
+    "comune": "017067",
+    "frazione": null,
+    "lat": 45.44,
+    "lon": 10.57,
+    "coordinateApprossimate": true,
+    "descrizione": "Esperienza artistica che intreccia musica dei Corimè, performance visive di Laura Gatta e Andrea Cataldo e danza aerea di Emanuela Camozzi e Michela Tonicelli, per la Giornata internazionale contro la violenza sulle donne. Possibile una seconda replica alle 21.30 in base alle prenotazioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Desenzano del Garda",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Desenzano del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfj0-f7Cks4/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gruppo-di-lettura-il-popolo-dell-autunno-biblioteca-mabic-maranello-2026-11-16",
+    "titolo": "Gruppo di lettura: «Il popolo dell'autunno» di Ray Bradbury",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T20:30",
+    "luogo": "Biblioteca Mabic",
+    "indirizzo": "Maranello",
+    "cap": null,
+    "comune": "036019",
+    "frazione": null,
+    "lat": 44.529,
+    "lon": 10.865,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura sul romanzo fantasy-horror di Ray Bradbury. Ingresso libero, senza iscrizione e senza bisogno di aver letto il libro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Mabic - Comune di Maranello",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjfe5rgT1Q/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-a-colazione-la-fabbrica-delle-parole-lastra-a-signa-2026-12-13",
+    "titolo": "Teatro a Colazione: La fabbrica delle parole",
+    "categoria": "teatro",
+    "inizio": "2026-12-13",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjojn0N4sK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-a-colazione-i-musicanti-di-brema-swing-band-lastra-a-signa-2027-01-10",
+    "titolo": "Teatro a Colazione: I Musicanti di Brema Swing Band",
+    "categoria": "teatro",
+    "inizio": "2027-01-10",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjojn0N4sK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-a-colazione-la-prima-volta-che-ti-ho-visto-lastra-a-signa-2027-01-24",
+    "titolo": "Teatro a Colazione: La prima volta che ti ho visto",
+    "categoria": "teatro",
+    "inizio": "2027-01-24",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjojn0N4sK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "teatro-a-colazione-equi-librio-lastra-a-signa-2027-02-07",
+    "titolo": "Teatro a Colazione: Equi-librio",
+    "categoria": "teatro",
+    "inizio": "2027-02-07",
+    "luogo": "Teatro delle Arti",
+    "indirizzo": "Lastra a Signa",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.77,
+    "lon": 11.1,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento per famiglie della rassegna «Teatro a Colazione» del Teatro delle Arti: colazione facoltativa nel foyer e spettacolo. Biglietti: intero 10 euro, ridotto 8, bambini 5, gratis sotto i 3 anni; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro delle Arti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro delle Arti",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjojn0N4sK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
   }
 ]
