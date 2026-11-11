@@ -134667,5 +134667,102 @@
     "inserito": "2026-11-11",
     "inseritoDa": "ia",
     "fine": "2026-11-14T12:00"
+  },
+  {
+    "slug": "domenica-ecologica-evento-cittadino-prati-roma-2026-11-15",
+    "titolo": "Domenica ecologica: evento cittadino a Prati",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T10:00",
+    "luogo": "Piazza Risorgimento e via Ottaviano, Prati",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.907,
+    "lon": 12.457,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima giornata ecologica della stagione 2026/2027 con stop al traffico: sette postazioni con spettacoli e giochi per bambini (clown, trampolieri, giocolieri), musica, teatro, cabaret e laboratori di ecologia e riciclo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Roma Capitale",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmipjGF8eH/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T18:00"
+  },
+  {
+    "slug": "questioni-di-famiglia-visita-e-laboratorio-villa-carlotta-tremezzina-2026-11-15",
+    "titolo": "«Questioni di famiglia»: visita e laboratorio pop art a Villa Carlotta",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-15T14:30",
+    "luogo": "Villa Carlotta",
+    "indirizzo": "Via Regina 2, Tremezzina",
+    "cap": null,
+    "comune": "013252",
+    "frazione": null,
+    "lat": 45.986,
+    "lon": 9.229,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita dedicata alla storia del duca Giorgio II e della sua famiglia nella mostra «Dinastie d'Europa sul Lago di Como», seguita da un laboratorio creativo ispirato alla Pop Art. Prenotazione dal link nel profilo dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Villa Carlotta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Villa Carlotta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmcqjXEeCK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dinastie-d-europa-sul-lago-di-como-ospiti-in-villa-tremezzina-2026-11-21",
+    "titolo": "«Dinastie d'Europa sul Lago di Como. Ospiti in Villa»: visita con l'archivista",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T11:00",
+    "luogo": "Villa Carlotta",
+    "indirizzo": "Via Regina 2, Tremezzina",
+    "cap": null,
+    "comune": "013252",
+    "frazione": null,
+    "lat": 45.986,
+    "lon": 9.229,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata con l'archivista e docente Tiziana Danelli per conoscere i personaggi illustri che visitarono Villa Carlotta alla fine dell'Ottocento. Prenotazione dal link nel profilo dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Villa Carlotta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Villa Carlotta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmcqjXEeCK/",
+        "consultata": "2026-11-11"
+      }
+    ],
+    "inserito": "2026-11-11",
+    "inseritoDa": "ia"
   }
 ]
