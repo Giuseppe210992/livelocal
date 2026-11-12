@@ -137090,7 +137090,7 @@
     "comune": "117002",
     "frazione": null,
     "lat": 39.705,
-    "lon": 9.0,
+    "lon": 9,
     "coordinateApprossimate": true,
     "descrizione": "Conferenza «Convenzione UNESCO e la tutela dei beni culturali: modelli operativi in Egitto e in Italia», presentazione e inaugurazione della mostra «L'Egitto e gli Sherden: incontri e conflitti nel Mediterraneo», nell'ambito dell'Expo del Turismo Culturale in Sardegna.",
     "prezzo": {
@@ -139507,5 +139507,1594 @@
     ],
     "inserito": "2026-11-12",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "parate-battaglie-e-animazioni-per-la-rievocazione-storica-napoleonica-bard",
+    "titolo": "Parate, battaglie e animazioni per la rievocazione storica Napoleonica",
+    "categoria": "teatro",
+    "inizio": "2027-05-28T16:00",
+    "fine": "2027-05-30T18:00",
+    "luogo": "Forte di Bard",
+    "indirizzo": "Bard",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Nona edizione della rievocazione storica del passaggio delle truppe napoleoniche del maggio 1800, con parate, battaglie, animazioni, figuranti in abiti d'epoca e ricostruzione dell'assedio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Forte di Bard",
+        "tipo": "ufficiale",
+        "url": "https://www.fortedibard.it/evento/parate-battaglie-e-animazioni-per-la-rievocazione-storica-napoleonica-2027",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sinfonie-n-7-8-aspettando-beethoven-verona",
+    "titolo": "Sinfonie n. 7, 8 | Aspettando Beethoven",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T15:30",
+    "fine": null,
+    "luogo": "Sala Filarmonica",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto appuntamento della rassegna musicale dedicato alle composizioni di Ludwig van Beethoven presso la Sala Filarmonica con l'esecuzione delle celebri sinfonie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mozart-kreutzer-duo-e-settimino-verona",
+    "titolo": "Mozart, Kreutzer | Duo e Settimino",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T11:00",
+    "fine": null,
+    "luogo": "Museo degli Affreschi",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Decimo appuntamento del ciclo Musei in Musica 2026 in programma al Museo degli affreschi con un repertorio di brani firmati da Wolfgang Amadeus Mozart e Conradin Kreutzer.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-lago-dei-cigni-verona",
+    "titolo": "Il Lago dei Cigni",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T15:30",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione del celebre balletto in quattro atti sulle musiche di Pëtr Il’ič Čajkovskij, allestito in occasione del centocinquantesimo anniversario della composizione dell'opera.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "costruire-lettori-semi-di-lettura-bellaria-igea-marina",
+    "titolo": "Costruire Lettori - Semi di Lettura",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T12:00",
+    "luogo": "Biblioteca comunale Alfredo Panzini",
+    "indirizzo": "Via Guidi Paolo, 108",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso di formazione dedicato alla lettura ad alta voce per bambini e ragazzi, finalizzato a scoprire i libri, fare prove di lettura e creare un gruppo di lettori volontari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/costruire-lettori-corso-di-formazione-729594-733067",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dungeons-dragons-bellaria-igea-marina",
+    "titolo": "Dungeons & Dragons",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T16:00",
+    "fine": "2026-11-20T18:30",
+    "luogo": "Centro Giovani Kas8",
+    "indirizzo": "Via Ravenna, 75",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa dedicata al gioco di ruolo per esplorare mondi fantastici e vivere avventure in gruppo. L'appuntamento si rivolge agli studenti delle scuole medie senza necessità di esperienza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Giovani KAS8",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/dungeons-dragons",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-del-vino-e-dell-olio-al-mercato-contadino-del-giovedi-borgo-san-lorenzo",
+    "titolo": "Festa del vino e dell'olio al Mercato Contadino del Giovedì",
+    "categoria": "mercatino",
+    "inizio": "2026-11-12T16:00",
+    "fine": null,
+    "luogo": "Mercato Contadino",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione della tradizione agricola mugellana con degustazioni di vini del territorio e olio nuovo. L'evento include street food contadino, musica con DJ set e un laboratorio creativo per bambini dedicato al tema dell'uva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/festa-del-vino-e-dell-olio-al-mercato-contadino-del-giovedi",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-cer-mugello-borgo-san-lorenzo",
+    "titolo": "Incontro CER Mugello",
+    "categoria": "conferenza",
+    "inizio": "2026-11-12T17:30",
+    "fine": "2026-11-12T19:00",
+    "luogo": "Saletta Pio La Torre",
+    "indirizzo": "via Giotto, 17",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico dedicato alla Comunità Energetica Rinnovabile, rivolto a professionisti e aziende per approfondire le opportunità offerte dal territorio in ambito energetico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/incontro-cer-mugello",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-arkattak-cello-orchestra-borgo-san-lorenzo",
+    "titolo": "Concerto 'Arkattak, cello orchestra'",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Oratorio di Sant'Omobono",
+    "indirizzo": "Via San Francesco",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di un ensemble di 9 violoncelli guidato dal solista Luca Provenzani. Il programma include musiche di Gardel, Piazzolla e Morricone.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Agimus Firenze",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/concerto-arkattak-cello-orchestra",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alla-biblioteca-di-ronta-arriva-il-baratto-kid-corner-borgo-san-lorenzo",
+    "titolo": "Alla Biblioteca di Ronta arriva il Baratto Kid Corner",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:30",
+    "fine": "2026-11-14T17:30",
+    "luogo": "Biblioteca di Ronta",
+    "indirizzo": "via Faentina, 64",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di uno spazio permanente dedicato al riuso e alla condivisione, dove i bambini possono scambiare liberamente giochi e oggetti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/alla-biblioteca-di-ronta-arriva-il-baratto-kid-corner",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-mossa-del-granchio-borgo-san-lorenzo",
+    "titolo": "La mossa del granchio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T15:30",
+    "fine": null,
+    "luogo": "Palazzo Comunale",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del nuovo thriller di Sandrone Dazieri, ospite della nona edizione di Ingorgo Letterario. L'incontro esplora i temi del noir e il passato dei protagonisti Dante Torre e Colomba Caselli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/la-mossa-del-granchio",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-luoghi-di-san-francesco-d-assisi-borgo-san-lorenzo-14-11",
+    "titolo": "I luoghi di San Francesco d'Assisi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Chiesa di San Francesco",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinto appuntamento per l'Ottavo Centenario Francescano con il relatore Francesco Salvestrini, professore di Storia medievale, dedicato ai luoghi legati alla figura di San Francesco.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parrocchia di San Lorenzo",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/i-luoghi-di-san-francesco-d-assisi",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concorso-nazionale-di-poesia-r-molinari-canegrate",
+    "titolo": "Concorso nazionale di poesia \"R.Molinari\"",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T24:00",
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Piazza Unità d'Italia 2",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione del Concorso Nazionale di Poesia Roberto Molinari. Il programma prevede la lettura dei testi segnalati dalla giuria, l'annunciazione delle opere vincitrici e un intrattenimento musicale curato dai Nomantini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cultura dei Sogni Auser, Cooperativa Bell'Unione",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/concorso-nazionale-poesia",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-diritto-di-leggere-silent-books-canegrate",
+    "titolo": "Il diritto di leggere – Silent Books",
+    "categoria": "mostra",
+    "inizio": "2026-12-05T10:00",
+    "fine": null,
+    "luogo": "Centro per la cultura",
+    "indirizzo": "Piazza Unità d'Italia 2",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla scoperta dei Silent Books, libri senza parole in cui le immagini sono protagoniste. Un'esperienza di lettura che invita a osservare, interpretare e costruire storie, promuovendo inclusione e creatività.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/il-diritto-di-leggere-silent-books",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "commemorazione-caduti-di-nassiriya-2026-brescia",
+    "titolo": "Commemorazione Caduti di Nassiriya 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-12T12:00",
+    "fine": "2026-11-12T12:30",
+    "luogo": "Parco Nassiriya - Via Trivellini",
+    "indirizzo": "Via Giuseppe Trivellini, 25126 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di commemorazione dei caduti dell'attentato di Nassiriya del 2003, organizzata in occasione del ventitreesimo anniversario con la partecipazione di autorità civili, militari e religiose.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/commemorazione-caduti-di-nassiriya-2026",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "carme-2026-stefano-cagol-brescia",
+    "titolo": "Carme 2026. Stefano Cagol",
+    "categoria": "mostra",
+    "inizio": "2026-11-12T16:00",
+    "fine": "2026-11-15T20:00",
+    "luogo": "CARME - Centro Arti Multiculturali e Etnosociali",
+    "indirizzo": "Via delle Battaglie, 61/1, 25122 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale dell'artista contemporaneo Stefano Cagol legata alla Biennale di Venezia, focalizzata sull'isola di Nauru come spunto di riflessione su trasformazione ambientale ed ecologia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/carme-2026-stefano-cagol-2520195-2520411",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "armando-milani-mostre-diffuse-brescia",
+    "titolo": "Armando Milani. Mostre diffuse",
+    "categoria": "mostra",
+    "inizio": "2026-11-12T17:00",
+    "fine": "2026-11-15T18:30",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "Via dei Musei, 81/B, 25121 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra del Festival della Pace dedicata al grafico Armando Milani, con un'esposizione al MITA che accosta manifesti e tappeti afgani e una sezione di oltre trenta manifesti al Museo di Santa Giulia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/armando-milani-mostre-diffuse",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-chat-with-friends-on-english-romanticism-concesio",
+    "titolo": "A chat with friends on English Romanticism",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T18:30",
+    "fine": "2026-11-19T19:30",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro di un ciclo dedicato alla letteratura inglese, in particolare al Romanticismo. La lezione è a cura di Rocco Andreana e si svolge interamente in lingua inglese per favorire l'immersione nell'atmosfera originale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/a-chat-with-friends-on-english-romanticism-733583",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-chat-with-friends-on-english-romanticism-concesio-26-11",
+    "titolo": "A chat with friends on English Romanticism",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:30",
+    "fine": "2026-11-26T19:30",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento del ciclo sulla letteratura inglese, con focus su F.B. Shelley e l'opera 'Ode to the West Wind'. La lezione è tenuta da Rocco Andreana e si svolge in lingua inglese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/a-chat-with-friends-on-english-romanticism-733596",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "butterfly-concesio",
+    "titolo": "Butterfly",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Auditorium Sant'Andrea",
+    "indirizzo": "Via delle Camerate, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto da 'Madame Butterfly', con direzione e interpretazione di Silvia Priori. L'evento combina teatro, canto lirico e tamburi giapponesi. Fa parte della rassegna 'Scintille a teatro 2026'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla cultura di Concesio",
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/butterfly",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-chat-with-friends-on-english-romanticism-concesio-17-12",
+    "titolo": "A chat with friends on English Romanticism",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T18:30",
+    "fine": "2026-12-17T19:30",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo e ultimo incontro del ciclo dedicato alla letteratura inglese, con focus su John Keats e l'opera 'Ode to the Autumn'. La lezione è a cura di Rocco Andreana e si svolge in lingua inglese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/a-chat-with-friends-on-english-romanticism-733598",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "living-collapse-napoli-10-10",
+    "titolo": "Living Collapse",
+    "categoria": "mostra",
+    "inizio": "2026-10-10",
+    "fine": "2026-11-23",
+    "luogo": "Madre",
+    "indirizzo": "Via Settembrini 79, 80139 Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra curata da Arianna Rosica. Evento pubblico aperto al pubblico presso il museo Madre a Napoli. Esposizione in corso a fine 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Madre",
+    "fonti": [
+      {
+        "nome": "Museo Madre Napoli",
+        "tipo": "ufficiale",
+        "url": "https://www.madrenapoli.it/mostre",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-anni-capitolo-3-napoli",
+    "titolo": "Gli anni. Capitolo 3",
+    "categoria": "mostra",
+    "inizio": "2026-06-25",
+    "fine": "2026-11-16",
+    "luogo": "Madre",
+    "indirizzo": "Via Settembrini 79, 80139 Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra curata da Samuele Piazza. Parte della rassegna 'Gli anni' dedicata alla storia dell'arte a Napoli. Apertura giugno 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Madre",
+    "fonti": [
+      {
+        "nome": "Museo Madre Napoli",
+        "tipo": "ufficiale",
+        "url": "https://www.madrenapoli.it/mostre",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-poesia-dialettale-della-locride-nel-secondo-900-locri",
+    "titolo": "La Poesia Dialettale della Locride nel secondo '900",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "fine": null,
+    "luogo": "Sala biblioteca G. Incorpora Palazzo Nieddu",
+    "indirizzo": "Palazzo Nieddu, Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culturale dedicato all'approfondimento della poesia dialettale locale del secondo Novecento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98667248/la-poesia-dialettale-della-locride-nel-secondo-900-inizio-ore-17-30",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "masterclass-di-violino-napoli",
+    "titolo": "Masterclass di violino",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T09:00",
+    "fine": null,
+    "luogo": "Archivio di Stato di Napoli",
+    "indirizzo": "Piazzetta del Grande Archivio, 5",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Masterclass di perfezionamento musicale per violino articolata su tre giornate di lezione e approfondimenti pratici per gli allievi iscritti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Orchestra Scarlatti",
+    "fonti": [
+      {
+        "nome": "Nuova Orchestra Scarlatti",
+        "tipo": "organizzatore",
+        "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "comunicato-stampa-scopriamola-in-tour-2026-mola-di-bari",
+    "titolo": "Comunicato stampa “ScopriaMola in Tour 2026”",
+    "categoria": "visita-guidata",
+    "inizio": "2026-03-22T10:00",
+    "fine": "2027-01-09T17:00",
+    "luogo": "Mola di Bari",
+    "indirizzo": "Mola di Bari",
+    "cap": null,
+    "comune": "072028",
+    "frazione": null,
+    "lat": 41.03962,
+    "lon": 17.07677,
+    "coordinateApprossimate": true,
+    "descrizione": "Calendario di visite guidate ed esperienze culturali per scoprire il patrimonio storico, artistico e paesaggistico di Mola di Bari. Il programma include tour tematici e itinerari che toccano luoghi simbolo come il Castello Angioino Aragonese e il Teatro van Westerhout.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Visit Mola di Bari",
+    "fonti": [
+      {
+        "nome": "Visit Mola di Bari",
+        "tipo": "ufficiale",
+        "url": "https://www.visitmoladibari.it/evento",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scopriamola-in-tour-autumn-christmas-edition-2026-mola-di-bari",
+    "titolo": "ScopriaMola in Tour – Autumn & Christmas Edition 2026",
+    "categoria": "visita-guidata",
+    "inizio": "2026-10-11T10:00",
+    "fine": "2027-01-06T13:00",
+    "luogo": "Mola di Bari",
+    "indirizzo": "Mola di Bari",
+    "cap": null,
+    "comune": "072028",
+    "frazione": null,
+    "lat": 41.03962,
+    "lon": 17.07677,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione autunnale e natalizia del tour che propone nuovi itinerari e luoghi da riscoprire. Il programma include esperienze immersive legate alla musica, alla storia locale e alla valorizzazione del patrimonio culturale della città d'arte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": "Visit Mola di Bari",
+    "fonti": [
+      {
+        "nome": "Visit Mola di Bari",
+        "tipo": "ufficiale",
+        "url": "https://www.visitmoladibari.it/evento",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mezzogiorno-di-fuoco-a-rivertown-almese",
+    "titolo": "Mezzogiorno di fuoco a Rivertown",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Almese",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia teatrale Artonauti del CEPIM Torino, diretto da Claudio Sportelli con scenografie del laboratorio Simone. Rappresentazione teatrale presentata nell'ambito della programmazione del teatro di Almese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Artonauti – CEPIM Torino, Centro Persone con Sindrome di Down ODV",
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/mezzogiorno-di-fuoco-a-rivertown",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatrale-2026-2027-valenza-valenza-28-11",
+    "titolo": "Stagione teatrale 2026-2027 Valenza",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Valenza",
+    "cap": null,
+    "comune": "006177",
+    "frazione": null,
+    "lat": 45.01881,
+    "lon": 8.62953,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale Confessioni di un ex Presidente, parte della nuova stagione teatrale 2026/2027 del Teatro Sociale di Valenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Valenza",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/stagione-teatrale-2026-2027-valenza/02eadc1811e79f536998ef5f6a9add5e?",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatrale-2026-2027-tortona-tortona-27-11",
+    "titolo": "Stagione Teatrale 2026-2027 Tortona",
+    "categoria": "teatro",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Tortona",
+    "cap": null,
+    "comune": "006174",
+    "frazione": null,
+    "lat": 44.88706,
+    "lon": 8.84195,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale Non si sa come, inserito nel programma della nuova stagione teatrale 2026/2027 del Teatro Civico di Tortona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Civico di Tortona",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/stagione-teatrale-2026-2027-tortona/36b2d6f987d91e7a0cacf53865dcdc2c?",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatrale-2026-2027-al-teatro-municipale-di-casale-monferrato-casale-monferrato",
+    "titolo": "Stagione Teatrale 2026-2027 al Teatro Municipale di Casale Monferrato",
+    "categoria": "teatro",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-18",
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Casale Monferrato",
+    "cap": null,
+    "comune": "006039",
+    "frazione": null,
+    "lat": 45.12638,
+    "lon": 8.46175,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo Lisistrata di Aristofane, interpretato da Lella Costa, parte della stagione teatrale 2026/2027 del Teatro Municipale di Casale Monferrato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Municipale di Casale Monferrato",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/stagione-teatrale-2026-2027-al-teatro-municipale-di-casale-monferrato/8de00b79bf9f626501a82e31fdc704c0",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatrale-2026-27-chiaro-di-luna-castelnuovo-bormida",
+    "titolo": "Stagione Teatrale 2026/27 Chiaro di Luna",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Piccolo Teatro Enzo Buarnè",
+    "indirizzo": "Piazza Marconi Castelnuovo Bormida (AL)",
+    "cap": null,
+    "comune": "006052",
+    "frazione": null,
+    "lat": 44.74202,
+    "lon": 8.55869,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo Von Blau di Enzo Buarné, parte della stagione teatrale Chiaro di Luna organizzata dal Teatro del Rimbombo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Rimbombo",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/stagione-teatrale-202627-chiaro-di-luna/ae126028f8a2fc63c9c4e1022e6ad36f",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "da-miramare-al-cosmo-trieste",
+    "titolo": "Da Miramare al Cosmo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T17:00",
+    "fine": "2026-11-18T18:30",
+    "luogo": "Sala del Trono",
+    "indirizzo": "Viale Miramare",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro divulgativo dedicato alle esplorazioni spaziali e alle ragioni del ritorno sulla Luna, mettendo a confronto la corsa allo spazio contemporanea con le grandi imprese esplorative del passato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Institute for Fundamental Physics of the Universe",
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/da-miramare-al-cosmo",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "domenica-al-museo-trieste",
+    "titolo": "Domenica al Museo",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-06T09:00",
+    "fine": "2026-12-06T19:00",
+    "luogo": "Castello di Miramare",
+    "indirizzo": "Viale Miramare",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata ad accesso gratuito promossa dal Ministero della Cultura per permettere ai visitatori di accedere liberamente alla sede museale e scoprirne le collezioni storiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/domenica-al-museo-32",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "saffo-lo-spirito-della-poesia-roma",
+    "titolo": "Saffo. Lo spirito della poesia",
+    "categoria": "mostra",
+    "inizio": "2026-10-15",
+    "fine": "2027-01-31",
+    "luogo": "Uccelliere Farnesiane",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata a Saffo, unica grande voce femminile sopravvissuta della letteratura greca arcaica. L'esposizione si svolge nelle Uccelliere Farnesiane a Roma. L'accesso è consentito ai possessori di specifici biglietti per il Colosseo, il Foro Romano e il Palatino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco archeologico del Colosseo",
+    "fonti": [
+      {
+        "nome": "Parco archeologico del Colosseo",
+        "tipo": "ufficiale",
+        "url": "https://colosseo.it/evento/saffo",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rieducational-panel-in-itinere-educazione-patrimoni-e-comunita-roma",
+    "titolo": "Rieducational Panel in itinere - Educazione, patrimoni e comunità",
+    "categoria": "conferenza",
+    "inizio": "2026-11-11",
+    "fine": "2026-11-13",
+    "luogo": "Curia Iulia",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa formativa in tre giornate dedicata all'educazione al patrimonio. Il programma include convegni alla Curia Iulia e focus group con visite al Foro Romano, Palatino, Domus Aurea e Colosseo. Promossa dalla Direzione generale Risorse Umane del MiC e dal PArCo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura, Parco archeologico del Colosseo",
+    "fonti": [
+      {
+        "nome": "Parco archeologico del Colosseo",
+        "tipo": "ufficiale",
+        "url": "https://colosseo.it/evento/rieducational-panel-in-itinere",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "enea-umano-eroe-conferenza-spettacolo-roma",
+    "titolo": "Enea, umano eroe. Conferenza spettacolo",
+    "categoria": "teatro",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Parco archeologico del Colosseo",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento classificato come 'Conferenza spettacolo' che approfondisce la figura di Enea. Si tratta di un appuntamento unico in calendario per il 13 novembre 2026, organizzato dal Parco archeologico del Colosseo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco archeologico del Colosseo",
+    "fonti": [
+      {
+        "nome": "Parco archeologico del Colosseo",
+        "tipo": "ufficiale",
+        "url": "https://colosseo.it/evento",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "come-invecchiare-bene-buccinasco-18-11",
+    "titolo": "Come invecchiare bene",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T15:00",
+    "fine": "2026-11-18T17:00",
+    "luogo": "Centro culturale Bramante",
+    "indirizzo": "Via Bramante, 14, 20090 Buccinasco MI, Italia",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato al tema dell'invecchiamento, organizzato dalla Banca del Tempo e dei Saperi e curato da Caterina Pacenza. L'evento è aperto a tutti previa prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Banca del Tempo e dei Saperi",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/come-invecchiare-bene-733081-733108",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercato-km0-buccinasco",
+    "titolo": "Mercato Km0",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22T09:00",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Municipio di Buccinasco",
+    "indirizzo": "Via Roma, 2, 20090 Buccinasco MI, Italia",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato contadino con vendita diretta di prodotti locali tra cui frutta, verdura, formaggi, salumi, pane, miele e vino. L'iniziativa si svolge presso l'area antistante il municipio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/mercato-km0-v4-2022-v4-2022-v5-10-01-2022-27-06-2022-2023-v5-09-01-2023-cp-cp-cp-cp-631319-cp-654135-654136-654137-659286-717227-725069-725071-725074-725075",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-liberta-si-costruisce-bresso",
+    "titolo": "La libertà si costruisce",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T15:00",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Spazio Don Luigi Giussani",
+    "indirizzo": "Via Camillo Benso Conte di Cavour, 1",
+    "cap": null,
+    "comune": "015032",
+    "frazione": null,
+    "lat": 45.53648,
+    "lon": 9.19497,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro promosso per la Giornata internazionale per l'eliminazione della violenza contro le donne. In programma testimonianze, autodifesa, Croce Rossa e il progetto Casa Frida, seguito da un aperitivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "associazione Mittatron",
+    "fonti": [
+      {
+        "nome": "Comune di Bresso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bresso.mi.it/it/eventi/la-liberta-si-costruisce",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "legalita-e-cultura-cameri",
+    "titolo": "Legalità e cultura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T15:00",
+    "fine": "2026-11-23T17:00",
+    "luogo": "Sala polivalente",
+    "indirizzo": "Piazza Dante Alighieri 27, Cameri NO",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro “Il genio di Giovanni Falcone” con il magistrato Catello Maresca. Un'occasione di confronto sul valore della legalità, della giustizia e dell'impegno civile nella società contemporanea.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cameri",
+        "tipo": "ufficiale",
+        "url": "https://comune.cameri.no.it/vivere-il-comune/evento/legalita-e-cultura",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-museo-mast-a-misura-di-bambino-castel-goffredo",
+    "titolo": "Il Museo Mast a misura di bambino",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:30",
+    "fine": "2026-11-14T17:00",
+    "luogo": "MAST Castel Goffredo",
+    "indirizzo": "Via Andrea Botturi, 3",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio archeologico per bambini dai 7 agli 11 anni per scoprire le fonti materiali consultate dagli archeologi, come si individua un sito di scavo e la datazione dei reperti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/il-museo-mast-a-misura-di-bambino-26-9-2026",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontri-al-museo-castel-goffredo-21-11",
+    "titolo": "Incontri al museo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T15:30",
+    "fine": "2026-11-21T17:30",
+    "luogo": "MAST Castel Goffredo",
+    "indirizzo": "Via Andrea Botturi, 3",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culinario su quattro ricette natalizie tra tradizione e innovazione, con preparazioni disponibili anche in versione vegetariana, vegana, senza glutine e senza lattosio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/incontri-al-museo-21-11-26",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-la-violenza-verso-l-autonomia-castel-goffredo",
+    "titolo": "Oltre la violenza, verso l'autonomia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T08:30",
+    "fine": "2026-11-23T16:00",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Giuseppe Mazzini, 1",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno dedicato alla mediazione interculturale, ai diritti delle donne e ai percorsi di uscita dalla violenza, con interventi di esperte e un tavolo di confronto pomeridiano.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ASST Mantova",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/oltre-la-violenza-verso-l-autonomia-23-11-26",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "silent-reading-party-castel-goffredo",
+    "titolo": "Silent reading party",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:30",
+    "fine": "2026-11-24T22:00",
+    "luogo": "Neder cafè",
+    "indirizzo": "via Monteverdi,116",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di lettura silenziosa in luogo suggestivo con sottofondo musicale, in cui i partecipanti portano il proprio libro per condividere un momento di relax.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/silent-reading-party-24-11-2026",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-favola-di-mamma-castel-goffredo",
+    "titolo": "Una favola di mamma",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T10:00",
+    "fine": "2026-11-25T13:00",
+    "luogo": "Centro Iris, Consultorio Familiare",
+    "indirizzo": "Viale S. Pio X, 19",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico di confronto e ascolto aperto alla cittadinanza, focalizzato sulle relazioni, sui ruoli familiari e sulle esperienze quotidiane a partire da un racconto autobiografico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consultorio Familiare",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/una-favola-di-mamma-25-11-26",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiaccolata-contro-la-violenza-sulle-donne-castel-goffredo",
+    "titolo": "Fiaccolata contro la violenza sulle donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T19:30",
+    "fine": "2026-11-25T19:30",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Giuseppe Mazzini, 1",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Corteo simbolico cittadino con candele lungo le vie del paese, arricchito da soste di riflessione e brani musicali della banda per manifestare contro ogni violenza di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Commissione Pari Opportunità",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/fiaccolata-contro-la-violenza-sulle-donne-25-11-26",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiabe-sonore-mondo-calzino-cerreto-guidi",
+    "titolo": "Fiabe sonore: Mondo calzino",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:30",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Centro Don Lido Marini di Bassa",
+    "indirizzo": "Cerreto Guidi",
+    "cap": null,
+    "comune": "048011",
+    "frazione": null,
+    "lat": 43.7575,
+    "lon": 10.85621,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione della fiaba sonora 'Mondo calzino', dedicata a grandi e piccoli. L'evento si svolge in occasione della giornata internazionale per i diritti dell'infanzia e dell'adolescenza, con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cerreto Guidi",
+    "fonti": [
+      {
+        "nome": "Comune di Cerreto Guidi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cerreto-guidi.fi.it/it/eventi/un-libro-per-tutti-727731-727919-727934",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-12",
+    "inseritoDa": "consegna"
   }
 ]

@@ -644,27 +644,27 @@
    "falliti": 0
   },
   "https://www.italia.it/it/friuli-venezia-giulia/udine/cosa-fare": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: HTTP 404",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.fortedibard.it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.mudec.it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: HTTP 403",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.lozac.it/programmazione": {
-   "ultima": "2026-11-10",
-   "eventi": 9,
-   "esito": "ok: 13 proposti, 9 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.eppan.com/it/eventi": {
@@ -674,334 +674,334 @@
    "falliti": 0
   },
   "https://www.museicapitolini.org/it/calendario": {
-   "ultima": "2026-11-10",
-   "eventi": 3,
-   "esito": "ok: 4 proposti, 3 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 1
   },
   "https://www.stresaturismo.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 6,
-   "esito": "ok: 6 proposti, 6 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 1
   },
   "https://www.comune.aldeno.tn.it/Vivere-il-comune/Eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://spazioduende.it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 6,
    "esito": "ok: 6 proposti, 6 superano il controllo",
    "falliti": 0
   },
   "https://www.arena.it/teatro-filarmonico-verona/spettacoli": {
-   "ultima": "2026-11-10",
-   "eventi": 1,
-   "esito": "ok: 15 proposti, 1 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 4,
+   "esito": "ok: 7 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.bellaria-igea-marina.rn.it/it/events": {
-   "ultima": "2026-11-10",
-   "eventi": 6,
-   "esito": "ok: 6 proposti, 6 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 1,
-   "esito": "ok: 10 proposti, 1 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 8,
+   "esito": "ok: 9 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://comune.canegrate.mi.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 4,
-   "esito": "ok: 5 proposti, 4 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.brescia.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "ok: 10 proposti, 0 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.castelfidardo.an.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 3,
    "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
+  "https://www.comune.brescia.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.castelfidardo.an.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
   "https://www.comune.como.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.concesio.bs.it/it/events": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "ok: 4 proposti, 0 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.cortona.ar.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 2,
-   "esito": "ok: 7 proposti, 2 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.cusano-milanino.mi.it/agenda": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 2
   },
   "https://www.comune.ivrea.to.it/it/argomenti/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: HTTP 403",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.comune.merate.lc.it/vivere_il_comune/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.comune.mortara.pv.it/vivere_il_comune/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.comune.grezzana.vr.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.osiosotto.bg.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.pistoia.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 8,
-   "esito": "ok: 10 proposti, 8 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.grugliascooratorio.it/events": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
-  },
-  "https://comune.ravenna.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
-   "falliti": 0
-  },
-  "https://francavillafontana.comune.digital/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 6,
-   "esito": "ok: 6 proposti, 6 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.madrenapoli.it/mostre": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 2,
    "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
-  "https://lericicoast.it/evento": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
-  },
-  "https://www.maxxi.art/en/events": {
-   "ultima": "2026-11-10",
+  "https://www.grugliascooratorio.it/events": {
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
+  },
+  "https://comune.ravenna.it/vivere-il-comune/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://francavillafontana.comune.digital/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.madrenapoli.it/mostre": {
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 3 proposti, 2 superano il controllo",
+   "falliti": 0
+  },
+  "https://lericicoast.it/evento": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 9 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.maxxi.art/en/events": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 3
   },
   "https://miramare.cultura.gov.it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: fetch failed",
-   "falliti": 2
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "falliti": 0
   },
   "https://locri.comune.digital/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 9,
-   "esito": "ok: 9 proposti, 9 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 8,
+   "esito": "ok: 8 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://www.nuovaorchestrascarlatti.it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "falliti": 0
   },
   "https://www.teatrocasalmaggiore.it/it/calendario": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 8,
    "esito": "ok: 8 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://www.teatrodinapoli.it/stagione": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://touristofficeapp.com/it/caorle/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitmandello.it/en-us/vivi/appuntamenti": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.visitmoladibari.it/evento": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.teatromagnetto.it/event": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 7 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://barberinicorsini.org/evento": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "non letta: HTTP 404",
+   "falliti": 3
+  },
+  "https://cannetosabino.it/event": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 3
+  },
+  "https://cartellone.emiliaromagnacultura.it/it/evento": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "non letta: HTTP 404",
+   "falliti": 3
+  },
+  "https://www.alexala.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 7,
+   "esito": "ok: 7 proposti, 7 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.cittametropolitanaroma.it/events": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 3
+  },
+  "https://www.canellieventi.it/eventi": {
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
-  "https://www.teatromagnetto.it/event": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
-  },
-  "https://barberinicorsini.org/evento": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: HTTP 404",
-   "falliti": 2
-  },
-  "https://cannetosabino.it/event": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
-  },
-  "https://cartellone.emiliaromagnacultura.it/it/evento": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: HTTP 404",
-   "falliti": 2
-  },
-  "https://www.alexala.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
-  },
-  "https://www.cittametropolitanaroma.it/events": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
-  },
-  "https://www.canellieventi.it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 10,
-   "esito": "ok: 10 proposti, 10 superano il controllo",
-   "falliti": 0
-  },
   "https://www.comune.altavaltidone.pc.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 1,
    "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://colosseo.it/evento": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "non letta: fetch failed",
-   "falliti": 2
+   "ultima": "2026-11-12",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "falliti": 0
   },
   "https://www.comune.bagheria.pa.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 1,
-   "esito": "ok: 5 proposti, 1 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 1
   },
   "https://www.comune.bitonto.ba.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 0,
-   "esito": "ok: 3 proposti, 0 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.alzano.bg.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.bresso.mi.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.buccinasco.mi.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 7,
-   "esito": "ok: 7 proposti, 7 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.bustoarsizio.va.it/it/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
-   "falliti": 0
-  },
-  "https://comune.cameri.no.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.comune.cerreto-guidi.fi.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 1 proposti, 0 superano il controllo",
    "falliti": 0
   },
+  "https://www.comune.alzano.bg.it/vivere-il-comune/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.bresso.mi.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.buccinasco.mi.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.bustoarsizio.va.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 0,
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 1
+  },
+  "https://comune.cameri.no.it/vivere-il-comune/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 2 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.cerreto-guidi.fi.it/it/eventi": {
+   "ultima": "2026-11-12",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
   "https://www.comune.cuneo.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
-   "eventi": 6,
-   "esito": "ok: 7 proposti, 6 superano il controllo",
+   "ultima": "2026-11-12",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.firenze.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.comune.castelgoffredo.mn.it/it/events": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 6,
-   "esito": "ok: 7 proposti, 6 superano il controllo",
+   "esito": "ok: 6 proposti, 6 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.desio.mb.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
-   "esito": "ok: 7 proposti, 0 superano il controllo",
-   "falliti": 0
+   "esito": "errore: The operation was aborted due to timeout",
+   "falliti": 1
   },
   "https://www.comune.massalombarda.ra.it/Vivere-il-comune/Eventi": {
    "ultima": "2026-11-10",
@@ -1016,7 +1016,7 @@
    "falliti": 2
   },
   "https://comune.fiumicino.rm.it/it/eventi": {
-   "ultima": "2026-11-10",
+   "ultima": "2026-11-12",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
