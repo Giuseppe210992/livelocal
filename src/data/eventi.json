@@ -141096,5 +141096,134 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-12",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-san-francesco-di-stampace-pinacoteca-cagliari-2026-11-14-11",
+    "titolo": "Visita guidata al complesso di San Francesco di Stampace (ore 11)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T11:00",
+    "luogo": "Pinacoteca – Musei Nazionali di Cagliari",
+    "indirizzo": "Cittadella dei Musei, Piazza Arsenale, Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata speciale alle opere e alla storia del distrutto complesso di San Francesco di Stampace, da cui provengono molte pale d'altare della Pinacoteca. Per gli 800 anni dalla morte di San Francesco d'Assisi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkKlVeoUZD/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-san-francesco-di-stampace-pinacoteca-cagliari-2026-11-14-17",
+    "titolo": "Visita guidata al complesso di San Francesco di Stampace (ore 17)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T17:00",
+    "luogo": "Pinacoteca – Musei Nazionali di Cagliari",
+    "indirizzo": "Cittadella dei Musei, Piazza Arsenale, Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata speciale alle opere e alla storia del distrutto complesso di San Francesco di Stampace, da cui provengono molte pale d'altare della Pinacoteca. Per gli 800 anni dalla morte di San Francesco d'Assisi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkKlVeoUZD/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "notte-ai-musei-nazionali-cagliari-2026-11-13",
+    "titolo": "Notte ai Musei Nazionali di Cagliari",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-13T19:00",
+    "luogo": "Musei Nazionali di Cagliari",
+    "indirizzo": "Piazza Indipendenza e Cittadella dei Musei, Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura notturna del Museo archeologico e della Pinacoteca fino alle 23:00 (biglietteria fino alle 22:00). Dalle 19:00 visite all'Ex Regio Museo e alle Cannoniere cinquecentesche.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkTJiWDuxA/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-11-13T23:00"
+  },
+  {
+    "slug": "incontro-con-haile-gerima-mudec-milano-2026-11-15",
+    "titolo": "Incontro con Haile Gerima al MUDEC",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T10:30",
+    "luogo": "MUDEC – Museo delle Culture, Auditorium",
+    "indirizzo": "Via Tortona 56, Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione dei film «Asinara» e «NN – Non Noto» e dialogo con il regista Haile Gerima sul cinema come strumento di memoria. Prenotazione su Eventbrite.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "MUDEC – Museo delle Culture",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram MUDEC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkTWLEjAYc/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
   }
 ]
