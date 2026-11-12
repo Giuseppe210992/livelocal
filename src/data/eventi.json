@@ -138469,5 +138469,234 @@
     ],
     "inserito": "2026-11-12",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "14-mostra-dei-presepi-chiari",
+    "titolo": "14ª Mostra dei Presepi a Chiari",
+    "categoria": "mostra",
+    "inizio": "2026-12-13",
+    "luogo": "Villa Mazzotti",
+    "indirizzo": "Viale Mazzini 39, Chiari",
+    "cap": null,
+    "comune": "017052",
+    "frazione": null,
+    "lat": 45.53312,
+    "lon": 9.9182,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione domenica 13 dicembre alle 12:00. La mostra dei presepi è visitabile in diverse giornate fino al 10 gennaio 2027, secondo il calendario della locandina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Amatori Presepe",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfl9nfXFfA5/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2027-01-10"
+  },
+  {
+    "slug": "fiera-del-riuso-di-natale-castel-maggiore",
+    "titolo": "Fiera del Riuso di Natale a Castel Maggiore",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T10:00",
+    "luogo": "Piazza Pace",
+    "indirizzo": "Piazza Pace, Castel Maggiore",
+    "cap": null,
+    "comune": "037019",
+    "frazione": null,
+    "lat": 44.57173,
+    "lon": 11.3534,
+    "coordinateApprossimate": true,
+    "descrizione": "Spazi espositivi di oggetti usati, abbigliamento e piante, con laboratori creativi a tema natalizio, durante i mercatini di Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castel Maggiore con Pro Loco",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfl6g65AZ-b/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-12-13T16:00"
+  },
+  {
+    "slug": "cena-della-vacca-rossa-reggiana-guastalla",
+    "titolo": "Cena della Vacca Rossa Reggiana a Guastalla",
+    "categoria": "sagra",
+    "inizio": "2026-11-27T20:30",
+    "luogo": "PalaSurbir",
+    "indirizzo": "Piazza Mazzini, Guastalla",
+    "cap": null,
+    "comune": "035024",
+    "frazione": null,
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena dedicata alla Vacca Rossa Reggiana con tartare, maccheroni al ragù, costata e apertura di una forma di Parmigiano Reggiano di Vacche Rosse. Vino, acqua e caffè inclusi. Posti limitati, serve prenotare.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 55
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Guastalla",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfkbp35m_IQ/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tutti-zitti-osservatorio-fondazione-prada-milano",
+    "titolo": "Tutti zitti – Cyprien Gaillard all'Osservatorio Fondazione Prada",
+    "categoria": "mostra",
+    "inizio": "2026-12-03",
+    "luogo": "Osservatorio Fondazione Prada",
+    "indirizzo": "Galleria Vittorio Emanuele II, Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dell'artista Cyprien Gaillard sulla trasformazione degli spazi urbani, con un intervento del Teatro alla Scala fatto di oggetti di scena e frammenti di scenografie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Prada",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Prada",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkbEFvl_72/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2027-10-04"
+  },
+  {
+    "slug": "just-passing-through-mercato-del-suffragio-milano",
+    "titolo": "Just Passing Through al Mercato del Suffragio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:30",
+    "luogo": "Mercato del Suffragio",
+    "indirizzo": "Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento sull'ascolto e sul cinema nel palinsesto di BookCity Milano 2026. Info e prenotazioni tramite il profilo dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Terzo Paesaggio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Terzo Paesaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfka8-RkdFy/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "matrici-cinema-espanso-padiglione-chiaravalle-milano",
+    "titolo": "Matrici + Cinema espanso al Padiglione Chiaravalle",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T18:00",
+    "luogo": "Padiglione Chiaravalle",
+    "indirizzo": "Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro su cinema espanso e paesaggio nel palinsesto di BookCity Milano 2026. Info e prenotazioni tramite il profilo dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Terzo Paesaggio",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Terzo Paesaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfka8-RkdFy/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "fossili-marini-del-mugello-planetario-firenze",
+    "titolo": "Avventura nel tempo: i fossili e il libro «Fossili marini nel Mugello»",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:30",
+    "luogo": "Planetario – Fondazione Scienza e Tecnica",
+    "indirizzo": "Firenze",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.78013,
+    "lon": 11.24501,
+    "coordinateApprossimate": true,
+    "descrizione": "Lezione-gioco sulla paleontologia per ragazzi e genitori, seguita dalla presentazione del libro «Fossili marini nel Mugello». Prenotazione richiesta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Scienza e Tecnica",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Scienza e Tecnica",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkZsyniFst/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-11-14T17:00"
   }
 ]
