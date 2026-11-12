@@ -139409,5 +139409,103 @@
     ],
     "inserito": "2026-11-12",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "fuori-centro-mercato-primavalle-ii-roma-2026-11-12",
+    "titolo": "Fuori Centro al Mercato Primavalle II",
+    "categoria": "mercatino",
+    "inizio": "2026-11-12T09:30",
+    "luogo": "Mercato Primavalle II",
+    "indirizzo": "Via Pasquale II 24/32, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Due dimostrazioni dal vivo di saperi artigianali: dal latte alla cagliata e pasta all'uovo fatta a mano. Progetto Fuori Centro di Pecora Nera Editore, promosso da Roma Capitale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Capitale",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkVt2Vl23o/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-11-12T12:30"
+  },
+  {
+    "slug": "un-delizioso-pomeriggio-autunno-dipinge-capolavori-lainate",
+    "titolo": "Un delizioso pomeriggio: l'autunno dipinge capolavori",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T14:45",
+    "luogo": "Villa Visconti Borromeo Litta",
+    "indirizzo": "Lainate",
+    "cap": null,
+    "comune": "015116",
+    "frazione": null,
+    "lat": 45.56611,
+    "lon": 9.0257,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo laboratorio della stagione per bambini da 3 a 10 anni: opere d'arte con i colori delle foglie d'autunno. Ritrovo alle 14:30 al bookshop. Biglietto 10 € a bambino, un accompagnatore gratuito; prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Villa Litta Lainate",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Villa Litta Lainate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfjy6eYG2vW/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "premio-barumini-il-betilo-per-la-cultura-2026",
+    "titolo": "Premio Barumini – Il Betilo per la Cultura",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-13T10:00",
+    "luogo": "Centro Giovanni Lilliu",
+    "indirizzo": "Barumini",
+    "cap": null,
+    "comune": "117002",
+    "frazione": null,
+    "lat": 39.69361,
+    "lon": 9.01712,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di assegnazione del premio a personalità che valorizzano il patrimonio culturale, con intermezzo musicale del maestro di launeddas Luigi Lai.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Barumini",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Barumini",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkOfN2oPwD/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
   }
 ]
