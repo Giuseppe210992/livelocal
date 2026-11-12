@@ -142878,5 +142878,166 @@
     ],
     "inserito": "2026-11-12",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "pomeriggio-di-libri-e-storie-a-polcanto-borgo-san-lorenzo-2026-11-14",
+    "titolo": "Un pomeriggio tra libri e storie a Polcanto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:00",
+    "luogo": "Associazione Ellera",
+    "indirizzo": "Via San Donato 6, Polcanto, Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Alle 16 inaugurazione di un punto di libro-scambio in via San Donato; alle 16:30 incontro con Alberto Balloni, autore del giallo «Voci», e merenda per tutti. Ingresso libero e senza prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ellera",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgo San Lorenzo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkAnr5sdNg/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sfortunatamente-fortunatamente-lettura-laboratorio-castello-galliate-2026-11-14",
+    "titolo": "Sfortunatamente, fortunatamente – lettura e laboratorio al Castello di Galliate",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:30",
+    "luogo": "Castello di Galliate",
+    "indirizzo": "Castello di Galliate",
+    "cap": null,
+    "comune": "003068",
+    "frazione": null,
+    "lat": 45.48527,
+    "lon": 8.71211,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura e laboratorio per bambini nella giornata di attività di Avventure di Carta. Prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avventure di Carta – Biblioteca di Galliate",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Avventure di Carta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkQrxtM-dt/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-animata-pulcinella-nel-mediterraneo-castello-galliate-2026-11-14",
+    "titolo": "Visita animata alla mostra «Pulcinella nel Mediterraneo» al Castello di Galliate",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T15:00",
+    "luogo": "Castello di Galliate, Sale Sud",
+    "indirizzo": "Castello di Galliate",
+    "cap": null,
+    "comune": "003068",
+    "frazione": null,
+    "lat": 45.48527,
+    "lon": 8.71211,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita animata alla mostra, nella giornata di attività di Avventure di Carta. Prenotazione consigliata. Le mostre delle Sale Sud sono aperte 10–12:30 e 15–18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avventure di Carta – Biblioteca di Galliate",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Avventure di Carta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkQrxtM-dt/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "circo-barnum-il-musical-teatro-ruggeri-guastalla-2026-11-14",
+    "titolo": "Circo Barnum – il musical al Teatro Ruggeri",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "luogo": "Teatro Ruggeri",
+    "indirizzo": "Guastalla",
+    "cap": null,
+    "comune": "035024",
+    "frazione": null,
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical ispirato alla vita di P. T. Barnum, con musica e cori dal vivo, danza e coreografie. Biglietti: platea e I–II ordine 25/20 €, III ordine 20/15 €; prevendite su Vivaticket.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Guastalla",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfj-PD8m0LG/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "entre-rosas-el-yiyo-teatro-lirico-magenta-2026-11-27",
+    "titolo": "Entre Rosas – El Yiyo al Teatro Lirico",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "luogo": "Teatro Lirico di Magenta",
+    "indirizzo": "Magenta",
+    "cap": null,
+    "comune": "015130",
+    "frazione": null,
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima assoluta del nuovo spettacolo di flamenco contemporaneo di El Yiyo, con alcuni dei migliori artisti della scena spagnola. Ingresso gratuito fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Flamenco Preziosi e Comune di Magenta",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfkSDaDNm-k/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
   }
 ]
