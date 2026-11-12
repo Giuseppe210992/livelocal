@@ -137208,5 +137208,135 @@
     ],
     "inserito": "2026-11-12",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "scritti-dalla-citta-mondo-bookcity-mudec-milano-2026-11-25",
+    "titolo": "«Scritti dalla Città Mondo» al MUDEC (BookCity Milano)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "luogo": "Spazio delle Culture «Khaled al-Asaad», MUDEC",
+    "indirizzo": "Via Tortona 56, Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.4524,
+    "lon": 9.1625,
+    "coordinateApprossimate": true,
+    "descrizione": "Primi appuntamenti della rassegna del MUDEC in occasione di BookCity Milano, con associazioni e comunità diasporiche: incontri, presentazioni letterarie e reading. Tutti a ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MUDEC - Museo delle Culture",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram MUDEC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmnraQjOpC/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-11-26"
+  },
+  {
+    "slug": "arteintorre-dieci-anni-una-vita-gabriella-lo-cascio-castelnuovo-rangone-2026-11-13",
+    "titolo": "Arteintorre: «Dieci anni, una vita» di Gabriella Lo Cascio",
+    "categoria": "mostra",
+    "inizio": "2026-11-13",
+    "luogo": "Sala del Torrione",
+    "indirizzo": "Via Matteotti, Castelnuovo Rangone",
+    "cap": null,
+    "comune": "036007",
+    "frazione": null,
+    "lat": 44.553,
+    "lon": 10.955,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di disegni e dipinti di Gabriella Lo Cascio nella rassegna Arteintorre. Ingresso libero negli orari indicati nella locandina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castelnuovo Rangone",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castelnuovo Rangone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmfLj4OPvV/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15"
+  },
+  {
+    "slug": "premio-internazionale-oscar-wilde-cerimonia-castiglion-fiorentino-2026-11-14",
+    "titolo": "Premio Internazionale Oscar Wilde: cerimonia di premiazione",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T15:30",
+    "luogo": "Chiesa di Sant'Agostino",
+    "indirizzo": "Castiglion Fiorentino",
+    "cap": null,
+    "comune": "051012",
+    "frazione": null,
+    "lat": 43.341,
+    "lon": 11.921,
+    "coordinateApprossimate": true,
+    "descrizione": "La cerimonia di premiazione del Premio Internazionale Oscar Wilde si tiene a Castiglion Fiorentino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castiglion Fiorentino",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castiglion Fiorentino",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfmmc9Njb3-/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "anime-artiche-valentina-tamborra-isola-di-man-nuoro-2026-11-18",
+    "titolo": "«Anime artiche. Una trilogia»: presentazione del fotolibro di Valentina Tamborra",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T18:30",
+    "luogo": "Isola di MAN",
+    "indirizzo": "Corso Garibaldi 82, Nuoro",
+    "cap": null,
+    "comune": "114027",
+    "frazione": null,
+    "lat": 40.3214,
+    "lon": 9.3305,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione dell'ultimo fotolibro della fotografa e giornalista Valentina Tamborra: dalle Svalbard alle Lofoten al Finnmark, il racconto di come il cambiamento climatico incide sul lavoro e sulle abitudini oltre il Circolo polare artico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "MAN - Museo d'arte della provincia di Nuoro",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram MAN Nuoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmdTCdoz66/",
+        "consultata": "2026-11-12"
+      }
+    ],
+    "inserito": "2026-11-12",
+    "inseritoDa": "ia"
   }
 ]
