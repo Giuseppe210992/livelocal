@@ -197,7 +197,7 @@ const progresso = existsSync(fileProgresso) ? JSON.parse(readFileSync(fileProgre
 const filePagine = 'ricerca/comuni-pagine.json'; // per ogni comune: pagina «Eventi» trovata e impronta del suo contenuto all'ultimo controllo
 const paginComuni = existsSync(filePagine) ? JSON.parse(readFileSync(filePagine, 'utf8')) : {};
 const modalitaComuni = args.includes('--comuni');
-const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 160);
+const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 240);
 
 const slugComune = (c) => c.slug;
 function indirizziComune(c, sigla) {
@@ -246,20 +246,49 @@ async function sitiDaWikidata() {
   }
 }
 
+// Abitanti di ogni comune (dataset pubblico matteocontrini/comuni-json, dati ISTAT): scaricato una volta e salvato in ricerca/comuni-abitanti.json.
+const fileAbitanti = 'ricerca/comuni-abitanti.json';
+async function abitantiComuni() {
+  if (existsSync(fileAbitanti)) return JSON.parse(readFileSync(fileAbitanti, 'utf8'));
+  for (const ramo of ['master', 'main']) {
+    try {
+      const r = await fetch(`https://raw.githubusercontent.com/matteocontrini/comuni-json/${ramo}/comuni.json`, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(60000) });
+      if (!r.ok) continue;
+      const out = {};
+      for (const c of await r.json()) if (c.codice && Number.isFinite(c.popolazione)) out[String(c.codice).padStart(6, '0')] = c.popolazione;
+      if (Object.keys(out).length < 5000) continue;
+      writeFileSync(fileAbitanti, JSON.stringify(out) + '\n');
+      console.log(`Abitanti dei comuni scaricati: ${Object.keys(out).length} comuni.`);
+      return out;
+    } catch { /* si prova l'altro ramo */ }
+  }
+  console.log('Abitanti dei comuni non disponibili: si lavora solo sui comuni da 10.000 abitanti.');
+  return {};
+}
+
 async function preparaComuni(quanti) {
   const sitiWikidata = await sitiDaWikidata();
   const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
   const province = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
   const grandi = new Set(JSON.parse(readFileSync('ricerca/comuni-grandi.json', 'utf8')).comuni.map((c) => c.codice));
-  // Coda: prima i comuni mai controllati (in ordine alfabetico), poi quelli controllati da più tempo.
-  // Si ricontrolla ogni comune una volta al giorno; quelli illeggibili solo ogni 7 giorni.
+  // Due fasce: comuni da 10.000 abitanti in su (ricontrollo ogni giorno) e da 5.000 a 9.999 (ogni 3 giorni).
+  // Quelli con sito illeggibile si riprovano ogni 7 giorni. Metà del giro va alla prima fascia e metà alla seconda;
+  // dentro ogni fascia prima i comuni mai controllati, poi quelli controllati da più tempo.
+  const abitanti = await abitantiComuni();
   const giorniDa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
-  const dovuto = (c) => { const p = progresso.fatti[c.codiceIstat]; if (!p) return true; if (String(p.data) >= OGGI) return false; return p.esito === 'fonti-illeggibili' ? giorniDa(p.data) >= 7 : true; };
-  const coda = territorio.comuni.filter((c) => grandi.has(c.codiceIstat) && dovuto(c))
-    .sort((a, b) => {
-      const pa = progresso.fatti[a.codiceIstat], pb = progresso.fatti[b.codiceIstat];
-      return Number(!!pa) - Number(!!pb) || String(pa?.data ?? '').localeCompare(String(pb?.data ?? '')) || a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat);
-    }).slice(0, quanti);
+  const dovuto = (c, giorni) => { const p = progresso.fatti[c.codiceIstat]; if (!p) return true; if (String(p.data) >= OGGI) return false; return giorniDa(p.data) >= (p.esito === 'fonti-illeggibili' ? 7 : giorni); };
+  const ordine = (a, b) => {
+    const pa = progresso.fatti[a.codiceIstat], pb = progresso.fatti[b.codiceIstat];
+    return Number(!!pa) - Number(!!pb) || String(pa?.data ?? '').localeCompare(String(pb?.data ?? '')) || a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat);
+  };
+  const duGrandi = territorio.comuni.filter((c) => grandi.has(c.codiceIstat) && dovuto(c, 1)).sort(ordine);
+  const duMedi = territorio.comuni.filter((c) => !grandi.has(c.codiceIstat) && (abitanti[c.codiceIstat] ?? 0) >= 5000 && dovuto(c, 3)).sort(ordine);
+  const meta = Math.ceil(quanti / 2);
+  let dallaPrima = duGrandi.slice(0, Math.max(meta, quanti - duMedi.length));
+  const dallaSeconda = duMedi.slice(0, quanti - dallaPrima.length);
+  dallaPrima = duGrandi.slice(0, quanti - dallaSeconda.length);
+  const coda = [...dallaPrima, ...dallaSeconda];
+  console.log(`Coda del giro: ${dallaPrima.length} comuni da 10.000+ abitanti (${duGrandi.length} da controllare), ${dallaSeconda.length} da 5.000 a 9.999 (${duMedi.length} da controllare).`);
   const out = [];
   let i = 0;
   async function cerca() {
@@ -276,7 +305,7 @@ async function preparaComuni(quanti) {
         const s = await scarica(ind);
         if (!s.errore && s.html.length > 500) { sito = s.urlFinale; html = s.html; break; }
       }
-      if (!sito) { progresso.fatti[c.codiceIstat] = { data: OGGI, esito: 'fonti-illeggibili', eventi: 0 }; console.log(`  --  ${c.nome} (${sigla}): sito del Comune non trovato`); continue; }
+      if (!sito) { progresso.fatti[c.codiceIstat] = { data: OGGI, esito: 'fonti-illeggibili', eventi: 0, motivo: 'sito non trovato' }; console.log(`  --  ${c.nome} (${sigla}): sito del Comune non trovato`); continue; }
       const pagina = trovaPaginaEventi(html, sito) ?? normUrl(sito);
       out.push({ url: pagina, nome: `Comune di ${c.nome}`, tipo: 'ufficiale', dettagli: true, codiceComune: c.codiceIstat, hint: `Comune di riferimento: ${c.nome} (${sigla}). Gli eventi che si svolgono in questo Comune vanno scritti con comune: ${c.nome} e provincia: ${sigla}.` });
       await pausa(500);
@@ -324,7 +353,7 @@ async function lavora(fonte) {
     if (fonte.codiceComune) {
       const letto = riga.esito.startsWith('ok');
       if (riga.esito === 'invariata') progresso.fatti[fonte.codiceComune] = { ...(progresso.fatti[fonte.codiceComune] ?? { esito: 'nessun-evento', eventi: 0 }), data: OGGI };
-      else progresso.fatti[fonte.codiceComune] = { data: OGGI, esito: !letto ? 'fonti-illeggibili' : nuovi.length ? 'eventi' : 'nessun-evento', eventi: nuovi.length };
+      else progresso.fatti[fonte.codiceComune] = { data: OGGI, esito: !letto ? 'fonti-illeggibili' : nuovi.length ? 'eventi' : 'nessun-evento', eventi: nuovi.length, ...(letto ? {} : { motivo: riga.esito.slice(0, 50) }) };
     }
     return { righe, nuovi };
   };

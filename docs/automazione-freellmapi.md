@@ -53,3 +53,11 @@ Dopo il primo giro su tutti i 1.188 comuni, la stessa Action li **ricontrolla og
 - se è cambiata, la rilegge con FreeLLMAPI; gli eventi già presenti vengono scartati come doppioni, quelli nuovi entrano se superano i controlli;
 - il riepilogo di ogni giro dice quante pagine erano invariate.
 Limite: un evento già presente che cambia data o viene annullato non si aggiorna da solo: viene aggiunto come evento nuovo (la vecchia scheda resta).
+
+## Seconda fascia: comuni da 5.000 a 9.999 abitanti (dal 13/11/2026)
+
+La stessa Action (`estrai-comuni.yml`) tratta ora due fasce di comuni, con 240 comuni per giro (ogni 3 ore):
+- **da 10.000 abitanti in su** (1.188 comuni): ricontrollo ogni giorno;
+- **da 5.000 a 9.999 abitanti** (circa 1.300): prima passata completa, poi ricontrollo ogni 3 giorni;
+- i comuni con sito illeggibile si riprovano ogni 7 giorni, qualunque sia la fascia.
+Metà di ogni giro va alla prima fascia e metà alla seconda; dentro ogni fascia vengono prima i comuni mai controllati, poi quelli controllati da più tempo. Gli abitanti vengono da un dataset pubblico ISTAT (`matteocontrini/comuni-json`), scaricato una volta e salvato in `ricerca/comuni-abitanti.json`. Per ogni comune illeggibile ora si salva il **motivo** (`sito non trovato`, `pagina vuota`, errore HTTP) in `ricerca/comuni-progresso.json`, per capire come migliorare.

@@ -1,4 +1,4 @@
-# Cerca gli eventi dei comuni da 10.000 abitanti non ancora fatti, con un modello gratuito (FreeLLMAPI), senza passare da Claude.
+# Cerca e ricontrolla gli eventi dei comuni da 5.000 abitanti in su, con un modello gratuito (FreeLLMAPI), senza passare da Claude.
 # Per ogni comune: trova il sito del Comune, la sua pagina «Eventi», legge le schede e importa gli eventi che superano i controlli.
 # Gira ogni 3 ore e a mano da Actions → «Estrai eventi dei comuni con FreeLLMAPI» → Run workflow.
 # Segreto necessario: FREELLMAPI_KEY (lo stesso dell'altra Action). Il segnalibro è ricerca/comuni-progresso.json.
@@ -15,7 +15,7 @@ on:
         default: false
       quanti:
         description: 'Quanti comuni in questo giro'
-        default: '160'
+        default: '240'
 
 permissions:
   contents: write
@@ -40,7 +40,7 @@ jobs:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
-          COMUNI_PER_GIRO: ${{ inputs.quanti || '160' }}
+          COMUNI_PER_GIRO: ${{ inputs.quanti || '240' }}
           BUDGET_MINUTI: '100'
           CONCORRENZA: '3'
           TZ: Europe/Rome
@@ -60,13 +60,13 @@ jobs:
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
-          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/comuni-siti.json
+          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/comuni-siti.json ricerca/comuni-abitanti.json
           if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
           git commit -m "Estrazione automatica dei comuni (FreeLLMAPI): $(date +%F-%H%M)"
           for i in 1 2 3 4; do
             if ! git pull --rebase origin main; then
               if node scripts/risolvi-conflitto-eventi.mjs; then
-                git add src/data/eventi.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/automazione-stato.json
+                git add src/data/eventi.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/comuni-abitanti.json ricerca/automazione-stato.json
                 GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
               else
                 git rebase --abort; sleep $((i * 5)); continue
