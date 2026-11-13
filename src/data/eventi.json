@@ -159024,5 +159024,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-pleiadi-expa-2026-san-pietro-monterosso-grana-2026-11-21",
+    "titolo": "Le Pleiadi e il cielo buio della Valle Grana",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T21:00",
+    "luogo": "San Pietro, opera di land art «Vai Saber»",
+    "indirizzo": "San Pietro di Monterosso Grana",
+    "comune": "004139",
+    "lat": 44.38722,
+    "lon": 7.30252,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo appuntamento della rassegna EXPA 2026: l’astronomo Alberto Cora dell’INAF guida la serata alle Pleiadi, a partire dall’opera di land art «Vai Saber» nei boschi, e all’osservazione del cielo stellato. Alle 19 si può cenare in zona con menù convenzionato. Partecipazione gratuita con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Ecomuseo Terra del Castelmagno",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Ecomuseo Terra del Castelmagno",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfm7DRvlC-4/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "enzo-favata-quartetto-atlantico-teatro-massimo-cagliari-2026-11-13",
+    "titolo": "Enzo Favata e il Quartetto Atlantico",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "luogo": "Teatro Massimo, Sala M2",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Reunion del Quartetto Atlantico di Enzo Favata a oltre 25 anni dal disco «Atlantico», con il nuovo album «Ritornare» uscito per ECM. Appuntamento della rassegna Medinsard.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Massimo di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Massimo Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfmpVKKjQwC/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
