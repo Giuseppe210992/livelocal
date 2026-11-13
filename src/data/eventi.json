@@ -150090,5 +150090,71 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "patrizia-santangeli-forza-e-visioni-cambellotti-latina-2026-11-15",
+    "titolo": "Patrizia Santangeli – «Forza e visioni, 150 anni di Cambellotti»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T16:00",
+    "luogo": "Museo Cambellotti",
+    "indirizzo": "Piazza San Marco 1, Latina",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna per i 150 anni dalla nascita di Duilio Cambellotti: la scrittrice e documentarista Patrizia Santangeli dialoga con Maria Teresa Accatino (Italia Nostra) e la filmmaker Carolina Pernigotti. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Latina",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Comune di Latina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.latina.it/eventi/Patrizia-Santangeli-Forza-e-visioni--150-anni-di-Cambellotti0.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T18:00"
+  },
+  {
+    "slug": "gastronomica-festival-del-gusto-terracina-2026",
+    "titolo": "Gastronomica – Festival del Gusto 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-06",
+    "luogo": "Terracina e comuni della DMO dai Monti Lepini al Mare",
+    "indirizzo": "Terracina",
+    "cap": null,
+    "comune": "059032",
+    "frazione": null,
+    "lat": 41.3158,
+    "lon": 13.19096,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione del festival «il cibo che unisce»: più di 50 appuntamenti tra talk, cene, degustazioni, laboratori, spettacoli e visite ai produttori in 14 paesi. Nelle domeniche 15, 22 e 29 novembre e 6 dicembre i ristoranti propongono «il Pranzo della domenica». Programma e prenotazioni su festivalgastronomica.it.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ristoratori Terracina a Tavola",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "VisitLazio",
+        "tipo": "ufficiale",
+        "url": "https://www.visitlazio.com/eventi-lazio/gastronomica-festival-del-gusto-il-cibo-che-unisce/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-12-08"
   }
 ]
