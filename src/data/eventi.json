@@ -163920,5 +163920,61 @@
     ],
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "lettura-in-pigiama-biblioteca-bussolengo-2026-11-20",
+    "titolo": "Lettura di gruppo in pigiama",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T20:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Bussolengo",
+    "comune": "023015",
+    "lat": 45.46632,
+    "lon": 10.84599,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di letture del gruppo di volontari Nati per Leggere, dedicata ai bambini da 2 a 5 anni e alle loro famiglie, da vivere in pigiama. Gratuita, prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Nati per Leggere Bussolengo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bussolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrhZkqGcjJ/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inaugurazione-pannelli-40-anni-salvaterra-parco-del-liofante-casalgrande-2026-11-15",
+    "titolo": "Inaugurazione dei pannelli «40 anni di storia e impegno per Salvaterra»",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-15T11:30",
+    "luogo": "Parco del Liofante",
+    "indirizzo": "Salvaterra, Casalgrande",
+    "comune": "035012",
+    "lat": 44.58906,
+    "lon": 10.75273,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione dei pannelli che raccontano quarant’anni di storia e impegno della comunità di Salvaterra, nel parco del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Casalgrande",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Casalgrande",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrUAi9DEeO/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
