@@ -156143,5 +156143,2886 @@
     ],
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "romeo-e-giulietta-aosta",
+    "titolo": "Romeo e Giulietta",
+    "categoria": "teatro",
+    "inizio": "2026-12-21T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione del celebre balletto narrativo del Novecento, caratterizzato da una forte intensità drammatica e dalla profonda analisi psicologica dei personaggi protagonisti della tragica storia d'amore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/danza",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rosencrantz-e-guildenstern-sono-morti-aosta-09-12",
+    "titolo": "Rosencrantz e Guildenstern sono morti",
+    "categoria": "teatro",
+    "inizio": "2026-12-09T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Classico del teatro di Tom Stoppard, rappresentato in tutto il mondo da oltre sessant'anni, che rilegge la vicenda dei due personaggi shakespeariani in una prospettiva originale e amata dal pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page5",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-viaggio-nell-oscurita-del-controllo-mentale-aosta",
+    "titolo": "Un viaggio nell'oscurità del controllo mentale",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11T18:00",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Stefano Nazzi dedicato al tema delle sette e della manipolazione. L'autore presenta il suo lavoro 'Profeti del buio', un viaggio attraverso diciassette storie reali per indagare il confine tra fede, comunità e controllo mentale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page5",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tamtando-mazi-heterophonia-aosta",
+    "titolo": "Tamtando & Mazì - Heterophonia",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto basato sulla tecnica musicale dell'eterofonia, in cui diversi strumenti eseguono la medesima melodia arricchendola con leggere variazioni simultanee.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page6",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gaber-mi-fa-male-il-mondo-aosta-17-12",
+    "titolo": "Gaber - Mi fa male il mondo",
+    "categoria": "teatro",
+    "inizio": "2026-12-17T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con Neri Marcorè dedicato al teatro canzone di Giorgio Gaber e Sandro Luporini. Un'esplorazione dell'universo creativo, etico e letterario dei due autori attraverso le loro opere più significative.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page6",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-natale-adro",
+    "titolo": "Laboratorio di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Tulio Dandolo, Adro, BS",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio a tema natalizio con letture di storie e decorazione dell'albero guidati da Ishi Decorazione, rivolto ai bambini di 4-7 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/laboratorio-di-natale",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-prezzo-dell-amore-adro",
+    "titolo": "Il Prezzo dell'Amore",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T20:30",
+    "fine": null,
+    "luogo": "Palazzo Bargnani-Dandolo",
+    "indirizzo": "Via Tullio Dandolo, Adro, BS",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto nelle sale di Palazzo Dandolo dedicato alla bellezza e forza delle donne, realizzato da Sara con l'Orchestra Madonna della Neve per contrastare la violenza di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Adro",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/il-prezzo-dellamore",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-di-santa-cecilia-2026-adro",
+    "titolo": "Festa di Santa Cecilia 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Bar della Musica",
+    "indirizzo": "Via Lazzaretto, Adro, BS",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa dedicata a Santa Cecilia con ritrovo all'auditorium, corteo per le vie del centro, Santa Messa, aperitivo e pranzo all'agriturismo Bertola di Torbiato, organizzato dal Corpo Bandistico Puccini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 45
+    },
+    "prenotazione": null,
+    "organizzatore": "Corpo Bandistico Giacomo Puccini",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/festa-di-santa-cecilia-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-del-sabato-adro",
+    "titolo": "Letture del Sabato",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Tulio Dandolo, Adro, BS",
+    "cap": null,
+    "comune": "017002",
+    "frazione": null,
+    "lat": 45.62003,
+    "lon": 9.96562,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento con storie e avventure tra animali, con lettura, ascolto e piccolo laboratorio zoologico per bambini di 3-7 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/letture-del-sabato-7",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trail-della-scala-erbusco",
+    "titolo": "Trail della Scala",
+    "categoria": "sport",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Oratorio di Villa Pedergnano",
+    "indirizzo": "Via San Giorgio, Villa Pedergnano, BS",
+    "cap": null,
+    "comune": "017069",
+    "frazione": null,
+    "lat": 45.59424,
+    "lon": 9.96767,
+    "coordinateApprossimate": true,
+    "descrizione": "Gara di trail running con percorsi tecnico-avvincenti sul Monte Alto: Trail Competitivo 24 km, Short Trail 14 km e versione non competitiva. Patrocinato dall'Amministrazione di Adro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Adro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.adro.bs.it/vivere-il-comune/eventi/trail-della-scala-0",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "che-storia-voce-e-trame-al-profumo-di-libri-castellarano",
+    "titolo": "Che Storia! - Voce e trame al profumo di Libri",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T16:30",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Biblioteca comunale Alma ed Emma Chiavelli",
+    "indirizzo": "Via Roma, 56, 42014 Castellarano RE, Italia",
+    "cap": null,
+    "comune": "035014",
+    "frazione": null,
+    "lat": 44.523,
+    "lon": 10.70193,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per ragazzi dagli 8 agli 11 anni, proposto da Marco Bertarini / Marconastitorie, dedicato alla magia delle storie e al piacere della lettura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castellarano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellarano.re.it/it/eventi/che-storia-voce-e-trame-al-profumo-di-libri",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "libri-friends-castellarano",
+    "titolo": "Libri & Friends",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T20:30",
+    "fine": "2026-11-17T22:30",
+    "luogo": "Biblioteca comunale Alma ed Emma Chiavelli",
+    "indirizzo": "Via Roma, 56, 42014 Castellarano RE, Italia",
+    "cap": null,
+    "comune": "035014",
+    "frazione": null,
+    "lat": 44.523,
+    "lon": 10.70193,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza con Federica Scaltriti per consigli di lettura e suggerimenti su quali libri regalare, destinata a un pubblico adulto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castellarano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellarano.re.it/it/eventi/cento-anni-di-grazia-2519350",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "antichi-mestieri-nel-nuovo-millennio-caravaggio",
+    "titolo": "Antichi Mestieri Nel Nuovo Millennio",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T17:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Centro Civico di San Bernardino",
+    "indirizzo": "Viale Giovanni XXIII, 17, 24043 Caravaggio BG",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica inaugurata dal Circolo Fotografico Il Caravaggio con il patrocinio del Comune, dedicata alla rappresentazione di antichi mestieri ripensati nel contesto contemporaneo. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Fotografico Il Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/antichi-mestieri-nel-nuovo-millennio",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "e-tu-ti-senti-al-sicuro-caravaggio",
+    "titolo": "E Tu Ti Senti al Sicuro?",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-25T09:00",
+    "fine": "2026-11-25T12:00",
+    "luogo": "Largo Pittori Cavenaghi",
+    "indirizzo": "Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata internazionale per l'eliminazione della violenza contro le donne, organizzata dalla Croce Rossa Italiana Comitato di Caravaggio con il patrocinio del Comune. Iniziativa aperta a tutti con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Croce Rossa Italiana comitato di Caravaggio",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/e-tu-ti-senti-al-sicuro",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornate-della-prevenzione-screening-dermatologico-gratuito-posti-esau-olgiate-olona",
+    "titolo": "Giornate della Prevenzione: screening dermatologico gratuito - POSTI ESAURITI",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T08:30",
+    "fine": "2026-11-15T12:30",
+    "luogo": "Sala Polifunzionale Gregorio Palma",
+    "indirizzo": "Via Luigia Greppi, 9, 21057 Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Screening dermatologico gratuito per la diagnosi precoce dei tumori della pelle, organizzato dal Comune in collaborazione con AIDO, su prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona, in collaborazione con AIDO",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi/3656736/giornate-prevenzione-screening-dermatologico",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "funtastic-christmas-park-il-villaggio-di-natale-arriva-a-olgiate-olona-olgiate-olona",
+    "titolo": "Funtastic! Christmas Park: il villaggio di Natale arriva a Olgiate Olona",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2027-01-10T20:00",
+    "luogo": "Idea Village",
+    "indirizzo": "Via S. Francesco d'Assisi 19/21, Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Villaggio natalizio con attrazioni, giostre, pista di pattinaggio, spettacoli dal vivo e incontro con Babbo Natale, aperto nei weekend fino al 20 dicembre e tutti i giorni dopo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi/3677582/funtastic-christmas-park-arriva-olgiate-olona",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "castello-di-parole-la-rassegna-di-riomaggiore-riomaggiore",
+    "titolo": "Castello di Parole la rassegna di Riomaggiore",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "fine": null,
+    "luogo": "Castello di Riomaggiore",
+    "indirizzo": "Riomaggiore",
+    "cap": null,
+    "comune": "011024",
+    "frazione": null,
+    "lat": 44.10713,
+    "lon": 9.74486,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna culturale che intreccia letteratura, attualità e politica. L'incontro prevede una conversazione con l'economista Elsa Fornero e l'editorialista Giuliano Guida Bardi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/castello-di-parole-riomaggiore",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xviii-trofeo-zita-peratti-special-olympics-genova",
+    "titolo": "XVIII Trofeo Zita Peratti Special Olympics",
+    "categoria": "sport",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-22",
+    "luogo": "Genova",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate dedicate alla ginnastica artistica e ritmica che vedono la partecipazione di atleti provenienti da tutta Italia e da diversi Paesi europei, promuovendo l'inclusione sociale attraverso lo sport.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/trofeo-zita-peratti-special-olympics",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tombolata-di-auguri-in-franciacorta-cazzago-san-martino",
+    "titolo": "Tombolata di auguri in Franciacorta",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-29",
+    "fine": null,
+    "luogo": "Franciacorta",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Tombolata di auguri organizzata dalla PROLOCO comunale di Cazzago San Martino per celebrare le festività natalizie in compagnia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "PROLOCO comunale di Cazzago San Martino",
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "80-anniversario-del-circolo-acli-cazzago-san-martino",
+    "titolo": "80° anniversario del Circolo ACLI",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione dell'ottantesimo anniversario del Circolo ACLI di Cazzago San Martino, con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo ACLI di Cazzago San Martino",
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "80-anniversario-del-circolo-acli-cazzago-san-martino-20-11",
+    "titolo": "80° anniversario del Circolo ACLI",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Cazzago San Martino, Cazzago San Martino, 20/11. Celebrazione dell'ottantesimo anniversario del Circolo ACLI di Cazzago San Martino, con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo ACLI di Cazzago San Martino",
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-cinematografica-mercoledi-d-autore-cazzago-san-martino",
+    "titolo": "Rassegna cinematografica: mercoledì d'autore",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Martin Eden nell'ambito della rassegna cinematografica mercoledì d'autore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cerimonia-di-consegna-della-costituzione-italiana-ai-giovani-classe-20-cazzago-san-martino",
+    "titolo": "Cerimonia di consegna della Costituzione italiana ai giovani classe 2008",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-17",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia istituzionale dedicata alla consegna della Costituzione italiana ai giovani nati nel 2008.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "decolonizzare-la-mente-cazzago-san-martino",
+    "titolo": "Decolonizzare la mente",
+    "categoria": "teatro",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura teatrale a cura di Alice e Santino Modonesi, organizzata nell'ambito delle attività associative.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "antichi-grani-futuri-pani-un-alimento-che-ha-fatto-civilta-codogno",
+    "titolo": "Antichi grani – Futuri pani: un alimento che ha fatto civiltà",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13",
+    "fine": null,
+    "luogo": "Codogno",
+    "indirizzo": "Codogno",
+    "cap": null,
+    "comune": "098019",
+    "frazione": null,
+    "lat": 45.16748,
+    "lon": 9.69535,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno dedicato al tema dei cereali e dell'alimentazione come elemento fondamentale della civiltà.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Codogno, pagina Il racconto del sabato",
+        "tipo": "ufficiale",
+        "url": "https://comune.codogno.lo.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "premiazione-concorso-lorenzo-vecchiato-ii-edizione-ragusa",
+    "titolo": "Premiazione Concorso Lorenzo Vecchiato - II edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T18:30",
+    "fine": "2026-11-14T20:00",
+    "luogo": "Centro Commerciale Culturale \"Mimì Arezzo\"",
+    "indirizzo": "Via Giacomo Matteotti, 61, 97100 Ragusa RG, Italia",
+    "cap": null,
+    "comune": "088009",
+    "frazione": null,
+    "lat": 36.90686,
+    "lon": 14.66391,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione del concorso letterario nazionale con la presentazione della raccolta dei migliori dieci racconti. L'evento vede la partecipazione della scrittrice Veronica Galletta e l'accompagnamento musicale di Vincent Migliorisi e Gianni Guastella.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ragusa",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ragusa.it/it/eventi/premiazione-concorso-lorenzo-vecchiato-ii-edizione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperture-straordinarie-del-parco-archeologico-della-villa-di-domiziano-sabaudia-26-11",
+    "titolo": "Aperture straordinarie del Parco archeologico della Villa di Domiziano",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-26T10:00",
+    "fine": null,
+    "luogo": "Parco archeologico della Villa di Domiziano",
+    "indirizzo": "Sabaudia",
+    "cap": null,
+    "comune": "059024",
+    "frazione": null,
+    "lat": 41.34343,
+    "lon": 13.03052,
+    "coordinateApprossimate": true,
+    "descrizione": "Aperture straordinarie con visita accompagnata del Parco archeologico della Villa di Domiziano. L'evento si svolge in un unico turno di visita, previa prenotazione obbligatoria via email.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Direzione regionale Musei nazionali Lazio",
+        "tipo": "ufficiale",
+        "url": "https://direzioneregionalemuseilazio.cultura.gov.it/eventi/7688",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperture-straordinarie-del-parco-archeologico-della-villa-di-domiziano-sabaudia-06-12",
+    "titolo": "Aperture straordinarie del Parco archeologico della Villa di Domiziano",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-06T10:00",
+    "fine": null,
+    "luogo": "Parco archeologico della Villa di Domiziano",
+    "indirizzo": "Sabaudia",
+    "cap": null,
+    "comune": "059024",
+    "frazione": null,
+    "lat": 41.34343,
+    "lon": 13.03052,
+    "coordinateApprossimate": true,
+    "descrizione": "Parco archeologico della Villa di Domiziano, Sabaudia, 06/12. Aperture straordinarie con visita accompagnata del Parco archeologico della Villa di Domiziano. L'evento si svolge in un unico turno di visita, previa prenotazione obbligatoria via email.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Direzione regionale Musei nazionali Lazio",
+        "tipo": "ufficiale",
+        "url": "https://direzioneregionalemuseilazio.cultura.gov.it/eventi/7688",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "30-giornata-nazionale-della-colletta-alimentare-figline-e-incisa-valdarno",
+    "titolo": "30ª Giornata Nazionale della Colletta Alimentare",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-14T08:00",
+    "fine": null,
+    "luogo": "Supermercati aderenti",
+    "indirizzo": "Vari",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di solidarietà che coinvolge i cittadini nella raccolta di generi alimentari presso i supermercati del territorio, destinati alle persone bisognose e ridistribuiti tramite enti caritatevoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Banco Alimentare della Toscana ODV ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi/30a-giornata-nazionale-della-colletta-alimentare",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apertura-spezieria-ospedale-serristori-figline-e-incisa-valdarno",
+    "titolo": "Apertura Spezieria Ospedale Serristori",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-14T10:30",
+    "fine": null,
+    "luogo": "Villa San Cerbone",
+    "indirizzo": "Piazza XXV aprile, 10",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla scoperta della storica Spezieria Serristori, un luogo di interesse culturale del territorio. L'accesso è consentito previa prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Santa Maria Nuova",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi/apertura-spezieria-ospedale-serristori",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-clemenza-di-tito-ravenna",
+    "titolo": "La clemenza di Tito",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T20:00",
+    "fine": "2026-11-16T20:00",
+    "luogo": "Teatro Dante Alighieri",
+    "indirizzo": "Via Mariani, 2 - Ravenna",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.41269,
+    "lon": 12.19304,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo operistico parte della Trilogia d'Autunno del Ravenna Festival, dedicato a Wolfgang Amadeus Mozart. La regia è curata da Chiara Muti con la direzione musicale di Ottavio Dantone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ravenna Festival",
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/ravenna-trilogia-autunno",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ultimo-incanto-ravenna",
+    "titolo": "L'ultimo incanto",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:00",
+    "fine": "2026-11-17T20:00",
+    "luogo": "Teatro Dante Alighieri",
+    "indirizzo": "Via Mariani, 2 - Ravenna",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.41269,
+    "lon": 12.19304,
+    "coordinateApprossimate": true,
+    "descrizione": "Drammaturgia originale basata sul Flauto Magico e sulle ultime composizioni di Mozart, inserita nel programma della Trilogia d'Autunno del Ravenna Festival.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ravenna Festival",
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/ravenna-trilogia-autunno",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "requiem-ravenna",
+    "titolo": "Requiem",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T17:00",
+    "fine": null,
+    "luogo": "Teatro Dante Alighieri",
+    "indirizzo": "Via Mariani, 2 - Ravenna",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.41269,
+    "lon": 12.19304,
+    "coordinateApprossimate": true,
+    "descrizione": "Esecuzione del Requiem in re minore K 626 di Wolfgang Amadeus Mozart, parte del trittico Mozart 1791 presentato durante la Trilogia d'Autunno del Ravenna Festival.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ravenna Festival",
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/ravenna-trilogia-autunno",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "51-fiera-del-formaggio-di-fossa-di-sogliano-dop-sogliano-al-rubicone",
+    "titolo": "51ª Fiera del Formaggio di Fossa di Sogliano Dop",
+    "categoria": "sagra",
+    "inizio": "2026-11-22",
+    "fine": "2026-12-06",
+    "luogo": "Piazza Re",
+    "indirizzo": "Sogliano al Rubicone",
+    "cap": null,
+    "comune": "040046",
+    "frazione": null,
+    "lat": 43.97272,
+    "lon": 12.26501,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera dedicata al formaggio di fossa con degustazioni, mercatini di prodotti tipici, musica, spettacoli, laboratori e visite guidate. Include l'iniziativa 5 Ristoranti in Piazza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/sogliano-al-rubicone-fiera-del-formaggio-di-fossa-dop",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fossa-tartufo-e-venere-mondaino",
+    "titolo": "Fossa, Tartufo e Venere",
+    "categoria": "sagra",
+    "inizio": "2026-11-22",
+    "fine": "2026-11-29",
+    "luogo": "Mondaino",
+    "indirizzo": "Mondaino",
+    "cap": null,
+    "comune": "099006",
+    "frazione": null,
+    "lat": 43.84459,
+    "lon": 12.65199,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato dedicata al tartufo bianco pregiato delle colline riminesi e al formaggio di fossa stagionato in grotte sotterranee, con degustazioni in osterie e ristoranti locali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/mondaino-fossa-tartufo-e-venere",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quadri-di-natura-senza-confini-verde-come-cura-gorizia",
+    "titolo": "Quadri di natura senza confini – Verde come cura",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-13T10:00",
+    "fine": null,
+    "luogo": "Parco Basaglia",
+    "indirizzo": "Vittorio Veneto 174",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata storico botanica organizzata nell'ambito del progetto Quadri di natura senza confini. L'evento si svolge presso il Parco Basaglia con ritrovo all'ingresso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Legambiente Gorizia",
+    "fonti": [
+      {
+        "nome": "Let's Go Gorizia (Comune di Gorizia)",
+        "tipo": "ufficiale",
+        "url": "https://letsgo.gorizia.it/events/quadri-di-natura-senza-confini-verde-come-cura",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sebastiao-salgado-la-mostra-bassano-del-grappa",
+    "titolo": "Sebastião Salgado: la mostra",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "fine": null,
+    "luogo": "Sala Chilesotti del Museo Civico di Bassano del Grappa",
+    "indirizzo": "Bassano del Grappa",
+    "cap": null,
+    "comune": "024012",
+    "frazione": null,
+    "lat": 45.77409,
+    "lon": 11.70721,
+    "coordinateApprossimate": true,
+    "descrizione": "Barbara Guidi, direttrice dei Musei Civici di Bassano del Grappa, con Edoardo Vigna, responsabile di \"Pianeta 2030\", discute la mostra \"Sebastião Salgado\", analizzando le fotografie della collezione Maison Européenne de la Photographie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune e Musei Civici di Bassano del Grappa",
+    "fonti": [
+      {
+        "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+        "tipo": "ufficiale",
+        "url": "https://www.museibassano.it/it/articolo/incontrarsi-al-museo-di-bassano-musei-mostre-restauri",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "palazzo-maffei-nascita-di-un-museo-bassano-del-grappa",
+    "titolo": "Palazzo Maffei: nascita di un museo",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T17:30",
+    "fine": null,
+    "luogo": "Sala Chilesotti del Museo Civico di Bassano del Grappa",
+    "indirizzo": "Bassano del Grappa",
+    "cap": null,
+    "comune": "024012",
+    "frazione": null,
+    "lat": 45.77409,
+    "lon": 11.70721,
+    "coordinateApprossimate": true,
+    "descrizione": "Vanessa Carlon, direttrice di Palazzo Maffei di Verona, illustra la nascita di un museo, raccontando la storia e l'importanza culturale di Palazzo Maffei.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune e Musei Civici di Bassano del Grappa",
+    "fonti": [
+      {
+        "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+        "tipo": "ufficiale",
+        "url": "https://www.museibassano.it/it/articolo/incontrarsi-al-museo-di-bassano-musei-mostre-restauri",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mamma-piccole-tragedie-minimali-aversa",
+    "titolo": "Mamma, piccole tragedie minimali",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:30",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Teatro Sebeto",
+    "indirizzo": "Piazza Raffaele Lucarelli 24, Aversa, Italy",
+    "cap": null,
+    "comune": "061005",
+    "frazione": null,
+    "lat": 40.97123,
+    "lon": 14.20714,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Rino Di Martino, regia di Antonella Morea. Quattro monologhi che esplorano figure femminili corrotte dai mass-media, in un contesto dove la ritualità popolare si intreccia con la pubblicità e la sfera privata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sebeto",
+    "fonti": [
+      {
+        "nome": "Pro Loco Aversa Normanna",
+        "tipo": "organizzatore",
+        "url": "https://prolocoaversa.it/evento/mamma-piccole-tragedie-minimali",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cantiere-aperto-visita-guidata-aversa-16-11",
+    "titolo": "Cantiere aperto & Visita guidata",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-16T10:00",
+    "fine": "2026-11-16T13:30",
+    "luogo": "Abbazia di San Lorenzo ad Septimum",
+    "indirizzo": "Via S. Lorenzo, 45, Aversa, Italy",
+    "cap": null,
+    "comune": "061005",
+    "frazione": null,
+    "lat": 40.97123,
+    "lon": 14.20714,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento speciale dedicato all'arte del restauro organizzato dall'associazione In Octabo, che permette di visitare il cantiere presso l'Abbazia di San Lorenzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "In Octabo",
+    "fonti": [
+      {
+        "nome": "Pro Loco Aversa Normanna",
+        "tipo": "organizzatore",
+        "url": "https://prolocoaversa.it/evento/cantiere-aperto-visita-guidata",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-maurizio-de-giovanni-aversa",
+    "titolo": "Incontro con Maurizio De Giovanni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T18:00",
+    "fine": "2026-11-17T20:00",
+    "luogo": "Pink House Cafè",
+    "indirizzo": "Viale della Libertà, Aversa, Italy",
+    "cap": null,
+    "comune": "061005",
+    "frazione": null,
+    "lat": 40.97123,
+    "lon": 14.20714,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del nuovo romanzo di Maurizio de Giovanni intitolato \"Il Bufalo e Sammarzano\". L'incontro si terrà presso la sala convegni del locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Pro Loco Aversa Normanna",
+        "tipo": "organizzatore",
+        "url": "https://prolocoaversa.it/evento/incontro-con-maurizio-de-giovanni",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-dove-vanno-a-finire-gli-amori-perduti-aversa",
+    "titolo": "Presentazione del Libro: Dove vanno a finire gli amori perduti?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:30",
+    "fine": "2026-11-20T20:00",
+    "luogo": "Teatro Sebeto",
+    "indirizzo": "Piazza Raffaele Lucarelli 24, Aversa, Italy",
+    "cap": null,
+    "comune": "061005",
+    "frazione": null,
+    "lat": 40.97123,
+    "lon": 14.20714,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Pino Tartaglia organizzata dall'associazione Artedonna. L'evento prevede la presenza dell'autore e un momento dedicato al firmacopie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione ArteDonna",
+    "fonti": [
+      {
+        "nome": "Pro Loco Aversa Normanna",
+        "tipo": "organizzatore",
+        "url": "https://prolocoaversa.it/evento/presentazione-del-libro-dove-vanno-a-finire-gli-amori-perduti",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fuoco-sacro-tour-2026-bungaro-aversa",
+    "titolo": "Fuoco Sacro Tour 2026 – Bungaro",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T20:30",
+    "fine": "2026-11-20T23:00",
+    "luogo": "Auditorium Bianca D'Aponte",
+    "indirizzo": "Via Alfredo Nobel, 2, Aversa, Italy",
+    "cap": null,
+    "comune": "061005",
+    "frazione": null,
+    "lat": 40.97123,
+    "lon": 14.20714,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del cantautore Bungaro accompagnato da Antonio de Luise al piano e Marco Pacassoni al vibrafono. L'apertura è affidata all'artista Fernanda.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Bianca D’Aponte",
+    "fonti": [
+      {
+        "nome": "Pro Loco Aversa Normanna",
+        "tipo": "organizzatore",
+        "url": "https://prolocoaversa.it/evento/fuoco-sacro-tour-2026-bungaro",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "house-of-puccini-catania",
+    "titolo": "House of Puccini",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:30",
+    "fine": null,
+    "luogo": "Teatro Metropolitan",
+    "indirizzo": "Via Sant'Euplio, 21",
+    "cap": null,
+    "comune": "087015",
+    "frazione": null,
+    "lat": 37.44224,
+    "lon": 15.03593,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital dedicato al compositore Giacomo Puccini che si terrà presso il Teatro Metropolitan.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Massimo Bellini di Catania",
+        "tipo": "ufficiale",
+        "url": "https://www.teatromassimobellini.it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-quinto-moschettiere-catania",
+    "titolo": "Il quinto moschettiere",
+    "categoria": "teatro",
+    "inizio": "2026-12-16",
+    "fine": "2026-12-18",
+    "luogo": "Teatro Sangiorgi",
+    "indirizzo": "Via Antonino Di Sangiuliano, 233",
+    "cap": null,
+    "comune": "087015",
+    "frazione": null,
+    "lat": 37.44224,
+    "lon": 15.03593,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in programma presso il Teatro Sangiorgi di Catania.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Massimo Bellini di Catania",
+        "tipo": "ufficiale",
+        "url": "https://www.teatromassimobellini.it/eventi/il-quinto-moschettiere-2",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-apprendista-babbo-natale-latina",
+    "titolo": "L'apprendista Babbo Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-15T00:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Latina",
+    "indirizzo": "Viale Umberto I, 41/43",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di teatro ragazzi della compagnia Fantateatro, dedicato ai bambini per le festività natalizie.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 9
+    },
+    "prenotazione": null,
+    "organizzatore": "Fantateatro",
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-natale-di-latina-latina",
+    "titolo": "Concerto Natale di Latina",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Latina",
+    "indirizzo": "Viale Umberto I, 41/43",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata concertistica natalizia organizzata dalla città di Latina, gratuita e aperta a tutto il pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "malinconico-moderatamente-felice-latina",
+    "titolo": "Malinconico moderatamente felice",
+    "categoria": "teatro",
+    "inizio": "2026-12-19T21:00",
+    "fine": "2026-12-19T23:15",
+    "luogo": "Teatro Comunale di Latina",
+    "indirizzo": "Viale Umberto I, 41/43",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Prosa teatrale per adulti tratta dal romanzo di Vladimir Sorokin, proposta in programmazione al Teatro Comunale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-schiaccianoci-latina",
+    "titolo": "Lo schiaccianoci",
+    "categoria": "teatro",
+    "inizio": "2026-12-23T21:00",
+    "fine": "2026-12-23T22:00",
+    "luogo": "Teatro Comunale di Latina",
+    "indirizzo": "Viale Umberto I, 41/43",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Classico balletto natalizio rivisitato in chiave contemporanea, proposto al Teatro Comunale per un pubblico adulto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "beethoven-e-rodrigo-ritmo-e-passione-latina",
+    "titolo": "Beethoven e Rodrigo: ritmo e passione",
+    "categoria": "concerto",
+    "inizio": "2026-12-27T18:00",
+    "fine": null,
+    "luogo": "Teatro Comunale di Latina",
+    "indirizzo": "Viale Umberto I, 41/43",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica classica che accosta Beethoven e Rodrigo, proposto nella stagione concertistica del Teatro Comunale per adulti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "data-tunnel-gorizia",
+    "titolo": "Data Tunnel",
+    "categoria": "mostra",
+    "inizio": "2025-12-17",
+    "fine": "2026-12-31",
+    "luogo": "Galleria Bombi",
+    "indirizzo": "Gorizia",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione immersiva di Refik Anadol che utilizza l'intelligenza artificiale per trasformare dati ambientali in un flusso visivo continuo. L'opera esplora il rapporto tra natura, tecnologia e percezione attraverso un percorso di 100 metri rivestito da LED.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/a-gorizia-la-dag-digital-art-gallery-la-galleria-digitale-piu-grande-deuropa-fino-a-dicembre-2026-in-mostra-lopera-immersiva-data-tunnel-di-refik-anadol",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apertura-sinagoga-gorizia",
+    "titolo": "Apertura sinagoga",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-03-18",
+    "fine": "2026-12-31",
+    "luogo": "Sinagoga di Gorizia",
+    "indirizzo": "via Ascoli",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura al pubblico della sinagoga più antica del Friuli Venezia Giulia, che ospita la Saletta Michelstaedter con opere pittoriche del filosofo goriziano. Visitabile la domenica e nei giorni festivi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/la-sinagoga-aperta-la-domenica-con-ingresso-gratuito",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gorithia-tra-le-pieghe-del-tempo-gorizia",
+    "titolo": "Gorithia. Tra le pieghe del tempo",
+    "categoria": "mostra",
+    "inizio": "2026-05-06",
+    "fine": "2026-12-31",
+    "luogo": "Smart Space della Fondazione Cassa di Risparmio di Gorizia",
+    "indirizzo": "via Carducci 2",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione di stampe cinquecentesche della serie Austriacae Gentis Imagines di Francesco Terzi, raffiguranti ritratti di imperatori e membri della famiglia Asburgo. Include anche tavole di Marcello Fogolino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Cassa di Risparmio di Gorizia",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/gorithia-tra-le-pieghe-del-tempo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "go-armonia-gorizia",
+    "titolo": "Go Armonia",
+    "categoria": "teatro",
+    "inizio": "2026-10-04",
+    "fine": "2027-03-21",
+    "luogo": "Kulturni center Lojze Bratuž",
+    "indirizzo": "via Brass 85",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione della stagione di teatro amatoriale in dialetto triestino. Il cartellone prevede nove commedie che spaziano dal genere brillante al giallo, organizzate dall'Associazione tra Compagnie Teatrali Triestine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "L’Armonia Aps Associazione tra Compagnie Teatrali Triestine",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/go-armonia-2",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "36a-edizione-del-festival-internazionale-castello-di-gorizia-premio-fr-gorizia",
+    "titolo": "36a edizione del Festival Internazionale Castello di Gorizia – Premio Francesco Macedonio",
+    "categoria": "teatro",
+    "inizio": "2026-10-10",
+    "fine": "2027-02-13",
+    "luogo": "Kulturni dom, Kulturni Center Lojze Bratuž e Teatro Verdi",
+    "indirizzo": "Gorizia",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna che propone un ricco cartellone di prosa, musical, commedie e serate musicali. L'evento si svolge in diverse sedi teatrali della città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Terzoteatro Gorizia",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/36a-edizione-del-festival-internazionale-castello-di-gorizia-premio-francesco-macedonio",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-secolo-dei-ritter-1814-1914-gorizia",
+    "titolo": "Il secolo dei Ritter (1814-1914)",
+    "categoria": "mostra",
+    "inizio": "2026-10-24",
+    "fine": "2027-03-29",
+    "luogo": "Palazzo Coronini Cronberg",
+    "indirizzo": "Gorizia",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata alla famiglia Ritter de Záhony, protagonisti della vita economica e sociale di Gorizia nell'Ottocento. Attraverso documenti, oggetti e opere d'arte, viene ripercorsa la loro storia industriale e culturale fino alla Grande Guerra.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/il-secolo-dei-ritter-1814-1914",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "conferenza-eta-del-rame-il-cane-e-l-uomo-aosta",
+    "titolo": "Conferenza Età del Rame: il cane e l’uomo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T15:00",
+    "fine": null,
+    "luogo": "MegaMuseo – Museo Archeologico Contemporaneo",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla ricostruzione del volto dell'uomo dell'età del Rame e alle ultime ricerche archeologiche. L'evento è tenuto dagli archeologi Generoso Urciuoli e Martina Blanchet in collaborazione con l'Università della Terza età della Valle d'Aosta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/novembre-al-megamuseo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "archeoaperitivo-il-vino-degli-eroi-aosta",
+    "titolo": "ArcheoAperitivo – Il vino degli eroi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T18:00",
+    "fine": null,
+    "luogo": "MegaMuseo – Museo Archeologico Contemporaneo",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Approfondimento sugli strumenti del vino e le pratiche del bere nel Mediterraneo antico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/novembre-al-megamuseo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-dadi-del-tempo-aymavilles",
+    "titolo": "I Dadi del Tempo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-15T16:45",
+    "luogo": "Castello di Aymavilles",
+    "indirizzo": "Aymavilles",
+    "cap": null,
+    "comune": "007008",
+    "frazione": null,
+    "lat": 45.65384,
+    "lon": 7.25278,
+    "coordinateApprossimate": true,
+    "descrizione": "Speciale visita-gioco per bambini in compagnia di Charlotte. Lanciando i dadi, i partecipanti potranno tornare indietro nel tempo e incontrare i personaggi che hanno vissuto nel castello nei secoli passati.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/le-avventure-di-charlotte-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-viaggio-con-chaty-la-gattina-castellana-verres",
+    "titolo": "In viaggio con Chaty, la gattina castellana",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T15:30",
+    "fine": null,
+    "luogo": "Castello di Verrès",
+    "indirizzo": "Verrès",
+    "cap": null,
+    "comune": "007073",
+    "frazione": null,
+    "lat": 45.66779,
+    "lon": 7.69622,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività per famiglie e bambini che esplorano il castello accompagnati da un racconto illustrato con il kamishibai, scoprendo la storia della fortezza e delle famiglie che l'hanno abitata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/settembre-ottobre-novembre-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "1976-2026-biblioteca-di-chatillon-cinquant-anni-di-ricordi-letture-inc-chatillon",
+    "titolo": "1976-2026 Biblioteca di Châtillon: cinquant’anni di ricordi, letture, incontri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:00",
+    "fine": null,
+    "luogo": "Sala Don Paolo Chasseur",
+    "indirizzo": "Châtillon",
+    "cap": null,
+    "comune": "007020",
+    "frazione": null,
+    "lat": 45.75964,
+    "lon": 7.62632,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro celebrativo per il cinquantesimo anniversario della biblioteca \"Mgr Duc\". La serata ripercorre la storia della biblioteca, condivide ricordi e testimonianze e premia i grandi lettori, seguita da un vin d'honneur.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/cultura-viva-intorno-a-noi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arature-sonore-2-0-rituali-di-passaggio-aosta",
+    "titolo": "Arature Sonore 2.0 – Rituali di passaggio",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T11:00",
+    "fine": null,
+    "luogo": "MegaMuseo – Museo Archeologico Contemporaneo",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata al mondo magico e spirituale con l'attività 'Yoga e Somatica del Femminile Risonanze della Dea', un'esperienza che intreccia yoga, consapevolezza e percezione di sé in dialogo con il luogo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/arature-sonore-2-0",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rituali-di-versi-aosta",
+    "titolo": "Rituali Di-versi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "MegaMuseo – Museo Archeologico Contemporaneo",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di esplorazione della parola come strumento di consapevolezza, ascolto e trasformazione, condotto da Emanuela Vezzoli. Include poesia, etimologia, scrittura creativa e meditazione guidata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/rituali-di-versi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "archeologia-nel-vallone-di-saint-marcel-indagini-sul-sito-romano-di-et-aosta",
+    "titolo": "Archeologia nel vallone di Saint-Marcel: indagini sul sito romano di Etéley",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:00",
+    "fine": null,
+    "luogo": "Sala conferenze della Biblioteca regionale Bruno Salvadori",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza della Soprintendenza dedicata alle indagini archeologiche condotte nel sito romano di Etéley, nel vallone di Saint-Marcel.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Soprintendenza per i Beni e le attività culturali",
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/appuntamenti-cultura",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-viaggio-con-chaty-la-gattina-castellana-aymavilles",
+    "titolo": "In viaggio con Chaty, la gattina castellana",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T16:30",
+    "fine": null,
+    "luogo": "Castello di Aymavilles",
+    "indirizzo": "Aymavilles",
+    "cap": null,
+    "comune": "007008",
+    "frazione": null,
+    "lat": 45.65384,
+    "lon": 7.25278,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività per famiglie e bambini alla scoperta del castello in compagnia della gattina Chaty.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Valle d'Aosta Heritage",
+        "tipo": "ufficiale",
+        "url": "https://valledaostaheritage.com/events/settembre-ottobre-novembre-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "m-come-montagna-2026-brescia",
+    "titolo": "M come Montagna 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Brixia Forum",
+    "indirizzo": "Via Caprera, 5, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento dedicato al mondo alpino che riunisce realtà di turismo, sport, benessere e sostenibilità. L'iniziativa offre aree tematiche, laboratori, attività sportive e testimonianze di atleti ed esperti per promuovere una fruizione consapevole e sostenibile della montagna.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/m-come-montagna",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "degustazione-di-vini-in-miniera-2026-pezzaze",
+    "titolo": "Degustazione di vini in miniera 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-29T10:30",
+    "fine": null,
+    "luogo": "Miniera Marzoli",
+    "indirizzo": "Via Miniera, 14, Pezzaze",
+    "cap": null,
+    "comune": "017141",
+    "frazione": null,
+    "lat": 45.78047,
+    "lon": 10.22405,
+    "coordinateApprossimate": true,
+    "descrizione": "Esperienza sensoriale all'interno della miniera che propone una selezione di vini locali abbinati a specialità gastronomiche del territorio, in un contesto che racconta la storia mineraria triumplina.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/degustazione-in-miniera-pezzaze",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-della-polenta-a-tremosine-sul-garda-2026-tremosine-sul-garda",
+    "titolo": "Festa della Polenta a Tremosine sul Garda 2026",
+    "categoria": "sagra",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Pieve di Tremosine sul Garda",
+    "indirizzo": "Borgo storico, Tremosine sul Garda",
+    "cap": null,
+    "comune": "017189",
+    "frazione": null,
+    "lat": 45.79817,
+    "lon": 10.72571,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione dedicata alla polenta cusa, specialità tipica dell'altopiano, arricchita dalla sfilata dei Krampus, musica e dj set nel cuore del borgo storico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco di Tremosine sul Garda",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/festa-polenta-tremosine",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stragardalake-2027-desenzano-del-garda",
+    "titolo": "Stragardalake 2027",
+    "categoria": "sport",
+    "inizio": "2027-01-10",
+    "fine": null,
+    "luogo": "Lungolago Cesare Battisti",
+    "indirizzo": "Lungolago Cesare Battisti, Desenzano del Garda",
+    "cap": null,
+    "comune": "017067",
+    "frazione": null,
+    "lat": 45.45394,
+    "lon": 10.56427,
+    "coordinateApprossimate": true,
+    "descrizione": "Gara podistica con percorsi competitivi e non competitivi di 21 km, 19 km e 10 km lungo le sponde del lago di Garda e le colline moreniche. L'evento include musica dal vivo e punti ristoro lungo i tracciati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/stragardalake",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-grande-corsa-bianca-2027-monno",
+    "titolo": "La Grande Corsa Bianca 2027",
+    "categoria": "sport",
+    "inizio": "2027-01-22",
+    "fine": "2027-01-23",
+    "luogo": "Piazza IV Novembre",
+    "indirizzo": "Piazza IV Novembre, Monno",
+    "cap": null,
+    "comune": "017110",
+    "frazione": null,
+    "lat": 46.23471,
+    "lon": 10.32202,
+    "coordinateApprossimate": true,
+    "descrizione": "Sfida estrema in semi-autosufficienza tra i parchi dello Stelvio e dell'Adamello. La manifestazione prevede percorsi di 110 km, 60 km e 30 km con discipline di Skialp, Bike, Hiking e Winter Dog Trail.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/grande-corsa-bianca",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-con-droni-luminosi-per-l-accensione-del-presepe-della-marin-cesenatico",
+    "titolo": "Spettacolo con droni luminosi per l'accensione del presepe della marineria",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T17:00",
+    "fine": null,
+    "luogo": "Porto Canale",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo aereo con droni luminosi che danzano in sincronia sopra le barche storiche del porto, accompagnati da una colonna sonora emozionale per celebrare l'accensione del Presepe della Marineria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "PyroEmotions Srl",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/spettacolo-con-droni-luminosi-per-l-accensione-del-presepe-della-marineria",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-slitta-di-babbo-natale-cesenatico",
+    "titolo": "La slitta di Babbo Natale",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T15:30",
+    "fine": null,
+    "luogo": "Piazza Ciceruacchio",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Animazione natalizia con l'arrivo di Babbo Natale a bordo di un'autentica slitta del XIX secolo, accompagnata da brani natalizi iconici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesenatico ed Equipe Eventi",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/la-slitta-di-babbo-natale",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-schiaccianoci-la-fiaba-che-prende-vita-cesenatico",
+    "titolo": "Lo Schiaccianoci: la fiaba che prende vita",
+    "categoria": "teatro",
+    "inizio": "2026-12-26T15:30",
+    "fine": null,
+    "luogo": "Porto Canale",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo itinerante di teatro di strada con una marionetta alta 4 metri e un gruppo di topolini danzatori che sfilano lungo il porto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/lo-schiaccianoci-la-fiaba-che-prende-vita-1",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "retromarching-band-musica-itinerante-cesenatico",
+    "titolo": "Retromarching Band - Musica itinerante",
+    "categoria": "concerto",
+    "inizio": "2026-12-27T15:30",
+    "fine": null,
+    "luogo": "Porto Canale",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata musicale itinerante nel centro storico con un repertorio dinamico eseguito da musicisti esperti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesenatico",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/retromarching-band-1",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "traiettorie-impercettibili-viaggio-attraverso-la-musica-di-battiato-cesenatico",
+    "titolo": "Traiettorie impercettibili: viaggio attraverso la musica di Battiato",
+    "categoria": "concerto",
+    "inizio": "2026-12-28",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale di Federico Mecozzi dedicato alla rivisitazione dei capolavori di Franco Battiato, con la partecipazione di ospiti speciali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Retropop Live",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/traiettorie-impercettibili-viaggio-attraverso-la-musica-di-battiato",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "capodanno-sul-porto-cesenatico",
+    "titolo": "Capodanno sul Porto",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T22:30",
+    "fine": null,
+    "luogo": "Piazza Ciceruacchio",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa di fine anno con musica live della cover band Margo' 80 e DJ set di Radio Studio Delta, accompagnata da brindisi in piazza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesenatico",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/capodanno-sul-porto-2",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-pasquella-sul-porto-canale-di-cesenatico-cesenatico",
+    "titolo": "La Pasquella sul Porto Canale di Cesenatico",
+    "categoria": "concerto",
+    "inizio": "2027-01-06T14:30",
+    "fine": null,
+    "luogo": "Piazza Ciceruacchio",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale appuntamento dell'Epifania con canti folkloristici romagnoli, esibizioni di gruppi di canterini e degli sciucarén.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cesenatico",
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/la-pasquella-sul-porto-canale-di-cesenatico",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-corale-internazionale-citta-di-rimini-rimini",
+    "titolo": "Concerto corale internazionale \"Città di Rimini\"",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": null,
+    "luogo": "Chiesa dei Servi",
+    "indirizzo": "Rimini",
+    "cap": null,
+    "comune": "099014",
+    "frazione": null,
+    "lat": 44.03879,
+    "lon": 12.53052,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto corale internazionale che si tiene venerdì 13 novembre 2026 alle ore 21:00 nella Chiesa dei Servi di Rimini. È un evento musicale corale che fa parte della programmazione culturale cittadina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Rimini",
+        "tipo": "ufficiale",
+        "url": "https://www.visitrimini.com/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-donne-di-cortina-peschiera-borromeo",
+    "titolo": "Le donne di Cortina",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T18:00",
+    "fine": "2026-11-13T21:00",
+    "luogo": "Auditorium Norma Cossetto",
+    "indirizzo": "Peschiera Borromeo",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del saggio Le donne di Cortina 1956 di Adriana Balzarini e Antonella Stelitano, dedicato al ruolo delle atlete femminili ai VII Giochi Olimpici Invernali. Dialogano con le autrici Fabio Del Prete e la presenza straordinaria di Claudia Giordani, argento olimpico e dirigente CONI.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Città di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi/il-grande-libro-di-agatha-christie-730966-731482-731487-731505-731722",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-artificiale-di-guido-tortorella-peschiera-borromeo",
+    "titolo": "Presentazione del libro Artificiale di Guido Tortorella",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T21:00",
+    "fine": "2026-11-17T23:00",
+    "luogo": "Biblioteca Comunale G. Gerosa Brichetto",
+    "indirizzo": "Via Giosuè Carducci, 5",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo Artificiale di Guido Tortorella (Baldini e Castoldi, 2026), inserito nella rassegna Autunno Letterario 2026. Daniele Bertoni dialoga con l'autore su una storia che intreccia tecnologia e legami familiari. L'esperimento di un'azienda di IA permette di riabbracciare i defunti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Città di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi/presentazione-del-libro-artificiale-di-guido-tortorella",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scrittori-a-km-0-della-uno-strano-caso-peschiera-borromeo",
+    "titolo": "Scrittori... a Km 0: Della...uno strano caso",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T21:00",
+    "fine": "2026-11-19T23:00",
+    "luogo": "Biblioteca Comunale G. Gerosa Brichetto",
+    "indirizzo": "Via Giosuè Carducci, 5",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Della...uno strano caso di Sergio Marchi (pubblicazione indipendente, 2024), nell'ambito della rassegna Autunno Letterario 2026. Un giovane commissario trova un cane ferito e scopre un segreto che lo mette in pericolo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Città di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi/il-grande-libro-di-agatha-christie-730966-731482-731487-731505-731722-731726-731729",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scrittori-a-km-0-poetando-peschiera-borromeo",
+    "titolo": "Scrittori... a Km 0: Poetando",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Biblioteca Comunale G. Gerosa Brichetto",
+    "indirizzo": "Via Giosuè Carducci, 5",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro Poetando di Carla Paola Arcaini (Il Cuscino di Stelle, 2026). L'evento combina poesia declamata, musica dal vivo del Duo Essential e opere di pittrici locali. Una parte dedicata all'amica artista Barbara Ciotta. Moderatrice Valeria Giacomello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Città di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/eventi/il-grande-libro-di-agatha-christie-730966-731482-731487-731505-731722-731726-731729-731731",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-carnevale-degli-animali-di-c-saint-saens-le-stagioni-di-vivaldi-peschiera-borromeo-16-11",
+    "titolo": "Il Carnevale degli animali di C.Saint-Saens - Le stagioni di Vivaldi",
+    "categoria": "concerto",
+    "inizio": "2026-11-16",
+    "fine": null,
+    "luogo": "Auditorium",
+    "indirizzo": "Peschiera Borromeo",
+    "cap": null,
+    "comune": "015171",
+    "frazione": null,
+    "lat": 45.4423,
+    "lon": 9.30349,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto che propone Il Carnevale degli animali di Camille Saint-Saëns e Le stagioni di Vivaldi presso l'Auditorium di Peschiera Borromeo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Città di Peschiera Borromeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.peschieraborromeo.mi.it/it/categorie-eventi/64271",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-guida-slow-wine-2027-rovereto",
+    "titolo": "Presentazione Guida Slow Wine 2027",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T11:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "MoM Officina",
+    "indirizzo": "Rovereto",
+    "cap": null,
+    "comune": "022161",
+    "frazione": null,
+    "lat": 45.86489,
+    "lon": 11.04545,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata ai vini del Trentino con mostra mercato e degustazione presentata da Slow Food Trentino.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Slow Food Trentino",
+    "fonti": [
+      {
+        "nome": "Visit Rovereto e Vallagarina",
+        "tipo": "ufficiale",
+        "url": "https://www.visitrovereto.it/vivi/eventi/presentazione-guida-slow-wine-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-teatro-a-teatro-rovereto",
+    "titolo": "A teatro! A teatro!",
+    "categoria": "teatro",
+    "inizio": "2026-11-22",
+    "fine": "2026-12-06",
+    "luogo": "Teatro Zandonai",
+    "indirizzo": "Rovereto",
+    "cap": null,
+    "comune": "022161",
+    "frazione": null,
+    "lat": 45.86489,
+    "lon": 11.04545,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre attori raccontano i traguardi più importanti della vita del teatro Zandonai.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Rovereto e Vallagarina",
+        "tipo": "ufficiale",
+        "url": "https://www.visitrovereto.it/vivi/eventi/?pno=2&lang=it",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepi-contro-rovereto",
+    "titolo": "Presepi Contro…",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2027-01-06",
+    "luogo": "Fondazione Campana dei Caduti",
+    "indirizzo": "Rovereto",
+    "cap": null,
+    "comune": "022161",
+    "frazione": null,
+    "lat": 45.86489,
+    "lon": 11.04545,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra temporanea che offre una riflessione sui drammi che colpiscono la sensibilità collettiva.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Campana dei Caduti",
+    "fonti": [
+      {
+        "nome": "Visit Rovereto e Vallagarina",
+        "tipo": "ufficiale",
+        "url": "https://www.visitrovereto.it/vivi/eventi/?pno=8&lang=it",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rintocchi-di-luce-natale-a-rovereto-rovereto",
+    "titolo": "Rintocchi di Luce. Natale a Rovereto",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-20",
+    "fine": "2027-01-06",
+    "luogo": "Centro storico di Rovereto",
+    "indirizzo": "Rovereto",
+    "cap": null,
+    "comune": "022161",
+    "frazione": null,
+    "lat": 45.86489,
+    "lon": 11.04545,
+    "coordinateApprossimate": true,
+    "descrizione": "Atmosfera natalizia dove la città si trasforma in una galleria di luci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Rovereto e Vallagarina",
+        "tipo": "ufficiale",
+        "url": "https://www.visitrovereto.it/vivi/eventi/?pno=8&lang=it",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
   }
 ]
