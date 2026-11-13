@@ -34,7 +34,7 @@ if ((!base || /^0+$/.test(base)) && process.env.GITHUB_EVENT_NAME === 'schedule'
 if (base && !/^0+$/.test(base)) {
   let prima = [];
   try {
-    prima = leggi(execFileSync('git', ['show', `${base}:src/data/eventi.json`], { encoding: 'utf8' }));
+    prima = leggi(execFileSync('git', ['show', `${base}:src/data/eventi.json`], { encoding: 'utf8', maxBuffer: 200 * 1024 * 1024 })); // il file supera 1 MB: senza maxBuffer la lettura falliva e si rimandava tutto
   } catch {
     console.log('IndexNow: commit precedente non leggibile, invio tutto.');
   }
