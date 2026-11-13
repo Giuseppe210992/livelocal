@@ -114621,39 +114621,6 @@
     "inseritoDa": "consegna"
   },
   {
-    "slug": "premiazione-vincitore-premio-letterario-acerbi-castel-goffredo",
-    "titolo": "Premiazione vincitore Premio letterario Acerbi",
-    "categoria": "conferenza",
-    "inizio": "2026-11-14T17:30",
-    "fine": "2026-11-14T19:30",
-    "luogo": "Municipio",
-    "indirizzo": "Piazza Giuseppe Mazzini, 1",
-    "cap": null,
-    "comune": "020015",
-    "frazione": null,
-    "lat": 45.29613,
-    "lon": 10.47835,
-    "coordinateApprossimate": true,
-    "descrizione": "Premiazione di Pedro Lenz, vincitore con l'opera \"Primitivo\" nella sezione letteratura Svizzera Tedesca. Interverranno Amalia Urbano, Elisa Destro, Francesca Romana Paci e Simona Cappellari.",
-    "prezzo": {
-      "tipo": "gratuito"
-    },
-    "prenotazione": null,
-    "organizzatore": null,
-    "fonti": [
-      {
-        "nome": "Comune di Castel Goffredo",
-        "tipo": "ufficiale",
-        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/premiazione-vincitore-premio-letterario-acerbi-14-11-26",
-        "consultata": "2026-11-09"
-      }
-    ],
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
-    "inserito": "2026-11-09",
-    "inseritoDa": "consegna"
-  },
-  {
     "slug": "i-morti-non-mi-sono-mai-piaciuti-castel-goffredo",
     "titolo": "I morti non mi sono mai piaciuti",
     "categoria": "conferenza",
@@ -169635,5 +169602,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pomeriggio-culturale-pasubio-sala-della-trasparenza-cesano-boscone-2026-11-15",
+    "titolo": "Pomeriggio culturale al Pasubio: libro, arte e musica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T15:00",
+    "luogo": "Sala della Trasparenza",
+    "indirizzo": "Via Libertà 9",
+    "comune": "015074",
+    "lat": 45.44125,
+    "lon": 9.08719,
+    "coordinateApprossimate": true,
+    "descrizione": "Il comitato di quartiere Pasubio Vive propone un pomeriggio con la presentazione del libro «Il mio lento scorrere verso il mare» di Elena Pucillo Truong, una mostra di pittura di Giorgio Ettori e un tributo musicale ai Pooh. A seguire un aperitivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comitato di quartiere Pasubio Vive",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrrH7vGU7M/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
