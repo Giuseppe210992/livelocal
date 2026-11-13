@@ -150678,5 +150678,134 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "lisa-agnelli-pop-rock-concert-teatro-morlacchi-perugia-2026-11-14",
+    "titolo": "Lisa Agnelli – Pop Rock Concert al Teatro Morlacchi",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "luogo": "Teatro Morlacchi",
+    "indirizzo": "Perugia",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "La violinista Lisa Agnelli e la sua band tra le grandi hit del pop e del rock internazionale. In teatro un punto di raccolta donazioni a favore di Fondazione Telethon.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Perugia",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Perugia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo704DoQum/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cura-e-diritto-educare-alla-tenerezza-sala-dei-notari-perugia-2026-11-13",
+    "titolo": "Cura è diritto. Educare alla tenerezza – seminario",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T16:45",
+    "luogo": "Sala dei Notari, Palazzo dei Priori",
+    "indirizzo": "Perugia",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Seminario dei Servizi educativi e scolastici del Comune di Perugia per la Giornata internazionale dei diritti dell'infanzia e dell'adolescenza, con il patrocinio dell'Ufficio Scolastico Regionale per l'Umbria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Perugia",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Perugia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpplodiERw/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-11-13T19:30"
+  },
+  {
+    "slug": "truffa-academy-maxino-e-furian-teatro-bobbio-trieste-2026-11-17",
+    "titolo": "Truffa Academy – spettacolo gratuito al Teatro Bobbio",
+    "categoria": "teatro",
+    "inizio": "2026-11-17T20:30",
+    "luogo": "Teatro Bobbio",
+    "indirizzo": "Via del Ghirlandaio 12, Trieste",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico del duo Maxino e Furian con Elisa Bombacigno, Raffaele Prestinenzi e Ornella Serafini, su come difendersi dalle truffe. Gratuito: biglietti ritirabili alla Caserma San Sebastiano (via Revoltella 35) fino a venerdì 13 novembre, 9–11; gli avanzi in teatro dalle 19 del giorno dello spettacolo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Trieste",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Trieste",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpEzYJsfWF/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lezione-villa-di-massenzio-curia-iulia-roma-unplugged-2026-11-20",
+    "titolo": "Lezione sulla Villa di Massenzio alla Curia Iulia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T19:00",
+    "luogo": "Curia Iulia",
+    "indirizzo": "Via della Salara Vecchia 6, Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Lezione della dott.ssa Marina Marcelli sulla storia della Villa di Massenzio nel Parco dell'Appia Antica, con la Sovrintendenza Capitolina, nel Roma Unplugged Festival.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Roma Unplugged Festival",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Roma Unplugged Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo9kWbESbC/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
