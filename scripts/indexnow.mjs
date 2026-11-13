@@ -4,6 +4,7 @@
 //
 // Si lancia dal workflow «Pubblica il sito», dopo la pubblicazione.
 //  - dopo un «push»: invia solo gli eventi nuovi o modificati rispetto al commit precedente (BASE_SHA);
+//  - nel giro orario programmato: invia solo gli eventi nuovi o cambiati nell'ultima ora e un quarto;
 //  - con «Run workflow» a mano (nessun BASE_SHA): invia TUTTE le pagine evento pubblicate, una tantum.
 // Il file con la chiave è in public/<chiave>.txt: è pubblico per costruzione, non è un segreto.
 // Prova senza inviare niente:  INDEXNOW_PROVA=1 node scripts/indexnow.mjs
@@ -24,7 +25,12 @@ const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8'));
 const percorso = (e) => `/evento/${e.inizio.slice(0, 4)}/${e.slug}/`;
 
 let daInviare;
-const base = process.env.BASE_SHA;
+let base = process.env.BASE_SHA;
+// Giro orario programmato: GitHub non dà il commit precedente, e senza questo ogni ora si rimandavano TUTTE le pagine.
+// Si prende invece l'ultimo commit di più di 75 minuti fa: si inviano solo gli eventi nuovi o cambiati nell'ultima ora e un quarto.
+if ((!base || /^0+$/.test(base)) && process.env.GITHUB_EVENT_NAME === 'schedule') {
+  try { base = execFileSync('git', ['rev-list', '-n1', '--before=75 minutes ago', 'HEAD'], { encoding: 'utf8' }).trim(); } catch { /* si ricade sul comportamento di prima */ }
+}
 if (base && !/^0+$/.test(base)) {
   let prima = [];
   try {
