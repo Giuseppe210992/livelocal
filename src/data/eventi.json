@@ -153355,5 +153355,231 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "kids-literature-festival-paquito-catanzaro-formia-2026-11-13",
+    "titolo": "Kids Literature Festival – laboratorio con Paquito Catanzaro",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T16:00",
+    "luogo": "Biblioteca per bambini «La Casa dei libri»",
+    "indirizzo": "Via Cassio 9B, Formia",
+    "cap": null,
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.28458,
+    "lon": 13.6279,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di storytelling per ragazzi da 9 a 13 anni nel mondo di «Reporter Bassotto. Te la racconto io la finale», libro illustrato da Alessia Barilari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Formia",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Formia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo69NnoTew/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "kids-literature-festival-luca-raffaelli-formia-2026-11-13",
+    "titolo": "Kids Literature Festival – laboratorio con Luca Raffaelli",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T17:00",
+    "luogo": "Biblioteca per bambini «La Casa dei libri»",
+    "indirizzo": "Via Cassio 9B, Formia",
+    "cap": null,
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.28458,
+    "lon": 13.6279,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di storytelling per ragazzi da 9 a 13 anni sul fumetto «Ciao mamma, vado dai fantasmi», avventura su amicizia, paura e bullismo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Formia",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Formia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo69NnoTew/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rosso-malpelo-teatro-garibaldi-modica-2026-11-21-21-00",
+    "titolo": "Rosso Malpelo al Teatro Garibaldi di Modica – sabato 21 novembre, ore 21",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "luogo": "Teatro Garibaldi",
+    "indirizzo": "Modica",
+    "cap": null,
+    "comune": "088006",
+    "frazione": null,
+    "lat": 36.85399,
+    "lon": 14.82285,
+    "coordinateApprossimate": true,
+    "descrizione": "Da Giovanni Verga, con Enrico Guarneri e Ruggero Rizzuti, regia di Guglielmo Ferro. Prevendita al botteghino e online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Garibaldi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Teatro Garibaldi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfpUnd1kfAN/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rosso-malpelo-teatro-garibaldi-modica-2026-11-22-18-30",
+    "titolo": "Rosso Malpelo al Teatro Garibaldi di Modica – domenica 22 novembre, ore 18:30",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T18:30",
+    "luogo": "Teatro Garibaldi",
+    "indirizzo": "Modica",
+    "cap": null,
+    "comune": "088006",
+    "frazione": null,
+    "lat": 36.85399,
+    "lon": 14.82285,
+    "coordinateApprossimate": true,
+    "descrizione": "Da Giovanni Verga, con Enrico Guarneri e Ruggero Rizzuti, regia di Guglielmo Ferro. Prevendita al botteghino e online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Garibaldi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Teatro Garibaldi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfpUnd1kfAN/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rosso-malpelo-teatro-garibaldi-modica-2026-11-22-21-00",
+    "titolo": "Rosso Malpelo al Teatro Garibaldi di Modica – domenica 22 novembre, ore 21 (nuova replica)",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T21:00",
+    "luogo": "Teatro Garibaldi",
+    "indirizzo": "Modica",
+    "cap": null,
+    "comune": "088006",
+    "frazione": null,
+    "lat": 36.85399,
+    "lon": 14.82285,
+    "coordinateApprossimate": true,
+    "descrizione": "Da Giovanni Verga, con Enrico Guarneri e Ruggero Rizzuti, regia di Guglielmo Ferro. Prevendita al botteghino e online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Garibaldi",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Fondazione Teatro Garibaldi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfpUnd1kfAN/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "guerra-civile-pharsalia-tpe-teatro-astra-torino-2026-11-18",
+    "titolo": "Guerra Civile (da «Pharsalia» di Lucano) al TPE Teatro Astra",
+    "categoria": "teatro",
+    "inizio": "2026-11-18",
+    "luogo": "TPE Teatro Astra",
+    "indirizzo": "Torino",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima nazionale dello spettacolo di Fabrizio Sinisi, regia di Andrea De Rosa, dal 18 al 29 novembre. Biglietti online e in biglietteria (mar–sab, 16–19).",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "TPE – Teatro Piemonte Europa",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram TPE Teatro Astra",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfouh1iIE2B/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-11-29"
+  },
+  {
+    "slug": "ultima-apertura-casa-della-resistenza-sala-biellese-2026-11-14",
+    "titolo": "Ultima apertura stagionale della Casa della Resistenza",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-14T15:00",
+    "luogo": "Casa della Resistenza",
+    "indirizzo": "Via Ottavio Rivetti 5, Sala Biellese",
+    "cap": null,
+    "comune": "096057",
+    "frazione": null,
+    "lat": 45.5107,
+    "lon": 7.95767,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultima apertura della stagione, con la chiusura della mostra «Ritrattə Partigiane» di Ri_bellula. Si riapre nel 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa della Resistenza di Sala Biellese",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Casa della Resistenza Sala Biellese",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfpr0KpEWFS/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-11-14T18:00"
   }
 ]
