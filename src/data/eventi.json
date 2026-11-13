@@ -162259,5 +162259,1296 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-danza-delle-rondini-farnesiane-piacenza",
+    "titolo": "La Danza delle Rondini Farnesiane",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T10:30",
+    "fine": null,
+    "luogo": "Biffi Arte",
+    "indirizzo": "via Chiapponi, 39",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Intervista all’interno dell’iniziativa La Danza delle Rondini Farnesiane, dedicata alla danza, con Piacenza Network e PC Radio Cult. Entrata libera.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/eventi/la-danza-delle-rondini-farnesiane",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-miei-stupidi-intenti-perugia-21-11",
+    "titolo": "I miei stupidi intenti",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Teatro Morlacchi",
+    "indirizzo": "Perugia",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo VicoQuartoMazzini tratto dal romanzo premio Campiello di Bernardo Zannoni, con la storia di una faina che cerca Dio e trova le domande essenziali dell'esistenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/calendario",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-miei-stupidi-intenti-perugia-22-11",
+    "titolo": "I miei stupidi intenti",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "Teatro Morlacchi",
+    "indirizzo": "Perugia",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo VicoQuartoMazzini tratto dall'omonimo romanzo di Bernardo Zannoni vincitore del Premio Campiello 2022. La parabola di un animale che cerca di essere di più.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/calendario",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "india-ai-confini-dell-immaginabile-monza",
+    "titolo": "India: ai confini dell’immaginabile",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Cineteatro Triante",
+    "indirizzo": "via Duca D'Aosta 8/a",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Docufilm di Maurizio Bonetti sugli incassi devoluti all'associazione Help3 per progetti contro l'anemia falciforme in Africa subsahariana.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Help3 ODV",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/eventi/india-ai-confini-dellimmaginabile",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-volto-del-blues-monza",
+    "titolo": "Il Volto del Blues",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Binario 7",
+    "indirizzo": "Via F. Turati, 8, 20900 Monza MB",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale-musicale della The FaceBlues Band che unisce blues, soul e rhythm&blues a racconto e recitazione, per sensibilizzare su dignità umana e sfruttamento contemporaneo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "The FaceBlues Band",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/eventi/il-volto-del-blues",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-grande-per-i-piccoli-laboratori-performance-e-installazioni-per-l-i-brescia",
+    "titolo": "Il Grande per i Piccoli Laboratori, performance e installazioni per l'infanzia",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:00",
+    "fine": null,
+    "luogo": "Teatro Grande",
+    "indirizzo": "Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratori, aree gioco, attività tematiche, narrazioni per bambini under 11 e famiglie, con spettacolo finale in Sala Grande. Trasforma il Teatro Grande in spazio multidisciplinare per avvicinare i piccoli ai linguaggi contemporanei.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-sola-voce-infinite-immagini-novi-ligure",
+    "titolo": "Una sola voce, infinite immagini",
+    "categoria": "concerto",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T23:00",
+    "luogo": "Istituto musicale \"Alfredo Casella\"",
+    "indirizzo": "Via Giuseppe Verdi, 37, 15067 Novi Ligure AL, Italia",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna \"Musicanovi 2026\" con Silvia Ciliberti (mezzo soprano) e Nikolay Bogdanov (pianoforte), con musiche di Vivaldi, Schumann, Brahms, Bizet e Gounod.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi/memoria-e-confine-2514171-2514593-2514917-2520500",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arsenale-dei-due-mondi-novi-ligure",
+    "titolo": "Arsenale dei due mondi",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:00",
+    "fine": "2026-11-20T23:00",
+    "luogo": "Teatro Romualdo Marenco",
+    "indirizzo": "Via Nicolò Girardengo, 48, 15067 Novi Ligure AL, Italia",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del pianista e compositore Henrique Mota con l'Orchestra d'archi dell'Arsenale della Pace Sermig, direzione del Maestro Mauro Tabasso, inserito nella programmazione del Torino Jazz Festival Piemonte e nella stagione del Teatro Marenco.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Marenco",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi/tullio-solenghi-in-colpi-di-timone-2518153-2519098-2519099-2519691-2519692",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "boxeur-riservato-alle-scuole-cuneo",
+    "titolo": "BOXEUR - riservato alle scuole",
+    "categoria": "teatro",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-17",
+    "luogo": "Officina Santachiara - Teatro Cuore Immacolato",
+    "indirizzo": "via D. Livio Bianco 1",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale BOXEUR riservato alle scuole presso l'Officina Santachiara.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "romeo-juliet-social-ride-montecchio-maggiore",
+    "titolo": "Romeo&Juliet Social Ride",
+    "categoria": "sport",
+    "inizio": "2026-11-22T09:00",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Parcheggio Viale Europa",
+    "indirizzo": "Viale Europa, 125, 36075 Montecchio Maggiore-Alte Ceccato VI, Italia",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione della gara ciclistica Romeo&Juliet Ride Gravel. Ritrovo presso il negozio Il Ciclista, viale Europa 52.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/romeo-juliet-social-ride-733622",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-pista-di-pattinaggio-spettacolo-pattinaggio-artistico-giussano",
+    "titolo": "Inaugurazione pista di pattinaggio - spettacolo pattinaggio artistico",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T15:30",
+    "fine": "2026-11-14T17:30",
+    "luogo": "Parco Oriana Fallaci",
+    "indirizzo": "Piazza Oriana Fallaci, 20833 Giussano MB, Italia",
+    "cap": null,
+    "comune": "108024",
+    "frazione": null,
+    "lat": 45.6935,
+    "lon": 9.21093,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance di pattinaggio artistico per inaugurare la pista di pattinaggio al coperto nel Parco Oriana Fallaci.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "SSD Skate on Ice",
+    "fonti": [
+      {
+        "nome": "Comune di Giussano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.giussano.mb.it/it/eventi/inaugurazione-pista-di-pattinaggio-spettacolo-pattinaggio-artistico",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-sinfonica-classica-rassegne-kirill-petrenko-roma",
+    "titolo": "Stagione Sinfonica Classica | Rassegne Kirill Petrenko",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T18:00",
+    "fine": null,
+    "luogo": "Sala Santa Cecilia",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Stagione Sinfonica Classica con Kirill Petrenko all'Auditorium Parco della Musica Ennio Morricone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-coccodrillo-di-pietra-roma",
+    "titolo": "Il coccodrillo di pietra",
+    "categoria": "teatro",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Teatro Manzoni",
+    "indirizzo": "via Monte Zebio 14",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo inserito nella rassegna Scrittori in scena del Teatro Manzoni, con lettura o performance a tema letterario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperteatro 85 srl",
+    "fonti": [
+      {
+        "nome": "Teatro Manzoni",
+        "tipo": "ufficiale",
+        "url": "https://teatromanzoniroma.it/programma",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ultima-parola-spetta-a-noi-la-questione-umana-culturale-e-politica-d-roma",
+    "titolo": "L'ultima parola spetta a noi: la questione umana, culturale e politica del \"fine vita\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Manzoni",
+    "indirizzo": "via Monte Zebio 14",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro nella rassegna Manzoni Idee che affronta il tema etico, culturale e politico del fine vita, con dibattito e testimonianze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperteatro 85 srl",
+    "fonti": [
+      {
+        "nome": "Teatro Manzoni",
+        "tipo": "ufficiale",
+        "url": "https://teatromanzoniroma.it/programma",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-agroalimentare-di-prodotti-tipici-chiavari",
+    "titolo": "Mercatino Agroalimentare di Prodotti Tipici",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-29T17:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Piazza Mazzini, 16043 Chiavari",
+    "cap": null,
+    "comune": "010015",
+    "frazione": null,
+    "lat": 44.32919,
+    "lon": 9.3171,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino enogastronomico dedicato ai prodotti tipici locali, nelle due giornate del 28 e 29 novembre. La domenica 29 dalle 10.30 alle 12.45 è prevista anche una performance di live painting di Arinna Peres e Davide L. Marescotti, che realizzeranno opere davanti al pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Chiavari",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chiavari.ge.it/it/eventi/mercatino-agroalimentare-di-prodotti-tipici-2520554",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-buontempo-laboratorio-martinengo",
+    "titolo": "Festival Buontempo: laboratorio",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:30",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37, 24057 Martinengo BG Italia",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di illustrazione per bambini dai 5 agli 11 anni, condotto dall'illustratore Silvio Boselli nell'ambito del Festival Buontempo. Le attività artistiche mirano a stimolare la creatività dei partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sistema Bibliotecario Bassa Pianura Bergamasca",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/nati-per-leggere-in-festa-a-martinengo-729833-729841-733853",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "matinee-il-cinema-al-circolo-fedeli-al-re-2-novara",
+    "titolo": "Matinée. Il Cinema al Circolo: Fedeli al Re #2",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "fine": null,
+    "luogo": "Sala delle Mura, Castello Sforzesco",
+    "indirizzo": "p.zza Martiri della Libertà 3, 28100 Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione e incontro con Roberto Gallaurese a partire dal romanzo 22/11/63 di Stephen King, nell'ambito della rassegna cinematografica del Circolo dei lettori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "il Circolo dei lettori",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookclub-3-relazioni-liquide-in-tempi-liquidi-novara",
+    "titolo": "Bookclub #3: Relazioni liquide in tempi liquidi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T21:00",
+    "fine": null,
+    "luogo": "Sala Sibilla Aleramo, Castello Sforzesco",
+    "indirizzo": "p.zza Martiri della Libertà 3, 28100 Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo appuntamento del ciclo Bookclub, dedicato al tema delle relazioni nell'epoca contemporanea, in serata presso la sala del Circolo dei lettori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "il Circolo dei lettori",
+    "fonti": [
+      {
+        "nome": "Circolo dei lettori di Novara",
+        "tipo": "organizzatore",
+        "url": "https://novara.circololettori.it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lettura-interattiva-del-silent-book-viaggio-di-aaron-becker-cento",
+    "titolo": "Lettura interattiva del silent book \"Viaggio\" di Aaron Becker",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T11:30",
+    "luogo": "Biblioteca Comunale di Renazzo",
+    "indirizzo": "Via di Renazzo, 52",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura interattiva del celebre silent book di Aaron Becker, pensata per bambini dai 4 anni in su, seguita da un laboratorio creativo curato da Linda Gallerani. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/lettura-interattiva-basata-sul-silent-book-viaggio-di-aaron-becker",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-mostra-fotografica-80-anni-dal-primo-voto-alle-donne-cento",
+    "titolo": "Inaugurazione mostra fotografica \"80 anni dal primo voto alle donne\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-15T11:00",
+    "fine": null,
+    "luogo": "Biblioteca Ileana Ardizzoni di Casumaro",
+    "indirizzo": "Via Donatori di Sangue, 1",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra fotografica che ripercorre gli 80 anni dal primo voto delle donne in Italia (1946), a cura della CGIL-SPI Lega di Cento. Visibile fino al 29 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CGIL-SPI Lega di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/inaugurazione-mostra-fotografica-80-anni-dal-primo-voto-alle-donne",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-laboratorio-d-autore-elena-pucillo-e-truong-van-dan-melzo",
+    "titolo": "Rassegna Laboratorio d'Autore: Elena Pucillo e Truong Van Dan",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T16:30",
+    "fine": "2026-11-14T17:30",
+    "luogo": "Biblioteca Vittorio Sereni Melzo",
+    "indirizzo": "Via Agnese Pasta, 43",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di teatro in collaborazione tra UTL, Teatro Trivulzio e Biblioteca Vittorio Sereni Melzo. Con le opere 'Un lembo di seta tra i fiori di loto' di Elena Pucillo Truong e 'Canzoniere del XXI° sec.: Sui disastri e sulle guerre' di Truong Van Dan.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi/rassegna-laboratorio-d-autore-elena-pucillo-e-truong-van-dan",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "50-anni-di-aido-melzo-melzo",
+    "titolo": "50 anni di AIDO MELZO",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T10:00",
+    "fine": "2026-11-15T15:00",
+    "luogo": "AIDO Melzo",
+    "indirizzo": "Via De Amicis, 7",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione dei 50 anni di AIDO Melzo con colazione, corteo, Santa Messa e un pomeriggio di musica e comicità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "AIDO Melzo",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi/50-anni-di-aido-melzo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "commissione-consiliare-alla-persona-18-novembre-2026-albino",
+    "titolo": "Commissione consiliare alla persona 18 novembre 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-18T15:30",
+    "fine": "2026-11-18T23:59",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Libertà, 1, 24021 Albino BG, Italia",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Convocazione della commissione consiliare alla persona per discussioni su tematiche legate alla persona e ai servizi sociali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/commissione-consiliare-alla-persona-18-novembre-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "commissione-consiliare-per-l-economia-18-novembre-2026-albino",
+    "titolo": "Commissione consiliare per l'economia 18 novembre 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-18T16:30",
+    "fine": "2026-11-18T23:59",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Libertà, 1, 24021 Albino BG, Italia",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Convocazione della commissione consiliare per l'economia per esaminare questioni economiche e di bilancio comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Albino",
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/commissione-consiliare-per-l-economia-18-novembre-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchio-al-cinema-asola",
+    "titolo": "Pinocchio al cinema",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T16:00",
+    "fine": null,
+    "luogo": "Museo civico G. Bellini",
+    "indirizzo": "Asola",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento dedicato alle trasposizioni cinematografiche della celebre storia di Collodi, a cura di Matteo Molinari. Dal 1911 la storia di Pinocchio è stata adattata per il grande schermo in molteplici versioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/pinocchio",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchio-a-voce-alta-asola",
+    "titolo": "Pinocchio a voce alta",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T16:30",
+    "fine": null,
+    "luogo": "Biblioteca comunale A. Torresano",
+    "indirizzo": "Asola",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura-narrazione per piccoli grandi bugiardi tratta dal capolavoro di Carlo Collodi, realizzata da Pandemonium Teatro. La voce e il corpo raccontano ciò che accade tra un frammento e l'altro del racconto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/pinocchio",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-del-kaki-tree-il-suono-della-pace-cassano-d-adda",
+    "titolo": "Festa del kaki tree: il suono della pace",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T13:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via D. Alighieri, 4, 20062 Cassano d'Adda MI, Italia",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio sonoro e letture musicali per bambini dai 5 anni in occasione degli 8 anni del Kaki Tree della biblioteca di Cassano d'Adda, che aderisce al Kaki Tree Project dedicato alla pace globale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/festa-del-kaki-tree-638739-733775",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rotte-sonore-cassano-d-adda",
+    "titolo": "Rotte sonore",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T18:00",
+    "fine": "2026-11-26T20:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via D. Alighieri, 4, 20062 Cassano d'Adda MI, Italia",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Ascolti musicali per adulti guidati da Francesca Stella Riva, musicoterapista e insegnante di musica. Il percorso è ispirato alle missioni della Reading Challenge Rotte di Lettura; il primo incontro propone 'Musiche e brividi'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/rotte-sonore",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-lucerna-del-mondo-erba",
+    "titolo": "La lucerna del Mondo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Biblioteca Comunale Giuseppe Pontiggia",
+    "indirizzo": "Via Joriati, 6",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro omonimo di Michela Musante con letture drammatizzate a cura di Giovanna Gagliardini, in occasione della Giornata internazionale contro la violenza sulle donne. La Biblioteca fa parte del circuito I Rifugi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/la-lucerna-del-mondo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-delle-storie-invecchiare-non-fa-paura-erba",
+    "titolo": "FESTIVAL DELLE STORIE: Invecchiare non fa paura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T17:00",
+    "fine": "2026-12-03T19:00",
+    "luogo": "Biblioteca Comunale Giuseppe Pontiggia",
+    "indirizzo": "Via Joriati, 6",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Marco Trabucchi (Edizioni San Paolo) con incontro con l'autore, psichiatra e professore ordinario di Neuropsicofarmacologia. L'evento è inserito nella rassegna BrianzaBiblioteche dal tema Cambia-menti e chiude i tre appuntamenti di Erba. Organizzato dalla Cooperativa La Meridiana.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperativa La Meridiana",
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/festival-delle-storie-invecchiare-non-fa-paura",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "libera-da-libera-di-ivrea",
+    "titolo": "Libera da... Libera di...",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": null,
+    "luogo": "Atrio",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo e dibattito sulla libertà di scegliere, organizzato dalla Compagnia Inarrestabile.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Inarrestabile",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/libera-da-libera-di",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cosebuone-ivrea-17-11",
+    "titolo": "CoseBuone",
+    "categoria": "mercatino",
+    "inizio": "2026-11-17T17:00",
+    "fine": null,
+    "luogo": "Atrio",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato di prodotti locali e biologici, con verdura, pane, formaggi e altro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/cosebuone-0",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sportello-elp-ivrea",
+    "titolo": "Sportello ELP",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T16:30",
+    "fine": "2026-11-18T18:30",
+    "luogo": "Stanza arancione",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Sportello ELP per accompagnamento leggero, assistenza per persone con background migratorio e supporto pratiche digitali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/sportello-elp-0",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "argentina-che-resiste-ivrea",
+    "titolo": "Argentina che resiste",
+    "categoria": "mostra",
+    "inizio": "2026-11-20T18:00",
+    "fine": null,
+    "luogo": "Atrio",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra e videopodcast sulla resistenza argentina, in occasione della Giornata Mondiale dei Diritti Umani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/10/eventi/argentina-che-resiste",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-traccia-mancante-brescia",
+    "titolo": "La traccia mancante",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T10:00",
+    "fine": null,
+    "luogo": "Auditorium San Barnaba",
+    "indirizzo": "corso Magenta 44/A",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico promosso dalla Commissione Pari Opportunità del Comune di Brescia, con interventi dell'assessore Anna Frattini e della vicepresidente Martina Avanza, dialogo con Maria Agostina Cabiddu, Camilla Ziglia e Laura Mantovi, per riflettere sulla rappresentazione femminile nella cultura e scuola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Commissione Pari Opportunità (CPO) del Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-traccia-mancante",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ingorgo-letterario-2026-borgo-san-lorenzo-09-11",
+    "titolo": "Ingorgo Letterario 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-09T08:00",
+    "fine": "2026-11-15T23:00",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Dante, 2 - 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "XI edizione del Festival del libro e degli autori con incontri e presentazioni di libri.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/ingorgo-letterario-2026",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-punto-di-libro-scambio-e-presentazione-del-libro-voci-borgo-san-lorenzo",
+    "titolo": "Inaugurazione punto di libro-scambio e presentazione del libro Voci",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Dante, 2 - 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di un punto di libro-scambio e presentazione del libro 'Voci' di Alberto Balloni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ellera Polcanto",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/inaugurazione-punto-di-libro-scambio-e-presentazione-del-libro-voci",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "artemisia-a-firenze-borgo-san-lorenzo",
+    "titolo": "Artemisia a Firenze",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "fine": "2026-11-19T18:30",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Dante, 2 - 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Racconto sulla vita e l'opera di Artemisia Gentileschi da parte di Daniela Cappelli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/artemisia-a-firenze",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-alla-mostra-artemisia-gentileschi-borgo-san-lorenzo",
+    "titolo": "Visita alla mostra Artemisia Gentileschi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-25T10:00",
+    "fine": "2026-11-25T15:00",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 10, 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla mostra Artemisia Gentileschi in occasione della Giornata Internazionale per l'eliminazione della violenza contro le donne e di genere.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 27
+    },
+    "prenotazione": null,
+    "organizzatore": "Una Biblioteca per Ronta",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/visita-alla-mostra-artemisia-gentileschi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
   }
 ]
