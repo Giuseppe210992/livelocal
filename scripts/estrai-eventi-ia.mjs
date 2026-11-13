@@ -23,6 +23,7 @@
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 
 const args = process.argv.slice(2);
 const opz = (nome) => { const i = args.indexOf(nome); return i >= 0 ? args[i + 1] : null; };
@@ -193,8 +194,10 @@ const stato = existsSync(fileStato) ? JSON.parse(readFileSync(fileStato, 'utf8')
 // ---- Modalità --comuni: per ogni comune da 10.000 abitanti non ancora fatto, trova il sito del Comune e la sua pagina «Eventi».
 const fileProgresso = 'ricerca/comuni-progresso.json';
 const progresso = existsSync(fileProgresso) ? JSON.parse(readFileSync(fileProgresso, 'utf8')) : { _nota: 'Comuni già censiti. esito: eventi | nessun-evento | fonti-illeggibili.', fatti: {} };
+const filePagine = 'ricerca/comuni-pagine.json'; // per ogni comune: pagina «Eventi» trovata e impronta del suo contenuto all'ultimo controllo
+const paginComuni = existsSync(filePagine) ? JSON.parse(readFileSync(filePagine, 'utf8')) : {};
 const modalitaComuni = args.includes('--comuni');
-const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 30);
+const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 160);
 
 const slugComune = (c) => c.slug;
 function indirizziComune(c, sigla) {
@@ -248,14 +251,26 @@ async function preparaComuni(quanti) {
   const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
   const province = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
   const grandi = new Set(JSON.parse(readFileSync('ricerca/comuni-grandi.json', 'utf8')).comuni.map((c) => c.codice));
-  const coda = territorio.comuni.filter((c) => grandi.has(c.codiceIstat) && !progresso.fatti[c.codiceIstat])
-    .sort((a, b) => a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat)).slice(0, quanti);
+  // Coda: prima i comuni mai controllati (in ordine alfabetico), poi quelli controllati da più tempo.
+  // Si ricontrolla ogni comune una volta al giorno; quelli illeggibili solo ogni 7 giorni.
+  const giorniDa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
+  const dovuto = (c) => { const p = progresso.fatti[c.codiceIstat]; if (!p) return true; if (String(p.data) >= OGGI) return false; return p.esito === 'fonti-illeggibili' ? giorniDa(p.data) >= 7 : true; };
+  const coda = territorio.comuni.filter((c) => grandi.has(c.codiceIstat) && dovuto(c))
+    .sort((a, b) => {
+      const pa = progresso.fatti[a.codiceIstat], pb = progresso.fatti[b.codiceIstat];
+      return Number(!!pa) - Number(!!pb) || String(pa?.data ?? '').localeCompare(String(pb?.data ?? '')) || a.nome.localeCompare(b.nome, 'it') || a.codiceIstat.localeCompare(b.codiceIstat);
+    }).slice(0, quanti);
   const out = [];
   let i = 0;
   async function cerca() {
     while (i < coda.length) {
       const c = coda[i++];
       const sigla = province.get(c.provincia).sigla;
+      const noto = paginComuni[c.codiceIstat];
+      if (noto?.url) { // la pagina «Eventi» è già nota: si riapre direttamente
+        out.push({ url: noto.url, nome: `Comune di ${c.nome}`, tipo: 'ufficiale', dettagli: true, codiceComune: c.codiceIstat, hash: noto.hash, hint: `Comune di riferimento: ${c.nome} (${sigla}). Gli eventi che si svolgono in questo Comune vanno scritti con comune: ${c.nome} e provincia: ${sigla}.` });
+        continue;
+      }
       let sito = null, html = null;
       for (const ind of [...(sitiWikidata[c.codiceIstat] ?? []).filter((u) => /^https?:\/\//.test(u)), ...indirizziComune(c, sigla)]) {
         const s = await scarica(ind);
@@ -274,7 +289,7 @@ async function preparaComuni(quanti) {
 
 let elenco;
 if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
-else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false }];
+else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false, codiceComune: process.env.TEST_CODICE, hash: process.env.TEST_HASH }];
 else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
@@ -308,7 +323,8 @@ async function lavora(fonte) {
     if (!fonte.codiceComune) stato.fonti[fonte.url] = riga;
     if (fonte.codiceComune) {
       const letto = riga.esito.startsWith('ok');
-      progresso.fatti[fonte.codiceComune] = { data: OGGI, esito: !letto ? 'fonti-illeggibili' : nuovi.length ? 'eventi' : 'nessun-evento', eventi: nuovi.length };
+      if (riga.esito === 'invariata') progresso.fatti[fonte.codiceComune] = { ...(progresso.fatti[fonte.codiceComune] ?? { esito: 'nessun-evento', eventi: 0 }), data: OGGI };
+      else progresso.fatti[fonte.codiceComune] = { data: OGGI, esito: !letto ? 'fonti-illeggibili' : nuovi.length ? 'eventi' : 'nessun-evento', eventi: nuovi.length };
     }
     return { righe, nuovi };
   };
@@ -329,6 +345,19 @@ async function lavora(fonte) {
       }
     }
     if (pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
+    // Ricontrollo giornaliero: se la pagina (e l'elenco delle sue schede) non è cambiata dall'ultima volta, non serve chiedere niente al modello.
+    let hashNuovo = null;
+    if (fonte.codiceComune) {
+      const schede = fonte.dettagli && !htmlLocale ? linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI) : [];
+      hashNuovo = createHash('sha1').update(pagine[0].testo + '\n' + schede.join('\n')).digest('hex').slice(0, 16);
+      if (process.env.DEBUG_HASH) console.log('hash', hashNuovo);
+      if (fonte.hash && hashNuovo === fonte.hash) {
+        riga.esito = 'invariata';
+        righe.push(`  =    ${fonte.nome}: invariata (nessuna richiesta al modello)`);
+        paginComuni[fonte.codiceComune] = { url: fonte.url, hash: hashNuovo };
+        return chiudi();
+      }
+    }
 
     const mappa = new Map(pagine.map((p) => [normUrl(p.url), p.testo]));
     if (args.includes('--prompt')) { console.log(costruisciPrompt(pagine, fonte.hint ?? '')); process.exit(0); }
@@ -348,6 +377,7 @@ async function lavora(fonte) {
       buoni++;
     }
     riga.eventi = buoni;
+    if (fonte.codiceComune && hashNuovo) paginComuni[fonte.codiceComune] = { url: fonte.url, hash: hashNuovo };
     riga.falliti = 0; // la pagina ha risposto e il modello ha lavorato: non è «rotta», anche se oggi non ha eventi
     riga.esito = `ok: ${trovati.length} proposti, ${buoni} superano il controllo`;
     righe.push(`  ok   ${fonte.nome}: ${riga.esito}`);
@@ -374,7 +404,8 @@ async function operaio() {
 await Promise.all(Array.from({ length: CONCORRENZA }, () => operaio()));
 for (const r of risultati) { resoconto.push(...r.righe); blocchi.push(...r.nuovi); }
 if (saltateTempo) resoconto.push(`  ..   tempo a disposizione finito: ${saltateTempo} pagine saranno lette al prossimo giro`);
-resoconto.push(`Riepilogo: ${risultati.length} pagine lavorate, ${blocchi.length} eventi superano il controllo.`);
+const invariate = risultati.filter((r) => r.righe.some((l) => l.includes('invariata'))).length;
+resoconto.push(`Riepilogo: ${risultati.length} pagine lavorate (${invariate} invariate, senza chiamate al modello), ${blocchi.length} eventi superano il controllo.`);
 
 if (prova) {
   console.log(`\n--- PROVA: ${blocchi.length} eventi superano il controllo (non scritti) ---\n${blocchi.join('\n\n')}\n`);
@@ -383,7 +414,10 @@ if (prova) {
 }
 console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
-if (modalitaComuni) writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
+if (modalitaComuni) {
+  writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
+  writeFileSync(filePagine, JSON.stringify(paginComuni) + '\n');
+}
 if (blocchi.length) {
   mkdirSync('ricerca/consegne', { recursive: true });
   const nomeFile = `ricerca/consegne/auto-${OGGI}-${new Date().toISOString().slice(11, 16).replace(':', '')}.txt`;

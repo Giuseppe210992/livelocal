@@ -32,6 +32,11 @@ const risolutori = {
     scrivi(f, { ...online, fatti }, 1);
     return `${Object.keys(fatti).length} comuni`;
   },
+  'ricerca/comuni-pagine.json': (f) => {
+    const online = leggi(2, f), nostra = leggi(3, f);
+    scrivi(f, { ...online, ...nostra }, 0);
+    return `${Object.keys({ ...online, ...nostra }).length} pagine`;
+  },
   'ricerca/automazione-stato.json': (f) => {
     const online = leggi(2, f), nostra = leggi(3, f);
     scrivi(f, { ...online, fonti: { ...online.fonti, ...nostra.fonti } }, 1);

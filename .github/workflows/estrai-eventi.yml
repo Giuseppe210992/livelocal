@@ -61,14 +61,14 @@ jobs:
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
-          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json ricerca/comuni-progresso.json ricerca/comuni-siti.json
+          git add src/data/eventi.json ricerca/consegne ricerca/automazione-stato.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/comuni-siti.json
           if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
           git commit -m "Estrazione automatica di eventi (FreeLLMAPI): $(date +%F)"
           for i in 1 2 3 4; do
             if ! git pull --rebase origin main; then
               # Conflitto solo su eventi.json: si tiene la versione online e si aggiungono i nostri eventi.
               if node scripts/risolvi-conflitto-eventi.mjs; then
-                git add src/data/eventi.json ricerca/comuni-progresso.json ricerca/automazione-stato.json
+                git add src/data/eventi.json ricerca/comuni-progresso.json ricerca/comuni-pagine.json ricerca/automazione-stato.json
                 GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
               else
                 git rebase --abort; sleep $((i * 5)); continue

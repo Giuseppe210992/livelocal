@@ -44,3 +44,12 @@ Seconda Action (`.github/workflows/estrai-comuni.yml`), ogni 3 ore, 30 comuni pe
 3. legge quella pagina e fino a 10 schede di dettaglio, poi segue la stessa procedura dell'altra Action (citazioni controllate, importazione con controlli, build, salvataggio);
 4. segna il comune come `eventi`, `nessun-evento` o `fonti-illeggibili` (sito non trovato, pagina vuota o bloccata).
 Prima prova reale (8/11/2026, 10 comuni): 5 con eventi, 1 senza, 5 illeggibili; i siti che caricano gli eventi con JavaScript restano il limite principale. Per fermare tutto: Actions → la Action → menu «…» → Disable workflow.
+
+## Ricontrollo giornaliero dei comuni da 10.000 abitanti (dal 13/11/2026)
+
+Dopo il primo giro su tutti i 1.188 comuni, la stessa Action li **ricontrolla ogni giorno** per vedere se hanno pubblicato eventi nuovi:
+- ogni giro (ogni 3 ore) prende fino a **160 comuni**: prima quelli mai controllati, poi quelli controllati da più tempo. In 8 giri al giorno si copre tutta la lista; i comuni con sito illeggibile si riprovano ogni 7 giorni;
+- per ogni comune riapre direttamente la pagina «Eventi» già trovata (`ricerca/comuni-pagine.json`) e ne calcola un'**impronta**; se la pagina e l'elenco delle sue schede **non sono cambiati** dall'ultima volta, non chiama il modello (zero quota di FreeLLMAPI) e segna il comune come «invariata»;
+- se è cambiata, la rilegge con FreeLLMAPI; gli eventi già presenti vengono scartati come doppioni, quelli nuovi entrano se superano i controlli;
+- il riepilogo di ogni giro dice quante pagine erano invariate.
+Limite: un evento già presente che cambia data o viene annullato non si aggiorna da solo: viene aggiunto come evento nuovo (la vecchia scheda resta).
