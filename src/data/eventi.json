@@ -146727,5 +146727,101 @@
     "inserito": "2026-11-12",
     "inseritoDa": "ia",
     "fine": "2026-11-22"
+  },
+  {
+    "slug": "storie-di-lupi-mabic-maranello-2026-11-21",
+    "titolo": "Storie di lupi – spettacolo per i 15 anni della biblioteca MABIC",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "luogo": "MABIC – Maranello Biblioteca Cultura",
+    "indirizzo": "Via Vittorio Veneto 5, Maranello",
+    "cap": null,
+    "comune": "036019",
+    "frazione": null,
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro di figura, narrazione e musica dal vivo con Silvia De Bastiani, dal punto di vista del lupo: i Tre Porcellini e Cappuccetto Rosso. Per bambini dai 3 ai 9 anni, ingresso libero fino a esaurimento posti. Alle 17:30 merenda per festeggiare i 15 anni della biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Maranello – MABIC",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo7A5_jUMu/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-culla-di-storie-nati-per-leggere-mabic-maranello-2026-11-21",
+    "titolo": "Una culla di storie – Nati per Leggere alla MABIC",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "luogo": "MABIC – Maranello Biblioteca Cultura",
+    "indirizzo": "Via Vittorio Veneto 5, Maranello",
+    "cap": null,
+    "comune": "036019",
+    "frazione": null,
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività di lettura per bambini da 0 a 12 mesi e i loro genitori, a cura dei volontari di Nati per Leggere. Gratuita, su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Maranello – MABIC",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfo7A5_jUMu/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-comunita-energetica-rinnovabile-mogliano-veneto-2026-11-13",
+    "titolo": "Presentazione della Comunità Energetica Rinnovabile di Mogliano Veneto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T18:00",
+    "luogo": "Sede del Quartiere Est",
+    "indirizzo": "Galleria Aldo Moro 10, Mogliano Veneto",
+    "cap": null,
+    "comune": "026043",
+    "frazione": null,
+    "lat": 45.56799,
+    "lon": 12.25251,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico sulla CER Mogliano Veneto: cittadini e imprese che producono, condividono e consumano energia da fonti rinnovabili. Tutta la cittadinanza è invitata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Mogliano Veneto",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Mogliano Veneto",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpeP1Gm9hh/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
