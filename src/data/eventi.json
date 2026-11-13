@@ -169630,5 +169630,62 @@
     ],
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "mostra-benvenuti-in-atelier-moda-sostenibile-palazzo-del-vescovo-codigoro-2026-11-14",
+    "titolo": "Mostra «Benvenuti in Atelier»: moda dal riciclo creativo",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T16:30",
+    "luogo": "Palazzo del Vescovo",
+    "indirizzo": "Codigoro",
+    "comune": "038005",
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra di CNA Federmoda nel programma della Fiera di San Martino: materiali di recupero, come la plastica, diventano creazioni di moda. Con laboratorio di disegno per bambini sugli abiti delle quattro stagioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "CNA Federmoda e Comune di Codigoro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Codigoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfsAHe_jdxo/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "laboratorio-cartapesta-senti-che-murgia-corato-2026-11-14",
+    "titolo": "Laboratorio di cartapesta (Senti che Murgia)",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T17:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Museo della Città e del Territorio",
+    "indirizzo": "Corato",
+    "comune": "072020",
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lavorazione della cartapesta con Fabrizio e Giuseppe Losapio, nel programma «Senti che Murgia» della Pro Loco di Corato. Prenotazione online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Corato",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Corato",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfrTAYaokzL/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
