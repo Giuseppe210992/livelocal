@@ -150807,5 +150807,102 @@
     ],
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-mondiale-del-diabete-piazza-della-repubblica-chivasso-2026-11-15",
+    "titolo": "Giornata mondiale del diabete in piazza a Chivasso",
+    "categoria": "sport",
+    "inizio": "2026-11-15T09:00",
+    "luogo": "Piazza della Repubblica",
+    "indirizzo": "Piazza della Repubblica, Chivasso",
+    "cap": null,
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Screening glicemico gratuito dalle 9 alle 13 con un diabetologo (senza digiuno), camminata salutistica alle 10:30, attività motoria dalle 16 alle 17 e aperitivo finale, organizzati da FAND Chivasso ODV.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "FAND Chivasso ODV",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Chivasso",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpTfTmhldh/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T17:00"
+  },
+  {
+    "slug": "un-altra-vita-oltre-la-violenza-filomena-lamberti-teatrino-civico-chivasso-2026-11-16",
+    "titolo": "Un'altra vita oltre la violenza – incontro con Filomena Lamberti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T17:30",
+    "luogo": "Teatrino Civico",
+    "indirizzo": "Chivasso",
+    "cap": null,
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Testimonianza di Filomena Lamberti, sopravvissuta nel 2012 a un'aggressione con acido, nelle iniziative per la Giornata contro la violenza sulle donne, con la Rete Lecy.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Chivasso e Rete Lecy",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Città di Chivasso",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpUwZ2hfpY/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mein-kampf-edizione-critica-museo-della-deportazione-prato-2026-12-04",
+    "titolo": "«Mein Kampf. Edizione critica» – presentazione al Museo della Deportazione",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T17:00",
+    "luogo": "Museo della Deportazione e Resistenza",
+    "indirizzo": "Via di Cantagallo 250, Prato",
+    "cap": null,
+    "comune": "100005",
+    "frazione": null,
+    "lat": 43.87825,
+    "lon": 11.08516,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro con i curatori Marcello Flores e Giovanni Gozzini, modera Luca Bravi (Università di Firenze), nella rassegna «Un autunno da sfogliare». Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo della Deportazione e Resistenza",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Museo della Deportazione",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfp3UHfDIec/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
