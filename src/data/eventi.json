@@ -150354,5 +150354,102 @@
     "inserito": "2026-11-13",
     "inseritoDa": "ia",
     "fine": "2026-11-14T17:00"
+  },
+  {
+    "slug": "i-cavalli-dei-gonzaga-richieste-inglesi-mast-castel-goffredo-2026-11-19",
+    "titolo": "Il prestigio internazionale dei cavalli dei Gonzaga – incontro al MAST",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "luogo": "MAST – Museo Archeologico",
+    "indirizzo": "Castel Goffredo",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo storico Andrea Tonni racconta come i cavalli da corsa dei Gonzaga, richiesti anche da Enrico VIII, fecero di Mantova il centro della cultura equestre rinascimentale. Biglietto 12 € (10 € con il pacchetto di tre incontri), iscrizione entro 3 giorni prima.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castel Goffredo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpwcBYlHQG/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-foresta-ricamata-casa-della-musica-cesano-boscone-2026-11-14",
+    "titolo": "Una foresta ricamata – lettura teatrale con musica",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:30",
+    "luogo": "Casa della Musica",
+    "indirizzo": "Via G. Matteotti 9, Cesano Boscone",
+    "cap": null,
+    "comune": "015074",
+    "frazione": null,
+    "lat": 45.44125,
+    "lon": 9.08719,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura teatrale con accompagnamento musicale dall'opera del poeta Tiziano Fratus, a cura del Centro Italiano Ricerche Teatrali «I Rabdomanti»: un viaggio tra foglie, radici e il silenzio dei grandi alberi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Italiano Ricerche Teatrali I Rabdomanti",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfoz1VLmwx2/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "breaking-brecht-teatro-colosseo-torino-2026-11-24",
+    "titolo": "Breaking Brecht – Lo strano caso di Bertolt Brecht al Teatro Colosseo",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T20:30",
+    "luogo": "Teatro Colosseo",
+    "indirizzo": "Torino",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Cabaret teatrale e musicale con Veronica Pivetti, Manuela Mandracchia e Lucia Vasini: Brecht catapultato nel presente, tra satira, parodia e musiche di Kurt Weill. Biglietti online e in teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Colosseo",
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Colosseo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfpjtkmm97-/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
