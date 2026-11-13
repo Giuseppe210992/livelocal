@@ -159114,14 +159114,14 @@
     "slug": "tavola-rotonda-lazzaretti-memoria-e-futuro-dei-territori-cagliari-2026-11-14",
     "titolo": "Lazzaretti: memoria e futuro dei territori, tavola rotonda",
     "categoria": "conferenza",
-    "inizio": "2026-11-14",
-    "luogo": "Lazzaretto di Sant’Elia",
+    "inizio": "2026-11-14T10:00",
+    "luogo": "Centro d’Arte e Cultura Lazzaretto di Cagliari",
     "indirizzo": "Cagliari",
     "comune": "118006",
     "lat": 39.22448,
     "lon": 9.08817,
     "coordinateApprossimate": true,
-    "descrizione": "Tavola rotonda sul futuro dei lazzaretti. Gli archeologi Alice Nozza e Matteo Tatti dell’associazione Itzokor presentano «Il Lazzaretto di Sant’Elia nel contesto del territorio: lo sguardo archeologico», dalla preistoria all’età moderna.",
+    "descrizione": "Tavola rotonda sul futuro dei lazzaretti. Gli archeologi Alice Nozza e Matteo Tatti dell’associazione Itzokor presentano «Il Lazzaretto di Sant’Elia nel contesto del territorio: lo sguardo archeologico», dalla preistoria all’età moderna. Interviene anche Lara Meneghini dell’Ecomuseo dei Lazzaretti Veneziani; la mattinata è parte di «Extra Sant’Elia – I custodi del tempo».",
     "prezzo": {
       "tipo": "non-indicato"
     },
@@ -159132,6 +159132,12 @@
         "nome": "Instagram Lazzaretto di Cagliari",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/DfrMqUhlZYD/",
+        "consultata": "2026-11-13"
+      },
+      {
+        "nome": "Instagram Lazzaretto di Cagliari (programma)",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfov86rivjD/",
         "consultata": "2026-11-13"
       }
     ],
@@ -163550,5 +163556,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-13",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "passeggiata-archeologica-colle-di-sant-elia-cagliari-2026-11-14",
+    "titolo": "Passeggiata archeologica sul Colle di Sant’Elia",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T14:30",
+    "luogo": "Colle di Sant’Elia",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Nel pomeriggio di «Extra Sant’Elia – I custodi del tempo» si esce alla scoperta del territorio con una passeggiata archeologica sul Colle di Sant’Elia guidata dal professor Alfonso Stiglitz.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Lazzaretto di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Lazzaretto di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfpRi2zDR-r/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
