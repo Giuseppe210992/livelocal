@@ -153581,5 +153581,2555 @@
     "inserito": "2026-11-13",
     "inseritoDa": "ia",
     "fine": "2026-11-14T18:00"
+  },
+  {
+    "slug": "giornata-mondiale-del-ricordo-delle-vittime-della-strada-agrigento",
+    "titolo": "Giornata Mondiale del Ricordo delle Vittime della Strada",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-15T09:30",
+    "fine": "2026-11-16T12:00",
+    "luogo": "Villa Bonfiglio",
+    "indirizzo": "Viale della Vittoria, Agrigento",
+    "cap": null,
+    "comune": "084001",
+    "frazione": null,
+    "lat": 37.32237,
+    "lon": 13.56559,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziative per onorare le vittime della strada e promuovere la sicurezza. Programma con momenti commemorativi, religiosi e una giornata di sensibilizzazione presso l'Istituto Superiore Nicolo Gallo con il Caravan Azzurro della Polizia di Stato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Agrigento",
+        "tipo": "ufficiale",
+        "url": "https://comune.agrigento.it/eventi/giornata-mondiale-del-ricordo-delle-vittime-della-strada",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bimbi-in-gioco-agrate-brianza",
+    "titolo": "Bimbi in gioco!",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T18:00",
+    "luogo": "Biblioteca di Agrate Brianza",
+    "indirizzo": "Agrate Brianza",
+    "cap": null,
+    "comune": "108001",
+    "frazione": null,
+    "lat": 45.57491,
+    "lon": 9.3587,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con giochi da tavolo dedicati a bambini e genitori organizzato in biblioteca insieme all'Associazione Giochingiro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Giochingiro",
+    "fonti": [
+      {
+        "nome": "Comune di Agrate Brianza",
+        "tipo": "ufficiale",
+        "url": "https://comune.agratebrianza.mb.it/vivere-il-comune/evento/bimbi-in-gioco-2",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "guarda-tocca-ascolta-0-12-mesi-agrate-brianza",
+    "titolo": "Guarda, tocca, ascolta: 0-12 mesi",
+    "categoria": "bambini",
+    "inizio": "2026-11-18T10:00",
+    "fine": "2026-11-18T11:30",
+    "luogo": "Biblioteca",
+    "indirizzo": "Agrate Brianza",
+    "cap": null,
+    "comune": "108001",
+    "frazione": null,
+    "lat": 45.57491,
+    "lon": 9.3587,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato ai bambini da 0 a 12 mesi e ai loro genitori per scoprire libri, giochi e materiali di lettura fin dai primi mesi di vita.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Agrate Brianza",
+        "tipo": "ufficiale",
+        "url": "https://comune.agratebrianza.mb.it/vivere-il-comune/evento/guarda-tocca-ascolta-0-12-mesi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-3-5-anni-agrate-brianza",
+    "titolo": "La notte dei pupazzi! 3-5 anni",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T17:00",
+    "fine": "2026-11-21T11:15",
+    "luogo": "Sala ragazzi della biblioteca",
+    "indirizzo": "Agrate Brianza",
+    "cap": null,
+    "comune": "108001",
+    "frazione": null,
+    "lat": 45.57491,
+    "lon": 9.3587,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini da 3 a 5 anni che possono lasciare il proprio pupazzo a passare la notte in biblioteca per poi ritrovarlo il giorno seguente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Agrate Brianza",
+        "tipo": "ufficiale",
+        "url": "https://comune.agratebrianza.mb.it/vivere-il-comune/evento/la-notte-dei-pupazzi-3-5-anni",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-gratuite-alla-cava-dei-dinosauri-un-passo-nel-cretaceo-altamura",
+    "titolo": "Visite guidate gratuite alla cava dei dinosauri \"Un passo nel Cretaceo\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T09:30",
+    "fine": "2026-11-15T13:30",
+    "luogo": "Cava delle orme dei dinosauri",
+    "indirizzo": "SC Esterna Pontrelli, 70022 Altamura BA",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Visite guidate gratuite alla Cava Pontrelli di Altamura alla scoperta di oltre ventimila impronte fossili lasciate dai dinosauri circa ottanta milioni di anni fa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Altamura",
+    "fonti": [
+      {
+        "nome": "Comune di Altamura",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altamura.ba.it/it/eventi/visite-guidate-gratuite-alla-cava-dei-dinosauri-731028-731032",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-gratuite-alla-cava-dei-dinosauri-un-passo-nel-cretaceo-altamura-21-11",
+    "titolo": "Visite guidate gratuite alla cava dei dinosauri \"Un passo nel Cretaceo\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T09:30",
+    "fine": "2026-11-22T13:30",
+    "luogo": "Cava delle orme dei dinosauri",
+    "indirizzo": "SC Esterna Pontrelli, 70022 Altamura BA",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Cava delle orme dei dinosauri, Altamura, 21/11. Visite guidate gratuite alla Cava Pontrelli di Altamura alla scoperta di oltre ventimila impronte fossili lasciate dai dinosauri circa ottanta milioni di anni fa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Altamura",
+    "fonti": [
+      {
+        "nome": "Comune di Altamura",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altamura.ba.it/it/eventi/visite-guidate-gratuite-alla-cava-dei-dinosauri-731028-731032-731033",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-gratuite-alla-cava-dei-dinosauri-un-passo-nel-cretaceo-altamura-28-11",
+    "titolo": "Visite guidate gratuite alla cava dei dinosauri \"Un passo nel Cretaceo\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-29T13:30",
+    "luogo": "Cava delle orme dei dinosauri",
+    "indirizzo": "SC Esterna Pontrelli, 70022 Altamura BA",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Cava delle orme dei dinosauri, Altamura, 28/11. Visite guidate gratuite alla Cava Pontrelli di Altamura alla scoperta di oltre ventimila impronte fossili lasciate dai dinosauri circa ottanta milioni di anni fa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Altamura",
+    "fonti": [
+      {
+        "nome": "Comune di Altamura",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altamura.ba.it/it/eventi/visite-guidate-gratuite-alla-cava-dei-dinosauri-731028-731032-731034",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-gratuite-alla-cava-dei-dinosauri-un-passo-nel-cretaceo-altamura-05-12",
+    "titolo": "Visite guidate gratuite alla cava dei dinosauri \"Un passo nel Cretaceo\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-05T09:30",
+    "fine": "2026-12-06T13:30",
+    "luogo": "Cava delle orme dei dinosauri",
+    "indirizzo": "SC Esterna Pontrelli, 70022 Altamura BA",
+    "cap": null,
+    "comune": "072004",
+    "frazione": null,
+    "lat": 40.85973,
+    "lon": 16.55034,
+    "coordinateApprossimate": true,
+    "descrizione": "Cava delle orme dei dinosauri, Altamura, 05/12. Visite guidate gratuite alla Cava Pontrelli di Altamura alla scoperta di oltre ventimila impronte fossili lasciate dai dinosauri circa ottanta milioni di anni fa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Altamura",
+    "fonti": [
+      {
+        "nome": "Comune di Altamura",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altamura.ba.it/it/eventi/visite-guidate-gratuite-alla-cava-dei-dinosauri-731028-731031-731035",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convegno-corso-di-disostruzione-pediatrica-ancona",
+    "titolo": "Convegno Corso di Disostruzione Pediatrica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T17:00",
+    "fine": "2026-11-13T18:30",
+    "luogo": "Scuola Media \"E. Fermi\"",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso di formazione professionale su tecniche di disostruzione pediatrica, rivolto a professionisti del settore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marche-teatro-2026-2027-scena-contemporanea-una-madre-coraggio-ancona",
+    "titolo": "Marche Teatro 2026/2027 - Scena Contemporanea: Una Madre Coraggio",
+    "categoria": "teatro",
+    "inizio": "2026-11-13T20:30",
+    "fine": "2026-11-13T22:00",
+    "luogo": "Teatro Sperimentale",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo \"Una Madre Coraggio\", monologo di Michele Santeramo tratto da Brecht, con Laura Marinoni e regia di Gianluca Barbadori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marche Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/marche-teatro-2026-2027-prosa-e-danza-730978-730985-731082-731110-731116-731119-731122-731126-731351-731357-731371-731372-731374-731376-731378-731380-731381-732476",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ancona-cammina-2026-settembre-dicembre-ancona",
+    "titolo": "Ancona Cammina - 2026 - Settembre - Dicembre",
+    "categoria": "sport",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T22:30",
+    "luogo": "Mole Vanvitelliana",
+    "indirizzo": "Banchina Giovanni da Chio, 28, 60121 Ancona AN, Italia",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata serale di circa 7 km da Mole Vanvitelliana a Marina Dorica, organizzata con Avis e CAI Ancona.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avis Comunale Ancona e CAI Ancona",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/ancona-cammina-settembre-dicembre-2025-686256-686260-686264-686265-686269-686271-686274-686282-708046-708052-708677-708680-708682-708686-708691-708693-708694-708695-708697-708699-708700-727350-727356-727357-727358-727361-727363-727364-727366",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vintage-street-market-ancona",
+    "titolo": "Vintage Street Market",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14T09:00",
+    "fine": "2026-11-14T20:30",
+    "luogo": "Corso Carlo Alberto",
+    "indirizzo": "Corso Carlo Alberto, 60127 Ancona AN, Italia",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di antiquariato, vintage e abbigliamento, con espositori e oggetti di fascino senza tempo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/vintage-street-market-726421",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sbaracco-l-armadio-e-sbaracco-toys-torna-ad-argenta-argenta",
+    "titolo": "Sbaracco l’Armadio e Sbaracco Toys torna ad Argenta",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Mercato Centro culturale",
+    "indirizzo": "Argenta",
+    "cap": null,
+    "comune": "038001",
+    "frazione": null,
+    "lat": 44.62222,
+    "lon": 11.88894,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa dedicata allo scambio e al riuso di abiti, accessori e giocattoli. L'evento promuove il consumo responsabile e la riduzione degli sprechi attraverso mercatini, laboratori, attività creative e proiezioni. È prevista la partecipazione di espositori e intrattenimento con aperitivo a chilometro zero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Argenta, Soelia",
+    "fonti": [
+      {
+        "nome": "Comune di Argenta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.argenta.fe.it/evento/2026-11-28-sbaracco-larmadio-e-sbaracco-toys-torna-ad-argenta",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-carla-baroncelli-giornalista-rai-scrittrice-e-saggista-argenta",
+    "titolo": "Incontro con Carla Baroncelli giornalista Rai, scrittrice e saggista",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T20:30",
+    "fine": null,
+    "luogo": "Biblioteca Bertoldi",
+    "indirizzo": "Argenta",
+    "cap": null,
+    "comune": "038001",
+    "frazione": null,
+    "lat": 44.62222,
+    "lon": 11.88894,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di approfondimento sul tema del femminicidio in occasione della Giornata internazionale contro la violenza sulle donne. La scrittrice Carla Baroncelli, storica inviata del TG2, sarà intervistata per discutere delle sue inchieste sulla violenza domestica e della cultura patriarcale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Argenta, Consulta delle Donne",
+    "fonti": [
+      {
+        "nome": "Comune di Argenta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.argenta.fe.it/evento/2026-11-20-incontro-con-carla-baroncelli-giornalista-rai-scri",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pugilato-letterario-arcore",
+    "titolo": "Pugilato letterario",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T21:00",
+    "fine": "2026-11-13T22:30",
+    "luogo": "Biblioteca civica Nanni Valentini",
+    "indirizzo": "Via Gorizia, 20 - Arcore",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Pugilato letterario sul libro Le avventure di Pinocchio con la scrittrice Sabrina Rondinelli e lo scrittore Pino Pace, con la conduzione di Cinzia Poli. Evento per adulti inserito nella rassegna Intorno di CUBI.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CUBI",
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/cera-una-volta-pinocchio/cera-una-volta-pinocchio-2-2",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "turandot-di-giacomo-puccini-arcore",
+    "titolo": "Turandot di Giacomo Puccini",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T18:30",
+    "luogo": "Villa Borromeo d'Adda",
+    "indirizzo": "Largo V. Vela 1 - Arcore (MB)",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale a tema operistico con esempi al pianoforte e contributi audio e video a cura di Fabio Sartorelli, incentrato sulla favola cinese di Turandot.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/turandot-di-giacomo-puccini",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-a-bassa-voce-arcore",
+    "titolo": "Letture a bassa voce",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Biblioteca civica Nanni Valentini",
+    "indirizzo": "Via Gorizia, 20 - Arcore",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura di albi illustrati a cura delle Lettrici Volontarie Volta La Pagina per bambini da 2 a 6 anni, in occasione della settimana nazionale Nati Per Leggere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Volta La Pagina",
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/letture-a-bassa-voce",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "organizzati-e-felici-arcore",
+    "titolo": "Organizzati e felici",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Biblioteca civica Nanni Valentini",
+    "indirizzo": "Via Gorizia, 20 - Arcore",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per genitori con la professional organizer Arianna Pulze dedicato all'organizzazione degli spazi domestici in base alla crescita dei figli, per favorire la loro autonomia quotidiana.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/organizzati-e-felici",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "percorso-di-yoga-arese",
+    "titolo": "Percorso di yoga",
+    "categoria": "sport",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T11:15",
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla pratica dello yoga Vinyasa Krama, per ritrovare la calma e connettersi con il proprio corpo, aperto a tutte le persone maggiorenni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/percorso-di-yoga",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-il-silenzio-arese",
+    "titolo": "Oltre il silenzio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Villa La Valera",
+    "indirizzo": "Arese",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Un pomeriggio di incontro e confronto dedicato alla prevenzione della violenza di genere, aperto a tutta la cittadinanza per discutere su comportamenti e cultura del rispetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Zoi Yoga",
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/oltre-il-silenzio",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corsi-attivita-e-viaggi-con-uni-ter-arese",
+    "titolo": "Corsi, attività e viaggi con UNI TER",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Casa delle Associazioni Tina Anselmi",
+    "indirizzo": "viale dei Platani 6, Arese",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontri e presentazioni relativi alla programmazione dei corsi, delle conferenze e delle attività organizzate da UNI TER Arese per l'anno accademico 2026/2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "UNI TER",
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/corsi-attivita-e-viaggi-con-uni-ter",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-diritto-di-leggere-arese",
+    "titolo": "Il diritto di leggere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Due appuntamenti dedicati all'accessibilità comunicativa e alla lettura inclusiva, con approfondimenti sui disturbi specifici dell'apprendimento e sui libri in CAA.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/il-diritto-di-leggere",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "goldoni-a-palla-arese",
+    "titolo": "Goldoni a palla",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale presentato all'interno della sesta edizione della rassegna Scenari, pensata per stimolare la condivisione e l'immaginazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/scenari",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "babbo-natale-e-la-notte-dei-regali-arese",
+    "titolo": "Babbo Natale e la notte dei regali",
+    "categoria": "bambini",
+    "inizio": "2026-12-16T16:00",
+    "fine": null,
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale dedicato alle famiglie e ai bambini, organizzato nell'ambito della rassegna culturale Scenari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/scenari",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buiobu-arese",
+    "titolo": "Buiobù",
+    "categoria": "bambini",
+    "inizio": "2027-01-10T16:00",
+    "fine": null,
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo pomeridiano per famiglie, parte del ricco programma teatrale della rassegna Scenari ospitata all'Agorà.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/scenari",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-enza-alfano-ad-atripalda-letteraria-atripalda",
+    "titolo": "Incontro con Enza Alfano ad Atripalda Letteraria",
+    "categoria": "conferenza",
+    "inizio": "2026-11-13T18:00",
+    "fine": "2026-11-13T19:00",
+    "luogo": "Biblioteca Comunale L. Cassese",
+    "indirizzo": "Piazza A. Sparavigna 1",
+    "cap": null,
+    "comune": "064006",
+    "frazione": null,
+    "lat": 40.91267,
+    "lon": 14.83753,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del volume La guerriera dei libri con l'autrice Enza Alfano. L'iniziativa si inserisce nella rassegna culturale Atripalda Letteraria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Atripalda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.atripalda.av.it/it/eventi/copia-di-incontro-con-alfonso-santoriello-ad-atripalda-letteraria",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-pensiero-della-medicina-tradizionale-cinese-bagheria",
+    "titolo": "Il pensiero della medicina tradizionale cinese.",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T16:00",
+    "fine": null,
+    "luogo": "Villa Butera",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sul pensiero della Medicina Tradizionale Cinese e sulle sue pratiche come agopuntura, shiatsu e qi gong. L'iniziativa è tenuta dal Dott. Alessandro Gulletta e si propone di introdurre ai concetti essenziali della MTC.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi/il-pensiero-della-medicina-tradizionale-cinese",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "strade-storiche-le-mura-di-siena-asciano",
+    "titolo": "Strade Storiche - Le Mura di Siena",
+    "categoria": "sport",
+    "inizio": "2026-11-15T08:00",
+    "fine": "2026-11-15T16:00",
+    "luogo": "Asciano",
+    "indirizzo": "Asciano",
+    "cap": null,
+    "comune": "052002",
+    "frazione": null,
+    "lat": 43.24326,
+    "lon": 11.52276,
+    "coordinateApprossimate": true,
+    "descrizione": "Un evento sportivo che unisce corsa, storia e cultura con una prova principale di 42 km con partenza da Asciano e arrivo alla Fortezza Medicea di Siena, e un percorso di 12 km all'interno di Siena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Asciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asciano.siena.it/eventi/StradestoricheMuraDiSiena.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "s-agostino-ad-asciano-arte-storia-e-devozione-alla-luce-dei-recenti-re-asciano",
+    "titolo": "S. Agostino ad Asciano: arte, storia e devozione alla luce dei recenti restauri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Chiesa di Sant'Agostino",
+    "indirizzo": "Corso Giacomo Matteotti",
+    "cap": null,
+    "comune": "052002",
+    "frazione": null,
+    "lat": 43.24326,
+    "lon": 11.52276,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno dedicato alla chiesa di S. Agostino di Asciano e ai recenti restauri di tre opere d'arte, con approfondimenti su storia, architettura e decorazione, seguito da una visita guidata al Museo Civico di Palazzo Corboli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Misericordia di Asciano",
+    "fonti": [
+      {
+        "nome": "Comune di Asciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asciano.siena.it/eventi/Concegno28novembre2026.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-marilyn-e-lo-psichiatra-arconate",
+    "titolo": "Presentazione del libro Marilyn e lo Psichiatra",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T16:30",
+    "fine": null,
+    "luogo": "Biblioteca di Arconate",
+    "indirizzo": "Via Filippo Turati, 1",
+    "cap": null,
+    "comune": "015007",
+    "frazione": null,
+    "lat": 45.53984,
+    "lon": 8.84146,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del volume con l'autore in dialogo con la presidente della Commissione Cultura. L'incontro della rassegna culturale sarà accompagnato da intermezzi musicali dal vivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arconate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.arconate.mi.it/vivere-il-comune/eventi/presentazione-del-libro-marilyn-e-lo-psichiatra",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cantico-con-i-piedi-barbarano-mossano",
+    "titolo": "Il Cantico con i piedi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Convento di San Pancrazio",
+    "indirizzo": "Barbarano Mossano",
+    "cap": null,
+    "comune": "024124",
+    "frazione": null,
+    "lat": 45.4089,
+    "lon": 11.56469,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso esperienziale lungo il Sentiero del Cantico delle Creature, per credenti e non credenti, accompagnati da un giornalista e artista e da religiosi, per riscoprire il legame con la natura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Barbarano Mossano",
+    "fonti": [
+      {
+        "nome": "Comune di Barbarano Mossano",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.barbaranomossano.vi.it/eventi/Il-Cantico-con-i-piedi.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cammino-in-rosso-6-edizione-bardolino",
+    "titolo": "Cammino in rosso - 6^ edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T13:00",
+    "luogo": "Municipio",
+    "indirizzo": "Piazzetta S. Gervaso, 1",
+    "cap": null,
+    "comune": "023006",
+    "frazione": null,
+    "lat": 45.53899,
+    "lon": 10.69617,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di sensibilizzazione contro la violenza sulle donne a bordo della motonave Andromeda di Navigarda. Coinvolge i Comuni del Lago di Garda con punti di incontro e momenti di riflessione a Castelletto di Brenzone.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bardolino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bardolino.vr.it/it/eventi/cammino-in-rosso-6-edizione",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-prevenzione-mette-le-ali-besnate",
+    "titolo": "La prevenzione mette le ali",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T16:00",
+    "luogo": "Volandia - Parco Museo del Volo",
+    "indirizzo": "Besnate",
+    "cap": null,
+    "comune": "012012",
+    "frazione": null,
+    "lat": 45.70151,
+    "lon": 8.76275,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di sensibilizzazione alla prevenzione delle sindromi respiratorie presso il Parco Museo del Volo con attività interattive e visite guidate.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Besnate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.besnate.va.it/eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-internazionale-dello-studente-e-della-studentessa-bientina",
+    "titolo": "Giornata Internazionale dello Studente e della Studentessa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T10:30",
+    "fine": "2026-11-14T13:30",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazzetta dell'Angiolo, 14, 56031 Bientina PI, Italy",
+    "cap": null,
+    "comune": "050001",
+    "frazione": null,
+    "lat": 43.7295,
+    "lon": 10.64187,
+    "coordinateApprossimate": true,
+    "descrizione": "La biblioteca festeggia la Giornata Internazionale dello Studente con incontri e giochi in inglese e francese dedicati a bambine e bambini dai 7 ai 13 anni, per avvicinarli alle lingue straniere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Orizzonti di Studio",
+    "fonti": [
+      {
+        "nome": "Comune di Bientina",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.bientina.pi.it/eventi/Giornata-Internazionale-dello-Studente-e-della-Studentessa.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "moda-in-liberta-bientina",
+    "titolo": "Moda in Libertà",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T18:30",
+    "fine": "2026-11-14T21:00",
+    "luogo": "Galleria Pancani",
+    "indirizzo": "Piazza Vittorio Emanuele II a Bientina, Palazzo Pancani",
+    "cap": null,
+    "comune": "050001",
+    "frazione": null,
+    "lat": 43.7295,
+    "lon": 10.64187,
+    "coordinateApprossimate": true,
+    "descrizione": "Un incontro in cui arte, poesia e moda si intrecciano per parlare di espressione di sé, autodeterminazione e della libertà di essere, superando le convenzioni e i modelli imposti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale La Torre 22",
+    "fonti": [
+      {
+        "nome": "Comune di Bientina",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.bientina.pi.it/eventi/Moda-in-Libert-.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "universita-per-la-terza-eta-boltiere",
+    "titolo": "Università per la terza età",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T15:00",
+    "fine": "2026-11-16T18:00",
+    "luogo": "Centro Civico Aldo Moro",
+    "indirizzo": "Boltiere",
+    "cap": null,
+    "comune": "016029",
+    "frazione": null,
+    "lat": 45.59861,
+    "lon": 9.57734,
+    "coordinateApprossimate": true,
+    "descrizione": "Un percorso fatto di immagini, parole ed emozioni tra le poesie di Gigi Medolago e le storie di Romilda Di Nuzzo, rivolto a tutti i cittadini non più giovani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Servizi alla Persona",
+    "fonti": [
+      {
+        "nome": "Comune di Boltiere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.boltiere.bg.it/vivere-il-comune/eventi/dettaglio-evento/Universita-per-la-terza-eta-00010",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agora-d-inverno-conferenza-stampa-boltiere",
+    "titolo": "Agorà d'inverno - conferenza stampa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Biblioteca di Osio Sotto",
+    "indirizzo": "Boltiere",
+    "cap": null,
+    "comune": "016029",
+    "frazione": null,
+    "lat": 45.59861,
+    "lon": 9.57734,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza stampa di presentazione che illustrerà il ricco palinsesto delle iniziative natalizie in programma per il periodo dal 14 novembre al 31 dicembre nei Comuni aderenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Servizi alla Persona",
+    "fonti": [
+      {
+        "nome": "Comune di Boltiere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.boltiere.bg.it/vivere-il-comune/eventi/dettaglio-evento/Agora-dinverno-conferenza-stampa",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-storia-del-presepe-tra-arte-e-cultura-bonate-sopra",
+    "titolo": "La storia del presepe tra arte e cultura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T20:30",
+    "fine": "2026-11-30T22:30",
+    "luogo": "Biblioteca comunale Don Milani",
+    "indirizzo": "P.zza Vittorio Emanuele III n.23",
+    "cap": null,
+    "comune": "016030",
+    "frazione": null,
+    "lat": 45.68167,
+    "lon": 9.56323,
+    "coordinateApprossimate": true,
+    "descrizione": "Una serata per scoprire la storia del Presepe, simbolo affascinante e profondamente radicato nella tradizione e nella cultura italiana, dalle origini francescane e medievali fino alle opere d'arte.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca / Cineteatro Verdi",
+    "fonti": [
+      {
+        "nome": "Comune di Bonate Sopra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bonatesopra.bg.it/vivere-il-comune/eventi/dettaglio-evento/La-storia-del-presepe-tra-arte-e-cultura",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autori-sotto-l-albero-bonate-sopra",
+    "titolo": "Autori sotto l'albero",
+    "categoria": "conferenza",
+    "inizio": "2026-12-06T16:00",
+    "fine": "2026-12-06T18:00",
+    "luogo": "Biblioteca comunale Don Milani",
+    "indirizzo": "P.zza Vittorio Emanuele III n.23",
+    "cap": null,
+    "comune": "016030",
+    "frazione": null,
+    "lat": 45.68167,
+    "lon": 9.56323,
+    "coordinateApprossimate": true,
+    "descrizione": "Un pomeriggio in biblioteca per scoprire nuovi scrittori e le loro storie, con la partecipazione di diversi autori ospiti per incontrare il pubblico e presentare le proprie opere letterarie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca / Cineteatro Verdi",
+    "fonti": [
+      {
+        "nome": "Comune di Bonate Sopra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bonatesopra.bg.it/vivere-il-comune/eventi/dettaglio-evento/Autori-sotto-lalbero-00003",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-dei-libri-usati-della-biblioteca-bonate-sopra",
+    "titolo": "Mercatino dei libri usati della biblioteca",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T09:00",
+    "fine": "2026-12-12T12:00",
+    "luogo": "Biblioteca comunale Don Milani",
+    "indirizzo": "P.zza Vittorio Emanuele III n.23",
+    "cap": null,
+    "comune": "016030",
+    "frazione": null,
+    "lat": 45.68167,
+    "lon": 9.56323,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo appuntamento mensile con il mercatino dei libri usati organizzato dalla biblioteca in piazza. L'iniziativa offre l'occasione di trovare letture a prezzi accessibili e dare nuova vita ai volumi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca / Cineteatro Verdi",
+    "fonti": [
+      {
+        "nome": "Comune di Bonate Sopra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bonatesopra.bg.it/vivere-il-comune/eventi/dettaglio-evento/Mercatino-dei-libri-usati-della-biblioteca",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pupi-bracali-presenta-primavera-nera-borghetto-santo-spirito",
+    "titolo": "Pupi Bracali presenta “Primavera nera”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T17:00",
+    "fine": null,
+    "luogo": "Sala polivalente di Palazzo E. Pietracaprina",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo appuntamento della rassegna Autori a Palazzo. L'autore Maurizio Pupi Bracali presenta il suo libro giallo e noir Primavera nera, incentrato sulle indagini dell'ispettore Calcagno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Borghetto Santo Spirito",
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/pupi-bracali-presenta-primavera-nera",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimana-nazionale-nati-per-leggere-letture-piccine-borghetto-santo-spirito",
+    "titolo": "Settimana Nazionale Nati per Leggere – Letture piccine",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T10:00",
+    "fine": null,
+    "luogo": "Nido d’infanzia comunale F.lli Rosselli – Seconda Stella a destra",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura ad alta voce dedicato alla prima infanzia, inserito nella Settimana Nazionale Nati per Leggere per promuovere il piacere dell'ascolto e il contatto con i libri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/settimana-nazionale-nati-per-leggere-letture-piccine",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimana-nazionale-nati-per-leggere-leggimi-perche-cosi-stiamo-insiem-borghetto-santo-spirito",
+    "titolo": "Settimana Nazionale Nati per Leggere – Leggimi perché così stiamo insieme",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T14:00",
+    "fine": null,
+    "luogo": "Nido d’infanzia comunale F.lli Rosselli – Seconda Stella a destra",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Momento di lettura condivisa rivolto a famiglie e bambini, curato nell'ambito della Settimana Nazionale Nati per Leggere per stimolare lo sviluppo linguistico e la relazione affettiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Assistenza Cooperativa Sociale",
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/settimana-nazionale-nati-per-leggere-leggimi-perche-cosi-stiamo-insieme",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimana-nazionale-nati-per-leggere-leggimi-perche-mi-piace-borghetto-santo-spirito",
+    "titolo": "Settimana Nazionale Nati per Leggere – Leggimi perché mi piace!",
+    "categoria": "bambini",
+    "inizio": "2026-11-18T09:15",
+    "fine": null,
+    "luogo": "Scuola d’infanzia S. D’Acquisto",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura pensato per i bambini della scuola dell'infanzia, incentrato su racconti e letture ad alta voce per stimolare fantasia, curiosità e ascolto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/settimana-nazionale-nati-per-leggere-leggimi-perche-mi-piace",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimana-nazionale-nati-per-leggere-andiamo-diritti-alle-storie-borghetto-santo-spirito",
+    "titolo": "Settimana Nazionale Nati per Leggere – Andiamo Diritti alle Storie!",
+    "categoria": "bambini",
+    "inizio": "2026-11-19T09:00",
+    "fine": null,
+    "luogo": "Scuola Primaria A. Gramsci",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di promozione della lettura per i bambini della scuola primaria, pensata per valorizzare i libri come strumenti di conoscenza, immaginazione e crescita.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/settimana-nazionale-nati-per-leggere-andiamo-diritti-alle-storie",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sergia-monleone-presenta-la-ragione-dell-inganno-borghetto-santo-spirito",
+    "titolo": "Sergia Monleone presenta “La ragione dell’inganno”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T17:00",
+    "fine": null,
+    "luogo": "Sala Polivalente di Palazzo Elena Pietracaprina",
+    "indirizzo": "Borghetto Santo Spirito",
+    "cap": null,
+    "comune": "009012",
+    "frazione": null,
+    "lat": 44.1153,
+    "lon": 8.22932,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo appuntamento della rassegna Autori a Palazzo. L'autrice Sergia Monleone presenta il volume La ragione dell'inganno, con accompagnamento musicale e introduzione letteraria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borghetto Santo Spirito",
+        "tipo": "ufficiale",
+        "url": "https://comune.borghettosantospirito.sv.it/vivere-il-comune/evento/sergia-monleone-presenta-la-ragione-dellinganno",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-peso-del-ruolo-borgo-valsugana",
+    "titolo": "Il peso del ruolo",
+    "categoria": "teatro",
+    "inizio": "2026-10-30T20:30",
+    "fine": "2026-11-13T20:30",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre appuntamenti dedicati alla riflessione sui ruoli di genere e sui meccanismi sociali che li sostengono, in vista della giornata contro la violenza sulle donne, con spettacoli e conferenze.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/il-peso-del-ruolo",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-libri-proibiti-the-librarians-borgo-valsugana",
+    "titolo": "Cinema: Libri proibiti. The librarians",
+    "categoria": "concerto",
+    "inizio": "2026-11-18T20:30",
+    "fine": "2026-11-18T22:30",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica con introduzione a cura di Matteo Paissan, Presidente della sezione Trentino-Alto Adige dell'Associazione Italiana Biblioteche.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-amori-incantesimi-2-2518871-2518872-2518874-2518875-2518876-2518877-2518878-2518879-2518880-2518881-2518883-2518884-2518885-2518886-2518887-2518888-2519832-2519833-2519834-2519835-2519837-2519838-2519840-2519841-2519844-2519846-2519847-2519851",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tra-memoria-e-identita-breve-viaggio-nell-archivistica-borgo-valsugana",
+    "titolo": "Tra memoria e identità: breve viaggio nell'archivistica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:00",
+    "fine": "2026-11-19T22:00",
+    "luogo": "Sala Marcellina Paternolli",
+    "indirizzo": "Piazza Alcide Degasperi, 20, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico dedicato ai temi dell'archivistica, organizzato dal Comune di Borgo Valsugana in collaborazione con l'Archivio di Stato di Trento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Borgo Valsugana",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/tra-memoria-e-identita",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-il-gatto-col-cappello-borgo-valsugana",
+    "titolo": "Cinema: Il Gatto col Cappello",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T17:00",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film d'animazione e commedia per famiglie, ideale per il pubblico di tutte le età all'interno della rassegna cinematografica locale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-ragione-e-sentimento-borgo-valsugana",
+    "titolo": "Cinema: Ragione e sentimento",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T22:30",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica di genere drammatico aperta a tutti gli appassionati di cinema inserita nella programmazione culturale del comune.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello-2520564",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-il-gatto-col-cappello-borgo-valsugana-22-11",
+    "titolo": "Cinema: Il Gatto col Cappello",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T17:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuova proiezione pomeridiana del film d'animazione, commedia e family all'interno del programma di proiezioni cinematografiche cittadine.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello-2520564-2520565",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-ragione-e-sentimento-vos-borgo-valsugana",
+    "titolo": "Cinema: Ragione e sentimento (VOS)",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T20:30",
+    "fine": "2026-11-22T22:30",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica in versione in lingua originale sottotitolata in italiano del film drammatico, per una fruizione autentica dell'opera.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello-2520564-2520566",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "di-castelli-e-carte-l-archivio-dei-conti-giovannelli-borgo-valsugana",
+    "titolo": "Di castelli e carte: l'archivio dei Conti Giovannelli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:00",
+    "fine": "2026-11-24T22:00",
+    "luogo": "Sala Marcellina Paternolli",
+    "indirizzo": "Piazza Alcide Degasperi, 20, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culturale e dibattito incentrato sulla storia dell'archivio dei Conti Giovannelli, organizzato con la collaborazione dell'Archivio di Stato di Trento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Borgo Valsugana",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/tra-memoria-e-identita-2520543",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinema-se-domani-non-torno-borgo-valsugana",
+    "titolo": "Cinema: Se domani non torno",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T20:30",
+    "fine": "2026-11-25T22:30",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica speciale organizzata nell'ambito delle iniziative per la Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Trentino Spettacoli",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello-2520564-2520566-2520567",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-complessita-il-gioco-della-vita-borgo-valsugana",
+    "titolo": "Teatro: Complessità. Il gioco della vita",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T20:45",
+    "fine": "2026-11-27T22:45",
+    "luogo": "Cineteatro di Borgo Valsugana",
+    "indirizzo": "Via XXIV Maggio, 7, 38051 Borgo Valsugana TN, Italia",
+    "cap": null,
+    "comune": "022022",
+    "frazione": null,
+    "lat": 46.01478,
+    "lon": 11.4343,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della stagione di prosa che intreccia una storia familiare complessa ai temi della scienza dei sistemi complessi e del Game of Life.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Arditodesío, Centro Servizi Culturali Santa Chiara, Teatro Stabile di Bolzano",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-valsugana.tn.it/it/eventi/cinema-il-gatto-col-cappello-2520564-2520566-2520567-2520568-2520569-2520570-2520571-2520574-2520575-2520576-2520577-2520578-2520580-2520581",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xiii-trofeo-san-martino-borgo-veneto",
+    "titolo": "XIII Trofeo San Martino",
+    "categoria": "sport",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Palestra comunale",
+    "indirizzo": "Via Don Groppo, Saletto",
+    "cap": null,
+    "comune": "028107",
+    "frazione": null,
+    "lat": 45.21921,
+    "lon": 11.54276,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento sportivo denominato Trofeo San Martino Città di Borgo Veneto, aperto a tutti i partecipanti. La manifestazione si svolge nella palestra comunale della località Saletto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo Veneto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgoveneto.pd.it/vivere-il-comune/eventi/xiii-trofeo-san-martino",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cerchio-delle-storie-bovezzo",
+    "titolo": "Il cerchio delle storie",
+    "categoria": "bambini",
+    "inizio": "2026-12-18T16:30",
+    "fine": "2026-12-18T17:30",
+    "luogo": "Biblioteca di Bovezzo",
+    "indirizzo": "Bovezzo",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura per bambini dai 3 ai 6 anni a cura delle Mamareadingbook, organizzata dalla Biblioteca di Bovezzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mamareadingbook",
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11554/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cerchio-delle-storie-bovezzo-04-12",
+    "titolo": "Il cerchio delle storie",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T16:30",
+    "fine": "2026-12-04T17:30",
+    "luogo": "Biblioteca di Bovezzo",
+    "indirizzo": "Bovezzo",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Biblioteca di Bovezzo, Bovezzo, 04/12. Lettura per bambini dai 3 ai 6 anni a cura delle Mamareadingbook, organizzata dalla Biblioteca di Bovezzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mamareadingbook",
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11553/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "universit-popolare-2026-2027-laboratorio-di-scrittura-autobiografica-bovezzo",
+    "titolo": "Universit� Popolare 2026/2027. Laboratorio di scrittura autobiografica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T11:30",
+    "luogo": "Centro Civico",
+    "indirizzo": "via Vittorio Veneto, 15",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di scrittura autobiografica con cinque lezioni, una ogni quindici giorni, tenuto dalla docente Sonia Premrl presso il Centro Civico di Bovezzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11599/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "smoothie-frullato-improvvisato-bovezzo",
+    "titolo": "Smoothie. Frullato Improvvisato",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T22:30",
+    "luogo": "Sala delle Colonne",
+    "indirizzo": "Bovezzo",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico di improvvisazione teatrale presentato dal comune di Bovezzo in collaborazione con l'Associazione Traccia Libera.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Traccia Libera",
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11611/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cerchio-delle-storie-bovezzo-20-11",
+    "titolo": "Il cerchio delle storie",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T16:30",
+    "fine": "2026-11-20T17:30",
+    "luogo": "Biblioteca di Bovezzo",
+    "indirizzo": "Bovezzo",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Biblioteca di Bovezzo, Bovezzo, 20/11. Lettura per bambini dai 3 ai 6 anni a cura delle Mamareadingbook, organizzata dalla Biblioteca di Bovezzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mamareadingbook",
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11552/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-del-ringraziamento-bovezzo",
+    "titolo": "Giornata del Ringraziamento",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T08:30",
+    "fine": null,
+    "luogo": "oratorio di Bovezzo",
+    "indirizzo": "Bovezzo",
+    "cap": null,
+    "comune": "017025",
+    "frazione": null,
+    "lat": 45.60109,
+    "lon": 10.24946,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento organizzato dal Comune di Bovezzo, dalla Parrocchia e da Coldiretti Brescia presso l'oratorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bovezzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bovezzo.bs.it/area_letturaEvento/11598/pagsistema.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-scrittura-riparativa-boves",
+    "titolo": "Laboratorio di scrittura riparativa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14",
+    "fine": "2026-12-19",
+    "luogo": "Villa Berini",
+    "indirizzo": "Boves",
+    "cap": null,
+    "comune": "004028",
+    "frazione": null,
+    "lat": 44.30749,
+    "lon": 7.55956,
+    "coordinateApprossimate": true,
+    "descrizione": "Un percorso dedicato alla memoria, al trauma e alla rigenerazione della comunità, condotto da Daniela Bernagozzi e Donatella Signetti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Boves",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.boves.cn.it/Eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-musicale-con-il-gruppo-urakoze-boves",
+    "titolo": "Serata musicale con il gruppo Urakoze",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T20:45",
+    "fine": null,
+    "luogo": "Borelli",
+    "indirizzo": "Boves",
+    "cap": null,
+    "comune": "004028",
+    "frazione": null,
+    "lat": 44.30749,
+    "lon": 7.55956,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto musicale aperto al pubblico organizzato dall'associazione No name odv presso la sala del Borelli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "No name odv",
+    "fonti": [
+      {
+        "nome": "Comune di Boves",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.boves.cn.it/Eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nuovo-gruppo-di-lettura-per-giovani-e-adulti-boves",
+    "titolo": "Nuovo gruppo di lettura per giovani e adulti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T20:30",
+    "fine": null,
+    "luogo": "Biblioteca civica di Boves",
+    "indirizzo": "Boves",
+    "cap": null,
+    "comune": "004028",
+    "frazione": null,
+    "lat": 44.30749,
+    "lon": 7.55956,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro di presentazione e avvio del nuovo gruppo di lettura dedicato a giovani e adulti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Boves",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.boves.cn.it/Eventi",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quaderni-breganzesi-37-breganze",
+    "titolo": "Quaderni Breganzesi 37",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T20:30",
+    "fine": "2026-11-18T22:00",
+    "luogo": "Aula Magna Scuola Primaria",
+    "indirizzo": "Via I. Fioravanzo, Breganze",
+    "cap": null,
+    "comune": "024014",
+    "frazione": null,
+    "lat": 45.69876,
+    "lon": 11.57928,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del nuovo numero 37 della rivista ‘Quaderni Breganzesi’ dedicata a storia, arte e cultura del territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Breganze",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.breganze.vi.it/eventi/Quaderno-Breganzese.html",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "camminaforeste-urbane-2026-alla-scoperta-del-giovane-bosco-di-bussero-bussero",
+    "titolo": "CamminaForeste Urbane 2026: alla scoperta del giovane bosco di Bussero",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-14T14:30",
+    "fine": null,
+    "luogo": "Piazza Giovanni XXIII",
+    "indirizzo": "Largo Papa Giovanni XXIII",
+    "cap": null,
+    "comune": "015040",
+    "frazione": null,
+    "lat": 45.5364,
+    "lon": 9.37001,
+    "coordinateApprossimate": true,
+    "descrizione": "Una passeggiata guidata per conoscere gli alberi e il verde del territorio, esplorando il giovane bosco vicino al torrente Molgora e scoprendo il nuovo progetto di gestione delle acque.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bussero e Legambiente – Circolo “La Poiana”",
+    "fonti": [
+      {
+        "nome": "Comune di Bussero",
+        "tipo": "ufficiale",
+        "url": "https://comune.bussero.mi.it/vivere-il-comune/evento/cammina-foreste",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-2026-tad-ranocchietta-brusaporto",
+    "titolo": "Nati per leggere 2026, \"Tad ranocchietta\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T11:30",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattro sabati mattina dedicati ai più piccoli, tra storie da ascoltare, suoni da scoprire e libri da vivere insieme per avvicinare i bambini alla lettura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Nati-per-leggere-2026-Tad-ranocchietta-00001",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-giochi-da-tavolo-brusaporto",
+    "titolo": "Laboratorio di giochi da tavolo",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T16:00",
+    "fine": "2026-11-17T18:00",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio dedicato a ragazzi e ragazze dagli 11 ai 14 anni per scoprire nuovi giochi da tavolo, sperimentare strategie e condividere momenti di divertimento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-giochi-da-tavolo-00007",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-2026-tad-ranocchietta-brusaporto-21-11",
+    "titolo": "Nati per leggere 2026, \"Tad ranocchietta\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro speciale di lettura ad alta voce rivolto ai bambini fino ai 5 anni e ai loro genitori, per promuovere l'amore per i libri fin dalla prima infanzia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Nati-per-leggere-2026-Tad-ranocchietta-00002",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-giochi-da-tavolo-brusaporto-24-11",
+    "titolo": "Laboratorio di giochi da tavolo",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T16:00",
+    "fine": "2026-11-24T18:00",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di gioco e socializzazione per ragazzi e ragazze dagli 11 ai 14 anni, un'occasione per fare nuove amicizie e mettersi alla prova con la strategia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-giochi-da-tavolo-00008",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-2026-tad-ranocchietta-brusaporto-28-11",
+    "titolo": "Nati per leggere 2026, \"Tad ranocchietta\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T11:30",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata di letture animate e condivisione di storie e suoni pensata appositamente per i più piccoli e le loro famiglie presso la struttura culturale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Nati-per-leggere-2026-Tad-ranocchietta-00003",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gita-ai-mercatini-di-natale-di-govone-e-asti-brusaporto",
+    "titolo": "Gita ai mercatini di Natale di Govone e Asti",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T07:30",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Govone e Asti",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale gita fuori porta con visita guidata al Castello Reale di Govone, casette natalizie e passeggiata tra i mercatini di Piazza Alfieri ad Asti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 60
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Gita-ai-mercatini-di-Natale-di-Govone-e-Asti",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-giochi-da-tavolo-brusaporto-01-12",
+    "titolo": "Laboratorio di giochi da tavolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-01T16:00",
+    "fine": "2026-12-01T18:00",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pomeridiano di giochi da tavolo per ragazzi dagli 11 ai 14 anni, volto a stimolare il divertimento di squadra e la cooperazione tra partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-giochi-da-tavolo-00009",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-giochi-da-tavolo-brusaporto-15-12",
+    "titolo": "Laboratorio di giochi da tavolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-15T16:00",
+    "fine": "2026-12-15T18:00",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo appuntamento con il laboratorio ludico per ragazzi e ragazze dagli 11 ai 14 anni, per trascorrere il pomeriggio scoprendo nuovi giochi e strategie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-giochi-da-tavolo-00010",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-giochi-da-tavolo-brusaporto-22-12",
+    "titolo": "Laboratorio di giochi da tavolo",
+    "categoria": "bambini",
+    "inizio": "2026-12-22T16:00",
+    "fine": "2026-12-22T18:00",
+    "luogo": "Centro Culturale",
+    "indirizzo": "Brusaporto",
+    "cap": null,
+    "comune": "016042",
+    "frazione": null,
+    "lat": 45.67002,
+    "lon": 9.76364,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività ludica pomeridiana riservata ai ragazzi dagli 11 ai 14 anni, incentrata sulla condivisione di giochi da tavolo e momenti di svago in gruppo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Brusaporto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brusaporto.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-giochi-da-tavolo-00011",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-13",
+    "inseritoDa": "consegna"
   }
 ]
