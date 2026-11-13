@@ -163864,5 +163864,61 @@
     ],
     "inserito": "2026-11-13",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "racconti-d-arte-artemisia-gentileschi-saletta-pio-la-torre-borgo-san-lorenzo-2026-11-19",
+    "titolo": "Racconti d’arte: alla scoperta di Artemisia Gentileschi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:30",
+    "luogo": "Saletta Pio La Torre",
+    "indirizzo": "Via Giotto 17",
+    "comune": "048004",
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Daniela Cappelli racconta, con il supporto di immagini, la vita e l’evoluzione artistica di Artemisia Gentileschi, dagli esordi romani alla maturità, in concomitanza con la mostra agli Innocenti di Firenze. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Borgo San Lorenzo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgo San Lorenzo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrK65OsCyJ/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ho-indossato-maschere-tranne-che-a-carnevale-patrizia-marchi-cadelbosco-di-sopra-2026-11-20",
+    "titolo": "«Ho indossato maschere, tranne che a Carnevale»: presentazione del libro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:00",
+    "luogo": "Sala del Consiglio Comunale",
+    "indirizzo": "Cadelbosco di Sopra",
+    "comune": "035008",
+    "lat": 44.79594,
+    "lon": 10.61853,
+    "coordinateApprossimate": true,
+    "descrizione": "La biblioteca «Arturo Panarari» presenta il racconto autobiografico di Patrizia Marchi, tra ricordi di campagna, poesie e il percorso di emancipazione negli anni Settanta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Biblioteca «Arturo Panarari» di Cadelbosco di Sopra",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cadelbosco di Sopra",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrQl-mkucM/",
+        "consultata": "2026-11-13"
+      }
+    ],
+    "inserito": "2026-11-13",
+    "inseritoDa": "ia"
   }
 ]
