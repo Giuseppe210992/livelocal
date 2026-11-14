@@ -189524,5 +189524,97 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-contro-la-violenza-sulle-donne-teatro-arena-codigoro-2026-11-27",
+    "titolo": "Spettacolo teatrale contro la violenza di genere, a cura del Circolo UDI",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "luogo": "Teatro Arena",
+    "indirizzo": "Codigoro",
+    "comune": "038005",
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con la compagnia Insieme per Caso, preparato da Franca Facchini: attraverso il sorriso e l’ironia porta in scena il tema della violenza di genere. Porte aperte dalle 20, senza prenotazione dei posti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Circolo UDI di Codigoro e Comune di Codigoro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Codigoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfhVp8zIbYP/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-natale-serrungarina-colli-al-metauro-06-12",
+    "titolo": "Mercatino di Natale di Serrungarina (6 dicembre)",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06",
+    "luogo": "Borgo di Serrungarina",
+    "indirizzo": "Serrungarina, Colli al Metauro",
+    "cap": null,
+    "comune": "041069",
+    "frazione": null,
+    "lat": 43.74888,
+    "lon": 12.89881,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale di Serrungarina, organizzato da Metauro Eventi con la Pro Loco, con l’osteria della Pro Loco e i sapori della tradizione. Si svolge anche il 29 novembre, il 6 e l’8 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Metauro Eventi O.D.V. / Pro Loco di Serrungarina",
+    "fonti": [
+      {
+        "nome": "Instagram Metauro Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfhbxXVOJBZ/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-natale-serrungarina-colli-al-metauro-08-12",
+    "titolo": "Mercatino di Natale di Serrungarina (8 dicembre)",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08",
+    "luogo": "Borgo di Serrungarina",
+    "indirizzo": "Serrungarina, Colli al Metauro",
+    "cap": null,
+    "comune": "041069",
+    "frazione": null,
+    "lat": 43.74888,
+    "lon": 12.89881,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale di Serrungarina, organizzato da Metauro Eventi con la Pro Loco, con l’osteria della Pro Loco e i sapori della tradizione. Si svolge anche il 29 novembre, il 6 e l’8 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Metauro Eventi O.D.V. / Pro Loco di Serrungarina",
+    "fonti": [
+      {
+        "nome": "Instagram Metauro Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfhbxXVOJBZ/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
