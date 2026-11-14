@@ -189616,5 +189616,62 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "ingorgo-letterario-ix-edizione-palazzo-comunale-borgo-san-lorenzo-2026-11-14",
+    "titolo": "Ingorgo Letterario, nona edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14",
+    "luogo": "Palazzo Comunale",
+    "indirizzo": "Borgo San Lorenzo",
+    "comune": "048004",
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giorni di autori, libri, editori e lettori a Palazzo Comunale, con l’apertura musicale della Camerata de’ Bardi. Durante la settimana il festival coinvolge anche le scuole del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Borgo San Lorenzo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgo San Lorenzo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DfuAa2kMsdS/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15"
+  },
+  {
+    "slug": "premiazione-mini-giro-reggiano-l-altro-teatro-cadelbosco-di-sopra-2026-11-15",
+    "titolo": "Premiazione del Mini Giro Reggiano e festa dei giovani campioni del ciclismo",
+    "categoria": "sport",
+    "inizio": "2026-11-15T15:00",
+    "luogo": "L’Altro Teatro",
+    "indirizzo": "Cadelbosco di Sopra",
+    "comune": "035008",
+    "lat": 44.79594,
+    "lon": 10.61853,
+    "coordinateApprossimate": true,
+    "descrizione": "Premiazione della seconda edizione del Mini Giro Reggiano per tutti i giovani ciclisti e omaggio a otto atleti emiliano-romagnoli diventati campioni italiani, con un momento dedicato alla sicurezza stradale e al ricordo delle vittime della strada.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Cadelbosco di Sopra e Comitato provinciale FCI di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cadelbosco di Sopra",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfuXs42CPTE/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
