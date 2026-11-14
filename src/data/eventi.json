@@ -199948,5 +199948,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "showcooking-con-luca-pappagallo-palasurbir-guastalla-2026-11-28",
+    "titolo": "Showcooking dal vivo con Luca Pappagallo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "luogo": "Palasurbir",
+    "indirizzo": "Piazza Mazzini, Guastalla",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Showcooking in cui prendono vita i grandi classici della tradizione, seguito da un incontro con foto e autografi sui libri dell’autore. Ingresso gratuito, senza prenotazione, fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Guastalla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfuLz_qtgSG/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-donna-nella-grande-guerra-sala-consiliare-goito-2026-11-24",
+    "titolo": "La donna nella Grande Guerra: storie di dolore e di coraggio nel Veronese",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:30",
+    "luogo": "Sala Consiliare del Comune",
+    "indirizzo": "Goito",
+    "comune": "020026",
+    "lat": 45.25036,
+    "lon": 10.66094,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di memoria con lettere, diari, documenti d’epoca e musica: conversazione con lo storico Giovanni Tosi sulle donne durante la Grande Guerra, tra crocerossine, madri e operaie. Organizzata dagli Alpini con il Comune, per la Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Associazione Nazionale Alpini sezione di Verona, Circolo Mario Balestrieri e Gruppo Alpini Goito",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Goito",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfsPdZFxhhT/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
