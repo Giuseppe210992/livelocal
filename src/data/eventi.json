@@ -180139,5 +180139,1336 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-guidate-il-sabato-e-la-domenica-alla-mostra-diego-rivera-roma",
+    "titolo": "Visite guidate il sabato e la domenica alla mostra Diego Rivera",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07",
+    "fine": "2027-01-10",
+    "luogo": "Villa Caffarelli",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Servizio di visite guidate in lingua italiana, della durata di 75 minuti e con gruppi di massimo 25 persone, dedicato alla mostra di Diego Rivera presso Villa Caffarelli. Le visite si svolgono ogni sabato e domenica con prenotazione individualmente.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "prenotazione": null,
+    "organizzatore": "Musei Capitolini",
+    "fonti": [
+      {
+        "nome": "Musei Capitolini",
+        "tipo": "ufficiale",
+        "url": "https://www.museicapitolini.org/it/didattica/visite-guidate-il-sabato-e-la-domenica-alla-mostra-diego-rivera-0",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-a-teatro-le-sale-della-musica-verona-21-11",
+    "titolo": "Visita guidata a teatro | Le Sale della Musica",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla scoperta delle Sale della Musica del Teatro Filarmonico. L'evento fa parte delle visite guidate al teatro e si svolge nella mattinata del 21 novembre 2026. Il calendario riporta anche una seconda partenza alle 12:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "the-dreamers-proiezione-verona",
+    "titolo": "The Dreamers | Proiezione",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film The Dreamers di Bernardo Bertolucci. Rappresenta il quinto appuntamento della rassegna Musica e cinema, con accompagnamento musicale dal vivo o sincronizzato tipica di questo ciclo di eventi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "black-swan-proiezione-verona",
+    "titolo": "Black Swan | Proiezione",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T18:30",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Black Swan diretto da Darren Aronofsky. Si tratta del sesto e ultimo appuntamento della rassegna Musica e cinema che accompagna la stagione teatrale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concorso-nazionale-di-poesia-r-molinari-canegrate",
+    "titolo": "Concorso nazionale di poesia \"R.Molinari\"",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-15T00:00",
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Piazza Unità d'Italia 2, Canegrate (MI)",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione del Concorso Nazionale di Poesia Roberto Molinari. L'evento include la lettura dei testi poetici segnalati dalla giuria, la consegna dei premi alle opere vincitrici e un intrattenimento musicale curato dai Nomantini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/concorso-nazionale-poesia",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "iv-mostra-la-via-dei-presepi-canegrate",
+    "titolo": "IV Mostra \"La Via dei Presepi\"",
+    "categoria": "mostra",
+    "inizio": "2026-12-13",
+    "fine": "2027-01-06",
+    "luogo": "Canegrate",
+    "indirizzo": "Canegrate",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dei Presepi che include un percorso espositivo diffuso a cielo aperto con presepi realizzati dai cittadini e una mostra al coperto presso Palazzo Visconti Castelli. L'iniziativa è gratuita e aperta a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Il Presepio",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/iv-mostra-la-via-dei-presepi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "biblioteche-sociali-uncinetto-laboratorio-itinerante-san-polo-brescia",
+    "titolo": "Biblioteche sociali. Uncinetto - Laboratorio itinerante San Polo",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-14T11:30",
+    "luogo": "Biblioteca San Polo",
+    "indirizzo": "Via Tiziano, 246, 25124 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di uncinetto dedicato all'apprendimento delle basi e alla creazione di Amigurumi (oggetti ispirati al mondo giapponese). A cura di Albarosa Gatti, all'interno del progetto Biblioteche Sociali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sistema Bibliotecario Urbano del Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/biblioteche-sociali-uncinetto-2518943-2519198-2519414-2519612-2519922-2520071-2520260-2520474",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trame-di-potere-israele-i-fili-della-storia-brescia",
+    "titolo": "Trame di potere: Israele: i fili della storia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T11:00",
+    "fine": "2026-11-14T12:30",
+    "luogo": "MITA - Museo Internazionale del Tappeto Antico",
+    "indirizzo": "Via Privata de Vitalis, 2bis, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo incontro del ciclo 'Trame di potere'. Interviene Flavio Pasotti (Fondazione Tassara) sul ruolo dell'Europa rispetto a Israele e Medio Oriente. Modera Luciano Zanardi. Nel quadro del Festival della pace.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival della pace 2026",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/trame-di-potere",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "chi-sono-io-uomo-donna-uguale-diverso-brescia",
+    "titolo": "Chi sono io? Uomo, donna, uguale, diverso",
+    "categoria": "bambini",
+    "inizio": "2026-11-14T15:00",
+    "fine": "2026-11-14T17:00",
+    "luogo": "Piazza della Vittoria",
+    "indirizzo": "Piazza della Vittoria, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio interculturale condotto da Daoud El Idrissi, ultimo appuntamento del progetto 'Ri-generiamoci Mix'. Approfondisce temi di genere e discriminazioni con metodologie ludico-pedagogiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Progetto Vittoria in Movimento",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/vittoria-in-movimento-2516033-2520082-2520267-2520472",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cne-2026-america-today-brescia",
+    "titolo": "CNE 2026: America Today",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T15:30",
+    "fine": "2026-11-14T17:30",
+    "luogo": "Pinacoteca Tosio Martinengo",
+    "indirizzo": "Piazza Moretto, 1, 25121 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo incontro del ciclo 'Made in Usa: il cinema statunitense dalle origini a oggi'. A cura di Ilaria Feole, analizza l'evoluzione del cinema americano nell'ultimo quarto di secolo e la svolta algoritmica.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Nazionale del Cinema (CNE)",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cne-2026-la-nueva-ola-2518604-2519653-2520074-2520457",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vittorio-franceschi-poeta-e-uomo-di-teatro-brescia",
+    "titolo": "Vittorio Franceschi, poeta e uomo di teatro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T17:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Teatro Mina Mezzadri",
+    "indirizzo": "Contrada Santa Chiara, 50, 25122 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento de 'I pomeriggi al CTB 2026-2027'. Vittorio Franceschi in dialogo con Bruno Damini e Claudio Beghelli. Celebra i 90 anni dell'artista e la pubblicazione della sua raccolta poetica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Teatrale Bresciano (CTB)",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/i-pomeriggi-al-ctb-2520218-2520462",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "roman-fediurko-stagione-concertistica-gia-2026-brescia",
+    "titolo": "Roman Fediurko - Stagione concertistica GIA 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T18:00",
+    "fine": "2026-11-14T20:00",
+    "luogo": "Auditorium San Barnaba",
+    "indirizzo": "Piazza Arturo Benedetti Michelangeli, 1, 25121 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto conclusivo della 55ª stagione GIA. Protagonista il pianista ucraino Roman Fediurko (classe 2004), vincitore di concorsi internazionali come il 'Concorso Città di Cremona' 2024.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "GIA - Giovani Interpreti Associati",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/stagione-concertistica-gia-2026-2520078-2520269-2520463",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "us-da-le-as-l-ucaziu-giosta-la-ria-per-tocc-brescia",
+    "titolo": "Us da le as: L'ucaziù giösta ... la rìa per töcc",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:45",
+    "fine": null,
+    "luogo": "Teatro Santa Giulia",
+    "indirizzo": "Via Quinta 4, Villaggio Prealpino, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di teatro dialettale. In programma un incontro con la poesia di Leonardo Urbinati e la commedia 'L'ucaziù giösta ... la rìa per töcc' della compagnia Piccola Ribalta, regia di Giancarlo Lazzaroni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rassegna Us da le as",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/us-da-le-as-2026-2-atto-2520326-2520471",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "100-autori-100-opere-destinate-a-diventare-storia-brescia",
+    "titolo": "100 autori 100 opere destinate a diventare storia",
+    "categoria": "mostra",
+    "inizio": "2026-11-14",
+    "fine": "2027-01-10",
+    "luogo": "Cavallerizza - Centro Italiano della fotografia",
+    "indirizzo": "Via Fratelli Cairoli, 9, 25122 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di fotografia dalla collezione Clerici. Raccolta di 100 opere di autori diversi che attraversano generi (reportage, ritratto, paesaggio) per raccontare l'evoluzione della fotografia e il suo ruolo sociale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Cavallerizza - Centro Italiano della fotografia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cavallerizza-100-autori",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giuseppe-zanardelli-statista-giurista-e-uomo-di-cultura-brescia",
+    "titolo": "Giuseppe Zanardelli: Statista, giurista e uomo di cultura",
+    "categoria": "mostra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Palazzo Tosio",
+    "indirizzo": "Via Tosio, 12, 25121 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata a Giuseppe Zanardelli in occasione del bicentenario della nascita. Espone la biblioteca personale, memorabilia, foto di contemporanei illustri e il ritratto di Eleonora Duse di Franz von Lenbach.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ateneo di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/giuseppe-zanardelli-mostra-2516520-2516738-2517027-2517285-2517452-2518422-2518569-2518696-2518944-2519200-2519440-2519618-2519931-2520075-2520261-2520459",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cerimonia-del-premio-all-impegno-donna-del-sud-2026-ventiquattresima-e-francavilla-fontana",
+    "titolo": "Cerimonia del Premio all’Impegno – Donna del Sud 2026 - ventiquattresima edizione",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T18:00",
+    "fine": null,
+    "luogo": "Salone del Santuario Maria SS. della Croce",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Premiazione di donne che rappresentano un esempio di competenza e solidarietà nelle professioni, cultura e volontariato. L'evento è promosso dall'Inner Wheel Club di Francavilla Fontana e dalla Federazione di Volontariato Donne del Sud.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Inner Wheel Club di Francavilla Fontana – Terre degli Imperiali",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98681106/evento-1483",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trofeo-liguria-2026-di-orienteering-lerici",
+    "titolo": "Trofeo Liguria 2026 di Orienteering",
+    "categoria": "sport",
+    "inizio": "2026-11-22T09:30",
+    "fine": "2026-11-22T12:30",
+    "luogo": "Rotonda Vassallo",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinta prova del Trofeo Liguria 2026 di Orienteering, aperta a tutte le fasce d'età e livelli. La manifestazione prevede percorsi ludico-motori su spazi urbani per promuovere lo sport e far conoscere il territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dog Open Games ASD",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento/trofeo-liguria-2026-di-orientering",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-magico-mondo-di-babbo-natale-arriva-a-lerici-lerici",
+    "titolo": "Il Magico Mondo di Babbo Natale Arriva a Lerici",
+    "categoria": "bambini",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-24",
+    "luogo": "Castello di Lerici",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Esperienza natalizia che parte da Largo Tarabotto e prosegue in Piazza Garibaldi. Include la consegna di mappe, la scrittura di letterine per Babbo Natale, timbri e partecipazione a spettacoli tematici.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pandizenzero-storie-dolci-di-natale-lerici",
+    "titolo": "Pandizenzero. Storie Dolci di Natale",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:00",
+    "fine": "2026-12-05T22:00",
+    "luogo": "Teatro Astoria",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Teatro del Buratto con Ilarie Ferro e Marco Iacuzio. La trama racconta le ultime cinque giornate prima di Natale attraverso cinque case piccole con tetti rossi, in un racconto dolce e natalizio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Buratto",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gloria-in-musica-nella-parrocchiale-di-san-terenzo-lerici",
+    "titolo": "Gloria in Musica nella Parrocchiale di San Terenzo",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T23:00",
+    "luogo": "Chiesa della Natività di Maria",
+    "indirizzo": "Viale della Vittoria, 2, San Terenzo",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto natalizio con l'Unione Corale La Spezia e la Corale P.A. Guglielmi di Massa. Il programma include opere di Mozart, Fauré e la Messa di Gloria di Puccini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "57-natale-subacqueo-di-tellaro-lerici",
+    "titolo": "57° Natale Subacqueo di Tellaro",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-24T21:00",
+    "fine": "2026-12-25T00:30",
+    "luogo": "Tellaro",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione natalizia tradizionale che affonda le radici negli anni Sessanta. Uno spettacolo suggestivo che avvolge il paese di Tellaro in un'atmosfera magica, offrendo una delle più antiche manifestazioni natalizie della Liguria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "capodanno-a-san-terenzo-con-radio-nostalgia-lerici",
+    "titolo": "Capodanno a San Terenzo con Radio Nostalgia",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T22:00",
+    "fine": "2027-01-01T02:00",
+    "luogo": "Piazza Brusacà",
+    "indirizzo": "Piazza Brusacà, San Terenzo",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Notte di musica e spettacolo in diretta su Radio Nostalgia. Anni '80 e '90 si sfidano in 'Upside Down vs Back to 90' per un viaggio nel tempo che accompagna il pubblico verso il 2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Radio Nostalgia",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "black-gold-il-gospel-arriva-all-astoria-per-il-concerto-di-capodanno-lerici",
+    "titolo": "Black Gold: Il Gospel Arriva all'Astoria per il Concerto di Capodanno",
+    "categoria": "concerto",
+    "inizio": "2027-01-01T15:00",
+    "fine": "2027-01-01T16:00",
+    "luogo": "Teatro Astoria",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo Gospel Voices Family Tour con cantanti di origine afroamericana. Esperienza che riproduce una messa Gospel afroamericana con repertorio che spazia dalle antiche tradizioni al gospel moderno.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "terzo-tempo-lerici",
+    "titolo": "Terzo Tempo",
+    "categoria": "teatro",
+    "inizio": "2027-01-28T21:00",
+    "fine": "2027-01-28T23:00",
+    "luogo": "Teatro Astoria",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo del Teatro Franco Parenti con Lucia Vasini e Paolo Hendel. Libero adattamento del romanzo di Lidia Ravera, con drammaturgia di Ravera e Giordano e regia di Emanuela Giordano.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Franco Parenti",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "winnie-the-pooh-ora-abbiamo-sei-anni-lerici",
+    "titolo": "Winnie the Pooh Ora Abbiamo Sei Anni",
+    "categoria": "teatro",
+    "inizio": "2027-02-07T16:00",
+    "fine": "2027-02-07T17:00",
+    "luogo": "Teatro Astoria",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Drogheria Rebelot tratto dall'opera di A.A. Milne, con Miriam Costamagna e Andrea Lopez Nunes. Utilizzo di marionette e figure per raccontare il primo giorno di scuola di Winnie the Pooh.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Drogheria Rebelot",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/eventi/elenco/pagina/2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-internazionale-casa-van-westerhout-tour-guidati-mola-di-bari",
+    "titolo": "Festival Internazionale Casa van Westerhout – Tour Guidati",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-08T10:00",
+    "fine": "2026-11-15T13:00",
+    "luogo": "Mola di Bari",
+    "indirizzo": "Mola di Bari",
+    "cap": null,
+    "comune": "072028",
+    "frazione": null,
+    "lat": 41.03962,
+    "lon": 17.07677,
+    "coordinateApprossimate": true,
+    "descrizione": "Tour guidati nell'ambito del Festival Internazionale Casa van Westerhout. Percorsi dedicati al compositore molese con attività esperienziali e immersive, trasformando i tradizionali itinerari in esperienze totali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Giovanni Padovano Iniziative Musicali A.G.ì.MUS., Comune di Mola di Bari",
+    "fonti": [
+      {
+        "nome": "Visit Mola di Bari",
+        "tipo": "ufficiale",
+        "url": "https://www.visitmoladibari.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-almese-16-11",
+    "titolo": "Se domani non torno",
+    "categoria": "teatro",
+    "inizio": "2026-11-16T18:30",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che racconta la storia di Gino Cecchettin, padre che ha cresciuto con amore e dedizione i suoi tre figli dopo la perdita della moglie Monica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "wild-horse-nine-almese-16-11",
+    "titolo": "Wild Horse Nine",
+    "categoria": "teatro",
+    "inizio": "2026-11-16T21:15",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera ambientata alla vigilia del colpo di Stato che porterà alla caduta del presidente Salvador Allende, dove due agenti della CIA vengono inviati sull'Isola di Pasqua.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "the-teacher-almese-16-11",
+    "titolo": "The Teacher",
+    "categoria": "teatro",
+    "inizio": "2026-11-16T16:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Film drammatico del 2023 diretto da Farah Nabulsi. Racconta la storia di Basem, un insegnante palestinese in Cisgiordania che cerca di aiutare il suo studente Adam nonostante le tensioni sociali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/the-teacher/2026-11-16",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rebuilding-almese-23-11",
+    "titolo": "Rebuilding",
+    "categoria": "teatro",
+    "inizio": "2026-11-23T16:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Film drammatico del 2025 diretto da Max Walker-Silverman. Racconta la storia di Dusty, un cowboy del Colorado che deve ricostruire la sua vita dopo che un incendio ha distrutto il suo ranch.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/rebuilding/2026-11-20/2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "coppie-normali-podcast-almese",
+    "titolo": "Coppie Normali Podcast",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo della compagnia Amalgamare, scritto e diretto da Piero Torciano, che porta sul palcoscenico la vita quotidiana delle coppie. Fa parte del progetto MORPHO.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Eldar Impresa Sociale",
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/coppie-normali-podcast",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sentimental-value-almese",
+    "titolo": "Sentimental value",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T18:30",
+    "fine": "2026-11-27T21:15",
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo che racconta la storia di Nora e Agnes, due sorelle unite che, dopo la morte della madre, devono affrontare il ritorno del padre Gustav.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sentimental-value-almese-30-11",
+    "titolo": "Sentimental value",
+    "categoria": "teatro",
+    "inizio": "2026-11-30T16:00",
+    "fine": null,
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Magnetto, Almese, 30/11. Spettacolo che racconta la storia di Nora e Agnes, due sorelle unite che, dopo la morte della madre, devono affrontare il ritorno del padre Gustav.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-giardino-nascosto-di-caterina-alzano-lombardo",
+    "titolo": "Il giardino nascosto di Caterina",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-02-28",
+    "luogo": "Museo d'arte sacra San Martino",
+    "indirizzo": "Alzano Lombardo",
+    "cap": null,
+    "comune": "016008",
+    "frazione": null,
+    "lat": 45.75259,
+    "lon": 9.71662,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra artistica dal titolo \"Il giardino nascosto di Caterina\", allestita presso il museo d'arte sacra San Martino. L'ingresso è gratuito e la mostra sarà aperta anche nei giorni di lunedì, mercoledì, giovedì, venerdì e sabato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Alzano Lombardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.alzano.bg.it/vivere-il-comune/eventi/il-giardino-nascosto-di-caterina",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "officina-santachiara-novembre-cuneo",
+    "titolo": "Officina Santachiara: Novembre",
+    "categoria": "teatro",
+    "inizio": "2026-11-10",
+    "fine": "2026-11-29",
+    "luogo": "Officina Santachiara",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna autunnale di Dispari Teatro che propone diversi appuntamenti teatrali. Gli spettacoli sono dedicati a un pubblico ampio, includendo adolescenti, giovani, adulti, famiglie, bambine e bambini. La rassegna si sviluppa con vari eventi nel mese di novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dispari Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Cuneo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cuneo.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-omicidio-mantovano-mantova",
+    "titolo": "Un omicidio mantovano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T17:00",
+    "fine": "2026-11-18T18:30",
+    "luogo": "Biblioteca Teresiana",
+    "indirizzo": "via Roberto Ardigò, 13",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Giovanni Telò sul processo che portò all'omicidio del maestro Anselmo Cessi a Castel Goffredo nel 1926. L'autore dialoga con la direttrice scientifica dell'Istituto Mantovano di Storia Contemporanea, mentre interviene il Vescovo di Mantova.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Istituto Mantovano di Storia Contemporanea",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/un-omicidio-mantovano-18-novembre",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voci-di-speranza-concerto-di-beneficenza-montegrotto-terme",
+    "titolo": "Voci di Speranza – Concerto di beneficenza",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T20:45",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Oratorio della Madonna Nera",
+    "indirizzo": "Via Roma",
+    "cap": null,
+    "comune": "028057",
+    "frazione": null,
+    "lat": 45.32567,
+    "lon": 11.78467,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinta edizione del concerto di beneficenza per soli, coro e orchestra, dedicato al ricordo di Mirco Circo. Protagonisti il Coro Polifonico XMC - Xe Mejo Cantare, il soprano Vittoria Bettanin e il tenore Andrea Bolcato, sotto la direzione del maestro Giovanni Minuzzi. L'evento è a favore dell'A.VI.L.L. (Associazione Italiana contro le Leucemie, i Linfomi e il Mieloma).",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione APS Berta",
+    "fonti": [
+      {
+        "nome": "Comune di Montegrotto Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montegrottoterme.pd.it/vivere-il-comune/eventi/voci-di-speranza-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "progetto-villaggio-ambrosiano-paderno-dugnano-17-11",
+    "titolo": "Progetto Villaggio Ambrosiano",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T16:45",
+    "fine": null,
+    "luogo": "Tilane",
+    "indirizzo": "Piazza della Divina Commedia, 3/5",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggi dedicati a famiglie e bambini con laboratori artistici per creare, sperimentare e divertirsi insieme. Attività ludico-creative per l'infanzia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Paderno Dugnano",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dalla-visione-alla-realta-paderno-dugnano",
+    "titolo": "Dalla visione alla realtà",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T18:00",
+    "fine": "2026-11-17T19:30",
+    "luogo": "Online",
+    "indirizzo": "Paderno Dugnano",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo modulo del percorso formativo gratuito per fondare e gestire un'associazione giovanile. Tema: L'Anima e il Patto. Visione, Motivazione e Reti. Incontro online promosso da Città metropolitana di Milano e CSV Milano.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città metropolitana di Milano",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi/dettaglio-evento/Dalla-visione-alla-realta-00001",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "genitori-in-ascolto-paderno-dugnano",
+    "titolo": "Genitori in ascolto",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T20:45",
+    "fine": null,
+    "luogo": "Tilane",
+    "indirizzo": "Piazza della Divina Commedia, 3/5",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontri dedicati all'età evolutiva, dall'infanzia alla preadolescenza, per approfondire i cambiamenti fisici, emotivi, comportamentali e affettivi dei figli. Ciclo formativo per i genitori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Paderno Dugnano",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
   }
 ]
