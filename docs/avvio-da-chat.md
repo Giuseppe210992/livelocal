@@ -42,3 +42,26 @@ Strumenti: `avvia_ricerca_comuni`, `avvia_lettura_fonti`, `stato_ricerche`. Una 
 
 - La frase (`chiave`) sta nell'indirizzo: non condividere i link. Se pensi che sia stata vista, cambia `SEGRETO` nelle Proprietà dello script.
 - Il token ha il solo permesso di avviare e leggere le Action di `livelocal`: non può cambiare il codice né i dati. Scade da solo dopo 90 giorni (va rifatto).
+
+## Impostazioni delle ricerche dalla chat (dal 14/11/2026)
+
+Oltre ad avviare i giri, dalla chat si possono leggere e cambiare i tempi delle ricerche automatiche. Gli strumenti in più sono `avvia_ricerca_locali` (pub, bar, club), `leggi_impostazioni` e `imposta_impostazione`.
+
+**Una volta sola:** aggiorna il codice del Worker con `docs/avvio-da-chat-worker.js` (Cloudflare → Worker → Modifica il codice → incolla → Distribuisci) e dai al token GitHub il permesso in più: GitHub → Settings → Developer settings → Fine-grained tokens → `livelocal-avvio` → Edit → Repository permissions → **Variables: Read and write** → Update. Poi nella chat ricarica il connettore (devono comparire 6 strumenti).
+
+**Cosa si può cambiare** (valgono dal giro successivo):
+
+| Impostazione | Significato | Valori | Predefinito |
+|---|---|---|---|
+| `ATTIVO` | `false` sospende tutte le ricerche programmate (gli avvii a mano restano possibili) | true / false | true |
+| `ORE_COMUNI` | ogni quante ore parte il giro dei comuni | 1–24 | 3 |
+| `ORE_LOCALI` | ogni quante ore parte il giro dei locali | 1–24 | 3 |
+| `ORE_FONTI` | ogni quante ore parte la rilettura delle pagine fisse | 1–24 | 6 |
+| `COMUNI_PER_GIRO` | comuni per giro | 10–400 | 240 |
+| `LOCALI_PER_GIRO` | locali per giro | 10–200 | 80 |
+| `FONTI_PER_GIRO` | pagine fisse per giro | 5–120 | 60 |
+| `BUDGET_MINUTI` | tempo massimo di ogni giro | 20–150 | 100 |
+
+Esempi da scrivere nella chat: «mostrami le impostazioni delle ricerche», «metti il giro dei comuni ogni 6 ore», «sospendi le ricerche automatiche», «riattiva le ricerche».
+
+Come funziona: le impostazioni sono variabili del repository GitHub (Settings → Secrets and variables → Actions → Variables); le Action partono ogni ora e decidono se è il loro turno (ora UTC divisibile per il numero di ore scelto). Si possono cambiare anche a mano da lì.

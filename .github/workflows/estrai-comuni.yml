@@ -6,7 +6,7 @@ name: Estrai eventi dei comuni con FreeLLMAPI
 
 on:
   schedule:
-    - cron: '41 */3 * * *'
+    - cron: '41 * * * *'
   workflow_dispatch:
     inputs:
       prova:
@@ -29,19 +29,37 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 150
     steps:
+      - name: Decide se partire (impostazioni di ricerca)
+        id: decide
+        env:
+          EVENTO: ${{ github.event_name }}
+          ATTIVO: ${{ vars.ATTIVO }}
+          ORE: ${{ vars.ORE_COMUNI }}
+        run: |
+          ORE="${ORE:-3}"
+          H=$(date -u +%-H)
+          if [ "$EVENTO" = "schedule" ]; then
+            if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+            if [ $((H % ORE)) -ne 0 ]; then echo "Non tocca a questo giro (si parte ogni $ORE ore)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.decide.outputs.run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.decide.outputs.run == 'true'
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+        if: steps.decide.outputs.run == 'true'
       - name: Cerca gli eventi dei comuni
+        if: steps.decide.outputs.run == 'true'
         env:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
-          COMUNI_PER_GIRO: ${{ inputs.quanti || '240' }}
-          BUDGET_MINUTI: '100'
+          COMUNI_PER_GIRO: ${{ inputs.quanti || vars.COMUNI_PER_GIRO || '240' }}
+          BUDGET_MINUTI: ${{ vars.BUDGET_MINUTI || '100' }}
           CONCORRENZA: '3'
           TZ: Europe/Rome
         run: |
@@ -51,12 +69,12 @@ jobs:
             node scripts/estrai-eventi-ia.mjs --comuni | tee giro.txt
           fi
       - name: Controlla che il sito si costruisca
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: npm run build
         env:
           TZ: Europe/Rome
       - name: Salva
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
@@ -76,7 +94,7 @@ jobs:
             sleep $((i * 5))
           done
       - name: Riepilogo
-        if: always()
+        if: ${{ always() && steps.decide.outputs.run == 'true' }}
         run: |
           echo '### Giro dei comuni' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"

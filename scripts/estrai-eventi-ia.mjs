@@ -21,7 +21,8 @@
 //   FREELLMAPI_URL    indirizzo base, es. https://ai.roomandrelax.it/v1 (variabile; è il valore predefinito)
 //   FREELLMAPI_MODEL  modello da usare (predefinito: auto)
 
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, mkdirSync, unlinkSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { spawnSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 
@@ -332,13 +333,35 @@ async function preparaComuni(quanti) {
 // Per ogni locale si leggono i post recenti del suo profilo Instagram professionale (API ufficiale di Meta, solo se pubblico)
 // e/o la pagina eventi del suo sito. Le didascalie restano in memoria: si salva solo l'evento estratto.
 const TIPI_LOCALE = { pub: 'pub', bar: 'bar', nightclub: 'locale notturno', biergarten: 'birreria', music_venue: 'locale di musica dal vivo', cafe: 'caffè' };
+let campiImmagini = true; // se Meta non accetta gli indirizzi delle immagini si passa ai campi base
 async function leggiInstagramLocale(handle, mioId) {
-  const campi = `business_discovery.username(${handle}){username,media.limit(12){caption,timestamp,permalink}}`;
+  for (const conImmagini of campiImmagini ? [true, false] : [false]) {
+    const campi = `business_discovery.username(${handle}){username,media.limit(12){caption,timestamp,permalink${conImmagini ? ',media_type,media_url,children{media_url,media_type}' : ''}}}`;
+    try {
+      const r = await (await fetch(`${GRAPH}/${mioId}?fields=${encodeURIComponent(campi)}&access_token=${encodeURIComponent(META_TOKEN)}`, { signal: AbortSignal.timeout(30000) })).json();
+      if (r.error) { if (r.error.code === 100 && conImmagini) continue; return { errore: r.error.code }; }
+      if (!conImmagini && campiImmagini) campiImmagini = false;
+      return { post: r.business_discovery?.media?.data ?? [] };
+    } catch { return { errore: 'rete' }; }
+  }
+  return { errore: 100 };
+}
+// Locandine in sola immagine: si scarica la prima immagine del post e la si legge con Tesseract (OCR, programma gratuito installato dalla Action).
+// Il testo letto si aggiunge alla didascalia SOLO in memoria; il modello deve citare la data da quel testo come da ogni altro.
+let ocrDisponibile = true;
+const immagineDi = (p) => (p.media_type === 'IMAGE' ? p.media_url : p.media_type === 'CAROUSEL_ALBUM' ? p.children?.data?.find((c) => c.media_type === 'IMAGE')?.media_url : null) ?? null;
+async function leggiLocandina(url) {
+  const file = `${tmpdir()}/locandina-${process.pid}-${Math.random().toString(36).slice(2)}.img`;
   try {
-    const r = await (await fetch(`${GRAPH}/${mioId}?fields=${encodeURIComponent(campi)}&access_token=${encodeURIComponent(META_TOKEN)}`, { signal: AbortSignal.timeout(30000) })).json();
-    if (r.error) return { errore: r.error.code };
-    return { post: r.business_discovery?.media?.data ?? [] };
-  } catch { return { errore: 'rete' }; }
+    const r = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(25000) });
+    if (!r.ok) return '';
+    const buf = Buffer.from(await r.arrayBuffer());
+    if (buf.length < 2000 || buf.length > 8_000_000) return '';
+    writeFileSync(file, buf);
+    const o = spawnSync('tesseract', [file, 'stdout', '-l', 'ita', '--psm', '11'], { encoding: 'utf8', timeout: 60000 });
+    if (o.error?.code === 'ENOENT') { ocrDisponibile = false; console.log('OCR: Tesseract non installato, le locandine non si leggono.'); return ''; }
+    return (o.stdout ?? '').replace(/[ \t]+/g, ' ').replace(/\n{2,}/g, '\n').trim();
+  } catch { return ''; } finally { try { unlinkSync(file); } catch { /* già tolto */ } }
 }
 function trovaPaginaEventiLocale(html, base) {
   let migliore = null, punti = 0;
@@ -371,6 +394,7 @@ async function preparaLocali(quanti) {
   const out = [];
   let igChiamate = 0, igFermo = !META_TOKEN || !mioId;
   const limiteData = new Date(Date.now() - 60 * 86400000).toISOString();
+  const limiteOcr = new Date(Date.now() - 21 * 86400000).toISOString(); // le locandine si leggono solo per i post degli ultimi 21 giorni
   let i = 0;
   async function cerca() {
     while (i < coda.length) {
@@ -388,8 +412,20 @@ async function preparaLocali(quanti) {
         if (r.errore === 4 || r.errore === 17 || r.errore === 32 || r.errore === 613) { igFermo = true; console.log('Instagram: troppe richieste, per questo giro si usano solo i siti.'); }
         else if (r.errore === 190) { igFermo = true; console.log('Instagram: token scaduto o non valido (META_TOKEN).'); }
         else if (r.post) {
-          const pagine = r.post.filter((p) => (p.caption ?? '').length >= 40 && (p.timestamp ?? '') >= limiteData && p.permalink)
-            .map((p) => ({ url: normUrl(p.permalink), testo: `${(p.caption ?? '').slice(0, 1800)}\n(post del ${String(p.timestamp).slice(0, 10)})` }));
+          const pagine = [];
+          let ocrFatti = 0;
+          for (const p of r.post) {
+            if (!p.permalink || (p.timestamp ?? '') < limiteData) continue;
+            let testo = (p.caption ?? '').slice(0, 1800);
+            const img = immagineDi(p);
+            const haData = /(gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre|ottobre|novembre|dicembre|\b\d{1,2}[\/.]\d{1,2}\b)/i.test(testo);
+            if (img && !haData && ocrDisponibile && ocrFatti < 4 && String(p.timestamp) >= limiteOcr) { // locandina: la data non è nel testo, si prova a leggere l'immagine
+              ocrFatti++;
+              const o = await leggiLocandina(img);
+              if (o.length >= 12) testo += `\n[Testo letto dalla locandina, può contenere errori]\n${o.slice(0, 1200)}`;
+            }
+            if (testo.length >= 40) pagine.push({ url: normUrl(p.permalink), testo: `${testo}\n(post del ${String(p.timestamp).slice(0, 10)})` });
+          }
           if (pagine.length) { out.push({ ...base, url: `https://www.instagram.com/${l.instagram}/`, pagineDirette: pagine }); fatto = true; }
         }
         await pausa(700);

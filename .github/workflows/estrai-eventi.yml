@@ -7,7 +7,7 @@ name: Estrai eventi con FreeLLMAPI
 
 on:
   schedule:
-    - cron: '23 2,8,14,20 * * *'
+    - cron: '23 * * * *'
   workflow_dispatch:
     inputs:
       prova:
@@ -30,19 +30,37 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 150
     steps:
+      - name: Decide se partire (impostazioni di ricerca)
+        id: decide
+        env:
+          EVENTO: ${{ github.event_name }}
+          ATTIVO: ${{ vars.ATTIVO }}
+          ORE: ${{ vars.ORE_FONTI }}
+        run: |
+          ORE="${ORE:-6}"
+          H=$(date -u +%-H)
+          if [ "$EVENTO" = "schedule" ]; then
+            if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+            if [ $((H % ORE)) -ne 0 ]; then echo "Non tocca a questo giro (si parte ogni $ORE ore)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.decide.outputs.run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.decide.outputs.run == 'true'
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+        if: steps.decide.outputs.run == 'true'
       - name: Estrai gli eventi
+        if: steps.decide.outputs.run == 'true'
         env:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
-          MAX_FONTI: ${{ inputs.max || '60' }}
-          BUDGET_MINUTI: '100'
+          MAX_FONTI: ${{ inputs.max || vars.FONTI_PER_GIRO || '60' }}
+          BUDGET_MINUTI: ${{ vars.BUDGET_MINUTI || '100' }}
           CONCORRENZA: '3'
           TZ: Europe/Rome
         run: |
@@ -52,12 +70,12 @@ jobs:
             node scripts/estrai-eventi-ia.mjs | tee giro.txt
           fi
       - name: Controlla che il sito si costruisca
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: npm run build
         env:
           TZ: Europe/Rome
       - name: Salva
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
@@ -78,7 +96,7 @@ jobs:
             sleep $((i * 5))
           done
       - name: Riepilogo
-        if: always()
+        if: ${{ always() && steps.decide.outputs.run == 'true' }}
         run: |
           echo '### Giro di estrazione' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"

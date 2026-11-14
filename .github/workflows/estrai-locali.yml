@@ -2,12 +2,13 @@
 # 1) una volta al mese trova i locali in tutta Italia da OpenStreetMap (ricerca/locali.json);
 # 2) ogni 3 ore legge i post recenti dei profili Instagram professionali dei locali (API ufficiale di Meta) e le pagine eventi dei loro siti,
 #    estrae le serate, scarta errori e doppioni e pubblica solo se il sito si costruisce senza errori.
+# Le locandine in sola immagine si leggono con Tesseract (OCR). Impostazioni modificabili dalla chat: vedi docs/avvio-da-chat.md.
 # Segreti: FREELLMAPI_KEY e META_TOKEN (già presenti). A mano da Actions → «Estrai eventi dei locali con FreeLLMAPI» → Run workflow.
 name: Estrai eventi dei locali con FreeLLMAPI
 
 on:
   schedule:
-    - cron: '53 */3 * * *'
+    - cron: '53 * * * *'
   workflow_dispatch:
     inputs:
       prova:
@@ -34,27 +35,50 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 230
     steps:
+      - name: Decide se partire (impostazioni di ricerca)
+        id: decide
+        env:
+          EVENTO: ${{ github.event_name }}
+          ATTIVO: ${{ vars.ATTIVO }}
+          ORE: ${{ vars.ORE_LOCALI }}
+        run: |
+          ORE="${ORE:-3}"
+          H=$(date -u +%-H)
+          if [ "$EVENTO" = "schedule" ]; then
+            if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+            if [ $((H % ORE)) -ne 0 ]; then echo "Non tocca a questo giro (si parte ogni $ORE ore)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.decide.outputs.run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.decide.outputs.run == 'true'
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+        if: steps.decide.outputs.run == 'true'
+      - name: Installa il lettore di locandine (OCR, gratuito)
+        if: steps.decide.outputs.run == 'true'
+        continue-on-error: true
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-ita
       - name: Trova i locali (solo se l'elenco manca o ha più di 30 giorni)
+        if: steps.decide.outputs.run == 'true'
         timeout-minutes: 100
         continue-on-error: true
         env:
           FORZA: ${{ inputs.riscopri && '1' || '' }}
         run: node scripts/scopri-locali.mjs | tee scopri.txt
       - name: Cerca gli eventi dei locali
+        if: steps.decide.outputs.run == 'true'
         env:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
           FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
           META_TOKEN: ${{ secrets.META_TOKEN }}
-          LOCALI_PER_GIRO: ${{ inputs.quanti || '80' }}
+          LOCALI_PER_GIRO: ${{ inputs.quanti || vars.LOCALI_PER_GIRO || '80' }}
           MAX_IG_LOCALI: '60'
-          BUDGET_MINUTI: '100'
+          BUDGET_MINUTI: ${{ vars.BUDGET_MINUTI || '100' }}
           CONCORRENZA: '3'
           TZ: Europe/Rome
         run: |
@@ -64,12 +88,12 @@ jobs:
             node scripts/estrai-eventi-ia.mjs --locali | tee giro.txt
           fi
       - name: Controlla che il sito si costruisca
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: npm run build
         env:
           TZ: Europe/Rome
       - name: Salva
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
@@ -89,7 +113,7 @@ jobs:
             sleep $((i * 5))
           done
       - name: Riepilogo
-        if: always()
+        if: ${{ always() && steps.decide.outputs.run == 'true' }}
         run: |
           echo '### Giro dei locali' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
