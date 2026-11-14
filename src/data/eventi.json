@@ -172457,5 +172457,62 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alterazioni-2026-perpetual-possibility-cordial-colibri-villa-litta-lainate-2026-11-15",
+    "titolo": "Alterazioni 2026: Perpetual Possibility e Cordial Colibrì",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T17:00",
+    "luogo": "Sala della Musica, Villa Visconti Borromeo Litta",
+    "indirizzo": "Lainate",
+    "comune": "015116",
+    "lat": 45.56611,
+    "lon": 9.0257,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultima giornata della tredicesima edizione della rassegna di musiche innovative: Camilla Battaglia con voce elettronica (Perpetual Possibility), poi Debora Mancini e Massimo Giuntoli (Cordial Colibrì). Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Lainate",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Villa Litta Lainate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrQovIDRxA/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "convegno-esplorazioni-urbane-teatro-studio-melato-milano-2026-11-15",
+    "titolo": "Convegno «Esplorazioni Urbane»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T09:00",
+    "luogo": "Teatro Studio Melato",
+    "indirizzo": "Via Rivoli 6",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno conclusivo del progetto del Comune di Milano per i servizi educativi 0-6, con le università Bicocca e Cattolica, il MUBA, il Teatro del Buratto e Terzo Paesaggio, sull’esplorazione della città con bambine e bambini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Milano, Servizi all’infanzia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Terzo Paesaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrkxMKkcFE/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia",
+    "fine": "2026-11-15T12:30"
   }
 ]
