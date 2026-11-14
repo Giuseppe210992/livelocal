@@ -178945,5 +178945,1199 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "brich-events-presents-cabanne-paris-torino",
+    "titolo": "brich_events presents cabanne_paris",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Gianca Murazzi",
+    "indirizzo": "Torino",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.062856,
+    "lon": 7.695327,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata all'underground house con la presenza di cabanne_paris. Il programma propone deep cuts, groove sottili e frequenze essenziali, offrendo un viaggio nell'essenza grezza della musica house underground.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gianca Murazzi",
+    "fonti": [
+      {
+        "nome": "Gianca Murazzi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfnTO-_AufR",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "international-crush-torino",
+    "titolo": "International Crush",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Milk",
+    "indirizzo": "Via Paolo Sacchi 65",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.055306,
+    "lon": 7.672166,
+    "coordinateApprossimate": false,
+    "descrizione": "Maxi raduno di single torinesi e studenti internazionali. Ingresso riservato ai maggiorenni con documento originale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": "Milk",
+    "fonti": [
+      {
+        "nome": "Milk",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Dffj5zORETL",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dennis-stratton-children-of-the-damned-bologna",
+    "titolo": "Dennis Stratton + Children of the Damned",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Alchemica Music Club",
+    "indirizzo": "Via dei Lapidari 8",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.537222,
+    "lon": 11.350751,
+    "coordinateApprossimate": false,
+    "descrizione": "I fondamenti dell'heavy metal e del prog italiano in un'unica grande notte. Dennis Stratton (ex-Iron Maiden) e Children of the Damned, con special guest Il Segno del Comando.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": "Alchemica Music Club",
+    "fonti": [
+      {
+        "nome": "Alchemica Music Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmVxW6NX9r",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alessandro-gori-lo-sgargabonzi-macerata",
+    "titolo": "Alessandro Gori: Lo Sgargabonzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Circolo Dong",
+    "indirizzo": "Macerata",
+    "cap": null,
+    "comune": "043023",
+    "frazione": null,
+    "lat": 43.283098,
+    "lon": 13.486816,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo comico e horror di Alessandro Gori, creatore del blog Lo Sgargabonzi, in occasione della festa Argofest. La performance include monologhi, teorie impossibili e visioni dal web sommerso. L'ingresso per la festa di Argo è libero dalle 16:00, mentre lo spettacolo ha inizio alle 21:30 con biglietto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Dong",
+    "fonti": [
+      {
+        "nome": "Circolo Dong",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRwb7VjQ73",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "codeine-macerata",
+    "titolo": "Codeine",
+    "categoria": "concerto",
+    "inizio": "2027-06-02",
+    "fine": null,
+    "luogo": "Circolo Dong",
+    "indirizzo": "Macerata",
+    "cap": null,
+    "comune": "043023",
+    "frazione": null,
+    "lat": 43.283098,
+    "lon": 13.486816,
+    "coordinateApprossimate": false,
+    "descrizione": "Live dei Codeine, band leggendaria dello slowcore e indie rock newyorkese nata nel 1989. Il concerto offre un'esperienza musicale immersiva caratterizzata da chitarre glaciali, ritmi dilatati e malinconia, con brani dal repertorio della storica etichetta Sub Pop.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Dong",
+    "fonti": [
+      {
+        "nome": "Circolo Dong",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/De_3LyRtSrr",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trame-sottili-macerata",
+    "titolo": "Trame sottili",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "HAB",
+    "indirizzo": "Macerata",
+    "cap": null,
+    "comune": "043023",
+    "frazione": null,
+    "lat": 43.300098,
+    "lon": 13.452041,
+    "coordinateApprossimate": false,
+    "descrizione": "Un appuntamento dedicato al confronto e alla riflessione sui temi dell'anima. L'incontro esplora il concetto di ferite interiori, analizzando le sfide che esse rappresentano e le opportunità di crescita personale che nascondono, in un clima di condivisione e scavo interiore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "HAB",
+    "fonti": [
+      {
+        "nome": "HAB",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfjqfYyxCn7",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apertura-della-stagione-con-alberto-laurenti-e-i-rumba-de-mar-sarnano",
+    "titolo": "Apertura della stagione con Alberto Laurenti e i Rumba de Mar",
+    "categoria": "concerto",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "La Baita Solaria",
+    "indirizzo": "Loc. S. M. Maddalena 19, Sassotetto, Sarnano",
+    "cap": null,
+    "comune": "043049",
+    "frazione": null,
+    "lat": 43.011797,
+    "lon": 13.232286,
+    "coordinateApprossimate": false,
+    "descrizione": "Festeggiamenti per l'apertura della stagione in quota con un pranzo in compagnia e l'esibizione dal vivo di Alberto Laurenti e i Rumba de Mar.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Baita Solaria",
+    "fonti": [
+      {
+        "nome": "La Baita Solaria",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfNji7hhJnA",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "plot-twist-tolentino",
+    "titolo": "Plot Twist",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T23:00",
+    "fine": null,
+    "luogo": "Magma",
+    "indirizzo": "C.da Cisterna SNC, Tolentino (MC)",
+    "cap": null,
+    "comune": "043053",
+    "frazione": null,
+    "lat": 43.222216,
+    "lon": 13.333446,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di festa con i DJ Dinghies, Silvio ed Emiliano Effe. Un evento che riunisce amici di sempre per una serata all'insegna della musica e del divertimento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Magma",
+    "fonti": [
+      {
+        "nome": "Magma",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfaQ2PSPdyQ",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piu-che-cesare-dj-luca-moretti-tolentino",
+    "titolo": "Più che Cesare + DJ Luca Moretti",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T22:00",
+    "fine": null,
+    "luogo": "Magma",
+    "indirizzo": "C.da Cisterna SNC, Tolentino (MC)",
+    "cap": null,
+    "comune": "043053",
+    "frazione": null,
+    "lat": 43.222216,
+    "lon": 13.333446,
+    "coordinateApprossimate": false,
+    "descrizione": "Tributo a Cesare Cremonini e ai Lunapop con una tribute band dedicata, seguito dal DJ set di Luca Moretti per continuare la serata in musica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Magma",
+    "fonti": [
+      {
+        "nome": "Magma",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfnK6weRG6w",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bestie-stand-up-comedy-tolentino",
+    "titolo": "Bestie - Stand Up Comedy",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:30",
+    "fine": null,
+    "luogo": "Magma",
+    "indirizzo": "Contrada Cisterna SNC, Tolentino (MC)",
+    "cap": null,
+    "comune": "043053",
+    "frazione": null,
+    "lat": 43.222216,
+    "lon": 13.333446,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo di stand-up comedy con Angelo Amaro, Antonio Ricatti e Marco Los. Un format che alterna stili e personalità differenti con monologhi e giochi interattivi sul palco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Magma",
+    "fonti": [
+      {
+        "nome": "Magma",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfW7hVbkaLV",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "party-di-capodanno-bolognola",
+    "titolo": "Party di Capodanno",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-31T23:00",
+    "fine": null,
+    "luogo": "Z Chalet",
+    "indirizzo": "PIAZZALE PINTURA 11",
+    "cap": null,
+    "comune": "043005",
+    "frazione": null,
+    "lat": 42.988323,
+    "lon": 13.242173,
+    "coordinateApprossimate": false,
+    "descrizione": "Notte di Capodanno in quota presso lo Z Chalet. L'evento prevede musica con DJ e atmosfera festiva per celebrare l'arrivo del nuovo anno. È disponibile anche l'opzione cenone su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Z Chalet",
+    "fonti": [
+      {
+        "nome": "Z Chalet",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRtwfYEW_-",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giorgio-canali-rossofuoco-bologna",
+    "titolo": "Giorgio Canali & Rossofuoco",
+    "categoria": "concerto",
+    "inizio": "2026-12-10",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Torna l'appuntamento classico con Giorgio Canali & Rossofuoco. Un live caratterizzato da chitarre graffianti, volumi alti e un'energia intensa, consolidando una tradizione ormai storica per il locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfpiqhqqq4H",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "paolo-angeli-tenore-murales-de-orgosolo-bologna",
+    "titolo": "Paolo Angeli & Tenore Murales de Orgosolo",
+    "categoria": "concerto",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Un incontro tra la tradizione del canto polifonico sardo del Tenore Murales de Orgosolo e la sperimentazione alla chitarra sarda di Paolo Angeli. Un dialogo musicale che esplora repertori antichi e nuove forme di contaminazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfXPH-6IYZF",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sincero-d-inverno-rares-bologna",
+    "titolo": "Sincero! D'Inverno - Rares",
+    "categoria": "concerto",
+    "inizio": "2027-01-15",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Il tour invernale di Rares porta per la prima volta nei club il suo album rivelazione. Un live rinnovato con band allargata per cantare, emozionarsi e ballare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfo6F70KW7Z",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sincero-d-inverno-rares-bologna-16-01",
+    "titolo": "Sincero! D'Inverno - Rares",
+    "categoria": "concerto",
+    "inizio": "2027-01-16",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda data aggiunta per il tour invernale di Rares, che propone un'esperienza live tra canzoni da cantare e voglia di ballare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfre_bPKVB8",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fate-voi-tour-circo-zen-bologna",
+    "titolo": "Fate Voi Tour - Circo Zen",
+    "categoria": "concerto",
+    "inizio": "2027-01-30",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto pomeridiano del Fate Voi Tour. Il pubblico ha l'occasione di scegliere parte della scaletta dei brani eseguiti dalla band.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfkUocWojbl",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hugo-russo-chante-cccp-bologna",
+    "titolo": "Hugo Russo chante CCCP",
+    "categoria": "concerto",
+    "inizio": "2027-02-23",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Progetto Belles Infidèles: Hugo Russo rilegge dieci brani iconici dei CCCP trasformandoli in interpretazioni in lingua francese, mescolando alt-rock, fisarmoniche e atmosfere bal musette.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfhLUl6oF7e",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "basht-live-bologna",
+    "titolo": "Basht. Live",
+    "categoria": "concerto",
+    "inizio": "2027-03-01",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto della band britannica Basht., tra i nomi emergenti della scena rock alternativa. Un live esplosivo che presenta il sound potente e viscerale del gruppo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfg_syZojkG",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "max-angioni-fingersi-morti-bologna",
+    "titolo": "Max Angioni - Fingersi Morti",
+    "categoria": "teatro",
+    "inizio": "2027-05-22",
+    "fine": null,
+    "luogo": "Locomotiv Club",
+    "indirizzo": "Via Sebastiano Serlio 25/2",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.50732,
+    "lon": 11.352306,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo di comicità di Max Angioni. Un monologo irriverente e senza filtri che esplora la realtà grottesca attraverso la metafora dell'opossum. Evento riservato a un pubblico adulto (16+).",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Locomotiv Club",
+    "fonti": [
+      {
+        "nome": "Locomotiv Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfXhVTqoDES",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "man-cave-sunday-ride-jesi",
+    "titolo": "Man Cave Sunday Ride",
+    "categoria": "sport",
+    "inizio": "2026-11-15T08:30",
+    "fine": "2026-11-15T13:00",
+    "luogo": "Man Cave Cafè",
+    "indirizzo": "Jesi",
+    "cap": null,
+    "comune": "042021",
+    "frazione": null,
+    "lat": 43.52435,
+    "lon": 13.248819,
+    "coordinateApprossimate": false,
+    "descrizione": "Escursione in bicicletta per utenti di gravel e MTB lungo un percorso di 55 km con 1200 metri di dislivello, seguita da un pranzo a base di pasta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Man Cave Cafè",
+    "fonti": [
+      {
+        "nome": "Man Cave Cafè",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfkMx3Docuv",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "omicidio-al-twins-montecosaro",
+    "titolo": "Omicidio al Twins",
+    "categoria": "teatro",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Twins",
+    "indirizzo": "Via Don Bosco, Montecosaro Scalo",
+    "cap": null,
+    "comune": "043028",
+    "frazione": null,
+    "lat": 43.281801,
+    "lon": 13.65261,
+    "coordinateApprossimate": false,
+    "descrizione": "Cena con delitto interattiva con indizi da raccogliere tra le portate per smascherare il colpevole. A seguire si terrà l'intrattenimento musicale con Karaoke R-Evolution.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Twins",
+    "fonti": [
+      {
+        "nome": "Twins",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DffmBFOkeyA",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "folkappanka-montecosaro",
+    "titolo": "Folkappanka",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:30",
+    "fine": null,
+    "luogo": "Twins",
+    "indirizzo": "Via Don Bosco, Montecosaro Scalo",
+    "cap": null,
+    "comune": "043028",
+    "frazione": null,
+    "lat": 43.281801,
+    "lon": 13.65261,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di musica dal vivo e cena spettacolo con l'esibizione dei Folkappanka, a cui farà seguito il TWINS DJ Set ad ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Twins",
+    "fonti": [
+      {
+        "nome": "Twins",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfKPdeVRmEP",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "paolo-petrini-spoty-band-montecosaro",
+    "titolo": "Paolo Petrini – Spoty Band",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": null,
+    "luogo": "Twins",
+    "indirizzo": "Via Don Bosco, Montecosaro Scalo",
+    "cap": null,
+    "comune": "043028",
+    "frazione": null,
+    "lat": 43.281801,
+    "lon": 13.65261,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto dal vivo con Paolo Petrini e la Spoty Band, una serata speciale dedicata ai grandi successi della playlist di musica italiana.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Twins",
+    "fonti": [
+      {
+        "nome": "Twins",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfKPdeVRmEP",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marie-vaunt-osio-sopra",
+    "titolo": "Marie Vaunt",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Bolgia",
+    "indirizzo": "Via Vaccarezza 8",
+    "cap": null,
+    "comune": "016152",
+    "frazione": null,
+    "lat": 45.633357,
+    "lon": 9.603236,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata all'insegna della musica elettronica al locale notturno Bolgia di Osio Sopra, che ospita la DJ e producer Marie Vaunt per una notte di dj set dal vivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bolgia",
+    "fonti": [
+      {
+        "nome": "Bolgia",
+        "tipo": "organizzatore",
+        "url": "https://www.bolgia.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mad-dog-gravedgr-flymeon-la-gabbia-osio-sopra",
+    "titolo": "Mad Dog + Gravedgr + Flymeon - La Gabbia",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Bolgia",
+    "indirizzo": "Via Vaccarezza 8",
+    "cap": null,
+    "comune": "016152",
+    "frazione": null,
+    "lat": 45.633357,
+    "lon": 9.603236,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento musicale della serata La Gabbia presso il locale notturno Bolgia con una lineup che vede protagonisti i DJ Mad Dog, Gravedgr e Flymeon.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bolgia",
+    "fonti": [
+      {
+        "nome": "Bolgia",
+        "tipo": "organizzatore",
+        "url": "https://www.bolgia.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ilario-alicante-groove-factory-osio-sopra",
+    "titolo": "Ilario Alicante - Groove Factory",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Bolgia",
+    "indirizzo": "Via Vaccarezza 8",
+    "cap": null,
+    "comune": "016152",
+    "frazione": null,
+    "lat": 45.633357,
+    "lon": 9.603236,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata musicale firmata Groove Factory al club Bolgia con il DJ set di Ilario Alicante, punto di riferimento della scena techno ed elettronica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bolgia",
+    "fonti": [
+      {
+        "nome": "Bolgia",
+        "tipo": "organizzatore",
+        "url": "https://www.bolgia.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "veglia-ufficiale-dell-ipc-con-giovanni-bonaccini-alba",
+    "titolo": "Veglia ufficiale dell'IPC con Giovanni Bonaccini",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "Club 70",
+    "indirizzo": "Via Generale Carlo Alberto Dalla Chiesa 13",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.704545,
+    "lon": 8.033986,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata alla veglia ufficiale dell'IPC organizzata dal comitato VIPC, con la presenza dello special guest Giovanni Bonaccini. Evento musicale aperto al pubblico con prevendita ticket.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Club 70",
+    "fonti": [
+      {
+        "nome": "Club 70",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfsZzrRNLn4",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lost-and-found-night-con-freenzy-music-alba",
+    "titolo": "Lost and Found Night con Freenzy Music",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Club 70",
+    "indirizzo": "Via Generale Carlo Alberto Dalla Chiesa 13",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.704545,
+    "lon": 8.033986,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento musicale Lost and Found Night che presenta Freenzy Music, direttamente dall'etichetta Solid Groove. La serata include un pre-party e la vendita di ticket scontati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Club 70",
+    "fonti": [
+      {
+        "nome": "Club 70",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfo0GjMjTIq",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-della-goliardia-con-pucho-alba",
+    "titolo": "Festival della Goliardia con Pucho",
+    "categoria": "concerto",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Club 70",
+    "indirizzo": "Via Generale Carlo Alberto Dalla Chiesa 13",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.704545,
+    "lon": 8.033986,
+    "coordinateApprossimate": false,
+    "descrizione": "Ritorno del Festival della Goliardia, la sfida ufficiale tra i comitati delle scuole. La serata è arricchita dalla presenza dello special guest Pucho e di una Mystery Girl.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Club 70",
+    "fonti": [
+      {
+        "nome": "Club 70",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfPJWg5tcR9",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "special-stage-officine-buone-milano",
+    "titolo": "Special Stage – Officine Buone",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T17:00",
+    "fine": null,
+    "luogo": "Santeria Toscana 31",
+    "indirizzo": "Viale Toscana 31",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.445641,
+    "lon": 9.18835,
+    "coordinateApprossimate": false,
+    "descrizione": "La finale di Special Stage 2026 si terrà presso Santeria Toscana 31. L'evento è una serata dedicata alla musica che fa bene, con biglietti già in vendita su Ticketmaster.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santeria Toscana 31",
+    "fonti": [
+      {
+        "nome": "Santeria Toscana 31",
+        "tipo": "organizzatore",
+        "url": "https://www.santeria.milano.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "levante-milano",
+    "titolo": "LEVANTE",
+    "categoria": "concerto",
+    "inizio": "2026-11-17T21:00",
+    "fine": null,
+    "luogo": "Santeria Toscana 31",
+    "indirizzo": "Viale Toscana 31",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.445641,
+    "lon": 9.18835,
+    "coordinateApprossimate": false,
+    "descrizione": "Levante torna sul palco di Santeria Toscana 31 per due serate in attesa dell'uscita del suo nuovo album 'Dell'amore il fallimento e altri passi di danza'. L'artista presenta il tour 'Dell'Amore'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santeria Toscana 31",
+    "fonti": [
+      {
+        "nome": "Santeria Toscana 31",
+        "tipo": "organizzatore",
+        "url": "https://www.santeria.milano.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "levante-milano-22-11",
+    "titolo": "LEVANTE",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T21:00",
+    "fine": null,
+    "luogo": "Santeria Toscana 31",
+    "indirizzo": "Viale Toscana 31",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.445641,
+    "lon": 9.18835,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda data milanese di Levante in attesa del nuovo album 'Dell'amore il fallimento e altri passi di danza'. L'artista presenta il tour 'Dell'Amore' dal vivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santeria Toscana 31",
+    "fonti": [
+      {
+        "nome": "Santeria Toscana 31",
+        "tipo": "organizzatore",
+        "url": "https://www.santeria.milano.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anna-castiglia-milano",
+    "titolo": "Anna Castiglia",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T21:00",
+    "fine": null,
+    "luogo": "Santeria Toscana 31",
+    "indirizzo": "Viale Toscana 31",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.445641,
+    "lon": 9.18835,
+    "coordinateApprossimate": false,
+    "descrizione": "Anna Castiglia ospita la data milanese di 'La paura in tasca Tour 2026', il nuovo live che accompagna il suo secondo album. Uno spettacolo che muove tra teatro, pop e scrittura d'autore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santeria Toscana 31",
+    "fonti": [
+      {
+        "nome": "Santeria Toscana 31",
+        "tipo": "organizzatore",
+        "url": "https://www.santeria.milano.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anna-castiglia-milano-26-11",
+    "titolo": "Anna Castiglia",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T21:00",
+    "fine": null,
+    "luogo": "Santeria Toscana 31",
+    "indirizzo": "Viale Toscana 31",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.445641,
+    "lon": 9.18835,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda serata milanese di Anna Castiglia per 'La paura in tasca Tour 2026'. L'artista presenta il suo cantautorato che unisce teatro, pop e scrittura d'autore in atmosfere sospese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santeria Toscana 31",
+    "fonti": [
+      {
+        "nome": "Santeria Toscana 31",
+        "tipo": "organizzatore",
+        "url": "https://www.santeria.milano.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "deeza-foggia",
+    "titolo": "Deeza",
+    "categoria": "concerto",
+    "inizio": "2026-11-14",
+    "fine": null,
+    "luogo": "DOMUS",
+    "indirizzo": "Foggia",
+    "cap": null,
+    "comune": "071024",
+    "frazione": null,
+    "lat": 41.463384,
+    "lon": 15.568968,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dance con DJ Deeza. L'evento si caratterizza per luci basse, bassi profondi e una pista che continua fino all'alba. Backstage e tavoli laterali disponibili su prenotazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "DOMUS",
+    "fonti": [
+      {
+        "nome": "DOMUS",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfXAvYANONx",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "h2o-club-presenta-2nde-ent-marano-ticino",
+    "titolo": "H2O Club presenta 2nde_ent",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T23:00",
+    "fine": "2026-11-29T04:00",
+    "luogo": "H2O Club",
+    "indirizzo": "Via Mezzomerico 18",
+    "cap": null,
+    "comune": "003091",
+    "frazione": null,
+    "lat": 45.627188,
+    "lon": 8.625134,
+    "coordinateApprossimate": false,
+    "descrizione": "Sera dedicata al format Hard Techno con la presentazione di 2nde_ent. L'evento propone una selezione musicale che include Techno e Hard Techno. L'ingresso è riservato ai maggiori di 21 anni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "H2O Club",
+    "fonti": [
+      {
+        "nome": "H2O Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfNDvbojaby",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
   }
 ]
