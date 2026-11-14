@@ -1,0 +1,98 @@
+# Cerca gli eventi dei locali (pub, bar, club, locali con musica dal vivo) con un modello gratuito (FreeLLMAPI), senza passare da Claude.
+# 1) una volta al mese trova i locali in tutta Italia da OpenStreetMap (ricerca/locali.json);
+# 2) ogni 3 ore legge i post recenti dei profili Instagram professionali dei locali (API ufficiale di Meta) e le pagine eventi dei loro siti,
+#    estrae le serate, scarta errori e doppioni e pubblica solo se il sito si costruisce senza errori.
+# Segreti: FREELLMAPI_KEY e META_TOKEN (già presenti). A mano da Actions → «Estrai eventi dei locali con FreeLLMAPI» → Run workflow.
+name: Estrai eventi dei locali con FreeLLMAPI
+
+on:
+  schedule:
+    - cron: '53 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: 'Solo prova: mostra cosa troverebbe, senza salvare'
+        type: boolean
+        default: false
+      quanti:
+        description: 'Quanti locali in questo giro'
+        default: '80'
+      riscopri:
+        description: 'Rifai subito l''elenco dei locali da OpenStreetMap'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estrai-eventi
+  cancel-in-progress: false
+
+jobs:
+  estrai:
+    runs-on: ubuntu-latest
+    timeout-minutes: 230
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Trova i locali (solo se l'elenco manca o ha più di 30 giorni)
+        timeout-minutes: 100
+        continue-on-error: true
+        env:
+          FORZA: ${{ inputs.riscopri && '1' || '' }}
+        run: node scripts/scopri-locali.mjs | tee scopri.txt
+      - name: Cerca gli eventi dei locali
+        env:
+          FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
+          FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
+          FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          LOCALI_PER_GIRO: ${{ inputs.quanti || '80' }}
+          MAX_IG_LOCALI: '60'
+          BUDGET_MINUTI: '100'
+          CONCORRENZA: '3'
+          TZ: Europe/Rome
+        run: |
+          if [ "${{ inputs.prova }}" = "true" ]; then
+            node scripts/estrai-eventi-ia.mjs --locali --prova | tee giro.txt
+          else
+            node scripts/estrai-eventi-ia.mjs --locali | tee giro.txt
+          fi
+      - name: Controlla che il sito si costruisca
+        if: ${{ !inputs.prova }}
+        run: npm run build
+        env:
+          TZ: Europe/Rome
+      - name: Salva
+        if: ${{ !inputs.prova }}
+        run: |
+          git config user.name "livelocal-bot"
+          git config user.email "livelocal-bot@users.noreply.github.com"
+          git add src/data/eventi.json ricerca/consegne ricerca/locali.json ricerca/locali-stato.json
+          if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
+          git commit -m "Estrazione automatica dei locali (FreeLLMAPI): $(date +%F-%H%M)"
+          for i in 1 2 3 4; do
+            if ! git pull --rebase origin main; then
+              if node scripts/risolvi-conflitto-eventi.mjs; then
+                git add src/data/eventi.json ricerca/locali.json ricerca/locali-stato.json
+                GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
+              else
+                git rebase --abort; sleep $((i * 5)); continue
+              fi
+            fi
+            git push origin HEAD:main && break
+            sleep $((i * 5))
+          done
+      - name: Riepilogo
+        if: always()
+        run: |
+          echo '### Giro dei locali' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          tail -40 scopri.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+          tail -60 giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

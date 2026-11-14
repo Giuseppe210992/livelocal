@@ -51,7 +51,7 @@ for (const b of blocchi) {
   let ultima = null;
   for (const riga of b.split('\n')) {
     const m = riga.match(/^\s*([a-z_]+)\s*:\s*(.*)$/i);
-    if (m && /^(titolo|categoria|comune|provincia|luogo|indirizzo|inizio|fine|descrizione|prezzo|organizzatore|prenotazione|fonte_url|fonte_nome|fonte_tipo)$/i.test(m[1])) {
+    if (m && /^(titolo|categoria|comune|provincia|luogo|indirizzo|inizio|fine|descrizione|prezzo|organizzatore|prenotazione|fonte_url|fonte_nome|fonte_tipo|lat|lon)$/i.test(m[1])) {
       ultima = m[1].toLowerCase();
       campi[ultima] = m[2].trim();
     } else if (ultima && riga.trim()) {
@@ -157,9 +157,12 @@ lettura: for (const c of lette) {
     cap: null,
     comune: comune.codiceIstat,
     frazione: null,
-    lat: comune.lat,
-    lon: comune.lon,
-    coordinateApprossimate: true,
+    // Coordinate esatte del locale (da OpenStreetMap), se la consegna le porta e cadono vicino al comune; altrimenti il centro del paese.
+    ...(() => {
+      const la = Number(c.lat), lo = Number(c.lon);
+      const vicino = Number.isFinite(la) && Number.isFinite(lo) && Math.abs(la - comune.lat) < 0.5 && Math.abs(lo - comune.lon) < 0.6;
+      return vicino ? { lat: Number(la.toFixed(6)), lon: Number(lo.toFixed(6)), coordinateApprossimate: false } : { lat: comune.lat, lon: comune.lon, coordinateApprossimate: true };
+    })(),
     descrizione,
     prezzo,
     prenotazione: vuoto(c.prenotazione) ? null : c.prenotazione.trim(),

@@ -166,9 +166,9 @@ function dataCoerente(iso, citazione) {
   const numerica = new RegExp(`(?:^|[^0-9])0?${g}[/.-]0?${mese}(?:[^0-9]|$)`).test(c) || c.includes(iso.slice(0, 10));
   return conNome || numerica;
 }
-function controlla(e, mappaTesti) {
+function controlla(e, mappaTesti, locale = false) {
   const motivi = [];
-  for (const k of ['titolo', 'categoria', 'comune', 'luogo', 'inizio', 'descrizione', 'fonte_url', 'citazione_data', 'citazione_luogo']) if (!e[k] || !String(e[k]).trim()) motivi.push('manca ' + k);
+  for (const k of locale ? ['titolo', 'categoria', 'comune', 'luogo', 'inizio', 'descrizione', 'fonte_url', 'citazione_data'] : ['titolo', 'categoria', 'comune', 'luogo', 'inizio', 'descrizione', 'fonte_url', 'citazione_data', 'citazione_luogo']) if (!e[k] || !String(e[k]).trim()) motivi.push('manca ' + k);
   if (motivi.length) return motivi;
   const testo = mappaTesti.get(normUrl(e.fonte_url));
   if (!testo) return ['fonte_url non è una delle pagine lette'];
@@ -176,10 +176,15 @@ function controlla(e, mappaTesti) {
   const nz = (s) => ' ' + norm(s).replace(/[^a-z0-9]+/g, ' ').trim() + ' ';
   const tt = nz(testo);
   if (!tt.includes(nz(e.citazione_data))) motivi.push('citazione della data non presente nella pagina');
-  if (!tt.includes(nz(e.citazione_luogo))) motivi.push('citazione del luogo non presente nella pagina');
+  if (!locale && !tt.includes(nz(e.citazione_luogo))) motivi.push('citazione del luogo non presente nella pagina');
   const t = norm(testo);
   if (!dataCoerente(String(e.inizio), e.citazione_data)) motivi.push('la data non coincide con la citazione');
-  const paroleLuogo = norm(e.luogo).split(/[^a-z0-9]+/).filter((p) => p.length >= 5);
+  // Se la citazione dice il giorno della settimana («sabato 15 novembre»), deve coincidere con la data scelta (smaschera gli anni sbagliati).
+  const GIORNI = ['domenica', 'lunedi', 'martedi', 'mercoledi', 'giovedi', 'venerdi', 'sabato'];
+  const cit = norm(e.citazione_data);
+  const g = GIORNI.findIndex((x) => new RegExp(`\\b${x}\\b`).test(cit));
+  if (g >= 0 && /^\d{4}-\d{2}-\d{2}/.test(String(e.inizio)) && new Date(String(e.inizio).slice(0, 10) + 'T12:00:00Z').getUTCDay() !== g) motivi.push('il giorno della settimana non coincide con la data');
+  const paroleLuogo = locale ? [] : norm(e.luogo).split(/[^a-z0-9]+/).filter((p) => p.length >= 5);
   if (paroleLuogo.length && !paroleLuogo.some((p) => t.includes(p))) motivi.push('il luogo non compare nella pagina');
   const paroleTitolo = norm(e.titolo).split(/[^a-z0-9]+/).filter((p) => p.length >= 4);
   if (paroleTitolo.length && paroleTitolo.filter((p) => t.includes(p)).length < Math.ceil(paroleTitolo.length * 0.6)) motivi.push('il titolo non compare nella pagina');
@@ -197,6 +202,13 @@ const progresso = existsSync(fileProgresso) ? JSON.parse(readFileSync(fileProgre
 const filePagine = 'ricerca/comuni-pagine.json'; // per ogni comune: pagina «Eventi» trovata e impronta del suo contenuto all'ultimo controllo
 const paginComuni = existsSync(filePagine) ? JSON.parse(readFileSync(filePagine, 'utf8')) : {};
 const modalitaComuni = args.includes('--comuni');
+const modalitaLocali = args.includes('--locali');
+const fileLocali = 'ricerca/locali.json';            // pub, bar, club, locali con musica: da OpenStreetMap (scripts/scopri-locali.mjs)
+const fileStatoLocali = 'ricerca/locali-stato.json';  // per ogni locale: ultimo controllo, esito, impronta dei post
+const statoLocali = existsSync(fileStatoLocali) ? JSON.parse(readFileSync(fileStatoLocali, 'utf8')) : {};
+const GRAPH = process.env.GRAPH_BASE || 'https://graph.facebook.com/v26.0';
+const META_TOKEN = process.env.META_TOKEN || '';
+const MAX_IG = Number(process.env.MAX_IG_LOCALI || 60); // chiamate a Instagram per giro (Meta ne tollera circa 200 all'ora, in comune con l'altro controllo)
 const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 240);
 
 const slugComune = (c) => c.slug;
@@ -316,14 +328,96 @@ async function preparaComuni(quanti) {
   return out;
 }
 
+// ---- Modalità --locali: pub, bar, club e locali con musica dal vivo (elenco in ricerca/locali.json) ----
+// Per ogni locale si leggono i post recenti del suo profilo Instagram professionale (API ufficiale di Meta, solo se pubblico)
+// e/o la pagina eventi del suo sito. Le didascalie restano in memoria: si salva solo l'evento estratto.
+const TIPI_LOCALE = { pub: 'pub', bar: 'bar', nightclub: 'locale notturno', biergarten: 'birreria', music_venue: 'locale di musica dal vivo', cafe: 'caffè' };
+async function leggiInstagramLocale(handle, mioId) {
+  const campi = `business_discovery.username(${handle}){username,media.limit(12){caption,timestamp,permalink}}`;
+  try {
+    const r = await (await fetch(`${GRAPH}/${mioId}?fields=${encodeURIComponent(campi)}&access_token=${encodeURIComponent(META_TOKEN)}`, { signal: AbortSignal.timeout(30000) })).json();
+    if (r.error) return { errore: r.error.code };
+    return { post: r.business_discovery?.media?.data ?? [] };
+  } catch { return { errore: 'rete' }; }
+}
+function trovaPaginaEventiLocale(html, base) {
+  let migliore = null, punti = 0;
+  for (const m of html.matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    let u; try { u = new URL(decodifica(m[1]), base); } catch { continue; }
+    if (u.host !== new URL(base).host || !/^https?:$/.test(u.protocol) || /\.(pdf|jpe?g|png|gif|zip)$/i.test(u.pathname)) continue;
+    const testo = htmlInTesto(m[2]).toLowerCase().slice(0, 50), perc = u.pathname.toLowerCase();
+    let p = 0;
+    if (/^(eventi|serate|live|agenda|programma|calendario|musica dal vivo|prossimi eventi|prossime serate|events)$/.test(testo.trim())) p += 5;
+    else if (/\b(eventi|serate|live|agenda|programma|calendario)\b/.test(testo)) p += 3;
+    if (/(eventi|serate|live|agenda|programma|calendario|events)/.test(perc)) p += 2;
+    if (/(menu|prenota|contatt|privacy|cookie|gift|lavora)/.test(perc)) p -= 3;
+    if (p > punti) { punti = p; migliore = normUrl(u.toString()); }
+  }
+  return punti >= 3 ? migliore : null;
+}
+async function preparaLocali(quanti) {
+  if (!existsSync(fileLocali)) { console.log('Manca ricerca/locali.json: lancia prima scripts/scopri-locali.mjs.'); return []; }
+  const locali = JSON.parse(readFileSync(fileLocali, 'utf8')).locali ?? [];
+  const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
+  const comuneDi = new Map(territorio.comuni.map((c) => [c.codiceIstat, c]));
+  const siglaDi = new Map(territorio.province.map((p) => [p.codiceIstat, p.sigla]));
+  const giorniDa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
+  // Si ricontrolla ogni 2 giorni (i locali illeggibili ogni 7); prima i mai controllati, poi quelli con musica dal vivo, poi i più vecchi.
+  const dovuto = (l) => { const s = statoLocali[l.id]; return !s || giorniDa(s.ultima) >= (s.esito === 'senza-fonti' || s.esito === 'illeggibile' ? 7 : 2); };
+  const ordine = (a, b) => Number(!!statoLocali[a.id]) - Number(!!statoLocali[b.id]) || Number(!!b.live) - Number(!!a.live)
+    || String(statoLocali[a.id]?.ultima ?? '').localeCompare(String(statoLocali[b.id]?.ultima ?? '')) || a.id.localeCompare(b.id);
+  const coda = locali.filter(dovuto).sort(ordine).slice(0, quanti);
+  const mioId = existsSync('ricerca/instagram-account.json') ? JSON.parse(readFileSync('ricerca/instagram-account.json', 'utf8')).mioId : null;
+  const out = [];
+  let igChiamate = 0, igFermo = !META_TOKEN || !mioId;
+  const limiteData = new Date(Date.now() - 60 * 86400000).toISOString();
+  let i = 0;
+  async function cerca() {
+    while (i < coda.length) {
+      const l = coda[i++];
+      const c = comuneDi.get(l.comune);
+      if (!c) { statoLocali[l.id] = { ultima: OGGI, esito: 'senza-fonti', eventi: 0 }; continue; }
+      const sigla = siglaDi.get(c.provincia) ?? '';
+      const tipo = TIPI_LOCALE[l.tipo] ?? 'locale';
+      const hint = `LOCALE: «${l.nome}» (${tipo}) a ${c.nome} (${sigla})${l.indirizzo ? ', ' + l.indirizzo : ''}. Le pagine qui sotto sono post Instagram o pagine del sito di questo locale. Regole speciali: il luogo è SEMPRE questo locale (scrivi il suo nome in "luogo" e lascia "citazione_luogo" vuota); comune: ${c.nome}, provincia: ${sigla}. La data può essere scritta senza anno («sabato 15 novembre»): l'anno è quello più vicino a oggi nel futuro. Scrivi un evento per ogni serata distinta; ignora menù, offerte, promozioni senza una serata, feste private, eventi su invito e post vecchi. fonte_url è l'indirizzo del post (o della pagina) da cui hai letto la data.`;
+      const base = { nome: l.nome, tipo: 'organizzatore', dettagli: false, codiceLocale: l.id, hint, hash: statoLocali[l.id]?.hash, locale: { nome: l.nome, comune: c.nome, sigla, indirizzo: l.indirizzo ?? '', lat: l.lat, lon: l.lon } };
+      let fatto = false;
+      if (l.instagram && !igFermo && igChiamate < MAX_IG) {
+        igChiamate++;
+        const r = await leggiInstagramLocale(l.instagram, mioId);
+        if (r.errore === 4 || r.errore === 17 || r.errore === 32 || r.errore === 613) { igFermo = true; console.log('Instagram: troppe richieste, per questo giro si usano solo i siti.'); }
+        else if (r.errore === 190) { igFermo = true; console.log('Instagram: token scaduto o non valido (META_TOKEN).'); }
+        else if (r.post) {
+          const pagine = r.post.filter((p) => (p.caption ?? '').length >= 40 && (p.timestamp ?? '') >= limiteData && p.permalink)
+            .map((p) => ({ url: normUrl(p.permalink), testo: `${(p.caption ?? '').slice(0, 1800)}\n(post del ${String(p.timestamp).slice(0, 10)})` }));
+          if (pagine.length) { out.push({ ...base, url: `https://www.instagram.com/${l.instagram}/`, pagineDirette: pagine }); fatto = true; }
+        }
+        await pausa(700);
+      }
+      if (!fatto && l.sito) {
+        const s = await scarica(l.sito);
+        if (!s.errore) {
+          const pagina = trovaPaginaEventiLocale(s.html, s.urlFinale);
+          if (pagina) { out.push({ ...base, url: pagina }); fatto = true; }
+        }
+      }
+      if (!fatto) statoLocali[l.id] = { ultima: OGGI, esito: 'senza-fonti', eventi: 0 };
+    }
+  }
+  await Promise.all(Array.from({ length: 3 }, () => cerca()));
+  console.log(`Locali preparati: ${out.length} su ${coda.length} (Instagram: ${igChiamate} chiamate).`);
+  return out;
+}
+
 let elenco;
-if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
+if (modalitaLocali) elenco = await preparaLocali(Number(process.env.LOCALI_PER_GIRO || 80));
+else if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
 else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false, codiceComune: process.env.TEST_CODICE, hash: process.env.TEST_HASH }];
 else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
-if (!modalitaComuni) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
-if (!modalitaComuni) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
+if (!modalitaComuni && !modalitaLocali) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
+if (!modalitaComuni && !modalitaLocali) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
 // Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
 if (!simula && !args.includes('--prompt')) {
@@ -348,8 +442,13 @@ async function lavora(fonte) {
   const nuovi = [];
   const precedente = stato.fonti[fonte.url]?.falliti ?? 0;
   const riga = { ultima: OGGI, eventi: 0, esito: '', falliti: precedente + 1 }; // si azzera solo se la pagina dà un risultato
+  let hashNuovo = null;
   const chiudi = () => {
-    if (!fonte.codiceComune) stato.fonti[fonte.url] = riga;
+    if (fonte.codiceLocale) {
+      const prec = statoLocali[fonte.codiceLocale] ?? {};
+      statoLocali[fonte.codiceLocale] = { ultima: OGGI, esito: riga.esito === 'invariata' ? (prec.esito ?? 'nessun-evento') : riga.esito.startsWith('ok') ? (nuovi.length ? 'eventi' : 'nessun-evento') : 'illeggibile', eventi: riga.esito === 'invariata' ? (prec.eventi ?? 0) : nuovi.length, hash: hashNuovo ?? prec.hash };
+    }
+    if (!fonte.codiceComune && !fonte.codiceLocale) stato.fonti[fonte.url] = riga;
     if (fonte.codiceComune) {
       const letto = riga.esito.startsWith('ok');
       if (riga.esito === 'invariata') progresso.fatti[fonte.codiceComune] = { ...(progresso.fatti[fonte.codiceComune] ?? { esito: 'nessun-evento', eventi: 0 }), data: OGGI };
@@ -359,31 +458,31 @@ async function lavora(fonte) {
   };
   try {
     let html, urlFinale = fonte.url;
-    if (htmlLocale) html = readFileSync(htmlLocale, 'utf8');
+    if (fonte.pagineDirette) html = undefined; // post già letti (Instagram): niente da scaricare
+    else if (htmlLocale) html = readFileSync(htmlLocale, 'utf8');
     else {
       const s = await scarica(fonte.url);
       if (s.errore) { riga.esito = 'non letta: ' + s.errore; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
       html = s.html; urlFinale = s.urlFinale;
     }
-    const pagine = [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
-    if (fonte.dettagli && !htmlLocale) {
+    const pagine = fonte.pagineDirette ?? [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
+    if (fonte.dettagli && !htmlLocale && html) {
       for (const link of linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI)) {
         await pausa(1200);
         const d = await scarica(link);
         if (!d.errore) pagine.push({ url: link, testo: htmlInTesto(d.html).slice(0, MAX_TESTO_DETTAGLIO) });
       }
     }
-    if (pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
+    if (!fonte.pagineDirette && pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
     // Ricontrollo giornaliero: se la pagina (e l'elenco delle sue schede) non è cambiata dall'ultima volta, non serve chiedere niente al modello.
-    let hashNuovo = null;
-    if (fonte.codiceComune) {
-      const schede = fonte.dettagli && !htmlLocale ? linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI) : [];
-      hashNuovo = createHash('sha1').update(pagine[0].testo + '\n' + schede.join('\n')).digest('hex').slice(0, 16);
+    if (fonte.codiceComune || fonte.codiceLocale) {
+      const schede = fonte.dettagli && !htmlLocale && html ? linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI) : [];
+      hashNuovo = createHash('sha1').update(fonte.pagineDirette ? pagine.map((p) => p.testo).join('\n') : pagine[0].testo + '\n' + schede.join('\n')).digest('hex').slice(0, 16);
       if (process.env.DEBUG_HASH) console.log('hash', hashNuovo);
       if (fonte.hash && hashNuovo === fonte.hash) {
         riga.esito = 'invariata';
         righe.push(`  =    ${fonte.nome}: invariata (nessuna richiesta al modello)`);
-        paginComuni[fonte.codiceComune] = { url: fonte.url, hash: hashNuovo };
+        if (fonte.codiceComune) paginComuni[fonte.codiceComune] = { url: fonte.url, hash: hashNuovo };
         return chiudi();
       }
     }
@@ -394,14 +493,16 @@ async function lavora(fonte) {
     const trovati = Array.isArray(risposta.eventi) ? risposta.eventi : [];
     let buoni = 0;
     for (const e of trovati) {
-      const motivi = controlla(e, mappa);
+      if (fonte.locale) { e.luogo = fonte.locale.nome; e.comune = fonte.locale.comune; e.provincia = fonte.locale.sigla; e.organizzatore = fonte.locale.nome; }
+      const motivi = controlla(e, mappa, !!fonte.locale);
       if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();
       nuovi.push([
         `titolo: ${campo(e.titolo)}`, `categoria: ${campo(e.categoria)}`, `comune: ${campo(e.comune)}`, `provincia: ${campo(e.provincia)}`,
-        `luogo: ${campo(e.luogo)}`, `indirizzo: ${campo(e.indirizzo)}`, `inizio: ${campo(e.inizio)}`, `fine: ${campo(e.fine)}`,
+        `luogo: ${campo(e.luogo)}`, `indirizzo: ${campo(fonte.locale?.indirizzo || e.indirizzo)}`, `inizio: ${campo(e.inizio)}`, `fine: ${campo(e.fine)}`,
         `descrizione: ${campo(e.descrizione)}`, `prezzo: ${campo(e.prezzo)}`, `organizzatore: ${campo(e.organizzatore)}`,
         `fonte_url: ${campo(e.fonte_url)}`, `fonte_nome: ${campo(fonte.nome)}`, `fonte_tipo: ${fonte.tipo ?? 'aggregatore'}`,
+        ...(fonte.locale && Number.isFinite(fonte.locale.lat) ? [`lat: ${fonte.locale.lat}`, `lon: ${fonte.locale.lon}`] : []),
       ].join('\n'));
       buoni++;
     }
@@ -443,6 +544,7 @@ if (prova) {
 }
 console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
+if (modalitaLocali) writeFileSync(fileStatoLocali, JSON.stringify(statoLocali) + '\n');
 if (modalitaComuni) {
   writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
   writeFileSync(filePagine, JSON.stringify(paginComuni) + '\n');

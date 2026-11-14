@@ -61,3 +61,12 @@ La stessa Action (`estrai-comuni.yml`) tratta ora due fasce di comuni, con 240 c
 - **da 5.000 a 9.999 abitanti** (circa 1.300): prima passata completa, poi ricontrollo ogni 3 giorni;
 - i comuni con sito illeggibile si riprovano ogni 7 giorni, qualunque sia la fascia.
 Metà di ogni giro va alla prima fascia e metà alla seconda; dentro ogni fascia vengono prima i comuni mai controllati, poi quelli controllati da più tempo. Gli abitanti vengono da un dataset pubblico ISTAT (`matteocontrini/comuni-json`), scaricato una volta e salvato in `ricerca/comuni-abitanti.json`. Per ogni comune illeggibile ora si salva il **motivo** (`sito non trovato`, `pagina vuota`, errore HTTP) in `ricerca/comuni-progresso.json`, per capire come migliorare.
+
+## Locali: pub, bar, club e musica dal vivo (dal 14/11/2026)
+
+Terza Action (`.github/workflows/estrai-locali.yml`), ogni 3 ore, 80 locali per giro, sempre con FreeLLMAPI e senza Claude:
+1. **Elenco dei locali** (`scripts/scopri-locali.mjs`, una volta al mese): da OpenStreetMap (© contributori OSM, ODbL) si prendono pub, locali notturni, birrerie, locali di musica dal vivo e bar con **profilo Instagram o sito indicato dai gestori stessi**. Si salvano nome, tipo, comune, indirizzo, coordinate, profilo e sito in `ricerca/locali.json` (mai telefoni o nomi di persone). Se il lancio si interrompe, riparte dalle regioni mancanti.
+2. **Lettura** (`estrai-eventi-ia.mjs --locali`): per ogni locale legge i **post recenti del suo profilo Instagram professionale** (API ufficiale di Meta, solo account pubblici; le didascalie restano in memoria e non vengono salvate) e/o la **pagina eventi del suo sito**. Prima quelli mai controllati e con musica dal vivo, poi ogni 2 giorni (illeggibili ogni 7); se i post non cambiano non chiama il modello.
+3. **Controlli più severi:** la data deve essere scritta nel post e, se il post dice «sabato 21 novembre», il giorno della settimana deve coincidere con la data (smaschera gli anni sbagliati); menù, promozioni, feste private e post vecchi vengono ignorati; il luogo è sempre il locale; coordinate esatte da OpenStreetMap. Fonte: `organizzatore` (profilo del locale).
+Limiti: solo i profili Instagram **professionali** sono leggibili da Meta (gli account personali risultano illeggibili); le locandine in sola immagine non si leggono (serve il testo nel post); copre solo i locali presenti in OpenStreetMap con profilo o sito.
+Per forzare un nuovo elenco: Actions → «Estrai eventi dei locali con FreeLLMAPI» → Run workflow → spunta «Rifai subito l'elenco».
