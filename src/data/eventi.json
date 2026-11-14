@@ -76693,8 +76693,8 @@
   {
     "frazione": null,
     "coordinateApprossimate": true,
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
+    "stato": "rinviato",
+    "inizioPrecedente": "2026-11-13T16:00",
     "inserito": "2026-11-06",
     "inseritoDa": "ia",
     "fine": null,
@@ -76702,7 +76702,7 @@
     "slug": "disegniamo-insieme-un-mondo-gentile-massarosa-2026",
     "titolo": "Disegniamo insieme un mondo gentile",
     "categoria": "bambini",
-    "inizio": "2026-11-13T16:00",
+    "inizio": "2026-11-27T16:00",
     "luogo": "Municipio",
     "indirizzo": "Massarosa",
     "comune": "046018",
@@ -76719,6 +76719,12 @@
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfW7YxpxqtE/",
         "consultata": "2026-11-06"
+      },
+      {
+        "nome": "Instagram Comune di Massarosa (rinvio)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfr5qt9keAm/",
+        "consultata": "2026-11-14"
       }
     ]
   },
@@ -113684,40 +113690,6 @@
         "nome": "Comune di Alta Val Tidone",
         "tipo": "ufficiale",
         "url": "https://www.comune.altavaltidone.pc.it/it/eventi",
-        "consultata": "2026-11-09"
-      }
-    ],
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
-    "inserito": "2026-11-09",
-    "inseritoDa": "consegna"
-  },
-  {
-    "slug": "giobbe-covatta-in-70-bitonto",
-    "titolo": "Giobbe Covatta in «70»",
-    "categoria": "teatro",
-    "inizio": "2026-11-15T18:00",
-    "fine": "2026-11-15T20:00",
-    "luogo": "Teatro Traetta",
-    "indirizzo": "Largo Teatro, 17, Bitonto",
-    "cap": null,
-    "comune": "072011",
-    "frazione": null,
-    "lat": 41.06623,
-    "lon": 16.61347,
-    "coordinateApprossimate": true,
-    "descrizione": "Spettacolo teatrale di Giobbe Covatta che celebra i suoi 70 anni e 40 di carriera con una selezione dei suoi pezzi più significativi. Lo spettacolo affronta temi sociali come religione, ecologia e solidarietà, conditi da ironia e umorismo tipico del comico napoletano.",
-    "prezzo": {
-      "tipo": "euro",
-      "importo": 17
-    },
-    "prenotazione": null,
-    "organizzatore": "Comune di Bitonto (Stagione teatrale 2026/2027)",
-    "fonti": [
-      {
-        "nome": "Comune di Bitonto",
-        "tipo": "ufficiale",
-        "url": "https://www.comune.bitonto.ba.it/it/eventi/giobbe-covatta-in-70",
         "consultata": "2026-11-09"
       }
     ],
@@ -169879,6 +169851,206 @@
         "nome": "Instagram Teatro della Quattordicesima",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/Dfr7pTGiPkQ/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tutta-la-rossani-biblioteca-del-mediterraneo-bari-2026-11-14",
+    "titolo": "«Tutta la Rossani»: festa per la BiblioTeca del Mediterraneo (sabato)",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T09:30",
+    "fine": "2026-11-14T22:00",
+    "luogo": "Ex Caserma Rossani, BiblioTeca del Mediterraneo",
+    "indirizzo": "Bari",
+    "comune": "072006",
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda giornata di festa per l’apertura del nuovo polo bibliotecario regionale: sport dalle 9.30, laboratori, cineforum, la mostra «Europa Cinema 88», lo SlammalS poetry slam e in serata i concerti di Agenda dei buoni propositi, Clap! Clap! e Holy Tongue. Tutti gli appuntamenti sono gratuiti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Regione Puglia, Polo bibliotecario",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "BariToday",
+        "tipo": "stampa",
+        "url": "https://www.baritoday.it/eventi/cosa-fare-a-bari-13-15-novembre-2026.html",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "venere-vs-adone-enzo-cosimi-teatro-kismet-bari-2026-11-14",
+    "titolo": "«Venere vs Adone» della Compagnia Enzo Cosimi (Esplorare 2026)",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "luogo": "Teatro Kismet",
+    "indirizzo": "Bari",
+    "comune": "072006",
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo spettacolo della rassegna di danza «Esplorare 2026»: Enzo Cosimi rilegge il mito di Venere e Adone attraverso l’arte di Andy Warhol e Marlene Dumas. Biglietti su Vivaticket e al botteghino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Compagnia AltraDanza",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "BariToday",
+        "tipo": "stampa",
+        "url": "https://www.baritoday.it/eventi/cosa-fare-a-bari-13-15-novembre-2026.html",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "souvenirs-claire-e-antho-teatro-piccinni-bari-2026-11-14",
+    "titolo": "«Souvenirs» della Compagnia Claire e Antho (BIFBA)",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:00",
+    "luogo": "Teatro Piccinni",
+    "indirizzo": "Bari",
+    "comune": "072006",
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di chiusura del festival BIFBA: un duo francese tra danza, teatro fisico, ombre e videoproiezioni dal vivo, in un viaggio tra ricordi, sogni e immaginazione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "organizzatore": "Cooperativa I bambini di Truffaut",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "BariToday",
+        "tipo": "stampa",
+        "url": "https://www.baritoday.it/eventi/cosa-fare-a-bari-13-15-novembre-2026.html",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insieme-per-l-oncologico-ettore-bassi-teatro-palatour-bitritto-2026-11-15",
+    "titolo": "«Insieme per l’Oncologico»: serata di solidarietà con Ettore Bassi",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T19:30",
+    "luogo": "Teatro Palatour «Frecciarossa»",
+    "indirizzo": "Bitritto",
+    "comune": "072012",
+    "lat": 41.0366,
+    "lon": 16.82342,
+    "coordinateApprossimate": true,
+    "descrizione": "Settima edizione della serata benefica con lo spettacolo di Ettore Bassi «Dio, come ti amo… per uomini che amano le donne». Il ricavato sostiene progetti per i pazienti dell’Istituto Tumori di Bari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Araba Fenice Associazione APS",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "BariToday",
+        "tipo": "stampa",
+        "url": "https://www.baritoday.it/eventi/cosa-fare-a-bari-13-15-novembre-2026.html",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-del-fungo-cardoncello-ruvo-di-puglia-2026-11-14",
+    "titolo": "Sagra del Fungo Cardoncello, XXI edizione (14-15 novembre)",
+    "categoria": "sagra",
+    "inizio": "2026-11-14",
+    "fine": "2026-11-15",
+    "luogo": "Centro storico",
+    "indirizzo": "Ruvo di Puglia",
+    "comune": "072038",
+    "lat": 41.04059,
+    "lon": 16.42646,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni dedicati al fungo cardoncello, nel circuito nazionale delle Sagre di Qualità UNPLI: espositori, prodotti biologici e locali, degustazioni senza glutine e visite guidate al centro storico, alla Cattedrale e al Museo Jatta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco di Ruvo di Puglia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "BariToday",
+        "tipo": "stampa",
+        "url": "https://www.baritoday.it/eventi/cosa-fare-a-bari-13-15-novembre-2026.html",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mondi-in-conflitto-universita-degli-adulti-ciliverghe-mazzano-2026-11-16",
+    "titolo": "«Mondi in conflitto: la diversità può portare pace?»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-16T14:30",
+    "luogo": "Sala Polivalente, Biblioteca «F. Meo»",
+    "indirizzo": "Ciliverghe, Mazzano",
+    "comune": "017107",
+    "lat": 45.49961,
+    "lon": 10.35414,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dell’Università degli adulti con la dott.ssa Anna Paletti. Le lezioni sono registrate e disponibili in streaming sul canale YouTube del Comune di Mazzano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comuni di Mazzano e Nuvolera",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Mazzano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrveOKFgk-/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-pittura-del-nostro-tempo-cantico-delle-creature-brolo-mogliano-veneto-2026-11-14",
+    "titolo": "«La Pittura del Nostro Tempo»: in dialogo con il Cantico delle Creature",
+    "categoria": "mostra",
+    "inizio": "2026-11-14",
+    "fine": "2027-01-10",
+    "luogo": "Brolo Centro d’Arte e Cultura",
+    "indirizzo": "Mogliano Veneto",
+    "comune": "026043",
+    "lat": 45.56799,
+    "lon": 12.25251,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di sette artisti del Novecento (Gianquinto, Stefanini, Zigaina, Celiberti, Zotti, Barbarigo, Ciussi), ciascuno associato a un tema del Cantico delle Creature. Aperta venerdì 16-19, sabato e domenica 10-12 e 16-19. Inaugurazione sabato 14 novembre con la storica dell’arte Lorena Gava.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Mogliano Veneto",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Mogliano Veneto",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfsN3NwFadw/",
         "consultata": "2026-11-14"
       }
     ],
