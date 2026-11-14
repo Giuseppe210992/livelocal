@@ -59326,10 +59326,16 @@
         "tipo": "ufficiale",
         "url": "https://www.comune.erba.co.it/it/eventi/da-erba-a-cantu-gli-esordi-archeologici-di-don-carlo-annoni",
         "consultata": "2026-11-05"
+      },
+      {
+        "nome": "Instagram Città di Erba (rinvio)",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpZICFMTXM/",
+        "consultata": "2026-11-14"
       }
     ],
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
+    "stato": "rinviato",
+    "inizioPrecedente": "2026-11-12",
     "inserito": "2026-11-04",
     "inseritoDa": "ia"
   },
@@ -172735,6 +172741,63 @@
         "nome": "Instagram Comune di Trieste",
         "tipo": "ufficiale",
         "url": "https://www.instagram.com/p/DfrhvdEiYVt/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mistero-al-circolo-colonna-costantini-villa-dotti-dolo-2026-11-20",
+    "titolo": "«Mistero al Circolo Colonna»: Roberto e Fabrizio Costantini",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:30",
+    "luogo": "Villa Dotti",
+    "indirizzo": "Via G. Matteotti 63",
+    "comune": "027012",
+    "lat": 45.41961,
+    "lon": 12.08663,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del festival letterario «I Do_Love» con gli autori del giallo «Mistero al Circolo Colonna» (Marsilio). Modera Stefano Cosmo. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Dolo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Dolo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfpU_YhiSAB/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-notte-dei-sapori-antica-fiera-il-galli-carmignano-2026-11-27",
+    "titolo": "«La notte dei sapori»: cena contadina per l’Antica Fiera",
+    "categoria": "sagra",
+    "inizio": "2026-11-27T20:30",
+    "luogo": "Il Galli",
+    "indirizzo": "Viale Parenti 14",
+    "comune": "100002",
+    "lat": 43.79973,
+    "lon": 11.01859,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena della tradizione contadina nell’Antica Fiera di Carmignano: fettunta con olio nuovo, pasta con le orecchie di lepre, gallina in umido e dolci con Vin Santo. Acqua e vino inclusi, 28 euro a persona, prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "organizzatore": "Pro Loco di Carmignano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco di Carmignano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfpi0J7Dkrn/",
         "consultata": "2026-11-14"
       }
     ],
