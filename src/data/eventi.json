@@ -172514,5 +172514,89 @@
     "inserito": "2026-11-14",
     "inseritoDa": "ia",
     "fine": "2026-11-15T12:30"
+  },
+  {
+    "slug": "un-grande-orecchio-verde-toti-scialoja-accademia-di-san-luca-roma-2026-11-19",
+    "titolo": "«Un grande orecchio verde»: musica, segno e parola nell’opera di Toti Scialoja",
+    "categoria": "concerto",
+    "inizio": "2026-11-19T18:00",
+    "luogo": "Accademia Nazionale di San Luca, Palazzo Carpegna",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con voce narrante di Sandro Cappelletto e pianoforte di Marco Scolastra, con musiche di Weill, Bartók, Dallapiccola, Petrassi, Satie e Turi, in prima esecuzione assoluta su commissione dell’Accademia. Ingresso gratuito fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Accademia Nazionale di San Luca",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Accademia Nazionale di San Luca",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfsXik9tZi4/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "quando-lo-sguardo-si-posa-mostra-palazzo-dei-musei-reggio-emilia-2026-11-14",
+    "titolo": "Mostra «Quando lo sguardo si posa»: Daniela De Lorenzo e Cristina Gozzini",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T16:00",
+    "luogo": "Palazzo dei Musei",
+    "indirizzo": "Via Spallanzani 1",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "Opening della mostra di dialogo fra le due artiste e le collezioni storiche del museo, sul non-umano, la percezione e la trasformazione della materia. Aperta dal venerdì alla domenica dalle 10 alle 18, ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Reggio Emilia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfrmqf5javo/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "interi-a-meta-laboratorio-avventure-tra-le-pagine-palazzo-dei-musei-reggio-emilia-2026-11-15",
+    "titolo": "«Interi a metà»: laboratorio per piccoli lettori (Avventure tra le pagine)",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T11:00",
+    "luogo": "Palazzo dei Musei",
+    "indirizzo": "Via Spallanzani 1",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di Pina Irace ispirato all’albo illustrato «La stanza della sirena», per scoprire le proprie sfumature. Tradotto in LIS. Prenotazione richiesta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Reggio Emilia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfrqQOZO0b8/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
