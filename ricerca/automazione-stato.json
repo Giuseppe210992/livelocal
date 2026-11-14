@@ -3,14 +3,14 @@
  "fonti": {
   "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
    "ultima": "2026-11-14",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.piacenza.it/it/eventi": {
    "ultima": "2026-11-14",
-   "eventi": 4,
-   "esito": "ok: 6 proposti, 4 superano il controllo",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://visitpiacenza.it/events/natale-a-piacenza/": {
@@ -33,14 +33,14 @@
   },
   "https://www.comune.pianodisorrento.na.it/": {
    "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "eventi": 3,
+   "esito": "ok: 4 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://teatrostabile.umbria.it/calendario": {
    "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "eventi": 7,
+   "esito": "ok: 8 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://cultura.gov.it/evento": {
@@ -51,8 +51,8 @@
   },
   "https://www.teatrotrianon.org/programmazione": {
    "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 1 proposti, 0 superano il controllo",
+   "eventi": 12,
+   "esito": "ok: 13 proposti, 12 superano il controllo",
    "falliti": 0
   },
   "https://www.teatroghione.it/eventi": {
@@ -99,8 +99,8 @@
   },
   "https://teatripiacenza.it/calendario/": {
    "ultima": "2026-11-14",
-   "eventi": 15,
-   "esito": "ok: 15 proposti, 15 superano il controllo",
+   "eventi": 14,
+   "esito": "ok: 15 proposti, 14 superano il controllo",
    "falliti": 0
   },
   "https://www.museodelnovecento.org/it/eventi": {
@@ -1076,9 +1076,9 @@
    "falliti": 3
   },
   "https://www.comune.pavullo-nel-frignano.mo.it/evento": {
-   "ultima": "2026-11-13",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi": {
@@ -1088,16 +1088,16 @@
    "falliti": 0
   },
   "https://www.comune.ragusa.it/it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 4,
+   "esito": "ok: 5 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://direzioneregionalemuseilazio.cultura.gov.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: fetch failed",
+   "falliti": 1
   },
   "https://eventi.comune.verbania.it/Eventi": {
    "ultima": "2026-11-13",
@@ -1112,28 +1112,28 @@
    "falliti": 3
   },
   "https://emiliaromagnaturismo.it/it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 6,
-   "esito": "ok: 7 proposti, 6 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.fondazionemacte.com/it/programma": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comunefiv.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://www.feltrinellieditore.it/appuntamenti": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
   },
   "https://lacascinacornaredo.it/eventi": {
    "ultima": "2026-11-13",
@@ -1142,31 +1142,31 @@
    "falliti": 3
   },
   "https://www.laquilacongressi.it/evento": {
-   "ultima": "2026-11-13",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://jesolo.it/events-1/categoria/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
+   "ultima": "2026-11-14",
+   "eventi": 12,
+   "esito": "ok: 12 proposti, 12 superano il controllo",
+   "falliti": 0
   },
   "https://www.illagomaggiore.it/eventi": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 0,
    "esito": "non letta: The operation was aborted due to timeout",
-   "falliti": 1
+   "falliti": 2
   },
   "https://letsgo.gorizia.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 1,
-   "esito": "ok: 3 proposti, 1 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 2,
+   "esito": "ok: 3 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.museodellacittalivorno.it/eventi": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 1,
    "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
@@ -1178,15 +1178,15 @@
    "falliti": 3
   },
   "https://www.merano-suedtirol.it/it/merano/informazioni-servizi/eventi": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.museibassano.it/it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://palazzorealedinapoli.org/evento": {
@@ -1196,21 +1196,21 @@
    "falliti": 3
   },
   "https://palazzoareseborromeo.it/evento": {
-   "ultima": "2026-11-13",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
+   "ultima": "2026-11-14",
+   "eventi": 13,
+   "esito": "ok: 13 proposti, 13 superano il controllo",
+   "falliti": 0
   },
   "https://prolocobotticino.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://prolocoaversa.it/evento": {
-   "ultima": "2026-11-13",
-   "eventi": 6,
-   "esito": "ok: 6 proposti, 6 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.spaziomosaico.it/evento": {
@@ -1220,21 +1220,21 @@
    "falliti": 3
   },
   "https://www.palazzodiamanti.it/mostre": {
-   "ultima": "2026-11-13",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://www.teatromassimobellini.it/eventi": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 5,
    "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.teatrodannunziolatina.it/programmazione": {
-   "ultima": "2026-11-13",
-   "eventi": 15,
-   "esito": "ok: 15 proposti, 15 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.turismoroma.it/it/eventi": {
@@ -1244,27 +1244,27 @@
    "falliti": 3
   },
   "https://www.scopri.gorizia.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 8,
-   "esito": "ok: 10 proposti, 8 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 7,
+   "esito": "ok: 7 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://www.ted.com/tedx/events": {
-   "ultima": "2026-11-13",
+   "ultima": "2026-11-14",
    "eventi": 0,
-   "esito": "ok: 5 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://unionetresinarosecchia.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 14,
+   "esito": "ok: 14 proposti, 14 superano il controllo",
    "falliti": 0
   },
   "https://valledaostaheritage.com/whats-on": {
-   "ultima": "2026-11-13",
-   "eventi": 10,
-   "esito": "ok: 10 proposti, 10 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitlmr.it/it/eventi": {
@@ -1280,9 +1280,9 @@
    "falliti": 3
   },
   "https://www.visitbrescia.it/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 7,
-   "esito": "ok: 8 proposti, 7 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitpiemonte.com/en/events": {
@@ -1292,15 +1292,15 @@
    "falliti": 3
   },
   "https://www.visitmuve.it/evento": {
-   "ultima": "2026-11-13",
-   "eventi": 1,
-   "esito": "ok: 2 proposti, 1 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://visitcesenatico.it/vivi-cesenatico/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 9,
-   "esito": "ok: 9 proposti, 9 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visittuscany.com/en/events": {
@@ -1310,15 +1310,15 @@
    "falliti": 3
   },
   "https://www.visitrimini.com/en/events": {
-   "ultima": "2026-11-13",
-   "eventi": 1,
-   "esito": "ok: 7 proposti, 1 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitrovereto.it/vivi/eventi": {
-   "ultima": "2026-11-13",
-   "eventi": 7,
-   "esito": "ok: 9 proposti, 7 superano il controllo",
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.corriere.it/giochi/prima-o-dopo/?intcmp=fascia-giochi-hpcor": {
@@ -1679,6 +1679,144 @@
    "ultima": "2026-11-14",
    "eventi": 0,
    "esito": "ok: 5 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://fr.spaziocrypto.com/events/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://de.spaziocrypto.com/events/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://en.spaziocrypto.com/events/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.spaziocrypto.com/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.ilreggino.it/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.catanzarochannel.it/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 2,
+   "esito": "ok: 3 proposti, 2 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.citynow.it/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 6,
+   "esito": "ok: 8 proposti, 6 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.torresette.news/rubriche/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 1
+  },
+  "https://www.ilvibonese.it/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.restoalsud.it/eventi-e-cultura/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.milanotoday.it/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.napolitoday.it/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://indicatoreweb.it/category/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.milanofinanza.it/dossier-eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://messaggerosantantonio.it/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.sportmediaset.mediaset.it/drive-up/dani-pedrosa-batte-una-formula-1-sul-ghiaccio_118930110-202602k.shtml": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 1
+  },
+  "https://www.varesenews.it/cosa-fare-varese-eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 1
+  },
+  "https://www.balcanicaucaso.org/categoria-pagina/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 1
+  },
+  "https://www.2duerighe.com/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 1
+  },
+  "https://www.quotidiano.net/eventi": {
+   "ultima": "2026-11-14",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://vocedimantova.it/eventi/": {
+   "ultima": "2026-11-14",
+   "eventi": 3,
+   "esito": "ok: 6 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://buildersinfintech.ai/events": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://aostasera.it/cosa-fare-ad-aosta/": {
+   "ultima": "2026-11-14",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   }
  }
