@@ -174811,5 +174811,4139 @@
     ],
     "inserito": "2026-11-14",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "nati-per-leggere-lastra-a-signa",
+    "titolo": "Nati per leggere",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T17:00",
+    "fine": "2026-11-24T18:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Palmiro Togliatti, 37",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura pubblica dedicata ai bambini dai 6 mesi ai 3 anni, svolta dai volontari Nati per Leggere. L'evento è rivolto alla fascia d'età in questione e si svolge su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Volontari Nati per Leggere",
+    "fonti": [
+      {
+        "nome": "Comune di Lastra a Signa",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lastra-a-signa.fi.it/it/eventi/nati-per-leggere-2520145",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-migranti-lastra-a-signa",
+    "titolo": "Letture migranti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:30",
+    "fine": "2026-11-25T19:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Palmiro Togliatti, 37",
+    "cap": null,
+    "comune": "048024",
+    "frazione": null,
+    "lat": 43.74495,
+    "lon": 11.08374,
+    "coordinateApprossimate": true,
+    "descrizione": "Recital letterario a cura di Archètipo ETS che presenta storie di autori esuli, incluso 'Cronache di un padovano insolito' di Brandon Michael Cleverly Breen, letta da Emanuele Taddei.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Archètipo ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Lastra a Signa",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lastra-a-signa.fi.it/it/eventi/letture-migranti",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-estranea-leno",
+    "titolo": "L'estranea",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film thriller 'L'estranea', regia di Paolo Strippoli. Ingresso con biglietto a pagamento con opzioni ridotte per over 65 e under 12.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731748",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dov-e-la-fiesta-leno",
+    "titolo": "Dov'è la fiesta?",
+    "categoria": "mostra",
+    "inizio": "2026-11-15T16:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film commedia 'Dov'è la fiesta?'. Ingresso con biglietto a pagamento con opzioni ridotte per over 65 e under 12.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731757-731759-731761",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "genitori-in-ansia-leno",
+    "titolo": "Genitori in ansia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T23:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Genitori in ansia' del Dott. Stefano Rossi, psicopedagogista. Ingresso libero con sessione di firmacopie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Leno",
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/genitori-in-ansia",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "calle-malaga-leno",
+    "titolo": "Calle Malaga",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film drammatico 'Calle Malaga', regia di Maryam Touzani. Ingresso con biglietto a pagamento con opzioni ridotte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731751",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alberiamo-leno-e-nati-per-leggere-leno",
+    "titolo": "Alberiamo Leno e Nati per Leggere",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T14:30",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Via Martin Luther King, 13, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa dedicata ai bambini nati nel 2025 con piantumazione alberi, laboratori creativi e consegna zainetto Nati per Leggere. Merenda finale inclusa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Leno",
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/alberiamo-leno-e-nati-per-leggere",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "paw-patrol-missione-dinosauri-leno",
+    "titolo": "Paw Patrol - Missione dinosauri",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film animato 'Paw Patrol - Missione dinosauri'. Ingresso con biglietto a pagamento con opzioni ridotte per under 12.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731757-731762",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "due-ladri-in-fuga-leno",
+    "titolo": "Due ladri in fuga",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film commedia 'Due ladri in fuga', regia di Victor Artus Solaro. Ingresso con biglietto a pagamento con opzioni ridotte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731756",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maigret-l-amore-e-la-morte-leno",
+    "titolo": "Maigret, l'amore e la morte",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T21:00",
+    "fine": "2026-11-29T23:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film drammatico 'Maigret, l'amore e la morte', regia di Pascal Bonitzer. Ingresso con biglietto a pagamento con opzioni ridotte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/the-invite-731756-731765",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cielo-in-una-stanza-leno",
+    "titolo": "Il cielo in una stanza",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T20:30",
+    "fine": "2026-12-05T22:30",
+    "luogo": "Oratorio San Luigi",
+    "indirizzo": "Via Re Desiderio, 35, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale a cura della Compagnia Tiramisù del CDD Collaboriamo. Rappresentazione con attori, educatori e collaboratori. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Teatrale Tiramisù del CDD Collaboriamo",
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/il-cielo-in-una-stanza",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pista-pattinaggio-sul-ghiaccio-leno",
+    "titolo": "Pista pattinaggio sul ghiaccio",
+    "categoria": "sport",
+    "inizio": "2026-12-06T14:30",
+    "fine": "2027-01-10T20:00",
+    "luogo": "Piazza Cesare Battisti",
+    "indirizzo": "piazza Cesare Battisti, Leno (Bs)",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Montaggio pista di pattinaggio sul ghiaccio nei giardini di Piazza Cesare Battisti. Apertura tutti i giorni dalle 14:30 e giorni festivi dalle 10:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/pista-pattinaggio-sul-ghiaccio",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "terzo-tempo-limbiate",
+    "titolo": "Terzo tempo",
+    "categoria": "teatro",
+    "inizio": "2027-01-16T21:00",
+    "fine": "2027-01-16T22:45",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Via Valsugana, 1",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia tratta dal romanzo di Lidia Ravera con Paolo Hendel e Lucia Vasini, che racconta con ironia le sfide del tempo che passa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Franco Parenti / Lidia Ravera",
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/evento/footloose-3",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "raffaella-limbiate",
+    "titolo": "Raffaella!",
+    "categoria": "concerto",
+    "inizio": "2027-01-30T21:00",
+    "fine": "2027-01-30T23:15",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Tributo alla cantante Raffaella Carrà interpretato da Beatrice Baldaccini, una serata di musica e divertimento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-viaggio-con-il-piccolo-principe-limbiate",
+    "titolo": "In viaggio con il Piccolo Principe",
+    "categoria": "bambini",
+    "inizio": "2027-01-31T16:00",
+    "fine": "2027-01-31T17:00",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo poetico ed emozionante dedicato a grandi e piccoli che esplora il valore dell'amicizia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sfidati-di-me-limbiate",
+    "titolo": "Sfidati di me",
+    "categoria": "teatro",
+    "inizio": "2027-02-05T21:00",
+    "fine": "2027-02-05T23:00",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Viaggio interiore sul rapporto padre-figlio presentato come una commedia tragicomica sulle incomprensioni generazionali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "indovina-chi-viene-a-cena-limbiate",
+    "titolo": "Indovina chi viene a cena",
+    "categoria": "teatro",
+    "inizio": "2027-02-19T21:00",
+    "fine": "2027-02-19T23:00",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia brillante e profonda dedicata all'integrazione, al rispetto e al superamento dei pregiudizi, grande classico del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-bella-addormentata-limbiate",
+    "titolo": "La Bella Addormentata",
+    "categoria": "bambini",
+    "inizio": "2027-02-28T16:00",
+    "fine": "2027-02-28T17:00",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiaba ecologica poetica che unisce animazione con la sabbia, magia e rispetto per la natura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cenerentola-limbiate",
+    "titolo": "Cenerentola",
+    "categoria": "teatro",
+    "inizio": "2027-03-19T21:00",
+    "fine": "2027-03-19T23:30",
+    "luogo": "Teatro Comunale di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale di uno dei capolavori più amati della tradizione fiabesca, che trasforma il teatro in un regno incantato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "kaos-limbiate",
+    "titolo": "Kaos",
+    "categoria": "teatro",
+    "inizio": "2027-03-27T21:00",
+    "fine": "2027-03-27T22:30",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo interattivo dell'astrofisico Luca Perri in cui il pubblico in sala sfida direttamente lo scienziato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-meta-strada-storia-di-giraffa-e-pinguino-limbiate",
+    "titolo": "A metà strada: storia di giraffa e pinguino",
+    "categoria": "bambini",
+    "inizio": "2027-04-04T16:00",
+    "fine": "2027-04-04T17:00",
+    "luogo": "Teatro di Limbiate",
+    "indirizzo": "Limbiate",
+    "cap": null,
+    "comune": "108027",
+    "frazione": null,
+    "lat": 45.60117,
+    "lon": 9.12118,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo divertente e poetico che racconta l'amicizia e il valore della diversità attraverso la storia di una giraffa e un pinguino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limbiate",
+        "tipo": "ufficiale",
+        "url": "https://comune.limbiate.mb.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lonato-si-illumina-la-magia-del-natale-inizia-insieme-lonato-del-garda",
+    "titolo": "Lonato SI illumina: la magia del Natale inizia insieme",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T18:00",
+    "fine": null,
+    "luogo": "Piazza Martiri della Libertà",
+    "indirizzo": "Lonato del Garda",
+    "cap": null,
+    "comune": "017092",
+    "frazione": null,
+    "lat": 45.44262,
+    "lon": 10.49975,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione delle festività natalizie con accensione delle luminarie, illuminazione della Torre Civica e della Rocca. Spettacolo di trampolieri 'Carousel' e performance artistica con musicisti, più la visita di Babbo Natale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lonato del Garda",
+    "fonti": [
+      {
+        "nome": "Comune di Lonato del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonato.bs.it/vivere-il-comune/eventi/lonato-si-illumina-la-magia-del-natale-inizia-insieme-0",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-base-di-scacchi-in-biblioteca-lonate-pozzolo",
+    "titolo": "Corso base di scacchi in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T10:30",
+    "fine": "2026-11-14T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso di scacchi aperto ad adulti e ragazzi dai 13 anni, curato dagli esperti del Circolo scacchistico Cavalli&Segugi. L'incontro permette di imparare le regole base o affinare le strategie per principianti e appassionati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-666607-667536-668019-668020-685641-728809-728825-728826",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "borsellino-spettacolo-teatrale-lonate-pozzolo",
+    "titolo": "Borsellino - Spettacolo teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Sala parrocchiale Padre Luigi Rosa",
+    "indirizzo": "via Giovanni XXIII n. 59, Lonate Pozzolo",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che racconta la vita del magistrato Paolo Borsellino, interpretato da Giacomo Rossetto. Produzione Teatro Bresci, dedicata alla figura del giudice e al suo senso di giustizia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Bresci",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/workshop-di-fotografia-731818-731820",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prossimo-appuntamento-con-il-gruppo-di-lettura-lonate-pozzolo",
+    "titolo": "Prossimo appuntamento con il Gruppo di Lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T16:45",
+    "fine": "2026-11-19T18:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura dedicato al libro 'L'ora di greco' di Han Kang. I partecipanti condividono riflessioni ed emozioni sulla lettura, aperta anche a uditori che non hanno letto l'opera.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-669738-671642",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochiamo-a-burraco-lonate-pozzolo",
+    "titolo": "Giochiamo a burraco",
+    "categoria": "sport",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di gioco del burraco aperto a tutti. Le regole base vengono spiegate ai nuovi arrivati, mentre i giocatori esperti possono unirsi alla partita. Posti limitati con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-666607-667536-668019-668020-685641",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-didattico-brickslab-la-fisica-delle-energie-e-delle-forze-lonate-pozzolo",
+    "titolo": "Laboratorio didattico BricksLab: La fisica delle energie e delle forze",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per bambini dai 6 ai 11 anni che esplora la fisica attraverso i mattoncini. Si costruiscono macchine per capire leve, attrito, ingranaggi e trasformazioni energetiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-669738-671570-705444-715821-715822-732090",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-colpe-di-eva-dalla-societa-antica-ai-nostri-giorni-lonate-pozzolo",
+    "titolo": "Le colpe di Eva. Dalla società antica ai nostri giorni",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": "2026-11-27T19:30",
+    "luogo": "Sala Ulisse Bosisio",
+    "indirizzo": "Monastero S. Michele, Lonate Pozzolo",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alle voci femminili di coraggio e denuncia, inserito nella Giornata per l'eliminazione della violenza contro le donne. Riflessione sulla storia della violenza di genere e le sfide del presente.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/le-colpe-di-eva-dalla-societa-antica-ai-nostri-giorni",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-in-biblioteca-e-incontro-piccolilettoriforti-lonate-pozzolo",
+    "titolo": "La notte dei pupazzi in biblioteca e incontro #piccolilettoriforti",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa Nati per Leggere per bambini da 0 a 6 anni. Ritiro dei peluche lasciati in biblioteca per la notte e letture consigliate per i più piccoli dalle volontarie del programma.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-666607-671656-732780",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-base-di-scacchi-in-biblioteca-lonate-pozzolo-28-11",
+    "titolo": "Corso base di scacchi in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Sessione del corso di scacchi curata dal Circolo scacchistico Cavalli&Segugi. Aperta ad adulti e ragazzi dai 13 anni per l'apprendimento delle regole o il perfezionamento delle tattiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-666607-667536-668019-668020-685641-728809-728825-728826-728827",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "workshop-di-fotografia-lonate-pozzolo",
+    "titolo": "Workshop di fotografia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Sala polivalente del monastero S. Michele",
+    "indirizzo": "Monastero S. Michele, Lonate Pozzolo",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro del workshop fotografico teorico-pratico sulla fotografia come impegno civile. Si impara a usare la fotocamera o lo smartphone per raccontare storie di comunità e territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/workshop-di-fotografia",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-base-di-scacchi-in-biblioteca-lonate-pozzolo-12-12",
+    "titolo": "Corso base di scacchi in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T10:30",
+    "fine": "2026-12-12T12:00",
+    "luogo": "Monastero San Michele - Biblioteca Comunale",
+    "indirizzo": "Via Cavour, 21, 21015 Lonate Pozzolo VA",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo incontro del ciclo di corsi di scacchi in biblioteca, curato dagli esperti del Circolo scacchistico Cavalli&Segugi. Destinazione per adulti e ragazzi dai 13 anni in poi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lonate Pozzolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonatepozzolo.va.it/it/eventi/facce-da-carnevale-incontro-di-lettura-e-laboratorio-666607-667536-668019-668020-685641-728809-728825-728826-728827-728828",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "volti-di-donna-dal-mondo-lonigo",
+    "titolo": "Volti di donna dal Mondo",
+    "categoria": "mostra",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T22:30",
+    "luogo": "Barchesse di Villa Mugna",
+    "indirizzo": "Via Castelgiunoli 5",
+    "cap": null,
+    "comune": "024052",
+    "frazione": null,
+    "lat": 45.38572,
+    "lon": 11.383,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla Giornata internazionale per l'eliminazione della violenza contro le donne, con proiezioni fotografiche su esperienze di donne in situazioni difficili. Partecipa Benedetta Loro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Cerchiodoro",
+    "fonti": [
+      {
+        "nome": "Comune di Lonigo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lonigo.vi.it/vivere-il-comune/eventi/volti-di-donna-dal-mondo",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "curiosita-a-magenta-magenta",
+    "titolo": "Curiosità a Magenta",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14T08:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Piazza Liberazione",
+    "indirizzo": "Piazza Liberazione, Magenta",
+    "cap": null,
+    "comune": "015130",
+    "frazione": null,
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di antiquariato, collezionismo, artigianato e hobbistica promosso dall'associazione Mercatini e Curiosità. L'appuntamento si svolge in piazza Liberazione e via Mazzini, offrendo un'occasione per appassionati e cittadini di esplorare i prodotti e le proposte del territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Mercatini e Curiosità",
+    "fonti": [
+      {
+        "nome": "Comune di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://comune.magenta.mi.it/vivere-il-comune/evento/curiosita-a-magenta-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-racconto-di-una-citta-mantova-nel-lungo-ottocento-mantova",
+    "titolo": "Il racconto di una città, Mantova nel lungo Ottocento",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T17:00",
+    "fine": "2026-11-14T19:00",
+    "luogo": "Circolo Unificato dell'Esercito",
+    "indirizzo": "Corso Vittorio Emanuele II, 35, 46100 Mantova MN, Italia",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di quattro incontri pubblici dedicati al racconto del rapporto tra i mutamenti della società e le trasformazioni della città di Mantova nell'Ottocento, da un secolo cruciale fino all'unificazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/il-racconto-di-una-citta-mantova-nel-lungo-ottocento-7-novembre-732258",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tazio-nel-cuore-di-aci-mantova-l-eredita-di-un-campione-mantova",
+    "titolo": "Tazio nel cuore di ACI Mantova. L'eredità di un Campione",
+    "categoria": "mostra",
+    "inizio": "2026-11-16T18:00",
+    "fine": "2026-11-16T20:00",
+    "luogo": "Museo Tazio Nuvolari",
+    "indirizzo": "via Giulio Romano, 46100 Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso espositivo celebrativo che unisce immagini, documenti e testimonianze per valorizzare il legame tra l'Automobile Club Mantova e Tazio Nuvolari, rievocandone la straordinaria storia sportiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "AUTOMOBILE CLUB MANTOVA & GLOBAL MEDIA",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/tazio-nel-cuore-di-aci-mantova-l-eredita-di-un-campione-11-novembre",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "yang-ryu-huang-fabiano-ocm-mantova",
+    "titolo": "Yang, Ryu, Huang, Fabiano, OCM",
+    "categoria": "concerto",
+    "inizio": "2026-11-17T20:45",
+    "fine": "2026-11-17T22:45",
+    "luogo": "Teatro Scientifico Bibiena",
+    "indirizzo": "Via Accademia 47, 46100 Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della stagione concertistica Tempo d'Orchestra con l'Orchestra da Camera di Mantova e solisti ospiti, che eseguono brani di Boccherini, Bottesini, Lao Luo e Haydn.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Orchestar da Camera di Mantova",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/kremer-kremerata-baltica-730214-730217",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-quelli-del-baratta-14-18-anni-mantova",
+    "titolo": "Gruppo di Lettura Quelli del Baratta (14-18 anni)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T14:30",
+    "fine": "2026-11-19T15:30",
+    "luogo": "Biblioteca Baratta",
+    "indirizzo": "Corso G. Garibaldi, 88, 46100 Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura dedicato a ragazze e ragazzi dai 14 ai 18 anni, guidato da Simonetta Bitasi per condividere letture e opinioni in biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/gruppo-di-lettura-quelli-del-baratta-14-18-anni-19-novembre",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-capitan-uncino-11-14-anni-mantova",
+    "titolo": "Gruppo di Lettura Capitan Uncino (11-14 anni)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T16:00",
+    "fine": "2026-11-19T17:00",
+    "luogo": "Biblioteca Baratta",
+    "indirizzo": "Corso G. Garibaldi, 88, 46100 Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura pensato per ragazze e ragazzi dagli 11 ai 14 anni, coordinato da Simonetta Bitasi per promuovere l'amore per i libri e la discussione letteraria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/gruppo-di-lettura-capitan-uncino-11-14-anni-12-novembre",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-tesori-di-spazio-900-mantova-19-11",
+    "titolo": "I tesori di spazio 900",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:00",
+    "fine": "2026-11-19T19:00",
+    "luogo": "Museo Diocesano Francesco Gonzaga",
+    "indirizzo": "Piazza Virgiliana, 55, 46100 Mantova",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di conferenze culturali dedicate all'arte e ai protagonisti del Novecento mantovano, con un appuntamento incentrato sul paesaggio della pittura mantovana del secolo scorso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Mirabilia",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/i-tesori-di-spazio-900-12-dicembre-731368",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "1000-sfumature-di-natura-marcon",
+    "titolo": "1000 Sfumature di natura",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T17:30",
+    "fine": "2026-11-26T19:00",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza IV Novembre, 2, 30020 Marcon VE",
+    "cap": null,
+    "comune": "027020",
+    "frazione": null,
+    "lat": 45.5516,
+    "lon": 12.32703,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica organizzata dall'associazione LIPU con il patrocinio della Città di Marcon. L'evento si svolge nello spazio espositivo del Centro Culturale De André, all'interno della Biblioteca Comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "LIPU",
+    "fonti": [
+      {
+        "nome": "Comune di Marcon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marcon.ve.it/vivere-il-comune/eventi/1000-sfumature-di-natura",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "noi-e-loro-marcon",
+    "titolo": "Noi e Loro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T13:00",
+    "luogo": "Oasi Cave di Gaggio Nord",
+    "indirizzo": "Via G. Matteotti, 22, 30020 Marcon VE",
+    "cap": null,
+    "comune": "027020",
+    "frazione": null,
+    "lat": 45.5516,
+    "lon": 12.32703,
+    "coordinateApprossimate": true,
+    "descrizione": "Seminario gratuito di formazione a cura della SDAM Scuola di formazione LIPU. L'evento è aperto a tutti e si svolge presso l'Oasi Cave di Gaggio Nord.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "SDAM Scuola di formazione LIPU",
+    "fonti": [
+      {
+        "nome": "Comune di Marcon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marcon.ve.it/vivere-il-comune/eventi/noi-e-loro",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "calendario-eventi-2026-marsciano",
+    "titolo": "Calendario Eventi 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-02-23T11:25",
+    "fine": "2026-12-31T23:59",
+    "luogo": "Municipio",
+    "indirizzo": "Largo Garibaldi, 06055 Marsciano PG",
+    "cap": null,
+    "comune": "054027",
+    "frazione": null,
+    "lat": 42.96231,
+    "lon": 12.30723,
+    "coordinateApprossimate": true,
+    "descrizione": "Calendario generale che raccoglie gli eventi organizzati dalle associazioni del territorio marscianese, con aggiornamenti periodici sulle nuove iniziative promosse.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Marsciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marsciano.pg.it/it/eventi/calendario-eventi-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-citta-che-cura-merano-meran",
+    "titolo": "La Città che Cura",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T16:00",
+    "fine": "2026-11-25T20:00",
+    "luogo": "Palais Mamming Museum",
+    "indirizzo": "Merano/Meran",
+    "cap": null,
+    "comune": "021051",
+    "frazione": null,
+    "lat": 46.65617,
+    "lon": 11.1824,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Comune di Merano organizza un pomeriggio informativo aperto a tutti i cittadini, dedicato a illustrare la riorganizzazione della mobilità urbana. L'incontro non richiede prenotazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Merano",
+    "fonti": [
+      {
+        "nome": "Comune di Merano/Meran",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.merano.bz.it/it/Amministrazione/Appuntamenti",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maledette-suffragette-la-lunga-marcia-per-il-voto-mira",
+    "titolo": "Maledette Suffragette: la lunga marcia per il voto",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Teatro Villa dei Leoni",
+    "indirizzo": "Riviera S.Trentin 5",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo che unisce racconto storico e musica dal vivo per ripercorrere la conquista del diritto di voto. In scena Gualtiero Bertelli e Gian Antonio Stella con altri artisti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Mira; Rete Doc; La Piccionaia - Centro di Produzione Teatrale",
+    "fonti": [
+      {
+        "nome": "Comune di Mira",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mira.ve.it/vivere-il-comune/eventi/maledette-suffragette-la-lunga-marcia-per-il-voto",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gioca-mira-2026-mira",
+    "titolo": "Gioca Mira 2026",
+    "categoria": "bambini",
+    "inizio": "2026-11-13T16:45",
+    "fine": "2026-12-30T19:45",
+    "luogo": "Biblioteca di Oriago",
+    "indirizzo": "Via Venezia, 171",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di pomeriggi dedicati ai giochi di società e di ruolo per bambini dai 8 ai 14 anni nelle biblioteche del territorio. Accessi liberi e gratuiti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Mira; VeneziaComix",
+    "fonti": [
+      {
+        "nome": "Comune di Mira",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mira.ve.it/vivere-il-comune/eventi/gioca-mira-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "x-giornata-mondiale-dei-poveri-mira",
+    "titolo": "X Giornata Mondiale dei Poveri",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T09:30",
+    "fine": null,
+    "luogo": "Oratorio San Domenico",
+    "indirizzo": "Via Ca' Nova",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa solidale dedicata all'inclusione sociale con Santa Messa presieduta da Monsignor Alessandro Rosin e raccolta di offerte alimentari per famiglie fragili.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.S. Cavanisti Mira A.P.S.; Parrocchia di Gambarare",
+    "fonti": [
+      {
+        "nome": "Comune di Mira",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mira.ve.it/vivere-il-comune/eventi/x-giornata-mondiale-dei-poveri",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-villa-dei-viaggiatori-incontro-con-marco-mercuri-mira",
+    "titolo": "La Villa dei Viaggiatori: incontro con Marco Mercuri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Auditorium della Biblioteca di Oriago",
+    "indirizzo": "Mira",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del reportage di Marco Mercuri, fotoreporter di viaggio, un percorso ispirato a Marco Polo che documenta riti legati al fuoco in Asia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "San Servolo Srl; Comune di Mira",
+    "fonti": [
+      {
+        "nome": "Comune di Mira",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mira.ve.it/vivere-il-comune/eventi/torna-a-mira-la-villa-dei-viaggiatori-tra-parole-e-immagini-dal-mondo",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-di-s-cicilia-banda-musicale-coldrano-morter-laces-latsch",
+    "titolo": "Festa di S. Cicilia banda musicale Coldrano/Morter",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T11:15",
+    "fine": "2026-11-15T12:00",
+    "luogo": "Banda musicale di Coldrano e Morter",
+    "indirizzo": "Via dei Nibelungi 3",
+    "cap": null,
+    "comune": "021037",
+    "frazione": null,
+    "lat": 46.60136,
+    "lon": 10.85745,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione di Santa Cecilia organizzata dalla banda musicale di Coldrano e Morter, con programma musicale dedicato alla patrona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Banda musicale di Coldrano e Morter",
+    "fonti": [
+      {
+        "nome": "Comune di Laces/Latsch",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.laces.bz.it/it/Vivere_il_comune/Eventi/Festa_di_S_Cicilia_banda_musicale_Coldrano_Morter",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "santa-messa-di-cacilia-laces-latsch",
+    "titolo": "Santa messa di Cäcilia",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22T10:00",
+    "fine": null,
+    "luogo": "chiesa parrocchiale di Latsch",
+    "indirizzo": "Laces/Latsch",
+    "cap": null,
+    "comune": "021037",
+    "frazione": null,
+    "lat": 46.60136,
+    "lon": 10.85745,
+    "coordinateApprossimate": true,
+    "descrizione": "Messa solenne celebrata in onore di Santa Cecilia, accompagnata musicalmente dalla banda civica nella chiesa parrocchiale di Latsch.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "banda musicale di Lces",
+    "fonti": [
+      {
+        "nome": "Comune di Laces/Latsch",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.laces.bz.it/it/Vivere_il_comune/Eventi/Santa_messa_di_Caecilia",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "avvento-a-morter-laces-latsch",
+    "titolo": "Avvento a Morter",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-27T17:00",
+    "fine": null,
+    "luogo": "Winterwold",
+    "indirizzo": "Laces/Latsch",
+    "cap": null,
+    "comune": "021037",
+    "frazione": null,
+    "lat": 46.60136,
+    "lon": 10.85745,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro accogliente con vin brulè e bevande calde nel Winterwold a Morter, in vista del periodo dell'Avvento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Laces/Latsch",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.laces.bz.it/it/Vivere_il_comune/Eventi/Avvento_a_Morter",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cerimonie-per-le-nozze-d-argento-d-oro-di-diamante-e-di-titanio-molinella",
+    "titolo": "Cerimonie per le nozze d'argento, d'oro, di diamante e di titanio",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-14T09:00",
+    "fine": "2026-11-14T11:00",
+    "luogo": "Sala del Consiglio comunale",
+    "indirizzo": "Piazza Anselmo Martoni, 1",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione degli anniversari di nozze per le coppie unite in matrimonio da 25, 50, 60 e 70 anni. Previsti festeggiamenti specifici per ogni tipologia di anniversario a cura dell'Amministrazione comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Molinella",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/cerimonie-per-le-nozze-d-argento-d-oro-e-di-diamante-2519967",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-d-arte-di-luisa-passarini-molinella",
+    "titolo": "Mostra d'arte di Luisa Passarini",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T10:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Torre civica di Santo Stefano",
+    "indirizzo": "Corso Giuseppe Mazzini, 133",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Personale di pittura di Luisa Passarini, aperta al pubblico nei weekend. L'evento è organizzato dal Gruppo Amici dei Monumenti con il patrocinio del Comune di Molinella, con ingressi gratuiti nelle fasce orarie stabilite.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Amici dei Monumenti",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/l-arte-del-fuoco-2518254-2518852-2520100-2520101-2520102-2520372",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-cinematografica-2026-2027-molinella",
+    "titolo": "Stagione cinematografica 2026/2027",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T16:00",
+    "fine": "2026-11-15T23:00",
+    "luogo": "Cinema Teatro Massarenti",
+    "indirizzo": "Corso Giuseppe Mazzini, 85",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna cinematografica con la proiezione di tre film: 'Il gatto col cappello', 'Dio ride' e 'Se domani non torno'. Il programma prevede spettacoli nel weekend con orari distribuiti tra il pomeriggio e la serata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7.5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/stagione-cinematografica-2026-2027-2519376-2519377-2519626-2519886-2520039-2520068-2520455-2520465",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-imperdibili-rassegna-cinematografica-2026-2027-molinella",
+    "titolo": "Gli imperdibili - Rassegna cinematografica 2026/2027",
+    "categoria": "mostra",
+    "inizio": "2026-11-16T21:00",
+    "fine": "2026-11-16T23:00",
+    "luogo": "Cinema Teatro Massarenti",
+    "indirizzo": "Corso Giuseppe Mazzini, 85",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Verity' di Michael Showalter con Anne Hathaway. La rassegna offre l'opportunità di assistere al lungometraggio in sala con biglietto a prezzo unico o tramite abbonamento valido per l'intera stagione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/stagione-cinematografica-2026-2027-2519376-2519377-2519626-2519886-2520039-2520068-2520069-2520226-2520229-2520230",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-l-autore-la-brigata-matteotti-di-montagna-molinella",
+    "titolo": "Incontro con l'autore. La brigata Matteotti di montagna",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T20:30",
+    "fine": "2026-11-17T22:00",
+    "luogo": "Biblioteca comunale Severino Ferrari",
+    "indirizzo": "Piazza Anselmo Martoni, 19/1",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'La brigata Matteotti di montagna' di Rinaldo Falcioni e Valerio Frabetti. L'evento, con interventi di esperti sulla memoria resistenziale, è un momento di lettura pubblica e discussione dedicato alla storia locale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/e-fa-cosi-per-anna-2518776-2520223",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-nuova-vita-per-la-cra-nevio-fabbri-molinella",
+    "titolo": "Una nuova vita per la CRA Nevio Fabbri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T19:00",
+    "fine": "2026-11-18T21:00",
+    "luogo": "Auditorium",
+    "indirizzo": "Corso Giuseppe Mazzini, 90",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Dibattito pubblico per illustrare ai cittadini il progetto di rinnovo della struttura CRA mediante partenariato pubblico-privato. Intervengono il sindaco, i presidenti delle cooperative coinvolte e il progettista, moderati da un esperto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Molinella",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/presentazione-progetto-cra",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-zaino-invisibile-percorso-gratuito-per-genitori-molinella",
+    "titolo": "Lo Zaino Invisibile. Percorso gratuito per genitori",
+    "categoria": "bambini",
+    "inizio": "2026-11-19T18:30",
+    "fine": "2026-11-19T20:30",
+    "luogo": "Sala del Consiglio comunale",
+    "indirizzo": "Piazza Anselmo Martoni, 1",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro conclusivo di un percorso serale dedicato al passaggio scolastico e all'autonomia dei figli. Le relatrici approfondiscono il tema della fiducia in sé e della gestione delle emozioni, offrendo spunti per i genitori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Spazio Famiglie",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/lo-zaino-invisibile-percorso-per-i-genitori-2519077-2519078",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hub-del-commercio-un-opportunita-da-condividere-molinella",
+    "titolo": "Hub del commercio. Un'opportunità da condividere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:00",
+    "fine": "2026-11-19T22:00",
+    "luogo": "Auditorium",
+    "indirizzo": "Corso Giuseppe Mazzini, 90",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno riservato agli operatori del settore per discutere di Hub urbani e di prossimità. L'incontro esamina le possibilità di collaborazione tra imprese, Comune e associazioni per valorizzare le attività economiche locali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "SUAP Comune di Molinella",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/hub-del-commercio-un-opportunita-da-condividere",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-imperdibili-rassegna-cinematografica-2026-2027-molinella-20-11",
+    "titolo": "Gli imperdibili - Rassegna cinematografica 2026/2027",
+    "categoria": "mostra",
+    "inizio": "2026-11-20T18:30",
+    "fine": "2026-11-20T20:30",
+    "luogo": "Cinema Teatro Massarenti",
+    "indirizzo": "Corso Giuseppe Mazzini, 85",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film thriller psicologico 'Verity' diretto da Michael Showalter. La serata si inserisce nella rassegna 'Gli imperdibili', offrendo un'occasione di intrattenimento per gli amanti del cinema d'autore.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/stagione-cinematografica-2026-2027-2519376-2519377-2519626-2519886-2520039-2520068-2520069-2520226-2520229-2520230-2520231",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-d-arte-di-luisa-passarini-molinella-21-11",
+    "titolo": "Mostra d'arte di Luisa Passarini",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Torre civica di Santo Stefano",
+    "indirizzo": "Corso Giuseppe Mazzini, 133",
+    "cap": null,
+    "comune": "037039",
+    "frazione": null,
+    "lat": 44.60847,
+    "lon": 11.68591,
+    "coordinateApprossimate": true,
+    "descrizione": "Prolungamento della personale di Luisa Passarini nel weekend del 21 e 22 novembre. La mostra, curata dal Gruppo Amici dei Monumenti, consente di ammirare le opere dell'artista negli orari di apertura della sede espositiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Amici dei Monumenti",
+    "fonti": [
+      {
+        "nome": "Comune di Molinella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.molinella.bo.it/it/eventi/l-arte-del-fuoco-2518254-2518852-2520100-2520101-2520102-2520372-2520373",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-piazza-cecina-larciano",
+    "titolo": "Inaugurazione Piazza Cecina",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-15T11:30",
+    "fine": "2026-11-15T13:00",
+    "luogo": "Piazza Cecina",
+    "indirizzo": "Via Francesco Ferrucci, 1048, 51036 San Rocco PT",
+    "cap": null,
+    "comune": "047006",
+    "frazione": null,
+    "lat": 43.82709,
+    "lon": 10.85962,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia ufficiale di inaugurazione della nuova Piazza Cecina a Larciano, riqualificata grazie ai fondi del Fondo per lo Sviluppo e la Coesione. Saranno presenti il Presidente della Regione Toscana e il Sottosegretario alla Presidenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Larciano",
+    "fonti": [
+      {
+        "nome": "Comune di Larciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.larciano.pt.it/it/eventi/inaugurazione-piazza-cecina",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-incontriamoci-tra-le-pagine-17-novembre-2026-larciano",
+    "titolo": "Nati per leggere - Incontriamoci tra le pagine - 17 novembre 2026",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T10:30",
+    "fine": "2026-11-17T11:30",
+    "luogo": "Biblioteca comunale di Larciano",
+    "indirizzo": "Via Giacomo Puccini, 107, 51036 San Rocco PT",
+    "cap": null,
+    "comune": "047006",
+    "frazione": null,
+    "lat": 43.82709,
+    "lon": 10.85962,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del programma nazionale \"Nati per leggere\" dedicato a bambini di 0-18 mesi e ai loro genitori per esplorare i primi libri attraverso racconti ad alta voce.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale di Larciano",
+    "fonti": [
+      {
+        "nome": "Comune di Larciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.larciano.pt.it/it/eventi/nati-per-leggere-incontriamoci-tra-le-pagine-17-novembre-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alma-e-il-rifugio-delle-promesse-larciano",
+    "titolo": "Alma e il rifugio delle promesse",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T11:00",
+    "luogo": "Biblioteca comunale di Larciano",
+    "indirizzo": "Via Giacomo Puccini, 107, 51036 San Rocco PT",
+    "cap": null,
+    "comune": "047006",
+    "frazione": null,
+    "lat": 43.82709,
+    "lon": 10.85962,
+    "coordinateApprossimate": true,
+    "descrizione": "L'autrice Ionela Donici racconta la storia del libro \"Alma e il rifugio delle promesse\" per bambini dai 3 ai 7 anni, con la presenza dei volontari del Rifugio Faunistico Zara.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale di Larciano",
+    "fonti": [
+      {
+        "nome": "Comune di Larciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.larciano.pt.it/it/eventi/alma-e-il-rifugio-delle-promesse",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-incontriamoci-tra-le-pagine-15-dicembre-2026-larciano",
+    "titolo": "Nati per leggere - Incontriamoci tra le pagine - 15 dicembre 2026",
+    "categoria": "bambini",
+    "inizio": "2026-12-15T10:30",
+    "fine": "2026-12-15T11:30",
+    "luogo": "Biblioteca comunale di Larciano",
+    "indirizzo": "Via Giacomo Puccini, 107, 51036 San Rocco PT",
+    "cap": null,
+    "comune": "047006",
+    "frazione": null,
+    "lat": 43.82709,
+    "lon": 10.85962,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del programma nazionale \"Nati per leggere\" per bambini di 0-18 mesi e genitori, dedicato alla lettura condivisa e all'esplorazione dei primi libri.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale di Larciano",
+    "fonti": [
+      {
+        "nome": "Comune di Larciano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.larciano.pt.it/it/eventi/nati-per-leggere-incontriamoci-tra-le-pagine-15-dicembre-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lazise-fra-le-pagine-rassegna-2026-lazise",
+    "titolo": "Lazise Fra Le Pagine – Rassegna 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-17T18:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Dogana Veneta",
+    "indirizzo": "Piazzetta Partenio, 13",
+    "cap": null,
+    "comune": "023043",
+    "frazione": null,
+    "lat": 45.4859,
+    "lon": 10.71083,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna dedicata ai libri, agli autori e alle storie da condividere, con incontri con Nicolò Govoni, Giusy Ferreri, Dario Bressanini, Alessandra Cattelan, Ilaria Camilletti, Maurizio Belpietro e Luca Telese. I posti sono limitati e le prenotazioni sono aperte.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lazise",
+    "fonti": [
+      {
+        "nome": "Comune di Lazise",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lazise.vr.it/vivere-il-comune/eventi/lazise-fra-le-pagine-rassegna-2026",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "b-r-a-t-s-brave-ragazze-ancora-tutte-single-lavis",
+    "titolo": "B.R.A.T.S. Brave Ragazze Ancora Tutte Single",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T20:30",
+    "fine": "2026-11-14T23:05",
+    "luogo": "Teatro di Pressano",
+    "indirizzo": "Via Alfonso Pilati, 38015 Pressano TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale presentato dall'Associazione culturale Grenzland APS di Avio. Una rappresentazione che esplora le vicende di un gruppo di ragazze single, inserita nel contesto della stagione teatrale locale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Grenzland APS",
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/b-r-a-t-s-brave-ragazze-ancora-tutte-single-728638",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "atleti-a-confronto-lavis",
+    "titolo": "Atleti a confronto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-14T20:30",
+    "fine": "2026-11-14T22:30",
+    "luogo": "Auditorium Comunale",
+    "indirizzo": "Via Fabio Filzi, 21, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro conclusivo del Mese della montagna dedicato a diverse discipline sportive. Gli atleti si raccontano condividendo esperienze e traguardi, accomunati dallo stesso territorio di provenienza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lavis, Sat di Lavis e di Pressano, gruppo Speleo, politiche giovanili, Appm e biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/atleti-a-confronto",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-inaugurazione-di-immagini-per-crescere-lavis",
+    "titolo": "L'inaugurazione di Immagini per Crescere",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T18:00",
+    "fine": "2026-11-20T19:30",
+    "luogo": "Palazzo De Maffei",
+    "indirizzo": "Via Giacomo Matteotti, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del festival dedicato all'illustrazione e alla cultura per l'infanzia. Include l'esibizione del Coro dell'istituto comprensivo di Lavis e un dialogo sui diritti dei bambini alla cultura e alla narrazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/l-inaugurazione-di-immagini-per-crescere",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-ad-alta-voce-per-tutti-i-gusti-lavis",
+    "titolo": "Letture ad alta voce \"Per tutti i gusti\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Palazzo De Maffei",
+    "indirizzo": "Via Giacomo Matteotti, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento del festival Immagini per Crescere con i cantastorie Alfonso Cuccurullo e Matteo Razzini, che propongono racconti attraverso voce e suoni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/letture-ad-alta-voce-per-tutti-i-gusti",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-e-firma-copie-20-buone-ragioni-per-farsi-ascoltare-lavis",
+    "titolo": "Laboratorio e firma copie \"20 buone ragioni per farsi ascoltare\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Biblioteca",
+    "indirizzo": "Piazzetta degli Alpini, 6, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Giovanna Zoboli dialoga con i bambini nell'ambito del festival Immagini per Crescere. I partecipanti potranno creare la propria carta ideale per farsi ascoltare.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/letture-ad-alta-voce-per-tutti-i-gusti-734019",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-di-teatro-attenti-agli-orsi-lavis",
+    "titolo": "Spettacolo di teatro \"Attenti agli orsi\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T17:00",
+    "luogo": "Pressano - Frazione",
+    "indirizzo": "Via Alfonso Pilati, 38015 Pressano TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Alfonso Cuccurullo e Matteo Razzini per il festival Immagini per Crescere. La storia narra di due personaggi costretti a una convivenza forzata in un capanno a causa di un orso.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/letture-ad-alta-voce-per-tutti-i-gusti-734020",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-e-firma-copie-il-momento-perfetto-lavis",
+    "titolo": "Laboratorio e firma copie \"Il momento perfetto\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T11:30",
+    "luogo": "Palazzo De Maffei",
+    "indirizzo": "Via Giacomo Matteotti, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo con Marco Somà per il festival Immagini per Crescere. I bambini disegnano il loro momento perfetto e creano una busta decorata da donare.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/letture-ad-alta-voce-per-tutti-i-gusti-734021",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-di-disegno-per-adulti-il-binomio-fantastico-lavis",
+    "titolo": "Corso di disegno per adulti \"IL BINOMIO FANTASTICO\"",
+    "categoria": "mostra",
+    "inizio": "2026-12-12T14:00",
+    "fine": "2026-12-12T16:00",
+    "luogo": "Palazzo De Maffei",
+    "indirizzo": "Via Giacomo Matteotti, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di disegno condotto da Eva Montanari nell'ambito del festival Immagini per Crescere, rivolto a un pubblico adulto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/letture-ad-alta-voce-per-tutti-i-gusti-734022",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-tut-colpa-de-l-ors-lavis",
+    "titolo": "Spettacolo Teatrale: \"Tut colpa de l’ors\"",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T20:30",
+    "fine": "2026-12-12T23:11",
+    "luogo": "Auditorium Comunale",
+    "indirizzo": "Via Fabio Filzi, 21, 38015 Lavis TN, Italia",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia in dialetto portata in scena dal Gruppo Teatrale Rumo APS. Un appuntamento teatrale dedicato alle famiglie all'interno della stagione locale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo teatrale Rumo APS",
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/spettacolo-teatrale-tut-colpa-de-lors",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-d-inglese-per-bambini-in-biblioteca-limena",
+    "titolo": "Laboratorio d'inglese per bambini in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T17:20",
+    "fine": "2026-11-20T18:45",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via Beato Arnaldo da Limena, 52",
+    "cap": null,
+    "comune": "028045",
+    "frazione": null,
+    "lat": 45.47479,
+    "lon": 11.83589,
+    "coordinateApprossimate": true,
+    "descrizione": "Un workshop ludico di introduzione alla lingua inglese dedicato ai più piccoli, suddiviso in due distinti turni in base all'età: il primo per bambini dai 18 mesi ai 3 anni e il secondo per bambini dai 4 ai 6 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Limena",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.limena.pd.it/vivere-il-comune/eventi/laboratorio-dinglese-per-bambini-in-biblioteca",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-del-santo-patrono-limana",
+    "titolo": "Festa del Santo Patrono",
+    "categoria": "festa-religiosa",
+    "inizio": "2027-02-14T06:00",
+    "fine": "2027-02-14T23:50",
+    "luogo": "Chiesa Parrocchiale",
+    "indirizzo": "Via Roma, 128/A",
+    "cap": null,
+    "comune": "025029",
+    "frazione": null,
+    "lat": 46.07567,
+    "lon": 12.20439,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione religiosa in onore di San Valentino, Santo Patrono della comunità, rivolta a tutta la cittadinanza per festeggiare insieme.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Limana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.limana.bl.it/it/eventi/festa-del-santo-patrono-5-654274",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-artistico-bambini-in-tadini-lovere",
+    "titolo": "Laboratorio artistico \"Bambini in Tadini\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T17:00",
+    "luogo": "Aula di Disegno dell'Accademia Tadini",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per bambini dai 7 ai 13 anni ispirato a Bruno Munari, con attività pratiche sulla creazione di alberi. Parte di una serie mensile organizzata dall'Accademia Tadini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Tadini",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/laboratorio-artistico-bambini-tadini-7",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-nascondini-lovere",
+    "titolo": "Spettacolo “Nascondini”",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T15:00",
+    "fine": null,
+    "luogo": "Teatro Crystal",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Francesca Cecala e Pietro Mazzoldi, produzione Teatro Telaio. Tema: il gioco del nascondino come metafora della timidezza e della fiducia, adatto a famiglie.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Crystal",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/spettacolo-nascondini",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-in-riva-al-lago-lovere",
+    "titolo": "Mercatini in riva al lago",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08T09:00",
+    "fine": "2026-12-08T18:00",
+    "luogo": "Piazza Tredici Martiri",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di creatività con operatori che mostrano le proprie abilità. Possibilità di trovare oggetti vintage, da collezione, piccolo antiquariato e modernariato. Annullato in caso di maltempo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Creativarte",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/mercatini-riva-al-lago-0",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-artistico-bambini-in-tadini-lovere-12-12",
+    "titolo": "Laboratorio artistico \"Bambini in Tadini\"",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T15:00",
+    "fine": "2026-12-12T17:00",
+    "luogo": "Aula di Disegno dell'Accademia Tadini",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per bambini dai 7 ai 13 anni dedicato al disegno naturalistico dei fiori d'inverno. Condotto da Renata Besola nell'ambito della serie mensile dell'Accademia Tadini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Tadini",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/laboratorio-artistico-bambini-tadini-8",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "no-insci-ghe-semm-no-lurate-caccivio",
+    "titolo": "No, inscì ghe semm no!",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "Via Giovanni Pascoli, 1, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della Filodrammatica di Bellusco Don Giorgio Colombo, parte della rassegna 'Andiamo al Pax' Autunno 2026.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Filodrammatica di Bellusco Don Giorgio Colombo",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/proiezione-inaugurale-xxx-rassegna-oltre-lo-sguardo-651382-651391-688783-695161-695172-699935-699941-700269-700271-701629-701631-703955-704084-706685-706694-724643-728039-730437-730664",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-oltre-lo-sguardo-film-il-lato-positivo-lurate-caccivio",
+    "titolo": "Rassegna Oltre lo Sguardo - Film \"Il lato positivo\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-20T21:00",
+    "fine": "2026-11-20T23:00",
+    "luogo": "Polo Culturale Spazio Volta3",
+    "indirizzo": "Via A. Volta, 3, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Il lato positivo' con presentazione a cura della psichiatra Laura Giudici. Ingresso con tessera annuale del Cinecircolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinecircolo",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/proiezione-inaugurale-xxx-rassegna-oltre-lo-sguardo-651382-651391-651392-718056-729813",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "suoni-della-mente-lurate-caccivio",
+    "titolo": "Suoni della mente",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "Via Giovanni Pascoli, 1, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di chiusura della rassegna 'La salute mentale' a cura del Corpo Musicale Santa Cecilia, con intervento del Dott. Roberto Pozzetti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Corpo Musicale Santa Cecilia",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/suoni-della-mente",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-pizzocchero-per-l-uganda-lurate-caccivio",
+    "titolo": "Un pizzocchero per l'Uganda",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-22T20:00",
+    "luogo": "Chiesa San Luigi",
+    "indirizzo": "Via Umberto I, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione dell'iniziativa missionaria con prenotazione per asporto presso le segreterie parrocchiali. Patrocinato dal Comune.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Comunità pastorale",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/un-pizzocchero-per-l-uganda",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "insieme-contro-la-violenza-lurate-caccivio",
+    "titolo": "Insieme contro la violenza",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-24T11:00",
+    "fine": "2026-11-24T12:00",
+    "luogo": "Piazzale del Municipio",
+    "indirizzo": "Lurate Caccivio",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia simbolica aperta alla cittadinanza in occasione della Giornata per l'eliminazione della violenza contro le donne, con studenti ENFAPI.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lurate Caccivio",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/insieme-contro-la-violenza-733766",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "insieme-contro-la-violenza-lurate-caccivio-25-11",
+    "titolo": "Insieme contro la violenza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:30",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Polo Culturale Spazio Volta3",
+    "indirizzo": "Via A. Volta, 3, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Reading del romanzo 'Oliva denaro' di Viola Ardone a cura dei Volontari Lettori, con musica dei Tea For Two e presentazione progetto I Rifugi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/insieme-contro-la-violenza",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-oltre-lo-sguardo-film-the-father-lurate-caccivio",
+    "titolo": "Rassegna Oltre lo Sguardo - Film \"The father\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Polo Culturale Spazio Volta3",
+    "indirizzo": "Via A. Volta, 3, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'The father' con presentazione a cura della psichiatra Laura Giudici. Ingresso con tessera annuale del Cinecircolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinecircolo",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/proiezione-inaugurale-xxx-rassegna-oltre-lo-sguardo-651382-651391-651392-718056-729815",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ul-vedov-allegher-lurate-caccivio",
+    "titolo": "Ul vedov allegher",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Cineteatro Pax",
+    "indirizzo": "Via Giovanni Pascoli, 1, 22075 Lurate Caccivio CO, Italia",
+    "cap": null,
+    "comune": "013138",
+    "frazione": null,
+    "lat": 45.76586,
+    "lon": 8.99355,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della compagnia de 'La Mascherpa', parte della rassegna 'Andiamo al Pax' Autunno 2026.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "La compagnia de La Mascherpa",
+    "fonti": [
+      {
+        "nome": "Comune di Lurate Caccivio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luratecaccivio.co.it/it/eventi/proiezione-inaugurale-xxx-rassegna-oltre-lo-sguardo-651382-651391-688783-695161-695172-699935-699941-700269-700271-701629-701631-703955-704084-706685-706694-724643-728039-730437-730439-730666",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-in-occasione-del-25-aprile-luserna-san-giovanni",
+    "titolo": "Spettacolo teatrale in occasione del 25 aprile",
+    "categoria": "teatro",
+    "inizio": "2027-04-24T21:00",
+    "fine": "2027-04-24T22:00",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che racconta la rinascita del paese sulle rovine della guerra, con la storia del Natale 1945.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/529/spettacolo-teatrale-in-occasione-del-25-aprile",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-sale-della-terra-proiezione-montagnart-luserna-san-giovanni",
+    "titolo": "Il sale della terra Proiezione MontagnArt",
+    "categoria": "mostra",
+    "inizio": "2027-04-16T21:00",
+    "fine": "2027-04-16T22:40",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del reportage sui 40 anni di carriera del celebre fotografo Sebastião Salgado.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "MontagnArt",
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/528/Il-sale-della-terra-Proiezione-MontagnArt",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "donne-spettacolo-teatrale-luserna-san-giovanni",
+    "titolo": "Donne spettacolo teatrale",
+    "categoria": "teatro",
+    "inizio": "2027-03-19T21:00",
+    "fine": "2027-03-19T22:30",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con la partecipazione di Simona Cavallari.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/527/Donne-spettacolo-teatrale",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pelle-d-anima-e-ossa-selvagge-luserna-san-giovanni",
+    "titolo": "pelle d'anima e ossa selvagge",
+    "categoria": "teatro",
+    "inizio": "2027-03-05T21:00",
+    "fine": "2027-03-05T22:00",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale e musicale che esplora l'archetipo del femminile selvaggio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/526/pelle-d-27anima-e-ossa-selvagge",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cavoli-che-storia-spettacolo-teatrale-per-bambini-luserna-san-giovanni",
+    "titolo": "Cavoli che storia spettacolo teatrale per bambini",
+    "categoria": "bambini",
+    "inizio": "2027-02-28T16:30",
+    "fine": "2027-02-28T17:30",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per bambini e famiglie che affronta i temi della biodiversità e del rispetto della terra.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/525/Cavoli-che-storia-spettacolo-teatrale-per-bambini",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-per-famiglie-la-fattoria-dei-nostri-sogni-luserna-san-giovanni",
+    "titolo": "proiezione per famiglie la fattoria dei nostri sogni",
+    "categoria": "bambini",
+    "inizio": "2027-02-14T17:00",
+    "fine": "2027-02-14T18:30",
+    "luogo": "Via Tolosano 8",
+    "indirizzo": "via Tolosano 8",
+    "cap": null,
+    "comune": "001139",
+    "frazione": null,
+    "lat": 44.80582,
+    "lon": 7.23817,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione di un film per famiglie incentrato su natura e sostenibilità.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Luserna San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.luserna.to.it/novita/evento/524/proiezione-per-famiglie-la-fattoria-dei-nostri-sogni",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-della-mostra-forme-lignee-al-femminile-a-cura-dell-artis-manzano",
+    "titolo": "Inaugurazione della mostra FORME LIGNEE AL FEMMINILE a cura dell'artista Andrea Caisutti",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T17:00",
+    "fine": null,
+    "luogo": "Antico Foredor Boschetti della Torre",
+    "indirizzo": "Via Natisone, 36",
+    "cap": null,
+    "comune": "030055",
+    "frazione": null,
+    "lat": 45.99107,
+    "lon": 13.37659,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra \"Forme Ligneo al Femminile\" a cura dell'artista Andrea Caisutti. L'evento si svolge presso l'Antico Foredor Boschetti della Torre a Manzano. La presentazione delle opere lignee è aperta al pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Manzano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.manzano.ud.it/eventi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mai-piu-hiroshima-e-nagasaki-mapello",
+    "titolo": "Mai più Hiroshima e Nagasaki",
+    "categoria": "mostra",
+    "inizio": "2026-11-04",
+    "fine": "2026-11-16",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica a cura di Michiko Arikawa e Luigi Flora dedicata agli effetti devastanti dei bombardamenti atomici su Hiroshima e Nagasaki. Visitabile negli orari di apertura della biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Mai-piu-Hiroshima-e-Nagasaki",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "w-nati-per-leggere-mapello",
+    "titolo": "w nati per leggere !",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Biblioteca di Mapello",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di letture e laboratorio creativo per bambini dai 3 ai 6 anni, dedicato alla scoperta dei nuovi libri NPL. L'attività è guidata dalla bibliotecaria Eva e da Desiree.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/w-nati-per-leggere-",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-kokedama-per-ragazzi-mapello",
+    "titolo": "Laboratorio di Kokedama per ragazzi!",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T15:30",
+    "fine": "2026-11-24T16:30",
+    "luogo": "Biblioteca di Mapello",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso base di Kokedama rivolto ai ragazzi dalla seconda alla quinta elementare. Attività creativa a cura di Simonetta Facoetti, con iscrizione obbligatoria e numero chiuso.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-Kokedama-per-ragazzi",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-panificazione-mapello",
+    "titolo": "Laboratorio di panificazione",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Biblioteca di Mapello",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Workshop sulla pizza a cura di Viviana Giovanniello. Si affrontano temi come la conoscenza dell'impasto, i tipi di prefermento e la cottura ideale. Rivolto ad adulti e ragazzi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-panificazione",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-scuola-dell-infanzia-statale-di-mapello-mapello",
+    "titolo": "Open day scuola dell'infanzia Statale di Mapello",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T14:00",
+    "fine": "2026-11-28T20:00",
+    "luogo": "Scuola dell'Infanzia “Vittoria Quarenghi”",
+    "indirizzo": "Via Caravina 27",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di apertura per conoscere la scuola dell'infanzia, definita come luogo di relazioni, scoperte, natura e meraviglia. Accesso libero e gratuito per tutti i cittadini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Open-day-scuola-dellinfanzia-Statale-di-Mapello",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "forme-e-impronte-scopri-l-arte-della-stampa-fatta-a-mano-mapello",
+    "titolo": "Forme e impronte : scopri l'arte della stampa fatta a mano!",
+    "categoria": "bambini",
+    "inizio": "2026-12-01T20:30",
+    "fine": "2026-12-01T22:30",
+    "luogo": "Biblioteca di Mapello",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio artistico per adulti alla scoperta della stampa manuale, a cura di Elvezia Cavagna. Attività pratica e creativa adatta anche a chi non ha esperienza pregressa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 26
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Forme-e-impronte-scopri-larte-della-stampa-fatta-a-mano",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dicembre-al-binario-12-mapello",
+    "titolo": "Dicembre al Binario 12..",
+    "categoria": "bambini",
+    "inizio": "2026-12-06T15:00",
+    "fine": "2026-12-06T16:15",
+    "luogo": "Biblioteca di Mapello",
+    "indirizzo": "Piazza IV Novembre",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato ai bambini dai 3 ai 6 anni con lettura e lavoretto creativo. L'evento è a cura di Angela De Francesco e richiede l'iscrizione obbligatoria con numero chiuso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Dicembre-al-Binario-12..",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sotto-le-torri-torroni-mercatini-di-natale-mapello",
+    "titolo": "Sotto le torri.. Torroni Mercatini di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06T09:00",
+    "fine": "2026-12-06T19:00",
+    "luogo": "Torri",
+    "indirizzo": "Mapello",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini di Natale con la tematica 'Sotto le torri... Torroni!'. Evento aperto a tutti i cittadini, gratuito, con programma dedicato alle festività natalizie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/Sotto-le-torri..-Torroni-Mercatini-di-Natale",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-biblioteca-di-porta-a-teatro-mapello",
+    "titolo": "La biblioteca di porta a Teatro...",
+    "categoria": "teatro",
+    "inizio": "2026-12-17T20:30",
+    "fine": "2026-12-17T22:30",
+    "luogo": "Teatro Donizetti",
+    "indirizzo": "Bergamo",
+    "cap": null,
+    "comune": "016132",
+    "frazione": null,
+    "lat": 45.70643,
+    "lon": 9.54033,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di 'Rosencrantz e Guildenstern sono morti'. Iniziativa promossa dalla biblioteca con iscrizione obbligatoria e posti limitati. Biglietti numerati in prima galleria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di Mapello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mapello.bg.it/vivere-il-comune/eventi/dettaglio-evento/La-biblioteca-di-porta-a-Teatro...",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visite-preventive-controllo-nevi-nei-marcallo-con-casone",
+    "titolo": "Visite preventive controllo nevi (nei)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T13:30",
+    "fine": "2026-11-27T16:30",
+    "luogo": "Ambulatorio di Casone",
+    "indirizzo": "via Jacini 130",
+    "cap": null,
+    "comune": "015134",
+    "frazione": null,
+    "lat": 45.48646,
+    "lon": 8.86948,
+    "coordinateApprossimate": true,
+    "descrizione": "Visite preventive per il controllo dei nei rivolte alla cittadinanza. L'iniziativa è promossa in collaborazione con le associazioni Salute Donna ODV e Salute Uomo. È necessaria la prenotazione telefonica per partecipare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Marcallo con Casone, Salute Donna ODV, Salute Uomo",
+    "fonti": [
+      {
+        "nome": "Comune di Marcallo con Casone",
+        "tipo": "ufficiale",
+        "url": "https://comune.marcalloconcasone.mi.it/vivere-il-comune/eventi/visite-preventive-controllo-nevi-nei",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quel-delizioso-orrore-marmirolo",
+    "titolo": "Quel delizioso orrore",
+    "categoria": "teatro",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Sandro Cappelletto e Guido Barbieri con musiche di Broschi, Giacomelli, Hasse e Handel. Protagonisti Angelo Manzotti e Cecilia Rizzetto. La vicenda riguarda la vita di Farinelli, evirato cantore, interpretata con ensemble di clavicembalo, violoncello e tromba.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/quel-delizioso-orrore",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dai-ca-fema-don-camillo-marmirolo",
+    "titolo": "Dai ca fema Don Camillo",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia dialettale tratta dai racconti di Giovannino Guareschi, in particolare da 'Don Camillo e il signor Sindaco Peppone', scritta da Francesco Freyrie. La rappresentazione è a cura della Compagnia BÜSETA E BUTUN di Borgo Virgilio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "gruppo-teatro BÜSETA E BUTUN di Borgo Virgilio",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/dai-ca-fema-don-camillo",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-lettera-marmirolo",
+    "titolo": "La lettera",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T21:00",
+    "fine": "2026-12-04T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Paolo Nani composto da 15 scene che variano un unico tema. L'attore interpreta le scene in diverse modalità, inclusa la versione a ritroso, senza usare parole. È uno studio sullo stile e sul ritmo scenico ricco di dettagli e gags.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Disanima Piano",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/la-lettera",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "canzoni-sotto-l-albero-marmirolo",
+    "titolo": "Canzoni sotto l'albero",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": "2026-12-18T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Banda Musicale di Marmirolo dedicato alla grande canzone italiana. Le melodie degli ultimi decenni vengono interpretate dalla banda insieme alle voci di Cristina Moretti e Michele Sgarbi, tra swing e grandi classici delle feste.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Banda Musicale di Marmirolo",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/canzoni-sotto-l-albero",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trio-con-pianoforte-marmirolo",
+    "titolo": "Trio con pianoforte",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T21:00",
+    "fine": "2026-12-20T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica classica che propone il Trio con pianoforte in la minore op. 50 di Cajkovskij. L'opera è interpretata da Lara Celeghin al violino, Giovanni Pierotti al pianoforte e Cosmaola Antonella Nitti al violoncello, nel tributo 'À la mémoire d'un grand artiste'.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/trio-con-pianoforte",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-scommessa-marmirolo",
+    "titolo": "La scommessa",
+    "categoria": "teatro",
+    "inizio": "2027-01-30T21:00",
+    "fine": "2027-01-30T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Dramma ridicolo in due atti di Emanuele Barresi. La trama ruota attorno a due scommettitori, un avvocato e un operaio in mobilità, e alla fedeltà di una moglie. L'equilibrio della coppia viene messo a dura prova da un azzardo che porta a una resa dei conti finale sorprendente.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/la-scommessa",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "venerdi-13-marmirolo",
+    "titolo": "Venerdì 13",
+    "categoria": "teatro",
+    "inizio": "2027-02-20T21:00",
+    "fine": "2027-02-20T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo con Martina Colombari, Gianmarco Cro e Federico Maria Isaia, regia di Roberto Ciufoli. Una coppia di amici si presenta a cena distrutta a causa di un incidente aereo. La serata si complica quando scoprono di aver vinto il Superenalotto, dovendo nascondere la gioia tra numerosi colpi di scena.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/venerdi-13",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-colpo-di-fortuna-marmirolo",
+    "titolo": "Un colpo di fortuna",
+    "categoria": "teatro",
+    "inizio": "2027-03-20T21:00",
+    "fine": "2027-03-20T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico di Ray Cooney a cura della Compagnia Teatrale Capitani Coraggiosi. La vicenda si ambienta a Londra negli anni '80 e ruota attorno a una borsa scambiata per errore contenente 735.000 sterline, dando vita a una sequenza di equivoci e furtive fughe in Messico.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Teatrale Capitani Coraggiosi",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/un-colpo-di-fortuna",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "am-l-ha-det-sant-antoni-marmirolo",
+    "titolo": "Am l'ha det Sant'Antoni",
+    "categoria": "teatro",
+    "inizio": "2027-04-10T21:00",
+    "fine": "2027-04-10T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia dialettale del Gruppo Teatrale La Rocca di Montanara. In una corte di campagna, un'azienda agricola in difficoltà diventa scenario di equivoci e gelosie quando arriva il signor Leo De Paoli, scatenando sogni di matrimonio e situazioni paradossali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Teatrale La Rocca di Montanara",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/am-l-ha-det-sant-antoni",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sarto-per-signora-marmirolo",
+    "titolo": "Sarto per signora",
+    "categoria": "teatro",
+    "inizio": "2027-05-15T21:00",
+    "fine": "2027-05-15T23:00",
+    "luogo": "Teatro Nuovo",
+    "indirizzo": "Piazza Roma, 4, 46045 Marmirolo MN",
+    "cap": null,
+    "comune": "020033",
+    "frazione": null,
+    "lat": 45.24098,
+    "lon": 10.74577,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia brillante di George Feydeau a cura del Gruppo Teatrale Il Palcaccio. Il dottor Moulineaux, medico parigino, cerca di nascondere la sua amante Susanna Aubin ai suoi rispettivi coniugi fingendo di essere un sarto di moda donna, traendo in inganno una serie di personaggi dai diversi interessi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo Teatrale Il Palcaccio",
+    "fonti": [
+      {
+        "nome": "Comune di Marmirolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.marmirolo.mn.it/it/eventi/sarto-per-signora",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "moglia-un-mondo-di-musica-omaggio-a-battiato-moglia",
+    "titolo": "Moglia: Un Mondo di Musica - Omaggio a Battiato",
+    "categoria": "concerto",
+    "inizio": "2026-11-14T21:00",
+    "fine": "2026-11-14T23:30",
+    "luogo": "Teatro Mondo 3",
+    "indirizzo": "Via Giulio Romano, 3, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Un imperdibile omaggio musicale dedicato al Maestro Franco Battiato, inserito all'interno della rassegna di concerti organizzata nel teatro cittadino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/moglia-un-mondo-di-musica-tributo-musicale-a-cesare-cremonini-725443-725456",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "novembre-2026-mese-pedagogico-moglia",
+    "titolo": "Novembre 2026- Mese Pedagogico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-10T18:00",
+    "fine": "2026-11-28T11:00",
+    "luogo": "Teatro Mondo 3",
+    "indirizzo": "Via Giulio Romano, 3, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna dedicata alla cura come postura educativa e responsabilità collettiva, che comprende laboratori, conferenze e il convegno CPT per costruire legami di cura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coordinamento Pedagogico Territoriale - Gonzaga - Moglia - Motteggiana - Pegognaga - San Bendetto Po - Suzzara",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/novembre-2026-mese-pedagogico",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vieni-a-creare-con-noi-in-ludoteca-moglia",
+    "titolo": "Vieni a creare con Noi in Ludoteca!",
+    "categoria": "bambini",
+    "inizio": "2026-11-15T15:00",
+    "fine": "2026-11-15T17:45",
+    "luogo": "Ecomuseo delle Bonifiche",
+    "indirizzo": "Piazza della Libertà, 7, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Ludoteca creativa pensata per offrire a bambini e ragazzi un momento di divertimento e socializzazione attraverso attività manuali e laboratoriali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Moglia in collaborazione con il gruppo dei Lettori Volontari",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/vieni-a-creare-con-noi-in-ludoteca",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "moglia-un-mondo-di-musica-tributo-musicale-a-mango-moglia",
+    "titolo": "Moglia: Un Mondo di Musica - Tributo Musicale a MANGO",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:30",
+    "luogo": "Teatro Mondo 3",
+    "indirizzo": "Via Giulio Romano, 3, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata musicale facente parte della rassegna di concerti, interamente dedicata a un emozionante tributo al celebre artista Mango.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/moglia-un-mondo-di-musica-tributo-musicale-a-cesare-cremonini-725454-725457",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "attenzione-alle-truffe-moglia",
+    "titolo": "Attenzione alle Truffe!",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T15:00",
+    "fine": "2026-11-25T16:30",
+    "luogo": "Teatro Mondo 3",
+    "indirizzo": "Via Giulio Romano, 3, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico di sensibilizzazione e prevenzione contro le truffe, con interventi istituzionali, delle forze dell'ordine e di associazioni locali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Moglia e dalle associazioni di volontariato di Moglia",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/convegno-cpt-abitare-l-educazione-733656",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scena-del-crimine-l-indagine-di-lady-ginger-moglia",
+    "titolo": "Scena del Crimine- L'indagine di Lady Ginger",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T20:30",
+    "fine": "2026-11-27T22:00",
+    "luogo": "Ecomuseo delle Bonifiche",
+    "indirizzo": "Piazza della Libertà, 7, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione e approfondimento tratto dal saggio Criminosa Pigmenta di Bottega d'Arte Forense, con interventi dedicati al tema dell'indagine.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/scena-del-crimine-l-indagine-di-lady-ginger",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convegno-cpt-abitare-l-educazione-moglia",
+    "titolo": "Convegno CPT - Abitare l'educazione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T12:22",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Giacomo Matteotti, 2, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Il CPT si racconta attraverso le voci dei protagonisti, presentando pratiche, valori e idee orientate verso una carta di identità educativa condivisa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/convegno-cpt-abitare-l-educazione",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-di-natale-con-laboratorio-moglia",
+    "titolo": "Letture di Natale con laboratorio",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T10:00",
+    "fine": "2026-12-19T11:45",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via Giulio Romano, 5, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata di letture natalizie in compagnia seguita da un coinvolgente laboratorio creativo dedicato ai bambini dai quattro agli otto anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lettori Volontari della Biblioteca di Moglia",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/caccia-alle-uova-731230",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-14",
+    "inseritoDa": "consegna"
   }
 ]
