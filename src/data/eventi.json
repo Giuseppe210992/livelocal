@@ -181470,5 +181470,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-berretto-a-sonagli-teatro-della-quattordicesima-milano-2026-11-24",
+    "titolo": "Il berretto a sonagli di Luigi Pirandello",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T20:30",
+    "luogo": "Teatro della Quattordicesima",
+    "indirizzo": "Milano",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Pirandello mette in scena un tradimento che minaccia la reputazione di una famiglia: Ciampa difende il proprio onore con una verità lucida e scomoda, tra ironia e angoscia, al confine sottile tra ragione e follia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro della Quattordicesima",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro della Quattordicesima",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfj3EduCGVZ/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
