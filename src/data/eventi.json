@@ -181498,5 +181498,62 @@
     ],
     "inserito": "2026-11-14",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "sentieri-del-barocco-italiano-serra-san-quirico-2026-11-15",
+    "titolo": "Sentieri del Barocco italiano: concerto di violino e violoncello",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T17:30",
+    "luogo": "Chiesa di Santa Lucia",
+    "indirizzo": "Serra San Quirico",
+    "comune": "042047",
+    "lat": 43.439,
+    "lon": 13.03713,
+    "coordinateApprossimate": true,
+    "descrizione": "Il duo Ensemble Arcor, con Boyana Maynalovska al violino e Rebeca Ferri al violoncello su strumenti barocchi, propone un percorso tra Vivaldi, Bonporti, Corelli, Dall’Abaco, Laurenti e Tartini. Ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Sistema Regionale del Barocco Musicale",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Vivere Marche, comunicato del Sistema Regionale del Barocco Musicale",
+        "tipo": "stampa",
+        "url": "https://vivere.me/hhGS-k",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "umbrialibri-terni-2026-biblioteca-comunale",
+    "titolo": "UmbriaLibri a Terni: il ramo d’oro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20",
+    "luogo": "Biblioteca comunale di Terni (Bct)",
+    "indirizzo": "Terni",
+    "comune": "055032",
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giorni di incontri tra letteratura, saggistica, teatro e musica, con più appuntamenti in contemporanea in vari luoghi della città: Biblioteca comunale, Teatro Secci con Mistero Buffo, Palasì e Casa delle Donne. Direzione artistica di Nicola Lagioia, promosso dalla Regione Umbria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Regione Umbria e Comune di Terni",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Terni in Rete",
+        "tipo": "stampa",
+        "url": "https://terninrete.it/notizie-di-terni-umbrialibri-approda-a-terni-dal-20-al-22-novembre-il-programma",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22"
   }
 ]
