@@ -474,7 +474,19 @@ let elenco;
 if (modalitaLocali) elenco = await preparaLocali(Number(process.env.LOCALI_PER_GIRO || 80));
 else if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
 else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false, codiceComune: process.env.TEST_CODICE, hash: process.env.TEST_HASH }];
-else elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
+else {
+  elenco = JSON.parse(readFileSync(fileFonti, 'utf8')).fonti;
+  // Giornali con una pagina «Eventi / Agenda» (ricerca/giornali.json, generato da scripts/scopri-giornali.mjs): sono fonti di tipo «stampa».
+  if (existsSync('ricerca/giornali.json')) {
+    const note = new Set(elenco.map((f) => normUrl(f.url)));
+    const hintGiornale = (g) => `Fonte: la testata «${g.nome}», pagina dell'agenda degli eventi. Gli eventi possono essere in qualunque comune: scrivi comune e provincia SOLO se sono indicati nella pagina, altrimenti salta l'evento. Ignora cronaca, politica, comunicati senza data, resoconti di eventi passati e articoli che non annunciano un appuntamento preciso.`;
+    for (const g of JSON.parse(readFileSync('ricerca/giornali.json', 'utf8')).giornali ?? []) {
+      if (!g.agenda || note.has(normUrl(g.agenda))) continue;
+      note.add(normUrl(g.agenda));
+      elenco.push({ url: g.agenda, nome: g.nome, tipo: 'stampa', dettagli: true, hint: hintGiornale(g) });
+    }
+  }
+}
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
 if (!modalitaComuni && !modalitaLocali) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni

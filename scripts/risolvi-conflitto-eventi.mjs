@@ -34,6 +34,13 @@ const risolutori = {
   },
   'ricerca/locali.json': (f) => { writeFileSync(f, execSync(`git show :2:${f}`, { encoding: 'utf8', maxBuffer: 300 * 1024 * 1024 })); return 'versione online'; },
   'ricerca/locali-stato.json': (f) => { const online = leggi(2, f), nostra = leggi(3, f); const unito = { ...online }; for (const [k, v] of Object.entries(nostra)) if (!unito[k] || String(v.ultima) >= String(unito[k].ultima)) unito[k] = v; scrivi(f, unito, 0); return `${Object.keys(unito).length} locali`; },
+  'ricerca/giornali.json': (f) => {
+    const online = leggi(2, f), nostra = leggi(3, f);
+    const perSito = new Map(online.giornali.map((g) => [g.sito, g]));
+    for (const g of nostra.giornali ?? []) { const o = perSito.get(g.sito); if (!o || String(g.controllato ?? '') >= String(o.controllato ?? '')) perSito.set(g.sito, g); }
+    scrivi(f, { ...online, elencoDel: [online.elencoDel, nostra.elencoDel].filter(Boolean).sort().pop() ?? null, giornali: [...perSito.values()] }, 0);
+    return `${perSito.size} giornali`;
+  },
   'ricerca/comuni-abitanti.json': (f) => { scrivi(f, leggi(2, f), 0); return 'versione online'; },
   'ricerca/comuni-pagine.json': (f) => {
     const online = leggi(2, f), nostra = leggi(3, f);
