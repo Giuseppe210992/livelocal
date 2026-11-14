@@ -101,6 +101,31 @@ function htmlInTesto(html) {
       .replace(/<(br|\/p|\/div|\/li|\/h[1-6]|\/tr|\/section|\/article|\/header|\/time)\b[^>]*>/gi, '\n').replace(/<[^>]+>/g, ' '),
   ).replace(/[ \t ]+/g, ' ').replace(/ ?\n ?/g, '\n').replace(/\n{2,}/g, '\n').trim();
 }
+// Canali Telegram pubblici (https://t.me/s/<canale>): la pagina web pubblica mostra gli ultimi messaggi, senza accedere a Telegram.
+// Ogni messaggio diventa una «pagina» con il suo indirizzo (t.me/<canale>/<numero>) e la data di pubblicazione, così l'evento
+// può citare il messaggio preciso. Si tengono solo i messaggi degli ultimi 30 giorni non ancora letti. Il testo passa da NFKC
+// perché molti enti scrivono date e luoghi con lettere «matematiche» in grassetto (𝐒𝐚𝐛𝐚𝐭𝐨 𝟏𝟕), che altrimenti non si leggono.
+const eTelegram = (url) => { try { const u = new URL(url); return u.hostname === 't.me' && u.pathname.startsWith('/s/'); } catch { return false; } };
+function paginePubblicheTelegram(html) {
+  const limite = Date.now() - 30 * 86400000;
+  const out = [];
+  for (const blocco of html.split(/(?=<div class="tgme_widget_message_wrap)/).slice(1)) {
+    const id = blocco.match(/data-post="([^"]+)"/)?.[1];
+    const corpo = blocco.match(/<div class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/)?.[1];
+    const quando = blocco.match(/<time[^>]*datetime="([^"]+)"/)?.[1];
+    if (!id || !corpo || !quando) continue;
+    const t = new Date(quando).getTime();
+    if (!Number.isFinite(t) || t < limite) continue;
+    const url = `https://t.me/${id}`;
+    if (urlNote.has(normUrl(url))) continue;
+    const data = new Date(t).toLocaleDateString('sv-SE', { timeZone: 'Europe/Rome' });
+    const testo = htmlInTesto(corpo).normalize('NFKC');
+    if (testo.length < 40) continue;
+    out.push({ url, testo: `[Messaggio pubblicato il ${data}]\n${testo}`.slice(0, 3000), t });
+  }
+  return out.sort((a, b) => b.t - a.t).slice(0, 25).map(({ url, testo }) => ({ url, testo }));
+}
+
 function linkDettaglio(html, base) {
   const trovati = new Map();
   for (const m of html.matchAll(/<a\b[^>]*href=["']([^"'#]+)["']/gi)) {
@@ -501,7 +526,9 @@ async function lavora(fonte) {
       if (s.errore) { riga.esito = 'non letta: ' + s.errore; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
       html = s.html; urlFinale = s.urlFinale;
     }
-    const pagine = fonte.pagineDirette ?? [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
+    const telegram = !fonte.pagineDirette && eTelegram(fonte.url) ? paginePubblicheTelegram(html) : null;
+    if (telegram && !telegram.length) { riga.esito = 'ok: nessun messaggio nuovo'; riga.falliti = 0; righe.push(`  =    ${fonte.nome}: nessun messaggio nuovo negli ultimi 30 giorni`); return chiudi(); }
+    const pagine = fonte.pagineDirette ?? telegram ?? [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
     if (fonte.dettagli && !htmlLocale && html) {
       for (const link of linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI)) {
         await pausa(1200);
@@ -509,7 +536,7 @@ async function lavora(fonte) {
         if (!d.errore) pagine.push({ url: link, testo: htmlInTesto(d.html).slice(0, MAX_TESTO_DETTAGLIO) });
       }
     }
-    if (!fonte.pagineDirette && pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
+    if (!fonte.pagineDirette && !telegram && pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
     // Ricontrollo giornaliero: se la pagina (e l'elenco delle sue schede) non è cambiata dall'ultima volta, non serve chiedere niente al modello.
     if (fonte.codiceComune || fonte.codiceLocale) {
       const schede = fonte.dettagli && !htmlLocale && html ? linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI) : [];

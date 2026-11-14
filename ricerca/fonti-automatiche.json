@@ -1320,6 +1320,19 @@
    "nome": "Visit Tuscany (portale turistico della Toscana)",
    "tipo": "ufficiale",
    "dettagli": true
+  },
+  {
+   "url": "https://t.me/s/comunediminturnocomunicazioni",
+   "nome": "Comune di Minturno (canale Telegram)",
+   "tipo": "ufficiale",
+   "dettagli": false,
+   "hint": "Le pagine sono messaggi di un canale Telegram pubblico di un ente; la data di pubblicazione è scritta all'inizio di ogni messaggio. Scrivi un evento solo se nel messaggio sono scritti giorno e mese dell'evento (dalla data di pubblicazione non si deducono date). Ignora ordinanze, avvisi, bandi, viabilità e comunicazioni di servizio. Comune di riferimento: Minturno (LT); gli eventi nelle frazioni (Scauri, Marina di Minturno, Tremensuoli) sono a Minturno."
+  },
+  {
+   "url": "https://www.latinatoday.it/eventi/",
+   "nome": "LatinaToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true
   }
  ]
 }
