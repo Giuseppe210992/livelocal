@@ -181555,5 +181555,33 @@
     "inserito": "2026-11-14",
     "inseritoDa": "ia",
     "fine": "2026-11-22"
+  },
+  {
+    "slug": "asola-on-ice-apertura-pista-di-pattinaggio-asola-2026-11-28",
+    "titolo": "Asola on Ice: apertura della pista di pattinaggio",
+    "categoria": "sport",
+    "inizio": "2026-11-28T20:30",
+    "luogo": "Piazza XX Settembre",
+    "indirizzo": "Asola (MN)",
+    "comune": "020002",
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di inaugurazione della pista di pattinaggio sul ghiaccio in piazza, con musica dal vivo e un set a cura di Duepuntozero, organizzata dalla Pro Loco di Asola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Asola",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Asola",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfuDhePxaIf/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
