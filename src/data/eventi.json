@@ -174667,5 +174667,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-14",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "reggia-express-treno-storico-napoli-caserta-2026-11-29",
+    "titolo": "Reggia Express: treno storico da Napoli alla Reggia di Caserta",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29",
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Douhet, Caserta",
+    "comune": "061022",
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Torna il treno storico con vetture Centoporte degli anni Trenta che collega Napoli Centrale a Caserta in circa trenta minuti. Chi ha il biglietto ferroviario di andata e ritorno può acquistare lo stesso giorno l’ingresso scontato al Museo, valido per Appartamenti Reali, Parco Reale e Giardino Inglese.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 14
+    },
+    "organizzatore": "Reggia di Caserta e Fondazione FS",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Reggia di Caserta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfr2tw4DRCS/",
+        "consultata": "2026-11-14"
+      }
+    ],
+    "inserito": "2026-11-14",
+    "inseritoDa": "ia"
   }
 ]
