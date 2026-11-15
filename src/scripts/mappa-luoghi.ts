@@ -7,7 +7,7 @@
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
-type Riga = [string, string, string, string, string, number, number, number, string]; // slug, nome, tipo, comune, sigla, lat, lon, indicativa, orari
+type Riga = [string, string, string, string, string, number, number, number, string, number, string]; // id, nome, tipo, comune, sigla, lat, lon, indicativa, orari, completa, sito
 const COLORI: Record<string, string> = {
   'Museo': '#1a6fb5', 'Museo e area archeologica': '#1a6fb5', 'Area archeologica': '#c85d1e', 'Castello': '#7b3fa0', 'Palazzo e villa': '#2e8b57',
   'Chiesa e abbazia': '#b8860b', 'Reggia e parco': '#c2185b', 'Parco e giardino': '#00897b', 'Monumento': '#5f6b7a', 'Palazzo': '#2e8b57', 'Chiesa e cattedrale': '#b8860b', 'Luogo': '#5f6b7a',
@@ -35,27 +35,36 @@ async function avvia(radice: HTMLElement) {
   const livello = L.layerGroup().addTo(mappa), livelloAqui = L.layerGroup().addTo(mappa);
 
   // ---------- stato dei filtri ----------
-  const S = { testo: '', tipo: '', aqui: null as { lat: number; lon: number } | null };
+  const S = { testo: '', tipo: '', verificati: false, aqui: null as { lat: number; lon: number } | null };
   const tipi = [...new Set(dati.map((r) => r[2]))].sort((a, b) => a.localeCompare(b, 'it'));
   const contenitoreTipi = q('[data-tipi]');
-  contenitoreTipi.innerHTML = [`<button type="button" class="chip" data-tipo="" aria-pressed="true">Tutti</button>`, ...tipi.map((t) => `<button type="button" class="chip chip--tipo" data-tipo="${html(t)}" aria-pressed="false"><i style="background:${colore(t)}"></i>${html(t)}</button>`)].join('');
-  const segna = () => contenitoreTipi.querySelectorAll<HTMLButtonElement>('[data-tipo]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.tipo === S.tipo)));
+  contenitoreTipi.innerHTML = [`<button type="button" class="chip" data-tipo="" aria-pressed="true">Tutti</button>`, `<button type="button" class="chip" data-verificati aria-pressed="false">Con orari verificati</button>`, ...tipi.map((t) => `<button type="button" class="chip chip--tipo" data-tipo="${html(t)}" aria-pressed="false"><i style="background:${colore(t)}"></i>${html(t)}</button>`)].join('');
+  const segna = () => {
+    contenitoreTipi.querySelectorAll<HTMLButtonElement>('[data-tipo]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.tipo === S.tipo)));
+    contenitoreTipi.querySelector('[data-verificati]')?.setAttribute('aria-pressed', String(S.verificati));
+  };
 
   // ---------- disegno ----------
   let marcatori: { m: L.CircleMarker; r: Riga }[] = [];
-  const filtrati = () => dati.filter((r) => (!S.tipo || r[2] === S.tipo) && (!S.testo || norm(`${r[1]} ${r[3]} ${r[2]}`).includes(norm(S.testo))));
+  const filtrati = () => dati.filter((r) => (!S.tipo || r[2] === S.tipo) && (!S.verificati || r[9] === 1) && (!S.testo || norm(`${r[1]} ${r[3]} ${r[2]}`).includes(norm(S.testo))));
+  const scheda = (r: Riga) => `${base}luoghi/${r[0]}/`;
   function popup(r: Riga) {
-    return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><a class="popup__titolo" href="${base}luoghi/${r[0]}/">${html(r[1])}</a><span>${html(r[3])} (${r[4]})</span><span>${html(r[8])}</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${base}luoghi/${r[0]}/">Orari, costi e come arrivare →</a></div>`;
+    if (r[9]) return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><a class="popup__titolo" href="${scheda(r)}">${html(r[1])}</a><span>${html(r[3])} (${r[4]})</span><span>${html(r[8])}</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${scheda(r)}">Orari, costi e come arrivare →</a></div>`;
+    return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><strong class="popup__titolo">${html(r[1])}</strong><span>${html(r[3])} (${r[4]})</span><span>Orari e costi: vedi il sito ufficiale.</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${html(r[10])}" rel="noopener" target="_blank">Sito ufficiale →</a><small>Scheda non ancora verificata da LiveLocal.</small></div>`;
   }
   function disegna(inquadra: boolean) {
     const f = filtrati();
     livello.clearLayers(); marcatori = [];
-    for (const r of f) {
-      const m = L.circleMarker([r[5], r[6]], { radius: 8, color: '#fff', weight: 2, fillColor: colore(r[2]), fillOpacity: r[7] ? 0.55 : 0.95, className: 'punto-luogo' }).bindPopup(popup(r)).bindTooltip(r[1]);
+    // prima i luoghi base (piccoli), sopra le schede complete (grandi)
+    for (const r of [...f.filter((x) => !x[9]), ...f.filter((x) => x[9])]) {
+      const m = L.circleMarker([r[5], r[6]], r[9]
+        ? { radius: 9, color: '#fff', weight: 2.5, fillColor: colore(r[2]), fillOpacity: r[7] ? 0.6 : 1, className: 'punto-luogo' }
+        : { radius: 5.5, color: '#fff', weight: 1, fillColor: colore(r[2]), fillOpacity: r[7] ? 0.45 : 0.8, className: 'punto-luogo' }).bindPopup(popup(r)).bindTooltip(r[1]);
       m.addTo(livello); marcatori.push({ m, r });
     }
-    azzera.hidden = !(S.testo || S.tipo || S.aqui);
-    stato.textContent = `${f.length} ${f.length === 1 ? 'luogo' : 'luoghi'}${S.tipo ? ` · ${S.tipo}` : ''}${S.testo ? ` · «${S.testo}»` : ''}`;
+    azzera.hidden = !(S.testo || S.tipo || S.aqui || S.verificati);
+    const ver = f.filter((r) => r[9]).length;
+    stato.textContent = `${f.length} ${f.length === 1 ? 'luogo' : 'luoghi'}${S.tipo ? ` · ${S.tipo}` : ''}${S.testo ? ` · «${S.testo}»` : ''} · ${ver} con orari verificati`;
     if (inquadra && f.length) {
       const pt = f.map((r) => L.latLng(r[5], r[6]));
       if (S.aqui) { pt.push(L.latLng(S.aqui.lat, S.aqui.lon)); }
@@ -70,13 +79,17 @@ async function avvia(radice: HTMLElement) {
     const visibili = marcatori.filter(({ r }) => b.contains([r[5], r[6]]) || S.aqui).map(({ r }) => ({ r, d: km(c.lat, c.lng, r[5], r[6]) })).sort((a, b2) => a.d - b2.d).slice(0, 15);
     titoloLista.hidden = visibili.length === 0;
     titoloLista.textContent = S.aqui ? 'Più vicini a te' : 'Luoghi in questa zona';
-    lista.innerHTML = visibili.map(({ r, d }) => `<li class="scheda scheda--luogo"><div><span class="scheda__categoria">${html(r[2])}</span><h3 class="scheda__titolo"><a href="${base}luoghi/${r[0]}/">${html(r[1])}</a></h3><p class="scheda__info">${html(r[3])} (${r[4]})${S.aqui ? ` · a ${d < 10 ? d.toFixed(1).replace('.', ',') : Math.round(d)} km` : ''} · ${html(r[8])}</p></div></li>`).join('');
+    lista.innerHTML = visibili.map(({ r, d }) => `<li class="scheda scheda--luogo"><div><span class="scheda__categoria">${html(r[2])}</span><h3 class="scheda__titolo">${r[9] ? `<a href="${scheda(r)}">${html(r[1])}</a>` : `<a href="${html(r[10])}" rel="noopener" target="_blank">${html(r[1])}</a>`}</h3><p class="scheda__info">${html(r[3])} (${r[4]})${S.aqui ? ` · a ${d < 10 ? d.toFixed(1).replace('.', ',') : Math.round(d)} km` : ''} · ${r[9] ? html(r[8]) : 'orari e costi sul sito ufficiale'}</p></div></li>`).join('');
   }
   mappa.on('moveend', () => { if (!S.aqui) elencoInVista(); });
 
   // ---------- comandi ----------
-  contenitoreTipi.addEventListener('click', (e) => { const b = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-tipo]'); if (!b) return; S.tipo = b.dataset.tipo ?? ''; disegna(true); });
-  azzera.addEventListener('click', () => { S.testo = ''; S.tipo = ''; S.aqui = null; campo.value = ''; livelloAqui.clearLayers(); disegna(false); mappa.fitBounds(RIQUADRO_ITALIA); });
+  contenitoreTipi.addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    if (t.closest('[data-verificati]')) { S.verificati = !S.verificati; disegna(true); return; }
+    const b = t.closest<HTMLButtonElement>('[data-tipo]'); if (!b) return; S.tipo = b.dataset.tipo ?? ''; disegna(true);
+  });
+  azzera.addEventListener('click', () => { S.testo = ''; S.tipo = ''; S.verificati = false; S.aqui = null; campo.value = ''; livelloAqui.clearLayers(); disegna(false); mappa.fitBounds(RIQUADRO_ITALIA); });
   q<HTMLFormElement>('[data-form]').addEventListener('submit', (e) => { e.preventDefault(); S.testo = campo.value.trim(); disegna(true); });
 
   let comuni: [string, string, string, number, number][] | null = null, attesa = 0;
@@ -109,5 +122,6 @@ async function avvia(radice: HTMLElement) {
   disegna(false);
   // Se i luoghi sono pochi si inquadrano; con tanti luoghi si parte dall'Italia intera.
   if (dati.length && dati.length <= 12) disegna(true);
+  // Con migliaia di punti la mappa parte dall'Italia intera: i punti piccoli sono i luoghi base, i grandi hanno gli orari verificati.
   // I suggerimenti sono utili solo con JavaScript: i comandi si mostrano (la classe solo-js è nascosta senza JS dal CSS esistente).
 }

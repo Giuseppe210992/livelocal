@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Esplora from '../../components/Esplora.astro';
-import { SITO } from '../../lib/sito';
+import { SITO, href } from '../../lib/sito';
 ---
 <Base
   titolo={`Mappa degli eventi a Minturno e dintorni, giorno per giorno | ${SITO.nome}`}
@@ -12,6 +12,7 @@ import { SITO } from '../../lib/sito';
     <p class="apertura__sopra">Mappa</p>
     <h1>Cosa succede, giorno per giorno</h1>
     <p class="apertura__testo">Scegli il giorno e guarda dove sono gli eventi. Se vuoi, usa la tua posizione per vedere quelli più vicini.</p>
+    <p class="nota">Questa mappa mostra solo gli <b>eventi</b>. Musei, monumenti e aree archeologiche sono sulla <a href={href('/luoghi/mappa/')}>mappa dei luoghi da visitare</a>.</p>
   </section>
   <Esplora />
 </Base>

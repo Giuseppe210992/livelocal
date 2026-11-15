@@ -27,3 +27,9 @@ Musei, aree archeologiche, castelli e palazzi aperti al pubblico, con orari e co
 - Dati: `/luoghi.json` (una riga per luogo: slug, nome, tipo, comune, sigla, lat, lon, posizione indicativa, orari in breve), generato a ogni pubblicazione.
 - Le schede senza coordinate esatte (quelle scritte a mano) usano il centro del comune e sono segnate «posizione indicativa» (punto più chiaro). Le schede automatiche hanno le coordinate di Wikidata.
 - Senza JavaScript la pagina rimanda all'elenco `/luoghi/`.
+
+## Luoghi «base» e navigazione separata (15/11/2026, sera)
+
+- Eventi e luoghi hanno **ognuno la sua mappa**: `/mappa/` (solo eventi) e `/luoghi/mappa/` (solo luoghi). Menu: Eventi, Mappa eventi, Luoghi, Mappa luoghi; ogni mappa rimanda all'altra in una nota.
+- Tutti i luoghi dell'elenco Wikidata (`ricerca/luoghi-elenco.json`, ~3.400 con sito ufficiale) compaiono subito sulla mappa e negli elenchi per provincia (`/luoghi/zona/<regione>/<provincia>/`) come **luoghi base**: nome, tipo, comune, coordinate e collegamento al sito ufficiale, con la scritta «scheda non ancora verificata». Quando la lettura automatica trova orari e costi citabili la scheda diventa **completa** (punto grande sulla mappa, pagina propria, JSON-LD). I luoghi base non hanno pagina propria (per non pubblicare pagine vuote).
+- `/luoghi.json` ha una riga per luogo: [id, nome, tipo, comune, sigla, lat, lon, indicativa, orari, completa, sito] (circa 490 KB, 150 KB compressi).

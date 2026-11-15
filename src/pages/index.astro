@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import CercaEventi from '../components/CercaEventi.astro';
 import Pastiglia from '../components/Pastiglia.astro';
 import { prossimi, eventiDellaRegione, eventiDellaProvincia, regioniConEventi, provinceConEventi } from '../lib/eventi';
-import { luoghi } from '../lib/luoghiDaVisitare';
+import { totaleLuoghi } from '../lib/luoghiDaVisitare';
 import { percorsoRegione, percorsoProvincia } from '../lib/luoghi';
 import { jsonLdSito } from '../lib/jsonld';
 import { SITO, href } from '../lib/sito';
@@ -25,13 +25,13 @@ const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRe
   <CercaEventi />
 
   <section class="riquadri" aria-label="Altre sezioni">
-    <a class="riquadro" href={href('/luoghi/mappa/')}>
+    <a class="riquadro" href={href('/luoghi/')}>
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V10m14 11V10M9 21V10m6 11V10M2 10l10-6 10 6H2Z"/></svg>
-      <b>Luoghi da visitare</b><span>Musei, aree archeologiche e castelli sulla mappa, con orari e costi{luoghi.length > 0 ? ` (${luoghi.length})` : ''}</span>
+      <b>Luoghi da visitare</b><span>Musei, aree archeologiche e castelli: {totaleLuoghi()} luoghi, con mappa</span>
     </a>
     <a class="riquadro" href={href('/mappa/')}>
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
-      <b>Mappa degli eventi</b><span>Gli eventi come puntine, per giorno e distanza</span>
+      <b>Mappa degli eventi</b><span>Concerti, mostre e sagre come puntine, per giorno e distanza</span>
     </a>
     <a class="riquadro riquadro--evidenza" href={href('/segnala/')}>
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 5v14M5 12h14"/></svg>

@@ -3,13 +3,14 @@ import Base from '../../layouts/Base.astro';
 import Briciole from '../../components/Briciole.astro';
 import SchedaLuogo from '../../components/SchedaLuogo.astro';
 import Pastiglia from '../../components/Pastiglia.astro';
-import { luoghi, regioniConLuoghi, provinceConLuoghi, luoghiDellaProvincia, percorsoZona } from '../../lib/luoghiDaVisitare';
+import { luoghi, luoghiBase, totaleLuoghi, regioniConLuoghi, provinceConLuoghi, luoghiDellaProvincia, totaleProvincia, percorsoZona } from '../../lib/luoghiDaVisitare';
 import { nomeProvincia } from '../../lib/luoghi';
 import { jsonLdBriciole } from '../../lib/jsonld';
 import { SITO, href } from '../../lib/sito';
 
 const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }];
-const TANTI = 40; // oltre questa soglia l'elenco si divide per provincia
+const TANTI = 40;
+const verificati = luoghi.length; // oltre questa soglia l'elenco si divide per provincia
 ---
 <Base
   titolo={`Luoghi da visitare: musei, aree archeologiche e monumenti | ${SITO.nome}`}
@@ -21,14 +22,15 @@ const TANTI = 40; // oltre questa soglia l'elenco si divide per provincia
   <section class="apertura">
     <p class="apertura__sopra">Storia e cultura</p>
     <h1>Luoghi da visitare</h1>
-    <p class="apertura__testo">Musei, aree archeologiche, castelli e palazzi aperti al pubblico. Per ognuno trovi dove si trova, gli orari e il costo del biglietto, copiati dal sito ufficiale, con la data in cui li abbiamo controllati.</p>
+    <p class="apertura__testo">Musei, aree archeologiche, castelli e palazzi aperti al pubblico. Per i luoghi con la scheda completa trovi gli orari e il costo del biglietto, copiati dal sito ufficiale, con la data del controllo. Per tutti gli altri trovi dove sono e il collegamento al sito ufficiale.</p>
     <p><a class="bottone" href={href('/luoghi/mappa/')}>
       <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
-      Vedi i luoghi sulla mappa
+      Mappa dei luoghi ({totaleLuoghi()})
     </a></p>
+    <p class="nota">Cerchi concerti, mostre o sagre? Vai agli <a href={href('/')}>eventi</a> o alla <a href={href('/mappa/')}>mappa degli eventi</a>.</p>
   </section>
 
-  {luoghi.length <= TANTI ? regioniConLuoghi().map((r) => (
+  {totaleLuoghi() <= TANTI ? regioniConLuoghi().map((r) => (
     <>
       <h2 class="titoletto">{r.nome}</h2>
       {provinceConLuoghi(r).map((p) => (
@@ -40,16 +42,16 @@ const TANTI = 40; // oltre questa soglia l'elenco si divide per provincia
     </>
   )) : regioniConLuoghi().map((r) => (
     <>
-      <h2 class="titoletto">{r.nome} <small>{luoghi.filter((l) => l.regioneDati.codiceIstat === r.codiceIstat).length} luoghi</small></h2>
+      <h2 class="titoletto">{r.nome} <small>{luoghi.filter((l) => l.regioneDati.codiceIstat === r.codiceIstat).length + luoghiBase.filter((l) => l.regioneDati.codiceIstat === r.codiceIstat).length} luoghi</small></h2>
       <ul class="pastiglie" aria-label={`Province: ${r.nome}`}>
-        {provinceConLuoghi(r).map((p) => <Pastiglia nome={p.nome} percorso={percorsoZona(p)} conteggio={luoghiDellaProvincia(p).length} />)}
+        {provinceConLuoghi(r).map((p) => <Pastiglia nome={p.nome} percorso={percorsoZona(p)} conteggio={totaleProvincia(p)} />)}
       </ul>
     </>
   ))}
 
   <section class="nota" aria-labelledby="titolo-mancano">
     <h2 id="titolo-mancano" style="margin-top:0;font-size:1.05rem">Stiamo aggiungendo i luoghi zona per zona</h2>
-    <p>Per ora ci sono {luoghi.length} luoghi, quelli di cui abbiamo già controllato orari e prezzi su fonti ufficiali. Ne manca uno che conosci? Scrivicelo: lo controlliamo e lo aggiungiamo.</p>
+    <p>I luoghi sono {totaleLuoghi()}: {verificati} con orari e costi già controllati sulle fonti ufficiali, gli altri con il collegamento al sito ufficiale. Ogni giorno altre schede si completano da sole. Ne manca uno che conosci? Scrivicelo: lo controlliamo e lo aggiungiamo.</p>
     <p><a class="bottone bottone--secondario" href={href('/segnala/')}>Segnala un luogo o un evento</a></p>
   </section>
 </Base>

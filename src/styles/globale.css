@@ -368,3 +368,8 @@ main li { margin-bottom: .35rem; }
 .chip--tipo[aria-pressed="true"] i { box-shadow: 0 0 0 1px #fff; }
 .punto-luogo { cursor: pointer; }
 .mappa-luoghi .cerca__form { margin-bottom: 10px; }
+
+.altri-luoghi { list-style: none; padding: 0; margin: 0 0 24px; display: grid; gap: 0; }
+.altri-luoghi li { padding: 10px 0; border-bottom: 1px solid var(--bordo); }
+.altri-luoghi a { font-weight: 600; }
+.altri-luoghi small { display: block; color: var(--tenue); }

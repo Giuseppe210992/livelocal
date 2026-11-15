@@ -2,21 +2,22 @@
 import Base from '../../../../../layouts/Base.astro';
 import Briciole from '../../../../../components/Briciole.astro';
 import SchedaLuogo from '../../../../../components/SchedaLuogo.astro';
-import { luoghi, luoghiDellaProvincia, provinceConLuoghi, regioniConLuoghi, percorsoZona } from '../../../../../lib/luoghiDaVisitare';
+import { luoghiDellaProvincia, baseDellaProvincia, provinceConLuoghi, regioniConLuoghi, percorsoZona } from '../../../../../lib/luoghiDaVisitare';
 import { nomeProvincia, inProvincia } from '../../../../../lib/luoghi';
 import { jsonLdBriciole } from '../../../../../lib/jsonld';
-import { SITO } from '../../../../../lib/sito';
+import { SITO, href } from '../../../../../lib/sito';
 
 export function getStaticPaths() {
   return regioniConLuoghi().flatMap((r) => provinceConLuoghi(r).map((p) => ({ params: { regione: r.slug, provincia: p.slug }, props: { p, r } })));
 }
 const { p, r } = Astro.props;
 const lista = luoghiDellaProvincia(p);
+const altri = baseDellaProvincia(p);
 const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: nomeProvincia(p), percorso: percorsoZona(p) }];
 ---
 <Base
   titolo={`Luoghi da visitare ${inProvincia(p)}: musei e monumenti | ${SITO.nome}`}
-  descrizione={`${lista.length} luoghi storici e culturali ${inProvincia(p)} (${r.nome}), con orari e prezzi presi da fonti ufficiali e la data dell'ultimo controllo.`}
+  descrizione={`${lista.length + altri.length} luoghi storici e culturali ${inProvincia(p)} (${r.nome}): musei, aree archeologiche, castelli e palazzi, con orari e prezzi dalle fonti ufficiali dove già controllati.`}
   percorso={percorsoZona(p)}
   jsonLd={[jsonLdBriciole(voci)]}
 >
@@ -24,7 +25,15 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: nome
   <section class="apertura">
     <p class="apertura__sopra">{r.nome} · {nomeProvincia(p)}</p>
     <h1>Luoghi da visitare {inProvincia(p)}</h1>
-    <p class="apertura__testo">{lista.length} luoghi con orari e costi presi dai siti ufficiali.</p>
+    <p class="apertura__testo">{lista.length + altri.length} luoghi{lista.length > 0 ? `, ${lista.length} con orari e costi già controllati sui siti ufficiali` : ''}. Gli altri hanno il collegamento al sito ufficiale per gli orari.</p>
+    <p><a class="bottone bottone--secondario" href={href('/luoghi/mappa/')}>Mappa dei luoghi</a></p>
   </section>
-  <ul class="elenco">{lista.map((l) => <SchedaLuogo luogo={l} />)}</ul>
+  {lista.length > 0 && <ul class="elenco">{lista.map((l) => <SchedaLuogo luogo={l} />)}</ul>}
+  {altri.length > 0 && (
+    <section aria-labelledby="titolo-altri">
+      <h2 id="titolo-altri">Altri luoghi {inProvincia(p)}</h2>
+      <p class="fonte-luogo">Per questi luoghi non abbiamo ancora orari e costi verificati: tocca il nome per aprire il sito ufficiale.</p>
+      <ul class="altri-luoghi">{altri.map((l) => <li><a href={l.sito} rel="noopener">{l.nome}</a> <small>{l.tipo} · {l.comuneDati.nome}</small></li>)}</ul>
+    </section>
+  )}
 </Base>
