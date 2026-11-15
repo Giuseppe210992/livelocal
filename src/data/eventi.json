@@ -219635,5 +219635,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "via-dei-corti-2026-festival-cortometraggi-gravina-di-catania",
+    "titolo": "Via dei Corti 2026: festival di cortometraggi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26",
+    "fine": "2026-11-29",
+    "luogo": "Auditorium Angelo Musco",
+    "indirizzo": "Gravina di Catania",
+    "comune": "087019",
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattro giorni di cortometraggi e documentari in concorso, serate di gala, ospiti e premi, con proiezioni a ingresso gratuito. Programma completo sul sito del festival.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Via dei Corti",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Via dei Corti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfiKqAbOSnB/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
