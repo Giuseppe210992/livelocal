@@ -200088,5 +200088,206 @@
     ],
     "inserito": "2026-11-15",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "natura-in-posa-riflessioni-e-raffronti-acquarelli-marco-tagliaro-galleria-giacomuzzi-mestre-2026-11-15",
+    "titolo": "Natura in posa. Riflessioni e raffronti: acquarelli di Marco Tagliaro",
+    "categoria": "mostra",
+    "inizio": "2026-11-15",
+    "luogo": "Galleria Giacomuzzi",
+    "indirizzo": "Mestre, Venezia",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di acquarelli di Marco Tagliaro dedicata alla natura, tra riflessioni e raffronti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Venezia, Le Città in Festa",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Venezia, Le Città in Festa",
+        "tipo": "ufficiale",
+        "url": "https://live.comune.venezia.it/it/2026/11/le-citta-festa-gli-appuntamenti-dal-13-al-19-novembre",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-11-29"
+  },
+  {
+    "slug": "fuori-dal-tempio-elia-mauceri-palazzo-della-provvederia-mestre-2026-11-15",
+    "titolo": "Fuori dal tempio: mostra personale di Elia Mauceri",
+    "categoria": "mostra",
+    "inizio": "2026-11-15",
+    "luogo": "Sala Palazzo della Provvederia",
+    "indirizzo": "Mestre, Venezia",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale di Elia Mauceri, secondo classificato al Premio Mestre di Pittura 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Venezia, Le Città in Festa",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Venezia, Le Città in Festa",
+        "tipo": "ufficiale",
+        "url": "https://live.comune.venezia.it/it/2026/11/le-citta-festa-gli-appuntamenti-dal-13-al-19-novembre",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-11-27"
+  },
+  {
+    "slug": "giovanni-paolo-i-un-papa-inatteso-mostra-santa-maria-delle-grazie-mestre-2026-11-18",
+    "titolo": "Giovanni Paolo I, un Papa inatteso",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "luogo": "Centro Culturale Santa Maria delle Grazie",
+    "indirizzo": "Mestre, Venezia",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra con fotografie, video e oggetti personali del beato Albino Luciani, papa Giovanni Paolo I.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Venezia, Le Città in Festa",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Venezia, Le Città in Festa",
+        "tipo": "ufficiale",
+        "url": "https://live.comune.venezia.it/it/2026/11/le-citta-festa-gli-appuntamenti-dal-13-al-19-novembre",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-12-08"
+  },
+  {
+    "slug": "senzatomica-mostra-sede-emergency-giudecca-venezia-2026-11-18",
+    "titolo": "Senzatomica: trasformare lo spirito umano per un mondo libero da armi nucleari",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "luogo": "Sede di Emergency",
+    "indirizzo": "Giudecca, Venezia",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra «Senzatomica» alla Giudecca, per riflettere su come trasformare lo spirito umano verso un mondo libero da armi nucleari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Venezia, Le Città in Festa",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Venezia, Le Città in Festa",
+        "tipo": "ufficiale",
+        "url": "https://live.comune.venezia.it/it/2026/11/le-citta-festa-gli-appuntamenti-dal-13-al-19-novembre",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-12-15"
+  },
+  {
+    "slug": "cine-concerti-cinema-muto-e-musica-dal-vivo-palazzetto-bru-zane-venezia-2026-11-19",
+    "titolo": "Cine-Concerti: cinema muto e musica dal vivo",
+    "categoria": "concerto",
+    "inizio": "2026-11-19",
+    "luogo": "Palazzetto Bru Zane",
+    "indirizzo": "Venezia",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Tornano i Cine-Concerti, la rassegna che fonde cinema muto e musica dal vivo, con il primo appuntamento il 19 novembre. Date e orari dei singoli titoli sono sul programma del Palazzetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Palazzetto Bru Zane",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Venezia, Le Città in Festa",
+        "tipo": "ufficiale",
+        "url": "https://live.comune.venezia.it/it/2026/11/le-citta-festa-gli-appuntamenti-dal-13-al-19-novembre",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-del-tiramisu-palazzo-della-gran-guardia-verona-2026-11-21",
+    "titolo": "Festival del tiramisù, prima edizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "luogo": "Palazzo della Gran Guardia",
+    "indirizzo": "Verona",
+    "comune": "023091",
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione del festival dedicato al tiramisù, il dolce italiano più famoso, a Verona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Festival del tiramisù",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Informacibo, calendario sagre novembre 2026",
+        "tipo": "stampa",
+        "url": "https://www.informacibo.it/eventi-fiere-sagre-novembre-italia/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22"
+  },
+  {
+    "slug": "zustissia-proiezione-gratuita-cinema-odeon-bologna-2026-11-18",
+    "titolo": "Zustìssia di Francesco Piras: proiezione gratuita al Premio Petri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T19:15",
+    "luogo": "Cinema Odeon",
+    "indirizzo": "Bologna",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione speciale del film «Zustìssia» sulla storia di Beniamino Zuncheddu e del più lungo errore giudiziario italiano, finalista all’ottava edizione del Premio Nazionale Elio Petri. Ingresso gratuito, con biglietto da ritirare al cinema.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Festival del Cinema di Porretta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Festival del Cinema di Porretta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfriWafEVgb/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
