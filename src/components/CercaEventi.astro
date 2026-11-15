@@ -1,0 +1,51 @@
+---
+// Ricerca interattiva degli eventi (home). Senza JavaScript resta l'elenco dei prossimi eventi, già scritto in HTML.
+// Lo script (src/scripts/cerca.ts) carica l'indice leggero /ricerca.json solo quando l'utente tocca un comando.
+import SchedaEvento from './SchedaEvento.astro';
+import { prossimi, categorie } from '../lib/eventi';
+import { href } from '../lib/sito';
+import { oggiData } from '../lib/giorni';
+
+// Prima gli eventi che iniziano da oggi in poi, poi quelli già in corso (mostre e rassegne lunghe).
+const tutti = prossimi();
+const iniziali = [...tutti.filter((e) => e.inizio.slice(0, 10) >= oggiData()), ...tutti.filter((e) => e.inizio.slice(0, 10) < oggiData())].slice(0, 20);
+const totale = prossimi().length;
+---
+<div class="cerca" data-cerca data-base={href('/')} data-ricerca={href('/ricerca.json')} data-comuni={href('/comuni.json')}>
+  <noscript><style>.solo-js { display: none !important; }</style></noscript>
+  <form class="cerca__form" data-form role="search">
+    <label class="sr-only" for="cerca-testo">Cerca un evento oppure scrivi il nome del tuo comune</label>
+    <input id="cerca-testo" class="cerca__campo solo-js" data-testo type="search" list="cerca-comuni" autocomplete="off" enterkeyhint="search" placeholder="Evento o comune" />
+    <datalist id="cerca-comuni" data-comuni-lista></datalist>
+    <button type="button" class="bottone solo-js" data-gps>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7.5"/></svg>
+      Vicino a me
+    </button>
+  </form>
+
+  <div class="filtri solo-js" role="group" aria-label="Quando">
+    <button type="button" class="chip" data-quando="oggi" aria-pressed="false">Oggi</button>
+    <button type="button" class="chip" data-quando="domani" aria-pressed="false">Domani</button>
+    <button type="button" class="chip" data-quando="weekend" aria-pressed="false">Weekend</button>
+    <button type="button" class="chip" data-quando="mese" aria-pressed="false">Questo mese</button>
+    <button type="button" class="chip" data-gratis aria-pressed="false">Solo gratis</button>
+  </div>
+  <div class="filtri filtri--scorri solo-js" role="group" aria-label="Tipo di evento">
+    <button type="button" class="chip" data-cat="" aria-pressed="true">Tutti</button>
+    {categorie.map((c) => <button type="button" class="chip" data-cat={c.slug} aria-pressed="false">{c.plurale}</button>)}
+  </div>
+  <div class="filtri solo-js" data-raggi hidden role="group" aria-label="Distanza">
+    <span class="filtri__etichetta">Distanza</span>
+    <button type="button" class="chip" data-raggio="10" aria-pressed="false">10 km</button>
+    <button type="button" class="chip" data-raggio="25" aria-pressed="true">25 km</button>
+    <button type="button" class="chip" data-raggio="50" aria-pressed="false">50 km</button>
+    <button type="button" class="chip" data-raggio="100" aria-pressed="false">100 km</button>
+    <button type="button" class="chip" data-raggio="0" aria-pressed="false">Tutta Italia</button>
+  </div>
+
+  <p class="cerca__stato" aria-live="polite"><span data-stato>{totale} eventi in programma</span> <button type="button" class="cerca__azzera solo-js" data-azzera hidden>Azzera filtri</button></p>
+  <ul class="elenco" data-risultati>{iniziali.map((e) => <SchedaEvento evento={e} />)}</ul>
+  <p><button type="button" class="bottone bottone--secondario solo-js" data-altri hidden>Mostra altri</button></p>
+</div>
+
+<script>import '../scripts/cerca.ts';</script>

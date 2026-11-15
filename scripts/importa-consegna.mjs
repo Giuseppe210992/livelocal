@@ -107,6 +107,8 @@ lettura: for (const c of lette) {
     if (fineGiorno < OGGI) err.push('già finito');
     if (inizio.slice(0, 10) > FINE) err.push('troppo lontano');
     if (fine && fine < inizio) err.push('la fine è prima dell\'inizio');
+    if (fine && (Date.parse(fine.slice(0, 10)) - Date.parse(inizio.slice(0, 10))) / 864e5 > 400) err.push('durata oltre 13 mesi: controlla gli anni');
+    if (Date.parse(inizio.slice(0, 10)) < Date.parse(OGGI) - 400 * 864e5) err.push('inizio di oltre 13 mesi fa: controlla l\'anno');
     if (fine && (inizio.length === 10) !== (fine.length === 10)) err.push('inizio e fine: o tutti e due con l\'ora o tutti e due senza');
   }
 

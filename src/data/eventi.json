@@ -108872,39 +108872,6 @@
     "inseritoDa": "consegna"
   },
   {
-    "slug": "i-colori-dell-antico-marmi-santarelli-ai-musei-capitolini-roma",
-    "titolo": "I Colori dell’Antico. Marmi Santarelli ai Musei Capitolini",
-    "categoria": "mostra",
-    "inizio": "2022-04-13",
-    "fine": "2032-04-30",
-    "luogo": "Musei Capitolini, Palazzo Clementino",
-    "indirizzo": "Piazza del Campidoglio 1",
-    "cap": null,
-    "comune": "058091",
-    "frazione": null,
-    "lat": 41.88539,
-    "lon": 12.46072,
-    "coordinateApprossimate": true,
-    "descrizione": "Mostra su marmi colorati con pezzi provenienti dalla Fondazione Santarelli.",
-    "prezzo": {
-      "tipo": "gratuito"
-    },
-    "prenotazione": null,
-    "organizzatore": "Musei Capitolini",
-    "fonti": [
-      {
-        "nome": "Musei Capitolini",
-        "tipo": "ufficiale",
-        "url": "https://www.museicapitolini.org/it/mostra-evento/i-colori-dell-antico-marmi-santarelli-ai-musei-capitolini",
-        "consultata": "2026-11-08"
-      }
-    ],
-    "stato": "pubblicato",
-    "inizioPrecedente": null,
-    "inserito": "2026-11-08",
-    "inseritoDa": "consegna"
-  },
-  {
     "slug": "xv-edizione-della-lago-maggiore-marathon-arona-stresa-verbania-stresa",
     "titolo": "XV edizione della “Lago Maggiore Marathon” Arona – Stresa - Verbania",
     "categoria": "sport",
@@ -112318,7 +112285,7 @@
     "titolo": "L' occhio del lupo | Daniel Pennac e Massimiliano Barbini",
     "categoria": "teatro",
     "inizio": "2026-10-29T20:45",
-    "fine": "2027-11-01T20:45",
+    "fine": null,
     "luogo": "Teatro il Funaro",
     "indirizzo": "Via del Funaro, 51100 Pistoia PT, Italia",
     "cap": null,

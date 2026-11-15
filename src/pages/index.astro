@@ -1,53 +1,46 @@
 ---
 import Base from '../layouts/Base.astro';
-import SchedaEvento from '../components/SchedaEvento.astro';
+import CercaEventi from '../components/CercaEventi.astro';
 import Pastiglia from '../components/Pastiglia.astro';
-import { prossimi, passati, eventiDellaRegione, eventiDellaProvincia, regioniConEventi, provinceConEventi } from '../lib/eventi';
+import { prossimi, eventiDellaRegione, eventiDellaProvincia, regioniConEventi, provinceConEventi } from '../lib/eventi';
+import { luoghi } from '../lib/luoghiDaVisitare';
 import { percorsoRegione, percorsoProvincia } from '../lib/luoghi';
 import { jsonLdSito } from '../lib/jsonld';
 import { SITO, href } from '../lib/sito';
 
-const MAX_IN_HOME = 20;
-const futuri = prossimi();
-const recenti = passati().slice(0, 3);
 // Solo le regioni con eventi, dalla più ricca.
 const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRegione(b)).length - prossimi(eventiDellaRegione(a)).length);
 ---
 <Base
-  titolo={`${SITO.nome} · Eventi in tutta Italia`}
-  descrizione="Cosa fare in Italia: mostre, visite guidate, concerti, sagre e feste, giorno per giorno e vicino a te. Calendario gratuito, aggiornato ogni ora."
+  titolo={`${SITO.nome} · Eventi e luoghi da visitare in tutta Italia`}
+  descrizione="Cosa fare in Italia: mostre, visite guidate, concerti, sagre e feste, giorno per giorno e vicino a te, più i luoghi storici da visitare con orari e prezzi. Gratuito, aggiornato ogni ora."
   percorso="/"
   jsonLd={[jsonLdSito()]}
 >
-  <section class="apertura">
-    <p class="apertura__sopra">{SITO.slogan}</p>
-    <h1>Cosa succede vicino a te</h1>
-    <p class="apertura__testo">
-      Mostre, visite guidate, concerti, sagre e feste di tutta Italia, in un unico calendario.
-      Il calendario si allarga ogni giorno, regione per regione.
-      Gratis, senza registrazione e senza pubblicità.
-    </p>
-    <div class="scorciatoie">
-      <a class="bottone" href={href('/domani/')}>Eventi di domani</a>
-      <a class="bottone bottone--secondario" href={href('/oggi/')}>Oggi</a>
-      <a class="bottone bottone--secondario" href={href('/weekend/')}>Weekend</a>
-      <a class="bottone" href={href('/mappa/')}>
-        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
-        Mappa per giorno
-      </a>
-      <a class="bottone bottone--secondario" href={href('/vicino-a-me/')}>
-        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7.5"/></svg>
-        Vicino a me
-      </a>
-      <a class="bottone" href={href('/luoghi/')}>
-        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V10m14 11V10M9 21V10m6 11V10M2 10l10-6 10 6H2Z"/></svg>
-        Luoghi da visitare
-      </a>
-      <a class="bottone bottone--evento" href={href('/segnala/')}>
-        <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 5v14M5 12h14"/></svg>
-        Segnala un evento
-      </a>
-    </div>
+  <section class="apertura apertura--home">
+    <h1>Cosa fare vicino a te</h1>
+    <p class="apertura__testo">Eventi, mostre, concerti e sagre di tutta Italia, e i luoghi da visitare con orari e prezzi. Gratis, senza registrazione e senza pubblicità.</p>
+  </section>
+
+  <CercaEventi />
+
+  <section class="riquadri" aria-label="Altre sezioni">
+    <a class="riquadro" href={href('/luoghi/')}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V10m14 11V10M9 21V10m6 11V10M2 10l10-6 10 6H2Z"/></svg>
+      <b>Luoghi da visitare</b><span>Musei, aree archeologiche e castelli con orari e costi{luoghi.length > 0 ? ` (${luoghi.length})` : ''}</span>
+    </a>
+    <a class="riquadro" href={href('/mappa/')}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
+      <b>Mappa degli eventi</b><span>Gli eventi come puntine, per giorno e distanza</span>
+    </a>
+    <a class="riquadro riquadro--evidenza" href={href('/segnala/')}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 5v14M5 12h14"/></svg>
+      <b>Segnala un evento</b><span>Organizzi qualcosa? Dillo in due minuti</span>
+    </a>
+  </section>
+
+  <details class="sfoglia">
+    <summary>Sfoglia per regione e provincia</summary>
     {regioniOrdinate.map((r) => (
       <>
         <h2 class="titoletto"><a href={href(percorsoRegione(r))}>{r.nome}</a> {prossimi(eventiDellaRegione(r)).length > 0 && <small>{prossimi(eventiDellaRegione(r)).length} in programma</small>}</h2>
@@ -56,28 +49,5 @@ const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRe
         </ul>
       </>
     ))}
-  </section>
-
-  <section aria-labelledby="titolo-prossimi">
-    <h2 id="titolo-prossimi">Prossimi eventi</h2>
-    {futuri.length > 0
-      ? <ul class="elenco">{futuri.slice(0, MAX_IN_HOME).map((e) => <SchedaEvento evento={e} />)}</ul>
-      : <p class="vuoto">Per ora non ci sono eventi in programma. Il calendario si aggiorna ogni ora.</p>}
-    {futuri.length > MAX_IN_HOME && (
-      <p><a class="bottone bottone--secondario" href={href('/mappa/')}>Vedi tutti i {futuri.length} eventi sulla mappa</a></p>
-    )}
-  </section>
-
-  {recenti.length > 0 && (
-    <section aria-labelledby="titolo-recenti">
-      <h2 id="titolo-recenti">Appena conclusi</h2>
-      <ul class="elenco">{recenti.map((e) => <SchedaEvento evento={e} />)}</ul>
-    </section>
-  )}
-
-  <section class="nota" aria-labelledby="titolo-organizzi">
-    <h2 id="titolo-organizzi" style="margin-top:0;font-size:1.05rem">Organizzi un evento?</h2>
-    <p>Pro Loco, associazioni, parrocchie, musei: segnalate il vostro evento da telefono, in due minuti e senza account. Prima di pubblicarlo vi chiamiamo per verificare.</p>
-    <p><a class="bottone bottone--evento" href={href('/segnala/')}>Segnala un evento</a></p>
-  </section>
+  </details>
 </Base>
