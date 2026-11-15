@@ -21,7 +21,7 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: 'Map
     <p class="nota">Questa mappa mostra solo i <b>luoghi da visitare</b>. Per concerti, mostre e sagre vai alla <a href={href('/mappa/')}>mappa degli eventi</a>.</p>
   </section>
 
-  <div class="mappa-luoghi" data-mappa-luoghi data-dati={href('/luoghi.json')} data-comuni={href('/comuni.json')} data-base={href('/')}>
+  <div class="mappa-luoghi" data-mappa-luoghi data-dati={href('/luoghi.json')} data-comuni={href('/comuni.json')} data-regioni={href('/luoghi-regioni.json')} data-base={href('/')}>
     <noscript><p class="vuoto">La mappa ha bisogno di JavaScript. Puoi comunque vedere l'<a href={href('/luoghi/')}>elenco dei luoghi da visitare</a> ({totaleLuoghi()}).</p></noscript>
     <form class="cerca__form solo-js" data-form role="search">
       <label class="sr-only" for="mappa-testo">Cerca un luogo o un comune</label>
@@ -35,6 +35,7 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: 'Map
     <div class="filtri filtri--scorri solo-js" data-tipi role="group" aria-label="Tipo di luogo"></div>
     <div class="mappa mappa--luoghi" data-mappa role="region" aria-label="Mappa dei luoghi da visitare"></div>
     <p class="cerca__stato" aria-live="polite"><span data-stato>Carico i luoghi…</span> <button type="button" class="cerca__azzera" data-azzera hidden>Azzera filtri</button></p>
+    <p class="privacy-posizione" data-aiuto hidden></p>
     <h2 class="titoletto" data-titolo-lista hidden>Luoghi in questa zona</h2>
     <ul class="elenco" data-lista></ul>
     <p class="privacy-posizione">La posizione si usa solo se tocchi «Vicino a me» e resta sul tuo telefono. Dove la scheda dice «posizione indicativa», il punto è il centro del paese. Mappa: © OpenStreetMap.</p>

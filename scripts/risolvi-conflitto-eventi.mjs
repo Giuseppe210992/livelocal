@@ -49,6 +49,7 @@ const risolutori = {
     writeFileSync(f, `{"_nota":${JSON.stringify(online._nota ?? '')},"luoghi":[\n${lista.map((l) => JSON.stringify(l)).join(',\n')}\n]}\n`);
     return `${lista.length} luoghi`;
   },
+  'ricerca/luoghi-osm.json': (f) => { writeFileSync(f, execSync(`git show :2:${f}`, { encoding: 'utf8', maxBuffer: 300 * 1024 * 1024 })); return 'versione online'; },
   'ricerca/luoghi-elenco.json': (f) => { writeFileSync(f, execSync(`git show :2:${f}`, { encoding: 'utf8', maxBuffer: 300 * 1024 * 1024 })); return 'versione online'; },
   'ricerca/luoghi-stato.json': (f) => { const online = leggi(2, f), nostra = leggi(3, f); const unito = { ...online }; for (const [k, v] of Object.entries(nostra)) if (!unito[k] || String(v.ultima) >= String(unito[k].ultima)) unito[k] = v; scrivi(f, unito, 0); return `${Object.keys(unito).length} luoghi`; },
   'ricerca/comuni-abitanti.json': (f) => { scrivi(f, leggi(2, f), 0); return 'versione online'; },

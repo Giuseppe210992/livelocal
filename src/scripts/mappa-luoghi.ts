@@ -21,6 +21,7 @@ if (radice) avvia(radice);
 async function avvia(radice: HTMLElement) {
   const q = <T extends HTMLElement>(s: string) => radice.querySelector<T>(s)!;
   const base = radice.dataset.base ?? '/';
+  const aiuto = q('[data-aiuto]');
   const stato = q('[data-stato]'), lista = q<HTMLUListElement>('[data-lista]'), titoloLista = q('[data-titolo-lista]');
   const campo = q<HTMLInputElement>('[data-testo]'), datalist = q<HTMLDataListElement>('[data-comuni-lista]'), azzera = q<HTMLButtonElement>('[data-azzera]');
   const html = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]!));
@@ -119,7 +120,32 @@ async function avvia(radice: HTMLElement) {
     }, () => { stato.textContent = 'Non ho il permesso di usare la posizione. Scrivi il nome del tuo comune nella casella.'; }, { timeout: 15000, maximumAge: 300000 });
   });
 
+  // ---------- luoghi minori da OpenStreetMap: si caricano per regione quando la mappa si avvicina ----------
+  interface Zona { s: string; n: string; b: [number, number, number, number]; c: number }
+  let zone: Zona[] = [];
+  const caricate = new Set<string>(), inCorso = new Set<string>();
+  try { zone = (await (await fetch(radice.dataset.regioni!)).json()).r; } catch { zone = []; }
+  const totaleMinori = zone.reduce((n, z) => n + z.c, 0);
+  let timer = 0;
+  async function caricaZone() {
+    if (!zone.length) return;
+    const vista = mappa.getBounds(), avvicinata = mappa.getZoom() >= 8;
+    const daCaricare = avvicinata ? zone.filter((z) => !caricate.has(z.s) && !inCorso.has(z.s) && vista.intersects(L.latLngBounds([z.b[0], z.b[1]], [z.b[2], z.b[3]]))) : [];
+    aiuto.hidden = avvicinata || !totaleMinori || caricate.size === zone.length;
+    aiuto.textContent = `Avvicina la mappa per vedere anche altri ${totaleMinori.toLocaleString('it-IT')} luoghi minori (rovine, castelli, musei di paese).`;
+    if (!daCaricare.length) return;
+    stato.textContent = 'Carico altri luoghi della zona…';
+    await Promise.all(daCaricare.slice(0, 3).map(async (z) => {
+      inCorso.add(z.s);
+      try { const r: Riga[] = (await (await fetch(`${base}luoghi-osm/${z.s}.json`)).json()).l; dati.push(...r); caricate.add(z.s); } catch { /* si riprova al prossimo movimento */ }
+      inCorso.delete(z.s);
+    }));
+    disegna(false);
+  }
+  mappa.on('moveend', () => { clearTimeout(timer); timer = window.setTimeout(caricaZone, 350); });
+
   disegna(false);
+  caricaZone();
   // Se i luoghi sono pochi si inquadrano; con tanti luoghi si parte dall'Italia intera.
   if (dati.length && dati.length <= 12) disegna(true);
   // Con migliaia di punti la mappa parte dall'Italia intera: i punti piccoli sono i luoghi base, i grandi hanno gli orari verificati.

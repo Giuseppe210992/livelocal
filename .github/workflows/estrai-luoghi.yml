@@ -1,5 +1,5 @@
 # Legge i siti ufficiali dei luoghi da visitare (musei, aree archeologiche, castelli, palazzi) con un modello gratuito (FreeLLMAPI), senza passare da Claude.
-# 1) una volta al mese elenca da Wikidata i luoghi italiani con sito ufficiale (ricerca/luoghi-elenco.json);
+# 1) una volta al mese elenca da Wikidata i luoghi italiani con sito ufficiale (ricerca/luoghi-elenco.json) e da OpenStreetMap i luoghi storici minori (ricerca/luoghi-osm.json, solo per la mappa);
 # 2) a ogni giro legge i siti dei luoghi da controllare, estrae orari e costi con citazione delle parole esatte della pagina e scrive la scheda
 #    in src/data/luoghi-da-visitare.json SOLO se i controlli passano e il sito si costruisce senza errori. Un luogo senza orari ufficiali non si pubblica.
 # Ogni luogo si ricontrolla dopo 30 giorni. Impostazioni modificabili dalla chat: ORE_LUOGHI (ogni quante ore), LUOGHI_PER_GIRO (quanti luoghi).
@@ -65,6 +65,13 @@ jobs:
         env:
           FORZA: ${{ inputs.riscopri && '1' || '' }}
         run: node scripts/scopri-luoghi.mjs | tee scopri.txt
+      - name: Elenca i luoghi minori da OpenStreetMap (solo se l'elenco manca o ha più di 45 giorni)
+        if: steps.decide.outputs.run == 'true'
+        timeout-minutes: 110
+        continue-on-error: true
+        env:
+          FORZA: ${{ inputs.riscopri && '1' || '' }}
+        run: node scripts/scopri-luoghi-osm.mjs | tee scopri-osm.txt
       - name: Leggi i siti ufficiali ed estrai orari e costi
         if: steps.decide.outputs.run == 'true'
         env:
@@ -91,13 +98,13 @@ jobs:
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
-          git add src/data/luoghi-da-visitare.json ricerca/luoghi-elenco.json ricerca/luoghi-stato.json
+          git add src/data/luoghi-da-visitare.json ricerca/luoghi-elenco.json ricerca/luoghi-osm.json ricerca/luoghi-stato.json
           if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
           git commit -m "Luoghi da visitare (FreeLLMAPI): $(date +%F-%H%M)"
           for i in 1 2 3 4; do
             if ! git pull --rebase origin main; then
               if node scripts/risolvi-conflitto-eventi.mjs; then
-                git add src/data/luoghi-da-visitare.json ricerca/luoghi-elenco.json ricerca/luoghi-stato.json
+                git add src/data/luoghi-da-visitare.json ricerca/luoghi-elenco.json ricerca/luoghi-osm.json ricerca/luoghi-stato.json
                 GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
               else
                 git rebase --abort; sleep $((i * 5)); continue
@@ -112,5 +119,6 @@ jobs:
           echo '### Giro dei luoghi da visitare' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
           tail -30 scopri.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+          tail -30 scopri-osm.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
           tail -80 giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
