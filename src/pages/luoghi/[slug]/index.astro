@@ -34,7 +34,16 @@ const eventi = eventiVicino(l).slice(0, 5);
     {l.avviso && <p class="nota nota--avviso"><b>Da sapere.</b> {l.avviso}</p>}
 
     <dl class="dati-luogo">
-      <div><dt>Dove</dt><dd>{l.indirizzo}<br /><a href={linkMappa(l)} rel="noopener">Cerca sulla mappa</a></dd></div>
+      <div><dt>Dove</dt><dd>{l.indirizzo}
+        {!l.coordinateApprossimate ? (
+          <span class="azioni-dove">
+            <a class="bottone bottone--secondario" href={`geo:${l.lat},${l.lon}?q=${l.lat},${l.lon}(${encodeURIComponent(l.nome)})`}>Apri nell'app mappe</a>
+            <a class="bottone bottone--secondario" href={`https://www.google.com/maps/dir/?api=1&destination=${l.lat},${l.lon}`} rel="noopener">Indicazioni stradali</a>
+            <a class="bottone bottone--secondario" href={`https://www.openstreetmap.org/?mlat=${l.lat}&mlon=${l.lon}#map=17/${l.lat}/${l.lon}`} rel="noopener">OpenStreetMap</a>
+          </span>
+        ) : (
+          <span class="azioni-dove"><a href={linkMappa(l)} rel="noopener">Cerca sulla mappa</a> <small>Posizione non ancora precisa: il punto sulla mappa è il centro del paese.</small></span>
+        )}</dd></div>
       <div><dt>Orari</dt><dd>{l.orari}</dd></div>
       <div><dt>Costo</dt><dd>{l.biglietto}</dd></div>
       {l.prenotazione && <div><dt>Prenotazione</dt><dd>{l.prenotazione}</dd></div>}

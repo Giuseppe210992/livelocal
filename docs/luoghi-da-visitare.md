@@ -40,3 +40,16 @@ Musei, aree archeologiche, castelli e palazzi aperti al pubblico, con orari e co
 - Al momento della costruzione del sito si tolgono i doppioni (stesso codice Wikidata, oppure stesso nome entro circa 1 km da una scheda o da un luogo base). I luoghi minori restano **solo sulla mappa**, senza pagina propria e fuori dagli elenchi per provincia.
 - Per non appesantire la pagina la mappa li carica **per regione quando ci si avvicina** (zoom 8 o più): `/luoghi-regioni.json` (riquadri e conteggi) e `/luoghi-osm/<regione>.json`. Dove non c'è un sito, il popup rimanda alla pagina del luogo su OpenStreetMap.
 - Collaudato offline con una risposta finta di Overpass (filtri su privati e tipi, doppioni, caricamento a zone nel browser). La prima lettura vera è il primo giro dell'Action (circa un'ora per tutte le regioni).
+
+## Localizzazione precisa dei luoghi (15/11/2026, sera)
+
+- I luoghi storici sono fissi: la posizione si assegna una volta sola, non si chiede alla lettura dei siti.
+- **Schede scritte a mano**: coordinate esatte da OpenStreetMap (campo `coordFonte`): prima erano il centro del comune, anche a 3-4 km di distanza (Museo di Formia, Minturnae, Reggia di Caserta, Anfiteatro Campano, Villa di Tiberio).
+- **Luoghi da Wikidata** (96% ha già le coordinate); **luoghi senza coordinate**: `src/lib/osmGrezzi.ts` le cerca per nome nello stesso comune tra i luoghi di OpenStreetMap (soglia 0,6 di somiglianza dei nomi; fonte © contributori di OpenStreetMap, ODbL) e le usa quando le trova; altrimenti resta il centro del comune, segnato «posizione indicativa».
+- Pagina di ogni scheda con posizione esatta: pulsanti **«Apri nell'app mappe»** (indirizzo `geo:` che su Android apre l'app delle mappe), **«Indicazioni stradali»** (Google Maps) e **OpenStreetMap**; il JSON-LD ha `geo`. Senza posizione esatta: «Cerca sulla mappa» e la nota che il punto è il centro del paese.
+- Limiti: il codice ISTAT dei comuni fusi o rinominati, in Wikidata, può essere vecchio: se mancano anche le coordinate il luogo non si può collocare (2 casi su 3.418, esclusi).
+
+## Tutta Italia e poi l'Europa
+
+- Italia: Wikidata (tutta Italia, 3.418 luoghi con sito) + OpenStreetMap (le 20 regioni, in corso dal 15/11/2026) + schede complete.
+- Per allargare all'**Europa** servirebbero: (1) un parametro «paese» negli script (`scopri-luoghi.mjs`: classe e paese Wikidata al posto di Q38 e dei codici ISTAT; `scopri-luoghi-osm.mjs`: aree `ISO3166-1` e regioni `ISO3166-2` di ogni paese); (2) un elenco di località per paese al posto dei comuni ISTAT (da Geonames o dai `place=*` di OpenStreetMap) per assegnare il luogo; (3) indirizzi delle pagine con il paese (`/luoghi/zona/<paese>/<regione>/…`), mappa e file per regione già pensati a zone; (4) lingua: nomi e orari restano nella lingua del luogo, i testi del sito si traducono più avanti (Fase 3 del brief). Il lavoro più pesante è il punto 2; si fa paese per paese.

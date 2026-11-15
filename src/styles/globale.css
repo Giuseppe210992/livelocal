@@ -373,3 +373,6 @@ main li { margin-bottom: .35rem; }
 .altri-luoghi li { padding: 10px 0; border-bottom: 1px solid var(--bordo); }
 .altri-luoghi a { font-weight: 600; }
 .altri-luoghi small { display: block; color: var(--tenue); }
+
+.azioni-dove { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; align-items: center; }
+.azioni-dove .bottone { min-height: 42px; padding: 8px 14px; font-size: .9rem; }

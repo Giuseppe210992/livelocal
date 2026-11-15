@@ -1,26 +1,15 @@
 // Luoghi «minori» da OpenStreetMap (ricerca/luoghi-osm.json, generato da scripts/scopri-luoghi-osm.mjs): musei, siti archeologici,
 // castelli, rovine, monasteri, ville, porte e mura. Compaiono solo sulla mappa dei luoghi, caricati per regione quando la mappa
 // si avvicina (così la pagina resta leggera). Si tolgono i doppioni con le schede e con i luoghi base di Wikidata.
-import { readFileSync, existsSync } from 'node:fs';
+import { osmGrezzi, simili } from './osmGrezzi';
 import { comune, provincia, regione, comuni, regioni } from './luoghi';
 import type { Regione } from './luoghi';
 import { luoghi, luoghiBase } from './luoghiDaVisitare';
 
 export interface LuogoOsm { id: string; nome: string; tipo: string; comuneNome: string; sigla: string; lat: number; lon: number; sito: string; regioneSlug: string }
 const TIPO: Record<string, string> = { 'Museo': 'Museo', 'Area archeologica': 'Area archeologica', 'Castello': 'Castello', 'Chiesa e abbazia': 'Chiesa e abbazia', 'Palazzo e villa': 'Palazzo e villa' };
-const norm = (t: string) => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
-const parole = (t: string) => new Set(norm(t).split(' ').filter((p) => p.length >= 4));
-const simili = (a: string, b: string) => {
-  const x = parole(a), y = parole(b);
-  if (!x.size || !y.size) return norm(a) === norm(b);
-  let comuni = 0; for (const p of x) if (y.has(p)) comuni++;
-  return comuni / Math.min(x.size, y.size) >= 0.5;
-};
-
 function carica(): LuogoOsm[] {
-  const file = 'ricerca/luoghi-osm.json';
-  if (!existsSync(file)) return [];
-  const elenco: { id: string; nome: string; classe: string; comune: string; lat: number; lon: number; sito?: string; wikidata?: string }[] = JSON.parse(readFileSync(file, 'utf8')).luoghi ?? [];
+  const elenco = osmGrezzi;
   // indice spaziale dei luoghi già presenti (celle di circa 1 km)
   const cella = (lat: number, lon: number) => `${Math.round(lat * 100)}:${Math.round(lon * 100)}`;
   const presenti = new Map<string, string[]>();

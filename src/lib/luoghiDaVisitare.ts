@@ -5,15 +5,16 @@ import { comune, provincia, regione, comuni } from './luoghi';
 import type { Comune, Provincia, Regione } from './luoghi';
 import { eventiDelComune, prossimi } from './eventi';
 import { readFileSync, existsSync } from 'node:fs';
+import { cercaCoordinate, normNome as normNomeOsm } from './osmGrezzi';
 
 export interface LuogoGrezzo {
   slug: string; nome: string; tipo: string; comune: string; indirizzo: string; descrizione: string;
   orari: string; biglietto: string; prenotazione?: string; avviso?: string; sito: string;
-  fonte: { nome: string; url: string }; verificato: string; lat?: number; lon?: number;
+  fonte: { nome: string; url: string }; verificato: string; lat?: number; lon?: number; coordFonte?: string;
 }
 export interface LuogoDaVisitare extends LuogoGrezzo {
   percorso: string; comuneDati: Comune; provinciaDati: Provincia; regioneDati: Regione;
-  lat: number; lon: number; coordinateApprossimate: boolean; gratuito: boolean | null;
+  lat: number; lon: number; coordinateApprossimate: boolean; gratuito: boolean | null; coordFonte?: string;
 }
 
 export const percorsoLuogo = (slug: string) => `/luoghi/${slug}/`;
@@ -24,10 +25,12 @@ export const luoghi: LuogoDaVisitare[] = (dati.luoghi as LuogoGrezzo[]).map((l) 
   if (!c) throw new Error(`Luogo «${l.nome}»: comune ${l.comune} non trovato`);
   if (!/^https?:\/\//.test(l.fonte.url) || !/^https?:\/\//.test(l.sito)) throw new Error(`Luogo «${l.nome}»: fonte o sito non validi`);
   const p = provincia(c.provincia);
-  const preciso = Number.isFinite(l.lat) && Number.isFinite(l.lon);
+  let preciso = Number.isFinite(l.lat) && Number.isFinite(l.lon);
+  let lat = preciso ? (l.lat as number) : c.lat, lon = preciso ? (l.lon as number) : c.lon, coordFonte = l.coordFonte;
+  if (!preciso) { const o = cercaCoordinate(l.nome, c.codiceIstat); if (o) { lat = o.lat; lon = o.lon; preciso = true; coordFonte = 'OpenStreetMap'; } }
   return {
-    ...l, percorso: percorsoLuogo(l.slug), comuneDati: c, provinciaDati: p, regioneDati: regione(p.regione),
-    lat: preciso ? (l.lat as number) : c.lat, lon: preciso ? (l.lon as number) : c.lon, coordinateApprossimate: !preciso,
+    ...l, percorso: percorsoLuogo(l.slug), comuneDati: c, provinciaDati: p, regioneDati: regione(p.regione), coordFonte,
+    lat, lon, coordinateApprossimate: !preciso,
     gratuito: /^(gratuit|ingresso libero)/i.test(l.biglietto) ? true : null,
   };
 }).sort((a, b) => a.nome.localeCompare(b.nome, 'it'));
@@ -58,8 +61,10 @@ function caricaBase(): LuogoBase[] {
     if (chiavi.has(chiave)) continue;
     chiavi.add(chiave);
     const p = provincia(c.provincia);
-    const preciso = Number.isFinite(e.lat) && Number.isFinite(e.lon);
-    out.push({ id: e.id, nome: e.nome.trim(), tipo: TIPO_BASE[e.classe] ?? 'Monumento', comuneDati: c, provinciaDati: p, regioneDati: regione(p.regione), lat: preciso ? (e.lat as number) : c.lat, lon: preciso ? (e.lon as number) : c.lon, coordinateApprossimate: !preciso, sito: e.sito });
+    let preciso = Number.isFinite(e.lat) && Number.isFinite(e.lon);
+    let lat = preciso ? (e.lat as number) : c.lat, lon = preciso ? (e.lon as number) : c.lon;
+    if (!preciso) { const o = cercaCoordinate(e.nome, c.codiceIstat); if (o) { lat = o.lat; lon = o.lon; preciso = true; } }
+    out.push({ id: e.id, nome: e.nome.trim(), tipo: TIPO_BASE[e.classe] ?? 'Monumento', comuneDati: c, provinciaDati: p, regioneDati: regione(p.regione), lat, lon, coordinateApprossimate: !preciso, sito: e.sito });
   }
   return out.sort((a, b) => a.comuneDati.nome.localeCompare(b.comuneDati.nome, 'it') || a.nome.localeCompare(b.nome, 'it'));
 }
