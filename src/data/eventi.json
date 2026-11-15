@@ -213736,5 +213736,237 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rewind-x-prepost-lovere-lovere",
+    "titolo": "Rewind x Prepost Lovere",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Prepost",
+    "indirizzo": "Via Guglielmo Marconi 57",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.821496,
+    "lon": 10.079777,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dance al Prepost di Lovere con DJ set di Frank Van Janeck. Musica ed energia per ballare tutta la notte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Prepost",
+    "fonti": [
+      {
+        "nome": "Prepost",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfox3zUuFF1",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sigghi-dj-set-sassuolo",
+    "titolo": "SIGGHI DJ Set",
+    "categoria": "concerto",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Garibaldino",
+    "indirizzo": "Piazza Garibaldi 48",
+    "cap": null,
+    "comune": "036040",
+    "frazione": null,
+    "lat": 44.54061,
+    "lon": 10.782977,
+    "coordinateApprossimate": false,
+    "descrizione": "La domenica del Garibaldino ha il suo ritmo! SIGGHI DJ Set, musica, cocktail e vibrazioni giuste per chiudere il weekend in compagnia. Aperitivo, street food e buona musica nel cuore di Sassuolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Garibaldino",
+    "fonti": [
+      {
+        "nome": "Garibaldino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfkmWm-sctw",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tartufando-2026-genova",
+    "titolo": "Tartufando 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Mentelocale",
+    "indirizzo": "Piazza Matteotti 5",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.407612,
+    "lon": 8.933223,
+    "coordinateApprossimate": false,
+    "descrizione": "Festival del tartufo a Genova con mercatino al Piano di Sant'Andrea e laboratori di ricerca, aperto al pubblico, parte della undicesima edizione di Tartufando 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mentelocale",
+    "fonti": [
+      {
+        "nome": "Mentelocale",
+        "tipo": "organizzatore",
+        "url": "https://www.mentelocale.it/genova/146476-tartufando-2026-a-genova-il-programma-tra-mercatino-e-men-a-tema-nei-locali.htm",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-al-mulino-beer-banti-canegrate",
+    "titolo": "Natale al Mulino Beer-Banti",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-25T12:00",
+    "fine": null,
+    "luogo": "Beer Banti",
+    "indirizzo": "Via Mulino Galletto 8",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.580324,
+    "lon": 8.93296,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento di Natale al Beer-Banti di Canegrate con menù speciale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Beer Banti",
+    "fonti": [
+      {
+        "nome": "Beer Banti",
+        "tipo": "organizzatore",
+        "url": "https://www.mulinobeerbanti.it/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nidaba-aperitivo-live-ibla-milano",
+    "titolo": "NIDABA APERITIVO LIVE – IBLA",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T17:30",
+    "fine": "2026-11-21T19:30",
+    "luogo": "Nidaba Theatre",
+    "indirizzo": "Via Emilio Gola 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.448978,
+    "lon": 9.175648,
+    "coordinateApprossimate": false,
+    "descrizione": "Un aperitivo live con l’artista IBLA, che porta sul palco un mix di folk mediterraneo e canzoni d’autore. L’evento si svolge al Nidaba Theatre, con ingresso gratuito e prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nidaba Theatre",
+    "fonti": [
+      {
+        "nome": "Nidaba Theatre",
+        "tipo": "organizzatore",
+        "url": "https://nidaba.it/nidaba-aperitivo-live-ibla",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperitivo-marocchino-henne-torino",
+    "titolo": "Aperitivo Marocchino & Hennè",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-16T18:30",
+    "fine": "2026-11-16T21:30",
+    "luogo": "Nurah Café",
+    "indirizzo": "Via Sant'Agostino 23/c",
+    "cap": null,
+    "comune": "001272",
+    "frazione": null,
+    "lat": 45.075555,
+    "lon": 7.68047,
+    "coordinateApprossimate": false,
+    "descrizione": "Aperitivo marocchino con babaganoush, hummus, pane arabo e patate, accompagnato da un’esperienza di henné artistica. Organizzato dalla community WeRoad, si svolge al Nurah Café, Torino, il 16 novembre dalle 18:30 alle 21:30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nurah Café",
+    "fonti": [
+      {
+        "nome": "Nurah Café",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfdJGGURZ2P",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "roeno-una-serata-cinque-vini-una-storia-da-scoprire-imola",
+    "titolo": "Roeno: una serata, cinque vini, una storia da scoprire",
+    "categoria": "sagra",
+    "inizio": "2026-11-19T20:15",
+    "fine": null,
+    "luogo": "Caffè Bologna",
+    "indirizzo": "Via Emilia 206",
+    "cap": null,
+    "comune": "037032",
+    "frazione": null,
+    "lat": 44.353187,
+    "lon": 11.714958,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di degustazione guidata con Cantina Roeno: cinque etichette in assaggio abbinate a un percorso gastronomico con gnocchi verdi in crema di formaggio, arrosto di maiale con patate e salame di cioccolato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 48
+    },
+    "prenotazione": null,
+    "organizzatore": "Caffè Bologna",
+    "fonti": [
+      {
+        "nome": "Caffè Bologna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfh0IdVoYnt",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
   }
 ]
