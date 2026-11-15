@@ -308,3 +308,14 @@ main li { margin-bottom: .35rem; }
 .nota-errori { font-size: .85rem; color: var(--tenue); margin: 4px 0 12px; }
 .piede__avviso { font-size: .9rem; }
 .collegamento { background: none; border: 0; padding: 0; font: inherit; color: var(--mare); text-decoration: underline; cursor: pointer; }
+
+/* ---- Luoghi da visitare ---- */
+.sottotitolo { font-size: 1.05rem; margin: 18px 0 8px; color: var(--tenue); font-weight: 700; }
+.scheda--luogo { display: block; }
+.dati-luogo { margin: 18px 0; background: var(--carta); border: 1px solid var(--bordo); border-radius: var(--raggio); box-shadow: var(--ombra); }
+.dati-luogo > div { padding: 14px 16px; border-top: 1px solid var(--bordo); }
+.dati-luogo > div:first-child { border-top: 0; }
+.dati-luogo dt { font-size: .8rem; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; color: var(--tenue); margin-bottom: 4px; }
+.dati-luogo dd { margin: 0; line-height: 1.5; }
+.fonte-luogo { font-size: .88rem; color: var(--tenue); }
+.nota--avviso { background: var(--sole-tenue); border-color: var(--sole); }

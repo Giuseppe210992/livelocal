@@ -65,6 +65,7 @@ const immagineOg = urlAssoluto(immagine);
           <a href={href('/oggi/')}>Oggi</a>
           <a href={href('/domani/')}>Domani</a>
           <a href={href('/weekend/')}>Weekend</a>
+          <a href={href('/luoghi/')}>Luoghi</a>
           <a href={href('/mappa/')}>Mappa</a>
           <a href={href('/vicino-a-me/')}>Vicino a me</a>
         </nav>
@@ -80,6 +81,7 @@ const immagineOg = urlAssoluto(immagine);
         <p class="piede__avviso"><b>Possono esserci errori.</b> Le informazioni arrivano da fonti pubbliche e da chi organizza e possono essere incomplete o cambiare: prima di partire controlla sempre con chi organizza.</p>
         <p class="piede__slogan"><b>{SITO.nome}</b> · {SITO.slogan}. Calendario gratuito, senza pubblicità e senza tracciamento.</p>
         <p class="piede__dati">
+          <a href={href('/luoghi/')}>Luoghi da visitare</a>{' · '}
           <a href={href('/segnala/')}>Segnala un evento</a>{' · '}
           <a href={href('/privacy/')}>Privacy</a>
         </p>

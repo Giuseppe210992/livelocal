@@ -1,0 +1,57 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Briciole from '../../../components/Briciole.astro';
+import SchedaEvento from '../../../components/SchedaEvento.astro';
+import { luoghi, eventiVicino, linkMappa } from '../../../lib/luoghiDaVisitare';
+import type { LuogoDaVisitare } from '../../../lib/luoghiDaVisitare';
+import { percorsoComune } from '../../../lib/luoghi';
+import { jsonLdBriciole, jsonLdLuogo } from '../../../lib/jsonld';
+import { dataSemplice } from '../../../lib/date';
+import { riassunto } from '../../../lib/eventi';
+import { SITO, href } from '../../../lib/sito';
+
+export function getStaticPaths() {
+  return luoghi.map((l) => ({ params: { slug: l.slug }, props: { l } }));
+}
+const { l } = Astro.props as { l: LuogoDaVisitare };
+const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: l.nome, percorso: l.percorso }];
+const eventi = eventiVicino(l).slice(0, 5);
+---
+<Base
+  titolo={`${l.nome}: orari e biglietti | ${SITO.nome}`}
+  descrizione={riassunto(`${l.nome} a ${l.comuneDati.nome} (${l.provinciaDati.sigla}): orari, costo del biglietto e come arrivare, da fonti ufficiali. ${l.descrizione}`, 158)}
+  percorso={l.percorso}
+  jsonLd={[jsonLdLuogo(l), jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <article>
+    <header class="apertura">
+      <p class="apertura__sopra">{l.tipo} · {l.comuneDati.nome} ({l.provinciaDati.sigla})</p>
+      <h1>{l.nome}</h1>
+      <p class="apertura__testo">{l.descrizione}</p>
+    </header>
+
+    {l.avviso && <p class="nota nota--avviso"><b>Da sapere.</b> {l.avviso}</p>}
+
+    <dl class="dati-luogo">
+      <div><dt>Dove</dt><dd>{l.indirizzo}<br /><a href={linkMappa(l)} rel="noopener">Cerca sulla mappa</a></dd></div>
+      <div><dt>Orari</dt><dd>{l.orari}</dd></div>
+      <div><dt>Costo</dt><dd>{l.biglietto}</dd></div>
+      {l.prenotazione && <div><dt>Prenotazione</dt><dd>{l.prenotazione}</dd></div>}
+    </dl>
+
+    <p class="fonte-luogo">
+      Informazioni prese da <a href={l.fonte.url} rel="noopener">{l.fonte.nome}</a> e controllate il {dataSemplice(l.verificato)}.
+      <a href={l.sito} rel="noopener">Sito ufficiale</a>. Orari e prezzi possono cambiare: prima di partire controllali sul sito ufficiale.
+    </p>
+
+    {eventi.length > 0 && (
+      <section aria-labelledby="titolo-eventi-luogo">
+        <h2 id="titolo-eventi-luogo">Eventi in programma a {l.comuneDati.nome}</h2>
+        <ul class="elenco">{eventi.map((e) => <SchedaEvento evento={e} mostraLocalita={false} />)}</ul>
+        <p><a class="bottone bottone--secondario" href={href(percorsoComune(l.comuneDati))}>Tutti gli eventi a {l.comuneDati.nome}</a></p>
+      </section>
+    )}
+    <p><a href={href('/luoghi/')}>← Tutti i luoghi da visitare</a></p>
+  </article>
+</Base>

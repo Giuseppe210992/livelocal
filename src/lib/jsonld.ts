@@ -122,3 +122,23 @@ function sitoOrganizzatore(e: Evento): string | null {
   }
   return null;
 }
+
+/** Luogo da visitare: museo, area archeologica, castello… (schema.org Museum / TouristAttraction). */
+export function jsonLdLuogo(l: import('./luoghiDaVisitare').LuogoDaVisitare) {
+  const url = urlAssoluto(l.percorso);
+  const museo = /^museo/i.test(l.tipo) || /museo/i.test(l.nome);
+  return {
+    '@context': 'https://schema.org',
+    '@type': museo ? ['Museum', 'TouristAttraction'] : 'TouristAttraction',
+    '@id': `${url}#luogo`,
+    name: l.nome,
+    description: l.descrizione,
+    url,
+    sameAs: [l.sito],
+    inLanguage: SITO.lingua,
+    publicAccess: true,
+    address: { '@type': 'PostalAddress', streetAddress: l.indirizzo, addressLocality: l.comuneDati.nome, addressRegion: l.provinciaDati.sigla, addressCountry: 'IT' },
+    ...(l.coordinateApprossimate ? {} : { geo: { '@type': 'GeoCoordinates', latitude: l.lat, longitude: l.lon } }),
+    ...(l.gratuito === true ? { isAccessibleForFree: true } : {}),
+  };
+}

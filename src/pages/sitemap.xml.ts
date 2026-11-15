@@ -4,6 +4,7 @@ import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eve
 import type { Evento } from '../lib/eventi';
 import { province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from '../lib/luoghi';
 import { urlAssoluto } from '../lib/sito';
+import { luoghi } from '../lib/luoghiDaVisitare';
 
 // Data dell'ultima modifica: l'evento inserito più di recente in quella pagina.
 const ultima = (lista: Evento[]) => lista.map((e) => e.inserito).sort().at(-1);
@@ -16,6 +17,8 @@ export const GET: APIRoute = () => {
     { percorso: '/weekend/' },
     { percorso: '/mappa/', lastmod: ultima(eventi) },
     { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
+    { percorso: '/luoghi/', lastmod: luoghi.map((l) => l.verificato).sort().at(-1) },
+    ...luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato })),
     { percorso: '/segnala/' },
     { percorso: '/segnala/modulo/' },
     { percorso: '/privacy/' },

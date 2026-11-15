@@ -1,0 +1,80 @@
+{
+  "_nota": "Luoghi storici e culturali visitabili (musei, aree archeologiche, castelli, palazzi). Ogni scheda ha la fonte ufficiale e la data in cui è stata controllata. Descrizioni scritte con parole nostre; orari e prezzi riportati come li scrive la fonte ufficiale (mai dedotti). Coordinate: se mancano si usa il centro del comune (coordinateApprossimate). Le schede si aggiungono a mano o con scripts/ (vedi docs/luoghi-da-visitare.md).",
+  "luoghi": [
+    {
+      "slug": "parco-archeologico-di-minturnae",
+      "nome": "Parco archeologico di Minturnae e Ponte Real Ferdinando",
+      "tipo": "Area archeologica",
+      "comune": "059014",
+      "indirizzo": "Via Ferdinando II di Borbone, s.n.c., 04026 Minturno (LT)",
+      "descrizione": "I resti della città romana di Minturnae, sulla via Appia, lungo il fiume Garigliano: foro, teatro, mercato e case. Nel teatro c'è l'Antiquarium, con le statue e le iscrizioni trovate negli scavi. Vicino si visita anche il Ponte Real Ferdinando.",
+      "orari": "Area archeologica: 8.30-19.00 (orario estivo), 8.30-16.00 (orario invernale). La guida ufficiale indica l'apertura da mercoledì a domenica.",
+      "biglietto": "Intero € 5, ridotto € 2. Biglietto integrato con il Museo archeologico nazionale «G.F. Carettoni» e l'area archeologica di Casinum (Cassino): € 8, valido 30 giorni.",
+      "prenotazione": "Non richiesta",
+      "avviso": "La scheda ufficiale non indica con chiarezza i giorni di apertura: prima di partire controlla giorni e orari sul sito della Direzione regionale Musei nazionali Lazio.",
+      "sito": "https://direzioneregionalemuseilazio.cultura.gov.it/luoghi/comprensorio-archeologico-e-antiquarium-di-minturnae-e-ponte-real-ferdinando/",
+      "fonte": { "nome": "Ministero della Cultura, scheda del luogo", "url": "https://cultura.gov.it/luogo/comprensorio-archeologico-e-antiquarium-di-minturnae-e-ponte-real-ferdinando" },
+      "verificato": "2026-11-15"
+    },
+    {
+      "slug": "museo-archeologico-nazionale-di-formia",
+      "nome": "Museo archeologico nazionale di Formia",
+      "tipo": "Museo",
+      "comune": "059008",
+      "indirizzo": "Via Vitruvio 184, 04023 Formia (LT)",
+      "descrizione": "Museo statale in un'ala del palazzo municipale, chiamata «Stalloni dei Borboni». Raccoglie soprattutto statue onorarie di epoca romana (fra il I secolo a.C. e il I secolo d.C.), elementi architettonici e reperti funerari che decoravano le ville affacciate sul mare.",
+      "orari": "Martedì, venerdì, sabato e domenica 8.30-19.30 (ultimo ingresso 19.00). Chiuso lunedì, mercoledì e giovedì. Ingresso a gruppi di 20 persone, guida esclusa.",
+      "biglietto": "Intero € 5, ridotto € 2. Biglietto integrato con il Museo e l'area archeologica di Sperlonga: € 10, valido 30 giorni.",
+      "prenotazione": "Non indicata",
+      "avviso": "La scheda ufficiale riporta una chiusura straordinaria dal 16 giugno al 1° settembre 2026: la data è già passata, ma controlla sul sito ufficiale prima di partire.",
+      "sito": "https://direzioneregionalemuseilazio.cultura.gov.it/luoghi/museo-archeologico-nazionale-di-formia/",
+      "fonte": { "nome": "Ministero della Cultura, scheda del luogo", "url": "https://cultura.gov.it/luogo/museo-archeologico-nazionale-di-formia" },
+      "verificato": "2026-11-15"
+    },
+    {
+      "slug": "museo-archeologico-nazionale-e-villa-di-tiberio-sperlonga",
+      "nome": "Museo archeologico e Villa di Tiberio",
+      "tipo": "Museo e area archeologica",
+      "comune": "059030",
+      "indirizzo": "Via Flacca km 16,300, Sperlonga (LT), ingresso da Via Valle Corsara",
+      "descrizione": "Il museo conserva i grandi gruppi scultorei trovati nella grotta della villa dell'imperatore Tiberio. Accanto al museo si visitano i resti della villa, sul mare.",
+      "orari": "Museo: 8.30-19.30 (ultimo ingresso 19.00). Chiuso il lunedì e il 1° gennaio.",
+      "biglietto": "Biglietto integrato con il Museo archeologico nazionale di Formia: € 10, valido 30 giorni. Ridotto € 2 per i giovani fra 18 e 25 anni. Il prezzo del biglietto intero singolo è sul sito ufficiale.",
+      "prenotazione": "Non indicata",
+      "avviso": "Controlla sul sito ufficiale eventuali altre chiusure festive e il prezzo del biglietto intero.",
+      "sito": "https://direzioneregionalemuseilazio.cultura.gov.it/luoghi/museo-archeologico-nazionale-e-area-archeologica-di-sperlonga/",
+      "fonte": { "nome": "Direzione regionale Musei nazionali Lazio, scheda del luogo", "url": "https://direzioneregionalemuseilazio.cultura.gov.it/luoghi/museo-archeologico-nazionale-e-area-archeologica-di-sperlonga/" },
+      "verificato": "2026-11-15"
+    },
+    {
+      "slug": "reggia-di-caserta",
+      "nome": "Reggia di Caserta",
+      "tipo": "Reggia e parco",
+      "comune": "061022",
+      "indirizzo": "Piazza Carlo di Borbone (ingresso e biglietteria), Caserta (CE)",
+      "descrizione": "Il grande palazzo reale di Luigi Vanvitelli, con gli Appartamenti Reali, la Cappella Palatina e il Teatro di Corte, e un grande parco con il Bosco Vecchio, la Via d'Acqua e il Giardino Inglese.",
+      "orari": "Chiusa ordinariamente il martedì e il 25 dicembre; ultimo accesso dal cancello centrale alle 18. Da aprile a settembre: Appartamenti Reali 8.30-19.15 (ultimo ingresso 18.15), Parco Reale (Bosco Vecchio e Via d'Acqua) 8.30-19.00, Giardino Inglese 8.30-18.00. Negli altri mesi gli orari sono più brevi: la tabella mese per mese è sul sito ufficiale.",
+      "biglietto": "Appartamenti Reali + Parco e Giardino Inglese: € 18 (più € 1 di prevendita online). Giovani 18-24 anni: € 2. Minori di 18 anni: gratis. Domenica al Museo e giornate di gratuità: gratis, con alcune aree chiuse. Le altre formule (solo Parco, solo Appartamenti, serale) sono elencate sulla pagina ufficiale dei biglietti.",
+      "prenotazione": "Biglietti online su TicketOne (rivenditore autorizzato) o alla biglietteria in piazza Carlo di Borbone",
+      "avviso": "In caso di poco personale una parte del percorso può essere chiusa. Con lo stesso biglietto non si può uscire e rientrare.",
+      "sito": "https://reggiadicaserta.cultura.gov.it/orari/",
+      "fonte": { "nome": "Reggia di Caserta, pagine ufficiali «Orari» e «Biglietti»", "url": "https://reggiadicaserta.cultura.gov.it/biglietti/" },
+      "verificato": "2026-11-15"
+    },
+    {
+      "slug": "anfiteatro-campano-santa-maria-capua-vetere",
+      "nome": "Anfiteatro Campano di Santa Maria Capua Vetere",
+      "tipo": "Area archeologica",
+      "comune": "061083",
+      "indirizzo": "Piazza I Ottobre, Santa Maria Capua Vetere (CE)",
+      "descrizione": "Uno dei più grandi anfiteatri romani, secondo per dimensioni solo al Colosseo: ospitava fino a 60.000 spettatori ed è collegato alla storia dei gladiatori di Capua. Nel percorso ci sono i sotterranei, l'anfiteatro repubblicano e il Museo dei Gladiatori.",
+      "orari": "Chiuso il lunedì. Orari mese per mese (con ultimo ingresso un'ora prima): gennaio 9.00-16.50, febbraio 9.00-17.30, marzo 9.00-18.00, aprile 9.00-18.50, maggio-agosto 9.00-19.30, settembre 9.00-19.00, ottobre 9.00-18.00, novembre 9.00-17.00, dicembre 9.00-16.40.",
+      "biglietto": "Ordinario € 6 dal 2 febbraio 2026 (prezzo ridotto per il circuito dell'antica Capua, finché il Museo archeologico è chiuso per lavori); € 2 per i giovani fra 18 e 25 anni. Si compra online sul sito o sull'app «Musei Italiani», oppure ai distributori automatici (carta o bancomat) all'ingresso: non c'è biglietteria con personale.",
+      "prenotazione": "Facoltativa. Il Mitreo si visita solo su prenotazione, a piccoli gruppi.",
+      "avviso": "Il Museo archeologico nazionale dell'antica Capua è temporaneamente chiuso per lavori dal 2 febbraio 2026.",
+      "sito": "https://cultura.gov.it/luogo/anfiteatro-campano",
+      "fonte": { "nome": "Ministero della Cultura, scheda del luogo", "url": "https://cultura.gov.it/luogo/anfiteatro-campano" },
+      "verificato": "2026-11-15"
+    }
+  ]
+}

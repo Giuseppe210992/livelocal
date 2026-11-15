@@ -1,0 +1,14 @@
+---
+// Una riga dell'elenco dei luoghi da visitare: nome, tipo, dove e un assaggio di orari.
+import type { LuogoDaVisitare } from '../lib/luoghiDaVisitare';
+import { href } from '../lib/sito';
+interface Props { luogo: LuogoDaVisitare }
+const { luogo: l } = Astro.props;
+---
+<li class="scheda scheda--luogo">
+  <div>
+    <span class="scheda__categoria">{l.tipo}</span>
+    <h3 class="scheda__titolo"><a href={href(l.percorso)}>{l.nome}</a></h3>
+    <p class="scheda__info">{l.comuneDati.nome} ({l.provinciaDati.sigla}) · {l.orari.length > 110 ? l.orari.slice(0, l.orari.lastIndexOf(' ', 110)) + '…' : l.orari}</p>
+  </div>
+</li>
