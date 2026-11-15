@@ -204836,5 +204836,91 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-scavi-archeologici-teatro-romano-palazzo-vecchio-firenze-2026-11-21",
+    "titolo": "Visita agli scavi archeologici di Palazzo Vecchio e al teatro romano",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T12:00",
+    "luogo": "Palazzo Vecchio",
+    "indirizzo": "Firenze",
+    "comune": "048017",
+    "lat": 43.78013,
+    "lon": 11.24501,
+    "coordinateApprossimate": true,
+    "descrizione": "Riaprono dopo cinque anni le visite guidate agli scavi archeologici sotto Palazzo Vecchio, con i resti del teatro romano di Florentia. Ogni sabato e domenica alle 12 e alle 12:45, gruppi di massimo 15 persone, prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Musei Civici Fiorentini e Fondazione MUS.E",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Firenze",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfusTLMgXA6/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-scavi-archeologici-teatro-romano-palazzo-vecchio-firenze-2026-11-22",
+    "titolo": "Visita agli scavi archeologici di Palazzo Vecchio e al teatro romano",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T12:00",
+    "luogo": "Palazzo Vecchio",
+    "indirizzo": "Firenze",
+    "comune": "048017",
+    "lat": 43.78013,
+    "lon": 11.24501,
+    "coordinateApprossimate": true,
+    "descrizione": "Riaprono dopo cinque anni le visite guidate agli scavi archeologici sotto Palazzo Vecchio, con i resti del teatro romano di Florentia. Ogni sabato e domenica alle 12 e alle 12:45, gruppi di massimo 15 persone, prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Musei Civici Fiorentini e Fondazione MUS.E",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Firenze",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfusTLMgXA6/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-postino-presentato-da-roberto-perpignani-cinema-modernissimo-bologna-2026-11-22",
+    "titolo": "Il postino di Michael Radford, presentato da Roberto Perpignani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T10:30",
+    "luogo": "Cinema Modernissimo",
+    "indirizzo": "Bologna",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione speciale del film «Il postino» (1994), presentata dall’ospite Roberto Perpignani nell’ambito del festival Visioni Italiane. Biglietto per gli eventi speciali o accredito del festival.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dft6Z7JmSHN/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
