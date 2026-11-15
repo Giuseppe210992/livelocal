@@ -2,12 +2,14 @@
 import Base from '../../layouts/Base.astro';
 import Briciole from '../../components/Briciole.astro';
 import SchedaLuogo from '../../components/SchedaLuogo.astro';
-import { luoghi, regioniConLuoghi, provinceConLuoghi, luoghiDellaProvincia } from '../../lib/luoghiDaVisitare';
+import Pastiglia from '../../components/Pastiglia.astro';
+import { luoghi, regioniConLuoghi, provinceConLuoghi, luoghiDellaProvincia, percorsoZona } from '../../lib/luoghiDaVisitare';
 import { nomeProvincia } from '../../lib/luoghi';
 import { jsonLdBriciole } from '../../lib/jsonld';
 import { SITO, href } from '../../lib/sito';
 
 const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }];
+const TANTI = 40; // oltre questa soglia l'elenco si divide per provincia
 ---
 <Base
   titolo={`Luoghi da visitare: musei, aree archeologiche e monumenti | ${SITO.nome}`}
@@ -22,15 +24,22 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }];
     <p class="apertura__testo">Musei, aree archeologiche, castelli e palazzi aperti al pubblico. Per ognuno trovi dove si trova, gli orari e il costo del biglietto, copiati dal sito ufficiale, con la data in cui li abbiamo controllati.</p>
   </section>
 
-  {regioniConLuoghi().map((r) => (
+  {luoghi.length <= TANTI ? regioniConLuoghi().map((r) => (
     <>
       <h2 class="titoletto">{r.nome}</h2>
       {provinceConLuoghi(r).map((p) => (
         <section aria-labelledby={`prov-${p.slug}`}>
-          <h3 id={`prov-${p.slug}`} class="sottotitolo">{nomeProvincia(p)}</h3>
+          <h3 id={`prov-${p.slug}`} class="sottotitolo"><a href={href(percorsoZona(p))}>{nomeProvincia(p)}</a></h3>
           <ul class="elenco">{luoghiDellaProvincia(p).map((l) => <SchedaLuogo luogo={l} />)}</ul>
         </section>
       ))}
+    </>
+  )) : regioniConLuoghi().map((r) => (
+    <>
+      <h2 class="titoletto">{r.nome} <small>{luoghi.filter((l) => l.regioneDati.codiceIstat === r.codiceIstat).length} luoghi</small></h2>
+      <ul class="pastiglie" aria-label={`Province: ${r.nome}`}>
+        {provinceConLuoghi(r).map((p) => <Pastiglia nome={p.nome} percorso={percorsoZona(p)} conteggio={luoghiDellaProvincia(p).length} />)}
+      </ul>
     </>
   ))}
 

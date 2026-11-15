@@ -16,6 +16,7 @@ export interface LuogoDaVisitare extends LuogoGrezzo {
 }
 
 export const percorsoLuogo = (slug: string) => `/luoghi/${slug}/`;
+export const percorsoZona = (p: Provincia) => `/luoghi/zona/${regione(p.regione).slug}/${p.slug}/`;
 
 export const luoghi: LuogoDaVisitare[] = (dati.luoghi as LuogoGrezzo[]).map((l) => {
   const c = comune(l.comune);

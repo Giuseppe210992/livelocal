@@ -1,0 +1,30 @@
+---
+import Base from '../../../../../layouts/Base.astro';
+import Briciole from '../../../../../components/Briciole.astro';
+import SchedaLuogo from '../../../../../components/SchedaLuogo.astro';
+import { luoghi, luoghiDellaProvincia, provinceConLuoghi, regioniConLuoghi, percorsoZona } from '../../../../../lib/luoghiDaVisitare';
+import { nomeProvincia, inProvincia } from '../../../../../lib/luoghi';
+import { jsonLdBriciole } from '../../../../../lib/jsonld';
+import { SITO } from '../../../../../lib/sito';
+
+export function getStaticPaths() {
+  return regioniConLuoghi().flatMap((r) => provinceConLuoghi(r).map((p) => ({ params: { regione: r.slug, provincia: p.slug }, props: { p, r } })));
+}
+const { p, r } = Astro.props;
+const lista = luoghiDellaProvincia(p);
+const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: nomeProvincia(p), percorso: percorsoZona(p) }];
+---
+<Base
+  titolo={`Luoghi da visitare ${inProvincia(p)}: musei e monumenti | ${SITO.nome}`}
+  descrizione={`${lista.length} luoghi storici e culturali ${inProvincia(p)} (${r.nome}), con orari e prezzi presi da fonti ufficiali e la data dell'ultimo controllo.`}
+  percorso={percorsoZona(p)}
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <p class="apertura__sopra">{r.nome} · {nomeProvincia(p)}</p>
+    <h1>Luoghi da visitare {inProvincia(p)}</h1>
+    <p class="apertura__testo">{lista.length} luoghi con orari e costi presi dai siti ufficiali.</p>
+  </section>
+  <ul class="elenco">{lista.map((l) => <SchedaLuogo luogo={l} />)}</ul>
+</Base>

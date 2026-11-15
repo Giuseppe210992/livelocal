@@ -9,3 +9,14 @@ Musei, aree archeologiche, castelli e palazzi aperti al pubblico, con orari e co
 - Pagine: `/luoghi/` (elenco per regione e provincia) e `/luoghi/<slug>/` (scheda, con JSON-LD `Museum`/`TouristAttraction` e gli eventi in programma nello stesso comune).
 - Primo gruppo (15/11/2026): Minturnae, Museo di Formia, Museo e Villa di Tiberio a Sperlonga, Reggia di Caserta, Anfiteatro Campano.
 - Da fare: allargare il censimento (le schede ufficiali del Ministero sono migliaia: si possono leggere a gruppi), ricontrollare orari e prezzi ogni 30 giorni.
+
+## Lettura automatica con FreeLLMAPI (15/11/2026)
+
+- `scripts/scopri-luoghi.mjs` elenca da Wikidata (CC0) musei, aree archeologiche, castelli, palazzi e cattedrali italiani con sito ufficiale (`ricerca/luoghi-elenco.json`, rifatto ogni 30 giorni, riprende da dove era arrivato se si interrompe).
+- `scripts/estrai-luoghi-ia.mjs` apre il sito di ogni luogo (rispettando `robots.txt`) e le pagine «orari/biglietti/visita» (massimo 3), le manda al modello e accetta la scheda **solo** se: il luogo risulta aperto con orari ordinari, la frase degli orari è citata con le parole esatte della pagina, ogni numero degli orari e ogni importo compare nella pagina, e nei testi non ci sono telefoni, email o indirizzi web. Un luogo senza orari ufficiali leggibili non si pubblica (esito `senza-orari`). Le schede scritte a mano non si toccano.
+- Ricontrollo di ogni luogo dopo 30 giorni; se la pagina non è cambiata (impronta) non si chiede nulla al modello.
+- Action `estrai-luoghi.yml` (ogni ora, parte ogni `ORE_LUOGHI` ore, predefinito 6; `LUOGHI_PER_GIRO`, predefinito 60). Salva solo se `npm run build` passa.
+- Dalla chat di giot.ai: strumento `avvia_ricerca_luoghi`; impostazioni `ORE_LUOGHI` e `LUOGHI_PER_GIRO` con `imposta_impostazione`. Serve ripubblicare il Worker (`docs/avvio-da-chat-worker.js`, vedi `docs/avvio-da-chat.md`).
+- `ricerca/luoghi-semi.json`: pagine ufficiali da leggere con priorità (per esempio le schede `cultura.gov.it/luogo/…`).
+- Pagine: oltre 40 luoghi l'indice `/luoghi/` si divide per provincia (`/luoghi/zona/<regione>/<provincia>/`).
+- **Limiti**: Wikidata non conosce tutti i luoghi; molti siti caricano gli orari con JavaScript o in PDF (non letti); i luoghi senza orari scritti sul sito restano fuori. Collaudato solo offline con una pagina di prova (scheda corretta accettata, orari e prezzi inventati scartati): la prima lettura vera è il primo giro dell'Action.

@@ -41,6 +41,16 @@ const risolutori = {
     scrivi(f, { ...online, elencoDel: [online.elencoDel, nostra.elencoDel].filter(Boolean).sort().pop() ?? null, giornali: [...perSito.values()] }, 0);
     return `${perSito.size} giornali`;
   },
+  'src/data/luoghi-da-visitare.json': (f) => {
+    const online = leggi(2, f), nostra = leggi(3, f);
+    const perSlug = new Map(online.luoghi.map((l) => [l.slug, l]));
+    for (const l of nostra.luoghi ?? []) { const o = perSlug.get(l.slug); if (l.inseritoDa === 'automatico' && (!o || (o.inseritoDa === 'automatico' && String(l.verificato) >= String(o.verificato)))) perSlug.set(l.slug, l); }
+    const lista = [...perSlug.values()].sort((a, b) => a.slug.localeCompare(b.slug));
+    writeFileSync(f, `{"_nota":${JSON.stringify(online._nota ?? '')},"luoghi":[\n${lista.map((l) => JSON.stringify(l)).join(',\n')}\n]}\n`);
+    return `${lista.length} luoghi`;
+  },
+  'ricerca/luoghi-elenco.json': (f) => { writeFileSync(f, execSync(`git show :2:${f}`, { encoding: 'utf8', maxBuffer: 300 * 1024 * 1024 })); return 'versione online'; },
+  'ricerca/luoghi-stato.json': (f) => { const online = leggi(2, f), nostra = leggi(3, f); const unito = { ...online }; for (const [k, v] of Object.entries(nostra)) if (!unito[k] || String(v.ultima) >= String(unito[k].ultima)) unito[k] = v; scrivi(f, unito, 0); return `${Object.keys(unito).length} luoghi`; },
   'ricerca/comuni-abitanti.json': (f) => { scrivi(f, leggi(2, f), 0); return 'versione online'; },
   'ricerca/comuni-pagine.json': (f) => {
     const online = leggi(2, f), nostra = leggi(3, f);
