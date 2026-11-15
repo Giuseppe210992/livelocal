@@ -211486,5 +211486,2255 @@
     ],
     "inserito": "2026-11-15",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-liberilibri-ancona-15-11",
+    "titolo": "Festival Liberilibri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-15T11:00",
+    "fine": null,
+    "luogo": "Mole Vanvitelliana",
+    "indirizzo": "Banchina Giovanni da Chio, 28",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival del libero pensiero che celebra il quarantesimo anniversario della casa editrice. Il programma include incontri su economia, geopolitica, tecnologia e arte, con la partecipazione di autori e esperti per discutere le sfide del presente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Liberilibri Editrice",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/festival-liberilibri-732462-732463",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperdita-d-occhio-teatro-ragazzi-ancona",
+    "titolo": "Aperdita d'occhio - Teatro Ragazzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T18:00",
+    "fine": null,
+    "luogo": "Teatro Sperimentale",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per ragazzi intitolato \"Lea - Un'altra giornata emozionante\", che racconta le sfide quotidiane e le emozioni di una bambina attraverso il linguaggio del teatro di narrazione e pupazzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marche Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/aperdita-d-occhio-teatro-ragazzi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-sentieri-d-amore-ancona",
+    "titolo": "Mostra \"Sentieri d'Amore\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-15T18:00",
+    "fine": null,
+    "luogo": "Galleria Papini",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra d'arte che esplora l'unione tra anima e corpo attraverso opere che integrano simbologie orientali e occidentali. L'artista Patricia propone un percorso creativo ispirato alla spiritualità e alla luce della coscienza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/mostra-sentieri-d-amore-inaugurazione-731781-731782-731783",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "seduta-del-consiglio-comunale-appiano-sulla-strada-del-vino-eppan-an-der-weinstra-e",
+    "titolo": "Seduta del Consiglio comunale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T19:00",
+    "fine": null,
+    "luogo": "Sala consiglio del Comune di Appiano s.S.d.V.",
+    "indirizzo": "Appiano sulla strada del vino/Eppan an der Weinstraße",
+    "cap": null,
+    "comune": "021004",
+    "frazione": null,
+    "lat": 46.46735,
+    "lon": 11.25604,
+    "coordinateApprossimate": true,
+    "descrizione": "Seduta pubblica del Consiglio Comunale di Appiano sulla strada del vino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consiglio Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Appiano sulla strada del vino/Eppan an der Weinstraße",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.appiano.bz.it/it/Amministrazione/Appuntamenti",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "seduta-del-consiglio-comunale-del-03-12-2026-appiano-sulla-strada-del-vino-eppan-an-der-weinstra-e",
+    "titolo": "Seduta del Consiglio comunale del 03.12.2026",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T19:00",
+    "fine": null,
+    "luogo": "Sala consiglio del Comune di Appiano s.S.d.V.",
+    "indirizzo": "Appiano sulla strada del vino/Eppan an der Weinstraße",
+    "cap": null,
+    "comune": "021004",
+    "frazione": null,
+    "lat": 46.46735,
+    "lon": 11.25604,
+    "coordinateApprossimate": true,
+    "descrizione": "Sala consiglio del Comune di Appiano s.S.d.V., Appiano sulla strada del vino/Eppan an der Weinstraße, 03/12. Seduta pubblica del Consiglio Comunale di Appiano sulla strada del vino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consiglio Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Appiano sulla strada del vino/Eppan an der Weinstraße",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.appiano.bz.it/it/Amministrazione/Appuntamenti",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pagine-e-coccole-arcore",
+    "titolo": "Pagine e coccole",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T10:00",
+    "fine": "2026-11-20T11:00",
+    "luogo": "Biblioteca civica Nanni Valentini",
+    "indirizzo": "Via Gorizia, 20 - Arcore",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del programma Nati Per Leggere rivolto a neogenitori con neonati da 0 a 12 mesi. L'evento esplora il legame tra neonato e adulto attraverso letture e giochi, includendo la costruzione di una bottiglietta sonora.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "biblioteca e del consultorio familiare di Arcore",
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/pagine-e-coccole",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maratona-di-lettura-arcore",
+    "titolo": "Maratona di lettura",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T17:30",
+    "fine": "2026-11-20T19:00",
+    "luogo": "Biblioteca civica Nanni Valentini",
+    "indirizzo": "Via Gorizia, 20 - Arcore",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura collettiva delle pagine più belle del capolavoro di Carlo Collodi. Un evento aperto ad adulti e bambini dedicato al burattino più iconico del mondo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/cera-una-volta-pinocchio/cera-una-volta-pinocchio-3",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-di-patchwork-arts-arcore",
+    "titolo": "Mostra di patchwork arts",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-22T18:30",
+    "luogo": "Antica Chiesetta del Bruno",
+    "indirizzo": "Via Del Bruno, 122, 20862 Arcore MB",
+    "cap": null,
+    "comune": "108004",
+    "frazione": null,
+    "lat": 45.62959,
+    "lon": 9.32392,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di arazzi realizzata da Orna Barness. L'esposizione è visitabile nelle giornate del 21 e 22 novembre con orari mattutini e pomeridiani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arcore",
+        "tipo": "ufficiale",
+        "url": "https://comune.arcore.mb.it/vivere-il-comune/evento/mostra-di-patchwork-arts",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "10-anni-di-agora-arese",
+    "titolo": "10 anni di Agorà",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Weekend di festeggiamenti per i dieci anni della biblioteca comunale, con eventi gratuiti e senza prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/10-anni-di-agora",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cerimonia-di-accensione-delle-luminarie-arese",
+    "titolo": "Cerimonia di accensione delle luminarie",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T17:00",
+    "fine": null,
+    "luogo": "Centro storico",
+    "indirizzo": "Arese",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento nel Centro storico per dare il via alle iniziative natalizie del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-porta-l-e-sempar-verta-musical-dialettale-badia-polesine",
+    "titolo": "La porta l'è sempar verta - Musical dialettale",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Sociale E. Balzan",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical dialettale presentato dal Comune di Badia Polesine in collaborazione con la Pro Loco di Badia Polesine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Badia Polesine",
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bollate-contro-la-violenza-e-lo-stalking-bollate",
+    "titolo": "Bollate contro la violenza e lo stalking",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-18T10:30",
+    "fine": "2026-11-18T10:45",
+    "luogo": "Piazza Aldo Moro",
+    "indirizzo": "Piazza Aldo Moro, 20021 Bollate (MI)",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.5503,
+    "lon": 9.11464,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione ufficiale dello striscione con il messaggio \"Bollate contro la violenza e lo stalking. Non sei sola. Chiama il 1522\" sul Palazzo comunale. Un'iniziativa volta a sensibilizzare la cittadinanza e fornire informazioni utili contro la violenza di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bollate",
+    "fonti": [
+      {
+        "nome": "Comune di Bollate",
+        "tipo": "ufficiale",
+        "url": "https://comune.bollate.mi.it/it/eventi/no-violenza",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-borgo-da-scoprire-domenica-29-novembre-una-visita-tra-storia-e-musi-borgo-san-dalmazzo",
+    "titolo": "Un Borgo da scoprire: domenica 29 novembre una visita tra storia e musica",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T14:00",
+    "fine": null,
+    "luogo": "Ufficio Turistico, stazione ferroviaria",
+    "indirizzo": "Borgo San Dalmazzo",
+    "cap": null,
+    "comune": "004025",
+    "frazione": null,
+    "lat": 44.32959,
+    "lon": 7.47138,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata della guida Ilaria Peano attraverso le vie del centro storico, con sosta alla chiesa parrocchiale e apertura speciale della Sala del Re presso la stazione ferroviaria. Momenti musicali degli allievi dell’Istituto Civico Musicale “Dalmazzo Rosso”.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Dalmazzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgosandalmazzo.cn.it/novita/evento/1677/Un-Borgo-da-scoprire-3a-domenica-29-novembre-una-visita-tra-storia-e-musica",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fuori-dal-comune-sportello-d-aiuto-nelle-pratiche-della-vita-quotidian-botticino",
+    "titolo": "Fuori dal Comune - Sportello d'aiuto nelle pratiche della vita quotidiana",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T09:00",
+    "fine": "2026-12-03T11:00",
+    "luogo": "Municipio di Botticino",
+    "indirizzo": "Botticino",
+    "cap": null,
+    "comune": "017023",
+    "frazione": null,
+    "lat": 45.55004,
+    "lon": 10.31401,
+    "coordinateApprossimate": true,
+    "descrizione": "Sportello d'aiuto per SPID, carta d'identità elettronica, fascicolo sanitario e altre pratiche della vita quotidiana. Nessun costo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Botticino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.botticino.bs.it/area_letturaEvento/11529/pagsistema.html",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fuori-dal-comune-sportello-d-aiuto-nelle-pratiche-della-vita-quotidian-botticino-17-12",
+    "titolo": "Fuori dal Comune - Sportello d'aiuto nelle pratiche della vita quotidiana",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T09:00",
+    "fine": "2026-12-17T11:00",
+    "luogo": "Municipio di Botticino",
+    "indirizzo": "Botticino",
+    "cap": null,
+    "comune": "017023",
+    "frazione": null,
+    "lat": 45.55004,
+    "lon": 10.31401,
+    "coordinateApprossimate": true,
+    "descrizione": "Municipio di Botticino, Botticino, 17/12. Sportello d'aiuto per SPID, carta d'identità elettronica, fascicolo sanitario e altre pratiche della vita quotidiana. Nessun costo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Botticino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.botticino.bs.it/area_letturaEvento/11530/pagsistema.html",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochi-e-un-laboratorio-per-bambine-i-dai-6-ai-10-anni-presso-il-lav-i-bovisio-masciago",
+    "titolo": "Giochi e un laboratorio per bambine/i dai 6 ai 10 anni presso il LAV in occasione della Giornata internazionale dei diritti dell'infanzia e dell'adolescenza",
+    "categoria": "bambini",
+    "inizio": "2026-11-18T17:00",
+    "fine": null,
+    "luogo": "Palazzo Ercole Radice",
+    "indirizzo": "Piazza San Martino 7, Bovisio Masciago (MI)",
+    "cap": null,
+    "comune": "108010",
+    "frazione": null,
+    "lat": 45.61212,
+    "lon": 9.15063,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo di riuso e giochi da tavolo per bambini/e dai 6 ai 10 anni, organizzato dal Lav in occasione della Giornata internazionale dei diritti dell'infanzia e dell'adolescenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lav (laboratorio arti visive)",
+    "fonti": [
+      {
+        "nome": "Comune di Bovisio-Masciago",
+        "tipo": "ufficiale",
+        "url": "https://comune.bovisiomasciago.mb.it/vivere-il-comune/evento/giochi-e-un-laboratorio-per-bambine-i-dai-6-ai-10-anni-presso-il-lav-in-occasione-della-giornata-internazionale-dei-diritti-dellinfanzia-e-delladolescenza",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-diritti-in-gioco-giornata-internazionale-per-i-diritti-dell-infanzia-bovisio-masciago",
+    "titolo": "I Diritti in Gioco - Giornata internazionale per i diritti dell'infanzia e dell'adolescenza - Giornata conclusiva",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T15:00",
+    "fine": null,
+    "luogo": "Civic Center",
+    "indirizzo": "Via Leonardo da Vinci 6",
+    "cap": null,
+    "comune": "108010",
+    "frazione": null,
+    "lat": 45.61212,
+    "lon": 9.15063,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro conclusivo dedicato ai diritti dell'infanzia con spettacolo teatrale Gianbabbeo, attività ludiche e laboratori proposti dalle associazioni locali per bambini, adolescenti e famiglie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bovisio-Masciago",
+        "tipo": "ufficiale",
+        "url": "https://comune.bovisiomasciago.mb.it/vivere-il-comune/evento/i-diritti-in-gioco-giornata-internazionale-per-i-diritti-dellinfanzia-e-delladolescenza-giornata-conclusiva",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-una-settimana-di-letture-incontri-e-scoperte-bra",
+    "titolo": "Nati per leggere: una settimana di letture, incontri e scoperte",
+    "categoria": "bambini",
+    "inizio": "2026-11-16",
+    "fine": "2026-11-20",
+    "luogo": "Biblioteca civica di Bra",
+    "indirizzo": "Bra",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "In occasione della Settimana nazionale di Nati per Leggere, la biblioteca porta storie e lettura nei nidi, nelle scuole dell'infanzia e negli spazi culturali cittadini, sensibilizzando le famiglie sull'importanza della lettura condivisa fin dalla primissima infanzia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/nati-per-leggere-una-settimana-di-letture-incontri-e-scoperte",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiera-madunina-dei-custu-2026-brescia",
+    "titolo": "Fiera Madunina dei custu 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-15T08:00",
+    "fine": "2026-11-15T20:00",
+    "luogo": "Centro storico Sud",
+    "indirizzo": "via Corsica, tra via Zara e via Nisida; via Sardegna, tra via Corsica e via Isole Lipari, 25122 Brescia BS",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale fiera con trentacinque bancarelle di abbigliamento, alimentari, dolciumi, giocattoli e tessuti. Presente il Gruppo Alpini Bottonaga che propone la casoncellata dai menabù a partire dalle ore 11 presso la sede delle penne nere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/fiera-madunina-dei-custu-2026",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sorry-baby-buccinasco",
+    "titolo": "Sorry, baby",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Auditorium William Medini",
+    "indirizzo": "Via Tiziano, 7, 20090 Buccinasco MI, Italia",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film nell'ambito della rassegna cinematografica Cinema, Mon Amour a cura di Pino Nuccio. Racconta di Agnès, giovane docente universitaria che dopo una violenza subita da persona fidata resta congelata nel tempo mentre il mondo le scorre attorno.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "IntrecciCulturali",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/la-vita-va-cosi-726812",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercato-settimanale-a-brunico-brunico-bruneck",
+    "titolo": "Mercato settimanale a Brunico",
+    "categoria": "mercatino",
+    "inizio": "2026-11-18T08:00",
+    "fine": "2026-11-18T13:30",
+    "luogo": "Piazza Municipio",
+    "indirizzo": "Brunico/Bruneck",
+    "cap": null,
+    "comune": "021013",
+    "frazione": null,
+    "lat": 46.79077,
+    "lon": 11.94884,
+    "coordinateApprossimate": true,
+    "descrizione": "Il classico mercato settimanale di Brunico si tiene ogni mercoledì mattina in piazza Municipio dalle otto alle tredici e trenta. Varie bancarelle offrono prodotti freschi e articoli vari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brunico/Bruneck",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brunico.bz.it/it/Vivere_a_Brunico/Eventi/Mercato_settimanale_a_Brunico_3",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-cinematografica-ciocofilm-paw-patrol-missione-dinosauri-brugherio",
+    "titolo": "Rassegna cinematografica Ciocofilm – Paw Patrol, Missione dinosauri",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T18:30",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 76, Brugherio MB",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna cinematografica organizzata dal Cinema Teatro San Giuseppe con il patrocinio comunale, dedicata ai bambini di ogni età con la proiezione di Paw Patrol, Missione dinosauri.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/al-via-il-2-settembre-la-nuova-stagione-del-bresson-d-essai-725496-725497-725500-725505-725508-725509-728704-728709",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "amici-per-sempre-crescere-nella-relazione-con-il-proprio-cane-brugherio",
+    "titolo": "Amici per sempre: crescere nella relazione con il proprio cane",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T21:00",
+    "fine": "2026-11-23T23:00",
+    "luogo": "Salone della Croce Rossa",
+    "indirizzo": "Via Oberdan 83, Brugherio MB",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di due incontri guidati da psicologi esperti sul legame con il proprio cane, prima e dopo la sua morte, finalizzati alla riflessione, consapevolezza e sostegno al lutto pet.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "ConFido in Brugherio APS",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/amici-per-sempre-crescere-nella-relazione-con-il-proprio-cane-730174",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "per-la-stagione-fuori-pista-al-san-giuseppe-brugherio",
+    "titolo": "Per la stagione Fuori Pista al San Giuseppe",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:30",
+    "luogo": "Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 51, Brugherio MB",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale Don Chisciotte di Stivalaccio Teatro, tragicommedia dell'arte, nell'ambito della Stagione Fuori Pista 2026-2027 del Cinema Teatro San Giuseppe.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/46a-stagione-teatrale-del-san-giuseppe-725827",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-cinematografica-bresson-d-essai-spezie-e-bugie-brugherio",
+    "titolo": "Stagione cinematografica Bresson d'essai – Spezie e bugie",
+    "categoria": "mostra",
+    "inizio": "2026-11-26T21:15",
+    "fine": "2026-11-27T23:30",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 76, Brugherio MB",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna cinematografica dedicata al cinema d'essai con il film Spezie e bugie - la piccola cucina di Mehdi, aperta a tutti gli appassionati di storie autentiche e qualità autoriale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/al-via-il-2-settembre-la-nuova-stagione-del-bresson-d-essai-725496-725497-725500-725514",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "disabato-chopin-notturno-a-parigi-brugherio",
+    "titolo": "DiSabato – Chopin notturno a Parigi",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T17:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 76, Brugherio MB",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Film d'autore raccontato in sala da Andrea Chimento, giornalista critico cinematografico e docente presso l'Università Cattolica, nell'ambito della stagione DiSabato della rassegna Bresson d'essai.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/al-via-il-2-settembre-la-nuova-stagione-del-bresson-d-essai-725496-725497-725500-725505-725508-725522-725528",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "santibriganti-teatro-volo-busca",
+    "titolo": "Santibriganti Teatro | Volo",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Francesca Brizzolara della compagnia Tecnologia Filosofica, proposto in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Santibriganti Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontri-con-l-autore-chiara-tagliaferri-busca",
+    "titolo": "Incontri con l'autore | Chiara Tagliaferri",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T21:00",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna Incontri con l'autore con la presenza di Chiara Tagliaferri, autrice incontrata dal pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-in-biblioteca-busca",
+    "titolo": "La notte dei pupazzi in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T18:30",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa della Biblioteca civica per bambini: i peluche possono essere scoperti quando la biblioteca chiude, un'esperienza divertente e creativa per i più piccoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontri-della-salute-obecity-busca",
+    "titolo": "Incontri della salute: Obecity",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T20:30",
+    "fine": null,
+    "luogo": "Salone della Casa della Salute",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato al tema dell'obesità e dei disturbi alimentari, nell'ambito della rassegna Incontri della salute organizzata dal comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-mercatini-delle-feste-busca",
+    "titolo": "I mercatini delle feste",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T10:00",
+    "fine": null,
+    "luogo": "Parco-Museo dell'Ingenio",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Il parco museale si trasforma in palcoscenico per amici hobbisti che proposeranno le proprie creazioni artistiche durante i mercatini delle feste.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontri-con-l-autore-stefania-belmondo-busca",
+    "titolo": "Incontri con l'autore | Stefania Belmondo",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T21:00",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Stefania Belmondo ospitata dal Teatro Civico di Busca per un nuovo appuntamento della rassegna Incontri con l'autore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "parata-di-natale-con-il-vero-babbo-natale-busto-arsizio",
+    "titolo": "Parata di Natale con il Vero Babbo Natale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T17:00",
+    "fine": "2026-11-21T18:30",
+    "luogo": "Piazza San Michele, Piazza Santa Maria",
+    "indirizzo": "Busto Arsizio",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Parata natalizia con partenza da Piazza San Michele alle 17:00, percorrenza per le vie del centro fino a Piazza Santa Maria dove alle 18:00 avviene l'accensione dell'albero e delle luminarie. Durante la parata vengono offerti vin brulè e panettone a tutti i partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/parata-di-natale-con-il-vero-babbo-natale",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-in-pigiama-bussolengo",
+    "titolo": "Letture in pigiama",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T20:30",
+    "fine": "2026-11-20T22:30",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Piazzale Vittorio Veneto, 101, 37012 Bussolengo VR, Italia",
+    "cap": null,
+    "comune": "023015",
+    "frazione": null,
+    "lat": 45.46632,
+    "lon": 10.84599,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di letture dedicata a bambini dai 2 ai 5 anni organizzata dai volontari di Nati per Leggere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nati per Leggere",
+    "fonti": [
+      {
+        "nome": "Comune di Bussolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bussolengo.vr.it/it/eventi/letture-in-pigiama-733960",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "legami-in-rete-assistenza-a-minori-e-anziani-bussolengo",
+    "titolo": "Legami in rete - assistenza a minori e anziani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T18:30",
+    "fine": "2026-11-30T20:30",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Piazzale Vittorio Veneto, 101, 37012 Bussolengo VR, Italia",
+    "cap": null,
+    "comune": "023015",
+    "frazione": null,
+    "lat": 45.46632,
+    "lon": 10.84599,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del progetto di volontariato per assistere anziani e minori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bussolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bussolengo.vr.it/it/eventi/legami-in-rete-assistenza-a-minori-e-anziani",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nutrimente-serata-di-presentazione-opere-cairo-montenotte",
+    "titolo": "Nutrimente - Serata di presentazione Opere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T22:30",
+    "luogo": "Biblioteca Civica “F.C.Rossi”",
+    "indirizzo": "Via Luigi Baccino Ospedale, 28",
+    "cap": null,
+    "comune": "009015",
+    "frazione": null,
+    "lat": 44.40035,
+    "lon": 8.31208,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione delle opere 'L'Italiana in Algeri' e 'Nabucco' in occasione della visione al Teatro Carlo Felice di Genova. A cura del Prof. Andrea Piccardi nella sala di Rappresentanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cairo Montenotte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cairomontenotte.sv.it/it/eventi/nutrimente-serata-di-presentazione-opere",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-ulivo-per-la-pace-caltagirone",
+    "titolo": "“Un ulivo per la pace”",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21T11:30",
+    "fine": null,
+    "luogo": "via Pietro Novelli",
+    "indirizzo": "via Pietro Novelli",
+    "cap": null,
+    "comune": "087011",
+    "frazione": null,
+    "lat": 37.19093,
+    "lon": 14.51225,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di piantumazione aperta a tutta la cittadinanza, con la partecipazione del sindaco di Betlemme Hanna Samir Hanania.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Caltagirone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caltagirone.ct.it/it/eventi/un-ulivo-per-la-pace",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-delle-pulci-kalta-trova-caltagirone",
+    "titolo": "Mercatino delle pulci \"Kalta Trova\"",
+    "categoria": "mercatino",
+    "inizio": "2026-11-15T07:30",
+    "fine": "2026-11-15T14:00",
+    "luogo": "Piazza Falcone e Borsellino",
+    "indirizzo": "Piazza Falcone Borsellino",
+    "cap": null,
+    "comune": "087011",
+    "frazione": null,
+    "lat": 37.19093,
+    "lon": 14.51225,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino delle pulci organizzato dall'Amministrazione comunale e da Marco Calè.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Caltagirone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caltagirone.ct.it/it/eventi/mercatino-delle-pulci-kalta-trova-4",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maria-sicari-stagione-musicale-di-caltanissetta-caltanissetta",
+    "titolo": "Maria Sicari | Stagione musicale di Caltanissetta",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:00",
+    "fine": "2026-11-21T22:00",
+    "luogo": "Teatro Regina Margherita",
+    "indirizzo": "Corso Vittorio Emanuele II, 73, 93100 Caltanissetta CL",
+    "cap": null,
+    "comune": "085004",
+    "frazione": null,
+    "lat": 37.4696,
+    "lon": 14.00735,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato alla sensibilizzazione contro la violenza sulle donne con la partecipazione della direttrice d'orchestra Maria Sicari. Collaborazione con Questura e Associazione Galatea.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giovane Orchestra Sicula",
+    "fonti": [
+      {
+        "nome": "Comune di Caltanissetta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caltanissetta.it/it/eventi/stagione-musicale-di-caltanissestta-733550",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-nuovo-nido-d-infanzia-di-tassignano-capannori",
+    "titolo": "Inaugurazione nuovo nido d'infanzia di Tassignano",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-18T16:30",
+    "fine": "2026-11-18T18:00",
+    "luogo": "via della Chiesa",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del nuovo nido d'infanzia di Tassignano, realizzato dall'amministrazione comunale grazie a finanziamento PNRR. Sono previsti i saluti del sindaco Giordano Del Chiaro e di Sonia Ridolfi, presidente della Cooperativa La Gardenia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/inaugurazione-nuovo-nido-d-infanzia-di-tassignano",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-nati-per-leggere-rivolte-ai-bambini-capannori",
+    "titolo": "Letture Nati Per Leggere rivolte ai bambini",
+    "categoria": "bambini",
+    "inizio": "2026-11-16T16:30",
+    "fine": null,
+    "luogo": "biblioteca Il Melograno",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture animate rivolte ai bambini da 0 a 6 anni e alle loro famiglie, tenute dalle lettrici di Nati per Leggere presso la biblioteca Il Melograno di San Leonardo in Treponzio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prevenzione-urologica-nell-uomo-casale-sul-sile",
+    "titolo": "Prevenzione urologica nell'uomo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T22:00",
+    "luogo": "Ex Centro Sociale",
+    "indirizzo": "Casale sul Sile",
+    "cap": null,
+    "comune": "026009",
+    "frazione": null,
+    "lat": 45.60617,
+    "lon": 12.31255,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata informativa dedicata alla prevenzione urologica maschile, con particolare attenzione ai temi della prostata e dell'incontinenza. Relatore il dott. Carmelo Morana dell'Associazione APIS.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Casale sul Sile",
+    "fonti": [
+      {
+        "nome": "Comune di Casale sul Sile",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.casalesulsile.tv.it/vivere-il-comune/eventi/serata-informativa-di-sensibilizzazione-per-lendometriosi-copy-copy-copy-copy-copy-copy",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontriamoci-il-giovedi-il-corretto-uso-dei-farmaci-caronno-pertusella",
+    "titolo": "Incontriamoci il giovedì - Il corretto uso dei farmaci",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T14:30",
+    "fine": "2026-11-19T16:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Caronno Pertusella",
+    "cap": null,
+    "comune": "012034",
+    "frazione": null,
+    "lat": 45.59528,
+    "lon": 9.04594,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno gratuito sul corretto uso dei farmaci, con il relatore dr. Luca Pasina, responsabile del Laboratorio di Farmacologia Clinica e Appropriatezza Prescrittiva dell’Istituto di Ricerche Farmacologiche Mario Negri IRCCS. Evento aperto a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Caronno Pertusella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caronnopertusella.va.it/it/eventi/incontriamoci-il-giovedi-il-corretto-uso-dei-farmaci",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-biblioteca-cinema-in-famiglia-casier",
+    "titolo": "In Biblioteca. Cinema in famiglia",
+    "categoria": "bambini",
+    "inizio": "2026-11-18T17:00",
+    "fine": "2026-11-18T18:30",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Roma, 2 - 31030 Dosson di Casier (TV)",
+    "cap": null,
+    "comune": "026010",
+    "frazione": null,
+    "lat": 45.62823,
+    "lon": 12.26868,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica pomeridiana riservata a bambini e famiglie. Il film verrà comunicato direttamente dalla biblioteca all'atto della prenotazione tramite BiblioCard. Evento gratuito con possesso della tessera bibliotecaria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Casier",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.casier.tv.it/vivere-il-comune/eventi/in-biblioteca-cinema-in-famiglia-28",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-cerimonia-di-accensione-dell-albero-castiglione-del-lago",
+    "titolo": "Luci sul Trasimeno - Cerimonia di accensione dell'Albero",
+    "categoria": "concerto",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-05",
+    "luogo": "Rocca Medievale",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di accensione dell'albero di Natale più grande al mondo costruito sulle acque del lago. La settima edizione include video mapping sulle mura, Giardino dei Tulipani d'inverno e trenino turistico.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733588",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-della-mostra-lo-sguardo-di-nan-lawson-verucchio",
+    "titolo": "Inaugurazione della mostra \"Lo sguardo di Nan Lawson\"",
+    "categoria": "mostra",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Pinacoteca di Verucchio",
+    "indirizzo": "Verucchio",
+    "cap": null,
+    "comune": "099020",
+    "frazione": null,
+    "lat": 43.98331,
+    "lon": 12.42831,
+    "coordinateApprossimate": true,
+    "descrizione": "Dall'8 dicembre 2026 al 14 febbraio 2027, la Pinacoteca ospita opere dell'illustratrice americana Nan Lawson appartenenti alla collezione privata di Soggettiva Gallery, dedicate ai paesaggi del cinema attraverso i poster d'autore. Introduce Alessandro Giovanardi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Soggettiva Gallery",
+    "fonti": [
+      {
+        "nome": "Comune di Verucchio",
+        "tipo": "ufficiale",
+        "url": "https://comune.verucchio.rn.it/vivere-il-comune/eventi/inaugurazione-della-mostra-lo-sguardo-di-nan-lawson",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "foglie-di-sale-vidigulfo",
+    "titolo": "Foglie di sale",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T17:00",
+    "fine": "2026-11-17T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per bambini e ragazzi sulla realizzazione di foglie decorative di sale. Si svolge presso la biblioteca comunale dalle ore 17:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/foglie-di-sale",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "per-la-barba-di-babbo-natale-vidigulfo",
+    "titolo": "Per la barba di Babbo Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-22T17:00",
+    "fine": "2026-12-22T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio festivo per bambini e ragazzi dedicato alla preparazione della barba di Babbo Natale. Incontro dalle 17:00 alle 18:00 presso la biblioteca comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/per-la-barba-di-babbo-natale",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pazzo-carnevale-vidigulfo",
+    "titolo": "Pazzo Carnevale",
+    "categoria": "bambini",
+    "inizio": "2027-02-02T17:00",
+    "fine": "2027-02-02T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio tematico carnevalizio per bambini e ragazzi. L’attività si tiene presso la biblioteca comunale dalle 17:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/pazzo-carnevale",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pulcino-chiacchierino-vidigulfo",
+    "titolo": "Pulcino chiacchierino",
+    "categoria": "bambini",
+    "inizio": "2027-03-23T17:00",
+    "fine": "2027-03-23T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio teatrale per bambini e ragazzi incentrato sul gioco delle parole e della voce. Si svolgerà presso la biblioteca comunale dalle 17:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/pulcino-chiacchierino",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mamma-leggo-io-vidigulfo",
+    "titolo": "Mamma, leggo io!",
+    "categoria": "bambini",
+    "inizio": "2027-05-06T17:00",
+    "fine": "2027-05-06T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura animata per bambini e ragazzi, promosso dalla biblioteca comunale. L’incontro si terrà dalle 17:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/mamma-leggo-io",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prepariamoci-insieme-all-estate-vidigulfo",
+    "titolo": "Prepariamoci insieme all'estate",
+    "categoria": "bambini",
+    "inizio": "2027-06-08T17:00",
+    "fine": "2027-06-08T18:00",
+    "luogo": "Biblioteca",
+    "indirizzo": "Via G. Marconi, 27018 Vidigulfo PV, Italia",
+    "cap": null,
+    "comune": "018176",
+    "frazione": null,
+    "lat": 45.2899,
+    "lon": 9.23791,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo laboratorio della stagione 2026/2027, rivolto a bambini e ragazzi per prepararsi insieme all’estate. Si svolgerà presso la biblioteca comunale dalle 17:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vidigulfo",
+        "tipo": "ufficiale",
+        "url": "https://comune.vidigulfo.pv.it/it/eventi/prepariamoci-insieme-all-estate",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sister-act-commedia-musicale-villa-d-alme",
+    "titolo": "Sister Act - Commedia musicale",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Teatro Serassi",
+    "indirizzo": "Via Sereno Locatelli Milesi, Villa d'Almè, BG, Italia",
+    "cap": null,
+    "comune": "016239",
+    "frazione": null,
+    "lat": 45.75318,
+    "lon": 9.62367,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia musicale tratta dal film, interpretata dal Gruppo Teatro Paladina e promossa dai gruppi Aido della Zona 11. Spettacolo serale nel teatro comunale di Villa d'Almè. Biglietto unico 10 euro, senza prenotazione del posto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "gruppi Aido della Zona 11",
+    "fonti": [
+      {
+        "nome": "Comune di Villa d'Almè",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villadalme.bg.it/vivere-il-comune/eventi/sister-act-commedia-musicale-interpretata-dal-gruppo-teatro-paladina",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepi-in-mostra-itinerari-d-arte-e-tradizione-nel-borgo-di-villa-di-villa-di-serio",
+    "titolo": "Presepi in mostra: itinerari d'Arte e Tradizione nel Borgo di Villa di Serio",
+    "categoria": "mostra",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-31",
+    "luogo": "Villa Carrara e centro storico",
+    "indirizzo": "Villa di Serio",
+    "cap": null,
+    "comune": "016240",
+    "frazione": null,
+    "lat": 45.72382,
+    "lon": 9.7447,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinta edizione della manifestazione che celebra l'arte presepiale e le tradizioni natalizie attraverso un percorso espositivo diffuso con circa trenta opere nella Sala della Tinaia di Villa Carrara, la Chiesa di San Lorenzo e le vetrine commerciali. Include programmi culturali, visite guidate, attività scolastiche e mercatini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Villa di Serio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villadiserio.bg.it/vivere-il-comune/eventi/presepi-mostra-itinerari-darte-e-tradizione-nel-borgo-di-villa-di-serio",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-guardare-a-francesco-villa-del-conte",
+    "titolo": "Mostra \"Guardare a Francesco\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-08",
+    "fine": "2026-11-22",
+    "luogo": "Oratorio di San Massimo",
+    "indirizzo": "Via Vicinale Borghetto",
+    "cap": null,
+    "comune": "028101",
+    "frazione": null,
+    "lat": 45.59158,
+    "lon": 11.85862,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata alla spiritualità e alla mistica di San Francesco d'Assisi, presentata dal Comitato tutela San Massimo. Apertura domenica 8 novembre alle ore 10 con inaugurazione; aperture successive il 15 e il 22 novembre, dalle 10 alle 12 e dalle 15 alle 18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comitato tutela San Massimo ONLUS",
+    "fonti": [
+      {
+        "nome": "Comune di Villa del Conte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villa-del-conte.pd.it/vivere-il-comune/eventi/mostra-guardare-a-francesco",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corteo-storico-festa-san-nicola-5-dicembre-villafranca-tirrena",
+    "titolo": "Corteo Storico Festa San Nicola 5 dicembre",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05T00:00",
+    "fine": null,
+    "luogo": "Municipio, Via Don Luigi Sturzo",
+    "indirizzo": "Via Don Luigi Sturzo, Villafranca Tirrena ME, 98049",
+    "cap": null,
+    "comune": "083105",
+    "frazione": null,
+    "lat": 38.22158,
+    "lon": 15.45694,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione storico-culturale che rievoca la tradizione del Bamparizzu a Villafranca Tirrena in occasione della Vigilia di San Nicola. Pescatori in costume trascinano una barca addobbata con fiori e lanterne dalle vie della marina fino a Piazza Castello, dove si uniscono alla Corte Principesca per poi accendere il falò.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Villafranca Tirrena",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villafrancatirrena.me.it/vivere-il-comune/eventi/corteo-storico-festa-san-nicola-5-dicembre.aspx",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bibis-libri-per-la-primissima-infanzia-vipiteno-sterzing",
+    "titolo": "Bibis – Libri per la primissima infanzia",
+    "categoria": "bambini",
+    "inizio": "2026-11-19T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Civica di Vipiteno",
+    "indirizzo": "Vipiteno/Sterzing",
+    "cap": null,
+    "comune": "021115",
+    "frazione": null,
+    "lat": 46.91418,
+    "lon": 11.42284,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro mensile dedicato ai bambini da zero a tre anni. L'Orso Brummi e l'esperta di letture Agata propongono un momento di rime, canzoni, giochi e letture ad alta voce per offrire spunti di lettura quotidiani a bambini e genitori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vipiteno/Sterzing",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vipiteno.bz.it/it/Vivere_a_Vipiteno/Eventi/Bibis_Libri_per_la_primissima_infanzia",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "filmclub-vipiteno-emil-und-die-detektive-vipiteno-sterzing",
+    "titolo": "Filmclub Vipiteno: \"EMIL UND DIE DETEKTIVE\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Comunale di Vipiteno",
+    "indirizzo": "Vipiteno/Sterzing",
+    "cap": null,
+    "comune": "021115",
+    "frazione": null,
+    "lat": 46.91418,
+    "lon": 11.42284,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film per bambini \"Emil und die Detektive\" (2026), nuova trasposizione del classico di Erich Kästner. La storia segue le avventure di Emil, che dopo essere stato derubato in treno, insegue il ladro per Berlino con l'aiuto di una banda di ragazzini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Filmclub Vipiteno",
+    "fonti": [
+      {
+        "nome": "Comune di Vipiteno/Sterzing",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vipiteno.bz.it/it/Vivere_a_Vipiteno/Eventi/Filmclub_Vipiteno_EMIL_UND_DIE_DETEKTIVE_",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-intorno-al-fuoco-vignate",
+    "titolo": "Storie intorno al fuoco",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Biblioteca comunale \"La Fonte\"",
+    "indirizzo": "Via Enrico Fermi, 43, Vignate MI",
+    "cap": null,
+    "comune": "015237",
+    "frazione": null,
+    "lat": 45.49841,
+    "lon": 9.37915,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di letture e creatività per bambini dai 3 ai 6 anni, nell’ambito della Settimana razionale Nati per leggere. Attività gratuita guidata dalle volontarie del progetto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vignate",
+        "tipo": "ufficiale",
+        "url": "https://comune.vignate.mi.it/vivere-il-comune/evento/storie-intorno-al-fuoco",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uno-sfida-all-ultima-carta-vignate",
+    "titolo": "UNO: Sfida all’ultima carta!",
+    "categoria": "bambini",
+    "inizio": "2026-11-16T17:00",
+    "fine": "2026-11-16T18:00",
+    "luogo": "Biblioteca comunale \"La Fonte\"",
+    "indirizzo": "Via Enrico Fermi, 43, Vignate MI",
+    "cap": null,
+    "comune": "015237",
+    "frazione": null,
+    "lat": 45.49841,
+    "lon": 9.37915,
+    "coordinateApprossimate": true,
+    "descrizione": "Torneo del gioco di carte UNO dedicato a ragazze e ragazzi dagli 8 ai 13 anni. Sfide, strategia e divertimento in un pomeriggio gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vignate",
+        "tipo": "ufficiale",
+        "url": "https://comune.vignate.mi.it/vivere-il-comune/evento/uno-sfida-allultima-carta",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "castegnone-celebra-i-biligocc-la-festa-della-tradizione-zogno",
+    "titolo": "Castegnone celebra i Biligòcc: la festa della tradizione",
+    "categoria": "sagra",
+    "inizio": "2026-11-15T10:00",
+    "fine": "2026-11-15T18:00",
+    "luogo": "Castegnone di Poscante",
+    "indirizzo": "Zogno",
+    "cap": null,
+    "comune": "016246",
+    "frazione": null,
+    "lat": 45.79424,
+    "lon": 9.68024,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa della tradizione nella rassegna Sapori&Cultura, con mercatino di prodotti locali, degustazioni, visita al Secadur e case museo dei residenti che raccontano la vita rurale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Zogno",
+    "fonti": [
+      {
+        "nome": "Comune di Zogno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.zogno.bg.it/citta/eventi/notizie/Castegnone-celebra-i-Biligocc-domenica-15-novembre-la-festa-della-tradizione-nella-rassegna-SaporiCultura",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-del-parco-di-villa-belotti-zogno",
+    "titolo": "Inaugurazione del parco di Villa Belotti",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21T15:00",
+    "fine": null,
+    "luogo": "Parco Belotti",
+    "indirizzo": "Via Roma 1",
+    "cap": null,
+    "comune": "016246",
+    "frazione": null,
+    "lat": 45.79424,
+    "lon": 9.68024,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del rinnovato Parco di Villa Belotti dopo il restauro delle sculture, delle aree verdi e dei percorsi. Il progetto ha valorizzato il Convito dei Grandi Brembani e altri elementi storici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Zogno",
+    "fonti": [
+      {
+        "nome": "Comune di Zogno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.zogno.bg.it/citta/eventi/notizie/INAUGURAZIONE-DEL-PARCO-DI-VILLA-BELOTTI-UN-PATRIMONIO-STORICO-E-CULTURALE-RESTITUITO-ALLA-COMUNITA",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-bellezza-della-compassione-dipingere-il-dolore-raccontare-la-speran-zogno",
+    "titolo": "La bellezza della compassione: dipingere il dolore, raccontare la speranza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:45",
+    "fine": null,
+    "luogo": "Sala Blu dell'Oratorio di Zogno",
+    "indirizzo": "Zogno",
+    "cap": null,
+    "comune": "016246",
+    "frazione": null,
+    "lat": 45.79424,
+    "lon": 9.68024,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culturale con il Prof. Giovanni C. F. Villa, storico dell'arte, che esplora come i grandi maestri da Bellini a Tintoretto abbiano rappresentato sofferenza, pietà e speranza nelle loro opere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Orizzonti del Sapere",
+    "fonti": [
+      {
+        "nome": "Comune di Zogno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.zogno.bg.it/citta/eventi/notizie/La-bellezza-della-compassione-dipingere-il-dolore-raccontare-la-speranza",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arriva-a-endenna-spunk-la-biblioteca-su-quattro-ruote-zogno",
+    "titolo": "Arriva a Endenna Spunk!, la biblioteca su quattro ruote",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-25T14:30",
+    "fine": "2026-11-25T17:30",
+    "luogo": "parco di Endenna",
+    "indirizzo": "parcheggio vicino al parco giochi",
+    "cap": null,
+    "comune": "016246",
+    "frazione": null,
+    "lat": 45.79424,
+    "lon": 9.68024,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Bibliostop di Spunk! fa tappa a Endenna portando libri, letture e servizi della Rete Bibliotecaria Bergamasca direttamente sul territorio per grandi e piccoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Zogno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.zogno.bg.it/citta/eventi/notizie/ARRIVA-A-ENDENNA-SPUNK-LA-BIBLIOTECA-SU-QUATTRO-RUOTE",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-ragazzi-albiate",
+    "titolo": "Gruppo di lettura ragazzi",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Biblioteca civica Aldo Moro",
+    "indirizzo": "Via Giotto, 4, 20847 Albiate MB, Italia",
+    "cap": null,
+    "comune": "108003",
+    "frazione": null,
+    "lat": 45.65491,
+    "lon": 9.25044,
+    "coordinateApprossimate": true,
+    "descrizione": "Gruppo di lettura per ragazzi dai 10 ai 14 anni. Il libro per il prossimo incontro è 'Lucciole per lanterne' di Stefanie Hofler.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Albiate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albiate.mb.it/it/eventi/gruppo-di-lettura-ragazzi",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ricordo-di-don-oliviero-giuliani-almenno-san-salvatore",
+    "titolo": "Ricordo di don Oliviero Giuliani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": null,
+    "luogo": "Sala Sindaci “V. Canonico”",
+    "indirizzo": "via Zuccala 1 - Almenno San Salvatore",
+    "cap": null,
+    "comune": "016007",
+    "frazione": null,
+    "lat": 45.75219,
+    "lon": 9.59173,
+    "coordinateApprossimate": true,
+    "descrizione": "Confronto e spunti basati sui suoi scritti. Veronica Pellegrini presenta due libri di don Oliviero Giuliani, uno una raccolta di articoli e l'altro racconti di ricordi e avventure dei suoi coetanei.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale \"Padre Venturino Alce\"",
+    "fonti": [
+      {
+        "nome": "Comune di Almenno San Salvatore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.almenno-san-salvatore.bg.it/vivere-il-comune/eventi/ricordo-di-don-oliviero-giuliani",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-del-donatore-2026-almenno-san-salvatore",
+    "titolo": "Giornata del Donatore 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-15T09:30",
+    "fine": null,
+    "luogo": "Oratorio Almenno S.S.",
+    "indirizzo": "Almenno San Salvatore",
+    "cap": null,
+    "comune": "016007",
+    "frazione": null,
+    "lat": 45.75219,
+    "lon": 9.59173,
+    "coordinateApprossimate": true,
+    "descrizione": "AIDO e AVIS Almenno San Salvatore celebrano la Giornata del Donatore con un corteo, deposizione di una composizione floreale, Santa Messa e pranzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "AIDO e AVIS Almenno San Salvatore",
+    "fonti": [
+      {
+        "nome": "Comune di Almenno San Salvatore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.almenno-san-salvatore.bg.it/vivere-il-comune/eventi/giornata-del-donatore-2026-15-novembre-2026",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "raccontare-le-guerre-contemporanee-l-ucraina-2014-almenno-san-bartolomeo",
+    "titolo": "Raccontare le guerre contemporanee: L’Ucraina 2014...",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-27",
+    "luogo": "Via San Tomè",
+    "indirizzo": "Via San Tomè, Almenno San Bartolomeo, BG, Italia",
+    "cap": null,
+    "comune": "016006",
+    "frazione": null,
+    "lat": 45.75,
+    "lon": 9.56647,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di approfondimento dedicata all'analisi del conflitto in Ucraina con il contributo di esperti e giornalisti, focalizzata sulle conseguenze politiche e umanitarie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dipartimento di Lingue, Letterature e Culture straniere dell’Università degli Studi di Bergamo",
+    "fonti": [
+      {
+        "nome": "Comune di Almenno San Bartolomeo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.almennosanbartolomeo.bergamo.it/vivere-il-comune/eventi/raccontare-le-guerre-contemporanee-lucraina-2014",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
   }
 ]
