@@ -149710,7 +149710,7 @@
     "slug": "dare-forma-ospitaletto",
     "titolo": "DARE FORMA",
     "categoria": "teatro",
-    "inizio": "2026-11-18T20:00",
+    "inizio": "2026-11-18T21:00",
     "fine": null,
     "luogo": "Spazio non specificato",
     "indirizzo": "Ospitaletto",
@@ -200055,6 +200055,34 @@
         "nome": "Instagram Teatro della Quattordicesima",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/DfuREn_iDd8/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "jam-session-improvvisazione-teatro-villa-pamphilj-roma-2026-11-15",
+    "titolo": "Jam Session: improvvisazione teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-15T11:30",
+    "luogo": "Teatro Villa Pamphilj",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Quattro attori, nessun conduttore e nessun copione: raccolgono gli stimoli del pubblico e, seguendo le regole del gioco teatrale, costruiscono improvvisazioni che nascono davanti agli spettatori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Culture Roma",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dft9RykBkOW/",
         "consultata": "2026-11-15"
       }
     ],
