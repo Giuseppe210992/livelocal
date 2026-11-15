@@ -2,10 +2,10 @@
  "_nota": "Generato da scripts/estrai-eventi-ia.mjs: ultimo giro per ogni fonte.",
  "fonti": {
   "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "falliti": 0
   },
   "https://www.comune.piacenza.it/it/eventi": {
    "ultima": "2026-11-15",
@@ -1448,9 +1448,9 @@
    "falliti": 0
   },
   "https://www.stampaitaliana.online/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 1 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 2,
+   "esito": "ok: 4 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.ilpescara.it/eventi/": {
@@ -1460,283 +1460,283 @@
    "falliti": 0
   },
   "https://www.corrieredellascienza.it//category/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.rinnovabili.it/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 8,
-   "esito": "ok: 8 proposti, 8 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 9,
+   "esito": "ok: 9 proposti, 9 superano il controllo",
    "falliti": 0
   },
   "https://www.gazzettadimantova.it/media/eventi-athesis": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.leggo.it/schede/13_novembre_2026_giuliacci_gravi_eventi_meteo_poche_ore_tregua_altri_10_giorni_pioggia_colpa_nuova_perturbazione-9888117.html": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.unionesarda.it/news-sardegna/agenda": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.ilgiorno.it/cosa-fare": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 2,
-   "esito": "ok: 5 proposti, 2 superano il controllo",
+   "esito": "ok: 3 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.affaritaliani.it/cronache/scontri-alle-manifestazioni-stretta-della-polizia-perquisizioni-in-tutta-italia-oggi-allerta-cortei.html": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ilcrotonese.it/eventi-correnti/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.giornaledibrescia.it/italia-e-estero/nuovo-sabato-di-manifestazioni-in-francia-schierati-70000-agenti-ofd3yruv": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 1 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.lacnews24.it/lacalabriavisione/eventi": {
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 4 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.prealpina.it/sezioni/1150/agenda": {
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
-  "https://www.lacnews24.it/lacalabriavisione/eventi": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 6 proposti, 0 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.prealpina.it/sezioni/1150/agenda": {
-   "ultima": "2026-11-14",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
-   "falliti": 0
-  },
   "https://www.ecodibergamo.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.osservatoriobilancisostenibilita.it/agenda/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ildenaro.it/vedi-agenda/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://arabita.news/it/articolo/715/agenda-araba-ibrahim-maalouf-il-medfilm-festival-e-un-film-palestinese-a-roma": {
-   "ultima": "2026-11-14",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.itiszuccante.edu.it/evento/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://bologna.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://firenze.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://trieste.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://venezia.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://perugia.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://ancona.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://trento.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://catanzaro.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://laquila.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://potenza.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://sardegna.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://aosta.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://bari.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://campobasso.notizie.it/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.imolalicei.edu.it/pagine/calendario-eventi": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://ru.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://zh.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.laprovinciadicomo.it/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 13,
-   "esito": "ok: 15 proposti, 13 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 7,
+   "esito": "ok: 7 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://ja.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://ko.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://es.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
-   "esito": "ok: 5 proposti, 0 superano il controllo",
+   "esito": "ok: 1 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://fr.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://de.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://en.spaziocrypto.com/events/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "esito": "ok: 1 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.spaziocrypto.com/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.ilreggino.it/eventi": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.catanzarochannel.it/eventi": {
-   "ultima": "2026-11-14",
-   "eventi": 2,
-   "esito": "ok: 3 proposti, 2 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.citynow.it/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 6,
-   "esito": "ok: 8 proposti, 6 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.torresette.news/rubriche/eventi": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
-  },
-  "https://www.ilvibonese.it/eventi": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 1,
    "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
+  "https://www.ilreggino.it/eventi": {
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.catanzarochannel.it/eventi": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.citynow.it/eventi/": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.torresette.news/rubriche/eventi": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "non letta: vietato da robots.txt",
+   "falliti": 2
+  },
+  "https://www.ilvibonese.it/eventi": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
   "https://www.restoalsud.it/eventi-e-cultura/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -1754,69 +1754,69 @@
    "falliti": 0
   },
   "https://indicatoreweb.it/category/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.milanofinanza.it/dossier-eventi": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://messaggerosantantonio.it/eventi": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.sportmediaset.mediaset.it/drive-up/dani-pedrosa-batte-una-formula-1-sul-ghiaccio_118930110-202602k.shtml": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.varesenews.it/cosa-fare-varese-eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.balcanicaucaso.org/categoria-pagina/eventi/": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.2duerighe.com/eventi": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 1
+   "falliti": 2
   },
   "https://www.quotidiano.net/eventi": {
-   "ultima": "2026-11-14",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://vocedimantova.it/eventi/": {
-   "ultima": "2026-11-14",
-   "eventi": 3,
-   "esito": "ok: 6 proposti, 3 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 2,
+   "esito": "ok: 3 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://buildersinfintech.ai/events": {
-   "ultima": "2026-11-14",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://aostasera.it/cosa-fare-ad-aosta/": {
-   "ultima": "2026-11-14",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 5,
+   "esito": "ok: 6 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://reggiadicaserta.cultura.gov.it/iniziative/": {
