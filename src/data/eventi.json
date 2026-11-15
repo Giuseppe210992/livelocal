@@ -211317,5 +211317,90 @@
     ],
     "inserito": "2026-11-15",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "michele-zarrillo-l-elefante-e-la-farfalla-teatro-colosseo-torino-2026-11-16",
+    "titolo": "Michele Zarrillo: L'elefante e la farfalla",
+    "categoria": "concerto",
+    "inizio": "2026-11-16T20:30",
+    "luogo": "Teatro Colosseo",
+    "indirizzo": "Torino",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Michele Zarrillo celebra i trent'anni de «L'elefante e la farfalla» con grandi successi e brani recenti, accompagnato da pianoforte, chitarre e band.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Colosseo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Colosseo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfZ4OsiG9N4/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "insieme-con-laura-morante-teatro-gioiello-torino-2026-11-19",
+    "titolo": "Insieme, con Laura Morante",
+    "categoria": "teatro",
+    "inizio": "2026-11-19",
+    "luogo": "Teatro Gioiello",
+    "indirizzo": "Torino",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo scritto e diretto da Fabio Marra: una storia familiare su amore, cura e fragilità dei rapporti, con Laura Morante e un cast d'eccezione. In scena dal 19 al 22 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Gioiello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Gioiello",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfZ6zegG-hc/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-11-22"
+  },
+  {
+    "slug": "todo-cambia-elogio-al-mutamento-teatro-gioiello-torino-2026-11-18",
+    "titolo": "Todo cambia – Elogio al mutamento",
+    "categoria": "teatro",
+    "inizio": "2026-11-18T21:00",
+    "luogo": "Teatro Gioiello",
+    "indirizzo": "Torino",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Luca Lombardo porta in scena trasformismo, comicità e magia tra cambi d'abito fulminei e personaggi imprevedibili. Regia di Augusto Fornari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Gioiello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Gioiello",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfZ6_ndm9yV/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
