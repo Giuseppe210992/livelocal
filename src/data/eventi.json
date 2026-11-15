@@ -211238,5 +211238,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-faula-dal-museu-si-presenta-sala-della-regola-padola-2026-11-23",
+    "titolo": "La Faula dal Museu si presenta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T20:30",
+    "luogo": "Sala della Regola di Padola",
+    "indirizzo": "Padola, Comelico Superiore",
+    "comune": "025015",
+    "lat": 46.62811,
+    "lon": 12.47334,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata aperta a tutta la popolazione del Comelico per presentare le attività svolte e i progetti futuri dell’associazione La Faula dal Museu, con la possibilità di fare domanda per diventare soci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Associazione La Faula dal Museu, Museo della Cultura Alpina e Ladina del Comelico",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Museo della Cultura Alpina e Ladina del Comelico",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfuAlRuOE41/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
