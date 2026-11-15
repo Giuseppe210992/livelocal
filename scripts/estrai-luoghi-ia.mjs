@@ -28,7 +28,7 @@ const BUDGET_MS = Number(process.env.BUDGET_MINUTI ?? 75) * 60000;
 const CONCORRENZA = Math.max(1, Number(process.env.CONCORRENZA ?? 3));
 const INIZIO = Date.now();
 const OGGI = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Rome' });
-const RICONTROLLO_GIORNI = 30;
+const RICONTROLLO_GIORNI = 14; // orari stagionali e avvisi cambiano spesso: si rileggono ogni 14 giorni (se la pagina non cambia, il modello non viene interpellato)
 
 const FILE_LUOGHI = 'src/data/luoghi-da-visitare.json';
 const FILE_ELENCO = 'ricerca/luoghi-elenco.json';
@@ -133,6 +133,8 @@ Regole:
 - "citazione_orari": una frase o riga COPIATA ESATTAMENTE dalla pagina (stessi caratteri) che contiene gli orari.
 - "biglietto": il costo come lo scrive la pagina (intero, ridotto, gratuito, biglietto integrato). Se è gratuito scrivi «Ingresso gratuito». Se la pagina non dice nulla sul costo, lascia vuoto. "citazione_biglietto": frase copiata esattamente dalla pagina con il costo (vuota se biglietto è vuoto).
 - "aperto_al_pubblico": true solo se si può visitare con orari ordinari; false se è solo su richiesta, solo per gruppi, chiuso o in restauro.
+- Gli orari devono essere quelli ORDINARI DI VISITA del luogo, non quelli di un evento, festival, spettacolo, concerto, rassegna o visita guidata speciale. Se la pagina parla solo di un evento, metti aperto_al_pubblico false.
+- Se gli orari cambiano con la stagione, riporta solo il periodo valido oggi (${OGGI}) o i periodi futuri, indicando il periodo («Da ottobre a marzo: …»); non riportare periodi già finiti.
 - "avviso": chiusure straordinarie, lavori o limitazioni scritte nella pagina (vuoto se non ci sono). "prenotazione": se serve prenotare, come (senza numeri di telefono né email).
 - "descrizione": 100-300 caratteri, tua, con fatti letti nella pagina (cosa si visita), senza ipotesi e senza copiare frasi intere.
 - "indirizzo": via e numero se scritti, altrimenti vuoto. "tipo": una sola tra ${TIPI.join(', ')}.
@@ -151,6 +153,7 @@ function controlla(L, pagine, c) {
   if (L.aperto_al_pubblico !== true) return ['non risulta aperto al pubblico con orari ordinari'];
   for (const k of ['orari', 'citazione_orari', 'descrizione', 'fonte_url']) if (!L[k] || !String(L[k]).trim()) motivi.push('manca ' + k);
   if (motivi.length) return motivi;
+  if (/(festival|spettacol|concert|rassegna|evento|eventi|mostra-)/i.test(new URL(L.fonte_url, 'https://x.it').pathname + ' ' + (L.fonte_url.split('/')[2] ?? ''))) return ['la pagina sembra di un evento, non del luogo'];
   const mappa = new Map(pagine.map((p) => [normUrl(p.url), p.testo]));
   const testo = mappa.get(normUrl(L.fonte_url));
   if (!testo) return ['fonte_url non è una delle pagine lette'];
