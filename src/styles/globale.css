@@ -360,3 +360,11 @@ main li { margin-bottom: .35rem; }
 
 [hidden] { display: none !important; }
 .cerca__form .bottone { padding-inline: 14px; }
+
+/* ---- Mappa dei luoghi ---- */
+.mappa--luoghi { height: 60vh; min-height: 340px; max-height: 640px; }
+.chip--tipo { display: inline-flex; align-items: center; gap: 7px; }
+.chip--tipo i { width: 11px; height: 11px; border-radius: 50%; display: inline-block; border: 2px solid #fff; box-shadow: 0 0 0 1px var(--bordo); }
+.chip--tipo[aria-pressed="true"] i { box-shadow: 0 0 0 1px #fff; }
+.punto-luogo { cursor: pointer; }
+.mappa-luoghi .cerca__form { margin-bottom: 10px; }

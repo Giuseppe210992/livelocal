@@ -22,6 +22,10 @@ const TANTI = 40; // oltre questa soglia l'elenco si divide per provincia
     <p class="apertura__sopra">Storia e cultura</p>
     <h1>Luoghi da visitare</h1>
     <p class="apertura__testo">Musei, aree archeologiche, castelli e palazzi aperti al pubblico. Per ognuno trovi dove si trova, gli orari e il costo del biglietto, copiati dal sito ufficiale, con la data in cui li abbiamo controllati.</p>
+    <p><a class="bottone" href={href('/luoghi/mappa/')}>
+      <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 4-6 2v14l6-2 6 2 6-2V4l-6 2-6-2Z"/><path d="M9 4v14M15 6v14"/></svg>
+      Vedi i luoghi sulla mappa
+    </a></p>
   </section>
 
   {luoghi.length <= TANTI ? regioniConLuoghi().map((r) => (

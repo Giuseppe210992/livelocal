@@ -20,3 +20,10 @@ Musei, aree archeologiche, castelli e palazzi aperti al pubblico, con orari e co
 - `ricerca/luoghi-semi.json`: pagine ufficiali da leggere con priorità (per esempio le schede `cultura.gov.it/luogo/…`).
 - Pagine: oltre 40 luoghi l'indice `/luoghi/` si divide per provincia (`/luoghi/zona/<regione>/<provincia>/`).
 - **Limiti**: Wikidata non conosce tutti i luoghi; molti siti caricano gli orari con JavaScript o in PDF (non letti); i luoghi senza orari scritti sul sito restano fuori. Collaudato solo offline con una pagina di prova (scheda corretta accettata, orari e prezzi inventati scartati): la prima lettura vera è il primo giro dell'Action.
+
+## Mappa dei luoghi (15/11/2026)
+
+- Pagina `/luoghi/mappa/` (`src/scripts/mappa-luoghi.ts`): Leaflet + OpenStreetMap, un punto colorato per luogo (colore = tipo), filtri per tipo, ricerca per nome o comune (anche con l'elenco dei comuni), «Vicino a me» solo al tocco, elenco dei luoghi in vista sotto la mappa. Punti disegnati su canvas: regge migliaia di luoghi senza raggruppamenti.
+- Dati: `/luoghi.json` (una riga per luogo: slug, nome, tipo, comune, sigla, lat, lon, posizione indicativa, orari in breve), generato a ogni pubblicazione.
+- Le schede senza coordinate esatte (quelle scritte a mano) usano il centro del comune e sono segnate «posizione indicativa» (punto più chiaro). Le schede automatiche hanno le coordinate di Wikidata.
+- Senza JavaScript la pagina rimanda all'elenco `/luoghi/`.

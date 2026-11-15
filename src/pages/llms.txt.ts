@@ -20,7 +20,7 @@ export const GET: APIRoute = () => {
     '## Per giorno',
     '',
     `- [Eventi di oggi](${urlAssoluto('/oggi/')}): eventi in corso oggi in tutta Italia`,
-    `- [Luoghi da visitare](${urlAssoluto('/luoghi/')}): musei, aree archeologiche e monumenti con orari e prezzi ufficiali (fonte e data del controllo su ogni scheda)`,
+    `- [Luoghi da visitare](${urlAssoluto('/luoghi/')}): musei, aree archeologiche e monumenti con orari e prezzi ufficiali (fonte e data del controllo su ogni scheda); [mappa dei luoghi](${urlAssoluto('/luoghi/mappa/')}) e dati leggeri in ${urlAssoluto('/luoghi.json')}`,
     `- [Eventi di domani](${urlAssoluto('/domani/')}): eventi di domani in tutta Italia`,
     `- [Eventi di questo weekend](${urlAssoluto('/weekend/')}): sabato e domenica`,
     `Queste pagine si rigenerano ogni ora.`,
