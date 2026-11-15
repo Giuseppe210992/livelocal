@@ -171,8 +171,15 @@ function controlla(L, pagine, c) {
 }
 
 // ---------- giro ----------
+const distKm = (la1, lo1, la2, lo2) => { const r = Math.PI / 180, dx = (lo2 - lo1) * r * Math.cos(((la1 + la2) / 2) * r), dy = (la2 - la1) * r; return Math.sqrt(dx * dx + dy * dy) * 6371; };
 function risolviComune(c, L) {
-  if (c.comune) return comuneDi.get(c.comune) ?? null;
+  if (c.comune) {
+    const noto = comuneDi.get(c.comune);
+    if (noto) return noto;
+    // Codice ISTAT vecchio (comune fuso o rinominato): si usa il comune più vicino alle coordinate, se entro 12 km.
+    if (Number.isFinite(c.lat)) { let m = null, d = 12; for (const x of territorio.comuni) { const k = distKm(c.lat, c.lon, x.lat, x.lon); if (k < d) { d = k; m = x; } } return m; }
+    return null;
+  }
   const nome = norm(L.comune), sigla = String(L.provincia ?? '').toUpperCase();
   return territorio.comuni.find((x) => norm(x.nome) === nome && (!sigla || siglaDi.get(x.provincia) === sigla)) ?? null;
 }
@@ -192,7 +199,7 @@ console.log(`Giro luoghi del ${OGGI}: ${coda.length} luoghi da leggere (su ${can
 let fermato = false, prossimo = 0, saltati = 0;
 
 async function lavora(c) {
-  const cm = c.comune ? comuneDi.get(c.comune) : null;
+  const cm = c.comune ? risolviComune(c, {}) : null;
   const registra = (esito, extra = {}) => { stato[c.id] = { ultima: OGGI, esito, ...extra }; };
   const s = await scarica(c.sito);
   if (s.errore) { registra('sito-non-letto', { motivo: s.errore }); resoconto.push(`  --  ${c.nome ?? c.sito}: ${s.errore}`); return; }
