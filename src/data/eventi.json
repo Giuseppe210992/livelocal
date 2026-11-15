@@ -219300,5 +219300,340 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-animation-movie-san-giuliano-terme",
+    "titolo": "Serata Animation Movie",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Dabbe",
+    "indirizzo": "Via San Bernardo 20",
+    "cap": null,
+    "comune": "050031",
+    "frazione": null,
+    "lat": 43.713654,
+    "lon": 10.402332,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata alla magia del cinema d'animazione, con proiezioni di film e personaggi cult. I clienti potranno gustare proposte gastronomiche e birra nel locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dabbe",
+    "fonti": [
+      {
+        "nome": "Dabbe",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfkLa0jibr6",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ostriche-guinness-milano",
+    "titolo": "Ostriche & Guinness",
+    "categoria": "concerto",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "The Friends",
+    "indirizzo": "Via Monte Santo 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.48019,
+    "lon": 9.193401,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata all'abbinamento tra ostriche fresche e Guinness spillata, con foam beer art su ogni pinta. Menù con opzioni da 3 o 6 ostriche. Solo su prenotazione con pagamento anticipato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 19
+    },
+    "prenotazione": null,
+    "organizzatore": "The Friends",
+    "fonti": [
+      {
+        "nome": "The Friends",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DeuUfd0iUgL",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "iii-torneo-di-spillatura-milano",
+    "titolo": "III Torneo di Spillatura",
+    "categoria": "sport",
+    "inizio": "2026-11-23T19:00",
+    "fine": null,
+    "luogo": "The Friends",
+    "indirizzo": "Via Monte Santo 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.48019,
+    "lon": 9.193401,
+    "coordinateApprossimate": false,
+    "descrizione": "Torneo di spillatura della birra con 32 partecipanti. I giudici Silvio e Antonio valuteranno ogni pinta. Premi in birre alla spina per i primi tre classificati e omaggi per tutti i partecipanti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "The Friends",
+    "fonti": [
+      {
+        "nome": "The Friends",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/De2JxjSDE4C",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "staffetta-extra-italiana-belgio-faenza",
+    "titolo": "Staffetta Extra Italiana: Belgio",
+    "categoria": "sagra",
+    "inizio": "2026-11-19T19:30",
+    "fine": null,
+    "luogo": "La Birreria",
+    "indirizzo": "Via Granarolo 17",
+    "cap": null,
+    "comune": "039010",
+    "frazione": null,
+    "lat": 44.298732,
+    "lon": 11.889228,
+    "coordinateApprossimate": false,
+    "descrizione": "Viaggio tra sapori, tradizioni e birre d'eccellenza, per scoprire insieme il meglio della cultura birraria internazionale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Birreria",
+    "fonti": [
+      {
+        "nome": "La Birreria",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfNaosfBSd4",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "birro-latino-faenza",
+    "titolo": "Birro Latino",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T21:00",
+    "fine": null,
+    "luogo": "La Birreria",
+    "indirizzo": "Via Granarolo 17",
+    "cap": null,
+    "comune": "039010",
+    "frazione": null,
+    "lat": 44.298732,
+    "lon": 11.889228,
+    "coordinateApprossimate": false,
+    "descrizione": "Esibizione di ballo e musica latina. Ritmo, energia e voglia di ballare: impossibile restare fermi!",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Birreria",
+    "fonti": [
+      {
+        "nome": "La Birreria",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfNaosfBSd4",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "speed-date-per-single-40-60-anni-carrara",
+    "titolo": "Speed Date per Single 40-60 Anni",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T21:00",
+    "fine": null,
+    "luogo": "Bilocale Bar",
+    "indirizzo": "Viale Venti Settembre 203",
+    "cap": null,
+    "comune": "045003",
+    "frazione": null,
+    "lat": 44.050384,
+    "lon": 10.057601,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata a single tra 40 e 60 anni per incontri brevi e connessioni autentiche. Ambiente informale con drink incluso e possibilità di conoscere nuove persone in un contesto rilassato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Bilocale Bar",
+    "fonti": [
+      {
+        "nome": "Bilocale Bar",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfhiGEaogii",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-giro-del-mondo-in-5-birre-pavia",
+    "titolo": "Il giro del mondo in 5 birre!",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T18:00",
+    "fine": null,
+    "luogo": "Valhalla",
+    "indirizzo": "Lungo Ticino Sforza 2",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.181275,
+    "lon": 9.155032,
+    "coordinateApprossimate": false,
+    "descrizione": "Degustazione di 5 birre da 5 Paesi diversi, accompagnate da focaccia. Guidata da Andrea Serch Sacchi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Valhalla",
+    "fonti": [
+      {
+        "nome": "Valhalla",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfrQmWnjT4R",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "weekend-della-cassoeula-carate-brianza",
+    "titolo": "Weekend della Cassoeula",
+    "categoria": "sagra",
+    "inizio": "2026-11-15",
+    "fine": null,
+    "luogo": "Birra Gaia",
+    "indirizzo": "Via Emilia Vergani 16",
+    "cap": null,
+    "comune": "108015",
+    "frazione": null,
+    "lat": 45.672624,
+    "lon": 9.23213,
+    "coordinateApprossimate": false,
+    "descrizione": "Il weekend della Cassoeula al BrewPub Birra Gaia prevede una cena con cassoeula servita con polenta e zola, accompagnata da birre artigianali. L'evento è aperto al pubblico e richiede prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 19
+    },
+    "prenotazione": null,
+    "organizzatore": "Birra Gaia",
+    "fonti": [
+      {
+        "nome": "Birra Gaia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfaFUThjyKu",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "omaggio-a-bennato-e-mannarino-bollate",
+    "titolo": "Omaggio a Bennato e Mannarino",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:00",
+    "fine": null,
+    "luogo": "Birreria Las Vegas",
+    "indirizzo": "Via Corte Grande 31",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.556944,
+    "lon": 9.096799,
+    "coordinateApprossimate": false,
+    "descrizione": "Davide Fleurs in acustico. Evento gratuito con prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Birreria Las Vegas",
+    "fonti": [
+      {
+        "nome": "Birreria Las Vegas",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfj3SO7m1Ql",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cena-bossa-nova-bollate",
+    "titolo": "Cena Bossa Nova",
+    "categoria": "concerto",
+    "inizio": "2026-11-15T20:00",
+    "fine": null,
+    "luogo": "Birreria Las Vegas",
+    "indirizzo": "Via Corte Grande 31",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.556944,
+    "lon": 9.096799,
+    "coordinateApprossimate": false,
+    "descrizione": "Blue Street Duo. Evento gratuito con prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Birreria Las Vegas",
+    "fonti": [
+      {
+        "nome": "Birreria Las Vegas",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfhq7A1Fa1s",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-15",
+    "inseritoDa": "consegna"
   }
 ]
