@@ -1333,6 +1333,69 @@
    "nome": "LatinaToday – Eventi",
    "tipo": "stampa",
    "dettagli": true
+  },
+  {
+   "url": "https://www.casertanews.it/eventi/",
+   "nome": "CasertaNews – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Caserta. Gli eventi sono per lo più a Caserta e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Caserta; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi. Gli eventi della provincia (Marcianise, San Nicola la Strada, Aversa, Santa Maria Capua Vetere…) vanno scritti con il loro comune."
+  },
+  {
+   "url": "https://reggiadicaserta.cultura.gov.it/iniziative/",
+   "nome": "Reggia di Caserta – Iniziative",
+   "tipo": "ufficiale",
+   "dettagli": true,
+   "hint": "Luogo: Reggia di Caserta (Caserta, CE), salvo diversa indicazione nella pagina."
+  },
+  {
+   "url": "https://www.napolitoday.it/eventi/",
+   "nome": "NapoliToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Napoli. Gli eventi sono per lo più a Napoli e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Napoli; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.salernotoday.it/eventi/",
+   "nome": "SalernoToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Salerno. Gli eventi sono per lo più a Salerno e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Salerno; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.romatoday.it/eventi/",
+   "nome": "RomaToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Roma. Gli eventi sono per lo più a Roma e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Roma; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.milanotoday.it/eventi/",
+   "nome": "MilanoToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Milano. Gli eventi sono per lo più a Milano e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Milano; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.torinotoday.it/eventi/",
+   "nome": "TorinoToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Torino. Gli eventi sono per lo più a Torino e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Torino; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.bolognatoday.it/eventi/",
+   "nome": "BolognaToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Bologna. Gli eventi sono per lo più a Bologna e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Bologna; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
+  },
+  {
+   "url": "https://www.firenzetoday.it/eventi/",
+   "nome": "FirenzeToday – Eventi",
+   "tipo": "stampa",
+   "dettagli": true,
+   "hint": "Fonte: agenda eventi della testata di Firenze. Gli eventi sono per lo più a Firenze e dintorni. Scrivi come comune quello indicato nella pagina dell'evento; se la pagina cita solo il locale e la città compare nel titolo o nel testo, usa Firenze; se il comune non è chiaro, salta l'evento. Ignora cronaca, comunicati senza data, offerte commerciali e aperture di negozi."
   }
  ]
 }
