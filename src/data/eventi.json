@@ -216226,5 +216226,62 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "panettoncini-innevati-laboratorio-mast-castel-goffredo-2026-11-29",
+    "titolo": "Panettoncini innevati: laboratorio per bambini al MAST",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T10:00",
+    "luogo": "MAST Museo",
+    "indirizzo": "Castel Goffredo",
+    "comune": "020015",
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio natalizio per bambini da 3 a 10 anni: con una food creative si decora un panettoncino da portare a casa, in confezione regalo. Dura circa un’ora e mezza; iscrizione entro 3 giorni prima.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "organizzatore": "Comune di Castel Goffredo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfwuw3GkVYM/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "voi-siete-qui-ovunque-abbecedario-auditorium-bavieri-castelnuovo-rangone-2026-11-22",
+    "titolo": "Voi siete qui, ovunque: Abbecedario con Annalisa Vandelli",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "luogo": "Auditorium Bavieri",
+    "indirizzo": "Piazza Brodolini, Castelnuovo Rangone",
+    "comune": "036007",
+    "lat": 44.56207,
+    "lon": 10.92937,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di parole, musica e fotografie nella Giornata internazionale contro la violenza sulle donne, con la fotoreporter Annalisa Vandelli, Alessandra Fogliani al pianoforte e il Gospel Experience Choir.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Castelnuovo Rangone",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castelnuovo Rangone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfxRGdXmYlP/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
