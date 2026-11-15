@@ -208858,5 +208858,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-arte-del-ricamo-della-maestra-gubbini-sala-politkovskaja-castel-maggiore-2026-11-07",
+    "titolo": "L’arte del ricamo della Maestra Gubbini",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-15",
+    "luogo": "Sala Politkovskaja",
+    "indirizzo": "Via Bondanello 41, Castel Maggiore",
+    "comune": "037019",
+    "lat": 44.57173,
+    "lon": 11.3534,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale dedicata a Bruna Gubbini e ai suoi lavori a punto antico, un’arte del ricamo che la maestra ha portato in tutto il mondo con corsi e libri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Castel Maggiore Cultura",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Castel Maggiore Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfeWBGUjeVz/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
   }
 ]
