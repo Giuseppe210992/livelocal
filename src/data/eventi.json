@@ -202965,5 +202965,62 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-15",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "signorinette-storie-di-donne-sogni-e-liberta-teatro-della-quattordicesima-milano-2026-11-22",
+    "titolo": "Signorinette: storie di donne, sogni e libertà",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:30",
+    "luogo": "Teatro della Quattordicesima",
+    "indirizzo": "Milano",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Racconti, musica e interpretazione per ricordare il 2 giugno 1946, quando le donne votarono per la prima volta a una consultazione nazionale. Ingresso libero con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Teatro della Quattordicesima",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro della Quattordicesima",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfhjTihFVyV/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "testimonianze-ricerca-azioni-17-edizione-teatro-akropolis-genova-2026-11-11",
+    "titolo": "Testimonianze Ricerca Azioni, 17ª edizione",
+    "categoria": "teatro",
+    "inizio": "2026-11-11",
+    "luogo": "Teatro Akropolis e altre sedi del festival",
+    "indirizzo": "Genova",
+    "comune": "010025",
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre settimane di teatro, danza, musica, cinema, incontri e seminari a Genova, con collaborazioni internazionali e il progetto Musica Nuova. Il programma completo è sul sito del Teatro Akropolis.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Fondazione Teatro Akropolis",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Akropolis",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfiCIfKyOTy/",
+        "consultata": "2026-11-15"
+      }
+    ],
+    "inserito": "2026-11-15",
+    "inseritoDa": "ia",
+    "fine": "2026-11-28"
   }
 ]
