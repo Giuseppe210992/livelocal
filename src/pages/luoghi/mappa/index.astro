@@ -32,6 +32,11 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: 'Map
         Vicino a me
       </button>
     </form>
+    <div class="filtri solo-js" role="group" aria-label="Vai a">
+      <span class="filtri__etichetta">Vai a</span>
+      <button type="button" class="chip" data-vai-zona="italia">Italia</button>
+      <button type="button" class="chip" data-vai-zona="europa">Europa</button>
+    </div>
     <div class="filtri filtri--scorri solo-js" data-tipi role="group" aria-label="Tipo di luogo"></div>
     <div class="mappa mappa--luoghi" data-mappa role="region" aria-label="Mappa dei luoghi da visitare"></div>
     <p class="cerca__stato" aria-live="polite"><span data-stato>Carico i luoghi…</span> <button type="button" class="cerca__azzera" data-azzera hidden>Azzera filtri</button></p>

@@ -376,3 +376,9 @@ main li { margin-bottom: .35rem; }
 
 .azioni-dove { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; align-items: center; }
 .azioni-dove .bottone { min-height: 42px; padding: 8px 14px; font-size: .9rem; }
+
+/* Cerchi delle zone sulla mappa dei luoghi */
+.bolla-zona { background: none; border: 0; text-align: center; cursor: pointer; }
+.bolla-zona span { display: flex; align-items: center; justify-content: center; margin: 0; border-radius: 50%; background: rgb(11 94 138 / 82%); color: #fff; font-weight: 800; font-size: .85rem; border: 3px solid #fff; box-shadow: 0 2px 8px rgb(0 0 0 / 35%); }
+.bolla-zona--europa span { background: rgb(123 63 160 / 82%); }
+.bolla-zona small { position: absolute; left: 50%; top: 100%; transform: translateX(-50%); pointer-events: none; margin-top: 1px; font-size: .68rem; font-weight: 700; color: #1b2430; text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 5px #fff; white-space: nowrap; }

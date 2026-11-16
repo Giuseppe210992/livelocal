@@ -125,14 +125,44 @@ async function avvia(radice: HTMLElement) {
   let zone: Zona[] = [];
   const caricate = new Set<string>(), inCorso = new Set<string>();
   try { zone = (await (await fetch(radice.dataset.regioni!)).json()).r; } catch { zone = []; }
-  const totaleMinori = zone.reduce((n, z) => n + z.c, 0);
   let timer = 0;
+  const livelloZone = L.layerGroup().addTo(mappa);
+  const riquadro = (z: Zona) => L.latLngBounds([z.b[0], z.b[1]], [z.b[2], z.b[3]]);
+  const corto = (n: number) => (n >= 10000 ? `${Math.round(n / 1000)}k` : n >= 1000 ? `${(n / 1000).toFixed(1).replace('.', ',')}k` : String(n));
+  /** Cerchi con il numero dei luoghi di ogni zona ancora da caricare: si toccano per aprire la zona (si vedono finché la mappa è lontana). */
+  function bolla(nome: string, n: number, centro: L.LatLng, europa: boolean, apri: () => void) {
+    const d = Math.round(26 + Math.min(18, Math.log10(Math.max(n, 1)) * 5));
+    const m = L.marker(centro, { icon: L.divIcon({ className: `bolla-zona${europa ? ' bolla-zona--europa' : ''}`, html: `<span style="width:${d}px;height:${d}px">${corto(n)}</span><small>${html(nome)}</small>`, iconSize: [d, d], iconAnchor: [d / 2, d / 2] }), title: `${nome}: ${n} luoghi`, alt: nome, keyboard: true, zIndexOffset: -Math.round(n) });
+    m.on('click', apri);
+    m.addTo(livelloZone);
+  }
+  function disegnaZone() {
+    livelloZone.clearLayers();
+    const zoom = mappa.getZoom();
+    if (zoom >= 8) return;
+    const daMostrare = zone.filter((z) => !caricate.has(z.s));
+    // Nella vista dell'Europa (zoom basso) le regioni italiane diventano un solo cerchio «Italia», per non coprirsi a vicenda.
+    const italia = zoom <= 4 ? daMostrare.filter((z) => !z.e) : [];
+    if (italia.length) bolla('Italia', italia.reduce((n, z) => n + z.c, 0), L.latLng(42.0, 12.6), false, () => mappa.fitBounds(RIQUADRO_ITALIA));
+    for (const z of daMostrare) {
+      if (zoom <= 4 && !z.e) continue;
+      bolla(z.n, z.c, riquadro(z).getCenter(), Boolean(z.e), () => mappa.fitBounds(riquadro(z), { padding: [20, 20] }));
+    }
+  }
   async function caricaZone() {
     if (!zone.length) return;
-    const vista = mappa.getBounds(), avvicinata = mappa.getZoom() >= 8;
-    const daCaricare = avvicinata ? zone.filter((z) => !caricate.has(z.s) && !inCorso.has(z.s) && vista.intersects(L.latLngBounds([z.b[0], z.b[1]], [z.b[2], z.b[3]]))) : [];
-    aiuto.hidden = avvicinata || !totaleMinori || caricate.size === zone.length;
-    aiuto.textContent = `Avvicina la mappa per vedere anche altri ${totaleMinori.toLocaleString('it-IT')} luoghi in Italia e in Europa (rovine, castelli, musei).`;
+    const vista = mappa.getBounds(), zoom = mappa.getZoom();
+    const spanVista = Math.max(vista.getNorth() - vista.getSouth(), vista.getEast() - vista.getWest());
+    // Una zona si carica se la mappa è vicina (zoom 8 o più) oppure se si sta guardando proprio quella zona (zoom 5-7: il centro della mappa è dentro la zona e la zona riempie la vista).
+    const daCaricare = zone.filter((z) => {
+      if (caricate.has(z.s) || inCorso.has(z.s) || !vista.intersects(riquadro(z))) return false;
+      if (zoom >= 8) return true;
+      return zoom >= 5 && riquadro(z).contains(vista.getCenter()) && spanVista <= 2 * Math.max(z.b[2] - z.b[0], z.b[3] - z.b[1]);
+    });
+    const restanti = zone.filter((z) => !caricate.has(z.s)).reduce((n, z) => n + z.c, 0);
+    aiuto.hidden = !restanti || zoom >= 8;
+    aiuto.textContent = `Tocca un cerchio o avvicina la mappa per vedere altri ${restanti.toLocaleString('it-IT')} luoghi in Italia e in Europa (rovine, castelli, musei).`;
+    disegnaZone();
     if (!daCaricare.length) return;
     stato.textContent = 'Carico altri luoghi della zona…';
     await Promise.all(daCaricare.slice(0, 3).map(async (z) => {
@@ -141,8 +171,14 @@ async function avvia(radice: HTMLElement) {
       inCorso.delete(z.s);
     }));
     disegna(false);
+    disegnaZone();
   }
+  // Pulsanti «Italia» e «Europa»
+  radice.querySelectorAll<HTMLButtonElement>('[data-vai-zona]').forEach((b) => b.addEventListener('click', () => {
+    if (b.dataset.vaiZona === 'europa') mappa.fitBounds([[34.5, -11], [62, 33]]); else mappa.fitBounds(RIQUADRO_ITALIA);
+  }));
   mappa.on('moveend', () => { clearTimeout(timer); timer = window.setTimeout(caricaZone, 350); });
+  mappa.on('zoomend', disegnaZone);
   // Indirizzo condiviso con ?zona=fr (o il nome di una regione): la mappa parte da quella zona.
   const zonaRichiesta = new URLSearchParams(location.search).get('zona');
   const zonaScelta = zonaRichiesta ? zone.find((z) => z.s === zonaRichiesta) : null;
