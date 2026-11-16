@@ -220281,5 +220281,62 @@
     ],
     "inserito": "2026-11-16",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "una-collezione-di-emozioni-museo-di-palazzo-pretorio-prato-2026-11-28",
+    "titolo": "Una collezione di emozioni: laboratorio per famiglie",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T16:00",
+    "luogo": "Museo di Palazzo Pretorio",
+    "indirizzo": "Prato",
+    "comune": "100005",
+    "lat": 43.87825,
+    "lon": 11.08516,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro di un ciclo per bambini dai 5 agli 8 anni: i colori e le storie dei dipinti diventano giochi di osservazione e attività creative per riconoscere le emozioni. Prenotazione necessaria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Museo di Palazzo Pretorio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Museo di Palazzo Pretorio",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfxltVXD7dV/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "capodanno-al-tiqu-una-notte-in-italia-sirianni-ferracane-genova-2026-12-31",
+    "titolo": "Capodanno al Tiqu: Una notte in Italia con Sirianni e Ferracane",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T22:00",
+    "luogo": "Tiqu Teatro",
+    "indirizzo": "Genova",
+    "comune": "010025",
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Federico Sirianni e Tiberio Ferracane accompagnano il Capodanno in un viaggio tra le grandi scuole della canzone d’autore italiana: Genova, Milano, Bologna, Roma, Napoli e Torino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Tiqu Teatro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Tiqu Teatro",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfxJr4hMExm/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
