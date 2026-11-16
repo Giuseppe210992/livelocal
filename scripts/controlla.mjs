@@ -97,7 +97,13 @@ for (const p of pagine) {
 }
 
 // 5. Sitemap
-const sitemap = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
+// /sitemap.xml è un indice: le pagine stanno in sitemap-principali, -territorio, -eventi e -luoghi.
+const indice = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
+if (!indice.includes('<sitemapindex')) errori.push('sitemap.xml non è un indice di mappe');
+const sitemap = ['principali', 'territorio', 'eventi', 'luoghi'].map((n) => {
+  if (!indice.includes(`sitemap-${n}.xml<`)) errori.push(`sitemap: l'indice non cita sitemap-${n}.xml`);
+  return readFileSync(join(DIST, `sitemap-${n}.xml`), 'utf8');
+}).join('\n');
 for (const p of pagine.filter((x) => relative(DIST, x).startsWith('evento/'))) {
   const percorso = relative(DIST, p).replace(/index\.html$/, '');
   if (!sitemap.includes(`${BASE}${percorso}<`)) errori.push(`sitemap: manca /${percorso}`);

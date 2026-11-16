@@ -1,41 +1,13 @@
-// Mappa del sito per Google e Bing: tutte le pagine, rigenerata a ogni pubblicazione.
+// Indice delle mappe del sito per Google e Bing, rigenerato a ogni pubblicazione. Le pagine stanno in quattro mappe più piccole.
 import type { APIRoute } from 'astro';
-import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione, comuniConPagina, regioniConEventi } from '../lib/eventi';
-import type { Evento } from '../lib/eventi';
-import { province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from '../lib/luoghi';
+import { NOMI_SITEMAP, ultimaModifica } from '../lib/sitemap';
 import { urlAssoluto } from '../lib/sito';
-import { luoghi, regioniConLuoghi, provinceConLuoghi, percorsoZona } from '../lib/luoghiDaVisitare';
-
-// Data dell'ultima modifica: l'evento inserito più di recente in quella pagina.
-const ultima = (lista: Evento[]) => lista.map((e) => e.inserito).sort().at(-1);
 
 export const GET: APIRoute = () => {
-  const pagine: { percorso: string; lastmod?: string }[] = [
-    { percorso: '/', lastmod: ultima(eventi) },
-    { percorso: '/oggi/' },
-    { percorso: '/domani/' },
-    { percorso: '/weekend/' },
-    { percorso: '/mappa/', lastmod: ultima(eventi) },
-    { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
-    { percorso: '/luoghi/', lastmod: luoghi.map((l) => l.verificato).sort().at(-1) },
-    ...regioniConLuoghi().flatMap((r) => provinceConLuoghi(r).map((p) => ({ percorso: percorsoZona(p) }))),
-    ...luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato })),
-    { percorso: '/luoghi/mappa/' },
-    { percorso: '/luoghi/europa/' },
-    { percorso: '/sponsor/' },
-    { percorso: '/segnala/' },
-    { percorso: '/segnala/modulo/' },
-    { percorso: '/privacy/' },
-    ...regioniConEventi().map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),
-    ...province.filter((p) => eventiDellaProvincia(p).length > 0).map((p) => ({ percorso: percorsoProvincia(p), lastmod: ultima(eventiDellaProvincia(p)) })),
-    ...comuniConPagina(comuni).map((c) => ({ percorso: percorsoComune(c), lastmod: ultima(eventiDelComune(c)) })),
-    ...comuni.flatMap((c) => c.frazioni.map((f) => ({ percorso: percorsoFrazione(c, f), lastmod: ultima(eventiDellaFrazione(c, f)) }))),
-    ...eventi.map((e) => ({ percorso: e.percorso, lastmod: e.inserito })),
-  ];
   const corpo = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${pagine.map((p) => `  <url><loc>${urlAssoluto(p.percorso)}</loc>${p.lastmod ? `<lastmod>${p.lastmod}</lastmod>` : ''}</url>`).join('\n')}
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${NOMI_SITEMAP.map((n) => { const m = ultimaModifica(n); return `  <sitemap><loc>${urlAssoluto(`/sitemap-${n}.xml`)}</loc>${m ? `<lastmod>${m}</lastmod>` : ''}</sitemap>`; }).join('\n')}
+</sitemapindex>
 `;
   return new Response(corpo, { headers: { 'Content-Type': 'application/xml; charset=utf-8' } });
 };
