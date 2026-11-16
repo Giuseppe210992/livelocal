@@ -221867,5 +221867,118 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-16",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lorenzo-l-incredibile-avventura-di-jovanotti-visioni-italiane-modernissimo-bologna-2026-11-22",
+    "titolo": "Lorenzo – L’incredibile avventura di Jovanotti (Visioni Italiane)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T21:30",
+    "luogo": "Cinema Modernissimo",
+    "indirizzo": "Bologna",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento speciale di Visioni Italiane: i registi Dario Zonta e Carlo Zoratti presentano il film sulla vita di Jovanotti, tra canzoni, viaggi e racconto intimo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfwhJG5DHzO/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "knit-intrecciare-il-passato-per-nostalgia-del-futuro-palazzo-dei-musei-reggio-emilia-2026-11-21",
+    "titolo": "KNIT – Intrecciare il passato per nostalgia del futuro",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "luogo": "Palazzo dei Musei",
+    "indirizzo": "Via Spallanzani 1, Reggio Emilia",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dei designer del Master in Creative Knitwear Design in dialogo con le collezioni etnografiche dei Musei Civici: la maglieria come linguaggio identitario. Inaugurazione sabato 21 novembre alle 11. Aperta venerdì, sabato e domenica dalle 10 alle 18.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Reggio Emilia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfxdbj3RObF/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia",
+    "fine": "2027-02-28"
+  },
+  {
+    "slug": "lello-porru-graffiti-laboratorio-musei-nazionali-cagliari-2026-11-21-1000",
+    "titolo": "Lello Porru – Graffiti: laboratorio per ragazzi ai Musei Nazionali (ore 10)",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "luogo": "Musei Nazionali di Cagliari",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica delle ore 10. Laboratorio gratuito di circa due ore per ragazzi dai 7 ai 12 anni sull’arte contemporanea e sull’artista sardo Lello Porru, con realizzazione di una piccola opera su tavoletta di legno. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfxRH7VCkvI/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lello-porru-graffiti-laboratorio-musei-nazionali-cagliari-2026-11-21-1600",
+    "titolo": "Lello Porru – Graffiti: laboratorio per ragazzi ai Musei Nazionali (ore 16)",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "luogo": "Musei Nazionali di Cagliari",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica delle ore 16. Laboratorio gratuito di circa due ore per ragazzi dai 7 ai 12 anni sull’arte contemporanea e sull’artista sardo Lello Porru, con realizzazione di una piccola opera su tavoletta di legno. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfxRH7VCkvI/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
