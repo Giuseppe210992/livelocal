@@ -220450,5 +220450,339 @@
     ],
     "inserito": "2026-11-16",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "beaujolais-nouveau-viareggio",
+    "titolo": "Beaujolais Nouveau",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Galliano 1923",
+    "indirizzo": "Viale Guglielmo Marconi 127",
+    "cap": null,
+    "comune": "046033",
+    "frazione": null,
+    "lat": 43.880579,
+    "lon": 10.235182,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata speciale dedicata al Beaujolais Nouveau con vini francesi, formaggi, gnocchi in fonduta Savoyarde, tarte tatin e un'atmosfera autunnale. Il locale si trasformerà con foglie e colori.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Galliano 1923",
+    "fonti": [
+      {
+        "nome": "Galliano 1923",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfCtSzEAEO3",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "d-vi-serata-di-giochi-di-ruolo-falconara-marittima",
+    "titolo": "D&VÌ: serata di giochi di ruolo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T20:30",
+    "fine": null,
+    "luogo": "La Valevineria",
+    "indirizzo": "Via Antonio Fratti 6b",
+    "cap": null,
+    "comune": "042018",
+    "frazione": null,
+    "lat": 43.630631,
+    "lon": 13.394836,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata ai giochi di ruolo fantasy alla Valevineria. L'evento include la creazione dei personaggi con l'assistenza di un Master e avventure guidate. Pensato anche per chi non ha mai giocato prima. Posti limitati e prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "prenotazione": null,
+    "organizzatore": "La Valevineria",
+    "fonti": [
+      {
+        "nome": "La Valevineria",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Dfb7Ya_R_w9",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "frasche-con-oldseed-ancona",
+    "titolo": "Frasche con Oldseed",
+    "categoria": "concerto",
+    "inizio": "2026-11-19T21:00",
+    "fine": null,
+    "luogo": "Raval",
+    "indirizzo": "Piazza del Plebiscito 54",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.619529,
+    "lon": 13.511232,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata live della rassegna Frasche con l'ospite canadese Oldseed, cantautore folk internazionale. Appuntamento musicale nella location del Raval con inizio alle 21:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Raval",
+    "fonti": [
+      {
+        "nome": "Raval",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfkOtE1DTO9",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "back-to-back-con-aion-e-raval-ancona",
+    "titolo": "Back to Back con Aion e Raval",
+    "categoria": "concerto",
+    "inizio": "2026-11-23T20:00",
+    "fine": null,
+    "luogo": "Raval",
+    "indirizzo": "Piazza del Plebiscito 54",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.619529,
+    "lon": 13.511232,
+    "coordinateApprossimate": false,
+    "descrizione": "Primo appuntamento del nuovo format Back to Back: cena vegana di illusioni gastronomiche a cura di Andrea Tantucci (Aion) ed Emanuele Giampieri (Raval). Menu a 35 euro comprensivo di cena e drink.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "prenotazione": null,
+    "organizzatore": "Raval",
+    "fonti": [
+      {
+        "nome": "Raval",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfr-3o1jUWE",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "frasche-con-lisa-luminari-ancona",
+    "titolo": "Frasche con Lisa Luminari",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T21:00",
+    "fine": null,
+    "luogo": "Raval",
+    "indirizzo": "Piazza del Plebiscito 54",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.619529,
+    "lon": 13.511232,
+    "coordinateApprossimate": false,
+    "descrizione": "Quarto appuntamento della rassegna autunnale Frasche con il concerto della cantautrice Lisa Luminari. Live music al Raval con inizio alle ore 21:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Raval",
+    "fonti": [
+      {
+        "nome": "Raval",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DeR6N2ssUx_",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "frasche-con-rocco-del-pozzo-ancona",
+    "titolo": "Frasche con Rocco Del Pozzo",
+    "categoria": "concerto",
+    "inizio": "2026-12-17T21:00",
+    "fine": null,
+    "luogo": "Raval",
+    "indirizzo": "Piazza del Plebiscito 54",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.619529,
+    "lon": 13.511232,
+    "coordinateApprossimate": false,
+    "descrizione": "Ultimo appuntamento della rassegna Frasche al Raval con il live di Rocco Del Pozzo. Serata musicale con inizio alle 21:00 come da programma della seconda edizione autunnale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Raval",
+    "fonti": [
+      {
+        "nome": "Raval",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DeR6N2ssUx_",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "event-by-ca-tribute-show-villafranca-di-verona",
+    "titolo": "Event by CA Tribute Show",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Dubliners Irish Pub",
+    "indirizzo": "Via Trieste 6/a",
+    "cap": null,
+    "comune": "023096",
+    "frazione": null,
+    "lat": 45.347827,
+    "lon": 10.842369,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di tributo a Ca, con un tribute show che rievoca lo stile del cantautore italiano. L'evento si terrà presso il pub.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dubliners Irish Pub",
+    "fonti": [
+      {
+        "nome": "Dubliners Irish Pub",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfX7gQvthGt",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ultimo-raccolto-viterbo",
+    "titolo": "L'Ultimo Raccolto",
+    "categoria": "concerto",
+    "inizio": "2026-11-19T20:00",
+    "fine": null,
+    "luogo": "Piazza - Ospitalità Locale",
+    "indirizzo": "Piazza della morte 2",
+    "cap": null,
+    "comune": "056059",
+    "frazione": null,
+    "lat": 42.414884,
+    "lon": 12.102851,
+    "coordinateApprossimate": false,
+    "descrizione": "Percorso gastronomico autunnale a base di funghi. Quattro portate abbinate a tre vini selezionati e cocktail finale. Esperienza pensata per esaltare ingredienti di stagione e abbinamenti con piccoli produttori locali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "Piazza - Ospitalità Locale",
+    "fonti": [
+      {
+        "nome": "Piazza - Ospitalità Locale",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfoukupiKhH",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "foo-fighters-tribute-sant-ambrogio-di-torino",
+    "titolo": "Foo Fighters Tribute",
+    "categoria": "concerto",
+    "inizio": "2026-11-19T21:30",
+    "fine": null,
+    "luogo": "La Sacra Birra",
+    "indirizzo": "Corso Moncenisio 18",
+    "cap": null,
+    "comune": "001255",
+    "frazione": null,
+    "lat": 45.093033,
+    "lon": 7.377728,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata a un tributo ai Foo Fighters con ingresso gratuito. L'evento si svolge al pub La Sacra Birra con musica live.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Sacra Birra",
+    "fonti": [
+      {
+        "nome": "La Sacra Birra",
+        "tipo": "organizzatore",
+        "url": "https://www.lasacrabirra.it/eventi.html",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cena-con-special-guest-umberto-smaila-bergamo",
+    "titolo": "CENA CON SPECIAL GUEST UMBERTO SMAILA",
+    "categoria": "concerto",
+    "inizio": "2026-12-18",
+    "fine": null,
+    "luogo": "BRÓ Eat.Drink",
+    "indirizzo": "Via dell'industria 6",
+    "cap": null,
+    "comune": "016024",
+    "frazione": null,
+    "lat": 45.667497,
+    "lon": 9.664806,
+    "coordinateApprossimate": false,
+    "descrizione": "Cena con special guest Umberto Smaila. Serata con musica e ospiti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "BRÓ Eat.Drink",
+    "fonti": [
+      {
+        "nome": "BRÓ Eat.Drink",
+        "tipo": "organizzatore",
+        "url": "https://www.broeatdrink.it/eventi.html",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-16",
+    "inseritoDa": "consegna"
   }
 ]
