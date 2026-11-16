@@ -3,8 +3,8 @@
  "fonti": {
   "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
    "ultima": "2026-11-16",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.piacenza.it/it/eventi": {
@@ -1088,16 +1088,16 @@
    "falliti": 0
   },
   "https://www.comune.ragusa.it/it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://direzioneregionalemuseilazio.cultura.gov.it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: fetch failed",
-   "falliti": 2
+   "falliti": 3
   },
   "https://eventi.comune.verbania.it/Eventi": {
    "ultima": "2026-11-13",
@@ -1112,27 +1112,27 @@
    "falliti": 3
   },
   "https://emiliaromagnaturismo.it/it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.fondazionemacte.com/it/programma": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comunefiv.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.feltrinellieditore.it/appuntamenti": {
-   "ultima": "2026-11-15",
-   "eventi": 10,
-   "esito": "ok: 10 proposti, 10 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 12,
+   "esito": "ok: 15 proposti, 12 superano il controllo",
    "falliti": 0
   },
   "https://lacascinacornaredo.it/eventi": {
@@ -1142,33 +1142,33 @@
    "falliti": 3
   },
   "https://www.laquilacongressi.it/evento": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://jesolo.it/events-1/categoria/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 7,
-   "esito": "ok: 7 proposti, 7 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 12,
+   "esito": "ok: 12 proposti, 12 superano il controllo",
    "falliti": 0
   },
   "https://www.illagomaggiore.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 6,
-   "esito": "ok: 6 proposti, 6 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://letsgo.gorizia.it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
-   "esito": "ok: 2 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.museodellacittalivorno.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://www.ordinemauriziano.it/palazzina-stupinigi/eventi": {
@@ -1178,15 +1178,15 @@
    "falliti": 3
   },
   "https://www.merano-suedtirol.it/it/merano/informazioni-servizi/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.museibassano.it/it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 4,
-   "esito": "ok: 6 proposti, 4 superano il controllo",
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://palazzorealedinapoli.org/evento": {
@@ -1196,21 +1196,21 @@
    "falliti": 3
   },
   "https://palazzoareseborromeo.it/evento": {
-   "ultima": "2026-11-15",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://prolocobotticino.it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://prolocoaversa.it/evento": {
-   "ultima": "2026-11-15",
-   "eventi": 7,
-   "esito": "ok: 8 proposti, 7 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.spaziomosaico.it/evento": {
@@ -1220,21 +1220,21 @@
    "falliti": 3
   },
   "https://www.palazzodiamanti.it/mostre": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.teatromassimobellini.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://www.teatrodannunziolatina.it/programmazione": {
-   "ultima": "2026-11-15",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.turismoroma.it/it/eventi": {
@@ -1244,27 +1244,27 @@
    "falliti": 3
   },
   "https://www.scopri.gorizia.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 3 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ted.com/tedx/events": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
-   "esito": "ok: 6 proposti, 0 superano il controllo",
+   "esito": "ok: 10 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://unionetresinarosecchia.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 8,
-   "esito": "ok: 10 proposti, 8 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 14,
+   "esito": "ok: 15 proposti, 14 superano il controllo",
    "falliti": 0
   },
   "https://valledaostaheritage.com/whats-on": {
-   "ultima": "2026-11-15",
-   "eventi": 3,
-   "esito": "ok: 4 proposti, 3 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitlmr.it/it/eventi": {
@@ -1280,9 +1280,9 @@
    "falliti": 3
   },
   "https://www.visitbrescia.it/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 8,
+   "esito": "ok: 8 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://www.visitpiemonte.com/en/events": {
@@ -1292,15 +1292,15 @@
    "falliti": 3
   },
   "https://www.visitmuve.it/evento": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://visitcesenatico.it/vivi-cesenatico/eventi": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.visittuscany.com/en/events": {
@@ -1310,141 +1310,141 @@
    "falliti": 3
   },
   "https://www.visitrimini.com/en/events": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 7 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visitrovereto.it/vivi/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 8,
-   "esito": "ok: 9 proposti, 8 superano il controllo",
+   "esito": "ok: 10 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://www.corriere.it/giochi/prima-o-dopo/?intcmp=fascia-giochi-hpcor": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://t.me/s/comunediminturnocomunicazioni": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://corrierelivornese.it/livorno/cultura-ed-eventi/diritto-allo-studio-e-programmazione-di-eventi-il-conservatorio-mascagni-incassa-promesse-da-regione-e-comune/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.sora24.it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.gaeta.it/capodanno-2026-a-gaeta-programma-eventi-paolo-belli-e-luminarie-favole-di-luce": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 2,
    "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.ilmattino.it/primopiano/esteri/francia_scontri_oggi_manifestazioni_diretta_oggi-9889729.html": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.fsnews.it/it/eventi.html": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 2 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://www.gazzetta.it/turismo-sportivo/eventi/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.ilmessaggero.it/roma/eventi/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.latinatoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 2,
-   "esito": "ok: 3 proposti, 2 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 11,
+   "esito": "ok: 11 proposti, 11 superano il controllo",
    "falliti": 0
   },
   "https://www.ilsole24ore.com/art/l-agenda-lunedi-16-novembre-AJWUmIGC": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "esito": "ok: 2 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://www.liberta.it/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.ilroma.net/sezioni/736/eventi": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 1 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ilgazzettino.it/esteri/francia_scontri_oggi_manifestazioni_cosa_succede-9889732.html": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://qds.it/cultura/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ilfattoquotidiano.it/partecipa/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.sbircialanotizia.it/articoli/2026/11/14/processo-stasiuk-sjk8e/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://umanitanova.org/events/": {
-   "ultima": "2026-11-15",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 1,
+   "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://www.cronachemaceratesi.it/category/archivi/eventi-spettacoli/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.ilrestodelcarlino.it/cosa-fare": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 2 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://www.legnanonews.com/category/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 4 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 9,
+   "esito": "ok: 9 proposti, 9 superano il controllo",
    "falliti": 0
   },
   "https://www.stampaitaliana.online/eventi/": {
@@ -1454,7 +1454,7 @@
    "falliti": 0
   },
   "https://www.ilpescara.it/eventi/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -1742,15 +1742,15 @@
    "falliti": 0
   },
   "https://www.milanotoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.napolitoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 10,
-   "esito": "ok: 11 proposti, 10 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 7,
+   "esito": "ok: 7 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://indicatoreweb.it/category/eventi/": {
@@ -1820,46 +1820,46 @@
    "falliti": 0
   },
   "https://reggiadicaserta.cultura.gov.it/iniziative/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.salernotoday.it/eventi/": {
+   "ultima": "2026-11-16",
+   "eventi": 3,
+   "esito": "ok: 4 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.casertanews.it/eventi/": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.romatoday.it/eventi/": {
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.torinotoday.it/eventi/": {
+   "ultima": "2026-11-16",
    "eventi": 2,
    "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
-  "https://www.salernotoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.casertanews.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
-  },
-  "https://www.romatoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
-  },
-  "https://www.torinotoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
-  },
   "https://www.bolognatoday.it/eventi/": {
-   "ultima": "2026-11-15",
-   "eventi": 1,
-   "esito": "ok: 3 proposti, 1 superano il controllo",
+   "ultima": "2026-11-16",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.firenzetoday.it/eventi/": {
-   "ultima": "2026-11-15",
+   "ultima": "2026-11-16",
    "eventi": 0,
-   "esito": "errore: The operation was aborted due to timeout",
-   "falliti": 1
+   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "falliti": 0
   }
  }
 }
