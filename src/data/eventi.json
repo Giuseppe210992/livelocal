@@ -222092,5 +222092,61 @@
     ],
     "inserito": "2026-11-16",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "rumori-fuori-scena-turi-e-federica-amore-teatro-metropolitan-catania-2026-11-29",
+    "titolo": "Rumori fuori scena con Turi e Federica Amore",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T18:00",
+    "luogo": "Teatro Metropolitan",
+    "indirizzo": "Catania",
+    "comune": "087015",
+    "lat": 37.44224,
+    "lon": 15.03593,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo spettacolo della nuova stagione del Teatro Metropolitan: una commedia travolgente con Turi e Federica Amore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Metropolitan",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Metropolitan Catania",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfRkvZLj7mn/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "riflessioni-sull-attore-postnovecentesco-seminario-de-marinis-museo-attore-genova-2026-11-26",
+    "titolo": "Riflessioni sull’attore postnovecentesco: seminario di Marco De Marinis",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T16:00",
+    "luogo": "Museo Biblioteca dell’Attore",
+    "indirizzo": "Genova",
+    "comune": "010025",
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Seminario di Marco De Marinis sulla trasformazione della figura dell’attore dagli anni Sessanta a oggi, tra realtà, presenza e performance, neointerpreti e non-attori. Nella rassegna Testimonianze Ricerca Azioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Teatro Akropolis",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro Akropolis",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfR8GXzj3rY/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
