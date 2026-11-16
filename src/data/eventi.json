@@ -225621,5 +225621,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-16",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "urzulei-tra-montagne-e-tradizioni-urzulei",
+    "titolo": "Urzulei, tra Montagne e Tradizioni",
+    "categoria": "sagra",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-22T21:30",
+    "luogo": "Centro storico",
+    "indirizzo": "Urzulei",
+    "comune": "116020",
+    "lat": 40.12706,
+    "lon": 9.5125,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda edizione della festa organizzata dalla Pro Loco: stand di prodotti locali e artigianato dalle 10, esibizioni itineranti di gruppi folk, cori e tenores, laboratorio sugli strumenti antichi e spettacoli serali con musica e balli in piazza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Urzulei APS",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Sardegna Live",
+        "tipo": "stampa",
+        "url": "https://www.sardegnalive.net/in-sardegna/ogliastra/urzulei-tra-montagne-e-tradizioni-il-21-e-22-novembre-due-giorni-di-festa-tra-musica-folklore-e-sapori-dellogliastra-oorbyr3e",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
