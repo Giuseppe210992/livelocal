@@ -22,6 +22,7 @@ export const GET: APIRoute = () => {
     ...luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato })),
     { percorso: '/luoghi/mappa/' },
     { percorso: '/luoghi/europa/' },
+    { percorso: '/sponsor/' },
     { percorso: '/segnala/' },
     { percorso: '/segnala/modulo/' },
     { percorso: '/privacy/' },

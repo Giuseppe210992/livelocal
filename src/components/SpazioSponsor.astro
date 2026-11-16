@@ -1,0 +1,11 @@
+---
+// Spazio per uno sponsor. Finché nessuno lo affitta mostra un invito a contattare il titolare.
+// Quando c'è uno sponsor, si sostituisce il contenuto con il suo messaggio (sempre con l'etichetta «Sponsor», senza tracciamento).
+import { IMPOSTAZIONI, href } from '../lib/sito';
+const email = IMPOSTAZIONI.emailContatto;
+const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
+---
+<aside class="sponsor-spazio" aria-label="Spazio per sponsor">
+  <span class="sponsor-spazio__etichetta">Sponsor</span>
+  <p><b>Questo spazio è disponibile.</b> Vuoi far conoscere la tua attività a chi cerca eventi e luoghi da visitare? <a href={href('/sponsor/')}>Scopri come</a> oppure scrivi a <a href={`mailto:${email}?subject=${oggetto}`}>{email}</a>.</p>
+</aside>

@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import CercaEventi from '../components/CercaEventi.astro';
+import SpazioSponsor from '../components/SpazioSponsor.astro';
 import Pastiglia from '../components/Pastiglia.astro';
 import { prossimi, eventiDellaRegione, eventiDellaProvincia, regioniConEventi, provinceConEventi } from '../lib/eventi';
 import { totaleLuoghi } from '../lib/luoghiDaVisitare';
@@ -19,7 +20,7 @@ const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRe
 >
   <section class="apertura apertura--home">
     <h1>Cosa fare vicino a te</h1>
-    <p class="apertura__testo">Eventi, mostre, concerti e sagre di tutta Italia, e i luoghi da visitare con orari e prezzi. Gratis, senza registrazione e senza pubblicità.</p>
+    <p class="apertura__testo">Eventi, mostre, concerti e sagre di tutta Italia, e i luoghi da visitare con orari e prezzi. Gratis, senza registrazione e senza tracciamento.</p>
   </section>
 
   <CercaEventi />
@@ -38,6 +39,8 @@ const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRe
       <b>Segnala un evento</b><span>Organizzi qualcosa? Dillo in due minuti</span>
     </a>
   </section>
+
+  <SpazioSponsor />
 
   <details class="sfoglia">
     <summary>Sfoglia per regione e provincia</summary>

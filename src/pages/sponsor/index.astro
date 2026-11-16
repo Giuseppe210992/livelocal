@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import Briciole from '../../components/Briciole.astro';
+import { prossimi } from '../../lib/eventi';
+import { totaleLuoghi } from '../../lib/luoghiDaVisitare';
+import { luoghiEuropa } from '../../lib/luoghiEuropa';
+import { SITO, IMPOSTAZIONI, href } from '../../lib/sito';
+import { jsonLdBriciole } from '../../lib/jsonld';
+
+const email = IMPOSTAZIONI.emailContatto;
+const voci = [{ nome: 'Pubblicità e sponsor', percorso: '/sponsor/' }];
+const nEventi = prossimi().length.toLocaleString('it-IT');
+const nLuoghi = (totaleLuoghi() + luoghiEuropa.length).toLocaleString('it-IT');
+const corpo = encodeURIComponent('Buongiorno,\nvorrei informazioni su uno spazio pubblicitario su LiveLocal.\n\nAttività: \nZona o territorio: \nPeriodo: \nTelefono: \n');
+const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
+---
+<Base
+  titolo={`Pubblicità e sponsor: affitta uno spazio su ${SITO.nome}`}
+  descrizione="Hotel, ristoranti, guide, musei e organizzatori: affitta uno spazio sponsor su LiveLocal, il calendario gratuito di eventi e luoghi da visitare. Scrivici per un preventivo."
+  percorso="/sponsor/"
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <p class="apertura__sopra">Per le attività</p>
+    <h1>Fai conoscere la tua attività su {SITO.nome}</h1>
+    <p class="apertura__testo">{SITO.nome} è un calendario gratuito di eventi e luoghi da visitare. Se hai un hotel, un B&amp;B, un ristorante, una guida, un museo o organizzi eventi, puoi affittare uno spazio sponsor accanto a chi cerca cosa fare.</p>
+    <p><a class="bottone bottone--evento" href={`mailto:${email}?subject=${oggetto}&body=${corpo}`}>Scrivici per un preventivo</a></p>
+    <p class="fonte-luogo">Oppure scrivi a <a href={`mailto:${email}?subject=${oggetto}`}>{email}</a>. Rispondiamo di persona.</p>
+  </section>
+
+  <h2>Cosa c'è oggi sul sito</h2>
+  <ul>
+    <li><b>{nEventi}</b> eventi in programma in tutta Italia, aggiornati ogni ora.</li>
+    <li><b>{nLuoghi}</b> luoghi da visitare (musei, aree archeologiche, castelli e palazzi) in Italia e in Europa, con mappa.</li>
+    <li>Pagine per regione, provincia e comune, e pagine «Oggi», «Domani» e «Weekend».</li>
+  </ul>
+  <p class="fonte-luogo">Per rispettare la privacy non raccogliamo statistiche sui visitatori, quindi non promettiamo numeri di visite: ti diciamo solo cosa c'è sul sito.</p>
+
+  <h2>Che spazi puoi affittare</h2>
+  <ul class="elenco-sponsor">
+    <li><b>Spazio in home.</b> Un riquadro «Sponsor» sotto la ricerca degli eventi, la prima pagina che vede chi arriva.</li>
+    <li><b>Spazio nei luoghi da visitare.</b> Un riquadro nella sezione dei musei, dei monumenti e delle mappe dei luoghi, utile per chi ospita o guida i turisti.</li>
+    <li><b>Spazio del tuo territorio.</b> Un riquadro nelle pagine degli eventi della tua provincia o del tuo comune, per chi lavora in una zona precisa.</li>
+  </ul>
+  <p>Ogni spazio ha un testo breve, un'immagine facoltativa e un collegamento al tuo sito o ai tuoi contatti. Durata e prezzo si concordano: il costo dipende dallo spazio e dal periodo, e te lo diciamo prima, per iscritto.</p>
+
+  <h2>Le regole, per essere chiari con tutti</h2>
+  <ul>
+    <li>Gli spazi hanno sempre l'etichetta <b>«Sponsor»</b>: chi legge deve capire che è pubblicità.</li>
+    <li><b>Nessun tracciamento e nessun cookie</b> di profilazione, nemmeno per gli sponsor.</li>
+    <li>Gli sponsor non cambiano le informazioni: eventi e luoghi non si comprano e non si spostano in cima a pagamento.</li>
+    <li>Non accettiamo pubblicità ingannevole, illecita o per adulti.</li>
+  </ul>
+
+  <p class="nota">Vuoi invece segnalare un evento? È sempre gratis: <a href={href('/segnala/')}>segnala un evento</a>.</p>
+</Base>

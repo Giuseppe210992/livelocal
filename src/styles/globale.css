@@ -382,3 +382,10 @@ main li { margin-bottom: .35rem; }
 .bolla-zona span { display: flex; align-items: center; justify-content: center; margin: 0; border-radius: 50%; background: rgb(11 94 138 / 82%); color: #fff; font-weight: 800; font-size: .85rem; border: 3px solid #fff; box-shadow: 0 2px 8px rgb(0 0 0 / 35%); }
 .bolla-zona--europa span { background: rgb(123 63 160 / 82%); }
 .bolla-zona small { position: absolute; left: 50%; top: 100%; transform: translateX(-50%); pointer-events: none; margin-top: 1px; font-size: .68rem; font-weight: 700; color: #1b2430; text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 5px #fff; white-space: nowrap; }
+
+/* Spazio per gli sponsor */
+.sponsor-spazio { position: relative; margin: 22px 0; padding: 16px 16px 12px; background: var(--carta); border: 1px dashed var(--bordo); border-radius: var(--raggio); font-size: .92rem; color: var(--tenue); }
+.sponsor-spazio p { margin: 0; }
+.sponsor-spazio__etichetta { display: inline-block; margin-bottom: 6px; padding: 2px 8px; border-radius: 999px; background: var(--grigio-tenue); color: var(--tenue); font-size: .7rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
+.elenco-sponsor { padding-left: 1.1rem; }
+.elenco-sponsor li { margin-bottom: 8px; }
