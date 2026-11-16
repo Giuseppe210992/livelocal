@@ -73,7 +73,7 @@ jobs:
         env:
           FORZA: ${{ inputs.riscopri && '1' || '' }}
         run: node scripts/scopri-luoghi-osm.mjs | tee scopri-osm.txt
-      - name: Elenca i luoghi d'Europa da Wikidata (a tappe: riprende da dove era arrivato)
+      - name: Elenca i luoghi d'Europa da Wikidata (a tappe, riprende da dove era arrivato)
         if: steps.decide.outputs.run == 'true'
         timeout-minutes: 60
         continue-on-error: true
