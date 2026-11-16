@@ -220784,5 +220784,63 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-16",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dinastie-d-europa-sul-lago-di-como-mostra-villa-carlotta-tremezzina-2026",
+    "titolo": "Dinastie d’Europa sul Lago di Como",
+    "categoria": "mostra",
+    "inizio": "2026-09-18",
+    "fine": "2026-12-08",
+    "luogo": "Villa Carlotta",
+    "indirizzo": "Tremezzina",
+    "comune": "013252",
+    "lat": 45.98444,
+    "lon": 9.18721,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a cura di Maria Angela Previtera ed Elena Lissoni, in collaborazione con i musei Meininger: i ritratti delle dinastie europee, tra cui quelli di Marianna di Orange-Nassau, raccontano il legame tra arte, natura e potere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Villa Carlotta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Villa Carlotta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfU8XU3mAY1/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "manicomi-italici-mostra-museo-di-storia-della-psichiatria-reggio-emilia-2026",
+    "titolo": "Manicomi Italici: fotografie di Silvia Camporesi e Luca Marianaccio",
+    "categoria": "mostra",
+    "inizio": "2026-09-27",
+    "fine": "2027-01-06",
+    "luogo": "Museo di Storia della Psichiatria",
+    "indirizzo": "Via Amendola 2, Reggio Emilia",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica a cura di Cesare Pomarici sugli ex manicomi italiani, progetto vincitore di Strategia Fotografia 2025 e promosso dai Musei Civici di Reggio Emilia con l’Ausl.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Reggio Emilia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfU74gQO_8f/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
