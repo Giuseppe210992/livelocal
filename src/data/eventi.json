@@ -220225,5 +220225,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-16",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "josh-safdie-premio-stella-della-mole-diamanti-grezzi-tff44-cinema-romano-torino-2026-11-30",
+    "titolo": "Josh Safdie al TFF44: Premio Stella della Mole e Diamanti grezzi",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-30T21:30",
+    "luogo": "Cinema Romano",
+    "indirizzo": "Torino",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Al Torino Film Festival il regista Josh Safdie riceve il Premio Stella della Mole e presenta «Diamanti grezzi» (Uncut Gems), il film dei fratelli Safdie con Adam Sandler.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfxRJT9iJAv/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-mille-bolle-incantate-qdv-arena-orzinuovi-2026-11-22",
+    "titolo": "Le Mille Bolle Incantate con La Fata delle Bolle",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T15:00",
+    "luogo": "QDV Arena",
+    "indirizzo": "Via Milano 75, Orzinuovi",
+    "comune": "017125",
+    "lat": 45.39788,
+    "lon": 9.93642,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di bolle di sapone e magia per bambini e famiglie, nel progetto «Crescere buoni cittadini». Due repliche, alle 15:00 e alle 17:30. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Orzinuovi",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Orzinuovi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfw_N38RV4E/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
