@@ -44,9 +44,30 @@ if (base && !/^0+$/.test(base)) {
   daInviare = adesso; // lancio a mano: tutto, una volta
 }
 
+// Pagine fisse che cambiano quando cambiano gli eventi o i luoghi, e mappe del sito.
+const PILASTRI = ['/', '/oggi/', '/domani/', '/weekend/', '/mappa/', '/luoghi/', '/luoghi/mappa/', '/luoghi/europa/'];
+const MAPPE = ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-territorio.xml', '/sitemap-eventi.xml', '/sitemap-luoghi.xml'];
+// Luoghi da visitare nuovi o cambiati (stesso confronto degli eventi).
+const slugLuoghi = (testo) => new Map((JSON.parse(testo).luoghi ?? []).map((l) => [l.slug, JSON.stringify(l)]));
+let luoghiCambiati = [];
+{
+  const ora = slugLuoghi(readFileSync('src/data/luoghi-da-visitare.json', 'utf8'));
+  let prima = new Map();
+  if (base && !/^0+$/.test(base)) { try { prima = slugLuoghi(execFileSync('git', ['show', `${base}:src/data/luoghi-da-visitare.json`], { encoding: 'utf8', maxBuffer: 200 * 1024 * 1024 })); } catch { /* file nuovo o commit non leggibile */ } }
+  luoghiCambiati = [...ora].filter(([slug, json]) => prima.get(slug) !== json).map(([slug]) => `/luoghi/${slug}/`);
+}
+// Modifiche al codice o ai testi del sito (non solo ai dati): si avvisa anche per le pagine fisse e le mappe.
+let sitoCambiato = false;
+if (base && !/^0+$/.test(base)) {
+  try { sitoCambiato = execFileSync('git', ['diff', '--name-only', base, 'HEAD'], { encoding: 'utf8' }).split('\n').some((f) => /^src\/(pages|layouts|components|lib|scripts|styles)\//.test(f)); } catch { /* si ignora */ }
+}
 const url = daInviare.map((e) => SITO + percorso(e));
-if (url.length) url.push(SITO + '/'); // la home elenca i prossimi eventi
-console.log(`IndexNow: ${url.length} indirizzi da inviare (${daInviare.length} eventi nuovi o cambiati).`);
+url.push(...luoghiCambiati.map((p) => SITO + p));
+if (url.length || sitoCambiato || !base || /^0+$/.test(base)) { url.push(...PILASTRI.map((p) => SITO + p)); }
+if (sitoCambiato || !base || /^0+$/.test(base)) url.push(...MAPPE.map((p) => SITO + p));
+const unici = [...new Set(url)];
+url.length = 0; url.push(...unici);
+console.log(`IndexNow: ${url.length} indirizzi da inviare (${daInviare.length} eventi e ${luoghiCambiati.length} luoghi nuovi o cambiati${sitoCambiato ? ', sito modificato' : ''}).`);
 if (!url.length || process.env.INDEXNOW_PROVA) {
   if (process.env.INDEXNOW_PROVA) console.log(url.slice(0, 3).join('\n') + (url.length > 3 ? '\n…' : ''));
   process.exit(0);
