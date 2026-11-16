@@ -1,0 +1,34 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Briciole from '../../../components/Briciole.astro';
+import Pastiglia from '../../../components/Pastiglia.astro';
+import { paesiEuropa, luoghiDelPaese, nomePaese, slugPaese, luoghiEuropa } from '../../../lib/luoghiEuropa';
+import { jsonLdBriciole } from '../../../lib/jsonld';
+import { SITO, href } from '../../../lib/sito';
+
+const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: 'Europa', percorso: '/luoghi/europa/' }];
+const paesi = paesiEuropa();
+---
+<Base
+  titolo={`Luoghi da visitare in Europa: musei, castelli e siti archeologici | ${SITO.nome}`}
+  descrizione="I luoghi storici e culturali più noti d'Europa sulla mappa: musei, castelli, palazzi e siti archeologici, paese per paese. L'Italia ha le schede complete con orari e costi."
+  percorso="/luoghi/europa/"
+  jsonLd={[jsonLdBriciole(voci)]}
+>
+  <Briciole voci={voci} />
+  <section class="apertura">
+    <p class="apertura__sopra">Storia e cultura</p>
+    <h1>Luoghi da visitare in Europa</h1>
+    <p class="apertura__testo">I luoghi più noti, paese per paese, sulla mappa. Fuori dall'Italia per ora trovi nome, tipo, posizione e il collegamento alle informazioni del luogo: gli orari e i costi li controlli sul sito ufficiale.</p>
+    <p><a class="bottone" href={href('/luoghi/mappa/')}>Apri la mappa dei luoghi</a></p>
+    <p class="nota">L'Europa è una novità e si sta allargando: l'elenco si completa nei prossimi giorni, paese dopo paese. I dati arrivano da Wikidata e possono contenere errori.</p>
+  </section>
+  {paesi.length > 0 ? (
+    <section aria-labelledby="titolo-paesi">
+      <h2 id="titolo-paesi" class="titoletto">Paesi <small>{luoghiEuropa.length.toLocaleString('it-IT')} luoghi</small></h2>
+      <ul class="pastiglie">{paesi.map((iso) => <Pastiglia nome={nomePaese(iso)} percorso={`/luoghi/mappa/?zona=${slugPaese(iso)}`} conteggio={luoghiDelPaese(iso).length} />)}</ul>
+      <p class="fonte-luogo">Toccando un paese si apre la mappa su quel paese.</p>
+    </section>
+  ) : <p class="vuoto">I luoghi europei sono in arrivo: la ricerca è in corso.</p>}
+  <p><a href={href('/luoghi/')}>← Luoghi in Italia</a></p>
+</Base>

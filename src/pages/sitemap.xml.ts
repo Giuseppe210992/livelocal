@@ -21,6 +21,7 @@ export const GET: APIRoute = () => {
     ...regioniConLuoghi().flatMap((r) => provinceConLuoghi(r).map((p) => ({ percorso: percorsoZona(p) }))),
     ...luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato })),
     { percorso: '/luoghi/mappa/' },
+    { percorso: '/luoghi/europa/' },
     { percorso: '/segnala/' },
     { percorso: '/segnala/modulo/' },
     { percorso: '/privacy/' },

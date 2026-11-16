@@ -51,7 +51,7 @@ async function avvia(radice: HTMLElement) {
   const scheda = (r: Riga) => `${base}luoghi/${r[0]}/`;
   function popup(r: Riga) {
     if (r[9]) return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><a class="popup__titolo" href="${scheda(r)}">${html(r[1])}</a><span>${html(r[3])} (${r[4]})</span><span>${html(r[8])}</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${scheda(r)}">Orari, costi e come arrivare →</a></div>`;
-    return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><strong class="popup__titolo">${html(r[1])}</strong><span>${html(r[3])} (${r[4]})</span><span>Orari e costi: vedi il sito ufficiale.</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${html(r[10])}" rel="noopener" target="_blank">Sito ufficiale →</a><small>Scheda non ancora verificata da LiveLocal.</small></div>`;
+    return `<div class="popup"><span class="scheda__categoria">${html(r[2])}</span><strong class="popup__titolo">${html(r[1])}</strong><span>${html(r[3])} (${r[4]})</span><span>Orari e costi: vedi le informazioni del luogo.</span>${r[7] ? '<small>Posizione indicativa (centro del paese)</small>' : ''}<a href="${html(r[10])}" rel="noopener" target="_blank">${/wikidata\.org|openstreetmap\.org/.test(r[10]) ? 'Maggiori informazioni →' : 'Sito ufficiale →'}</a><small>Scheda non ancora verificata da LiveLocal.</small></div>`;
   }
   function disegna(inquadra: boolean) {
     const f = filtrati();
@@ -121,7 +121,7 @@ async function avvia(radice: HTMLElement) {
   });
 
   // ---------- luoghi minori da OpenStreetMap: si caricano per regione quando la mappa si avvicina ----------
-  interface Zona { s: string; n: string; b: [number, number, number, number]; c: number }
+  interface Zona { s: string; n: string; b: [number, number, number, number]; c: number; u?: string; e?: number }
   let zone: Zona[] = [];
   const caricate = new Set<string>(), inCorso = new Set<string>();
   try { zone = (await (await fetch(radice.dataset.regioni!)).json()).r; } catch { zone = []; }
@@ -132,19 +132,23 @@ async function avvia(radice: HTMLElement) {
     const vista = mappa.getBounds(), avvicinata = mappa.getZoom() >= 8;
     const daCaricare = avvicinata ? zone.filter((z) => !caricate.has(z.s) && !inCorso.has(z.s) && vista.intersects(L.latLngBounds([z.b[0], z.b[1]], [z.b[2], z.b[3]]))) : [];
     aiuto.hidden = avvicinata || !totaleMinori || caricate.size === zone.length;
-    aiuto.textContent = `Avvicina la mappa per vedere anche altri ${totaleMinori.toLocaleString('it-IT')} luoghi minori (rovine, castelli, musei di paese).`;
+    aiuto.textContent = `Avvicina la mappa per vedere anche altri ${totaleMinori.toLocaleString('it-IT')} luoghi in Italia e in Europa (rovine, castelli, musei).`;
     if (!daCaricare.length) return;
     stato.textContent = 'Carico altri luoghi della zona…';
     await Promise.all(daCaricare.slice(0, 3).map(async (z) => {
       inCorso.add(z.s);
-      try { const r: Riga[] = (await (await fetch(`${base}luoghi-osm/${z.s}.json`)).json()).l; dati.push(...r); caricate.add(z.s); } catch { /* si riprova al prossimo movimento */ }
+      try { const r: Riga[] = (await (await fetch(`${base}${z.u ?? `luoghi-osm/${z.s}.json`}`)).json()).l; dati.push(...r); caricate.add(z.s); } catch { /* si riprova al prossimo movimento */ }
       inCorso.delete(z.s);
     }));
     disegna(false);
   }
   mappa.on('moveend', () => { clearTimeout(timer); timer = window.setTimeout(caricaZone, 350); });
+  // Indirizzo condiviso con ?zona=fr (o il nome di una regione): la mappa parte da quella zona.
+  const zonaRichiesta = new URLSearchParams(location.search).get('zona');
+  const zonaScelta = zonaRichiesta ? zone.find((z) => z.s === zonaRichiesta) : null;
 
   disegna(false);
+  if (zonaScelta) mappa.fitBounds([[zonaScelta.b[0], zonaScelta.b[1]], [zonaScelta.b[2], zonaScelta.b[3]]]);
   caricaZone();
   // Se i luoghi sono pochi si inquadrano; con tanti luoghi si parte dall'Italia intera.
   if (dati.length && dati.length <= 12) disegna(true);
