@@ -5,7 +5,7 @@ import { comune, provincia, regione, comuni } from './luoghi';
 import type { Comune, Provincia, Regione } from './luoghi';
 import { eventiDelComune, prossimi } from './eventi';
 import { readFileSync, existsSync } from 'node:fs';
-import { cercaCoordinate, normNome as normNomeOsm } from './osmGrezzi';
+import { cercaCoordinate, somiglianza } from './osmGrezzi';
 
 export interface LuogoGrezzo {
   slug: string; nome: string; tipo: string; comune: string; indirizzo: string; descrizione: string;
@@ -52,6 +52,7 @@ function caricaBase(): LuogoBase[] {
   const idCompleti = new Set(luoghi.map((l) => (l as unknown as { origine?: string }).origine).filter(Boolean));
   const chiavi = new Set(luoghi.map((l) => `${l.comune}|${normNome(l.nome)}`));
   const out: LuogoBase[] = [];
+  let senzaCoord = 0, trovateCoord = 0;
   for (const e of elenco) {
     if (idCompleti.has(e.id) || !e.nome || e.nome.trim().length < 4 || !/^https?:\/\//.test(e.sito)) continue;
     let c = comune(e.comune);
@@ -63,10 +64,22 @@ function caricaBase(): LuogoBase[] {
     const p = provincia(c.provincia);
     let preciso = Number.isFinite(e.lat) && Number.isFinite(e.lon);
     let lat = preciso ? (e.lat as number) : c.lat, lon = preciso ? (e.lon as number) : c.lon;
-    if (!preciso) { const o = cercaCoordinate(e.nome, c.codiceIstat); if (o) { lat = o.lat; lon = o.lon; preciso = true; } }
+    if (!preciso) { senzaCoord++; const o = cercaCoordinate(e.nome, c.codiceIstat); if (o) { lat = o.lat; lon = o.lon; preciso = true; trovateCoord++; } }
     out.push({ id: e.id, nome: e.nome.trim(), tipo: TIPO_BASE[e.classe] ?? 'Monumento', comuneDati: c, provinciaDati: p, regioneDati: regione(p.regione), lat, lon, coordinateApprossimate: !preciso, sito: e.sito });
   }
-  return out.sort((a, b) => a.comuneDati.nome.localeCompare(b.comuneDati.nome, 'it') || a.nome.localeCompare(b.nome, 'it'));
+  // Doppioni tra le voci di Wikidata (es. «Palazzo Vecchio» e «Museo di Palazzo Vecchio»): stesso comune, nome molto simile
+  // e, se le posizioni sono esatte, a meno di 300 m. Si tiene la voce con il sito ufficiale più breve (di solito la principale).
+  const ordinati = out.sort((a, b) => a.comuneDati.nome.localeCompare(b.comuneDati.nome, 'it') || a.nome.localeCompare(b.nome, 'it'));
+  const tenuti: LuogoBase[] = [];
+  let doppioni = 0;
+  for (const l of ordinati) {
+    const gemello = tenuti.findIndex((t) => t.comuneDati.codiceIstat === l.comuneDati.codiceIstat && somiglianza(t.nome, l.nome) >= (t.coordinateApprossimate || l.coordinateApprossimate ? 1 : 0.75) && (t.coordinateApprossimate || l.coordinateApprossimate || distKm(t.lat, t.lon, l.lat, l.lon) < 0.3));
+    if (gemello < 0) { tenuti.push(l); continue; }
+    doppioni++;
+    if (l.sito.length < tenuti[gemello].sito.length) tenuti[gemello] = l;
+  }
+  console.log(`[luoghi] base: ${tenuti.length} (doppioni tolti: ${doppioni}); senza coordinate in Wikidata: ${senzaCoord}, trovate in OpenStreetMap: ${trovateCoord}`);
+  return tenuti;
 }
 export const luoghiBase: LuogoBase[] = caricaBase();
 export const baseDellaProvincia = (p: Provincia) => luoghiBase.filter((l) => l.provinciaDati.codiceIstat === p.codiceIstat);

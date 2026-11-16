@@ -53,15 +53,22 @@ function sito(tag) {
   try { const u = new URL(v); if (/(facebook|instagram|tripadvisor|google|linktr|wa\.me|whatsapp|booking|youtube|wikipedia)\./i.test(u.host)) return null; return u.toString(); } catch { return null; }
 }
 
-async function interroga(regione) {
+// Richiesta completa e, se Overpass va in timeout, richieste più piccole (solo musei, solo rovine e siti archeologici, il resto).
+const PARTI = {
+  tutto: (a) => `nwr(${a})["tourism"="museum"]["name"];\n  nwr(${a})["historic"~"^(${STORICI})$"]["name"];`,
+  musei: (a) => `nwr(${a})["tourism"="museum"]["name"];`,
+  archeologia: (a) => `nwr(${a})["historic"~"^(archaeological_site|ruins|aqueduct|tomb)$"]["name"];`,
+  resto: (a) => `nwr(${a})["historic"~"^(castle|fort|monastery|manor|city_gate|citywalls)$"]["name"];`,
+};
+async function interroga(regione, parte = 'tutto') {
   const q = `[out:json][timeout:240];
 area["ISO3166-2"="${regione}"]->.a;
 (
-  nwr(area.a)["tourism"="museum"]["name"];
-  nwr(area.a)["historic"~"^(${STORICI})$"]["name"];
+  ${PARTI[parte]('area.a')}
 );
 out center tags;`;
-  if (process.env.OVERPASS_FIXTURE) return JSON.parse(readFileSync(process.env.OVERPASS_FIXTURE, 'utf8'));
+  if (process.env.OVERPASS_FIXTURE && process.env.OVERPASS_SIMULA_TIMEOUT && parte === 'tutto') return null; // prova: la richiesta intera va in timeout
+  if (process.env.OVERPASS_FIXTURE) return parte === 'tutto' || process.env.OVERPASS_FIXTURE_TUTTE_LE_PARTI ? JSON.parse(readFileSync(process.env.OVERPASS_FIXTURE, 'utf8')) : { elements: [] };
   for (let t = 0; t < 4; t++) {
     const url = ENDPOINT[t % ENDPOINT.length];
     try {
@@ -83,12 +90,9 @@ const salva = (completo, fatte) => {
 };
 const fatte = [...regioniGia];
 let incompleto = false;
-for (const regione of REGIONI) {
-  if (regioniGia.has(regione)) { console.log(`${regione}: già fatta`); continue; }
-  const r = await interroga(regione);
-  if (!r) { console.log(`${regione}: Overpass non risponde, si riprende al prossimo lancio.`); incompleto = true; continue; }
+function elabora(elements) {
   let nuovi = 0;
-  for (const el of r.elements ?? []) {
+  for (const el of elements ?? []) {
     const tag = el.tags ?? {};
     if (!tag.name || tag.access === 'private' || tag.access === 'no' || tag.disused || tag.abandoned || tag['disused:historic'] || tag.demolished) continue;
     const lat = el.lat ?? el.center?.lat, lon = el.lon ?? el.center?.lon;
@@ -106,8 +110,24 @@ for (const regione of REGIONI) {
     });
     nuovi++;
   }
-  console.log(`${regione}: ${nuovi} luoghi`);
-  fatte.push(regione);
+  return nuovi;
+}
+for (const regione of REGIONI) {
+  if (regioniGia.has(regione)) { console.log(`${regione}: già fatta`); continue; }
+  let nuovi = 0, completa = true;
+  const intera = await interroga(regione);
+  if (intera) nuovi += elabora(intera.elements);
+  else {
+    // Overpass non ce la fa con la regione intera: si chiede a pezzi, e si tiene quello che arriva.
+    console.log(`${regione}: richiesta intera fallita, provo a pezzi`);
+    for (const parte of ['musei', 'archeologia', 'resto']) {
+      if (!process.env.OVERPASS_FIXTURE) await pausa(15000);
+      const r = await interroga(regione, parte);
+      if (r) nuovi += elabora(r.elements); else { completa = false; console.log(`  ${regione}: parte «${parte}» non riuscita`); }
+    }
+  }
+  console.log(`${regione}: ${nuovi} luoghi${completa ? '' : ' (incompleta: si riprova)'}`);
+  if (completa) fatte.push(regione); else incompleto = true;
   salva(false, fatte);
   if (!process.env.OVERPASS_FIXTURE) await pausa(8000);
 }
