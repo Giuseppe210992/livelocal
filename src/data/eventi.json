@@ -226910,5 +226910,92 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-16",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bastia-presenta-tesi-filippo-siena-bastia-umbra",
+    "titolo": "Bastia Presenta Tesi: Filippo Siena",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T21:00",
+    "fine": "2026-11-19T22:30",
+    "luogo": "Auditorium Sant'Angelo",
+    "indirizzo": "Bastia Umbra",
+    "comune": "054002",
+    "lat": 43.06426,
+    "lon": 12.52874,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo appuntamento della rassegna dedicata alle tesi dei giovani laureati: Filippo Siena presenta il suo lavoro sull'ottimizzazione del layout e dei tempi di recupero in un'azienda. Presenta Michela Giuglietti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Bastia Umbra",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bastia Umbra",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzGmE3x7UZ/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "hayez-e-il-romanticismo-incontro-mazzocca-gam-milano",
+    "titolo": "Incontro su Hayez e il Romanticismo storico con Fernando Mazzocca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T18:00",
+    "fine": "2026-11-17T19:00",
+    "luogo": "Galleria d'Arte Moderna (GAM)",
+    "indirizzo": "Via Palestro 16",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo studioso Fernando Mazzocca tiene un incontro su Francesco Hayez e sul Romanticismo storico, in vista della nuova sala della GAM dedicata a Hayez, che apre il 18 novembre con il capolavoro «La congiura dei Fieschi».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "GAM Milano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram GAM Milano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzDCVfmyZ-/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "l-arte-di-accogliere-visita-guidata-mambo-bologna-2026-11-22",
+    "titolo": "L'arte di accogliere: visita guidata per adulti e bambini",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T17:00",
+    "luogo": "MAMbo – Museo d'Arte Moderna di Bologna",
+    "indirizzo": "Via Don Giovanni Minzoni 14",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata per adulti e bambini dai 6 anni a partire dalle opere della collezione permanente, nella Giornata mondiale per i diritti dell'infanzia e dell'adolescenza. Attività gratuita con biglietto d'ingresso al museo gratuito; prenotazione obbligatoria entro le 16 di venerdì 20 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "MAMbo – Dipartimento educativo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MAMbo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfwuyjcHdwh/",
+        "consultata": "2026-11-16"
+      }
+    ],
+    "inserito": "2026-11-16",
+    "inseritoDa": "ia"
   }
 ]
