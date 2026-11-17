@@ -234467,5 +234467,2228 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-17",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lab-stampante-3d-arese",
+    "titolo": "Lab stampante 3D",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Centro civico Agorà",
+    "indirizzo": "via Monviso 7",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio dedicato alla stampa 3D, aperto a tutti per scoprire la tecnologia, progettare e riparare oggetti. Il primo incontro si tiene con il supporto di un esperto, senza pregressi richiesti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/lab-stampante-3d",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-orfani-invisibili-arese",
+    "titolo": "Gli orfani invisibili",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T20:45",
+    "fine": null,
+    "luogo": "Casa delle Associazioni Tina Anselmi",
+    "indirizzo": "Arese",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Giuseppe del Monte, orfano di femminicidio, racconta la sua esperienza insieme a operatrici del Centro Antiviolenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "UNITER Mi spetta il rispetto; Circolo Acli di Arese",
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/gli-orfani-invisibili",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "game-on-asola",
+    "titolo": "Game On",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T18:30",
+    "luogo": "Biblioteca comunale \"A. Torresano\"",
+    "indirizzo": "Via Ziacchi, 4",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di giochi da tavolo aperto a tutte le età, dai 5 ai 99 anni, organizzato dalla Biblioteca e Informagiovani per favorire socializzazione e divertimento in biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca \"A. Torresano\" e Informagiovani di Asola",
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/game-on",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-algoritmo-e-la-persona-l-educazione-al-tempo-dell-ia-bagheria",
+    "titolo": "L'algoritmo e la persona. L'educazione al tempo dell'IA",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T16:30",
+    "fine": null,
+    "luogo": "Auditorium IIS G. D'Alessandro",
+    "indirizzo": "Via Sant'Ignazio di Loyola 7n",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alle sfide educative, etiche e culturali legate all'intelligenza artificiale. Si riflette sull'enciclica Magnifica humanitas di Leone XIV. Interverranno studiosi e studenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "IIS G. D'Alessandro",
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi/l-algoritmo-e-la-persona-l-educazione-al-tempo-dell-ia",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nella-bellezza-di-canova-e-la-sua-trasformazione-bagheria",
+    "titolo": "Nella Bellezza di Canova e la sua trasformazione",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T17:30",
+    "fine": null,
+    "luogo": "Sala di villa Butera",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra collettiva dedicata all'opera di Antonio Canova e alla sua trasformazione. L'evento si svolge nelle sale di villa Butera.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-e-lettura-insieme-un-mondo-baranzate",
+    "titolo": "Laboratorio e lettura: \"Insieme, un mondo\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-17T17:00",
+    "fine": "2026-11-17T18:30",
+    "luogo": "Biblioteca comunale \"Il Quadrato\"",
+    "indirizzo": "Via Trieste, 23, 20021 Baranzate MI, Italia",
+    "cap": null,
+    "comune": "015250",
+    "frazione": null,
+    "lat": 45.52839,
+    "lon": 9.11192,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per la 37ª giornata mondiale dei diritti dell'infanzia che include un laboratorio di lettura per bambini dai 4 anni in poi, rivolto alle famiglie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Baranzate",
+    "fonti": [
+      {
+        "nome": "Comune di Baranzate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.baranzate.mi.it/it/eventi/laboratorio-e-lettura-insieme-un-mondo",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-creativo-barattoli-di-luce-e-passeggiata-di-luce-baranzate",
+    "titolo": "Laboratorio creativo Barattoli di Luce e passeggiata di Luce",
+    "categoria": "bambini",
+    "inizio": "2026-11-19T16:00",
+    "fine": "2026-11-19T18:30",
+    "luogo": "Piazza Falcone",
+    "indirizzo": "Piazza G. Falcone, 20021 Baranzate MI, Italia",
+    "cap": null,
+    "comune": "015250",
+    "frazione": null,
+    "lat": 45.52839,
+    "lon": 9.11192,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per la costruzione di lanterne in preparazione a una passeggiata, organizzato in occasione della giornata mondiale dei diritti dell'infanzia per coppie adulto-bambino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Baranzate",
+    "fonti": [
+      {
+        "nome": "Comune di Baranzate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.baranzate.mi.it/it/eventi/laboratorio-e-lettura-insieme-un-mondo-734104",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "esibizioni-di-musica-canto-e-danza-laboratori-creativi-baranzate",
+    "titolo": "Esibizioni di musica, canto e danza - laboratori creativi",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T09:30",
+    "fine": "2026-11-21T12:30",
+    "luogo": "Oratorio San Giovanni Bosco",
+    "indirizzo": "via Conciliazione 12 Baranzate 20021",
+    "cap": null,
+    "comune": "015250",
+    "frazione": null,
+    "lat": 45.52839,
+    "lon": 9.11192,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione per famiglie con saluti istituzionali, coreografie, musica, canto e laboratori creativi organizzati da varie scuole e associazioni per la giornata mondiale dei diritti dell'infanzia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Baranzate",
+    "fonti": [
+      {
+        "nome": "Comune di Baranzate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.baranzate.mi.it/it/eventi/laboratorio-e-lettura-insieme-un-mondo-734106",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "installazione-vuoto-a-perdere-a-baranzate-baranzate",
+    "titolo": "Installazione \"Vuoto a perdere\" a Baranzate",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-29T18:30",
+    "luogo": "Sala espositiva comunale, ex chiesetta",
+    "indirizzo": "via Sauro 4/10 Baranzate 20021",
+    "cap": null,
+    "comune": "015250",
+    "frazione": null,
+    "lat": 45.52839,
+    "lon": 9.11192,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di un'installazione composita dedicata alla denuncia della violenza sulle donne, ideata e realizzata dall'Associazione Culturale Fare Arte, con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale Fare Arte",
+    "fonti": [
+      {
+        "nome": "Comune di Baranzate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.baranzate.mi.it/it/eventi/installazione-vuoto-a-perdere-a-baranzate",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-di-natale-evviva-il-panettone-bernareggio",
+    "titolo": "Spettacolo di Natale \"Evviva il panettone\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-30T16:30",
+    "fine": "2026-11-30T18:30",
+    "luogo": "Auditorium Europa",
+    "indirizzo": "Via Morselli, 1",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di burattini per bambine e bambini dedicato alla tradizione natalizia, organizzato dalla Biblioteca Civica e dal Comune di Bernareggio. L'iniziativa prevede un ingresso gratuito e libero per tutti i presenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica e Comune di Bernareggio",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/cultura-spettacolo-di-natale-evviva-il-panettone",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "notte-dei-pupazzi-aspettando-natale-in-biblioteca-bernareggio",
+    "titolo": "Notte dei Pupazzi...Aspettando Natale in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T17:30",
+    "fine": "2026-12-04T18:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Europa, 2",
+    "cap": null,
+    "comune": "108007",
+    "frazione": null,
+    "lat": 45.64959,
+    "lon": 9.40276,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura serale per bambini e bambine dai 3 ai 6 anni organizzata dalla Biblioteca Civica e dal gruppo Mille e una Storia. I piccoli potranno portare un pupazzo che ascolterà le storie e dormirà in biblioteca fino al sabato successivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica e gruppo di lettura Mille e una Storia",
+    "fonti": [
+      {
+        "nome": "Comune di Bernareggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bernareggio.mb.it/it/eventi/biblioteca-notte-dei-pupazzi-aspettando-natale-in-biblioteca",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochi-e-laboratorio-creativo-di-riuso-per-bambini-bovisio-masciago",
+    "titolo": "Giochi e laboratorio creativo di riuso per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-11-18T17:00",
+    "fine": null,
+    "luogo": "LAV",
+    "indirizzo": "Bovisio-Masciago",
+    "cap": null,
+    "comune": "108010",
+    "frazione": null,
+    "lat": 45.61212,
+    "lon": 9.15063,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività ludiche e laboratori creativi di riuso rivolti a bambini di età compresa tra i 6 e i 10 anni, organizzati in occasione della Giornata internazionale dei diritti dell'infanzia e dell'adolescenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bovisio Masciago",
+    "fonti": [
+      {
+        "nome": "Comune di Bovisio-Masciago",
+        "tipo": "ufficiale",
+        "url": "https://comune.bovisiomasciago.mb.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lunedi-al-cinema-u-s-palinese-bra",
+    "titolo": "Lunedì al cinema: U.S. Palinese",
+    "categoria": "mostra",
+    "inizio": "2026-11-23T15:30",
+    "fine": "2026-11-23T15:30",
+    "luogo": "Multisala Impero",
+    "indirizzo": "Via Vittorio Emanuele II 211",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione della commedia 'U.S. Palinese' dei Manetti Bros., parte della rassegna cinematografica 'Lunedì al cinema'. Il film racconta il contrasto tra un calciatore di Serie A e la realtà di una squadra calabrese.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/a-bra-quattro-lunedi-al-cinema-con-un-unico-biglietto-2520025",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "si-alza-il-sipario-del-politeama-boglione-ma-che-razza-di-otello-bra",
+    "titolo": "Si alza il sipario del Politeama Boglione: Ma che razza di Otello",
+    "categoria": "teatro",
+    "inizio": "2026-11-20T21:00",
+    "fine": "2026-11-20T21:00",
+    "luogo": "Teatro Politeama Boglione",
+    "indirizzo": "Teatro Politeama Boglione",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della stagione teatrale con la commedia 'Ma che razza di Otello', una rivisitazione del capolavoro di Shakespeare a cura di Lia Celi e con regia di Massimo Navone. Sul palco Marina Massironi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/si-alza-il-sipario-del-politeama-boglione-di-bra",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-gratuita-alla-mostra-egitto-sulle-tracce-degli-dei-bra",
+    "titolo": "Visita guidata gratuita alla mostra \"Egitto. Sulle tracce degli dei\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T15:00",
+    "fine": "2026-11-22T15:00",
+    "luogo": "Palazzo Mathis",
+    "indirizzo": "Piazza Caduti per la Libertà 20",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla mostra 'Egitto. Sulle tracce degli dèi' ospitata a Palazzo Mathis. L'evento è gratuito e incluso nel biglietto di ingresso alla mostra, che presenta reperti e amuleti inediti dal Museo Egizio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/colazione-al-museo-eventi-mostra-egitto-sulle-tracce-degli-dei-2520291",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lunedi-al-cinema-terapia-di-famiglia-bra",
+    "titolo": "Lunedì al cinema: Terapia di famiglia",
+    "categoria": "mostra",
+    "inizio": "2026-11-30T15:30",
+    "fine": "2026-11-30T15:30",
+    "luogo": "Multisala Impero",
+    "indirizzo": "Via Vittorio Emanuele II 211",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Terapia di famiglia' di Arnaud Lemort, parte della rassegna 'Lunedì al cinema'. La commedia racconta la storia di un uomo che trova l'amore della sua vita, il cui futuro suocero è il suo psicoterapeuta.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/a-bra-quattro-lunedi-al-cinema-con-un-unico-biglietto-2520025-2520026",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-natale-con-la-fanfara-della-brigata-alpina-taurinense-bra",
+    "titolo": "Concerto di Natale con la Fanfara della Brigata Alpina Taurinense",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T21:00",
+    "fine": "2026-12-03T21:00",
+    "luogo": "Teatro Politeama",
+    "indirizzo": "Teatro Politeama",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto natalizio della Fanfara della Brigata Alpina Taurinense presso il Teatro Politeama. L'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sulle-tracce-degli-dei-caccia-al-tesoro-per-le-vie-del-centro-bra",
+    "titolo": "Sulle tracce degli dèi. Caccia al tesoro per le vie del centro",
+    "categoria": "bambini",
+    "inizio": "2026-12-08T16:00",
+    "fine": "2026-12-08T16:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Centro storico",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Caccia al tesoro tematica sulle tracce degli dèi egizi per le vie del centro di Bra, evento gratuito incluso nel biglietto della mostra 'Egitto. Sulle tracce degli dèi'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giorgio-vanni-in-concerto-a-bra-bra",
+    "titolo": "Giorgio Vanni in concerto a Bra",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T21:00",
+    "luogo": "Bra",
+    "indirizzo": "Bra",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Giorgio Vanni dedicato alle sigle più amate. L'ingresso è gratuito ma la prenotazione è obbligatoria tramite Eventbrite.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-alla-mostra-egitto-sulle-tracce-degli-dei-bra",
+    "titolo": "Visita guidata alla mostra \"Egitto. Sulle tracce degli dei\"",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-13T15:00",
+    "fine": "2026-12-13T15:00",
+    "luogo": "Palazzo Mathis",
+    "indirizzo": "Piazza Caduti per la Libertà 20",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda visita guidata in programma alla mostra 'Egitto. Sulle tracce degli dèi' a Palazzo Mathis. L'evento è gratuito e incluso nel biglietto di ingresso alla mostra.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Bra",
+    "fonti": [
+      {
+        "nome": "Comune di Bra",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bra.cn.it/it/eventi/colazione-al-museo-eventi-mostra-egitto-sulle-tracce-degli-dei-2520290",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimane-barocche-2026-xxiv-edizione-arconauti-brescia",
+    "titolo": "Settimane Barocche 2026 XXIV Edizione. Arconauti",
+    "categoria": "concerto",
+    "inizio": "2026-11-17T20:30",
+    "fine": "2026-11-17T22:30",
+    "luogo": "MITA – Museo Internazionale del Tappeto Antico",
+    "indirizzo": "via Privata De Vitalis",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento del festival Settimane Barocche. Concerto in cui Raffaele La Ragione al mandolino e Andrea De Vitis alla chitarra eseguono \"Oltremare\", viaggio musicale tra Napoli e Spagna sulle tracce di Domenico Scarlatti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Settimane Barocche di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/settimane-barocche-2026-2520324-2520340-2520531",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-storia-di-altri-alfabeti-brescia-17-11",
+    "titolo": "Una storia di Altri Alfabeti",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-22",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "via dei Musei 81/b",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica site-specific dedicata a Franca Ghitti. Le opere dell'artista dialogano con il percorso permanente del museo, intrecciando la sua ricerca plastica con le testimonianze delle diverse epoche storiche custodite nell'antico monastero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/una-storia-di-altri-alfabeti-2516594-2516795-2517121-2517337-2517499-2517860-2517868-2518096-2518283-2518462-2518592-2518751-2518994-2519316-2519484-2519733-2520138-2520347-2520540",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "armando-milani-mostre-diffuse-brescia-17-11",
+    "titolo": "Armando Milani. Mostre diffuse",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-22",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "Via dei Musei, 81/B",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione diffusa del Festival della Pace dedicata al grafico Armando Milani. Comprende la sezione \"Immaginare la Pace\" al Museo di Santa Giulia e \"Just be beside me. Tappeti di guerra\" presso il MITA, in dialogo con tappeti dell'Afghanistan.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival della Pace",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/armando-milani-mostre-diffuse-2520534",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-grande-saggezza-brescia-17-11",
+    "titolo": "La grande saggezza",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-22",
+    "luogo": "Grande Miglio del Castello",
+    "indirizzo": "Via del Castello, 9",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Retrospettiva personale della fotografa e biologa messicana Cristina Mittermeier. Oltre 80 scatti che celebrano la bellezza del pianeta, la fauna selvatica e le culture che vivono in simbiosi con la natura, invitando a riconoscere la saggezza degli ecosistemi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-grande-saggezza-2517509-2517698-2517777-2517861-2520140-2520350-2520541",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tesori-mostra-a-santa-giulia-brescia-17-11",
+    "titolo": "Tesori. Mostra a Santa Giulia",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-22",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "via dei Musei 81/b",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra che conclude le celebrazioni del Bicentenario della scoperta della Vittoria Alata. Presenta 100 opere abitualmente non esposte del patrimonio museale bresciano, coprendo un arco cronologico dall'antico al contemporaneo in cinque sezioni tematiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-grande-saggezza-2517509-2517698-2517777-2517861-2520140-2520297-2520356-2520535",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cavallerizza-100-autori-brescia",
+    "titolo": "Cavallerizza. 100 autori",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-11-22",
+    "luogo": "Cavallerizza - Centro Italiano della fotografia",
+    "indirizzo": "Via Fratelli Cairoli, 9",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica che raccoglie 100 opere di 100 autori differenti provenienti dalla collezione Clerici. L'esposizione attraversa generi come moda, paesaggio, reportage e ritratto per raccontare l'evoluzione della fotografia e il suo ruolo nella società.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cavallerizza - Centro Italiano della fotografia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cavallerizza-100-autori-2520524",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ctb-non-si-sa-come-brescia",
+    "titolo": "CTB. Non si sa come",
+    "categoria": "teatro",
+    "inizio": "2026-11-17T20:30",
+    "fine": "2026-11-22T17:30",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "via Felice Cavallotti 20",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dall'opera di Luigi Pirandello, inserito nella stagione 2026/2027 del Centro teatrale Bresciano. La vicenda esplora il conflitto tra colpa, responsabilità e inconscio attraverso i personaggi di un ambiente colto e raffinato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro teatrale Bresciano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/ctb-la-signora-del-gioco-2520530",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giovani-chitarre-ai-respiri-musicali-brugherio",
+    "titolo": "Giovani chitarre ai Respiri Musicali",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T20:30",
+    "fine": null,
+    "luogo": "Spazio Nuovo Maria Bambina",
+    "indirizzo": "via Filzi 4",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato al repertorio chitarristico con le interpreti Giada Guerini ed Elisa De Pascalis. L'evento, all'interno della rassegna Respiri Musicali, valorizza i risultati del Concorso per Giovani Musicisti Luigi Dell'Aglio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura della Città di Brugherio e Fondazione Luigi Piseri",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/giovani-chitarre-ai-respiri-musicali",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-cinematografica-bresson-d-essai-brugherio",
+    "titolo": "Stagione cinematografica Bresson d'essai",
+    "categoria": "mostra",
+    "inizio": "2026-12-02T21:15",
+    "fine": "2026-12-04T23:30",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 76",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Programmazione cinematografica della stagione Bresson d'essai con il film \"La mattina scrivo\". Iniziativa dedicata al cinema d'essai organizzata dal Cinema Teatro San Giuseppe.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/al-via-il-2-settembre-la-nuova-stagione-del-bresson-d-essai-725496-725497-725500-725505-725508",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "disabato-per-la-stagione-cinematografica-bresson-d-essai-brugherio",
+    "titolo": "DiSabato, per la stagione cinematografica Bresson d'essai",
+    "categoria": "mostra",
+    "inizio": "2026-12-05T17:00",
+    "fine": "2026-12-05T19:30",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via Italia, 76",
+    "cap": null,
+    "comune": "108012",
+    "frazione": null,
+    "lat": 45.5527,
+    "lon": 9.30129,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film \"L'amore che rimane\" nell'ambito della rassegna DiSabato. Il film è raccontato in sala da Andrea Chimento, giornalista critico cinematografico e docente all'Università Cattolica.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro San Giuseppe",
+    "fonti": [
+      {
+        "nome": "Comune di Brugherio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brugherio.mb.it/it/eventi/al-via-il-2-settembre-la-nuova-stagione-del-bresson-d-essai-725496-725497-725500-725505-725508-725522-725529",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-il-natale-con-le-bancarelle-del-forte-busto-arsizio",
+    "titolo": "Aspettando il Natale con le bancarelle del forte",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22T08:00",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Viale Lombardia",
+    "indirizzo": "Viale Lombardia",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale con oltre 80 banchi di ambulanti dell'Insubria e del Forte dei Marmi, offrendo shopping autunno/inverno, abbigliamento, borse e accessori per regali natalizi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ambulanti dell'Insubria",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/aspettando-il-natale-con-le-bancarelle-del-forte",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "busto-esports-games-busto-arsizio",
+    "titolo": "Busto Esports & Games",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Museo del Tessile",
+    "indirizzo": "Via Alessandro Volta, 4",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata al gaming e agli esports con aree di gioco, tornei, simulatori e intrattenimento sul palco. Organizzato dal Distretto Urbano del Commercio con ASD Blind Owls.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Distretto Urbano del Commercio Asd Blind Owls",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/busto-esports-games",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-il-secolo-sbagliato-cairo-montenotte",
+    "titolo": "Presentazione del libro - Il secolo sbagliato",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": "2026-11-21T20:00",
+    "luogo": "Biblioteca Civica “F.C.Rossi”",
+    "indirizzo": "Via Luigi Baccino Ospedale, 28, 17014 Cairo Montenotte SV, Italia",
+    "cap": null,
+    "comune": "009015",
+    "frazione": null,
+    "lat": 44.40035,
+    "lon": 8.31208,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Il secolo sbagliato' di Santo Vruna, che dialoga con l'Avv. Nella Giovanna Ferrari. La storia attraversa il Novecento con fatti reali e immaginari, focalizzandosi su un'amicizia divenuta amore tra due soldati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cairo Montenotte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cairomontenotte.sv.it/it/eventi/presentazione-del-libro-il-secolo-sbagliato",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-municipio-si-illumina-di-blu-per-i-diritti-dell-infanzia-canegrate",
+    "titolo": "Il Municipio si illumina di blu per i diritti dell’infanzia",
+    "categoria": "mostra",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Municipio",
+    "indirizzo": "Via Manzoni 1, Canegrate (MI)",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Municipio si illumina di blu per l'adesione alla campagna Go Blue dell'UNICEF, in occasione della Giornata mondiale dei diritti dell'infanzia. L'iniziativa promuove la sensibilizzazione sui diritti sanciti dalla Convenzione ONU.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/il-municipio-si-illumina-di-blu-per-i-diritti-dellinfanzia",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-rumore-che-mi-precede-presentazione-del-libro-di-fiorella-carrera-canegrate",
+    "titolo": "“Il rumore che mi precede”: presentazione del libro di Fiorella Carrera",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "Biblioteca CENTRO PER LA CULTURA",
+    "indirizzo": "Piazza Unità d'Italia 2, Canegrate (MI)",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Il rumore che mi precede – Il racconto di un’eredità invisibile' di Fiorella Carrera. L'autrice dialogherà con Maura Giunta alla scoperta dei temi del libro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/presentazione-libro-fiorella-carrera",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-oculus-caravaggio",
+    "titolo": "Laboratorio Oculus",
+    "categoria": "bambini",
+    "inizio": "2026-12-18T15:00",
+    "fine": "2026-12-18T18:00",
+    "luogo": "Centro Civico di San Bernardino",
+    "indirizzo": "Viale Giovanni XXIII, 17, 24043 Caravaggio BG",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio didattico presso la biblioteca comunale Banfi in collaborazione con Abibook. L'attività utilizza visori Oculus per scoprire la realtà aumentata ed è destinata a ragazzi di età compresa tra gli 11 e i 14 anni. La durata dell'evento è di tre ore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale Banfi, Abibook soc. coop.",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/laboratorio-oculus-734009",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-2026-gottolengo",
+    "titolo": "Mercatini di Natale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05T15:00",
+    "fine": "2026-12-05T23:00",
+    "luogo": "Piazza XX Settembre, 1",
+    "indirizzo": "Piazza XX Settembre, 1, 25023 Gottolengo BS, Italia",
+    "cap": null,
+    "comune": "017080",
+    "frazione": null,
+    "lat": 45.30456,
+    "lon": 10.27211,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione culturale natalizia aperta alla cittadinanza. L'evento prevede l'allestimento di mercatini in Piazza XX Settembre. L'accesso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gottolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.gottolengo.bs.it/it/eventi/mercatini-di-natale-2026",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ligabue-zavattini-e-la-bassa-con-le-fotografie-di-paolo-simonazzi-gualtieri",
+    "titolo": "Ligabue, Zavattini e la Bassa con le fotografie di Paolo Simonazzi",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2027-09-30",
+    "luogo": "Palazzo Bentivoglio",
+    "indirizzo": "Gualtieri",
+    "cap": null,
+    "comune": "035023",
+    "frazione": null,
+    "lat": 44.88162,
+    "lon": 10.61691,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata al rapporto tra l'artista Ligabue e il territorio della Bassa Padana, in dialogo con le fotografie contemporanee di Paolo Simonazzi. Il percorso include opere di Zavattini, Rovesti, Ghizzardi e Bartoli, oltre alle nove immagini del progetto 'Il filo e il fiume'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giordano Gasparini, Francesco Negri e Gloria Negri",
+    "fonti": [
+      {
+        "nome": "Comune di Gualtieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.gualtieri.re.it/it/eventi/ligabue-zavattini-e-la-bassa-con-le-fotografie-di-paolo-simonazzi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ragazzi-social-e-intelligenza-artificiale-capire-per-scegliere-18-19-n-illasi",
+    "titolo": "RAGAZZI, SOCIAL E INTELLIGENZA ARTIFICIALE: CAPIRE PER SCEGLIERE 18-19 NOVEMBRE",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-11-19T23:00",
+    "luogo": "Oratorio di S. Rocco - Chiesa di Sant'Andrea",
+    "indirizzo": "Piazza Bonifacio Sprea",
+    "cap": null,
+    "comune": "023039",
+    "frazione": null,
+    "lat": 45.46867,
+    "lon": 11.17709,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro aperto al pubblico con Stefano Giolo, divulgatore e fact-checker, per parlare di intelligenza artificiale, social network e cyberbullismo. La serata include la consegna della Costituzione Italiana ai neo diciottenni e della Patente del Donatore per Avis Illasi Odv.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Illasi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.illasi.vr.it/vivere-il-comune/eventi/ragazzi-social-e-intelligenza-artificiale-capire-per-scegliere-18-19-novembre",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "olivo-simbolo-di-pace-illasi",
+    "titolo": "Olivo simbolo di Pace",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Illasi",
+    "indirizzo": "Illasi",
+    "cap": null,
+    "comune": "023039",
+    "frazione": null,
+    "lat": 45.46867,
+    "lon": 11.17709,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il Cardinale Mons. Mario Zenari, già Nunzio Apostolico in Siria, e inaugurazione della IV^ tappa del Sentiero degli Olivi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Illasi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.illasi.vr.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tradizionale-festa-del-ringraziamento-illasi",
+    "titolo": "Tradizionale Festa del Ringraziamento",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Illasi",
+    "indirizzo": "Illasi",
+    "cap": null,
+    "comune": "023039",
+    "frazione": null,
+    "lat": 45.46867,
+    "lon": 11.17709,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale Festa del Ringraziamento che prevede una sfilata di trattori, la Santa Messa e un pranzo comunitario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Illasi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.illasi.vr.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uso-precoce-dei-device-digitali-ispra",
+    "titolo": "Uso precoce dei device digitali",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T20:30",
+    "fine": null,
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Ispra",
+    "cap": null,
+    "comune": "012084",
+    "frazione": null,
+    "lat": 45.81375,
+    "lon": 8.61241,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata informativa organizzata dall'Istituto Comprensivo di Angera rivolta a genitori e docenti, focalizzata sui temi dell'uso precoce dei dispositivi digitali durante la fase dell'infanzia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "I.C. di Angera",
+    "fonti": [
+      {
+        "nome": "Comune di Ispra",
+        "tipo": "ufficiale",
+        "url": "https://comune.ispra.va.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "studio-live-music-kariniss-evento-musicale-la-loggia",
+    "titolo": "Studio Live Music KARIniss... (Evento Musicale)",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Anfiteatro Beppe Fenoglio",
+    "indirizzo": "La Loggia",
+    "cap": null,
+    "comune": "001127",
+    "frazione": null,
+    "lat": 44.95329,
+    "lon": 7.67578,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale organizzato da Studio live music karinissima. La performance si terrà nella serata del 28 novembre presso l'anfiteatro comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Studio live music karinissima",
+    "fonti": [
+      {
+        "nome": "Comune di La Loggia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.laloggia.to.it/novita/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-la-loggia",
+    "titolo": "La Notte dei Pupazzi",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T17:00",
+    "fine": "2026-11-21T10:00",
+    "luogo": "Biblioteca Civica di La Loggia",
+    "indirizzo": "via Bistolfi 20",
+    "cap": null,
+    "comune": "001127",
+    "frazione": null,
+    "lat": 44.95329,
+    "lon": 7.67578,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa dedicata ai bambini da 0 a 6 anni e alle famiglie, con letture ad alta voce e consegna dei pupazzi alla biblioteca per una notte speciale. Rientra nel progetto Nati per Leggere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica di La Loggia",
+    "fonti": [
+      {
+        "nome": "Comune di La Loggia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.laloggia.to.it/novita/evento/1432/La-Notte-dei-Pupazzi-venerd-c3-ac-20-e-sabato-21-novembre-2026",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-nel-tempo-che-ci-resta-lacchiarella",
+    "titolo": "Spettacolo teatrale \"Nel tempo che ci resta\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:45",
+    "fine": "2026-11-21T23:30",
+    "luogo": "Rocca Viscontea",
+    "indirizzo": "Piazza Risorgimento, 24, 20084 Lacchiarella MI",
+    "cap": null,
+    "comune": "015115",
+    "frazione": null,
+    "lat": 45.32187,
+    "lon": 9.15739,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale scritto e diretto da César Brie, dedicato a Giovanni Falcone e Paolo Borsellino. Evento di coproduzione tra Campo Teatrale e Teatro dell'Elfo, finalizzato alla riflessione culturale attraverso l'arte del palcoscenico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Campo Teatrale, Teatro dell'Elfo",
+    "fonti": [
+      {
+        "nome": "Comune di Lacchiarella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lacchiarella.mi.it/it/eventi/spettacolo-il-barbiere-di-siviglia-729265-732213-732492-734144",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-caravaggio-nelle-tenebre-e-nella-luce-lacchiarella",
+    "titolo": "Mostra \"CARAVAGGIO. Nelle tenebre e nella luce\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-23T10:00",
+    "fine": "2026-11-23T18:00",
+    "luogo": "Rocca Viscontea",
+    "indirizzo": "Piazza Risorgimento, 24, 20084 Lacchiarella MI",
+    "cap": null,
+    "comune": "015115",
+    "frazione": null,
+    "lat": 45.32187,
+    "lon": 9.15739,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata ai capolavori di Caravaggio, con focus su luce, ombra e redenzione. Aperta al pubblico negli orari indicati, con prenotazione richiesta per gruppi e visite accompagnate.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lacchiarella",
+    "fonti": [
+      {
+        "nome": "Comune di Lacchiarella",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lacchiarella.mi.it/it/eventi/presentazione-della-mostra-amica-terra-delle-acli-milanesi-733291",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-ad-alta-voce-in-biblioteca-indovina-chi-viene-a-merenda-lanzo-torinese",
+    "titolo": "Letture ad alta voce in Biblioteca - \"Indovina chi viene a merenda?\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Lanzo Torinese",
+    "cap": null,
+    "comune": "001128",
+    "frazione": null,
+    "lat": 45.27558,
+    "lon": 7.48014,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture animate in biblioteca per un pubblico di bambini, con una rivisitazione comica delle classiche fiabe dal titolo \"Indovina chi viene a merenda?\".",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lanzo Torinese",
+    "fonti": [
+      {
+        "nome": "Comune di Lanzo Torinese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lanzotorinese.to.it/Eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ora-del-te-il-gruppo-di-lettura-della-biblioteca-lanzo-torinese",
+    "titolo": "L'Ora del Tè - il gruppo di lettura della Biblioteca!",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Lanzo Torinese",
+    "cap": null,
+    "comune": "001128",
+    "frazione": null,
+    "lat": 45.27558,
+    "lon": 7.48014,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura della Biblioteca, dedicato alla letteratura e alla discussione di opere letterarie, aperto ai nuovi partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lanzo Torinese",
+    "fonti": [
+      {
+        "nome": "Comune di Lanzo Torinese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lanzotorinese.to.it/Eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-adulti-secondo-incontro-lavis",
+    "titolo": "Gruppo di lettura adulti secondo incontro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T18:30",
+    "fine": "2026-11-17T19:30",
+    "luogo": "Biblioteca",
+    "indirizzo": "Piazzetta degli Alpini, 6, 38015 Lavis",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo incontro del gruppo di lettura per adulti. Si discuterà il libro 'Denti bianchi' di Zadie Smith. L'evento è aperto agli adulti previa iscrizione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/gruppo-di-lettura-adulti-secondo-incontro",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-sinistra-o-destra-stessa-minestra-lavis",
+    "titolo": "Spettacolo Teatrale: \"Sinistra o destra stessa minestra\"",
+    "categoria": "teatro",
+    "inizio": "2027-01-16T20:30",
+    "fine": null,
+    "luogo": "Auditorium di Lavis",
+    "indirizzo": "Via Fabio Filzi, 21, 38015 Lavis",
+    "cap": null,
+    "comune": "022103",
+    "frazione": null,
+    "lat": 46.15066,
+    "lon": 11.10343,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia teatrale della Filodrammatica Concordia '74 APS di Povo. Appuntamento della stagione teatrale all'Auditorium. Biglietti da 10 euro per intero.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Filodrammatica Concordia '74 APS di Povo",
+    "fonti": [
+      {
+        "nome": "Comune di Lavis",
+        "tipo": "ufficiale",
+        "url": "https://comune.lavis.tn.it/it/eventi/spettacolo-teatrale-sinistra-o-destra-stessa-minestra",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-di-donne-nella-canzone-d-autore-lovere",
+    "titolo": "Storie di Donne nella canzone d'autore",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:45",
+    "fine": null,
+    "luogo": "Auditorium di Villa Milesi",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla canzone d'autore italiana che esplora temi come femminilità, amore e diritti attraverso brani di De André, Guccini, Vecchioni e De Gregori, con l'accompagnamento di Diego Ghenzi e Roberta Selva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/storie-di-donne-nella-canzone-dautore",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-al-borgo-antico-lovere",
+    "titolo": "Visita guidata al Borgo antico",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T15:00",
+    "fine": null,
+    "luogo": "Piazza Tredici Martiri",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata guidata di due ore alla scoperta dei Borghi più belli d'Italia, con visita alla Basilica di S. Maria in Valvendra, al borgo medievale, alla Chiesa di S. Chiara e al Palazzo Tadini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "La Nuova ProLoco Lovere",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/visita-guidata-al-borgo-antico-6",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-do-lovere",
+    "titolo": "Giornata Internazionale per l'eliminazione della violenza contro le donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T10:30",
+    "fine": null,
+    "luogo": "Panchina Rossa (lungolago di Piazza Tredici Martiri)",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Momento di riflessione e sensibilizzazione pubblico sul tema della violenza sulle donne, realizzato in collaborazione con il Centro Italiano Femminile, Regione Lombardia e la Rete Interistituzionale territoriale antiviolenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lovere",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/giornata-internazionale-leliminazione-della-violenza-contro-le-donne",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "palaghiaccio-lovere-lovere",
+    "titolo": "Palaghiaccio Lovere",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Porto Turistico",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura della pista di pattinaggio sul ghiaccio a Lovere, disponibile tutti i giorni con orari diurni e serali. Prevede possibilità di noleggio pattini e ingressi a tariffa oraria differenziata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/palaghiaccio-lovere",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercato-campagna-amica-lovere",
+    "titolo": "Mercato “Campagna Amica”",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T09:30",
+    "fine": "2026-12-13T17:30",
+    "luogo": "Piazza Tredici Martiri",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato tradizionale della Coldiretti Bergamo con gazebo gialli dove acquistare ortaggi, frutta di stagione, formaggi e prodotti a km zero direttamente dai produttori agricoli del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coldiretti Bergamo",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/mercato-campagna-amica-7",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-pane-e-zucchero-lovere",
+    "titolo": "Spettacolo “Pane e zucchero”",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T16:00",
+    "fine": null,
+    "luogo": "Teatro Crystal",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico con Antonio Provasio e Maicol Trotta della Compagnia I Legnanesi che affronta il confronto tra generazioni, il passato e il presente, i social e i cambiamenti nelle abitudini quotidiane.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Crystal",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/spettacolo-pane-e-zucchero-0",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "raccontami-una-storia-in-biblioteca-lovere",
+    "titolo": "Raccontami una storia… in biblioteca!",
+    "categoria": "bambini",
+    "inizio": "2026-12-14T16:30",
+    "fine": null,
+    "luogo": "Biblioteca Civica \"13 Martiri\"",
+    "indirizzo": "Lovere",
+    "cap": null,
+    "comune": "016128",
+    "frazione": null,
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di lettura dedicato ai bambini tra i 3 e i 6 anni, organizzato per stimolare la fantasia e l'amore per i libri in un ambiente accogliente della biblioteca civica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lovere",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lovere.bg.it/vivere-il-comune/eventi/raccontami-una-storia-biblioteca-3",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xiii-biennale-d-arte-intitolata-arte-per-credere-con-opere-di-safet-ze-manzano",
+    "titolo": "XIII Biennale d'Arte intitolata \"Arte per credere\" con opere di Safet Zec",
+    "categoria": "mostra",
+    "inizio": "2026-10-19",
+    "fine": "2027-05-31",
+    "luogo": "Abbazia di Rosazzo",
+    "indirizzo": "Manzano",
+    "cap": null,
+    "comune": "030055",
+    "frazione": null,
+    "lat": 45.99107,
+    "lon": 13.37659,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione artistica che presenta l'opera completa dell'artista Safet Zec, dagli esordi fino ai lavori recenti. La mostra include anche la grande tela a olio \"Cena in Emmaus\", esposta permanentemente nella Chiesa di San Pietro Apostolo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Manzano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.manzano.ud.it/vivere-il-comune/eventi/inaugurazione-xiii-biennale-darte-intitolata-arte-per-credere-con-opere-di-safet-zec-copy",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cultura-della-sedia-come-strumento-partecipativo-convegno-manzano",
+    "titolo": "Cultura della Sedia come strumento partecipativo: convegno",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T09:30",
+    "fine": null,
+    "luogo": "Innovation Platform di Manzano",
+    "indirizzo": "Manzano",
+    "cap": null,
+    "comune": "030055",
+    "frazione": null,
+    "lat": 45.99107,
+    "lon": 13.37659,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno annuale dedicato al progetto Cultura della Sedia, che affronta temi di collaborazione, ricerca e nuove opportunità di valorizzazione del patrimonio, con la partecipazione di Banche, Università e Soprintendenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Manzano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.manzano.ud.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-animate-per-bambini-5-8-anni-masera-di-padova",
+    "titolo": "Letture animate per bambini 5-8 anni",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:30",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Sala polivalente in Corte da Zara (Via Conselvana, 97)",
+    "indirizzo": "Via Conselvana, 97",
+    "cap": null,
+    "comune": "028048",
+    "frazione": null,
+    "lat": 45.31248,
+    "lon": 11.87111,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento mensile dedicato alle letture animate per bambini dai 5 agli 8 anni, curato dalle volontarie della biblioteca. L'evento si svolge nella sala polivalente di Corte da Zara.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Maserà di Padova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.masera.pd.it/vivere-il-comune/eventi/letture-animate-in-biblioteca-per-bambini-5-8-anni-2",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "moglia-un-mondo-di-musica-tributo-musicale-ai-pooh-moglia",
+    "titolo": "MOGLIA: Un Mondo di Musica - Tributo Musicale ai POOH",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Teatro Mondo 3",
+    "indirizzo": "Via Giulio Romano, 3, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto tributo alla band italiana POOH nell'ambito della rassegna 'Un Mondo di Musica'. La serata è dedicata alla riproduzione del repertorio della storica formazione musicale, offrendo un momento di intrattenimento per un pubblico ampio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/moglia-un-mondo-di-musica-tributo-musicale-a-cesare-cremonini-725458",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-bravo-ragazzo-moglia",
+    "titolo": "Un bravo ragazzo",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T22:45",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Piazza C. Battisti, 75, 46024 Bondanello MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in occasione della Giornata internazionale contro la violenza sulle donne. La rappresentazione affronta i temi del rispetto, dell'empatia e delle relazioni sane, invitando il pubblico a riflettere attraverso il linguaggio teatrale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione AIDA",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/spettacolo-teatrale-un-bravo-ragazzo",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-brutto-bruttissimo-anatroccolo-moglia",
+    "titolo": "Un Brutto Bruttissimo Anatroccolo",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T17:30",
+    "fine": "2026-12-20T19:00",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Piazza C. Battisti, 75, 46024 Bondanello MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per famiglie basato sulla fiaba di Andersen. Tre personaggi buffi e imperfetti reinterpretano la storia del brutto anatroccolo, esplorando i temi della diversità, dell'accettazione e del coraggio di trovare il proprio posto nel mondo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione AIDA ETS ICC",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/stagione-teatrale-2025-2026-le-mille-bolle-incantate-726203-726206-726214",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-freccia-azzurra-moglia",
+    "titolo": "La Freccia Azzurra",
+    "categoria": "teatro",
+    "inizio": "2027-01-06T17:30",
+    "fine": "2027-01-06T19:00",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Piazza C. Battisti, 75, 46024 Bondanello MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale ispirato al racconto di Gianni Rodari. La trama segue la vigilia dell'Epifania in cui i giocattoli della Befana fuggono dal negozio per realizzare il desiderio di un bambino, in un viaggio avventuroso che celebra la solidarietà.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione AIDA ETS ICC",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/stagione-teatrale-2025-2026-le-mille-bolle-incantate-726203-726206-726214-726217",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vieni-a-giocare-con-noi-in-ludoteca-moglia",
+    "titolo": "Vieni a giocare con Noi in Ludoteca!",
+    "categoria": "bambini",
+    "inizio": "2027-01-31T15:00",
+    "fine": "2027-01-31T17:45",
+    "luogo": "Ecomuseo delle Bonifiche",
+    "indirizzo": "Piazza della Libertà, 7, 46024 Moglia MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro ludico-didattico organizzato dalla Biblioteca di Moglia in collaborazione con i Lettori Volontari. L'evento è rivolto a bambini e ragazzi e si svolge presso l'Ecomuseo delle Bonifiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Moglia",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/vieni-a-creare-con-noi-in-ludoteca-731229",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-occhio-del-lupo-moglia",
+    "titolo": "L'occhio del Lupo",
+    "categoria": "teatro",
+    "inizio": "2027-02-07T17:30",
+    "fine": "2027-02-07T19:00",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Piazza C. Battisti, 75, 46024 Bondanello MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale di L'occhio del lupo di Daniel Pennac. Lo spettacolo racconta l'incontro tra un lupo e un bambino in uno zoo, trasformando le loro differenze in ponti per costruire amicizia, rispetto e comprensione reciproca.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione AIDA ETS ICC",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/stagione-teatrale-2025-2026-le-mille-bolle-incantate-726203-726206-726219",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-principe-felice-moglia",
+    "titolo": "Il Principe FElice",
+    "categoria": "teatro",
+    "inizio": "2027-02-28T17:30",
+    "fine": "2027-02-28T19:00",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Piazza C. Battisti, 75, 46024 Bondanello MN, Italia",
+    "cap": null,
+    "comune": "020035",
+    "frazione": null,
+    "lat": 44.95092,
+    "lon": 10.92618,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo tratto dalla fiaba di Oscar Wilde. Due attori reinterpretano il racconto del principe e della rondine, donando le proprie ricchezze ai poveri. L'esperienza include narrazione, canto e figure di carta per un viaggio poetico e pieno di meraviglia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione AIDA ETS ICC",
+    "fonti": [
+      {
+        "nome": "Comune di Moglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.moglia.mn.it/it/eventi/stagione-teatrale-2025-2026-le-mille-bolle-incantate-726203-726206-726214-726222",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
   }
 ]
