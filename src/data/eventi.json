@@ -232736,5 +232736,540 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-17",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "no-garnish-pagani",
+    "titolo": "No Garnish",
+    "categoria": "concerto",
+    "inizio": "2026-11-23T21:00",
+    "fine": null,
+    "luogo": "Cinquanta - Spirito Italiano",
+    "indirizzo": "Via Trento 44/46",
+    "cap": null,
+    "comune": "065088",
+    "frazione": null,
+    "lat": 40.745067,
+    "lon": 14.621707,
+    "coordinateApprossimate": false,
+    "descrizione": "Torna la serata industry mensile con musica hip-hop, drink preparati da ospiti speciali al banco e un'atmosfera perfetta per ritrovarsi e godersi un drink tra colleghi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinquanta - Spirito Italiano",
+    "fonti": [
+      {
+        "nome": "Cinquanta - Spirito Italiano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzvDpTAs3v",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "acoustic-night-pavia",
+    "titolo": "Acoustic Night",
+    "categoria": "concerto",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Pilsgarten",
+    "indirizzo": "Via San Giovannino 11",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.185872,
+    "lon": 9.17115,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di musica dal vivo in acustico presso il pub Pilsgarten, accompagnata da ottima birra, cibo e momenti in compagnia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pilsgarten",
+    "fonti": [
+      {
+        "nome": "Pilsgarten",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfwnUQHtc61",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incubi-urbani-bologna-e-milano-tra-retoriche-e-realta-milano",
+    "titolo": "Incubi urbani. Bologna e Milano tra retoriche e realtà",
+    "categoria": "conferenza",
+    "inizio": "2026-11-17T19:00",
+    "fine": null,
+    "luogo": "Anarres",
+    "indirizzo": "Via Pietro Crespi 11",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.493012,
+    "lon": 9.220764,
+    "coordinateApprossimate": false,
+    "descrizione": "Presentazione e discussione pubblica di tre libri che analizzano le città di Bologna e Milano da prospettive critiche e contronarrative. Con la partecipazione degli autori Hurricane, Salvatore Papa e Lucia Tozzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Anarres",
+    "fonti": [
+      {
+        "nome": "Anarres",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfouDdRMffX",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "obscura-qalma-in-concerto-milano",
+    "titolo": "Obscura Qalma in concerto",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:30",
+    "fine": null,
+    "luogo": "Headbangers",
+    "indirizzo": "Via Tito Livio 33a",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.450598,
+    "lon": 9.219953,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di musica live con il symphonic blackened death metal degli Obscura Qalma, seguita dalla selezione musicale di Nyva Hellbangers per continuare la festa fino a tarda notte.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Headbangers",
+    "fonti": [
+      {
+        "nome": "Headbangers",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzavtIIQFE",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "degustazione-di-hamburger-e-birre-artigianali-livorno",
+    "titolo": "Degustazione di hamburger e birre artigianali",
+    "categoria": "sagra",
+    "inizio": "2026-11-18T20:30",
+    "fine": null,
+    "luogo": "Red hop",
+    "indirizzo": "Borgo Cappuccini, 26, Livorno",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.545872,
+    "lon": 10.304997,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di degustazione con quattro interpretazioni di hamburger e birre artigianali abbinati, guidata da un percorso di degustazione. Prezzo 35 euro a persona.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "prenotazione": null,
+    "organizzatore": "Red hop",
+    "fonti": [
+      {
+        "nome": "Red hop",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfj-su8DAiS",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scarpinocc-artigianali-e-arrosto-irlandese-fara-gera-d-adda",
+    "titolo": "Scarpinocc Artigianali e Arrosto Irlandese",
+    "categoria": "sagra",
+    "inizio": "2026-12-05T20:30",
+    "fine": null,
+    "luogo": "Pora Cà",
+    "indirizzo": "Via Abele Crespi 1225",
+    "cap": null,
+    "comune": "016096",
+    "frazione": null,
+    "lat": 45.539307,
+    "lon": 9.530256,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata gastronomica con taglieri d'affettati, scarpinocc artigianali con burro fuso e salvia, e arrosto di manzo irlandese con polenta taragna, con bevande incluse.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 24
+    },
+    "prenotazione": null,
+    "organizzatore": "Pora Cà",
+    "fonti": [
+      {
+        "nome": "Pora Cà",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df0AJP6jd0N",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scarpinocc-artigianali-e-arrosto-irlandese-fara-gera-d-adda-06-12",
+    "titolo": "Scarpinocc Artigianali e Arrosto Irlandese",
+    "categoria": "sagra",
+    "inizio": "2026-12-06T12:30",
+    "fine": null,
+    "luogo": "Pora Cà",
+    "indirizzo": "Via Abele Crespi 1225",
+    "cap": null,
+    "comune": "016096",
+    "frazione": null,
+    "lat": 45.539307,
+    "lon": 9.530256,
+    "coordinateApprossimate": false,
+    "descrizione": "Pranzo gastronomico con taglieri d'affettati, scarpinocc artigianali con burro fuso e salvia, e arrosto di manzo irlandese con polenta taragna, con bevande incluse.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 24
+    },
+    "prenotazione": null,
+    "organizzatore": "Pora Cà",
+    "fonti": [
+      {
+        "nome": "Pora Cà",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df0AJP6jd0N",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scarpinocc-artigianali-e-arrosto-irlandese-fara-gera-d-adda-04-12",
+    "titolo": "Scarpinocc Artigianali e Arrosto Irlandese",
+    "categoria": "sagra",
+    "inizio": "2026-12-04T20:30",
+    "fine": null,
+    "luogo": "Pora Cà",
+    "indirizzo": "Via Abele Crespi 1225",
+    "cap": null,
+    "comune": "016096",
+    "frazione": null,
+    "lat": 45.539307,
+    "lon": 9.530256,
+    "coordinateApprossimate": false,
+    "descrizione": "Cena tipica con taglieri d'affettati, scarpinocc artigianali e arrosto di manzo irlandese accompagnato da polenta taragna, acqua, vino e caffè inclusi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 24
+    },
+    "prenotazione": null,
+    "organizzatore": "Pora Cà",
+    "fonti": [
+      {
+        "nome": "Pora Cà",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfz_-qgGBJT",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casonsei-artigianali-e-arrosto-irlandese-fara-gera-d-adda",
+    "titolo": "Casonsei Artigianali e Arrosto Irlandese",
+    "categoria": "sagra",
+    "inizio": "2026-11-28T20:30",
+    "fine": null,
+    "luogo": "Pora Cà",
+    "indirizzo": "Via Abele Crespi 1225",
+    "cap": null,
+    "comune": "016096",
+    "frazione": null,
+    "lat": 45.539307,
+    "lon": 9.530256,
+    "coordinateApprossimate": false,
+    "descrizione": "Cena a base di taglieri di salumi, casonsei artigianali con pancetta e grana, e arrosto di manzo irlandese con polenta taragna, bevande incluse.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 24
+    },
+    "prenotazione": null,
+    "organizzatore": "Pora Cà",
+    "fonti": [
+      {
+        "nome": "Pora Cà",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfpeAjYlKt0",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casonsei-artigianali-e-arrosto-irlandese-fara-gera-d-adda-29-11",
+    "titolo": "Casonsei Artigianali e Arrosto Irlandese",
+    "categoria": "sagra",
+    "inizio": "2026-11-29T12:30",
+    "fine": null,
+    "luogo": "Pora Cà",
+    "indirizzo": "Via Abele Crespi 1225",
+    "cap": null,
+    "comune": "016096",
+    "frazione": null,
+    "lat": 45.539307,
+    "lon": 9.530256,
+    "coordinateApprossimate": false,
+    "descrizione": "Pranzo a base di taglieri di salumi, casonsei artigianali con pancetta e grana, e arrosto di manzo irlandese con polenta taragna, bevande incluse.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 24
+    },
+    "prenotazione": null,
+    "organizzatore": "Pora Cà",
+    "fonti": [
+      {
+        "nome": "Pora Cà",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfpeAjYlKt0",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giro-d-italia-da-scacco-trentino-san-giuliano-terme",
+    "titolo": "Giro d'Italia da Scacco: Trentino",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T20:30",
+    "fine": null,
+    "luogo": "ScaccoMalto - Tap Room",
+    "indirizzo": "San Giuliano Terme",
+    "cap": null,
+    "comune": "050031",
+    "frazione": null,
+    "lat": 43.719505,
+    "lon": 10.403249,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata gastronomica dedicata al Trentino con tre portate: carne salada, canederli e polenta con porcini, strudel. Ogni piatto è abbinato a una birra artigianale Mudita. Evento a cura di Simone Cantoni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ScaccoMalto - Tap Room",
+    "fonti": [
+      {
+        "nome": "ScaccoMalto - Tap Room",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfz2M1fF27H",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dr-why-quiz-dal-vivo-cesenatico",
+    "titolo": "Dr Why quiz dal vivo",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:30",
+    "fine": null,
+    "luogo": "Piadineria da Linda & Drink",
+    "indirizzo": "Viale Giosuè Carducci 7a",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.204558,
+    "lon": 12.402114,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata al quiz Dr Why in squadra. Partecipazione al gioco dal vivo con domande, classifiche in diretta e skill game, accompagnata da piadine e bevande servite in loco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Piadineria da Linda & Drink",
+    "fonti": [
+      {
+        "nome": "Piadineria da Linda & Drink",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzDYb8IUdf",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sbadata-is-back-mariano-comense",
+    "titolo": "Sbadata is Back",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:30",
+    "fine": "2026-11-21T02:00",
+    "luogo": "Wild",
+    "indirizzo": "Via Giovanni Songia 32",
+    "cap": null,
+    "comune": "013143",
+    "frazione": null,
+    "lat": 45.692733,
+    "lon": 9.17952,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata musicale con musica commerciale e trap. L'evento include un drink nell'ingresso o nella prevendita. L'atmosfera è pensata per trasformare la serata in un'esperienza memorabile.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Wild",
+    "fonti": [
+      {
+        "nome": "Wild",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Df0FZ19sxVM",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "press-st-art-cardano-al-campo",
+    "titolo": "Press (St)Art",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Circolo Quarto Stato",
+    "indirizzo": "Via Vittorio Veneto 1",
+    "cap": null,
+    "comune": "012032",
+    "frazione": null,
+    "lat": 45.646574,
+    "lon": 8.773382,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto e reading dedicato a Banksy con JAMA Trio e Davide Gammon, organizzato a sostegno di Medici Senza Frontiere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Quarto Stato",
+    "fonti": [
+      {
+        "nome": "Circolo Quarto Stato",
+        "tipo": "organizzatore",
+        "url": "https://circoloquartostato.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "omaggio-a-bennato-e-mannarino-davide-fleurs-in-acustico-bollate",
+    "titolo": "Omaggio a Bennato e Mannarino • Davide Fleurs in acustico",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:00",
+    "fine": "2026-11-20T23:00",
+    "luogo": "Birreria Las Vegas",
+    "indirizzo": "Via Corte Grande 31",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.556944,
+    "lon": 9.096799,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata musicale con Davide Fleurs in acustico che omaggia i brani di Bennato e Mannarino. L'evento si svolge presso il pub ristorante con disponibilità di birre artigianali e cucina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Birreria Las Vegas",
+    "fonti": [
+      {
+        "nome": "Birreria Las Vegas",
+        "tipo": "organizzatore",
+        "url": "https://lasvegascastellazzo.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "karaoke-for-you-bollate",
+    "titolo": "Karaoke for you",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:30",
+    "luogo": "Birreria Las Vegas",
+    "indirizzo": "Via Corte Grande 31",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.556944,
+    "lon": 9.096799,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di karaoke condotta da Alex e Mino. L'evento è gratuito e si tiene presso il locale con servizio di bar e ristorante.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Birreria Las Vegas",
+    "fonti": [
+      {
+        "nome": "Birreria Las Vegas",
+        "tipo": "organizzatore",
+        "url": "https://lasvegascastellazzo.it/eventi",
+        "consultata": "2026-11-17"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-17",
+    "inseritoDa": "consegna"
   }
 ]
