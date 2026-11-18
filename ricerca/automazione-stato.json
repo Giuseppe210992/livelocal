@@ -2,19 +2,19 @@
  "_nota": "Generato da scripts/estrai-eventi-ia.mjs: ultimo giro per ogni fonte.",
  "fonti": {
   "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
-   "ultima": "2026-11-17",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.piacenza.it/it/eventi": {
-   "ultima": "2026-11-17",
-   "eventi": 2,
-   "esito": "ok: 7 proposti, 2 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://visitpiacenza.it/events/natale-a-piacenza/": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 3,
    "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
@@ -32,15 +32,15 @@
    "falliti": 3
   },
   "https://www.comune.pianodisorrento.na.it/": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
+   "esito": "non letta: HTTP 500",
+   "falliti": 1
   },
   "https://teatrostabile.umbria.it/calendario": {
-   "ultima": "2026-11-17",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 15,
+   "esito": "ok: 15 proposti, 15 superano il controllo",
    "falliti": 0
   },
   "https://cultura.gov.it/evento": {
@@ -50,22 +50,22 @@
    "falliti": 3
   },
   "https://www.teatrotrianon.org/programmazione": {
-   "ultima": "2026-11-17",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 15,
+   "esito": "ok: 15 proposti, 15 superano il controllo",
    "falliti": 0
   },
   "https://www.teatroghione.it/eventi": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
+   "esito": "non letta: HTTP 500",
+   "falliti": 2
   },
   "https://www.fiesoleforyou.it/eventi": {
-   "ultima": "2026-11-17",
-   "eventi": 0,
-   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
-   "falliti": 1
+   "ultima": "2026-11-18",
+   "eventi": 15,
+   "esito": "ok: 15 proposti, 15 superano il controllo",
+   "falliti": 0
   },
   "https://www.comune.napoli.it/vivere-il-comune/eventi": {
    "ultima": "2026-11-10",
@@ -74,7 +74,7 @@
    "falliti": 3
   },
   "https://www.teatrosancarlo.it/spettacoli": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -86,9 +86,9 @@
    "falliti": 3
   },
   "https://www.comune.monza.it/it/eventi": {
-   "ultima": "2026-11-17",
-   "eventi": 1,
-   "esito": "ok: 3 proposti, 1 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.teatrodiroma.net/spettacoli": {
@@ -98,7 +98,7 @@
    "falliti": 3
   },
   "https://teatripiacenza.it/calendario/": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -128,7 +128,7 @@
    "falliti": 0
   },
   "https://www.cuneocultura.it/eventi": {
-   "ultima": "2026-11-17",
+   "ultima": "2026-11-18",
    "eventi": 15,
    "esito": "ok: 15 proposti, 15 superano il controllo",
    "falliti": 0
@@ -1520,223 +1520,223 @@
    "falliti": 0
   },
   "https://www.prealpina.it/sezioni/1150/agenda": {
-   "ultima": "2026-11-16",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 4,
+   "esito": "ok: 5 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.ecodibergamo.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "esito": "ok: 15 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.osservatoriobilancisostenibilita.it/agenda/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.ildenaro.it/vedi-agenda/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://arabita.news/it/articolo/715/agenda-araba-ibrahim-maalouf-il-medfilm-festival-e-un-film-palestinese-a-roma": {
-   "ultima": "2026-11-16",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://www.itiszuccante.edu.it/evento/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://bologna.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://firenze.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://trieste.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://venezia.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://perugia.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://ancona.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://trento.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://catanzaro.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://laquila.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://potenza.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://sardegna.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://aosta.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://bari.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://campobasso.notizie.it/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.imolalicei.edu.it/pagine/calendario-eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://ru.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://zh.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.laprovinciadicomo.it/eventi/": {
-   "ultima": "2026-11-16",
-   "eventi": 7,
-   "esito": "ok: 7 proposti, 7 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 2,
+   "esito": "ok: 3 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://ja.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://ko.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://es.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
-   "esito": "ok: 1 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://fr.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://de.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://en.spaziocrypto.com/events/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
-   "esito": "ok: 1 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.spaziocrypto.com/eventi/": {
-   "ultima": "2026-11-16",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.ilreggino.it/eventi": {
-   "ultima": "2026-11-16",
-   "eventi": 3,
-   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 4,
+   "esito": "ok: 7 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.catanzarochannel.it/eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.citynow.it/eventi/": {
-   "ultima": "2026-11-16",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 7,
+   "esito": "ok: 8 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://www.torresette.news/rubriche/eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.ilvibonese.it/eventi": {
-   "ultima": "2026-11-16",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 2,
+   "esito": "ok: 2 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.restoalsud.it/eventi-e-cultura/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -1754,69 +1754,69 @@
    "falliti": 0
   },
   "https://indicatoreweb.it/category/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.milanofinanza.it/dossier-eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://messaggerosantantonio.it/eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.sportmediaset.mediaset.it/drive-up/dani-pedrosa-batte-una-formula-1-sul-ghiaccio_118930110-202602k.shtml": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.varesenews.it/cosa-fare-varese-eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.balcanicaucaso.org/categoria-pagina/eventi/": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.2duerighe.com/eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "non letta: vietato da robots.txt",
-   "falliti": 2
+   "falliti": 3
   },
   "https://www.quotidiano.net/eventi": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 1,
    "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
   },
   "https://vocedimantova.it/eventi/": {
-   "ultima": "2026-11-16",
-   "eventi": 2,
-   "esito": "ok: 3 proposti, 2 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://buildersinfintech.ai/events": {
-   "ultima": "2026-11-16",
+   "ultima": "2026-11-18",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://aostasera.it/cosa-fare-ad-aosta/": {
-   "ultima": "2026-11-16",
-   "eventi": 5,
-   "esito": "ok: 6 proposti, 5 superano il controllo",
+   "ultima": "2026-11-18",
+   "eventi": 11,
+   "esito": "ok: 11 proposti, 11 superano il controllo",
    "falliti": 0
   },
   "https://reggiadicaserta.cultura.gov.it/iniziative/": {

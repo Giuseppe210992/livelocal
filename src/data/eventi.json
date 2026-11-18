@@ -247534,5 +247534,1029 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-18",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-villa-e-collezione-panza-capolavori-quasi-mai-esposti-varese",
+    "titolo": "A Villa e Collezione Panza capolavori quasi mai esposti",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Villa e Collezione Panza",
+    "indirizzo": "Varese",
+    "cap": null,
+    "comune": "012133",
+    "frazione": null,
+    "lat": 45.8243,
+    "lon": 8.81294,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata alla meditazione cromatica di Josef Albers, con capolavori quasi mai esposti in pubblico. La presentazione indica un viaggio nell'opera dell'artista che continuerà fino a gennaio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "la Prealpina",
+        "tipo": "stampa",
+        "url": "https://www.prealpina.it/sezioni/1150/agenda",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-stanza-tutta-per-le-sfumature-di-josef-albers-varese",
+    "titolo": "Una stanza tutta per le sfumature di Josef Albers",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2026-12-20",
+    "luogo": "Fondazione Marcello Morandini",
+    "indirizzo": "Varese",
+    "cap": null,
+    "comune": "012133",
+    "frazione": null,
+    "lat": 45.8243,
+    "lon": 8.81294,
+    "coordinateApprossimate": true,
+    "descrizione": "La Fondazione Marcello Morandini dedica una sala alle opere «Interaction of Color» di Josef Albers, esplorando le sfumature cromatiche. L'esposizione è temporanea e si protrarrà fino a fine dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Marcello Morandini",
+    "fonti": [
+      {
+        "nome": "la Prealpina",
+        "tipo": "stampa",
+        "url": "https://www.prealpina.it/sezioni/1150/agenda",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giuseppe-portella-in-dialogo-con-la-collezione-del-castello-di-masnago-varese",
+    "titolo": "Giuseppe Portella in dialogo con la collezione del Castello di Masnago",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2026-12-06",
+    "luogo": "Castello di Masnago",
+    "indirizzo": "Varese",
+    "cap": null,
+    "comune": "012133",
+    "frazione": null,
+    "lat": 45.8243,
+    "lon": 8.81294,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra «Passaggio alla luce» con una cinquantina di opere dell'artista Giuseppe Portella, in dialogo con la collezione permanente del Castello di Masnago. L'evento è in programma fino all'inizio di dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "la Prealpina",
+        "tipo": "stampa",
+        "url": "https://www.prealpina.it/sezioni/1150/agenda",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-luce-di-antonio-barrese-in-azione-come-materia-e-concetto-varese",
+    "titolo": "La luce di Antonio Barrese in azione come materia e concetto",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2026-12-20",
+    "luogo": "Fondazione Marcello Morandini",
+    "indirizzo": "Varese",
+    "cap": null,
+    "comune": "012133",
+    "frazione": null,
+    "lat": 45.8243,
+    "lon": 8.81294,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione temporanea intitolata «Morfologie di luce» che presenta le opere di Antonio Barrese, indagando la luce come materia e concetto. L'appuntamento è ospitato dalla Fondazione Marcello Morandini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Marcello Morandini",
+    "fonti": [
+      {
+        "nome": "la Prealpina",
+        "tipo": "stampa",
+        "url": "https://www.prealpina.it/sezioni/1150/agenda",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-e-concerto-con-il-quintetto-musorgskij-como",
+    "titolo": "Incontro e concerto con il Quintetto Musorgskij",
+    "categoria": "concerto",
+    "inizio": "2026-11-18T17:30",
+    "fine": "2026-11-18T19:00",
+    "luogo": "Fondazione Cardinal Ferrari",
+    "indirizzo": "viale Battisti 8",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento del ciclo I mestieri della musica promosso da Expomus./Am#Re-play con l'Università popolare. Il Quintetto Musorgskij, formato da fiati a tre ottavi, esegue brani di Farkas, Ibert, Bartók e Milhaud. Il gruppo è intervistato dal musicologo Stefano Lamon.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Università popolare - Auser",
+    "fonti": [
+      {
+        "nome": "La Provincia",
+        "tipo": "stampa",
+        "url": "https://www.laprovinciadicomo.it/eventi/agenda-degli-appuntamenti/dettaglio/musica/como/incontro-e-concerto-con-il-quintetto-musorgskij_307640",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-ncartamu-turruni-igers-experience-a-taurianova-taurianova",
+    "titolo": "La 'Ncartamu Turruni Igers Experience a Taurianova",
+    "categoria": "bambini",
+    "inizio": "2026-11-18",
+    "fine": null,
+    "luogo": "Laboratorio Scionti",
+    "indirizzo": "Taurianova",
+    "cap": null,
+    "comune": "080093",
+    "frazione": null,
+    "lat": 38.36985,
+    "lon": 15.99531,
+    "coordinateApprossimate": true,
+    "descrizione": "Esperienza immersiva dedicata all'arte del torrone artigianale. Un gruppo di influencer (Igers) partecipa attivamente alla lavorazione del dolce tipico, unendo tradizione dolciaria e promozione del territorio locale attraverso contenuti digitali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Scionti",
+    "fonti": [
+      {
+        "nome": "Il Reggino",
+        "tipo": "stampa",
+        "url": "https://www.ilreggino.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-fantasma-dell-opera-reggio-di-calabria",
+    "titolo": "Il fantasma dell'Opera",
+    "categoria": "teatro",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Cine Teatro Odeon",
+    "indirizzo": "Reggio di Calabria",
+    "cap": null,
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.11279,
+    "lon": 15.71818,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale 'Il fantasma dell'Opera' in programma al Cine Teatro Odeon di Reggio Calabria. L'evento fa parte della sezione Spettacolo della testata CityNow.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CityNow",
+        "tipo": "stampa",
+        "url": "https://www.citynow.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "secondo-voi-poteva-mancare-la-calabria-reggio-di-calabria",
+    "titolo": "Secondo voi poteva mancare la Calabria?",
+    "categoria": "concerto",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Teatro Francesco Cilea",
+    "indirizzo": "Reggio di Calabria",
+    "cap": null,
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.11279,
+    "lon": 15.71818,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Brunori Sas a Reggio Calabria. L'evento è inserito nella sezione Concerti della pagina eventi di CityNow.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CityNow",
+        "tipo": "stampa",
+        "url": "https://www.citynow.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mario-biondi-celebra-20-anni-di-this-is-what-you-are-reggio-di-calabria",
+    "titolo": "Mario Biondi celebra 20 anni di 'This Is What You Are'",
+    "categoria": "concerto",
+    "inizio": "2026-11-23",
+    "fine": null,
+    "luogo": "Teatro Cilea",
+    "indirizzo": "Reggio di Calabria",
+    "cap": null,
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.11279,
+    "lon": 15.71818,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Mario Biondi al Teatro Cilea di Reggio Calabria per celebrare il ventennale dell'album 'This Is What You Are'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CityNow",
+        "tipo": "stampa",
+        "url": "https://www.citynow.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-gigi-d-alessio-reggio-di-calabria",
+    "titolo": "Concerto di Gigi D'Alessio",
+    "categoria": "concerto",
+    "inizio": "2026-12-17",
+    "fine": null,
+    "luogo": "Palacalafiore",
+    "indirizzo": "Reggio di Calabria",
+    "cap": null,
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.11279,
+    "lon": 15.71818,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Gigi D'Alessio riprogrammato al Palacalafiore di Reggio Calabria. L'appuntamento è stato aggiornato nella sezione eventi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CityNow",
+        "tipo": "stampa",
+        "url": "https://www.citynow.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "frida-opera-musical-reggio-di-calabria",
+    "titolo": "Frida Opera Musical",
+    "categoria": "teatro",
+    "inizio": "2027-04-15",
+    "fine": "2027-04-17",
+    "luogo": "Teatro Cilea",
+    "indirizzo": "Reggio di Calabria",
+    "cap": null,
+    "comune": "080063",
+    "frazione": null,
+    "lat": 38.11279,
+    "lon": 15.71818,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo 'Frida Opera Musical' in scena al Teatro Cilea di Reggio Calabria per tre serate consecutive.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CityNow",
+        "tipo": "stampa",
+        "url": "https://www.citynow.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercato-di-coldiretti-vibo-valentia",
+    "titolo": "Mercato di Coldiretti",
+    "categoria": "mercatino",
+    "inizio": "2026-11-19",
+    "fine": null,
+    "luogo": "Piazza Municipio",
+    "indirizzo": "Vibo Valentia",
+    "cap": null,
+    "comune": "102047",
+    "frazione": null,
+    "lat": 38.68239,
+    "lon": 16.0933,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del mercato di Coldiretti a Vibo Valentia, che torna dopo sei anni. L'evento si svolge in piazza Municipio e include un patto per contrastare l'abusivismo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coldiretti",
+    "fonti": [
+      {
+        "nome": "Il Vibonese",
+        "tipo": "stampa",
+        "url": "https://www.ilvibonese.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tropea-borgo-incantato-tropea",
+    "titolo": "Tropea Borgo Incantato",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Piazza Ercole",
+    "indirizzo": "Tropea",
+    "cap": null,
+    "comune": "102044",
+    "frazione": null,
+    "lat": 38.67197,
+    "lon": 15.89157,
+    "coordinateApprossimate": true,
+    "descrizione": "Accensione delle luminarie natalizie di Tropea. L'evento inaugura l'edizione 2026 del progetto nato nel 2019, con una cerimonia che durerà fino all'Epifania e che include installazioni artistiche e luci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Vibonese",
+        "tipo": "stampa",
+        "url": "https://www.ilvibonese.it/eventi/tropea-pronta-ad-accendere-la-magia-del-natale-il-21-si-illumina-il-borgo-incantato-e-ora-anche-i-turisti-stranieri-aiutano-a-preparare-le-luminarie-nfeptful",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ai-factory-arriva-a-modena-l-intelligenza-artificiale-incontra-l-impre-modena",
+    "titolo": "AI Factory arriva a Modena: l'intelligenza artificiale incontra l'impresa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T17:00",
+    "fine": null,
+    "luogo": "Ex Centrale AEM",
+    "indirizzo": "Viale Buon Pastore, 43",
+    "cap": null,
+    "comune": "036023",
+    "frazione": null,
+    "lat": 44.64398,
+    "lon": 10.9152,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento itinerante di QN Media dedicato all'impiego dell'intelligenza artificiale nelle PMI. Il programma prevede keynote, case history e sessioni di formazione pratica, seguito da un momento di networking per imprenditori e professionisti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "QN Media",
+    "fonti": [
+      {
+        "nome": "Quotidiano Nazionale",
+        "tipo": "stampa",
+        "url": "https://www.quotidiano.net/eventi/ai-factory-modena-b7n33lju",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "saison-culturelle-cinema-2026-2027-proiezioni-al-de-la-ville-aosta",
+    "titolo": "Saison Culturelle Cinema 2026/2027: proiezioni al De la Ville",
+    "categoria": "concerto",
+    "inizio": "2026-11-18T18:30",
+    "fine": "2026-11-18T21:00",
+    "luogo": "Cinéma Théâtre de la Ville",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'La festa è finita (Classe moyenne)' di Antony Cordier. L'ingresso è gratuito. La programmazione si tiene ogni martedì e mercoledì.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "L’Eubage Srl",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/saison-culturelle-cinema-2026-2027-i-film-della-settimana-al-de-la-ville",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-libera-valle-d-aosta-e-brivio-due-leggono-io-posso-aosta",
+    "titolo": "Gruppo di lettura: Libera Valle d’Aosta e Brivio Due leggono “Io posso”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T18:00",
+    "fine": null,
+    "luogo": "Sede di Libera Valle d’Aosta",
+    "indirizzo": "via Giustino Boson 6",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo incontro del Club del libro dedicato a legalità, memoria e resistenza civile. Si legge il libro 'Io posso. Due donne sole contro la mafia' di Pif e Marco Lillo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Libera Valle d’Aosta",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/gruppo-di-lettura-libera-valle-daosta-e-brivio-due-leggono-io-posso-di-pif-e-marco-lillo",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostre-di-daniela-borla-a-saint-vincent-saint-vincent",
+    "titolo": "Mostre di Daniela Borla a Saint-Vincent",
+    "categoria": "mostra",
+    "inizio": "2026-11-19",
+    "fine": "2026-11-23",
+    "luogo": "Galleria civica d’arte moderna",
+    "indirizzo": "Saint-Vincent",
+    "cap": null,
+    "comune": "007065",
+    "frazione": null,
+    "lat": 45.75653,
+    "lon": 7.6727,
+    "coordinateApprossimate": true,
+    "descrizione": "Personale di Daniela Borla (conosciuta come Dabò) alla Galleria civica. In parallelo, le opere sono esposte nelle vetrine del centro grazie al progetto 'Saint-Vincent città d’arte'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-caroline-darian-briser-le-silence-depasser-la-honte-aosta",
+    "titolo": "Incontro con Caroline Darian: Briser le silence, dépasser la honte",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T20:30",
+    "fine": null,
+    "luogo": "Sala Maria Ida Viglino, Palazzo regionale",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro in francese con Caroline Darian, figlia di Gisèle Pelicot, in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Si parlerà di sottomissione chimica e resistenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consiglio Valle",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/la-figlia-di-gisele-pelicot-ad-aosta-caroline-darian-ospite-il-20-novembre-del-consiglio-valle",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-di-santa-cecilia-della-banda-municipale-aosta",
+    "titolo": "Festa di Santa Cecilia della Banda Municipale",
+    "categoria": "concerto",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-22",
+    "luogo": "Auditorium Giacosa",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione di Santa Cecilia con concerto di gala al Giacosa, esibizione della Banda Giovanile, sveglia della città e sfilata per le vie del centro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Banda Municipale “Città di Aosta”",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/cosa-fare-ad-aosta",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-studio-di-ariane-darpy-al-festival-d-autunno-bard",
+    "titolo": "Open studio di Ariane Darpy al Festival d’autunno",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Maison des Artistes",
+    "indirizzo": "Bard",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "La pittrice francese Ariane Darpy presenta il lavoro realizzato durante la sua residenza a Bard. Esplorazione del confine tra visibile e invisibile con forme organiche.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Palinodie",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/a-bard-il-terzo-weekend-del-festival-dautunno",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-per-bambini-e-ragazzi-decorazioni-in-lana-aosta",
+    "titolo": "Laboratorio per bambini e ragazzi “Decorazioni in lana”",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T09:30",
+    "fine": "2026-11-21T12:30",
+    "luogo": "BrivioDue",
+    "indirizzo": "corso Lancieri",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Atelier per imparare nuove tecniche artigianali e realizzare decorazioni in lana colorata. Due turni disponibili: dalle 9.30 alle 10.45 e dalle 11.15 alle 12.30.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Federica Mossetti",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/ad-aosta-il-laboratorio-per-bambini-e-ragazzi-decorazioni-in-lana",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "schiappa-party-festa-da-incubo-aosta",
+    "titolo": "Schiappa Party – Festa da incubo",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:00",
+    "fine": null,
+    "luogo": "Cartolibreria Briviodue",
+    "indirizzo": "corso Lancieri",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa per l'uscita del nuovo volume della serie 'Diario di una Schiappa' di Jeff Kinney. Pomeriggio con attività e giochi a tema per celebrare le disavventure del personaggio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cartolibreria Briviodue",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/ad-aosta-lo-schiappa-party-festa-da-incubo-per-festeggiare-il-nuovo-libro-di-jeff-kinney",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-leon-cino-impara-sporcandosi-aosta",
+    "titolo": "Presentazione del libro “Léon Cino impara… sporcandosi!”",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Nido d’infanzia Maria Bonino",
+    "indirizzo": "piazza Battaglione Cervino 1",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del secondo volume della collana della cooperativa Leone Rosso per bambini 0-3 anni. Il libro parla di gioco, sperimentazione e sviluppo di competenze sensoriali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperativa Leone Rosso",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/leon-cino-torna-con-un-nuovo-libro-sabato-21-novembre-la-presentazione-al-nido-maria-bonino",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "passeggiata-fotografica-a-bard-bard",
+    "titolo": "Passeggiata fotografica a Bard",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T15:30",
+    "fine": null,
+    "luogo": "Maison des Artistes",
+    "indirizzo": "Bard",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata guidata da Marta Renda nel borgo di Bard e dintorni per cercare forme, pattern e colori. Pensata come momento di osservazione e creazione condivisa, aperta a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Palinodie",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/a-bard-il-terzo-weekend-del-festival-dautunno",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tavola-rotonda-l-effetto-sagan-trent-anni-dopo-aosta",
+    "titolo": "Tavola rotonda “L’effetto Sagan, trent’anni dopo”",
+    "categoria": "conferenza",
+    "inizio": "2026-12-18T10:00",
+    "fine": "2026-12-18T12:30",
+    "luogo": "Sala conferenze della biblioteca regionale “Bruno Salvadori”",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Tavola rotonda dedicata alla relazione tra ricerca e comunicazione della scienza, in occasione del trentennale della scomparsa di Carl Sagan. Interventi di personalità accademiche e di ricerca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Clément Fillietroz",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/ad-aosta-la-tavola-rotonda-leffetto-sagan-trentanni-dopo-tra-scienza-e-comunicazione-della-scienza",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nummere-scostumatissima-tombola-napoli",
+    "titolo": "Nummere. Scostumatissima Tombola",
+    "categoria": "teatro",
+    "inizio": "2026-12-22",
+    "fine": "2026-12-23",
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "Piazza V incenzo C alenda, 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Gino Curcione che mescola il gioco della tombola con narrazione e comicità, in un contesto di intrattenimento natalizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-cantata-dei-pastori-napoli",
+    "titolo": "La Cantata dei Pastori",
+    "categoria": "teatro",
+    "inizio": "2027-01-02",
+    "fine": "2027-01-03",
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "Piazza V incenzo C alenda, 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Ripresa delle date dello spettacolo teatrale musicale di Peppe Barra dedicato alla tradizione delle cantate napoletane per le festività natalizie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tempo-che-fu-di-scioscia-napoli",
+    "titolo": "Tempo che fu di Scioscia",
+    "categoria": "teatro",
+    "inizio": "2027-01-27",
+    "fine": null,
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "Piazza V incenzo C alenda, 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura scenica di Enzo Moscatto che evoca i tempi passati attraverso un percorso di memoria e riflessione sul passato, definito come tempo che fu.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Trianon Viviani",
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lu-santo-jullare-francesco-citta-di-castello-22-11",
+    "titolo": "Lu Santo Jullàre Françesco",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "Teatro degli Illuminati",
+    "indirizzo": "Città di Castello",
+    "cap": null,
+    "comune": "054013",
+    "frazione": null,
+    "lat": 43.44433,
+    "lon": 12.24835,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale di Dario Fo e Franca Rame interpretato da Matthias Martelli. Racconta la figura di San Francesco come 'giullare di Dio' con un linguaggio misto e una forte componente fisica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/calendario",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "non-si-sa-come-terni-25-11",
+    "titolo": "Non si sa come",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T20:45",
+    "fine": null,
+    "luogo": "Teatro Secci",
+    "indirizzo": "Terni",
+    "cap": null,
+    "comune": "055032",
+    "frazione": null,
+    "lat": 42.57959,
+    "lon": 12.66045,
+    "coordinateApprossimate": true,
+    "descrizione": "L'ultima opera di Luigi Pirandello interpretata da Franco Branciaroli. Una pièce che esplora la psicologia umana attraverso una contaminazione multimediale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/calendario",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "commedia-pium-se-n-cafe-rassegna-teatro-dialettale-cuneo",
+    "titolo": "commedia “Pium-se ‘n cafè” – rassegna teatro dialettale",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-20",
+    "luogo": "Teatro Toselli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia in dialetto piemontese intitolata Pium-se 'n cafè. Parte della rassegna concorso di teatro dialettale El teatro Piemonteis. Spettacolo comico in lingua locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
   }
 ]
