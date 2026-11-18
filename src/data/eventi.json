@@ -252860,5 +252860,996 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-18",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mi-racconti-una-storia-borgo-san-lorenzo",
+    "titolo": "Mi racconti una storia?",
+    "categoria": "bambini",
+    "inizio": "2026-11-18",
+    "fine": "2026-12-16",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 10",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura di albi illustrati per bambini in biblioteca, programmata per le giornate di mercoledì con fasce d'età distinte. Il prossimo appuntamento è previsto per l'18 novembre per bambini dai 0 ai 3 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/mi-racconti-una-storia-731540",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convegno-internazionale-di-studi-musicali-gaspar-cassado-60-borgo-san-lorenzo-21-11",
+    "titolo": "Convegno Internazionale di Studi Musicali - Gaspar Cassadó 60",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:00",
+    "fine": null,
+    "luogo": "Oratorio di Sant'Omobono",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto musicale in omaggio al violoncellista catalano Gaspar Cassadó, previsto per la serata del 21 novembre nell'ambito di un ciclo di studi musicali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-nuova-biblioteca-del-benessere-brescia",
+    "titolo": "La nuova biblioteca del benessere",
+    "categoria": "mostra",
+    "inizio": "2026-11-18T16:00",
+    "fine": "2026-11-18T18:00",
+    "luogo": "CoLab Torre Cimabue",
+    "indirizzo": "Via Giovanni Cimabue, 18",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del catalogo collettivo de La Biblioteca del Benessere, progetto Youth CoLab che raccoglie libri e contenuti multimediali scelti da giovani. L'incontro è gratuito e permette di sfogliare i titoli disponibili nello spazio espositivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Chiaro del Bosco ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-nuova-biblioteca-del-benessere-2520520",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "unitre-un-convegno-di-sensibilizzazione-su-giulia-e-le-altre-castelfidardo",
+    "titolo": "Unitre, un convegno di sensibilizzazione su \"Giulia e le altre\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T19:30",
+    "luogo": "Sala Convegni di via Mazzini",
+    "indirizzo": "Via Giuseppe Mazzini, 6, 60022 Castelfidardo AN",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno in occasione della Giornata Internazionale contro la violenza sulle donne. Si discute del libro 'Cara Giulia' e del film omonimo, con interventi normativi e psicologici. Modera la presidente Unitre, con il coro dell'Unitre come alleato cerimoniale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre",
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi/unitre-cerimonia-di-apertura-del-32-anno-accademico",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "board-games-night-martedi-24-novembre-2026-cusano-milanino",
+    "titolo": "BOARD GAMES NIGHT – Martedì 24 novembre 2026",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T21:00",
+    "fine": "2026-11-24T23:30",
+    "luogo": "Biblioteca F. Maraspin",
+    "indirizzo": "Viale Matteotti, 37",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa nell'ambito dell'International Games Month promossa dalla Biblioteca Comunale per tutti i cittadini dai 16 anni in su, con giochi di società e socializzazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cusano Milanino",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/board-games-night-martedi-24-novembre-2026",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agora-d-inverno-dove-il-natale-e-di-casa-osio-sotto",
+    "titolo": "Agorà d'inverno. Dove il Natale è di casa",
+    "categoria": "mostra",
+    "inizio": "2026-11-14T20:45",
+    "fine": "2026-12-31T23:00",
+    "luogo": "Piazza Papa Giovanni XXIII",
+    "indirizzo": "Piazza Papa Giovanni XXIII, 26, 24046 Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Progetto natalizio che coinvolge otto comuni del territorio con luci, musica, spettacoli e incontri nelle piazze. Iniziativa gratuita realizzata con il contributo di Regione Lombardia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Osio Sotto",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/agora-d-inverno-dove-il-natale-e-di-casa",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piano-integrato-di-paesaggio-messapia-quelli-tra-i-due-mari-francavilla-fontana",
+    "titolo": "Piano integrato di paesaggio “Messapia – Quelli tra i due mari”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:00",
+    "fine": "2026-11-26T20:00",
+    "luogo": "Castello Imperiali",
+    "indirizzo": "Via Municipio 4",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Forum territoriale aperto a tutti per illustrare il progetto di corridoio ecologico tra costa adriatica e ionica. Prevede saluti istituzionali, presentazione dei macro-temi e un momento di concertazione con cittadini e associazioni, chiuso da una degustazione di vini e prodotti tipici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98730977/evento-1484",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consiglio-comunale-locri",
+    "titolo": "Consiglio Comunale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19T16:30",
+    "fine": "2026-11-19T23:59",
+    "luogo": "Sala delle Adunanze Municipio",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Sessione del Consiglio Comunale del Comune di Locri. L'evento è aperto al pubblico e si terrà nella sala dedicata alle adunanze presso il Municipio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Locri",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98729877/copia-di-consiglio-comunale-inizio-ore-1630",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fra-mystiae-e-stabiae-francesco-antonio-pellicano-numismatico-e-antich-locri-20-11",
+    "titolo": "Fra Mystiae e Stabiae. Francesco Antonio Pellicano numismatico e antichista della Calabria neoclassica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T17:30",
+    "fine": "2026-11-20T23:59",
+    "luogo": "Museo e Parco archeologico nazionale di Locri Epizefiri",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento culturale intitolato 'Un caffè… storicamente corretto' che esplora la figura di Francesco Antonio Pellicano, numismatico e antichista della Calabria neoclassica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lerici-per-la-vita-lerici",
+    "titolo": "Lerici per la vita",
+    "categoria": "sport",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T12:00",
+    "luogo": "Rotonda Vassallo",
+    "indirizzo": "Rotonda Vassallo, Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata non competitiva sul lungomare, da Castello a Castello, per sostenere la ricerca scientifica. Si può partecipare a piedi, in bicicletta o con il passeggino. Ritrovo presso il Parco Giochi in Rotonda Vassallo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Telethon",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento/lerici-per-la-vita-3",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "idilli-e-swing-napoli",
+    "titolo": "Idilli e swing",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T19:00",
+    "fine": null,
+    "luogo": "Sala Scarlatti del Conservatorio San Pietro a Majella",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto appuntamento della rassegna Autunno musicale 2026. La Nuova Orchestra Scarlatti propone un programma con musiche di V. d’Indy, J. N. Hummel, R. Wagner e B. Persico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Orchestra Scarlatti",
+    "fonti": [
+      {
+        "nome": "Nuova Orchestra Scarlatti",
+        "tipo": "organizzatore",
+        "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "feuersinfonie-napoli",
+    "titolo": "Feuersinfonie",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T19:00",
+    "fine": null,
+    "luogo": "Sala Scarlatti del Conservatorio San Pietro a Majella",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinto appuntamento della rassegna Autunno musicale 2026. La Nuova Orchestra Scarlatti esegue la Sinfonia n. 1 K 16 e il Divertimento n. 1 K di W. A. Mozart.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Orchestra Scarlatti",
+    "fonti": [
+      {
+        "nome": "Nuova Orchestra Scarlatti",
+        "tipo": "organizzatore",
+        "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tiro-dinamico-sportivo-action-air-alta-val-tidone",
+    "titolo": "Tiro dinamico sportivo \"ACTION AIR\"",
+    "categoria": "sport",
+    "inizio": "2026-12-13T08:00",
+    "fine": "2026-12-13T19:00",
+    "luogo": "Centro Polivalente \"G. Fuso Nerini\"",
+    "indirizzo": "Via Fornace - Fraz. Trevozzo",
+    "cap": null,
+    "comune": "033049",
+    "frazione": null,
+    "lat": 44.89913,
+    "lon": 9.35883,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione sportiva dedicata al tiro dinamico, aperta a tutti. L'evento si svolge presso il centro polivalente di Trevozzo e offre l'emozione del tiro dinamico in un contesto di sport e divertimento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Sportshooting",
+    "fonti": [
+      {
+        "nome": "Comune di Alta Val Tidone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.altavaltidone.pc.it/it/eventi/tiro-dinamico-sportivo-action-air",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "premio-di-poesia-giacomo-giardina-bagheria",
+    "titolo": "Premio di poesia Giacomo Giardina",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T17:00",
+    "fine": null,
+    "luogo": "Villa Butera",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione della XX edizione del premio di poesia Giacomo Giardina. Si terrà venerdì 20 novembre alle ore 17:00 nella sala Martorana - Fumagalli di villa Butera.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ra-baaria-e-ri-baarioti-bagheria",
+    "titolo": "Ra Baaria e ri Baarioti",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Hotel Centrale",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra bibliografica dedicata alle pubblicazioni su Bagheria e opere di autori locali. Inaugurazione sabato 21 novembre alle 11:00. Apertura al pubblico mattina 10-13 e pomeriggio 16-19. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Giuseppe Bagnera",
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi/ra-baaria-e-ri-baarioti-una-mostra-dedicata-ai-libri",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "te-tra-donne-datemi-voce-bagheria",
+    "titolo": "Tè tra donne – Datemi voce",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": "2026-11-25",
+    "luogo": "Villa Cutò",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con storie e musica dedicato alla violenza contro le donne. Previsto per mercoledì 25 novembre a villa Cutò. La pagina non specifiche l'ora esatta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-teatrale-lulu-e-la-magia-di-natale-bresso",
+    "titolo": "Spettacolo teatrale \"Lulù e la magia di Natale\"",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T16:00",
+    "fine": "2026-12-20T18:00",
+    "luogo": "Teatro Civico Pertini",
+    "indirizzo": "Via Giuseppe Bologna, 38, 20091 Bresso MI, Italia",
+    "cap": null,
+    "comune": "015032",
+    "frazione": null,
+    "lat": 45.53648,
+    "lon": 9.19497,
+    "coordinateApprossimate": true,
+    "descrizione": "Vigilia di Natale: la piccola Lulù aspetta i genitori bloccati dalla bufera. Con l'aiuto della vicina Nina e della scimmietta di peluche, scopre che il vero regalo è l'affetto familiare. Spettacolo comico, dolce e poetico sulla generosità e sullo stare insieme.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bresso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bresso.mi.it/it/eventi/spettacolo-teatrale-732630-734351",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "musical-il-giro-del-mondo-in-80-giorni-bresso",
+    "titolo": "Musical \"Il giro del mondo in 80 giorni\"",
+    "categoria": "teatro",
+    "inizio": "2027-01-06T16:00",
+    "fine": "2027-01-06T18:00",
+    "luogo": "Cinema Teatro San Giuseppe",
+    "indirizzo": "Via I. Isimbardi, 30, 20091 Bresso MI, Italia",
+    "cap": null,
+    "comune": "015032",
+    "frazione": null,
+    "lat": 45.53648,
+    "lon": 9.19497,
+    "coordinateApprossimate": true,
+    "descrizione": "Compagnia All Crazy adatta il celebre romanzo di Jules Verne. Phileas Fogg e Passepartout corrono contro il tempo per vincere una scommessa. Avventura ritmata con scenografie suggestive, musica e costumi per tutte le età.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bresso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bresso.mi.it/it/eventi/spettacolo-teatrale-732630-734351-734446",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "next-giovani-per-il-domani-l-importanza-di-non-arrendersi-cameri",
+    "titolo": "Next - Giovani per il domani: \"L'importanza di non arrendersi\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Dante Alighieri, 25 - Cameri NO",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato ai giovani dai 15 ai 34 anni sul valore della resilienza e della determinazione. Ospite d'eccezione Dan Peterson, che condividerà la propria esperienza professionale e personale. L'evento è promosso nell'ambito del progetto NEXT dai comuni di Cameri, Cerano, Galliate, Romentino e Sozzago.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cameri",
+    "fonti": [
+      {
+        "nome": "Comune di Cameri",
+        "tipo": "ufficiale",
+        "url": "https://comune.cameri.no.it/vivere-il-comune/evento/next-giovani-per-il-domani-limportanza-di-non-arrendersi",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-di-ballo-buccinasco-28-11",
+    "titolo": "Serata di ballo",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T20:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Centro Civico Marzabotto (C.C.M.)",
+    "indirizzo": "Via Marzabotto 3, 20090 Buccinasco MI, Italia",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Consueta serata danzante aperta a tutti con intrattenimento di musica dal vivo, rivolta alla cittadinanza per favorire la socializzazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comitato Civico Anziani Buccinasco",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/serata-di-ballo-al-ccm-cp-2024-cp-717266-725018-725021",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-rapina-del-secolo-buccinasco",
+    "titolo": "La rapina del secolo",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Auditorium Medini",
+    "indirizzo": "Via Tiziano, 7, 20090 Buccinasco MI, Italia",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia teatrale di Simonetta Grassi interpretata dalla compagnia In ordine sparso. L'evento prevede una raccolta fondi a favore delle Suore Missionarie di Gesù Eterno Sacerdote.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia \"In ordine sparso\" di Senago",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/furore-726827-726829",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-internazionale-contro-la-violenza-sulle-donne-cerreto-guidi",
+    "titolo": "Giornata Internazionale contro la violenza sulle donne",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T18:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Vittorio Veneto, 11, 50050 Cerreto Guidi FI, Italia",
+    "cap": null,
+    "comune": "048011",
+    "frazione": null,
+    "lat": 43.7575,
+    "lon": 10.85621,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dei lavori elaborati dalle classi seconde e terze della Scuola Secondaria di I grado dell'Istituto Comprensivo sul tema della violenza contro le donne, tra riflessioni scritte, disegni e cortometraggi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cerreto Guidi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cerreto-guidi.fi.it/it/eventi/giornata-internazionale-contro-la-violenza-sulle-donne-734290",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "non-e-solo-una-canzone-musica-e-parole-contro-la-violenza-sulle-donne-montegrotto-terme",
+    "titolo": "Non è solo una canzone: musica e parole contro la violenza sulle donne",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T18:30",
+    "luogo": "Ex Monastero Santa Chiara",
+    "indirizzo": "via Campagna Bassa 45",
+    "cap": null,
+    "comune": "028057",
+    "frazione": null,
+    "lat": 45.32567,
+    "lon": 11.78467,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo che intreccia musica e letture per sensibilizzare sulla violenza di genere in vista del 25 novembre. Protagonisti Slowphonic Acoustic Duo e Scuola Teatro Junior di Legnano, con chiusura conviviale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consulta per le Pari Opportunità di Montegrotto Terme",
+    "fonti": [
+      {
+        "nome": "Comune di Montegrotto Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montegrottoterme.pd.it/vivere-il-comune/eventi/non-e-solo-una-canzone-musica-e-parole-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "donne-dell-anima-mia-io-donna-e-la-vita-che-vorrei-paderno-dugnano",
+    "titolo": "Donne dell’anima mia. Io donna e la vita che vorrei",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:45",
+    "fine": null,
+    "luogo": "Tilane - Biblioteca comunale e Centro Culturale",
+    "indirizzo": "Piazza della Divina Commedia 3/5 – 20037 Paderno Dugnano (MI)",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio esperienziale di gruppo dedicato all’empowerment femminile, guidato dalla pedagogista dott.ssa Tiziana Barbuto, inserito nel palinsesto 'Non solo l’8' alla vigilia del 25 novembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Unità di staff - Webmaster",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi/dettaglio-evento/Donne-dellanima-mia.-Io-donna-e-la-vita-che-vorrei",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "genitori-in-ascolto-paderno-dugnano-03-12",
+    "titolo": "Genitori in ascolto",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T20:45",
+    "fine": null,
+    "luogo": "Tilane - Biblioteca comunale e Centro Culturale",
+    "indirizzo": "Piazza della Divina Commedia 3/5 – 20037 Paderno Dugnano (MI)",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo incontro del ciclo dedicato alla preadolescenza. Si discute come cambiare il modo di educare con la dottoressa Cristina Veronese, affrontando regole, confini e comunicazione per l'autonomia dei figli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Servizi scolastici e CAG",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi/dettaglio-evento/Genitori-in-ascolto-00008",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "intervallo-2026-proiezione-della-prima-della-scala-paderno-dugnano",
+    "titolo": "Intervallo 2026 // PROIEZIONE DELLA PRIMA DELLA SCALA",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T18:00",
+    "fine": null,
+    "luogo": "Cineteca Milano Metropolis",
+    "indirizzo": "via Oslavia, 8 Paderno Dugnano, 20037 Paderno Dugnano MI",
+    "cap": null,
+    "comune": "015166",
+    "frazione": null,
+    "lat": 45.57202,
+    "lon": 9.16644,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione in diretta streaming dell'opera Otello di Giuseppe Verdi. Francesco Metrangolo conduce il pubblico attraverso strumenti e chiavi di lettura per un ascolto consapevole e coinvolgente.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Tilane",
+    "fonti": [
+      {
+        "nome": "Comune di Paderno Dugnano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.paderno-dugnano.mi.it/vivere-il-comune/eventi/dettaglio-evento/Intervallo-2026----PROIEZIONE-DELLA-PRIMA-DELLA-SCALA",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tartufo-bettona",
+    "titolo": "Tartufo",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T20:45",
+    "fine": null,
+    "luogo": "Teatro Excelsior",
+    "indirizzo": "Bettona",
+    "cap": null,
+    "comune": "054003",
+    "frazione": null,
+    "lat": 43.00807,
+    "lon": 12.49616,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento della commedia di Molière a cura di Michele Sinisi. La messa in scena si distingue per un'estetica pop che unisce musiche classiche e contemporanee, esplorando l'ambiguità del protagonista truffatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/spettacolo/2026-2027-tartufo",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accabadora-magione",
+    "titolo": "Accabadora",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Teatro Mengoni",
+    "indirizzo": "Magione",
+    "cap": null,
+    "comune": "054026",
+    "frazione": null,
+    "lat": 43.1248,
+    "lon": 12.20444,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale del romanzo di Michela Murgia. Con Anna Della Rosa. Regia di Veronica Cruciani. Lo spettacolo racconta la storia di Maria e Bonaria Urrai, riflettendo su cura, morte e perdono in un contesto sardo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/spettacolo/2026-2027-accabadora",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-norcia",
+    "titolo": "Oltre",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T17:30",
+    "fine": null,
+    "luogo": "Teatro Civico",
+    "indirizzo": "Norcia",
+    "cap": null,
+    "comune": "054035",
+    "frazione": null,
+    "lat": 42.78667,
+    "lon": 13.12244,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo ideato e diretto da Fabiana Iacozzilli. Racconta la storia della sopravvivenza dei passeggeri del volo uruguaiano sulle Ande del 1972. Utilizza puppets e drammaturgia di Linda Dalisi per narrare il trauma e la resilienza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/calendario",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-sai-che-la-tua-casa-vale-di-piu-monza",
+    "titolo": "Lo sai che la tua casa vale di più?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-18T20:30",
+    "fine": "2026-11-18T23:00",
+    "luogo": "Centro Civico Cederna Cantalupo",
+    "indirizzo": "Via A. Cederna, 19, 20900 Monza MB, Italia",
+    "cap": null,
+    "comune": "108033",
+    "frazione": null,
+    "lat": 45.58542,
+    "lon": 9.27581,
+    "coordinateApprossimate": true,
+    "descrizione": "Dibattito pubblico sui vantaggi del canone concordato, con focus su bonus economici, agevolazioni fiscali e supporto per inquilini e proprietari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consorzio Comunità Brianza",
+    "fonti": [
+      {
+        "nome": "Comune di Monza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monza.it/it/eventi/lo-sai-che-la-tua-casa-vale-di-piu",
+        "consultata": "2026-11-18"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-18",
+    "inseritoDa": "consegna"
   }
 ]
