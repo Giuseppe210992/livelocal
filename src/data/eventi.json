@@ -263580,5 +263580,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-19",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alkantara-medi-orkestra-karl-seglem-piazza-scammacca-catania",
+    "titolo": "AlKantara MediOrkestra con Karl Seglem",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T11:30",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Piazza Scammacca",
+    "indirizzo": "Piazza Scammacca",
+    "comune": "087015",
+    "lat": 37.44224,
+    "lon": 15.03593,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'AlKantara MediOrkestra diretta da Giuseppe Privitera, con ospite speciale Karl Seglem al corno di capra e sassofono e la partecipazione di alunni di istituti comprensivi e del Liceo Turrisi Colonna. Rientra in «Palcoscenico Catania – La bellezza senza confini», promosso dall'Assessorato alla Cultura del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Monk Jazz Club",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Monk Jazz Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df5Wj11grPZ/",
+        "consultata": "2026-11-19"
+      }
+    ],
+    "inserito": "2026-11-19",
+    "inseritoDa": "ia"
   }
 ]
