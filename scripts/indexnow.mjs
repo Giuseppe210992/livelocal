@@ -21,7 +21,10 @@ if (!CHIAVE) {
 }
 
 const leggi = (testo) => JSON.parse(testo).filter((e) => e.stato === 'pubblicato' || e.stato === 'annullato' || e.stato === 'rinviato');
-const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8'));
+const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8')).filter(inCorso);
+// Gli eventi già conclusi non si inviano: restano online come archivio ma non servono a nessuno nell'indice.
+const OGGI = new Date().toISOString().slice(0, 10);
+const inCorso = (e) => (e.fine || e.inizio).slice(0, 10) >= OGGI;
 const percorso = (e) => `/evento/${e.inizio.slice(0, 4)}/${e.slug}/`;
 
 let daInviare;

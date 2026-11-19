@@ -104,9 +104,13 @@ const sitemap = ['principali', 'territorio', 'eventi', 'luoghi'].map((n) => {
   if (!indice.includes(`sitemap-${n}.xml<`)) errori.push(`sitemap: l'indice non cita sitemap-${n}.xml`);
   return readFileSync(join(DIST, `sitemap-${n}.xml`), 'utf8');
 }).join('\n');
-for (const p of pagine.filter((x) => relative(DIST, x).startsWith('evento/'))) {
-  const percorso = relative(DIST, p).replace(/index\.html$/, '');
-  if (!sitemap.includes(`${BASE}${percorso}<`)) errori.push(`sitemap: manca /${percorso}`);
+// La mappa degli eventi contiene solo quelli in programma o in corso (i conclusi restano online ma fuori mappa):
+// ogni indirizzo in mappa deve esistere, e la mappa non può essere vuota.
+const inMappa = [...sitemap.matchAll(/<loc>([^<]*\/evento\/[^<]*)<\/loc>/g)].map((m) => m[1]);
+if (inMappa.length === 0) errori.push('sitemap: nessun evento in mappa');
+for (const u of inMappa) {
+  const percorso = new URL(u).pathname.slice(BASE.length);
+  if (!existsSync(join(DIST, percorso, 'index.html'))) errori.push(`sitemap: /${percorso} è in mappa ma la pagina non esiste`);
 }
 
 if (errori.length) {

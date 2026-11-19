@@ -14,3 +14,7 @@ Diagnosi fatta con l'API di Bing Webmaster Tools (chiave data da Giuseppe in cha
 3. IndexNow (`scripts/indexnow.mjs`): prima avvisava solo per gli eventi nuovi o cambiati; ora avvisa anche per i luoghi cambiati, le pagine fisse (home, oggi, domani, weekend, mappe, luoghi) e le mappe del sito quando cambiano codice o dati. Lancio a mano di «Pubblica il sito»: invia tutto una volta (circa 6.900 indirizzi).
 
 **Cosa può fare solo Giuseppe**: collegamenti da altri siti (roomandrelax.it, Comuni, Pro Loco, social) e pazienza: per un sottodominio nuovo l'indicizzazione di Bing può richiedere settimane.
+
+## 19/11/2026 — solo gli eventi in programma in mappa e in IndexNow
+
+Gli eventi si aggiornano ogni giorno e quasi la metà (2.958 su 6.872) era già conclusa: Bing spendeva le visite su pagine che non servono a chi cerca. Ora `sitemap-eventi.xml` contiene solo gli eventi in programma o in corso (3.701 al 19/11) e IndexNow non invia più quelli conclusi. Le pagine dei conclusi restano online come archivio. Le date `lastmod` non cambiano a ogni pubblicazione (vengono dalla data di inserimento), quindi la mappa non segnala falsi cambiamenti.
