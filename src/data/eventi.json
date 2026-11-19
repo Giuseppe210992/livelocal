@@ -265888,5 +265888,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-19",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-swear-con-robert-aramayo-cinema-modernissimo-bologna-2026-11-24",
+    "titolo": "«I Swear» con l'attore Robert Aramayo in sala",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T21:45",
+    "fine": "2026-11-24T23:45",
+    "luogo": "Cinema Modernissimo",
+    "indirizzo": "Bologna",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "descrizione": "Proiezione del film «I Swear» di Kirk Jones (GB, 2025), la storia vera di John Davidson, attivista che ha fatto conoscere la sindrome di Tourette. Ospite in sala l'attore Robert Aramayo, premiato ai BAFTA per il ruolo. Biglietti sul sito della programmazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6vhX7iiKn/",
+        "consultata": "2026-11-19"
+      }
+    ],
+    "inserito": "2026-11-19",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true
   }
 ]
