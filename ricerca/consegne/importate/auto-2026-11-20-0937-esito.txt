@@ -1,0 +1,105 @@
+Consegna auto-2026-11-20-0937.txt: 104 eventi letti, 67 validi, 37 scartati.
+  ok   2026-11-20 uffic Insieme contro le truffe
+  ok   2026-11-21 uffic Inaugurazione di via Riobonello
+  ok   2026-11-25 uffic CORSO DI AUTODIFESA
+  ok   2026-11-21 uffic Giornata internazionale contro la violenza sulle donne
+  ok   2026-11-21 uffic Cappuccetto Rosso e altre storie del bosco
+  ok   2026-11-21 uffic Da uomo a uomo
+  ok   2026-12-03 uffic The Zimmer effect
+  ok   2026-11-28 uffic Tutti in campo
+  ok   2026-11-27 uffic Gli eventi delle Festività Natalizie
+  ok   2026-11-24 uffic La Traviata
+  ok   2026-11-26 uffic Bruni d’Autunno
+  ok   2026-12-20 uffic Mercatini di Natale
+  ok   2026-12-20 uffic Mercato Agricolo di Crema
+  ok   2026-12-27 uffic Mercatino Vintage
+  ok   2026-11-28 uffic Accendiamo il Natale | Desio in Fiaba
+  ok   2026-11-29 uffic Passo dopo Passo
+  ok   2026-11-04 uffic Cosa Succede in Città
+  ok   2026-11-20 uffic Festival L’Eredità delle Donne
+  ok   2026-11-20 uffic L’ora che volge il disìo
+  ok   2026-11-19 uffic I film in programma nelle sale di Ravenna
+  ok   2026-11-21 uffic Spazio Tondelli: Figli
+  ok   2026-11-22 uffic Spazio Tondelli: Figli
+  ok   2026-11-23 uffic Il Rifugio Letterario Teen: Cozy Book
+  ok   2026-11-29 uffic BiblioPlay: Giochi e sfide in biblioteca
+  ok   2026-12-03 uffic Spazio Tondelli: Uno spettacolo italiano
+  ok   2026-12-11 uffic Spazio Tondelli: Chi ha ucciso il pianeta?
+  ok   2027-01-14 uffic Spazio Tondelli: Poveri Cristi
+  ok   2026-11-24 uffic Il Bacalà alla Vicentina e la Via Querinissima
+  ok   2026-11-20 uffic La guerra dei target
+  ok   2026-11-22 uffic 6° Circuito Città di Roncade
+  ok   2026-11-22 uffic Festa della Famiglia
+  ok   2026-11-28 uffic Christmas Party
+  ok   2026-12-02 uffic Inaugurazione della mostra Arte in libertà
+  ok   2026-12-12 uffic 12° Torneo di Natale di Dama italiana under 15
+  ok   2026-12-14 uffic Biblionauti - Gruppo di lettura per ragazzi
+  ok   2026-12-17 uffic Gruppo di lettura per adulti Amici della Biblioteca
+  ok   2026-11-21 uffic Tè delle Tre
+  ok   2026-11-23 uffic Attraverso - pace cittadinanza globale e diritti
+  ok   2026-11-25 uffic Corso di formazione in psicologia sportiva
+  ok   2026-11-26 uffic Biblio-mani
+  ok   2026-11-27 uffic Scopriamo giocando
+  ok   2026-11-27 uffic Un giorno senza donne
+  ok   2026-11-28 uffic Noi siamo tempesta
+  ok   2026-12-03 uffic Benessere senza età
+  ok   2026-11-21 uffic Letture animate in biblioteca 21 novembre 2026
+  ok   2026-11-30 uffic 26a edizione della Mostra del libro natalizio in biblioteca
+  ok   2026-12-12 uffic Letture animate in biblioteca 12 dicembre 2026
+  ok   2026-12-09 uffic Fiammetta Borsellino a San Vendemiano: un incontro sulla leg
+  ok   2026-11-20 uffic Forme in evoluzione – Orchestra Sinfonica di Sanremo
+  ok   2026-11-20 uffic Sergio Caputo e Sandro Joyeux – Musiche africane e non
+  ok   2026-12-11 uffic Sarà Sanremo 2026 – Finale di Sanremo Giovani e annuncio dei
+  ok   2026-11-21 uffic Tolmezzo nel Quattrocento: alla scoperta del "Quaderno dei C
+  ok   2026-11-22 uffic Piccolipalchi: domenica 22 novembre al Teatro Candoni appunt
+  ok   2026-11-25 uffic Stagione di Prosa della Carnia: mercoledì 25 novembre 2026 a
+  ok   2026-11-27 uffic "Una giornata maledettamente buona", il film girato tra Tolm
+  ok   2026-11-21 uffic Natale in biblioteca 2026
+  ok   2026-11-21 uffic Iniziative in biblioteca nel mese di novembre
+  ok   2026-11-30 uffic Iniziative in biblioteca nel mese di novembre
+  ok   2026-12-06 uffic Lezioni di danza a porte aperte per genitori, amici e parent
+  ok   2026-12-16 uffic Sportello consulenza gratuita notarile
+  ok   2026-11-21 uffic Bosco dei Nuovi nati
+  ok   2026-11-28 uffic Laboratorio di Natale delle Consulte
+  ok   2026-11-27 uffic Amarsi alla pari
+  ok   2026-11-30 uffic Goldoni a palla - Gli innamorati
+  ok   2026-10-03 uffic Silvia Levenson … e vissero tutti felici e contenti
+  ok   2026-10-10 uffic Alessandro Anastasio in I colori dell'autunno. Acquerelli
+  ok   2026-12-05 uffic Sotto lo stesso cielo. Passeggiata alla scoperta delle tradi
+  KO   Assassinio sull'Orient Express → doppione di un evento già presente (stesso titolo e data)
+  KO   Catacombe → doppione di un evento già presente (stesso titolo e data)
+  KO   Visioni Del Sacro → inizio e fine: o tutti e due con l'ora o tutti e due senza; doppione di un evento già presente (stesso titolo e data)
+  KO   Officina Santachiara: Novembre → inizio e fine: o tutti e due con l'ora o tutti e due senza; doppione di un evento già presente (stesso titolo e data)
+  KO   Itinerari 2026 Novembre → categoria non valida: convegno; doppione di un evento già presente (stesso titolo e data)
+  KO   Kabul, Dov’è morto l’Occidente → categoria non valida: convegno; doppione di un evento già presente (stesso titolo e data)
+  KO   Cuneo Volley vs Rana Verona → doppione di un evento già presente (stesso titolo e data)
+  KO   Municipio A Porte Aperte – novembre → doppione di un evento già presente (stesso titolo e data)
+  KO   Mercatini di Natale → doppione di un evento già presente (stesso titolo e data)
+  KO   A volte basta aprire una porta per cambiare una storia → doppione di un evento già presente (stesso titolo e data)
+  KO   Lentamente ci uccidono → doppione di un evento già presente (stesso titolo e data)
+  KO   Libere di volare → fine non valida: 22:30
+  KO   49° Concerto di Santa Cecilia: "Musica da Oscar" → fine non valida: 22:45
+  KO   Grandi passi: tre incontri per comprendere l'Intelligenza Ar → fine non valida: 20:30
+  KO   Il corpo è mio: immagine, scelte e rispetto nelle relazioni → doppione di un evento già presente (stesso titolo e data)
+  KO   Giorno dell'unità nazionale e giornata delle forze armate → già finito
+  KO   Artisti in Festa → la fine è prima dell'inizio
+  KO   Politiche regionali per l’abitare: una giornata di incontro  → doppione di un evento già presente (stesso titolo e data)
+  KO   L'Angolo dell'avventura: giro del mondo overland in moto (Pa → doppione di un evento già presente (stesso titolo e data)
+  KO   Presentazione del libro "Clean Language" di Roberto Ciotti → doppione di un evento già presente (stesso titolo e data)
+  KO   Incontro "La filosofia della Medicina tradizionale cinese" → doppione di un evento già presente (stesso titolo e data)
+  KO   L'Angolo dell'avventura: il giro del mondo a piedi con Nicol → doppione di un evento già presente (stesso titolo e data)
+  KO   Torneo finale di scacchi in Biblioteca → doppione di un evento già presente (stesso titolo e data)
+  KO   L'eredità del passato e le sfide dell'oggi → doppione di un evento già presente (stesso titolo e data)
+  KO   Rubiera Chocolate → doppione di un evento già presente (stesso titolo e data)
+  KO   Quarto incontro del gruppo di Lettura della biblioteca civic → doppione di un evento già presente (stesso titolo e data)
+  KO   Quinto incontro del gruppo di Lettura della biblioteca civic → doppione di un evento già presente (stesso titolo e data)
+  KO   Cimento Invernale → doppione di un evento già presente (stesso titolo e data)
+  KO   “Non chiamatelo raptus”: a Tolmezzo la mostra diffusa di Ana → inizio e fine: o tutti e due con l'ora o tutti e due senza
+  KO   Centralità nascosta: ri-scoprire la Chiesa di San Francesco  → doppione di un evento già presente (stesso titolo e data)
+  KO   Naomi Berrill, violoncello, in "A New Ground, A New World" → doppione di un evento già presente (stesso titolo e data)
+  KO   Inaugurazione nuova Biblioteca comunale Marsilio Ficino → doppione di un evento già presente (stesso titolo e data)
+  KO   Incontri gratuiti per i genitori dei bambini da 0 a 6 anni → doppione di un evento già presente (stesso titolo e data)
+  KO   A tutte le donne il nostro canto d'amore: musica, parole e p → doppione di un evento già presente (stesso titolo e data)
+  KO   Settimana Nazionale Nati per Leggere → doppione di un evento già presente (stesso titolo e data)
+  KO   Incontri per vivere meglio a ogni età → doppione di un evento già presente (stesso titolo e data)
+  KO   Il luogo più pericoloso – Un laboratorio partecipativo per r → doppione di un evento già presente (stesso titolo e data)
