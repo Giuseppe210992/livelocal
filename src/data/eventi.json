@@ -269568,5 +269568,64 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "working-title-film-festival-8-vicenza-2026",
+    "titolo": "Working Title Film Festival 8",
+    "categoria": "mostra",
+    "inizio": "2026-11-25",
+    "fine": "2026-11-28",
+    "luogo": "Cinema Odeon (Sala Lampertico) e Caracol Olol Jackson",
+    "indirizzo": "Vicenza",
+    "comune": "024116",
+    "lat": 45.54483,
+    "lon": 11.55399,
+    "coordinateApprossimate": true,
+    "descrizione": "Ottava edizione del festival di cinema: proiezioni al Cinema Odeon mercoledì 25, giovedì 26 e venerdì 27 novembre alle 19 e alle 21 (sala con meno di 50 posti, meglio acquistare in anticipo), poi sabato 28 al Caracol Olol Jackson con proiezioni, premiazioni e Robot Slop Dance Party.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "organizzatore": "Working Title Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Working Title Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6s__6I3RR/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "tempi-ipermoderni-intelligenza-artificiale-lavoro-creativo-la-centrale-vicenza",
+    "titolo": "Talk «Tempi (iper)moderni»: l'intelligenza artificiale e il lavoro creativo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T12:00",
+    "luogo": "La Centrale",
+    "indirizzo": "Vicenza",
+    "comune": "024116",
+    "lat": 45.54483,
+    "lon": 11.55399,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Eliana Como (Fondazione Di Vittorio) sull'impatto dell'intelligenza artificiale sul lavoro creativo nel cinema e nello spettacolo, nell'ambito del Working Title Film Festival.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Working Title Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Working Title Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6s__6I3RR/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
