@@ -60,22 +60,28 @@ const robotsCache = new Map();
 async function consentito(url) {
   const u = new URL(url);
   if (!robotsCache.has(u.origin)) {
-    let regole = [];
+    const regole = []; // { consenti, p }: Allow e Disallow del gruppo «*» (o del nostro nome)
     try {
       const r = await fetch(u.origin + '/robots.txt', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(10000) });
       if (r.ok) {
         let attivo = false;
         for (const riga of (await r.text()).split(/\r?\n/)) {
-          const m = riga.match(/^\s*(user-agent|disallow)\s*:\s*(.*?)\s*(#.*)?$/i);
+          const m = riga.match(/^\s*(user-agent|disallow|allow)\s*:\s*(.*?)\s*(#.*)?$/i);
           if (!m) continue;
-          if (m[1].toLowerCase() === 'user-agent') attivo = m[2] === '*' || /livelocal/i.test(m[2]);
-          else if (attivo && m[2]) regole.push(m[2]);
+          const chiave = m[1].toLowerCase();
+          if (chiave === 'user-agent') attivo = m[2] === '*' || /livelocal/i.test(m[2]);
+          else if (attivo && m[2]) regole.push({ consenti: chiave === 'allow', p: m[2] });
         }
       }
     } catch { /* robots non raggiungibile: si prosegue con cautela */ }
-    robotsCache.set(u.origin, regole);
+    // Un modello come «/*?*feed=» vale per ogni indirizzo con «?» e «feed=»: «*» = qualunque testo, «$» = fine dell'indirizzo (come fa Google).
+    robotsCache.set(u.origin, regole.map((x) => ({ consenti: x.consenti, lungo: x.p.length, re: new RegExp('^' + x.p.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*').replace(/\\\$$/, '$')) })));
   }
-  return !robotsCache.get(u.origin).some((p) => (u.pathname + u.search).startsWith(p.replace(/\*.*$/, '')));
+  const percorso = u.pathname + u.search;
+  const trovate = robotsCache.get(u.origin).filter((x) => x.re.test(percorso));
+  if (!trovate.length) return true;
+  const migliore = trovate.reduce((m, x) => (x.lungo > m.lungo || (x.lungo === m.lungo && x.consenti) ? x : m));
+  return migliore.consenti;
 }
 
 async function scarica(url) {
