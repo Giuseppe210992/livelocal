@@ -274953,5 +274953,61 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "speed-date-letterario-biblioteca-villa-marazzi-cesano-boscone-2026-11-21",
+    "titolo": "Speed date letterario",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T17:00",
+    "luogo": "Biblioteca di Villa Marazzi",
+    "comune": "015074",
+    "lat": 45.44125,
+    "lon": 9.08719,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro diretto con gli autori Alessandra Caimi, Alberto Figliolia e Antonella Pajarini, per conoscere i loro libri e dialogare con loro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Cesano Boscone",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df65PnxIcby/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-dell-albero-un-albero-per-ogni-nuovo-nato-cesano-boscone-2026-11-22",
+    "titolo": "Festa dell'Albero 2026: un albero per ogni nuovo nato",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T09:30",
+    "fine": "2026-11-22T12:00",
+    "luogo": "Sala della Trasparenza e Parco Borsellino",
+    "indirizzo": "via Libertà 9",
+    "comune": "015074",
+    "lat": 45.44125,
+    "lon": 9.08719,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata per i bambini nati nel 2025 e le loro famiglie: alle 9.30 consegna degli attestati, poi piantumazione di un albero per ogni famiglia nel Parco Borsellino con i volontari di Legambiente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Cesano Boscone",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesano Boscone",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7Nf5ONXuz/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
