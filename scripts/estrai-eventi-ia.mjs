@@ -652,6 +652,7 @@ async function lavora(fonte) {
       if (fonte.locale) { e.luogo = fonte.locale.nome; e.comune = fonte.locale.comune; e.provincia = fonte.locale.sigla; e.organizzatore = fonte.locale.nome; }
       const motivi = controlla(e, mappa, !!fonte.locale);
       if (fonte.codiceRicerca && norm(String(e.comune ?? '')) !== norm(fonte.comuneNome)) motivi.push(`il comune non è ${fonte.comuneNome}`);
+      if (fonte.codiceRicerca && String(e.fine || e.inizio).slice(0, 10) < OGGI) motivi.push('evento già concluso'); // le pagine della ricerca possono essere vecchie: si tengono solo eventi da oggi in poi
       if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();
       nuovi.push([
