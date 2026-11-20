@@ -280832,5 +280832,141 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-20",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-polizia-locale-incontra-la-cittadinanza-piazza-guercino-cento-2026-11-21",
+    "titolo": "La Polizia Locale incontra la cittadinanza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T15:00",
+    "luogo": "Piazza Guercino",
+    "comune": "038004",
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro aperto a tutti su sicurezza stradale e urbana: progetti contro la guida sotto l'effetto di alcol e stupefacenti, sicurezza degli utenti vulnerabili, novità del codice della strada, polizia di comunità, controllo di vicinato e consigli contro le truffe.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Cento",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7VwePlaXZ/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "io-esisto-ho-diritto-a-serata-con-la-pedagogista-biblioteca-cesate-2026-11-27",
+    "titolo": "«Io esisto! Ho diritto a…»: serata con la pedagogista Tiziana Barbuto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T20:45",
+    "luogo": "Biblioteca di Cesate",
+    "comune": "015076",
+    "lat": 45.59699,
+    "lon": 9.08001,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di riflessione nelle Giornate dei Diritti dell'Infanzia e dell'Adolescenza su diritti, ascolto e riconoscimento della voce di ogni bambino e ragazzo. Partecipazione su prenotazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Cesate",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7XhMLl5A7/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "note-strappate-concerto-multimediale-maurizio-padovan-biblioteca-cesate-2026-11-28",
+    "titolo": "Note strappate: concerto multimediale con Maurizio Padovan",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "Biblioteca di Cesate",
+    "indirizzo": "via Piave 5",
+    "comune": "015076",
+    "lat": 45.59699,
+    "lon": 9.08001,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto multimediale per violino, un viaggio tra epoche e culture per raccontare con la musica le violenze subite dalle donne, in occasione della Giornata internazionale contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Cesate",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Cesate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7YFmPFGPY/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "escursione-bosco-cecibizzo-ciclovia-acquedotto-pugliese-corato-2026-11-21",
+    "titolo": "Escursione tra il Bosco Cecibizzo e la Ciclovia dell'Acquedotto Pugliese",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T09:00",
+    "luogo": "Masseria La Grotta",
+    "comune": "072020",
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione guidata della Pro Loco di Corato nel Bosco Cecibizzo e lungo la Ciclovia dell'Acquedotto Pugliese. Ritrovo alle 9 alla Masseria La Grotta; biglietti online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Corato",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Corato",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6y69wiI1a/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cammini-di-vini-subiaco-2026-11-21",
+    "titolo": "Cammini di Vini a Subiaco",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21",
+    "luogo": "Monastero di Santa Scolastica e Sacro Speco",
+    "comune": "058103",
+    "lat": 41.93543,
+    "lon": 13.11605,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata nella Valle dell'Aniene tra cammini sui sentieri, vigne, chiostri del Monastero di Santa Scolastica, il Sacro Speco, visite guidate e degustazioni di vino e prodotti del territorio. Prenotazione online.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cammini di Vini / Visit Lazio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Visit Lazio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7B85eEX5H/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
