@@ -278777,5 +278777,88 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "dancing-screens-la-danza-in-1-minuto-teatro-cafe-muller-torino-2026-11-21",
+    "titolo": "Dancing Screens: «La Danza in 1 Minuto»",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T22:30",
+    "luogo": "Teatro Café Müller",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Selezione di quattro film che incontrano danza e cinema, dal contest La Danza in 1 Minuto – Beyond One Minute / ZED Festival 2026 e dalla rete MAD – Media and Dance Network, nel programma YOUTH | Soli Urbani di SoloCoreografico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "COORPI",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram COORPI",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df-OirFiP6O/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-ruolo-delle-donne-nella-resistenza-museo-della-citta-chiari-2026-11-21",
+    "titolo": "Il ruolo delle donne nella Resistenza",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Museo della Città",
+    "comune": "017052",
+    "lat": 45.53312,
+    "lon": 9.9182,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate ANPI per gli 80 anni della Repubblica e del voto alle donne: mostra sulle Madri Costituenti, incontri, letture e proiezione del docufilm «Stella nelle mie stanze» dedicato ad Alba Meloni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "ANPI sezione di Chiari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df8721ahxKV/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "laboratori-della-lana-e-della-cartapesta-museo-della-citta-corato-2026-11-21",
+    "titolo": "Laboratori della lana e della cartapesta",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T17:00",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Museo della Città e del Territorio",
+    "comune": "072020",
+    "lat": 41.09649,
+    "lon": 16.3679,
+    "coordinateApprossimate": true,
+    "descrizione": "Due laboratori per riscoprire la manualità e i saperi del territorio, ultimo fine settimana della rassegna della Pro Loco di Corato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Corato",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Corato",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df975ncILKM/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
