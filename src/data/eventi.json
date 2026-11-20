@@ -265917,5 +265917,63 @@
     "inserito": "2026-11-19",
     "inseritoDa": "ia",
     "coordinateApprossimate": true
+  },
+  {
+    "slug": "visita-guidata-galleria-comunale-d-arte-cagliari-2026-11-22-mattina",
+    "titolo": "Visita guidata alla Galleria Comunale d'Arte (ore 11)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T11:00",
+    "fine": "2026-11-22T12:00",
+    "luogo": "Galleria Comunale d'Arte",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata con gli storici dell'arte dei Musei Civici tra le collezioni permanenti e la mostra temporanea «Oltre il confine», con opere di Angelino Fiori, Marco Ippolito e Roberto Puzzu (fino al 17 gennaio 2027). Primo turno della mattina. Prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6tV5DFYmI/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visita-guidata-galleria-comunale-d-arte-cagliari-2026-11-22-pomeriggio",
+    "titolo": "Visita guidata alla Galleria Comunale d'Arte (ore 16)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T17:00",
+    "luogo": "Galleria Comunale d'Arte",
+    "indirizzo": "Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata con gli storici dell'arte dei Musei Civici tra le collezioni permanenti e la mostra temporanea «Oltre il confine», con opere di Angelino Fiori, Marco Ippolito e Roberto Puzzu (fino al 17 gennaio 2027). Secondo turno del pomeriggio. Prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6tV5DFYmI/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
