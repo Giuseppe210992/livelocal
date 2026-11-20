@@ -443,6 +443,7 @@ async function preparaLocali(quanti) {
       if (l.instagram && !igFermo && igChiamate < MAX_IG) {
         igChiamate++;
         const r = await leggiInstagramLocale(l.instagram, mioId);
+        console.log(`  IG @${l.instagram} (${l.nome}): ${r.errore !== undefined ? 'errore ' + r.errore + (r.errore === 100 ? ' (profilo non professionale, inesistente o con limite di età)' : '') : (r.post?.length ?? 0) + ' post letti'}`);
         if (r.errore === 4 || r.errore === 17 || r.errore === 32 || r.errore === 613) { igFermo = true; console.log('Instagram: troppe richieste, per questo giro si usano solo i siti.'); }
         else if (r.errore === 190) { igFermo = true; console.log('Instagram: token scaduto o non valido (META_TOKEN).'); }
         else if (r.post) {
