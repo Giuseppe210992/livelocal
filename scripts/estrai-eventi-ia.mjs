@@ -406,6 +406,11 @@ function trovaPaginaEventiLocale(html, base) {
 async function preparaLocali(quanti) {
   if (!existsSync(fileLocali)) { console.log('Manca ricerca/locali.json: lancia prima scripts/scopri-locali.mjs.'); return []; }
   const locali = JSON.parse(readFileSync(fileLocali, 'utf8')).locali ?? [];
+  // Locali aggiunti a mano o trovati con la ricerca web (file non rigenerato): si uniscono a quelli di OpenStreetMap, senza doppioni per profilo Instagram.
+  if (existsSync('ricerca/locali-segnalati.json')) {
+    const visti = new Set(locali.map((l) => l.instagram).filter(Boolean));
+    for (const l of JSON.parse(readFileSync('ricerca/locali-segnalati.json', 'utf8')).locali ?? []) if (!l.instagram || !visti.has(l.instagram)) locali.push(l);
+  }
   const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
   const comuneDi = new Map(territorio.comuni.map((c) => [c.codiceIstat, c]));
   const siglaDi = new Map(territorio.province.map((p) => [p.codiceIstat, p.sigla]));
