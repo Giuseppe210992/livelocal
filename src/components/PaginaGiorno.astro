@@ -6,6 +6,8 @@ import InvitoSegnala from './InvitoSegnala.astro';
 import { jsonLdBriciole } from '../lib/jsonld';
 import { SITO, href, urlAssoluto } from '../lib/sito';
 import { dataEstesa, eventiDei } from '../lib/giorni';
+import { percorsoRegione } from '../lib/luoghi';
+import type { Evento } from '../lib/eventi';
 
 interface Props {
   giorni: string[];           // un giorno, oppure sabato e domenica
@@ -17,11 +19,18 @@ const lista = eventiDei(giorni);
 const quando = giorni.length === 1 ? dataEstesa(giorni[0]) : `${dataEstesa(giorni[0])} e ${dataEstesa(giorni[1])}`;
 const minuscolo = nome.toLowerCase();
 const gratuiti = lista.filter((e) => e.prezzo.tipo === 'gratuito').length;
+// Raggruppati per regione, dalla più ricca: al massimo PER_REGIONE schede ciascuna, poi il link alla pagina della regione.
+// Prima la pagina conteneva tutti gli eventi (fino a 1.500, oltre 1 MB): pesante sul telefono e poco ordinata.
+const PER_REGIONE = 12;
+const gruppi = new Map<string, Evento[]>();
+for (const e of lista) gruppi.set(e.regioneDati.codiceIstat, [...(gruppi.get(e.regioneDati.codiceIstat) ?? []), e]);
+const regioni = [...gruppi.values()].sort((a, b) => b.length - a.length).map((ev) => ({ regione: ev[0].regioneDati, eventi: ev }));
+const mostrati = regioni.flatMap((r) => r.eventi.slice(0, PER_REGIONE));
 const elencoLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
   name: `Eventi ${minuscolo}: ${quando}`,
-  itemListElement: lista.map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: urlAssoluto(e.percorso), name: e.titolo })),
+  itemListElement: mostrati.map((e, i) => ({ '@type': 'ListItem', position: i + 1, url: urlAssoluto(e.percorso), name: e.titolo })),
 };
 ---
 <Base
@@ -44,11 +53,21 @@ const elencoLd = {
       <a class="bottone" href={href('/vicino-a-me/')}>Vicino a me</a>
     </div>
   </section>
-  <section aria-labelledby="titolo-giorno">
-    <h2 id="titolo-giorno">In programma {lista.length > 0 && <small>({lista.length})</small>}</h2>
-    {lista.length > 0
-      ? <ul class="elenco">{lista.map((e) => <SchedaEvento evento={e} />)}</ul>
-      : <p class="vuoto">Nessun evento per ora. Se ne organizzi uno, segnalalo qui sotto.</p>}
-  </section>
+  {lista.length > 0 && regioni.length > 1 && (
+    <nav class="pastiglie" aria-label="Regioni">
+      {regioni.map((r) => <a class="pastiglia" href={`#${r.regione.slug}`}>{r.regione.nome} <small>{r.eventi.length}</small></a>)}
+    </nav>
+  )}
+  {lista.length > 0
+    ? regioni.map((r) => (
+        <section aria-labelledby={r.regione.slug}>
+          <h2 id={r.regione.slug}>{r.regione.nome} <small>({r.eventi.length})</small></h2>
+          <ul class="elenco">{r.eventi.slice(0, PER_REGIONE).map((e) => <SchedaEvento evento={e} />)}</ul>
+          {r.eventi.length > PER_REGIONE && (
+            <p><a class="bottone bottone--secondario" href={href(percorsoRegione(r.regione))}>Tutti gli eventi in {r.regione.nome}</a> <small>e altri {r.eventi.length - PER_REGIONE} {minuscolo}: cercali anche con «Vicino a me»</small></p>
+          )}
+        </section>
+      ))
+    : <section><h2>In programma</h2><p class="vuoto">Nessun evento per ora. Se ne organizzi uno, segnalalo qui sotto.</p></section>}
   <InvitoSegnala luogo="in Italia" />
 </Base>
