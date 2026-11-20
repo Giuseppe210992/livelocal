@@ -278860,5 +278860,38 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "serata-live-con-barbara-burchi-e-gianni-iannone-pontecorvo",
+    "titolo": "Serata Live con Barbara Burchi e Gianni Iannone",
+    "categoria": "concerto",
+    "inizio": "2026-11-20T21:30",
+    "fine": null,
+    "luogo": "G.ice Lounge Bar",
+    "indirizzo": "Via XXIV Maggio, Pontecorvo",
+    "cap": null,
+    "comune": "060056",
+    "frazione": null,
+    "lat": 41.44819,
+    "lon": 13.64494,
+    "coordinateApprossimate": false,
+    "descrizione": "Ritorno di Barbara Burchi con Gianni Iannone per una serata live al G•Ice Lounge Bar. Musica dal vivo con atmosfera unica e drink a disposizione. Prenotazione tavoli consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "G.ice Lounge Bar",
+    "fonti": [
+      {
+        "nome": "G.ice Lounge Bar",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfxoBbCvQAj",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
   }
 ]
