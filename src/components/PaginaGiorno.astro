@@ -18,6 +18,10 @@ const { giorni, percorso, nome } = Astro.props;
 const lista = eventiDei(giorni);
 const quando = giorni.length === 1 ? dataEstesa(giorni[0]) : `${dataEstesa(giorni[0])} e ${dataEstesa(giorni[1])}`;
 const minuscolo = nome.toLowerCase();
+// Per titolo e descrizione: «21–22 novembre 2026» invece delle due date intere (Bing segnala titoli troppo lunghi).
+const quandoBreve = giorni.length === 2 && giorni[0].slice(0, 7) === giorni[1].slice(0, 7)
+  ? `${Number(giorni[0].slice(8))}–${dataEstesa(giorni[1]).split(' ').slice(1).join(' ')}`
+  : quando;
 const gratuiti = lista.filter((e) => e.prezzo.tipo === 'gratuito').length;
 // Raggruppati per regione, dalla più ricca: al massimo PER_REGIONE schede ciascuna, poi il link alla pagina della regione.
 // Prima la pagina conteneva tutti gli eventi (fino a 1.500, oltre 1 MB): pesante sul telefono e poco ordinata.
@@ -34,8 +38,8 @@ const elencoLd = {
 };
 ---
 <Base
-  titolo={`Eventi ${minuscolo} in Italia: ${quando} | ${SITO.nome}`}
-  descrizione={`${lista.length} eventi ${minuscolo} (${quando}) in tutta Italia, aggiornati ogni ora.`}
+  titolo={`Eventi ${minuscolo} in Italia: ${quandoBreve} | ${SITO.nome}`}
+  descrizione={`${lista.length.toLocaleString('it-IT')} eventi ${minuscolo} in Italia (${quandoBreve}): concerti, mostre, sagre e visite guidate divisi per regione${gratuiti > 0 ? `, ${gratuiti.toLocaleString('it-IT')} gratuiti` : ''}. Aggiornato ogni ora.`}
   percorso={percorso}
   jsonLd={[jsonLdBriciole([{ nome: `Eventi ${minuscolo}`, percorso }]), elencoLd]}
 >
@@ -43,7 +47,7 @@ const elencoLd = {
     <h1>Eventi {minuscolo} in Italia</h1>
     <p class="apertura__testo">
       {quando}. {lista.length > 0
-        ? `${lista.length} eventi in programma${gratuiti > 0 ? `, ${gratuiti} gratuiti` : ''}. Per vederli vicino a te usa «Vicino a me».`
+        ? `${lista.length.toLocaleString('it-IT')} eventi in programma${gratuiti > 0 ? `, ${gratuiti} gratuiti` : ''}. Per vederli vicino a te usa «Vicino a me».`
         : 'Non abbiamo ancora eventi per questo giorno: il calendario si aggiorna ogni ora.'}
     </p>
     <div class="scorciatoie">
