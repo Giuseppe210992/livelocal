@@ -278893,5 +278893,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-20",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "100-anni-di-atletica-formiana-in-400-scatti-formia-2026-11-23",
+    "titolo": "«100 anni di storia dell'Atletica Formiana in 400 scatti»: presentazione e mostra",
+    "categoria": "mostra",
+    "inizio": "2026-11-23T17:00",
+    "luogo": "Sala Sicurezza del Palazzo Comunale e galleria della Corte Comunale",
+    "indirizzo": "",
+    "comune": "059008",
+    "lat": 41.28458,
+    "lon": 13.6279,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del progetto «Atletica Leggera e Amicizia, un record imbattibile» e inaugurazione della mostra fotografica con quattrocento immagini su un secolo di atletica a Formia, legata alla Scuola Nazionale e oggi Centro di Preparazione Olimpica CONI.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Formia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Formia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7GLUqCaeV/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sandokan-la-serie-restaurata-cinema-massimo-sotto18-film-festival-torino-2026-12-16",
+    "titolo": "«Sandokan – La serie restaurata» di Sergio Sollima",
+    "categoria": "conferenza",
+    "inizio": "2026-12-16T18:00",
+    "luogo": "Cinema Massimo – Sala 2",
+    "indirizzo": "via Giuseppe Verdi 18",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del restauro Rai Teche della serie del 1976, a cinquant'anni dalla prima messa in onda, nel Sotto18+ Film Festival (Torino, 16–21 dicembre). Ingresso gratuito, prenotazioni in apertura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Sottodiciotto Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Sottodiciotto Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df9mHpetJUf/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
