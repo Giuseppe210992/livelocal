@@ -24,9 +24,11 @@ const leggi = (testo) => JSON.parse(testo).filter((e) => e.stato === 'pubblicato
 const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8')).filter(inCorso);
 // Gli eventi già conclusi non si inviano: restano online come archivio ma non servono a nessuno nell'indice.
 const OGGI = new Date().toISOString().slice(0, 10);
-// Si inviano solo gli eventi che le pagine lasciano indicizzare: in corso o che iniziano entro 21 giorni (vedi GIORNI_INDICE in src/lib/eventi.ts).
-const LIMITE = new Date(Date.now() + 21 * 86400000).toISOString().slice(0, 10);
-const inCorso = (e) => (e.fine || e.inizio).slice(0, 10) >= OGGI && e.inizio.slice(0, 10) <= LIMITE;
+// Fase di indicizzazione (src/data/indicizzazione.json): si avvisa solo per ciò che le pagine lasciano indicizzare.
+const FASE = JSON.parse(readFileSync('src/data/indicizzazione.json', 'utf8')).fase;
+const GIORNI = FASE >= 3 ? 21 : FASE === 2 ? 7 : 0;
+const LIMITE = new Date(Date.now() + GIORNI * 86400000).toISOString().slice(0, 10);
+const inCorso = (e) => GIORNI > 0 && (e.fine || e.inizio).slice(0, 10) >= OGGI && e.inizio.slice(0, 10) <= LIMITE;
 const percorso = (e) => `/evento/${e.inizio.slice(0, 4)}/${e.slug}/`;
 
 let daInviare;
@@ -50,8 +52,8 @@ if (base && !/^0+$/.test(base)) {
 }
 
 // Pagine fisse che cambiano quando cambiano gli eventi o i luoghi, e mappe del sito.
-const PILASTRI = ['/', '/oggi/', '/domani/', '/weekend/', '/mappa/', '/luoghi/', '/luoghi/mappa/', '/luoghi/europa/'];
-const MAPPE = ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-territorio.xml', '/sitemap-eventi.xml', '/sitemap-luoghi.xml'];
+const PILASTRI = FASE >= 3 ? ['/', '/oggi/', '/domani/', '/weekend/', '/mappa/', '/luoghi/', '/luoghi/mappa/', '/luoghi/europa/'] : ['/', '/oggi/', '/domani/', '/weekend/', '/luoghi/'];
+const MAPPE = FASE >= 3 ? ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-territorio.xml', '/sitemap-eventi.xml', '/sitemap-luoghi.xml'] : FASE === 2 ? ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-eventi.xml'] : ['/sitemap.xml', '/sitemap-principali.xml'];
 // Luoghi da visitare nuovi o cambiati (stesso confronto degli eventi).
 const slugLuoghi = (testo) => new Map((JSON.parse(testo).luoghi ?? []).map((l) => [l.slug, JSON.stringify(l)]));
 let luoghiCambiati = [];
@@ -59,7 +61,7 @@ let luoghiCambiati = [];
   const ora = slugLuoghi(readFileSync('src/data/luoghi-da-visitare.json', 'utf8'));
   let prima = new Map();
   if (base && !/^0+$/.test(base)) { try { prima = slugLuoghi(execFileSync('git', ['show', `${base}:src/data/luoghi-da-visitare.json`], { encoding: 'utf8', maxBuffer: 200 * 1024 * 1024 })); } catch { /* file nuovo o commit non leggibile */ } }
-  luoghiCambiati = [...ora].filter(([slug, json]) => prima.get(slug) !== json).map(([slug]) => `/luoghi/${slug}/`);
+  if (FASE >= 3) luoghiCambiati = [...ora].filter(([slug, json]) => prima.get(slug) !== json).map(([slug]) => `/luoghi/${slug}/`);
 }
 // Modifiche al codice o ai testi del sito (non solo ai dati): si avvisa anche per le pagine fisse e le mappe.
 let sitoCambiato = false;

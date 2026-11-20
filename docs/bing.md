@@ -22,3 +22,11 @@ Gli eventi si aggiornano ogni giorno e quasi la metà (2.958 su 6.872) era già 
 ## 20/11/2026 — Google ha tolto le pagine dall'indice: «noindex» sugli eventi lontani
 
 Search Console (letta via API) mostra 171 clic/giorno tra 5 e 11 novembre e poi quasi zero dal 12: le pagine risultano «scansionate, ma attualmente non indicizzate». Robots, canonical e indicizzazione erano a posto. Ipotesi: filtro di qualità dopo la crescita da 2.160 a 8.050 eventi in due settimane. Risposta: le pagine evento si fanno indicizzare solo se l'evento è in corso o inizia entro 21 giorni (`GIORNI_INDICE` in `src/lib/eventi.ts`), le altre restano online con `noindex, follow` e fuori mappa del sito e da IndexNow. Si ricalcola a ogni pubblicazione oraria. Da controllare ogni settimana: pagine indicizzate e clic.
+
+## 20/11/2026 — indicizzazione a fasi (decisione di Giuseppe)
+
+Google ha scansionato anche la home senza indicizzarla: il problema riguarda il sito nel suo insieme. Si riparte da poche pagine, con `src/data/indicizzazione.json` (`fase`):
+- **Fase 1 (attuale):** si indicizzano solo `/`, `/oggi/`, `/domani/`, `/weekend/`, `/luoghi/`. Tutto il resto resta online con `noindex`, fuori mappa del sito e da IndexNow. Giuseppe chiede l'indicizzazione di queste 5 da Search Console («Controllo URL» → «Richiedi indicizzazione»).
+- **Fase 2:** in più gli eventi in corso o che iniziano entro 7 giorni.
+- **Fase 3:** tutte le pagine e gli eventi entro 21 giorni.
+Si passa alla fase successiva solo se Search Console mostra le pagine della fase precedente indicizzate (dopo 7-10 giorni). Se dopo 10 giorni non lo sono, il problema è nel contenuto o nell'autorità del sito.

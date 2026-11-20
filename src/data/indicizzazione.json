@@ -1,0 +1,4 @@
+{
+  "fase": 1,
+  "_note": "Quanto del sito si fa indicizzare ai motori di ricerca. Fase 1: solo le 5 pagine principali. Fase 2: in più gli eventi che iniziano entro 7 giorni. Fase 3: tutto, con gli eventi entro 21 giorni. Le pagine fuori fase restano online con «noindex». Cambiare solo il numero «fase»."
+}

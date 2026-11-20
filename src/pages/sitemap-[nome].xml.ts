@@ -1,11 +1,11 @@
 // Una delle quattro mappe del sito (principali, territorio, eventi, luoghi): vedi src/lib/sitemap.ts.
 import type { APIRoute } from 'astro';
-import { NOMI_SITEMAP, gruppo } from '../lib/sitemap';
+import { sitemapNonVuote, gruppo } from '../lib/sitemap';
 import type { NomeSitemap } from '../lib/sitemap';
 import { urlAssoluto } from '../lib/sito';
 
 export function getStaticPaths() {
-  return NOMI_SITEMAP.map((nome) => ({ params: { nome } }));
+  return sitemapNonVuote().map((nome) => ({ params: { nome } }));
 }
 export const GET: APIRoute = ({ params }) => {
   const pagine = gruppo(params.nome as NomeSitemap);

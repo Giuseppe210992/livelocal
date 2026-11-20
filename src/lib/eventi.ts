@@ -3,6 +3,7 @@
 // Se un dato è sbagliato la costruzione del sito si ferma con un messaggio chiaro.
 
 import grezzi from '../data/eventi.json';
+import { GIORNI_INDICE } from './indicizzazione';
 import categorieDati from '../data/categorie.json';
 import { comune as trovaComune, provincia, regione, regioni, provinceDi, percorsoComune, percorsoFrazione } from './luoghi';
 import type { Comune, Frazione, Provincia, Regione } from './luoghi';
@@ -57,8 +58,6 @@ export interface Evento extends EventoGrezzo {
 
 export const categorie: Categoria[] = categorieDati;
 
-/** Un evento si fa indicizzare solo quando mancano al massimo questi giorni all'inizio (e finché non è concluso). */
-export const GIORNI_INDICE = 21;
 const ORA = new Date(); // momento della costruzione del sito (si rigenera ogni ora)
 
 function errore(e: Partial<EventoGrezzo>, messaggio: string): never {
@@ -116,7 +115,7 @@ function arricchisci(e: EventoGrezzo): Evento {
     inizioIstante,
     fineIstante,
     concluso,
-    indicizzabile: !concluso && inizioIstante.getTime() <= ORA.getTime() + GIORNI_INDICE * 86400000,
+    indicizzabile: GIORNI_INDICE > 0 && !concluso && inizioIstante.getTime() <= ORA.getTime() + GIORNI_INDICE * 86400000,
     etichettaStato,
   };
 }

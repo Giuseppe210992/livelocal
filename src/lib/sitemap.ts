@@ -3,6 +3,7 @@
 import { eventi, eventiDelComune, eventiDellaFrazione, eventiDellaProvincia, eventiDellaRegione, comuniConPagina, regioniConEventi } from './eventi';
 import type { Evento } from './eventi';
 import { province, comuni, percorsoRegione, percorsoProvincia, percorsoComune, percorsoFrazione } from './luoghi';
+import { paginaIndicizzabile } from './indicizzazione';
 import { luoghi, regioniConLuoghi, provinceConLuoghi, percorsoZona } from './luoghiDaVisitare';
 
 export interface VocePagina { percorso: string; lastmod?: string }
@@ -13,6 +14,9 @@ export const NOMI_SITEMAP = ['principali', 'territorio', 'eventi', 'luoghi'] as 
 export type NomeSitemap = (typeof NOMI_SITEMAP)[number];
 
 export function gruppo(nome: NomeSitemap): VocePagina[] {
+  return tutte(nome).filter((v) => v.percorso.startsWith('/evento/') || paginaIndicizzabile(v.percorso));
+}
+function tutte(nome: NomeSitemap): VocePagina[] {
   if (nome === 'principali') return [
     { percorso: '/', lastmod: ultima(eventi) }, { percorso: '/oggi/' }, { percorso: '/domani/' }, { percorso: '/weekend/' },
     { percorso: '/mappa/', lastmod: ultima(eventi) }, { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
@@ -32,4 +36,6 @@ export function gruppo(nome: NomeSitemap): VocePagina[] {
   if (nome === 'eventi') return eventi.filter((e) => e.indicizzabile).map((e) => ({ percorso: e.percorso, lastmod: e.inserito }));
   return luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato }));
 }
+/** Mappe che hanno almeno una pagina (in fase 1 restano solo quelle principali). */
+export const sitemapNonVuote = () => NOMI_SITEMAP.filter((n) => gruppo(n).length > 0);
 export const ultimaModifica = (nome: NomeSitemap) => gruppo(nome).map((v) => v.lastmod ?? '').filter(Boolean).sort().at(-1);

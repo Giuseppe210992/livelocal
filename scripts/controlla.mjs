@@ -100,14 +100,16 @@ for (const p of pagine) {
 // /sitemap.xml è un indice: le pagine stanno in sitemap-principali, -territorio, -eventi e -luoghi.
 const indice = readFileSync(join(DIST, 'sitemap.xml'), 'utf8');
 if (!indice.includes('<sitemapindex')) errori.push('sitemap.xml non è un indice di mappe');
-const sitemap = ['principali', 'territorio', 'eventi', 'luoghi'].map((n) => {
-  if (!indice.includes(`sitemap-${n}.xml<`)) errori.push(`sitemap: l'indice non cita sitemap-${n}.xml`);
-  return readFileSync(join(DIST, `sitemap-${n}.xml`), 'utf8');
-}).join('\n');
+// In fase 1 l'indice cita solo le mappe che hanno pagine (src/data/indicizzazione.json): ogni mappa citata deve esistere.
+const FASE = JSON.parse(readFileSync('src/data/indicizzazione.json', 'utf8')).fase;
+const citate = [...indice.matchAll(/sitemap-([a-z]+)\.xml</g)].map((m) => m[1]);
+if (!citate.includes('principali')) errori.push("sitemap: l'indice non cita sitemap-principali.xml");
+const sitemap = citate.map((n) => readFileSync(join(DIST, `sitemap-${n}.xml`), 'utf8')).join('\n');
 // La mappa degli eventi contiene solo quelli in programma o in corso (i conclusi restano online ma fuori mappa):
 // ogni indirizzo in mappa deve esistere, e la mappa non può essere vuota.
 const inMappa = [...sitemap.matchAll(/<loc>([^<]*\/evento\/[^<]*)<\/loc>/g)].map((m) => m[1]);
-if (inMappa.length === 0) errori.push('sitemap: nessun evento in mappa');
+if (FASE >= 2 && inMappa.length === 0) errori.push('sitemap: nessun evento in mappa');
+if (FASE === 1 && inMappa.length > 0) errori.push('sitemap: in fase 1 non ci devono essere eventi in mappa');
 for (const u of inMappa) {
   const percorso = new URL(u).pathname.slice(BASE.length);
   const f = join(DIST, percorso, 'index.html');

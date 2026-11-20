@@ -2,6 +2,7 @@
 // Struttura comune a tutte le pagine: <head> per Google e social, intestazione, piè di pagina.
 import { SITO, IMPOSTAZIONI, href, urlAssoluto } from '../lib/sito';
 import '../styles/globale.css';
+import { paginaIndicizzabile } from '../lib/indicizzazione';
 
 interface Props {
   titolo: string;          // <title>, unico per pagina
@@ -15,6 +16,8 @@ interface Props {
 
 const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', noindex = false, immagine = '/condivisione.png' } = Astro.props;
 const canonico = urlAssoluto(percorso);
+// Le pagine evento decidono da sole (noindex); per le altre conta la fase di indicizzazione (src/lib/indicizzazione.ts).
+const nascondi = noindex || (!percorso.startsWith('/evento/') && !paginaIndicizzabile(percorso));
 const immagineOg = urlAssoluto(immagine);
 ---
 <!doctype html>
@@ -25,7 +28,7 @@ const immagineOg = urlAssoluto(immagine);
     <title>{titolo}</title>
     <meta name="description" content={descrizione} />
     <link rel="canonical" href={canonico} />
-    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
+    <meta name="robots" content={nascondi ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
     {IMPOSTAZIONI.verificaGoogle && <meta name="google-site-verification" content={IMPOSTAZIONI.verificaGoogle} />}
     {IMPOSTAZIONI.verificaBing && <meta name="msvalidate.01" content={IMPOSTAZIONI.verificaBing} />}
     <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)" />
