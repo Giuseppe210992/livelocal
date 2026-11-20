@@ -273966,5 +273966,633 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "iniziativa-pinocchio-a-capannori-capannori",
+    "titolo": "Iniziativa 'Pinocchio a Capannori'",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T16:00",
+    "fine": "2026-11-24T23:00",
+    "luogo": "Polo Culturale di Tassignano",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa culturale promossa in occasione del bicentenario di Carlo Lorenzini, dedicata al celebre burattino e alla figura di Pinocchio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Atopica Utopia",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voglio-vederti-danzare-omaggio-a-livorno",
+    "titolo": "Voglio vederti danzare – Omaggio a",
+    "categoria": "concerto",
+    "inizio": "2027-03-18",
+    "fine": null,
+    "luogo": "Teatro Goldoni",
+    "indirizzo": "Livorno",
+    "cap": null,
+    "comune": "049009",
+    "frazione": null,
+    "lat": 43.5221,
+    "lon": 10.34831,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico fuori abbonamento dedicato al ballo e alla danza, in tributo a grandi compositori che hanno scritto per il balletto. Il 18 marzo 2027 al Teatro Goldoni di Livorno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Goldoni",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Goldoni",
+        "tipo": "organizzatore",
+        "url": "https://www.goldoniteatro.it/spettacoli/?ts=concerti",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-d-organo-con-alessandra-artifoni-quarrata",
+    "titolo": "Concerto d'organo con Alessandra Artifoni",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T17:00",
+    "fine": "2026-11-22T17:00",
+    "luogo": "Chiesa di San Giovanni Evangelista di Montemagno",
+    "indirizzo": "Via Montemagno 13, Montemagno",
+    "cap": null,
+    "comune": "047017",
+    "frazione": null,
+    "lat": 43.85177,
+    "lon": 10.97189,
+    "coordinateApprossimate": true,
+    "descrizione": "Alexandra Artifoni si esibisce in un concerto d'organo nell'ambito dell'ottava edizione del Toscana Organ Festival, diretto artisticamente da Olimpio Medori. La rassegna valorizza la musica organistica nei luoghi di culto del territorio pistoiese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Toscana Organ Festival",
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/concerto-dorgano-con-alessandra-artifoni",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convocazione-commissione-territorio-25-novembre-2026-albino",
+    "titolo": "Convocazione commissione territorio 25 novembre 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:30",
+    "fine": "2026-11-25T23:59",
+    "luogo": "Municipio",
+    "indirizzo": "Piazza Libertà, 1, 24021 Albino BG, Italia",
+    "cap": null,
+    "comune": "016004",
+    "frazione": null,
+    "lat": 45.75835,
+    "lon": 9.82223,
+    "coordinateApprossimate": true,
+    "descrizione": "Riunione della commissione territorio convocata per mercoledì 25 novembre alle ore 17:30 presso il palazzo municipale. Evento aperto a tutti i cittadini, inserito tra le attività di comunicazione istituzionale e protezione civile.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Albino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.albino.bg.it/it/eventi/convocazione-commissione-territorio-25-novembre-2026",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-asilo-stanga-erba-16-01",
+    "titolo": "Open day Asilo Stanga",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2027-01-16T10:00",
+    "fine": "2027-01-16T11:30",
+    "luogo": "Scuola dell'Infanzia - Centro Prima Infanzia Antonio Stanga",
+    "indirizzo": "Via Antonio Stanga, 13",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Open day dell'asilo nido privato Asilo Stanga, dedicato ai bambini da 0 a 3 anni e ai rispettivi genitori. L'incontro offre l'opportunità di visitare la struttura e conoscerne le attività educative basate sull'esplorazione, la creatività e lo sviluppo personale dei piccoli. L'evento si inserisce nell'ambito delle giornate aperte organizzate dalla scuola per favorire l'avvicinamento delle famiglie al contesto scolastico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/open-day-asilo-stanga-732987",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-lettera-paolo-nani-aosta",
+    "titolo": "La lettera — Paolo Nani",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Paolo Nani, rappresentazione ininterrotta dal 1992 in tutto il mondo. Nani, solo sul palco, narra quindici micro-storie con uguale trama ma personaggi diversi, in uno show di teatro fisico durato ottanta minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/teatro/la-lettera",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-due-gemelli-veneziani-carlo-goldoni-aosta",
+    "titolo": "I due gemelli veneziani — Carlo Goldoni",
+    "categoria": "teatro",
+    "inizio": "2027-04-03T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale della celebre commediagoldoniana scritta nel 1747, interpretata da Tullio Solenghi. Lo спектакльfa parte del percorso di esplorazione della storia del teatro italiano proposto nella stagione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/page15",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "omaggio-a-riz-ortolani-pesaro",
+    "titolo": "Omaggio a Riz Ortolani",
+    "categoria": "concerto",
+    "inizio": "2026-11-20",
+    "fine": null,
+    "luogo": "Teatro Sperimentale",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'Orchestra di fiati di Candelara per celebrare il centenario della nascita del compositore Riz Ortolani, in programma al Teatro Sperimentale di Pesaro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orchestra di fiati di Candelara",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ai-confini-del-m-anga-verso-canegrate",
+    "titolo": "Ai confini del M(anga)verso",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Canegrate",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla scoperta dell'universo del fumetto giapponese e non solo. Evento aperto a tutta la cittadinanza con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/ai-confini-del-mangaverso",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lilt-screening-urologico-presso-la-croce-verde-castelfidardo",
+    "titolo": "Lilt, screening urologico presso la Croce Verde",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T12:30",
+    "luogo": "Pro Loco",
+    "indirizzo": "Piazza Repubblica, 6",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Screening urologico gratuito con medici volontari della LILT sezione di Ancona, rivolto a fasce deboli della popolazione che non hanno effettuato controlli negli ultimi sei mesi presso strutture pubbliche o private. Prenotazione necessaria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi/screening-senologico-presso-la-sede-della-croce-verde-di-via-podgora",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-scuola-secondaria-di-i-grado-mazzini-castelfidardo",
+    "titolo": "Open day scuola secondaria di I grado Mazzini",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-11T17:30",
+    "fine": "2026-12-11T19:00",
+    "luogo": "Pro Loco",
+    "indirizzo": "Piazza Repubblica, 6",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Open day presso la scuola secondaria di I grado Mazzini di via Breccia. Docenti e personale aspettano studenti e famiglie per presentare l'attività didattica venerdì 11 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi/open-day-scuola-secondaria-di-i-grado-mazzini-734795",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-istituto-comprensivo-soprani-castelfidardo",
+    "titolo": "Open day Istituto Comprensivo Soprani",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-12T10:00",
+    "fine": "2026-12-12T12:00",
+    "luogo": "Pro Loco",
+    "indirizzo": "Piazza Repubblica, 6",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima data degli open day presso l'I.C. Soprani per la scuola d'infanzia. Docenti e personale accolgono studenti e famiglie per presentare l'attività didattica sabato 12 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi/open-day-scuola-secondaria-di-i-grado-mazzini",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-pari-e-dispari-donne-di-pace-pistoia-20-11",
+    "titolo": "Festival 'Pari e Dispari' | Donne di Pace",
+    "categoria": "conferenza",
+    "inizio": "2026-11-20T18:00",
+    "fine": "2026-11-20T19:30",
+    "luogo": "Lo Spazio Pistoia | Libreria",
+    "indirizzo": "Via Curtatone e Montanara, 20, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Marta Serafini per la presentazione del libro 'Brevissima storia del conflitto tra Russia e Ucraina. Dal 2014 a oggi', con Eleonora Bruni, ostetrica di Emergency a Khan Yunis. L'evento fa parte della V edizione del Festival Pari e Dispari 'Donne di Pace', inserito nel programma Oltre il silenzio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival Pari e Dispari",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/festival-pari-e-dispari-donne-di-pace-2520406-2520408",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piccoli-passi-per-grandi-scoperte-il-bello-dei-primi-sei-mesi-pistoia",
+    "titolo": "Piccoli passi per grandi scoperte | Il bello dei primi sei mesi",
+    "categoria": "bambini",
+    "inizio": "2026-11-20T17:00",
+    "fine": "2026-11-20T19:00",
+    "luogo": "Spazio Incontro Pistoia - 18 mesi / 3 anni",
+    "indirizzo": "Via Bartolomeo Sestini, 15, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per genitori con figli e figlie da 0 a 6 mesi, dedicato a movimento, comunicazione e conquiste dei primi mesi di vita. A cura dell'Assessorato alle Politiche di Inclusione Sociale, del Centro per le Famiglie Pistoia e dei Pediatri di Libera Scelta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro per le Famiglie Pistoia",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/piccoli-passi-per-grandi-scoperte-il-bello-dei-primi-sei-mesi-2520601",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-periferia-dell-anima-volti-e-ferite-pistoia-25-11",
+    "titolo": "La periferia dell'anima. Volti e ferite",
+    "categoria": "mostra",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Moon Gallery",
+    "indirizzo": "Via Giosuè Carducci, 31, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale fotografica di Davide Cerullo che propone un percorso tra le fotografie di Scampia attraverso volti, sguardi e storie, lontano da ogni stereotipo. L'iniziativa fa parte del programma di Pistoia Capitale del Libro 2026. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/la-periferia-dell-anima-volti-e-ferite",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arte-contro-il-femminicidio-osio-sotto",
+    "titolo": "Arte contro il femminicidio",
+    "categoria": "mostra",
+    "inizio": "2026-11-23T15:00",
+    "fine": "2026-11-23T17:00",
+    "luogo": "Centro Sociale Barbisotti e Biblioteca",
+    "indirizzo": "Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Realizzazione e installazione artistica contro il femminicidio, a cura del progetto adolescenti giovani, Osilon, Usignolo e Centro Diurno anziani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "progetto adolescenti giovani, Osilon, Usignolo e Centro Diurno anziani",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/osio-sotto-settimana-internazionale-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-a-tema-femminicidio-osio-sotto",
+    "titolo": "Proiezione a tema femminicidio",
+    "categoria": "mostra",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Sulla facciata del Comune di Osio Sotto",
+    "indirizzo": "Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione dedicata al tema del femminicidio sulla facciata del Comune, per mantenere alta l'attenzione su una problematica sociale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/osio-sotto-settimana-internazionale-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "installazione-artistica-osio-sotto",
+    "titolo": "Installazione artistica",
+    "categoria": "mostra",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Giardino di via Colleoni, 4",
+    "indirizzo": "Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione artistica dell'associazione Fili Felici, un'opera che attraverso il linguaggio dell'arte contribuisce al messaggio della settimana contro la violenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "associazione Fili Felici",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/osio-sotto-settimana-internazionale-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quello-che-le-donne-non-dicono-osio-sotto",
+    "titolo": "Quello che le donne non dicono",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T15:00",
+    "fine": null,
+    "luogo": "Museo Ruralia",
+    "indirizzo": "Osio Sotto",
+    "cap": null,
+    "comune": "016153",
+    "frazione": null,
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di canzoni e riflessioni contro ogni violenza sul genere femminile, a cura dell'Associazione 37 Marzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione 37 Marzo",
+    "fonti": [
+      {
+        "nome": "Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.osiosotto.bg.it/it/eventi/osio-sotto-settimana-internazionale-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-20",
+    "inseritoDa": "consegna"
   }
 ]
