@@ -1,0 +1,55 @@
+---
+// Chi gestisce LiveLocal e come vengono raccolti e controllati gli eventi. Serve alle persone e ai motori di ricerca
+// per capire chi c'è dietro al sito e quanto ci si può fidare dei dati (vedi docs/bing.md, 20/11/2026).
+import Base from '../../layouts/Base.astro';
+import { SITO, IMPOSTAZIONI, href } from '../../lib/sito';
+import { eventi, prossimi } from '../../lib/eventi';
+import { totaleLuoghi } from '../../lib/luoghiDaVisitare';
+import { jsonLdOrganizzazione } from '../../lib/jsonld';
+const email = IMPOSTAZIONI.emailContatto;
+const inProgramma = prossimi(eventi).length.toLocaleString('it-IT');
+const comuni = new Set(prossimi(eventi).map((e) => e.comune)).size.toLocaleString('it-IT');
+---
+<Base
+  titolo={`Chi siamo e come lavoriamo | ${SITO.nome}`}
+  descrizione="Chi gestisce LiveLocal, da dove arrivano gli eventi, come li controlliamo e come segnalare un errore. Un calendario gratuito e senza tracciamento."
+  percorso="/chi-siamo/"
+  jsonLd={[jsonLdOrganizzazione()]}
+>
+  <section class="apertura">
+    <h1>Chi siamo e come lavoriamo</h1>
+    <p class="apertura__testo">{SITO.nome} è un calendario gratuito degli eventi e dei luoghi da visitare in Italia. Oggi raccoglie {inProgramma} eventi in programma in {comuni} comuni e {totaleLuoghi().toLocaleString('it-IT')} luoghi.</p>
+  </section>
+
+  <h2>Chi c'è dietro</h2>
+  <p>
+    {SITO.nome} è gestito da Giuseppe Di Buccio, a Minturno (Latina), ed è un progetto promosso da <a href={SITO.promotore.url} rel="noopener">{SITO.promotore.nome}</a>.
+    È nato da un problema concreto: tanti eventi belli dei piccoli paesi sono annunciati solo con una locandina sui social, e chi cerca cosa fare non li trova.
+  </p>
+
+  <h2>Da dove arrivano gli eventi</h2>
+  <ul>
+    <li>Dai siti ufficiali: Comuni, Pro Loco, musei, teatri, portali turistici delle Regioni e del Ministero della Cultura.</li>
+    <li>Dagli account pubblici degli organizzatori, per esempio su Instagram.</li>
+    <li>Da chi organizza, con il <a href={href('/segnala/')}>modulo per segnalare un evento</a>.</li>
+  </ul>
+  <p>Ogni scheda indica la fonte da cui l'abbiamo letta, con il collegamento per controllarla.</p>
+
+  <h2>Come li controlliamo</h2>
+  <ul>
+    <li>Gran parte delle pagine viene letta da programmi automatici, anche con l'aiuto dell'intelligenza artificiale. Un evento entra nel calendario solo se la data e il luogo sono scritti nella fonte: le parti inventate o non trovate nella pagina vengono scartate.</li>
+    <li>Le descrizioni sono scritte da noi, in poche righe: non copiamo i testi degli altri siti. Le locandine si pubblicano solo con il permesso di chi organizza.</li>
+    <li>Gli eventi annullati o rinviati restano online con lo stato aggiornato; quelli conclusi restano come archivio.</li>
+    <li>I contatti privati di chi segnala un evento non vengono mai pubblicati.</li>
+  </ul>
+  <p class="nota"><b>Possono esserci errori.</b> Prima di partire controlla sempre con chi organizza.</p>
+
+  <h2>Hai trovato un errore?</h2>
+  <p>Scrivi a <a href={`mailto:${email}`}>{email}</a> indicando la pagina: correggiamo o togliamo la scheda. Se organizzi un evento puoi anche <a href={href('/segnala/')}>segnalarlo</a>.</p>
+
+  <h2>Cosa non facciamo</h2>
+  <ul>
+    <li>Niente tracciamento, niente cookie di profilazione, niente registrazione: vedi la <a href={href('/privacy/')}>privacy</a>.</li>
+    <li>Gli spazi degli sponsor sono sempre segnalati come tali (<a href={href('/sponsor/')}>pubblicità</a>).</li>
+  </ul>
+</Base>

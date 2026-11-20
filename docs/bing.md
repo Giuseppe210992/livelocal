@@ -30,3 +30,8 @@ Google ha scansionato anche la home senza indicizzarla: il problema riguarda il 
 - **Fase 2:** in più gli eventi in corso o che iniziano entro 7 giorni.
 - **Fase 3:** tutte le pagine e gli eventi entro 21 giorni.
 Si passa alla fase successiva solo se Search Console mostra le pagine della fase precedente indicizzate (dopo 7-10 giorni). Se dopo 10 giorni non lo sono, il problema è nel contenuto o nell'autorità del sito.
+
+## 20/11/2026, pomeriggio — pagina «Chi siamo» e dati dell'organizzazione
+
+La home è stata riscansionata il 20/11 alle 13:00 UTC (dopo la richiesta di Giuseppe), letta senza errori, e resta «scansionata ma non indicizzata». Nessuna modifica ai modelli delle pagine tra il 10 e il 12/11: la causa è una valutazione di Google sull'intero sito, non un guasto tecnico. Da controllare in Search Console (solo dall'interfaccia, l'API non lo mostra): «Sicurezza e azioni manuali» → «Azioni manuali».
+Aggiunti segnali di fiducia: pagina `/chi-siamo/` (chi gestisce il sito, fonti, controlli, correzioni), JSON-LD `Organization` in home e in «Chi siamo», link nel piè di pagina. «Chi siamo» è tra le pagine indicizzate in fase 1.

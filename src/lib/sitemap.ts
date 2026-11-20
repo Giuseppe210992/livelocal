@@ -21,7 +21,7 @@ function tutte(nome: NomeSitemap): VocePagina[] {
     { percorso: '/', lastmod: ultima(eventi) }, { percorso: '/oggi/' }, { percorso: '/domani/' }, { percorso: '/weekend/' },
     { percorso: '/mappa/', lastmod: ultima(eventi) }, { percorso: '/vicino-a-me/', lastmod: ultima(eventi) },
     { percorso: '/luoghi/', lastmod: ultimaLuoghi }, { percorso: '/luoghi/mappa/' }, { percorso: '/luoghi/europa/' },
-    { percorso: '/sponsor/' }, { percorso: '/segnala/' }, { percorso: '/segnala/modulo/' }, { percorso: '/privacy/' },
+    { percorso: '/chi-siamo/' }, { percorso: '/sponsor/' }, { percorso: '/segnala/' }, { percorso: '/segnala/modulo/' }, { percorso: '/privacy/' },
   ];
   if (nome === 'territorio') return [
     ...regioniConEventi().map((r) => ({ percorso: percorsoRegione(r), lastmod: ultima(eventiDellaRegione(r)) })),

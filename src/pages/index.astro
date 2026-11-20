@@ -6,7 +6,7 @@ import Pastiglia from '../components/Pastiglia.astro';
 import { prossimi, eventiDellaRegione, eventiDellaProvincia, regioniConEventi, provinceConEventi } from '../lib/eventi';
 import { totaleLuoghi } from '../lib/luoghiDaVisitare';
 import { percorsoRegione, percorsoProvincia } from '../lib/luoghi';
-import { jsonLdSito } from '../lib/jsonld';
+import { jsonLdSito, jsonLdOrganizzazione } from '../lib/jsonld';
 import { SITO, href } from '../lib/sito';
 
 // Solo le regioni con eventi, dalla più ricca.
@@ -16,7 +16,7 @@ const regioniOrdinate = regioniConEventi().sort((a, b) => prossimi(eventiDellaRe
   titolo={`${SITO.nome} · Eventi e luoghi da visitare in tutta Italia`}
   descrizione="Cosa fare in Italia: mostre, visite guidate, concerti, sagre e feste, giorno per giorno e vicino a te, più i luoghi storici da visitare con orari e prezzi. Gratuito, aggiornato ogni ora."
   percorso="/"
-  jsonLd={[jsonLdSito()]}
+  jsonLd={[jsonLdSito(), jsonLdOrganizzazione()]}
 >
   <section class="apertura apertura--home">
     <h1>Cosa fare vicino a te</h1>

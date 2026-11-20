@@ -87,8 +87,25 @@ export function jsonLdBriciole(voci: { nome: string; percorso: string }[]) {
   };
 }
 
+/** Chi pubblica il sito (pagina «Chi siamo» e home). Solo dati già pubblici: nome del gestore, promotore, account ufficiale. */
+export function jsonLdOrganizzazione() {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': urlAssoluto('/#organizzazione'),
+    name: SITO.nome,
+    url: urlAssoluto('/'),
+    description: SITO.descrizione,
+    founder: { '@type': 'Person', name: 'Giuseppe Di Buccio' },
+    sponsor: { '@type': 'Organization', name: SITO.promotore.nome, url: SITO.promotore.url },
+    sameAs: ['https://www.instagram.com/livelocal21/'],
+    publishingPrinciples: urlAssoluto('/chi-siamo/'),
+  };
+}
+
 export function jsonLdSito() {
   return {
+    publisher: { '@id': urlAssoluto('/#organizzazione') },
     '@context': 'https://schema.org',
     '@type': 'WebSite',
     name: SITO.nome,

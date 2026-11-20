@@ -7,7 +7,8 @@
 import dati from '../data/indicizzazione.json';
 
 export const FASE: number = dati.fase;
-export const PAGINE_PRINCIPALI = ['/', '/oggi/', '/domani/', '/weekend/', '/luoghi/'];
+// «Chi siamo» è nella fase 1 perché dice chi gestisce il sito e come si controllano i dati: è un segnale di fiducia.
+export const PAGINE_PRINCIPALI = ['/', '/oggi/', '/domani/', '/weekend/', '/luoghi/', '/chi-siamo/'];
 /** Giorni di anticipo con cui un evento entra nell'indice (0 = nessun evento). */
 export const GIORNI_INDICE = FASE >= 3 ? 21 : FASE === 2 ? 7 : 0;
 

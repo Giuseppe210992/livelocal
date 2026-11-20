@@ -52,7 +52,7 @@ if (base && !/^0+$/.test(base)) {
 }
 
 // Pagine fisse che cambiano quando cambiano gli eventi o i luoghi, e mappe del sito.
-const PILASTRI = FASE >= 3 ? ['/', '/oggi/', '/domani/', '/weekend/', '/mappa/', '/luoghi/', '/luoghi/mappa/', '/luoghi/europa/'] : ['/', '/oggi/', '/domani/', '/weekend/', '/luoghi/'];
+const PILASTRI = FASE >= 3 ? ['/', '/oggi/', '/domani/', '/weekend/', '/mappa/', '/luoghi/', '/luoghi/mappa/', '/luoghi/europa/'] : ['/', '/oggi/', '/domani/', '/weekend/', '/luoghi/', '/chi-siamo/'];
 const MAPPE = FASE >= 3 ? ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-territorio.xml', '/sitemap-eventi.xml', '/sitemap-luoghi.xml'] : FASE === 2 ? ['/sitemap.xml', '/sitemap-principali.xml', '/sitemap-eventi.xml'] : ['/sitemap.xml', '/sitemap-principali.xml'];
 // Luoghi da visitare nuovi o cambiati (stesso confronto degli eventi).
 const slugLuoghi = (testo) => new Map((JSON.parse(testo).luoghi ?? []).map((l) => [l.slug, JSON.stringify(l)]));
