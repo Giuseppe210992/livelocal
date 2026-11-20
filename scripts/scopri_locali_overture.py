@@ -53,6 +53,8 @@ def main() -> None:
 
     print('\nLuoghi in Italia per categoria (prime 40):')
     for c, n in tutte.most_common(40): print(f'  {n:8d}  {c}{"   <-- tenuta" if c in CATEGORIE else ""}')
+    per_cat = collections.Counter(x['cat'] for x in tenuti)
+    print('\nLocali tenuti per categoria:'); [print(f'  {n:7d}  {c}') for c, n in per_cat.most_common()]
     print(f'\nLocali tenuti (categorie scelte, aperti, confidenza >= {CONFIDENZA_MIN}): {len(tenuti)}')
     print(f'  con sito: {sum(1 for x in tenuti if x["sito"])} | con Facebook: {sum(1 for x in tenuti if x["facebook"])} | con Instagram: {sum(1 for x in tenuti if x["instagram"])} | con almeno uno: {sum(1 for x in tenuti if x["sito"] or x["facebook"] or x["instagram"])}')
     print('Per regione:'); [print(f'  {n:7d}  {r}') for r, n in regioni.most_common(25)]
