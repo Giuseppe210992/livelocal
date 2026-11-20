@@ -1,0 +1,34 @@
+name: Censimento locali d'Italia (Overture Maps)
+# Solo a mano: Actions → questo flusso → Run workflow. Con «scrivi» spento stampa solo i conteggi; acceso salva ricerca/locali-overture.json.gz.
+on:
+  workflow_dispatch:
+    inputs:
+      scrivi:
+        description: "Salva l'elenco nel repository (1) oppure solo conteggi (0)"
+        default: '0'
+permissions:
+  contents: write
+jobs:
+  censimento:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyarrow
+      - name: Censimento
+        env:
+          SCRIVI: ${{ inputs.scrivi }}
+        run: python3 scripts/scopri_locali_overture.py | tee /tmp/esito.txt
+      - name: Riepilogo
+        run: |
+          { echo '### Censimento locali (Overture Maps)'; echo '```'; cat /tmp/esito.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Salva nel repository
+        if: ${{ inputs.scrivi == '1' }}
+        run: |
+          git config user.name "LiveLocal bot"; git config user.email "bot@users.noreply.github.com"
+          git add ricerca/locali-overture.json.gz
+          git commit -m "Censimento locali d'Italia da Overture Maps" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break || sleep 5; done
