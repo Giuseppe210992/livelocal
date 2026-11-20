@@ -274594,5 +274594,364 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-20",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cuore-in-cammino-marcia-contro-la-violenza-sulle-donne-latina-2026-11-22",
+    "titolo": "«Il cuore in cammino»: camminata contro la violenza sulle donne",
+    "categoria": "sport",
+    "inizio": "2026-11-22T11:00",
+    "luogo": "Piazza del Popolo",
+    "comune": "059011",
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata non competitiva di 4 chilometri promossa dalla Polizia di Stato nella campagna «Questo non è amore». Ritrovo alle 10.30, flash mob degli studenti, esibizione di danza e villaggio informativo con ASL e centro antiviolenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Questura di Latina",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Radio Luna",
+        "tipo": "stampa",
+        "url": "https://radioluna.it/news/2026/11/il-cuore-in-cammino-il-22-novembre-latina-in-marcia-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-viale-di-sapori-piedimonte-san-germano-2026",
+    "titolo": "Un viale di sapori",
+    "categoria": "sagra",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Viale Risorgimento",
+    "comune": "060052",
+    "lat": 41.48503,
+    "lon": 13.74969,
+    "coordinateApprossimate": true,
+    "descrizione": "Stand di cucina ciociara con arrosticini, salsiccia, polenta, formaggi e vino locale, insieme ad artigiani e hobbisti. Musica e DJ set sabato sera, musica dal vivo domenica. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comitato Piazza Municipio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Trovasagre",
+        "tipo": "aggregatore",
+        "url": "https://trovasagre.com/evento/un-viale-di-sapori-piedimonte-san-germano-fr-2026",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-del-vino-novello-strangolagalli-2026",
+    "titolo": "13ª Festa del Vino Novello",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico – Cantine del Borgo",
+    "comune": "060075",
+    "lat": 41.59416,
+    "lon": 13.49594,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso enogastronomico nelle cantine del borgo con degustazioni di vini e prodotti locali, musica e spettacoli. Apertura sabato alle 18 e domenica dalle 11.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Strangolagalli",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cassino-citta-del-disco-2026",
+    "titolo": "Cassino Città del Disco (3ª edizione)",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro Commerciale Gli Archi",
+    "comune": "060019",
+    "lat": 41.47893,
+    "lon": 13.83544,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate dedicate a vinili, CD, musicassette, rarità musicali e collezionismo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cassino Città del Disco",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "a-casa-del-marrone-borgo-velino-2026",
+    "titolo": "A casa del Marrone",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Cooperativa Velinia",
+    "comune": "057008",
+    "lat": 42.40313,
+    "lon": 13.05495,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione dedicata al Marrone Antrodocano con stand gastronomici, prodotti tipici, caldarroste, musica e incontri sulla castanicoltura. Domenica pranzo a base di marroni e sbandieratori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Borgo Velino",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "echi-di-valle-santa-concerto-santa-maria-della-foresta-rieti-2026-11-21",
+    "titolo": "Echi di Valle Santa: Sandro Sacco e Paolo Paciucci",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T17:00",
+    "luogo": "Santuario di Santa Maria della Foresta",
+    "comune": "057059",
+    "lat": 42.40556,
+    "lon": 12.85055,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per flauto e chitarra della rassegna gratuita «Echi di Valle Santa», con Sandro Sacco e Paolo Paciucci.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Echi di Valle Santa",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "francesco-l-uomo-e-il-santo-nell-arte-santuario-della-civita-itri-2026-11-21",
+    "titolo": "«Francesco, l'uomo e il santo nell'arte»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "luogo": "Santuario Maria Santissima della Civita – sala San Giovanni Paolo II",
+    "comune": "059010",
+    "lat": 41.30489,
+    "lon": 13.52773,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il critico Gabriele Perretta sulla rappresentazione di San Francesco nell'arte, presentazione dell'opera «Respiro» dello scultore Salvatore Quinto e del libro «Francesco, ribelle per amore», con musica di chitarra classica. Nel programma «Il Cantico delle Creature tra gli Aurunci».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Santuario della Civita",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Radio Luna",
+        "tipo": "stampa",
+        "url": "https://radioluna.it/news/2026/11/il-cuore-in-cammino-il-22-novembre-latina-in-marcia-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cantine-di-natale-colonna-2026",
+    "titolo": "Cantine di Natale (3ª edizione)",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-20",
+    "luogo": "Centro storico – antiche cantine",
+    "comune": "058035",
+    "lat": 41.83139,
+    "lon": 12.75771,
+    "coordinateApprossimate": true,
+    "descrizione": "Nei fine settimana fino al 20 dicembre e l'8 dicembre, musica, mercatini, intrattenimento e iniziative per famiglie nelle antiche cantine. Inaugurazione sabato 21 alle 16 con l'arrivo di Babbo Natale; alle 19 concerto di Santa Cecilia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Colonna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-di-san-martino-formello-2026-11-21",
+    "titolo": "Festa di San Martino (recupero)",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Formello",
+    "comune": "058038",
+    "lat": 42.06777,
+    "lon": 12.40962,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa rinviata per il maltempo: stand gastronomici, musica, falconeria, passeggiate con gli asinelli e attività per bambini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Formello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-della-polenta-proceno-2026-11-21",
+    "titolo": "9ª Sagra della Polenta",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Proceno",
+    "comune": "056044",
+    "lat": 42.78323,
+    "lon": 11.80178,
+    "coordinateApprossimate": true,
+    "descrizione": "Sabato cena con musica, domenica pranzo e 6ª Cicloturistica Gravel Anello di Proceno, aperta anche a mountain bike ed e-bike. Si replica il 28 e 29 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Proceno",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-della-polenta-proceno-2026-11-28",
+    "titolo": "9ª Sagra della Polenta (secondo fine settimana)",
+    "categoria": "sagra",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Proceno",
+    "comune": "056044",
+    "lat": 42.78323,
+    "lon": 11.80178,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo fine settimana della nona Sagra della Polenta, dopo quello del 21 e 22 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Proceno",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "stand-up-for-giuda-ettore-bassi-teatro-rossella-falk-tarquinia-2026-11-22",
+    "titolo": "«Stand Up for Giuda» con Ettore Bassi",
+    "categoria": "teatro",
+    "inizio": "2026-11-22",
+    "luogo": "Teatro comunale Rossella Falk",
+    "comune": "056050",
+    "lat": 42.25654,
+    "lon": 11.76549,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Ettore Bassi al Teatro comunale Rossella Falk.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro comunale Rossella Falk",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "antichi-mestieri-e-sapori-la-fiera-de-na-vorta-san-martino-al-cimino-2026-11-22",
+    "titolo": "Antichi Mestieri e Sapori – La fiera de 'na vorta",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22",
+    "luogo": "San Martino al Cimino",
+    "comune": "056059",
+    "lat": 42.43757,
+    "lon": 12.06327,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini, prodotti artigianali e attività legate alle tradizioni del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "San Martino al Cimino",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Quotidiano del Lazio",
+        "tipo": "stampa",
+        "url": "https://www.ilquotidianodellazio.it/weekend-lazio-21-22-novembre-2026-sagre-mercatini-eventi.html",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
