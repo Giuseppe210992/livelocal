@@ -24,7 +24,9 @@ const leggi = (testo) => JSON.parse(testo).filter((e) => e.stato === 'pubblicato
 const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8')).filter(inCorso);
 // Gli eventi già conclusi non si inviano: restano online come archivio ma non servono a nessuno nell'indice.
 const OGGI = new Date().toISOString().slice(0, 10);
-const inCorso = (e) => (e.fine || e.inizio).slice(0, 10) >= OGGI;
+// Si inviano solo gli eventi che le pagine lasciano indicizzare: in corso o che iniziano entro 21 giorni (vedi GIORNI_INDICE in src/lib/eventi.ts).
+const LIMITE = new Date(Date.now() + 21 * 86400000).toISOString().slice(0, 10);
+const inCorso = (e) => (e.fine || e.inizio).slice(0, 10) >= OGGI && e.inizio.slice(0, 10) <= LIMITE;
 const percorso = (e) => `/evento/${e.inizio.slice(0, 4)}/${e.slug}/`;
 
 let daInviare;

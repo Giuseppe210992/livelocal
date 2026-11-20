@@ -9,10 +9,11 @@ interface Props {
   percorso: string;        // es. /eventi/lazio/latina/minturno/ (serve per l'URL canonico)
   jsonLd?: object[];       // dati strutturati schema.org
   tipoOg?: 'website' | 'article';
+  noindex?: boolean;       // pagina online ma da non far indicizzare (es. evento lontano nel tempo o concluso)
   immagine?: string;       // percorso dell'immagine per le anteprime (se manca: quella del sito)
 }
 
-const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', immagine = '/condivisione.png' } = Astro.props;
+const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', noindex = false, immagine = '/condivisione.png' } = Astro.props;
 const canonico = urlAssoluto(percorso);
 const immagineOg = urlAssoluto(immagine);
 ---
@@ -24,7 +25,7 @@ const immagineOg = urlAssoluto(immagine);
     <title>{titolo}</title>
     <meta name="description" content={descrizione} />
     <link rel="canonical" href={canonico} />
-    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large'} />
     {IMPOSTAZIONI.verificaGoogle && <meta name="google-site-verification" content={IMPOSTAZIONI.verificaGoogle} />}
     {IMPOSTAZIONI.verificaBing && <meta name="msvalidate.01" content={IMPOSTAZIONI.verificaBing} />}
     <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)" />

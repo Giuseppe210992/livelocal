@@ -26,10 +26,10 @@ export function gruppo(nome: NomeSitemap): VocePagina[] {
     ...comuni.flatMap((c) => c.frazioni.map((f) => ({ percorso: percorsoFrazione(c, f), lastmod: ultima(eventiDellaFrazione(c, f)) }))),
     ...regioniConLuoghi().flatMap((r) => provinceConLuoghi(r).map((p) => ({ percorso: percorsoZona(p) }))),
   ];
-  // Solo gli eventi in programma o in corso: i conclusi restano online come archivio (e raggiungibili dai link),
+  // Solo gli eventi in corso o che iniziano entro GIORNI_INDICE giorni (gli altri hanno «noindex»): i conclusi restano online come archivio (e raggiungibili dai link),
   // ma non vanno in mappa. Così i motori di ricerca spendono le visite sulle pagine che servono a chi cerca
   // un evento oggi, e non sulle migliaia già finite (quasi il 43% del totale).
-  if (nome === 'eventi') return eventi.filter((e) => !e.concluso).map((e) => ({ percorso: e.percorso, lastmod: e.inserito }));
+  if (nome === 'eventi') return eventi.filter((e) => e.indicizzabile).map((e) => ({ percorso: e.percorso, lastmod: e.inserito }));
   return luoghi.map((l) => ({ percorso: l.percorso, lastmod: l.verificato }));
 }
 export const ultimaModifica = (nome: NomeSitemap) => gruppo(nome).map((v) => v.lastmod ?? '').filter(Boolean).sort().at(-1);

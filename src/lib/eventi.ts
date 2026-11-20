@@ -50,11 +50,15 @@ export interface Evento extends EventoGrezzo {
   inizioIstante: Date;
   fineIstante: Date; // quando l'evento si considera finito
   concluso: boolean;
+  /** Pagina da far indicizzare ai motori di ricerca: evento in corso o che inizia entro GIORNI_INDICE giorni. */
+  indicizzabile: boolean;
   etichettaStato: string | null; // "Concluso", "Nuove date", "Annullato", "Rinviato"
 }
 
 export const categorie: Categoria[] = categorieDati;
 
+/** Un evento si fa indicizzare solo quando mancano al massimo questi giorni all'inizio (e finché non è concluso). */
+export const GIORNI_INDICE = 21;
 const ORA = new Date(); // momento della costruzione del sito (si rigenera ogni ora)
 
 function errore(e: Partial<EventoGrezzo>, messaggio: string): never {
@@ -112,6 +116,7 @@ function arricchisci(e: EventoGrezzo): Evento {
     inizioIstante,
     fineIstante,
     concluso,
+    indicizzabile: !concluso && inizioIstante.getTime() <= ORA.getTime() + GIORNI_INDICE * 86400000,
     etichettaStato,
   };
 }

@@ -29,6 +29,7 @@ const titoloPagina = `${e.titolo} · ${dataCorta(e.inizio, e.fine)} | ${SITO.nom
   titolo={titoloPagina}
   descrizione={riassunto(`${maiuscola(quando)} a ${localita(e)}. ${e.descrizione}`)}
   percorso={e.percorso}
+  noindex={!e.indicizzabile}
   tipoOg="article"
   immagine={`${e.percorso}immagine.png`}
   jsonLd={[jsonLdEvento(e), jsonLdBriciole(voci)]}

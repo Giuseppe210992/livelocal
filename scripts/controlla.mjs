@@ -110,7 +110,9 @@ const inMappa = [...sitemap.matchAll(/<loc>([^<]*\/evento\/[^<]*)<\/loc>/g)].map
 if (inMappa.length === 0) errori.push('sitemap: nessun evento in mappa');
 for (const u of inMappa) {
   const percorso = new URL(u).pathname.slice(BASE.length);
-  if (!existsSync(join(DIST, percorso, 'index.html'))) errori.push(`sitemap: /${percorso} è in mappa ma la pagina non esiste`);
+  const f = join(DIST, percorso, 'index.html');
+  if (!existsSync(f)) errori.push(`sitemap: /${percorso} è in mappa ma la pagina non esiste`);
+  else if (/<meta name="robots" content="noindex/.test(readFileSync(f, 'utf8'))) errori.push(`sitemap: /${percorso} è in mappa ma ha noindex`);
 }
 
 if (errori.length) {

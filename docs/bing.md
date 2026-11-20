@@ -18,3 +18,7 @@ Diagnosi fatta con l'API di Bing Webmaster Tools (chiave data da Giuseppe in cha
 ## 19/11/2026 — solo gli eventi in programma in mappa e in IndexNow
 
 Gli eventi si aggiornano ogni giorno e quasi la metà (2.958 su 6.872) era già conclusa: Bing spendeva le visite su pagine che non servono a chi cerca. Ora `sitemap-eventi.xml` contiene solo gli eventi in programma o in corso (3.701 al 19/11) e IndexNow non invia più quelli conclusi. Le pagine dei conclusi restano online come archivio. Le date `lastmod` non cambiano a ogni pubblicazione (vengono dalla data di inserimento), quindi la mappa non segnala falsi cambiamenti.
+
+## 21/11/2026 — Google ha tolto le pagine dall'indice: «noindex» sugli eventi lontani
+
+Search Console (letta via API) mostra 171 clic/giorno tra 5 e 11 novembre e poi quasi zero dal 12: le pagine risultano «scansionate, ma attualmente non indicizzate». Robots, canonical e indicizzazione erano a posto. Ipotesi: filtro di qualità dopo la crescita da 2.160 a 8.050 eventi in due settimane. Risposta: le pagine evento si fanno indicizzare solo se l'evento è in corso o inizia entro 21 giorni (`GIORNI_INDICE` in `src/lib/eventi.ts`), le altre restano online con `noindex, follow` e fuori mappa del sito e da IndexNow. Si ricalcola a ogni pubblicazione oraria. Da controllare ogni settimana: pagine indicizzate e clic.
