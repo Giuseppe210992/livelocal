@@ -271142,5 +271142,121 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-museo-segreto-omaggio-a-zaza-calzia-man-nuoro-2026",
+    "titolo": "«Il museo segreto»: opere dalla collezione del MAN con un omaggio a Zaza Calzia",
+    "categoria": "mostra",
+    "inizio": "2026-11-27",
+    "fine": "2027-03-07",
+    "luogo": "MAN Museo d'Arte della Provincia di Nuoro",
+    "indirizzo": "Via Sebastiano Satta 27",
+    "comune": "114027",
+    "lat": 40.33944,
+    "lon": 9.29952,
+    "coordinateApprossimate": true,
+    "descrizione": "Tornano nelle sale opere raramente esposte della collezione, unite da una vena surrealista che attraversa più generazioni di artisti sardi (Edina Altara, Filippo Figari, Maria Lai, Gavino Tilocca e molti altri), con un omaggio a Zaza Calzia (1932–2025). Inaugurazione venerdì 27 novembre alle 18. Aperto 10–19, lunedì chiuso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "MAN Museo d'Arte della Provincia di Nuoro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MAN",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4kBATjNX4/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-fantastico-in-biblioteca-la-saggistica-racconta-il-fantastico-biblioteca-cornelia-roma",
+    "titolo": "«Il Fantastico in Biblioteca»: la saggistica racconta il fantastico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T17:30",
+    "fine": "2026-11-24T19:00",
+    "luogo": "Biblioteca Cornelia",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro del ciclo che porta autori, libri e film del cinema di genere nelle biblioteche di Roma, in attesa del Fantafestival 46: la saggistica cinematografica racconta il fantastico, con Antonio Tentori, Roberto Lasagna, Fabio Melelli e altri ospiti. Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Fantafestival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Fantafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4dv7dkVfD/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-fantastico-in-biblioteca-horror-sociale-bottega-quarticciolo-roma",
+    "titolo": "«Il Fantastico in Biblioteca»: fantastico impegnato e horror sociale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:00",
+    "fine": "2026-11-26T20:00",
+    "luogo": "Bottega Quarticciolo",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo incontro del ciclo in attesa del Fantafestival 46, con lo scrittore Paolo di Orazio e la regista Luna Gualano. A seguire la proiezione del film «La guerra del Tiburtino III». Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Fantafestival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Fantafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4dv7dkVfD/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-fantastico-in-biblioteca-horror-per-i-piu-giovani-cento-incroci-roma",
+    "titolo": "«Il Fantastico in Biblioteca»: quando horror e fantastico parlano ai più giovani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-29T18:00",
+    "fine": "2026-11-29T19:30",
+    "luogo": "Cento Incroci",
+    "indirizzo": "Roma",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo incontro del ciclo in attesa del Fantafestival 46, dedicato alla letteratura di genere per ragazzi, con le autrici Varla Del Rio e Miriam Palombi. Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Fantafestival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Fantafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4dv7dkVfD/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
