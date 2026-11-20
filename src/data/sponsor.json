@@ -1,0 +1,15 @@
+{
+  "_nota": "Chi occupa gli spazi sponsor. Ogni voce di «sponsor» ha: nome, titolo, testo (2 righe al massimo), link, testoLink, logo (facoltativo, file in public/sponsor/), promotore (true se è il promotore del progetto: lo si dichiara sempre), spazi (dove compare: home, barra, luoghi). Dove nessuno sponsor occupa lo spazio compare l'invito «Spazio disponibile». Il «link» è un normale collegamento, senza tracciamento. Per mettere un altro sponsor: aggiungi una voce con gli stessi campi; se due occupano lo stesso spazio compare quello più in alto nell'elenco.",
+  "sponsor": [
+    {
+      "nome": "Room & Relax",
+      "titolo": "Room & Relax: camere a Scauri, a 100 metri dal mare",
+      "testo": "Camere private con bagno e posto auto, nei pressi della stazione di Scauri (Minturno). Prezzi e disponibilità sul sito.",
+      "link": "https://roomandrelax.it",
+      "testoLink": "Scopri le camere",
+      "logo": "/sponsor/room-and-relax.svg",
+      "promotore": true,
+      "spazi": ["home", "luoghi"]
+    }
+  ]
+}

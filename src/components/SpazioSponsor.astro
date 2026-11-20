@@ -1,13 +1,31 @@
 ---
-// Spazio per uno sponsor. Finché nessuno lo affitta mostra un invito a chiedere un preventivo dal modulo del sito
+// Spazio per uno sponsor (elenco in src/data/sponsor.json). Sempre con l'etichetta «Sponsor», senza tracciamento.
+// Se nessuno sponsor occupa questo spazio, mostra l'invito a chiedere un preventivo dal modulo del sito
 // (non un link «mailto:», che su molti computer apre pagine di errore).
-// Quando c'è uno sponsor, si sostituisce il contenuto con il suo messaggio (sempre con l'etichetta «Sponsor», senza tracciamento).
-//  - compatto: barra di una riga, per tutte le pagine; senza: riquadro più grande, per home e luoghi.
+//  - spazio="barra": barra di una riga, in tutte le pagine tranne home e luoghi; "home" e "luoghi": riquadro più grande.
 import { href } from '../lib/sito';
-interface Props { compatto?: boolean }
-const { compatto = false } = Astro.props;
+import dati from '../data/sponsor.json';
+interface Props { spazio: 'home' | 'barra' | 'luoghi' }
+const { spazio } = Astro.props;
+const s = (dati.sponsor as { nome: string; titolo: string; testo: string; link: string; testoLink: string; logo?: string; promotore?: boolean; spazi: string[] }[]).find((x) => x.spazi.includes(spazio));
 ---
-{compatto
+{s && spazio === 'barra'
+  ? <aside class="sponsor-barra" aria-label="Sponsor">
+      <span class="sponsor-spazio__etichetta">Sponsor</span>
+      {s.logo && <img class="sponsor-logo sponsor-logo--piccolo" src={href(s.logo)} alt="" width="28" height="28" loading="lazy" />}
+      <span class="sponsor-barra__testo"><b>{s.titolo}.</b></span>
+      <a class="sponsor-barra__link" href={s.link} rel="noopener">{s.testoLink}</a>
+    </aside>
+  : s
+  ? <aside class="sponsor-spazio sponsor-spazio--occupato" aria-label="Sponsor">
+      <span class="sponsor-spazio__etichetta">Sponsor</span>
+      <div class="sponsor-spazio__riga">
+        {s.logo && <a href={s.link} rel="noopener" tabindex="-1" aria-hidden="true"><img class="sponsor-logo" src={href(s.logo)} alt="" width="64" height="64" /></a>}
+        <p><b>{s.titolo}.</b> {s.testo} <a class="sponsor-spazio__link" href={s.link} rel="noopener">{s.testoLink}</a></p>
+      </div>
+      <p class="sponsor-spazio__nota">{s.promotore ? `${s.nome} è il promotore di LiveLocal. ` : ''}Vuoi uno spazio anche tu? <a href={href('/sponsor/#richiesta')}>Richiedi un preventivo</a></p>
+    </aside>
+  : spazio === 'barra'
   ? <aside class="sponsor-barra" aria-label="Spazio per sponsor">
       <span class="sponsor-spazio__etichetta">Sponsor</span>
       <span class="sponsor-barra__testo"><b>Spazio disponibile.</b> Fai conoscere la tua attività qui.</span>

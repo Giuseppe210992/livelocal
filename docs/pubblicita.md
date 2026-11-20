@@ -14,3 +14,7 @@ Decisione di Giuseppe (16/11/2026): offrire a chi vuole la possibilità di **aff
 - Il pulsante «Scrivici per un preventivo» usava un link `mailto:`: sui computer senza programma di posta apriva una pagina «403 Forbidden» (nginx) del gestore di posta web. Ora c'è un **modulo** in `/sponsor/#richiesta` (script `src/scripts/sponsor.ts`, invio con Web3Forms come il modulo eventi): nome attività, referente, telefono o email (privati), spazio, zona, periodo, messaggio. L'indirizzo email resta scritto come testo.
 - Posizione: riquadro «Sponsor» **in cima alla home**, subito sotto il titolo e sopra la ricerca; riquadro in cima a «Luoghi da visitare»; **barra di una riga** sotto l'intestazione di tutte le altre pagine di eventi e luoghi (non su mappe, moduli e pagine legali). Quando c'è uno sponsor, si sostituisce il testo in `src/components/SpazioSponsor.astro` (sempre con l'etichetta «Sponsor»).
 - Privacy: aggiunta la riga sulle richieste di preventivo.
+
+## 20/11/2026, sera — Room & Relax come sponsor principale
+
+Gli sponsor si gestiscono in `src/data/sponsor.json` (nome, titolo, testo, link, logo, `spazi`: home, barra, luoghi), senza toccare il codice. Room & Relax occupa **home** e **luoghi da visitare**, con il logo (`public/sponsor/room-and-relax.svg`, ridisegnato in SVG dalla foto del logo: se si vuole l'originale, sostituire quel file) e con la dichiarazione «è il promotore di LiveLocal». La **barra** sotto l'intestazione delle altre pagine resta «Spazio disponibile» per attirare altri sponsor. Per togliere Room & Relax dagli spazi: svuotare `spazi`.

@@ -394,3 +394,9 @@ main li { margin-bottom: .35rem; }
 .sponsor-barra .sponsor-spazio__etichetta { margin: 0; }
 .sponsor-barra__testo { flex: 1 1 14rem; }
 .sponsor-barra__link, .sponsor-spazio__link { font-weight: 700; }
+.sponsor-spazio--occupato { border-style: solid; color: var(--testo); }
+.sponsor-spazio--occupato p + p { margin-top: 6px; }
+.sponsor-spazio__nota { font-size: .8rem; color: var(--tenue); }
+.sponsor-spazio__riga { display: flex; gap: 14px; align-items: center; }
+.sponsor-logo { display: block; flex: none; width: 64px; height: 64px; border-radius: 8px; }
+.sponsor-logo--piccolo { width: 28px; height: 28px; border-radius: 5px; }
