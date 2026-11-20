@@ -237,6 +237,9 @@ const META_TOKEN = process.env.META_TOKEN || '';
 const MAX_IG = Number(process.env.MAX_IG_LOCALI || 60); // chiamate a Instagram per giro (Meta ne tollera circa 200 all'ora, in comune con l'altro controllo)
 const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 240);
 
+const modalitaPortali = args.includes('--portali');
+const fileStatoPortali = 'ricerca/portali-stato.json'; // per ogni comune: ultimo controllo della pagina del portale e impronta del contenuto
+const statoPortali = existsSync(fileStatoPortali) ? JSON.parse(readFileSync(fileStatoPortali, 'utf8')) : {};
 const modalitaRicerca = args.includes('--ricerca');
 const fileStatoRicerca = 'ricerca/ricerca-stato.json'; // per ogni comune: ultima ricerca web e quanti eventi ha dato
 const statoRicerca = existsSync(fileStatoRicerca) ? JSON.parse(readFileSync(fileStatoRicerca, 'utf8')) : {};
@@ -550,8 +553,42 @@ async function preparaRicerca(quanti) {
   return out;
 }
 
+// ---- Modalità --portali: la pagina «Eventi a <comune>» dei portali di eventi (per ora cheventi.it, il cui robots.txt consente la lettura), un comune alla volta ----
+const PORTALI = [{ nome: 'cheventi.it', url: (r, p, c) => `https://www.cheventi.it/regioni/${r.slug}/${p.slug}/${c.slug}` }];
+// Dalla pagina interessa solo «Prossimi eventi»: il resto (meteo, archivio degli eventi passati) cambia ogni giorno e confonderebbe sia l'impronta sia il modello.
+function tagliaPortale(testo) {
+  const i = testo.search(/Prossimi eventi a /i);
+  if (i < 0) return testo;
+  const resto = testo.slice(i + 10);
+  const f = resto.search(/Organizzatori più attivi|Altri eventi in provincia|Previsioni meteo|Eventi passati/i);
+  return testo.slice(i, f < 0 ? undefined : i + 10 + f);
+}
+async function preparaPortali(quanti) {
+  const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
+  const prov = new Map(territorio.province.map((p) => [p.codiceIstat, p]));
+  const reg = new Map(territorio.regioni.map((r) => [r.codiceIstat, r]));
+  const abitanti = existsSync(fileAbitanti) ? JSON.parse(readFileSync(fileAbitanti, 'utf8')) : {};
+  const solo = opz('--solo') ? new Set(opz('--solo').split(',')) : null;
+  const giorniDa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
+  const dovuto = (c) => { if (solo) return solo.has(c.codiceIstat); const s = statoPortali[c.codiceIstat]; return !s || giorniDa(s.ultima) >= (s.esito === 'assente' ? 30 : 2); };
+  const coda = territorio.comuni.filter((c) => (solo || (abitanti[c.codiceIstat] ?? 0) >= 8000) && dovuto(c))
+    .sort((a, b) => Number(!!statoPortali[a.codiceIstat]) - Number(!!statoPortali[b.codiceIstat]) || (abitanti[b.codiceIstat] ?? 0) - (abitanti[a.codiceIstat] ?? 0)).slice(0, quanti);
+  const out = [];
+  for (const c of coda) {
+    const p = prov.get(c.provincia), r = p && reg.get(p.regione);
+    if (!p || !r) continue;
+    for (const portale of PORTALI) {
+      const hint = `La pagina è l'elenco «Prossimi eventi» del comune di ${c.nome} (${p.sigla}) su ${portale.nome}, con i collegamenti alle schede dei singoli eventi. Scrivi SOLO eventi che si svolgono a ${c.nome}: comune: ${c.nome}, provincia: ${p.sigla}. Il luogo (nome del posto) c'è solo nelle schede di dettaglio: se manca, salta l'evento. Ignora eventi passati e annullati.`;
+      out.push({ nome: `${portale.nome}: ${c.nome}`, url: portale.url(r, p, c), tipo: 'aggregatore', dettagli: true, codicePortale: c.codiceIstat, comuneNome: c.nome, siglaProv: p.sigla, hint, hash: statoPortali[c.codiceIstat]?.hash });
+    }
+  }
+  console.log(`Portali: ${out.length} pagine da leggere (${coda.length} comuni).`);
+  return out;
+}
+
 let elenco;
-if (modalitaRicerca) elenco = await preparaRicerca(/^\d+$/.test(opz('--ricerca') ?? '') ? Number(opz('--ricerca')) : Number(process.env.COMUNI_RICERCA_PER_GIRO || 25));
+if (modalitaPortali) elenco = await preparaPortali(/^\d+$/.test(opz('--portali') ?? '') ? Number(opz('--portali')) : Number(process.env.COMUNI_PORTALI_PER_GIRO || 60));
+else if (modalitaRicerca) elenco = await preparaRicerca(/^\d+$/.test(opz('--ricerca') ?? '') ? Number(opz('--ricerca')) : Number(process.env.COMUNI_RICERCA_PER_GIRO || 25));
 else if (modalitaLocali) elenco = await preparaLocali(Number(process.env.LOCALI_PER_GIRO || 80));
 else if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
 else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false, codiceComune: process.env.TEST_CODICE, hash: process.env.TEST_HASH }];
@@ -570,8 +607,8 @@ else {
 }
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
-if (!modalitaComuni && !modalitaLocali && !modalitaRicerca) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
-if (!modalitaComuni && !modalitaLocali && !modalitaRicerca) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
+if (!modalitaComuni && !modalitaLocali && !modalitaRicerca && !modalitaPortali) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
+if (!modalitaComuni && !modalitaLocali && !modalitaRicerca && !modalitaPortali) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
 // Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
 if (!simula && !args.includes('--prompt')) {
@@ -602,8 +639,13 @@ async function lavora(fonte) {
       const prec = statoLocali[fonte.codiceLocale] ?? {};
       statoLocali[fonte.codiceLocale] = { ultima: OGGI, esito: riga.esito === 'invariata' ? (prec.esito ?? 'nessun-evento') : riga.esito.startsWith('ok') ? (nuovi.length ? 'eventi' : 'nessun-evento') : 'illeggibile', eventi: riga.esito === 'invariata' ? (prec.eventi ?? 0) : nuovi.length, hash: hashNuovo ?? prec.hash };
     }
+    if (fonte.codicePortale) {
+      const prec = statoPortali[fonte.codicePortale] ?? {};
+      statoPortali[fonte.codicePortale] = riga.esito === 'invariata' ? { ...prec, ultima: OGGI }
+        : { ultima: OGGI, esito: riga.esito.startsWith('ok') ? (nuovi.length ? 'eventi' : 'nessun-evento') : /HTTP 404|HTTP 410/.test(riga.esito) ? 'assente' : 'illeggibile', eventi: nuovi.length, hash: hashNuovo ?? prec.hash };
+    }
     if (fonte.codiceRicerca) statoRicerca[fonte.codiceRicerca] = { ultima: OGGI, pagine: fonte.pagineDirette?.length ?? 0, eventi: nuovi.length };
-    if (!fonte.codiceComune && !fonte.codiceLocale && !fonte.codiceRicerca) stato.fonti[fonte.url] = riga;
+    if (!fonte.codiceComune && !fonte.codiceLocale && !fonte.codiceRicerca && !fonte.codicePortale) stato.fonti[fonte.url] = riga;
     if (fonte.codiceComune) {
       const letto = riga.esito.startsWith('ok');
       if (riga.esito === 'invariata') progresso.fatti[fonte.codiceComune] = { ...(progresso.fatti[fonte.codiceComune] ?? { esito: 'nessun-evento', eventi: 0 }), data: OGGI };
@@ -623,8 +665,12 @@ async function lavora(fonte) {
     const telegram = !fonte.pagineDirette && eTelegram(fonte.url) ? paginePubblicheTelegram(html) : null;
     if (telegram && !telegram.length) { riga.esito = 'ok: nessun messaggio nuovo'; riga.falliti = 0; righe.push(`  =    ${fonte.nome}: nessun messaggio nuovo negli ultimi 30 giorni`); return chiudi(); }
     const pagine = fonte.pagineDirette ?? telegram ?? [{ url: normUrl(fonte.url), testo: htmlInTesto(html).slice(0, MAX_TESTO) }];
+    if (fonte.codicePortale) {
+      pagine[0].testo = tagliaPortale(pagine[0].testo);
+      if (/non risultano eventi|nessun evento in programma/i.test(pagine[0].testo) || pagine[0].testo.length < 80) { riga.esito = 'ok: nessun evento futuro'; riga.falliti = 0; hashNuovo = createHash('sha1').update(pagine[0].testo).digest('hex').slice(0, 16); righe.push(`  =    ${fonte.nome}: nessun evento in programma (nessuna richiesta al modello)`); return chiudi(); }
+    }
     if (fonte.dettagli && !htmlLocale && html) {
-      for (const link of linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI)) {
+      for (const link of linkDettaglio(html, urlFinale).slice(0, fonte.codicePortale ? 6 : MAX_DETTAGLI)) {
         await pausa(1200);
         const d = await scarica(link);
         if (!d.errore) pagine.push({ url: link, testo: htmlInTesto(d.html).slice(0, MAX_TESTO_DETTAGLIO) });
@@ -632,7 +678,7 @@ async function lavora(fonte) {
     }
     if (!fonte.pagineDirette && !telegram && pagine[0].testo.length < 200) { riga.esito = 'pagina vuota (probabile contenuto caricato con JavaScript)'; righe.push(`  --  ${fonte.nome}: ${riga.esito}`); return chiudi(); }
     // Ricontrollo giornaliero: se la pagina (e l'elenco delle sue schede) non è cambiata dall'ultima volta, non serve chiedere niente al modello.
-    if (fonte.codiceComune || fonte.codiceLocale) {
+    if (fonte.codiceComune || fonte.codiceLocale || fonte.codicePortale) {
       const schede = fonte.dettagli && !htmlLocale && html ? linkDettaglio(html, urlFinale).slice(0, MAX_DETTAGLI) : [];
       hashNuovo = createHash('sha1').update(fonte.pagineDirette ? pagine.map((p) => p.testo).join('\n') : pagine[0].testo + '\n' + schede.join('\n')).digest('hex').slice(0, 16);
       if (process.env.DEBUG_HASH) console.log('hash', hashNuovo);
@@ -653,7 +699,8 @@ async function lavora(fonte) {
       if (fonte.locale) { e.luogo = fonte.locale.nome; e.comune = fonte.locale.comune; e.provincia = fonte.locale.sigla; e.organizzatore = fonte.locale.nome; }
       const motivi = controlla(e, mappa, !!fonte.locale);
       if (fonte.codiceRicerca && norm(String(e.comune ?? '')) !== norm(fonte.comuneNome)) motivi.push(`il comune non è ${fonte.comuneNome}`);
-      if (fonte.codiceRicerca && String(e.fine || e.inizio).slice(0, 10) < OGGI) motivi.push('evento già concluso'); // le pagine della ricerca possono essere vecchie: si tengono solo eventi da oggi in poi
+      if (fonte.codicePortale) { e.comune = fonte.comuneNome; e.provincia = fonte.siglaProv; }
+      if ((fonte.codiceRicerca || fonte.codicePortale) && String(e.fine || e.inizio).slice(0, 10) < OGGI) motivi.push('evento già concluso'); // le pagine della ricerca possono essere vecchie: si tengono solo eventi da oggi in poi
       if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();
       nuovi.push([
@@ -704,6 +751,7 @@ if (prova) {
 console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
 if (modalitaLocali) writeFileSync(fileStatoLocali, JSON.stringify(statoLocali) + '\n');
+if (modalitaPortali) writeFileSync(fileStatoPortali, JSON.stringify(statoPortali) + '\n');
 if (modalitaRicerca) writeFileSync(fileStatoRicerca, JSON.stringify(statoRicerca) + '\n');
 if (modalitaComuni) {
   writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
