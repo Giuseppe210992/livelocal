@@ -21,7 +21,6 @@ if (!CHIAVE) {
 }
 
 const leggi = (testo) => JSON.parse(testo).filter((e) => e.stato === 'pubblicato' || e.stato === 'annullato' || e.stato === 'rinviato');
-const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8')).filter(inCorso);
 // Gli eventi già conclusi non si inviano: restano online come archivio ma non servono a nessuno nell'indice.
 const OGGI = new Date().toISOString().slice(0, 10);
 // Fase di indicizzazione (src/data/indicizzazione.json): si avvisa solo per ciò che le pagine lasciano indicizzare.
@@ -29,6 +28,7 @@ const FASE = JSON.parse(readFileSync('src/data/indicizzazione.json', 'utf8')).fa
 const GIORNI = FASE >= 3 ? 21 : FASE === 2 ? 7 : 0;
 const LIMITE = new Date(Date.now() + GIORNI * 86400000).toISOString().slice(0, 10);
 const inCorso = (e) => GIORNI > 0 && (e.fine || e.inizio).slice(0, 10) >= OGGI && e.inizio.slice(0, 10) <= LIMITE;
+const adesso = leggi(readFileSync('src/data/eventi.json', 'utf8')).filter(inCorso);
 const percorso = (e) => `/evento/${e.inizio.slice(0, 4)}/${e.slug}/`;
 
 let daInviare;
