@@ -1,7 +1,9 @@
 {
   "_nota": "Locali aggiunti a mano o trovati con la ricerca sul web (non da OpenStreetMap): stesso formato di locali.json, ma questo file NON viene rigenerato. Il profilo Instagram deve essere professionale per essere letto. Le coordinate sono quelle del paese quando non si conosce il punto esatto. Solo nomi pubblici di attività, mai persone.",
   "locali": [
-    {"id":"m-fuga_pub_scauri","nome":"Fuga Pub","tipo":"pub","comune":"059014","indirizzo":"Via Appia 841, Scauri","lat":41.2550733,"lon":13.7129771,"instagram":"fuga_pub_scauri","live":true},
-    {"id":"m-terrazza_aurora_","nome":"Terrazza Aurora","tipo":"bar","comune":"059009","indirizzo":"Via Marina di Serapo 11, Gaeta","lat":41.23488,"lon":13.54033,"instagram":"terrazza_aurora_","live":true}
+    {"id": "m-fuga_pub_scauri", "nome": "Fuga Pub", "tipo": "pub", "comune": "059014", "indirizzo": "Via Appia 841, Scauri", "lat": 41.2550733, "lon": 13.7129771, "instagram": "fuga_pub_scauri", "live": true},
+    {"id": "m-terrazza_aurora_", "nome": "Terrazza Aurora", "tipo": "bar", "comune": "059009", "indirizzo": "Via Marina di Serapo 11, Gaeta", "lat": 41.23488, "lon": 13.54033, "instagram": "terrazza_aurora_", "live": true},
+    {"id": "m-thesensesclub", "nome": "The Senses Club", "tipo": "nightclub", "comune": "059007", "indirizzo": "Fondi (litorale)", "lat": 41.33594, "lon": 13.40963, "instagram": "thesensesclub", "live": true},
+    {"id": "m-imperiolatino.fondi", "nome": "Imperio Latino", "tipo": "nightclub", "comune": "059007", "indirizzo": "Fondi", "lat": 41.33594, "lon": 13.40963, "instagram": "imperiolatino.fondi", "live": true}
   ]
 }
