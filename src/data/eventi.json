@@ -273608,5 +273608,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-20",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stare-insieme-leggendo-nati-per-leggere-camisano-vicentino-2026-11-21",
+    "titolo": "Stare insieme leggendo – Nati per Leggere",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "luogo": "Biblioteca Civica «L. Grisotto»",
+    "indirizzo": "via Brigata Orobica 19",
+    "comune": "024021",
+    "lat": 45.52555,
+    "lon": 11.71188,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture animate con attività laboratoriali per bambini e famiglie, nella Settimana Nazionale Nati per Leggere 2026. Alle 11.30 consegna degli attestati ai giovani lettori della Maratonina Estiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Camisano Vicentino",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Camisano Vicentino",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1wuUaMJN2/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
