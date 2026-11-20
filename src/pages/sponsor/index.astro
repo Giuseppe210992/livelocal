@@ -11,8 +11,7 @@ const email = IMPOSTAZIONI.emailContatto;
 const voci = [{ nome: 'Pubblicità e sponsor', percorso: '/sponsor/' }];
 const nEventi = prossimi().length.toLocaleString('it-IT');
 const nLuoghi = (totaleLuoghi() + luoghiEuropa.length).toLocaleString('it-IT');
-const corpo = encodeURIComponent('Buongiorno,\nvorrei informazioni su uno spazio pubblicitario su LiveLocal.\n\nAttività: \nZona o territorio: \nPeriodo: \nTelefono: \n');
-const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
+const attivo = Boolean(IMPOSTAZIONI.formKey);
 ---
 <Base
   titolo={`Pubblicità e sponsor: affitta uno spazio su ${SITO.nome}`}
@@ -25,8 +24,8 @@ const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
     <p class="apertura__sopra">Per le attività</p>
     <h1>Fai conoscere la tua attività su {SITO.nome}</h1>
     <p class="apertura__testo">{SITO.nome} è un calendario gratuito di eventi e luoghi da visitare. Se hai un hotel, un B&amp;B, un ristorante, una guida, un museo o organizzi eventi, puoi affittare uno spazio sponsor accanto a chi cerca cosa fare.</p>
-    <p><a class="bottone bottone--evento" href={`mailto:${email}?subject=${oggetto}&body=${corpo}`}>Scrivici per un preventivo</a></p>
-    <p class="fonte-luogo">Oppure scrivi a <a href={`mailto:${email}?subject=${oggetto}`}>{email}</a>. Rispondiamo di persona.</p>
+    <p><a class="bottone bottone--evento" href="#richiesta">Richiedi un preventivo</a></p>
+    <p class="fonte-luogo">Compili il modulo qui sotto in un minuto e ti rispondiamo di persona. Preferisci l'email? L'indirizzo è {email}.</p>
   </section>
 
   <h2>Cosa c'è oggi sul sito</h2>
@@ -39,8 +38,9 @@ const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
 
   <h2>Che spazi puoi affittare</h2>
   <ul class="elenco-sponsor">
-    <li><b>Spazio in home.</b> Un riquadro «Sponsor» sotto la ricerca degli eventi, la prima pagina che vede chi arriva.</li>
-    <li><b>Spazio nei luoghi da visitare.</b> Un riquadro nella sezione dei musei, dei monumenti e delle mappe dei luoghi, utile per chi ospita o guida i turisti.</li>
+    <li><b>Spazio in home.</b> Un riquadro «Sponsor» in cima alla prima pagina, subito sotto il titolo: la prima cosa che vede chi arriva.</li>
+    <li><b>Spazio in tutte le pagine.</b> Una barra «Sponsor» sotto l'intestazione di ogni pagina degli eventi e dei luoghi: il tuo messaggio compare dove si naviga di più.</li>
+    <li><b>Spazio nei luoghi da visitare.</b> Un riquadro in cima alla sezione dei musei e dei monumenti, utile per chi ospita o guida i turisti.</li>
     <li><b>Spazio del tuo territorio.</b> Un riquadro nelle pagine degli eventi della tua provincia o del tuo comune, per chi lavora in una zona precisa.</li>
   </ul>
   <p>Ogni spazio ha un testo breve, un'immagine facoltativa e un collegamento al tuo sito o ai tuoi contatti. Durata e prezzo si concordano: il costo dipende dallo spazio e dal periodo, e te lo diciamo prima, per iscritto.</p>
@@ -53,5 +53,46 @@ const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
     <li>Non accettiamo pubblicità ingannevole, illecita o per adulti.</li>
   </ul>
 
+  <h2 id="richiesta">Richiedi un preventivo</h2>
+  <p>Nessun impegno: ti diciamo prezzo e durata per iscritto prima di qualsiasi accordo. Telefono ed email restano privati e non vengono mai pubblicati.</p>
+  <form id="richiesta-sponsor" class="modulo" novalidate data-chiave={IMPOSTAZIONI.formKey}>
+    <fieldset>
+      <legend>La tua attività</legend>
+      <label>Nome dell'attività<input name="attivita" required maxlength="100" autocomplete="organization" /></label>
+      <label>Il tuo nome<input name="referente" required maxlength="80" autocomplete="name" /></label>
+      <label>Telefono<input name="telefono" type="tel" inputmode="tel" maxlength="20" autocomplete="tel" /></label>
+      <label>Email<input name="email" type="email" inputmode="email" maxlength="120" autocomplete="email" /><small>Basta uno dei due, telefono o email.</small></label>
+    </fieldset>
+    <fieldset>
+      <legend>Cosa ti interessa</legend>
+      <label>Spazio
+        <select name="spazio" required>
+          <option value="">Scegli…</option>
+          <option>Home (in cima alla prima pagina)</option>
+          <option>Tutte le pagine (barra in alto)</option>
+          <option>Luoghi da visitare</option>
+          <option>Territorio (provincia o comune)</option>
+          <option>Non so, vorrei un consiglio</option>
+        </select>
+      </label>
+      <label>Zona o territorio (facoltativo)<input name="zona" maxlength="100" placeholder="Per esempio: Minturno e Golfo di Gaeta" /></label>
+      <label>Periodo (facoltativo)<input name="periodo" maxlength="80" placeholder="Per esempio: dicembre e gennaio" /></label>
+      <label>Messaggio (facoltativo)<textarea name="messaggio" rows="4" maxlength="600"></textarea></label>
+      <label class="radio consenso"><input type="checkbox" name="consenso" required /><span>Ho letto l'<a href={href('/privacy/')}>informativa privacy</a> e accetto di essere ricontattato.</span></label>
+      <input class="miele" type="text" name="sito_web" tabindex="-1" autocomplete="off" aria-hidden="true" />
+    </fieldset>
+    <p class="stato-modulo" id="stato-richiesta" role="status" aria-live="polite"></p>
+    <button class="bottone" type="submit" id="invia-richiesta" disabled={!attivo}>Invia la richiesta</button>
+  </form>
+  <div class="grazie" id="grazie-richiesta" hidden>
+    <h2>Richiesta ricevuta, grazie!</h2>
+    <p>Ti rispondiamo di persona al più presto, con prezzo e durata per iscritto.</p>
+  </div>
+
   <p class="nota">Vuoi invece segnalare un evento? È sempre gratis: <a href={href('/segnala/')}>segnala un evento</a>.</p>
 </Base>
+
+<script>
+  import { avviaRichiestaSponsor } from '../../scripts/sponsor';
+  avviaRichiestaSponsor();
+</script>

@@ -389,3 +389,8 @@ main li { margin-bottom: .35rem; }
 .sponsor-spazio__etichetta { display: inline-block; margin-bottom: 6px; padding: 2px 8px; border-radius: 999px; background: var(--grigio-tenue); color: var(--tenue); font-size: .7rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
 .elenco-sponsor { padding-left: 1.1rem; }
 .elenco-sponsor li { margin-bottom: 8px; }
+/* Barra sponsor di una riga, sotto l'intestazione di quasi tutte le pagine */
+.sponsor-barra { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; margin: 10px 0 0; padding: 8px 12px; background: var(--carta); border: 1px dashed var(--bordo); border-radius: var(--raggio); font-size: .88rem; color: var(--tenue); }
+.sponsor-barra .sponsor-spazio__etichetta { margin: 0; }
+.sponsor-barra__testo { flex: 1 1 14rem; }
+.sponsor-barra__link, .sponsor-spazio__link { font-weight: 700; }

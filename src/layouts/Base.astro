@@ -3,6 +3,7 @@
 import { SITO, IMPOSTAZIONI, href, urlAssoluto } from '../lib/sito';
 import '../styles/globale.css';
 import { paginaIndicizzabile } from '../lib/indicizzazione';
+import SpazioSponsor from '../components/SpazioSponsor.astro';
 
 interface Props {
   titolo: string;          // <title>, unico per pagina
@@ -10,13 +11,16 @@ interface Props {
   percorso: string;        // es. /eventi/lazio/latina/minturno/ (serve per l'URL canonico)
   jsonLd?: object[];       // dati strutturati schema.org
   tipoOg?: 'website' | 'article';
+  senzaSponsor?: boolean;  // non mostrare la barra sponsor (pagine che hanno già il loro riquadro, mappe, moduli)
   noindex?: boolean;       // pagina online ma da non far indicizzare (es. evento lontano nel tempo o concluso)
   immagine?: string;       // percorso dell'immagine per le anteprime (se manca: quella del sito)
 }
 
-const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', noindex = false, immagine = '/condivisione.png' } = Astro.props;
+const { titolo, descrizione, percorso, jsonLd = [], tipoOg = 'website', noindex = false, senzaSponsor = false, immagine = '/condivisione.png' } = Astro.props;
 const canonico = urlAssoluto(percorso);
 // Le pagine evento decidono da sole (noindex); per le altre conta la fase di indicizzazione (src/lib/indicizzazione.ts).
+const SENZA_BARRA = ['/', '/luoghi/', '/mappa/', '/vicino-a-me/', '/luoghi/mappa/', '/luoghi/europa/', '/sponsor/', '/segnala/', '/segnala/modulo/', '/privacy/'];
+const barraSponsor = !senzaSponsor && !SENZA_BARRA.includes(percorso);
 const nascondi = noindex || (!percorso.startsWith('/evento/') && !paginaIndicizzabile(percorso));
 const immagineOg = urlAssoluto(immagine);
 ---
@@ -73,6 +77,8 @@ const immagineOg = urlAssoluto(immagine);
         </nav>
       </div>
     </header>
+
+    {barraSponsor && <div class="contenitore"><SpazioSponsor compatto /></div>}
 
     <main id="contenuto" class="contenitore">
       <slot />

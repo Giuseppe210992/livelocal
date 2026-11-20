@@ -31,6 +31,8 @@ const verificati = luoghi.length; // oltre questa soglia l'elenco si divide per 
     <p class="nota">Vuoi i luoghi fuori dall'Italia? Guarda l'<a href={href('/luoghi/europa/')}>Europa</a>. Cerchi concerti, mostre o sagre? Vai agli <a href={href('/')}>eventi</a> o alla <a href={href('/mappa/')}>mappa degli eventi</a>.</p>
   </section>
 
+  <SpazioSponsor />
+
   {totaleLuoghi() <= TANTI ? regioniConLuoghi().map((r) => (
     <>
       <h2 class="titoletto">{r.nome}</h2>
@@ -50,7 +52,6 @@ const verificati = luoghi.length; // oltre questa soglia l'elenco si divide per 
     </>
   ))}
 
-  <SpazioSponsor />
 
   <section class="nota" aria-labelledby="titolo-mancano">
     <h2 id="titolo-mancano" style="margin-top:0;font-size:1.05rem">Stiamo aggiungendo i luoghi zona per zona</h2>

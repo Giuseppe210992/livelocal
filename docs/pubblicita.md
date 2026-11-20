@@ -8,3 +8,9 @@ Decisione di Giuseppe (16/11/2026): offrire a chi vuole la possibilità di **aff
 - Prezzi: non scritti sul sito, si concordano per iscritto.
 - **Da vedere con un commercialista prima di incassare**: sponsor fissi sono un'attività abituale, quindi servirà partita IVA oppure un'associazione/APS (già nel brief, sezione «Contesto fiscale e legale»). Il sito non fattura né incassa: lo fa Giuseppe fuori dal sito.
 - Privacy: la pagina non raccoglie dati; le richieste arrivano per email al contatto pubblico.
+
+## 20/11/2026 — preventivo dal modulo, spazi più visibili
+
+- Il pulsante «Scrivici per un preventivo» usava un link `mailto:`: sui computer senza programma di posta apriva una pagina «403 Forbidden» (nginx) del gestore di posta web. Ora c'è un **modulo** in `/sponsor/#richiesta` (script `src/scripts/sponsor.ts`, invio con Web3Forms come il modulo eventi): nome attività, referente, telefono o email (privati), spazio, zona, periodo, messaggio. L'indirizzo email resta scritto come testo.
+- Posizione: riquadro «Sponsor» **in cima alla home**, subito sotto il titolo e sopra la ricerca; riquadro in cima a «Luoghi da visitare»; **barra di una riga** sotto l'intestazione di tutte le altre pagine di eventi e luoghi (non su mappe, moduli e pagine legali). Quando c'è uno sponsor, si sostituisce il testo in `src/components/SpazioSponsor.astro` (sempre con l'etichetta «Sponsor»).
+- Privacy: aggiunta la riga sulle richieste di preventivo.

@@ -1,11 +1,19 @@
 ---
-// Spazio per uno sponsor. Finché nessuno lo affitta mostra un invito a contattare il titolare.
+// Spazio per uno sponsor. Finché nessuno lo affitta mostra un invito a chiedere un preventivo dal modulo del sito
+// (non un link «mailto:», che su molti computer apre pagine di errore).
 // Quando c'è uno sponsor, si sostituisce il contenuto con il suo messaggio (sempre con l'etichetta «Sponsor», senza tracciamento).
-import { IMPOSTAZIONI, href } from '../lib/sito';
-const email = IMPOSTAZIONI.emailContatto;
-const oggetto = encodeURIComponent('Spazio pubblicitario su LiveLocal');
+//  - compatto: barra di una riga, per tutte le pagine; senza: riquadro più grande, per home e luoghi.
+import { href } from '../lib/sito';
+interface Props { compatto?: boolean }
+const { compatto = false } = Astro.props;
 ---
-<aside class="sponsor-spazio" aria-label="Spazio per sponsor">
-  <span class="sponsor-spazio__etichetta">Sponsor</span>
-  <p><b>Questo spazio è disponibile.</b> Vuoi far conoscere la tua attività a chi cerca eventi e luoghi da visitare? <a href={href('/sponsor/')}>Scopri come</a> oppure scrivi a <a href={`mailto:${email}?subject=${oggetto}`}>{email}</a>.</p>
-</aside>
+{compatto
+  ? <aside class="sponsor-barra" aria-label="Spazio per sponsor">
+      <span class="sponsor-spazio__etichetta">Sponsor</span>
+      <span class="sponsor-barra__testo"><b>Spazio disponibile.</b> Fai conoscere la tua attività qui.</span>
+      <a class="sponsor-barra__link" href={href('/sponsor/#richiesta')}>Richiedi un preventivo</a>
+    </aside>
+  : <aside class="sponsor-spazio" aria-label="Spazio per sponsor">
+      <span class="sponsor-spazio__etichetta">Sponsor</span>
+      <p><b>Questo spazio è disponibile.</b> Vuoi far conoscere la tua attività a chi cerca eventi e luoghi da visitare? <a class="sponsor-spazio__link" href={href('/sponsor/#richiesta')}>Richiedi un preventivo</a> · <a href={href('/sponsor/')}>Scopri come</a></p>
+    </aside>}
