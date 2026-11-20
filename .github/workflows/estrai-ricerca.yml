@@ -1,0 +1,87 @@
+# Cerca eventi con la RICERCA WEB GRATUITA di FreeLLMAPI (post ed eventi pubblici di Facebook e Instagram, siti dei locali, giornali), comune per comune,
+# e li estrae con un modello gratuito. Perché: le serate di bar e locali sono spesso solo su Facebook, che da GitHub non si legge direttamente.
+# Costo: zero (quota gratuita dei servizi di ricerca di FreeLLMAPI e dei suoi modelli). Per ora solo a mano: Actions → questo flusso → Run workflow.
+name: Estrai eventi con la ricerca web (FreeLLMAPI)
+
+on:
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: 'Solo prova: mostra cosa troverebbe, senza salvare'
+        type: boolean
+        default: true
+      comuni:
+        description: 'Quanti comuni in questo giro'
+        default: '10'
+      solo:
+        description: 'Solo questi comuni (codici ISTAT separati da virgola); vuoto = i più grandi mai cercati'
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estrai-eventi
+  cancel-in-progress: false
+
+jobs:
+  ricerca:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Cerca ed estrai
+        env:
+          FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
+          FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
+          FREELLMAPI_MODEL: ${{ vars.FREELLMAPI_MODEL }}
+          RICERCA_MAX_QUERY: '60'
+          BUDGET_MINUTI: '90'
+          CONCORRENZA: '3'
+          DEBUG_RICERCA: ${{ inputs.prova && '1' || '' }}
+          TZ: Europe/Rome
+        run: |
+          SOLO=""
+          if [ -n "${{ inputs.solo }}" ]; then SOLO="--solo ${{ inputs.solo }}"; fi
+          if [ "${{ inputs.prova }}" = "true" ]; then
+            node scripts/estrai-eventi-ia.mjs --ricerca ${{ inputs.comuni }} $SOLO --prova | tee giro.txt
+          else
+            node scripts/estrai-eventi-ia.mjs --ricerca ${{ inputs.comuni }} $SOLO | tee giro.txt
+          fi
+      - name: Controlla che il sito si costruisca
+        if: ${{ !inputs.prova }}
+        run: npm run build
+        env:
+          TZ: Europe/Rome
+      - name: Salva
+        if: ${{ !inputs.prova }}
+        run: |
+          git config user.name "livelocal-bot"
+          git config user.email "livelocal-bot@users.noreply.github.com"
+          git add src/data/eventi.json ricerca/consegne ricerca/ricerca-stato.json
+          if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
+          git commit -m "Estrazione automatica con la ricerca web (FreeLLMAPI): $(date +%F-%H%M)"
+          for i in 1 2 3 4; do
+            if ! git pull --rebase origin main; then
+              if node scripts/risolvi-conflitto-eventi.mjs; then
+                git add src/data/eventi.json ricerca/ricerca-stato.json
+                GIT_EDITOR=true git rebase --continue || { git rebase --abort; sleep $((i * 5)); continue; }
+              else
+                git rebase --abort; sleep $((i * 5)); continue
+              fi
+            fi
+            git push origin HEAD:main && break
+            sleep $((i * 5))
+          done
+      - name: Riepilogo
+        if: always()
+        run: |
+          echo '### Giro con la ricerca web' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          tail -80 giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

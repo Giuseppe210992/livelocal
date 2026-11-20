@@ -237,6 +237,10 @@ const META_TOKEN = process.env.META_TOKEN || '';
 const MAX_IG = Number(process.env.MAX_IG_LOCALI || 60); // chiamate a Instagram per giro (Meta ne tollera circa 200 all'ora, in comune con l'altro controllo)
 const PER_GIRO_COMUNI = Number(opz('--comuni') && /^\d+$/.test(opz('--comuni')) ? opz('--comuni') : process.env.COMUNI_PER_GIRO ?? 240);
 
+const modalitaRicerca = args.includes('--ricerca');
+const fileStatoRicerca = 'ricerca/ricerca-stato.json'; // per ogni comune: ultima ricerca web e quanti eventi ha dato
+const statoRicerca = existsSync(fileStatoRicerca) ? JSON.parse(readFileSync(fileStatoRicerca, 'utf8')) : {};
+
 const slugComune = (c) => c.slug;
 function indirizziComune(c, sigla) {
   const s = slugComune(c), g = sigla.toLowerCase();
@@ -475,8 +479,79 @@ async function preparaLocali(quanti) {
   return out;
 }
 
+// ---- Modalità --ricerca: eventi trovati con la RICERCA WEB gratuita di FreeLLMAPI (Facebook, Instagram, giornali, siti dei locali), comune per comune ----
+// Perché: molte serate di bar e locali sono solo su Facebook, che da GitHub non si legge (HTTP 400). I motori di ricerca invece mostrano il testo di post ed eventi
+// pubblici (data, orario, indirizzo). Qui si prendono quei testi, si tengono solo quelli che nominano il comune e si passano al solito controllo anti-invenzione.
+const GIORNI_IT = ['domenica', 'lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato'];
+function giorniProssimi() {
+  const out = [];
+  for (let d = 0; d < 9 && out.length < 3; d++) {
+    const t = new Date(Date.now() + d * 86400000);
+    const iso = t.toLocaleDateString('sv-SE', { timeZone: 'Europe/Rome' });
+    const w = new Date(iso + 'T12:00:00Z').getUTCDay();
+    if (w === 5 || w === 6 || w === 0) out.push({ iso, w, g: Number(iso.slice(8)), m: Number(iso.slice(5, 7)), a: iso.slice(0, 4) });
+  }
+  return out;
+}
+async function cercaWeb(query, max = 10) {
+  for (let tentativo = 1; tentativo <= 3; tentativo++) {
+    try {
+      const r = await fetch(`${BASE}/search`, { method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${CHIAVE}` }, body: JSON.stringify({ query, max_results: max }), signal: AbortSignal.timeout(60000) });
+      if (r.status === 429 || r.status >= 500) { await pausa(15000 * tentativo); continue; }
+      if (!r.ok) return { errore: `HTTP ${r.status}`, risultati: [] };
+      const j = await r.json();
+      if (process.env.DEBUG_RICERCA) console.log('RISPOSTA RICERCA (inizio):', JSON.stringify(j).slice(0, 600));
+      const arr = j.results ?? j.data?.results ?? j.data ?? j.items ?? [];
+      return { risultati: (Array.isArray(arr) ? arr : []).map((x) => ({ titolo: String(x.title ?? ''), url: String(x.url ?? x.link ?? ''), testo: String(x.content ?? x.snippet ?? x.text ?? '') })).filter((x) => x.url) };
+    } catch (e) { if (tentativo === 3) return { errore: String(e.message ?? e).slice(0, 60), risultati: [] }; await pausa(5000); }
+  }
+  return { errore: 'ricerca non raggiungibile', risultati: [] };
+}
+async function preparaRicerca(quanti) {
+  const territorio = JSON.parse(readFileSync('src/data/territorio.json', 'utf8'));
+  const siglaDi = new Map(territorio.province.map((p) => [p.codiceIstat, p.sigla]));
+  const abitanti = existsSync(fileAbitanti) ? JSON.parse(readFileSync(fileAbitanti, 'utf8')) : {};
+  const solo = opz('--solo') ? new Set(opz('--solo').split(',')) : null; // per le prove: codici ISTAT separati da virgola
+  const giorniDa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
+  const dovuto = (c) => solo ? solo.has(c.codiceIstat) : !statoRicerca[c.codiceIstat] || giorniDa(statoRicerca[c.codiceIstat].ultima) >= 3;
+  const coda = territorio.comuni.filter(dovuto)
+    .sort((a, b) => Number(!!statoRicerca[a.codiceIstat]) - Number(!!statoRicerca[b.codiceIstat]) || (abitanti[b.codiceIstat] ?? 0) - (abitanti[a.codiceIstat] ?? 0)).slice(0, quanti);
+  const gg = giorniProssimi();
+  const mese = MESI[Number(OGGI.slice(5, 7)) - 1];
+  const dataTesto = gg.length ? `${gg.map((x) => `${GIORNI_IT[x.w]} ${x.g}`).join(', ')} ${MESI[gg[0].m - 1]} ${gg[0].a}` : `${mese} ${OGGI.slice(0, 4)}`;
+  const out = [];
+  let nQuery = 0;
+  const MAX_QUERY = Number(process.env.RICERCA_MAX_QUERY ?? 60);
+  for (const c of coda) {
+    if (nQuery >= MAX_QUERY) break;
+    const sigla = siglaDi.get(c.provincia) ?? '';
+    const pagine = new Map();
+    const nomeNorm = norm(c.nome);
+    for (const q of [`eventi serate musica dal vivo ${c.nome} ${sigla} ${dataTesto}`, `${c.nome} evento serata locale pub ${mese} ${OGGI.slice(0, 4)} facebook instagram`]) {
+      nQuery++;
+      const r = await cercaWeb(q);
+      if (r.errore) { console.log(`  ricerca «${q.slice(0, 50)}…»: ${r.errore}`); if (/401|403|raggiungibile/.test(r.errore)) return out; continue; }
+      for (const x of r.risultati) {
+        const url = normUrl(x.url);
+        if (pagine.has(url) || urlNote.has(url)) continue;
+        const testo = `${x.titolo}\n${x.testo}`.trim();
+        if (testo.length < 60 || !` ${norm(testo)} `.includes(nomeNorm)) continue; // deve nominare il comune: la ricerca da sola pesca anche città lontane
+        pagine.set(url, { url, testo: testo.slice(0, 1800) });
+      }
+      await pausa(1200);
+    }
+    statoRicerca[c.codiceIstat] = { ultima: OGGI, pagine: pagine.size, eventi: 0 };
+    if (!pagine.size) continue;
+    const hint = `Le pagine qui sotto sono risultati di una ricerca web (post e eventi pubblici di Facebook e Instagram, siti di locali, giornali) sul comune di ${c.nome} (${sigla}). Scrivi SOLO gli eventi che si svolgono a ${c.nome} (o in una sua frazione): comune: ${c.nome}, provincia: ${sigla}; se il luogo è in un altro comune, salta l'evento. La data può essere scritta senza anno («sabato 21 novembre»): l'anno è quello più vicino a oggi nel futuro. Scrivi un evento per ogni serata o appuntamento distinto; ignora menù, offerte, promozioni senza una data, feste private, eventi su invito, eventi passati e pagine che sono solo la presentazione di un locale. fonte_url è l'indirizzo della pagina da cui hai letto la data.`;
+    out.push({ nome: `Ricerca web: ${c.nome}`, url: `ricerca:${c.codiceIstat}`, tipo: 'aggregatore', dettagli: false, codiceRicerca: c.codiceIstat, comuneNome: c.nome, hint, pagineDirette: [...pagine.values()].slice(0, 14) });
+  }
+  console.log(`Ricerca web: ${coda.length} comuni, ${nQuery} ricerche, ${out.length} comuni con pagine utili.`);
+  return out;
+}
+
 let elenco;
-if (modalitaLocali) elenco = await preparaLocali(Number(process.env.LOCALI_PER_GIRO || 80));
+if (modalitaRicerca) elenco = await preparaRicerca(/^\d+$/.test(opz('--ricerca') ?? '') ? Number(opz('--ricerca')) : Number(process.env.COMUNI_RICERCA_PER_GIRO || 25));
+else if (modalitaLocali) elenco = await preparaLocali(Number(process.env.LOCALI_PER_GIRO || 80));
 else if (modalitaComuni) elenco = await preparaComuni(PER_GIRO_COMUNI);
 else if (htmlLocale) elenco = [{ url: urlLocale, nome: 'Pagina di prova', tipo: 'ufficiale', dettagli: false, codiceComune: process.env.TEST_CODICE, hash: process.env.TEST_HASH }];
 else {
@@ -494,8 +569,8 @@ else {
 }
 const ROTTA_DA_GIORNI = 14;
 const giorniFa = (d) => (Date.now() - new Date(d || '2000-01-01').getTime()) / 86400000;
-if (!modalitaComuni && !modalitaLocali) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
-if (!modalitaComuni && !modalitaLocali) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
+if (!modalitaComuni && !modalitaLocali && !modalitaRicerca) elenco = elenco.filter((f) => { const s = stato.fonti[f.url]; return !(s && (s.falliti ?? 0) >= 3 && giorniFa(s.ultima) < ROTTA_DA_GIORNI); }); // pagine che falliscono da 3 giri: si riprova dopo 14 giorni
+if (!modalitaComuni && !modalitaLocali && !modalitaRicerca) elenco = [...elenco].sort((a, b) => (stato.fonti[a.url]?.ultima ?? '').localeCompare(stato.fonti[b.url]?.ultima ?? '')).slice(0, MAX_FONTI);
 
 // Prima di cominciare: il modello risponde? Se no, ci si ferma subito con un messaggio chiaro.
 if (!simula && !args.includes('--prompt')) {
@@ -526,7 +601,8 @@ async function lavora(fonte) {
       const prec = statoLocali[fonte.codiceLocale] ?? {};
       statoLocali[fonte.codiceLocale] = { ultima: OGGI, esito: riga.esito === 'invariata' ? (prec.esito ?? 'nessun-evento') : riga.esito.startsWith('ok') ? (nuovi.length ? 'eventi' : 'nessun-evento') : 'illeggibile', eventi: riga.esito === 'invariata' ? (prec.eventi ?? 0) : nuovi.length, hash: hashNuovo ?? prec.hash };
     }
-    if (!fonte.codiceComune && !fonte.codiceLocale) stato.fonti[fonte.url] = riga;
+    if (fonte.codiceRicerca) statoRicerca[fonte.codiceRicerca] = { ultima: OGGI, pagine: fonte.pagineDirette?.length ?? 0, eventi: nuovi.length };
+    if (!fonte.codiceComune && !fonte.codiceLocale && !fonte.codiceRicerca) stato.fonti[fonte.url] = riga;
     if (fonte.codiceComune) {
       const letto = riga.esito.startsWith('ok');
       if (riga.esito === 'invariata') progresso.fatti[fonte.codiceComune] = { ...(progresso.fatti[fonte.codiceComune] ?? { esito: 'nessun-evento', eventi: 0 }), data: OGGI };
@@ -575,6 +651,7 @@ async function lavora(fonte) {
     for (const e of trovati) {
       if (fonte.locale) { e.luogo = fonte.locale.nome; e.comune = fonte.locale.comune; e.provincia = fonte.locale.sigla; e.organizzatore = fonte.locale.nome; }
       const motivi = controlla(e, mappa, !!fonte.locale);
+      if (fonte.codiceRicerca && norm(String(e.comune ?? '')) !== norm(fonte.comuneNome)) motivi.push(`il comune non è ${fonte.comuneNome}`);
       if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();
       nuovi.push([
@@ -625,6 +702,7 @@ if (prova) {
 console.log('=== ESITO PER FONTE ===\n' + resoconto.join('\n'));
 writeFileSync(fileStato, JSON.stringify(stato, null, 1) + '\n');
 if (modalitaLocali) writeFileSync(fileStatoLocali, JSON.stringify(statoLocali) + '\n');
+if (modalitaRicerca) writeFileSync(fileStatoRicerca, JSON.stringify(statoRicerca) + '\n');
 if (modalitaComuni) {
   writeFileSync(fileProgresso, JSON.stringify(progresso, null, 1) + '\n');
   writeFileSync(filePagine, JSON.stringify(paginComuni) + '\n');
