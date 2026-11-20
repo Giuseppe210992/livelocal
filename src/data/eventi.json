@@ -119325,7 +119325,7 @@
     "slug": "il-domani-che-verra-maria-emanuela-bruni-maxxi-civita-castellana-2026-11-19",
     "titolo": "Il domani che verrà: l'arte nel futuro dei territori con Maria Emanuela Bruni",
     "categoria": "conferenza",
-    "inizio": "2026-11-19T17:00",
+    "inizio": "2026-12-09T17:00",
     "luogo": "Sala conferenze, Forte Sangallo",
     "indirizzo": "Civita Castellana",
     "cap": null,
@@ -119341,13 +119341,19 @@
     "prenotazione": null,
     "organizzatore": "Civitafestival",
     "stato": "pubblicato",
-    "inizioPrecedente": null,
+    "inizioPrecedente": "2026-11-19T17:00",
     "fonti": [
       {
         "nome": "Instagram Civitafestival",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/DfcPKNSnBrN/",
         "consultata": "2026-11-09"
+      },
+      {
+        "nome": "Instagram Civitafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4NIQDKaJ7/",
+        "consultata": "2026-11-20"
       }
     ],
     "inserito": "2026-11-09",
@@ -275169,6 +275175,88 @@
         "nome": "Instagram Fondazione Museo della Shoah",
         "tipo": "organizzatore",
         "url": "https://www.instagram.com/p/Df46Ja4uxeH/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "santucce-storm-festival-finalissima-teatro-mario-spina-castiglion-fiorentino-2026-12-04",
+    "titolo": "Santucce Storm Festival: finalissima con Emanuela Canepa",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04",
+    "luogo": "Teatro Mario Spina",
+    "comune": "051012",
+    "lat": 43.3293,
+    "lon": 11.92691,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata finale della 12ª edizione del Santucce Storm Festival, con ospite speciale la scrittrice Emanuela Canepa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Castiglion Fiorentino",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Castiglion Fiorentino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4kWuEBVmB/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "metamorfosi-mostra-sala-delle-ciminiere-civita-castellana-2026-12-13",
+    "titolo": "Metamorfosi: mostra di Prizia, Riccioni, Anzellini e Lupo",
+    "categoria": "mostra",
+    "inizio": "2026-12-13",
+    "fine": "2026-12-23",
+    "luogo": "Sala delle Ciminiere – Complesso MICE",
+    "comune": "056021",
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra a cura di Fabio Galadini sul passaggio tra ciò che era e ciò che sta diventando, con le opere di Vinicio Prizia, Luigi Riccioni, Alfredo Anzellini e Francesco Lupo. Inaugurazione domenica 13 dicembre alle 11.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Civitafestival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Civitafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df4eSzvi_xI/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "girogirocorto-decima-edizione-serata-inaugurale-cinema-caravaggio-roma-2026-11-30",
+    "titolo": "Girogirocorto: serata di apertura della decima edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30",
+    "luogo": "Cinema Caravaggio",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Sette cortometraggi da Italia, Francia e Palestina, tra finzione, animazione e documentario, per inaugurare la decima edizione del festival. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Girogirocorto Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Girogirocorto Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df5K-BcGpk0/",
         "consultata": "2026-11-20"
       }
     ],
