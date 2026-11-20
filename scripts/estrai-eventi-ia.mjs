@@ -584,7 +584,7 @@ async function preparaPortali(quanti) {
     const p = prov.get(c.provincia), r = p && reg.get(p.regione);
     if (!p || !r) continue;
     for (const portale of PORTALI) {
-      const hint = `La pagina è l'elenco «Prossimi eventi» del comune di ${c.nome} (${p.sigla}) su ${portale.nome}, con i collegamenti alle schede dei singoli eventi. Scrivi SOLO eventi che si svolgono a ${c.nome}: comune: ${c.nome}, provincia: ${p.sigla}. Il luogo (nome del posto) c'è solo nelle schede di dettaglio: se manca, salta l'evento. Ignora eventi passati e annullati.`;
+      const hint = `La pagina è l'elenco «Prossimi eventi» del comune di ${c.nome} (${p.sigla}) su ${portale.nome}, con i collegamenti alle schede dei singoli eventi. Scrivi SOLO eventi che SI SVOLGONO a ${c.nome} (comune: ${c.nome}, provincia: ${p.sigla}). Il comune dell'evento è quello del luogo in cui si tiene, ricavato dalla scheda: se l'evento si tiene altrove (gite, escursioni o viaggi con partenza da ${c.nome}, eventi in un'altra città), scrivi quell'altro comune. Il luogo (nome del posto) c'è solo nelle schede di dettaglio: se manca, salta l'evento. Ignora eventi passati e annullati.`;
       out.push({ nome: `${portale.nome}: ${c.nome}`, url: portale.url(r, p, c), tipo: 'aggregatore', dettagli: true, codicePortale: c.codiceIstat, comuneNome: c.nome, siglaProv: p.sigla, hint, hash: statoPortali[c.codiceIstat]?.hash });
     }
   }
@@ -704,8 +704,8 @@ async function lavora(fonte) {
     for (const e of trovati) {
       if (fonte.locale) { e.luogo = fonte.locale.nome; e.comune = fonte.locale.comune; e.provincia = fonte.locale.sigla; e.organizzatore = fonte.locale.nome; }
       const motivi = controlla(e, mappa, !!fonte.locale);
-      if (fonte.codiceRicerca && norm(String(e.comune ?? '')) !== norm(fonte.comuneNome)) motivi.push(`il comune non è ${fonte.comuneNome}`);
-      if (fonte.codicePortale) { e.comune = fonte.comuneNome; e.provincia = fonte.siglaProv; }
+      // Il comune è quello in cui l'evento SI SVOLGE (lo scrive il modello dalla scheda): gite e partenze da questo comune verso altre città non valgono.
+      if ((fonte.codiceRicerca || fonte.codicePortale) && norm(String(e.comune ?? '')) !== norm(fonte.comuneNome)) motivi.push(`il comune non è ${fonte.comuneNome}`);
       if ((fonte.codiceRicerca || fonte.codicePortale) && String(e.fine || e.inizio).slice(0, 10) < OGGI) motivi.push('evento già concluso'); // le pagine della ricerca possono essere vecchie: si tengono solo eventi da oggi in poi
       if (motivi.length) { righe.push(`  KO   ${String(e.titolo ?? '?').slice(0, 55)} → ${motivi.join('; ')}`); continue; }
       const campo = (v) => String(v ?? '').replace(/\s+/g, ' ').trim();

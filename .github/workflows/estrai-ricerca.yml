@@ -1,9 +1,12 @@
-# Cerca eventi con la RICERCA WEB GRATUITA di FreeLLMAPI (post ed eventi pubblici di Facebook e Instagram, siti dei locali, giornali), comune per comune,
-# e li estrae con un modello gratuito. Perché: le serate di bar e locali sono spesso solo su Facebook, che da GitHub non si legge direttamente.
-# Costo: zero (quota gratuita dei servizi di ricerca di FreeLLMAPI e dei suoi modelli). Per ora solo a mano: Actions → questo flusso → Run workflow.
+# Eventi dai portali di eventi per comune (cheventi.it) e dalla ricerca web gratuita di FreeLLMAPI (Facebook, Instagram, siti dei locali, giornali).
+# Costo: zero (quota gratuita di FreeLLMAPI). Ogni 6 ore (impostazione ORE_PORTALI, vedi docs/avvio-da-chat.md) legge le pagine «Eventi» dei comuni da 8.000 abitanti,
+# a rotazione, e salva solo gli eventi che superano i controlli anti-invenzione. A mano: Actions → questo flusso → Run workflow, con scelta «ricerca» o «portali».
+# Per fermarlo: variabile del repository ATTIVO = false (ferma tutte le ricerche programmate) oppure ORE_PORTALI molto alto.
 name: Estrai eventi con la ricerca web (FreeLLMAPI)
 
 on:
+  schedule:
+    - cron: '23 * * * *'
   workflow_dispatch:
     inputs:
       prova:
@@ -13,13 +16,13 @@ on:
       modo:
         description: 'Cosa leggere: ricerca (ricerca web) oppure portali (pagine dei portali di eventi per comune)'
         type: choice
-        options: [ricerca, portali]
-        default: ricerca
+        options: [portali, ricerca]
+        default: portali
       comuni:
         description: 'Quanti comuni in questo giro'
         default: '10'
       solo:
-        description: 'Solo questi comuni (codici ISTAT separati da virgola); vuoto = i più grandi mai cercati'
+        description: 'Solo questi comuni (codici ISTAT separati da virgola); vuoto = i più grandi mai letti'
         default: ''
 
 permissions:
@@ -34,13 +37,31 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
+      - name: Decide se partire (impostazioni di ricerca)
+        id: decide
+        env:
+          EVENTO: ${{ github.event_name }}
+          ATTIVO: ${{ vars.ATTIVO }}
+          ORE: ${{ vars.ORE_PORTALI }}
+        run: |
+          ORE="${ORE:-6}"
+          H=$(date -u +%-H)
+          if [ "$EVENTO" = "schedule" ]; then
+            if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+            if [ $((H % ORE)) -ne 1 ]; then echo "Non tocca a questo giro (si parte ogni $ORE ore)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.decide.outputs.run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.decide.outputs.run == 'true'
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+        if: steps.decide.outputs.run == 'true'
       - name: Cerca ed estrai
+        if: steps.decide.outputs.run == 'true'
         env:
           FREELLMAPI_KEY: ${{ secrets.FREELLMAPI_KEY }}
           FREELLMAPI_URL: ${{ vars.FREELLMAPI_URL }}
@@ -48,29 +69,32 @@ jobs:
           RICERCA_MAX_QUERY: '60'
           BUDGET_MINUTI: '90'
           CONCORRENZA: '3'
-          DEBUG_RICERCA: ${{ inputs.prova && '1' || '' }}
+          MODO: ${{ inputs.modo || 'portali' }}
+          COMUNI: ${{ inputs.comuni || vars.COMUNI_PORTALI_PER_GIRO || '40' }}
+          SOLO_COMUNI: ${{ inputs.solo }}
+          PROVA: ${{ inputs.prova && '1' || '' }}
           TZ: Europe/Rome
         run: |
           SOLO=""
-          if [ -n "${{ inputs.solo }}" ]; then SOLO="--solo ${{ inputs.solo }}"; fi
-          if [ "${{ inputs.prova }}" = "true" ]; then
-            node scripts/estrai-eventi-ia.mjs --${{ inputs.modo }} ${{ inputs.comuni }} $SOLO --prova | tee giro.txt
+          if [ -n "$SOLO_COMUNI" ]; then SOLO="--solo $SOLO_COMUNI"; fi
+          if [ -n "$PROVA" ]; then
+            node scripts/estrai-eventi-ia.mjs --$MODO $COMUNI $SOLO --prova | tee giro.txt
           else
-            node scripts/estrai-eventi-ia.mjs --${{ inputs.modo }} ${{ inputs.comuni }} $SOLO | tee giro.txt
+            node scripts/estrai-eventi-ia.mjs --$MODO $COMUNI $SOLO | tee giro.txt
           fi
       - name: Controlla che il sito si costruisca
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: npm run build
         env:
           TZ: Europe/Rome
       - name: Salva
-        if: ${{ !inputs.prova }}
+        if: ${{ steps.decide.outputs.run == 'true' && !inputs.prova }}
         run: |
           git config user.name "livelocal-bot"
           git config user.email "livelocal-bot@users.noreply.github.com"
           git add src/data/eventi.json ricerca
           if git diff --cached --quiet; then echo "Niente da salvare."; exit 0; fi
-          git commit -m "Estrazione automatica con la ricerca web (FreeLLMAPI): $(date +%F-%H%M)"
+          git commit -m "Estrazione automatica dai portali e dalla ricerca web (FreeLLMAPI): $(date +%F-%H%M)"
           for i in 1 2 3 4; do
             if ! git pull --rebase origin main; then
               if node scripts/risolvi-conflitto-eventi.mjs; then
@@ -84,9 +108,9 @@ jobs:
             sleep $((i * 5))
           done
       - name: Riepilogo
-        if: always()
+        if: ${{ always() && steps.decide.outputs.run == 'true' }}
         run: |
-          echo '### Giro con la ricerca web' >> "$GITHUB_STEP_SUMMARY"
+          echo '### Giro con i portali e la ricerca web' >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
           tail -80 giro.txt >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || echo "nessun resoconto" >> "$GITHUB_STEP_SUMMARY"
           echo '```' >> "$GITHUB_STEP_SUMMARY"
