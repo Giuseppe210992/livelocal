@@ -104,3 +104,9 @@ Fonte: «Get started with Instagram API with Facebook Login» (Meta, aggiornata 
 1. Creare la Pagina Facebook e l'account Instagram «LiveLocal» (per l'account servono un indirizzo email e un numero di telefono dell'attività).
 2. Scegliere tra associazione (APS) e partita IVA: sblocca Facebook e anche gli sponsor.
 3. Usare per l'app Meta lo stesso account Facebook della Pagina, con la doppia verifica attiva.
+
+## 20/11/2026 — lettura di un singolo post pubblico, senza accesso
+
+Prova con un post e una pagina evento pubblici (Blue Turtle di Napoli, Trattoria La Tavernetta di Fano), letti con TinyFish dalla sessione di Claude: **si legge tutto** (testo, data e orari, indirizzo, telefono, nome della pagina nel titolo, evento con organizzatore e data, collegamento alla locandina in `og:image`). Non serve uno screenshot: la pagina consegna già il testo. Per le locandine in sola immagine si può scaricare `og:image` e leggerla con l'OCR (come per Instagram).
+**Dalle Action di GitHub invece NO**: la stessa richiesta con un normale browser dà «HTTP 400» e nessun contenuto (Facebook rifiuta gli indirizzi dei server). Quindi la lettura dei singoli post deve passare dai giri della sessione dedicata (TinyFish, gratuito), non da FreeLLMAPI nelle Action.
+Non si può invece sfogliare l'elenco dei post di una pagina senza accedere. La scoperta dei link avviene con la ricerca per singolo locale, con i link inviati da locali e pubblico, e con le ricerche sul web. Servizi a pagamento (Apify e simili): esclusi per decisione di Giuseppe.
