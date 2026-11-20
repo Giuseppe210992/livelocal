@@ -4,6 +4,21 @@
     {"id": "m-fuga_pub_scauri", "nome": "Fuga Pub", "tipo": "pub", "comune": "059014", "indirizzo": "Via Appia 841, Scauri", "lat": 41.2550733, "lon": 13.7129771, "instagram": "fuga_pub_scauri", "live": true},
     {"id": "m-terrazza_aurora_", "nome": "Terrazza Aurora", "tipo": "bar", "comune": "059009", "indirizzo": "Via Marina di Serapo 11, Gaeta", "lat": 41.23488, "lon": 13.54033, "instagram": "terrazza_aurora_", "live": true},
     {"id": "m-thesensesclub", "nome": "The Senses Club", "tipo": "nightclub", "comune": "059007", "indirizzo": "Fondi (litorale)", "lat": 41.33594, "lon": 13.40963, "instagram": "thesensesclub", "live": true},
-    {"id": "m-imperiolatino.fondi", "nome": "Imperio Latino", "tipo": "nightclub", "comune": "059007", "indirizzo": "Fondi", "lat": 41.33594, "lon": 13.40963, "instagram": "imperiolatino.fondi", "live": true}
+    {"id": "m-imperiolatino.fondi", "nome": "Imperio Latino", "tipo": "nightclub", "comune": "059007", "indirizzo": "Fondi", "lat": 41.33594, "lon": 13.40963, "instagram": "imperiolatino.fondi", "live": true},
+    {"id": "m-marvinosperlonga", "nome": "MarVino", "tipo": "lounge", "comune": "059030", "indirizzo": "Centro storico, Sperlonga", "lat": 41.26827, "lon": 13.43973, "instagram": "marvinosperlonga", "live": true},
+    {"id": "m-pepenoircafe_loungbar", "nome": "Pepe Noir Cafè Lounge Bar", "tipo": "lounge", "comune": "059007", "indirizzo": "Fondi", "lat": 41.33594, "lon": 13.40963, "instagram": "pepenoircafe_loungbar", "live": true},
+    {"id": "m-g.ice_lounge_bar", "nome": "G.ice Lounge Bar", "tipo": "lounge", "comune": "060056", "indirizzo": "Via XXIV Maggio, Pontecorvo", "lat": 41.44819, "lon": 13.64494, "instagram": "g.ice_lounge_bar", "live": true},
+    {"id": "m-b_side_itri", "nome": "B-Side Lounge Bar", "tipo": "lounge", "comune": "059010", "indirizzo": "Itri", "lat": 41.30489, "lon": 13.52773, "instagram": "b_side_itri", "live": true},
+    {"id": "m-losmeraldo_formia", "nome": "Lo Smeraldo", "tipo": "lounge", "comune": "059008", "indirizzo": "Formia (terrazza)", "lat": 41.28458, "lon": 13.6279, "instagram": "losmeraldo_formia", "live": true},
+    {"id": "m-lido_aurora_scauri", "nome": "Lido Aurora - Rooftop", "tipo": "lounge", "comune": "059014", "indirizzo": "Via Lungomare 123, Scauri", "lat": 41.2550733, "lon": 13.7129771, "instagram": "lido_aurora_scauri", "live": true},
+    {"id": "m-windsurfdiscobaiadomizia", "nome": "Windsurf Disco", "tipo": "nightclub", "comune": "061088", "indirizzo": "Baia Domizia, Sessa Aurunca", "lat": 41.23792, "lon": 13.89377, "instagram": "windsurfdiscobaiadomizia", "live": true},
+    {"id": "m-bailamos_cubano", "nome": "Bailamos Cubano", "tipo": "nightclub", "comune": "059008", "indirizzo": "Formia", "lat": 41.28458, "lon": 13.6279, "instagram": "bailamos_cubano", "live": true},
+    {"id": "m-vallecorsari", "nome": "Valle Corsari", "tipo": "nightclub", "comune": "059030", "indirizzo": "Sperlonga", "lat": 41.26827, "lon": 13.43973, "instagram": "vallecorsari", "live": true},
+    {"id": "m-ilgiardino_marvino", "nome": "Il Giardino MarVino", "tipo": "lounge", "comune": "059030", "indirizzo": "Centro storico, Sperlonga", "lat": 41.26827, "lon": 13.43973, "instagram": "ilgiardino_marvino", "live": true},
+    {"id": "m-selene_beach_club", "nome": "Selene Beach Club", "tipo": "nightclub", "comune": "059009", "indirizzo": "Via Marina di Serapo, Gaeta", "lat": 41.23488, "lon": 13.54033, "instagram": "selene_beach_club", "live": true},
+    {"id": "m-wimpysmash", "nome": "Wimpy'Smash", "tipo": "pub", "comune": "059014", "indirizzo": "Lungomare Nazario Sauro 104, Minturno", "lat": 41.2550733, "lon": 13.7129771, "instagram": "wimpysmash", "live": true},
+    {"id": "m-menoventi_2", "nome": "Menoventi 2.0", "tipo": "pub", "comune": "059014", "indirizzo": "Marina di Minturno", "lat": 41.26652, "lon": 13.7439, "instagram": "menoventi_2", "live": true},
+    {"id": "m-lidomarinabeach", "nome": "Lido Marina Beach", "tipo": "bar", "comune": "059014", "indirizzo": "Via Bettino Craxi, Minturno", "lat": 41.26652, "lon": 13.7439, "instagram": "lidomarinabeach", "live": true},
+    {"id": "m-bamboobeachexperience", "nome": "Bamboo Beach Experience", "tipo": "bar", "comune": "059014", "indirizzo": "Scauri", "lat": 41.2550733, "lon": 13.7129771, "instagram": "bamboobeachexperience", "live": true}
   ]
 }
