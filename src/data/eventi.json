@@ -271258,5 +271258,143 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-condominio-cena-centro-antiviolenza-artemisia-campi-bisenzio-2026",
+    "titolo": "«Il Condominio» e cena di sostegno al Centro antiviolenza Artemisia",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T18:00",
+    "luogo": "Circolo Rinascita",
+    "comune": "048006",
+    "lat": 43.82256,
+    "lon": 11.12855,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo «Il Condominio» seguito da una cena di sostegno al Centro antiviolenza Artemisia, nel programma «Violenza de-genere 2026» promosso dal Comune con le realtà del territorio. Prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Campi Bisenzio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Campi Bisenzio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4BV2MRYNx/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "inaugurazione-casa-delle-donne-campi-bisenzio-2026",
+    "titolo": "Inaugurazione della Casa delle Donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T16:00",
+    "luogo": "Casa delle Donne",
+    "indirizzo": "via Roma 2",
+    "comune": "048006",
+    "lat": 43.82256,
+    "lon": 11.12855,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della Casa delle Donne di Campi Bisenzio, nel programma «Violenza de-genere 2026» del Comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Campi Bisenzio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Campi Bisenzio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4BV2MRYNx/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cave-di-alabastro-escursione-busca-2026-11-21",
+    "titolo": "Alla scoperta delle Cave di Alabastro",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T14:30",
+    "luogo": "Cave di Alabastro",
+    "comune": "004034",
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione con accompagnatore naturalistico alle antiche cave di alabastro, nell'ambito di «Luce d'Alabastro – Città di Busca», prima Triennale Internazionale di Scultura. Gratuito sotto i 16 anni. Prenotazione obbligatoria presso Casa Francotto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "organizzatore": "Comune di Busca / Casa Francotto",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4nKgdFSZa/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "intavolando-giochi-da-tavolo-biblioteca-bussolengo-2026-11-21",
+    "titolo": "Intavolando: giochi da tavolo in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Biblioteca comunale",
+    "comune": "023015",
+    "lat": 45.46632,
+    "lon": 10.84599,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata dedicata al mondo dei giochi da tavolo per bambini e famiglie, in biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Bussolengo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Bussolengo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4f5Ygh3lE/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "vive-storie-di-eroine-teatro-canegrate-2026-11-25",
+    "titolo": "«Vive» – storie di eroine che si ribellano al loro tragico destino",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T21:00",
+    "luogo": "Polo Culturale Catarabia",
+    "comune": "015046",
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per la Giornata internazionale contro la violenza sulle donne: storie di donne, di coraggio e di ribellione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Canegrate",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4vVnrl9Td/",
+        "consultata": "2026-11-20"
+      }
+    ],
+    "inserito": "2026-11-20",
+    "inseritoDa": "ia"
   }
 ]
