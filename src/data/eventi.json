@@ -287446,5 +287446,89 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "etnabook-corner-salvo-noe-siamo-soli-via-dei-corti-gravina-di-catania-2026-11-28",
+    "titolo": "Etnabook Corner: Salvo Noè presenta «Siamo soli»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:00",
+    "luogo": "Auditorium Angelo Musco",
+    "comune": "087019",
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del festival Via dei Corti con lo psicoterapeuta Salvo Noè, che presenta il libro «Siamo soli». Gli incontri Campus sono a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Via dei Corti",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Via dei Corti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df-CpWXOBAZ/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "la-settima-vita-di-jessica-fletcher-alice-guerra-i-do-love-arino-di-dolo-2026-11-22",
+    "titolo": "«La settima vita di Jessica Fletcher» con Alice Guerra",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T21:00",
+    "luogo": "Centro Comunitario Parrocchiale",
+    "indirizzo": "via Chiesa 7, Arino di Dolo",
+    "comune": "027012",
+    "lat": 45.41961,
+    "lon": 12.08663,
+    "coordinateApprossimate": true,
+    "descrizione": "Alice Guerra presenta il suo giallo ironico (Rizzoli) al festival letterario I_Do Love 2026; modera Susy Merico. Prenotazione su Eventbrite, al momento esaurita.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Dolo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Dolo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6_dnglYoZ/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-della-prevenzione-genzano-di-roma-2026-11-28",
+    "titolo": "Giornata della prevenzione con ASL Roma 6",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-28T15:30",
+    "luogo": "Palazzo Sforza Cesarini e ex Istituto «Locatelli»",
+    "indirizzo": "Piazza Tommaso Frasconi",
+    "comune": "058043",
+    "lat": 41.67638,
+    "lon": 12.70668,
+    "coordinateApprossimate": true,
+    "descrizione": "Alle 9 saluti istituzionali e tavola rotonda a Palazzo Sforza Cesarini con visita guidata e degustazione; dalle 10.30 alle 15.30 attività sanitarie gratuite (screening, consulenze, vaccinazioni) nell'ex Istituto «Locatelli».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Genzano di Roma e ASL Roma 6",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Genzano di Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6pNzFOdsO/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
