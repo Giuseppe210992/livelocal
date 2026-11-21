@@ -7,6 +7,11 @@ name: Estrai eventi con la ricerca web (FreeLLMAPI)
 on:
   schedule:
     - cron: '23 * * * *'
+  # GitHub salta spesso i flussi programmati: come secondo «tic» si usa la fine della pubblicazione del sito, che avviene almeno ogni ora.
+  # Il controllo del tempo trascorso (sotto) evita partenze doppie.
+  workflow_run:
+    workflows: ["Pubblica il sito"]
+    types: [completed]
   workflow_dispatch:
     inputs:
       prova:
@@ -48,7 +53,7 @@ jobs:
           ORE: ${{ vars.ORE_PORTALI }}
         run: |
           ORE="${ORE:-6}"
-          if [ "$EVENTO" = "schedule" ]; then
+          if [ "$EVENTO" = "schedule" ] || [ "$EVENTO" = "workflow_run" ]; then
             if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
             # Si parte se l'ultimo salvataggio dei portali ha più di (ORE-1) ore: così un'esecuzione saltata da GitHub non fa perdere il giro.
             ULTIMO=$(git log -1 --format=%ct -- ricerca/portali-stato.json 2>/dev/null || true)
