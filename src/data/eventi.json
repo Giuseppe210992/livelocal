@@ -287250,5 +287250,201 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "venturiniani-in-biblioteca-delenda-dea-massa-lombarda-2026-11-21",
+    "titolo": "Venturiniani in Biblioteca: «Delenda Dea (Distruggere la Dea)»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "luogo": "Centro Culturale Venturini",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Il gruppo di lettura Venturiniani in Biblioteca presenta «Delenda Dea (Distruggere la Dea)».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massa Lombarda",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9062-gGnL/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cineforum-il-diritto-di-contare-sala-del-carmine-massa-lombarda-2026-11-21",
+    "titolo": "Cineforum: «Il diritto di contare»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Sala del Carmine",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione e confronto sul film «Il diritto di contare», un momento per guardare e condividere film insieme.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massa Lombarda",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9062-gGnL/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sulle-ali-della-shekinah-dalia-cohen-knohl-museo-ebraico-bologna-2026-11-24",
+    "titolo": "«Sulle ali della Shekinah» di Dalia Cohen Knohl",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T17:00",
+    "luogo": "Museo Ebraico di Bologna",
+    "indirizzo": "via Valdonica 1/5",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del poema epico di Dalia Cohen Knohl sul viaggio spirituale di un calzolaio hassidico; dialogano con l'autrice Paolo Valesio e Israel Knohl. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Museo Ebraico di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Museo Ebraico di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9mwNXgrSR/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "libero-arbitrio-colpa-giudizio-e-redenzione-castello-di-desenzano-2026-11-22",
+    "titolo": "«Libero Arbitrio. Colpa, giudizio e redenzione nell'arte contemporanea»",
+    "categoria": "mostra",
+    "inizio": "2026-11-22",
+    "fine": "2027-01-31",
+    "luogo": "Castello di Desenzano del Garda",
+    "comune": "017067",
+    "lat": 45.45394,
+    "lon": 10.56427,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra collettiva con le opere di 26 artisti, da Giorgio de Chirico ad Andy Warhol, da Banksy a Obey, sui temi della libertà, della colpa, del giudizio e della redenzione. Aperta martedì-giovedì 9.30-12.30, venerdì-domenica e festivi 9.30-18.30; chiusa il lunedì, il 25 dicembre e il 27 gennaio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Desenzano del Garda",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Desenzano del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7pnsEs3_F/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "come-eri-vestita-installazione-chiostro-di-san-francesco-forio-2026-11-20",
+    "titolo": "«Come eri vestita?»: installazione contro la violenza sulle donne",
+    "categoria": "mostra",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-25",
+    "luogo": "Chiostro di San Francesco",
+    "indirizzo": "Piazza Municipio",
+    "comune": "063031",
+    "lat": 40.72813,
+    "lon": 13.87228,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione in collaborazione con Amnesty International che affianca abiti di tutti i giorni alle testimonianze di donne che hanno subito violenza, per contrastare la colpevolizzazione delle vittime.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Forio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Forio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6w25SNzhY/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ferite-di-vetro-tina-taliercio-chiostro-di-san-francesco-forio-2026-11-24",
+    "titolo": "«Ferite di vetro» di Tina Taliercio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T17:00",
+    "luogo": "Chiostro di San Francesco",
+    "indirizzo": "Piazza Municipio",
+    "comune": "063031",
+    "lat": 40.72813,
+    "lon": 13.87228,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo di Tina Taliercio in dialogo con Miriam Messina, nel programma dell'installazione «Come eri vestita?».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Forio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Forio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6w25SNzhY/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lividi-monologhi-collettivo-barberia-chiostro-di-san-francesco-forio-2026-11-25",
+    "titolo": "«Lividi»: monologhi del Collettivo Barberia",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T20:00",
+    "luogo": "Chiostro di San Francesco",
+    "indirizzo": "Piazza Municipio",
+    "comune": "063031",
+    "lat": 40.72813,
+    "lon": 13.87228,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di monologhi a cura del Collettivo Barberia nella Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Forio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Forio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6w25SNzhY/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
