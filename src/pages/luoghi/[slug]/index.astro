@@ -18,7 +18,7 @@ const voci = [{ nome: 'Luoghi da visitare', percorso: '/luoghi/' }, { nome: l.no
 const eventi = eventiVicino(l).slice(0, 5);
 ---
 <Base
-  titolo={`${l.nome}: orari e biglietti | ${SITO.nome}`}
+  titolo={`${l.nome} (${l.comuneDati.nome}): orari e biglietti | ${SITO.nome}`}
   descrizione={riassunto(`${l.nome} a ${l.comuneDati.nome} (${l.provinciaDati.sigla}): orari, costo del biglietto e come arrivare, da fonti ufficiali. ${l.descrizione}`, 158)}
   percorso={l.percorso}
   jsonLd={[jsonLdLuogo(l), jsonLdBriciole(voci)]}
