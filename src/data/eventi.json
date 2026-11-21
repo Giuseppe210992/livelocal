@@ -290064,5 +290064,115 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "play-and-run-visita-guidata-mao-torino-2026-11-28",
+    "titolo": "«Play and run»: visita guidata tematica al MAO",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T16:00",
+    "luogo": "MAO – Museo d'Arte Orientale",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso guidato nelle collezioni permanenti sulle opere che richiamano suono e musica, dagli strumenti rituali del Buddhismo tibetano alle stampe giapponesi, nel sabato che precede il concerto dell'Orchestra Filarmonica di Torino. 7 euro più biglietto d'ingresso; prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "organizzatore": "MAO – Museo d'Arte Orientale",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MAO Torino",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7laoRwUXN/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "alle-origini-di-una-leggenda-giovanni-delle-bande-nere-palazzo-dei-vicari-scarperia-2026-11-28",
+    "titolo": "«Alle origini di una leggenda: Giovanni delle Bande Nere e il Mugello»: inaugurazione",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T16:30",
+    "luogo": "Palazzo dei Vicari",
+    "comune": "048053",
+    "lat": 44.00477,
+    "lon": 11.32474,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra con fotografie in bianco e nero di Francesco Noferini, grafiche di Giulia Cerbaz e allestimenti della Pro Loco di Scarperia, con il sostegno di Fondazione CR Firenze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Palazzo dei Vicari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Palazzo dei Vicari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df8BnSjm71Y/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nostos-documentario-via-dei-corti-gravina-di-catania-2026-11-28",
+    "titolo": "«Nostos»: documentario di Enrico Catanzariti e Damiano Davide",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T12:30",
+    "luogo": "Auditorium Angelo Musco",
+    "comune": "087019",
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del documentario sulle radici sonore, negli incontri Campus del festival Via dei Corti, a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Via dei Corti",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Via dei Corti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df7rB08OUg7/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "giornata-di-educazione-alla-sicurezza-stradale-piazza-onofri-ladispoli-2026-11-27",
+    "titolo": "Giornata di Educazione alla Sicurezza Stradale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T09:00",
+    "fine": "2026-11-27T13:00",
+    "luogo": "Piazza Onofri",
+    "comune": "058116",
+    "lat": 41.9538,
+    "lon": 12.09825,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata di formazione e sensibilizzazione su comportamenti corretti, segnaletica e rispetto delle regole della circolazione, con il Centro Studi Cesare Ferrari e UNASCA.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Ladispoli",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Ladispoli",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4mVMZIvCF/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
