@@ -283858,5 +283858,282 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "magie-di-natale-concerto-ensemble-armonie-erba-2026-12-05",
+    "titolo": "Magie di Natale: Grande Concerto di Natale",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:00",
+    "luogo": "Chiesa Santa Maria degli Angeli (Villa Amalia)",
+    "comune": "013095",
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Natale dell'Ensemble Armonie con pianoforte, violino, violoncello e voce soprano; per le feste il centro si illumina con proiezioni luminose.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9iu54DtEn/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-natale-di-albavilla-2026-12-08",
+    "titolo": "Il Natale di Albavilla",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08",
+    "luogo": "Albavilla",
+    "comune": "013003",
+    "lat": 45.80927,
+    "lon": 9.18552,
+    "coordinateApprossimate": true,
+    "descrizione": "Villaggio di Natale gonfiabile, incontro con Babbo Natale, concerto «Natale in Musica» con gli Sweet and Sour, spettacolo di magia e proiezioni luminose. Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9jTjpmfRn/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-natale-di-una-volta-magreglio-2026-12-12",
+    "titolo": "Il Natale di una Volta",
+    "categoria": "bambini",
+    "inizio": "2026-12-12",
+    "luogo": "Magreglio",
+    "comune": "013139",
+    "lat": 45.91859,
+    "lon": 9.25153,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di burattini «Natale a casa Zuccalunga», giochi antichi in legno, merenda con prodotti tipici e proiezioni luminose. Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9jTjpmfRn/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-natale-dei-bambini-proserpio-2026-12-13",
+    "titolo": "Il Natale dei Bambini",
+    "categoria": "bambini",
+    "inizio": "2026-12-13",
+    "luogo": "Proserpio",
+    "comune": "013192",
+    "lat": 45.82992,
+    "lon": 9.25253,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo «Pupazzi Parlanti», gonfiabili gratuiti e una sorpresa per tutti i bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9jTjpmfRn/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-natale-a-lasnigo-2026-12-20",
+    "titolo": "Il Natale a Lasnigo",
+    "categoria": "bambini",
+    "inizio": "2026-12-20",
+    "luogo": "Lasnigo",
+    "comune": "013123",
+    "lat": 45.88761,
+    "lon": 9.26696,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo «Crea il tuo cappellino di Babbo Natale», truccabimbi e spettacolo «L'Elfo Fiocco di Neve» per tutta la famiglia. Gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Erba",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9jTjpmfRn/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "bilotta-in-centro-voci-colori-e-note-per-santa-cecilia-francavilla-fontana-2026-11-22",
+    "titolo": "Bilotta in Centro: voci, colori e note per Santa Cecilia",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T18:00",
+    "fine": "2026-11-22T21:00",
+    "luogo": "Piazza Dante e via San Giovanni",
+    "comune": "074008",
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda edizione: gli studenti del Secondo Istituto Comprensivo «Montessori-Bilotta» guidano un percorso nel centro storico con laboratori di arte, musica e recitazione e brevi scene in inglese da «A Christmas Carol» di Dickens; serata chiusa con pettole calde. Partecipazione gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Secondo Istituto Comprensivo Montessori-Bilotta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df92sdUBJqP/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "accendere-il-tempo-natale-a-fidenza-2026",
+    "titolo": "Accendere il Tempo: il Natale a Fidenza",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-13",
+    "luogo": "Centro storico e Piazza Garibaldi",
+    "comune": "034014",
+    "lat": 44.86199,
+    "lon": 10.05582,
+    "coordinateApprossimate": true,
+    "descrizione": "Dal 28 novembre al 13 gennaio spettacoli, concerti, animazioni, iniziative per bambini, pista di pattinaggio e Giostra dei Cavalli in Piazza Garibaldi; novità NataleInTour con corteo musicale itinerante il 23, 25 e 26 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Visit Fidenza",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Visit Fidenza",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9oTviDfpw/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "serate-di-boxe-in-ricordo-di-paolo-motta-e-romano-borgonovi-guastalla-2026-11-21",
+    "titolo": "Serata di boxe in ricordo di Paolo Motta e Romano Borgonovi",
+    "categoria": "sport",
+    "inizio": "2026-11-21T18:00",
+    "luogo": "Palestra di via Pegolotti",
+    "indirizzo": "via Pegolotti 4",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima di due serate di incontri organizzate da Boxe Guastalla in ricordo di Paolo Motta e Romano Borgonovi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Boxe Guastalla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9OtBhojM4/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "serate-di-boxe-in-ricordo-di-paolo-motta-e-romano-borgonovi-guastalla-2026-11-22",
+    "titolo": "Serata di boxe in ricordo di Paolo Motta e Romano Borgonovi (seconda serata)",
+    "categoria": "sport",
+    "inizio": "2026-11-22T18:00",
+    "luogo": "Palestra di via Pegolotti",
+    "indirizzo": "via Pegolotti 4",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda serata di incontri organizzati da Boxe Guastalla in ricordo di Paolo Motta e Romano Borgonovi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Boxe Guastalla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9OtBhojM4/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "voce-al-silenzio-musica-e-parole-contro-la-violenza-sulle-donne-auditorium-rodari-legnano-2026-11-21",
+    "titolo": "Voce al silenzio: musica e parole contro la violenza sulle donne",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "luogo": "Auditorium Rodari",
+    "indirizzo": "via dei Salici 4",
+    "comune": "015118",
+    "lat": 45.59371,
+    "lon": 8.90777,
+    "coordinateApprossimate": true,
+    "descrizione": "Le più belle canzoni di Fabrizio De André dedicate alla donna intrecciate a testimonianze, brani di Dacia Maraini, citazioni di De Gregori e Serena Dandini e poesie di Alda Merini, a cura dell'Associazione Culturale I Baraban. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Legnano / Associazione I Baraban",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Legnano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df9fNxcvCc-/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
