@@ -304525,5 +304525,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "weekend-del-bonsai-e-dei-suiseki-biblioteca-zanella-chiampo-2026-11-21",
+    "titolo": "Weekend dedicato al bonsai e ai suiseki",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Biblioteca Civica Zanella, secondo piano",
+    "indirizzo": "Piazza Zanella",
+    "comune": "024029",
+    "lat": 45.54759,
+    "lon": 11.27691,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate per scoprire l'arte del bonsai e dei suiseki: esposizione, dimostrazioni tecniche aperte al pubblico, conferenza dell'istruttore IBS Luca Bragazzi e visita guidata «I Tokonoma».",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Chiampo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiampo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfztcHGhEqQ/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "serata-di-rimembranza-alpini-auditorium-comunale-chiampo-2026-11-21",
+    "titolo": "Serata di rimembranza del Gruppo Alpini di Chiampo",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21T20:30",
+    "luogo": "Auditorium Comunale",
+    "comune": "024029",
+    "lat": 45.54759,
+    "lon": 11.27691,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale serata in ricordo dei caduti per la Patria, la Libertà e la Pace, con i cori «Voci del Sese» e «Brigata Alpina Cadore» e la presentazione del volume di Silvio Dal Maso «La vita e le amicizie di Bruno Dal Maso. Patria, pace e libertà», a cura di Giuliana Fontanella.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Gruppo Alpini di Chiampo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiampo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1pxX1iNKU/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
