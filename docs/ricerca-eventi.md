@@ -240,3 +240,7 @@ Con un giro ogni ora le email vanno **contenute**: Giuseppe non deve ricevere 24
   4. **Approvazioni applicate** (se ci sono)
 - Firma: `LiveLocal – ricerca automatica`
 - Nessun dato personale nell'email.
+
+## Comuni con calendario in JavaScript (21/11/2026)
+
+`ricerca/comuni-js.json` elenca gli 82 comuni (dai più grandi: Venezia, Padova, Trieste, Giugliano, Corigliano-Rossano…) il cui calendario eventi non si legge dalle Action perché si carica con JavaScript. Si leggono dai giri di Claude con **TinyFish `fetch_content`**, che apre la pagina in un browser vero ed è gratuito. **Firecrawl non serve per questo**: costa crediti (una «risposta mirata» ne consuma 5, una lettura semplice meno) e non è utilizzabile dalle Action. Provato il 21/11 su Venezia e Trieste con indirizzi tirati a indovinare: 10 crediti spesi senza risultato, perché gli indirizzi sbagliati restituiscono 404 o la pagina «browser non supportato». Prima di leggere un comune bisogna trovare l'indirizzo vero della pagina eventi (dal menu del sito del Comune).

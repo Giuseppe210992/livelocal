@@ -1,0 +1,497 @@
+{
+ "_nota": "Comuni il cui calendario eventi non si legge dalle Action perché caricato con JavaScript (esito «pagina vuota» in comuni-progresso.json). Si leggono dalle sessioni di Claude con TinyFish (fetch_content, che esegue il JavaScript, gratuito) e non con Firecrawl (a crediti). Generato il 2026-11-21; per rigenerarlo ripetere il filtro su comuni-progresso.json.",
+ "comuni": [
+  {
+   "codice": "027042",
+   "nome": "Venezia",
+   "sigla": "VE",
+   "abitanti": 261362
+  },
+  {
+   "codice": "028060",
+   "nome": "Padova",
+   "sigla": "PD",
+   "abitanti": 206192
+  },
+  {
+   "codice": "032006",
+   "nome": "Trieste",
+   "sigla": "TS",
+   "abitanti": 202123
+  },
+  {
+   "codice": "063034",
+   "nome": "Giugliano in Campania",
+   "sigla": "NA",
+   "abitanti": 108793
+  },
+  {
+   "codice": "078157",
+   "nome": "Corigliano-Rossano",
+   "sigla": "CS",
+   "abitanti": 74848
+  },
+  {
+   "codice": "065137",
+   "nome": "Scafati",
+   "sigla": "SA",
+   "abitanti": 50013
+  },
+  {
+   "codice": "063067",
+   "nome": "San Giorgio a Cremano",
+   "sigla": "NA",
+   "abitanti": 45523
+  },
+  {
+   "codice": "096004",
+   "nome": "Biella",
+   "sigla": "BI",
+   "abitanti": 43818
+  },
+  {
+   "codice": "058116",
+   "nome": "Ladispoli",
+   "sigla": "RM",
+   "abitanti": 37293
+  },
+  {
+   "codice": "031007",
+   "nome": "Gorizia",
+   "sigla": "GO",
+   "abitanti": 35212
+  },
+  {
+   "codice": "031012",
+   "nome": "Monfalcone",
+   "sigla": "GO",
+   "abitanti": 27041
+  },
+  {
+   "codice": "067037",
+   "nome": "Roseto degli Abruzzi",
+   "sigla": "TE",
+   "abitanti": 24940
+  },
+  {
+   "codice": "013143",
+   "nome": "Mariano Comense",
+   "sigla": "CO",
+   "abitanti": 23500
+  },
+  {
+   "codice": "093037",
+   "nome": "Sacile",
+   "sigla": "PN",
+   "abitanti": 19897
+  },
+  {
+   "codice": "093017",
+   "nome": "Cordenons",
+   "sigla": "PN",
+   "abitanti": 18203
+  },
+  {
+   "codice": "073021",
+   "nome": "Palagiano",
+   "sigla": "TA",
+   "abitanti": 16052
+  },
+  {
+   "codice": "030027",
+   "nome": "Codroipo",
+   "sigla": "UD",
+   "abitanti": 15806
+  },
+  {
+   "codice": "093005",
+   "nome": "Azzano Decimo",
+   "sigla": "PN",
+   "abitanti": 15554
+  },
+  {
+   "codice": "093032",
+   "nome": "Porcia",
+   "sigla": "PN",
+   "abitanti": 15251
+  },
+  {
+   "codice": "093041",
+   "nome": "San Vito al Tagliamento",
+   "sigla": "PN",
+   "abitanti": 15011
+  },
+  {
+   "codice": "058011",
+   "nome": "Artena",
+   "sigla": "RM",
+   "abitanti": 13665
+  },
+  {
+   "codice": "030046",
+   "nome": "Latisana",
+   "sigla": "UD",
+   "abitanti": 13647
+  },
+  {
+   "codice": "030023",
+   "nome": "Cervignano del Friuli",
+   "sigla": "UD",
+   "abitanti": 13409
+  },
+  {
+   "codice": "032003",
+   "nome": "Muggia",
+   "sigla": "TS",
+   "abitanti": 13022
+  },
+  {
+   "codice": "072047",
+   "nome": "Turi",
+   "sigla": "BA",
+   "abitanti": 12748
+  },
+  {
+   "codice": "031016",
+   "nome": "Ronchi dei Legionari",
+   "sigla": "GO",
+   "abitanti": 11960
+  },
+  {
+   "codice": "093044",
+   "nome": "Spilimbergo",
+   "sigla": "PN",
+   "abitanti": 11902
+  },
+  {
+   "codice": "093025",
+   "nome": "Maniago",
+   "sigla": "PN",
+   "abitanti": 11818
+  },
+  {
+   "codice": "093021",
+   "nome": "Fiume Veneto",
+   "sigla": "PN",
+   "abitanti": 11486
+  },
+  {
+   "codice": "030026",
+   "nome": "Cividale del Friuli",
+   "sigla": "UD",
+   "abitanti": 11378
+  },
+  {
+   "codice": "030043",
+   "nome": "Gemona del Friuli",
+   "sigla": "UD",
+   "abitanti": 11141
+  },
+  {
+   "codice": "061054",
+   "nome": "Parete",
+   "sigla": "CE",
+   "abitanti": 11012
+  },
+  {
+   "codice": "026049",
+   "nome": "Motta di Livenza",
+   "sigla": "TV",
+   "abitanti": 10681
+  },
+  {
+   "codice": "026085",
+   "nome": "Trevignano",
+   "sigla": "TV",
+   "abitanti": 10565
+  },
+  {
+   "codice": "067044",
+   "nome": "Tortoreto",
+   "sigla": "TE",
+   "abitanti": 10442
+  },
+  {
+   "codice": "067038",
+   "nome": "Sant'Egidio alla Vibrata",
+   "sigla": "TE",
+   "abitanti": 9668
+  },
+  {
+   "codice": "051040",
+   "nome": "Castelfranco Piandiscò",
+   "sigla": "AR",
+   "abitanti": 9518
+  },
+  {
+   "codice": "030072",
+   "nome": "Pasian di Prato",
+   "sigla": "UD",
+   "abitanti": 9375
+  },
+  {
+   "codice": "093007",
+   "nome": "Brugnera",
+   "sigla": "PN",
+   "abitanti": 9254
+  },
+  {
+   "codice": "093004",
+   "nome": "Aviano",
+   "sigla": "PN",
+   "abitanti": 9025
+  },
+  {
+   "codice": "032001",
+   "nome": "Duino Aurisina-Devin Nabrežina",
+   "sigla": "TS",
+   "abitanti": 8586
+  },
+  {
+   "codice": "031009",
+   "nome": "Grado",
+   "sigla": "GO",
+   "abitanti": 8462
+  },
+  {
+   "codice": "093034",
+   "nome": "Prata di Pordenone",
+   "sigla": "PN",
+   "abitanti": 8451
+  },
+  {
+   "codice": "093051",
+   "nome": "Zoppola",
+   "sigla": "PN",
+   "abitanti": 8419
+  },
+  {
+   "codice": "061021",
+   "nome": "Casapulla",
+   "sigla": "CE",
+   "abitanti": 8180
+  },
+  {
+   "codice": "017195",
+   "nome": "Verolanuova",
+   "sigla": "BS",
+   "abitanti": 8133
+  },
+  {
+   "codice": "030099",
+   "nome": "San Daniele del Friuli",
+   "sigla": "UD",
+   "abitanti": 8072
+  },
+  {
+   "codice": "030016",
+   "nome": "Campoformido",
+   "sigla": "UD",
+   "abitanti": 7679
+  },
+  {
+   "codice": "031002",
+   "nome": "Cormons",
+   "sigla": "GO",
+   "abitanti": 7543
+  },
+  {
+   "codice": "017025",
+   "nome": "Bovezzo",
+   "sigla": "BS",
+   "abitanti": 7483
+  },
+  {
+   "codice": "067008",
+   "nome": "Campli",
+   "sigla": "TE",
+   "abitanti": 7276
+  },
+  {
+   "codice": "034006",
+   "nome": "Borgo Val di Taro",
+   "sigla": "PR",
+   "abitanti": 7275
+  },
+  {
+   "codice": "031023",
+   "nome": "Staranzano",
+   "sigla": "GO",
+   "abitanti": 7199
+  },
+  {
+   "codice": "097059",
+   "nome": "Olginate",
+   "sigla": "LC",
+   "abitanti": 7102
+  },
+  {
+   "codice": "070010",
+   "nome": "Campomarino",
+   "sigla": "CB",
+   "abitanti": 7068
+  },
+  {
+   "codice": "030079",
+   "nome": "Pozzuolo del Friuli",
+   "sigla": "UD",
+   "abitanti": 6880
+  },
+  {
+   "codice": "067032",
+   "nome": "Notaresco",
+   "sigla": "TE",
+   "abitanti": 6863
+  },
+  {
+   "codice": "063014",
+   "nome": "Capri",
+   "sigla": "NA",
+   "abitanti": 6831
+  },
+  {
+   "codice": "030057",
+   "nome": "Martignacco",
+   "sigla": "UD",
+   "abitanti": 6796
+  },
+  {
+   "codice": "030013",
+   "nome": "Buja",
+   "sigla": "UD",
+   "abitanti": 6627
+  },
+  {
+   "codice": "031008",
+   "nome": "Gradisca d'Isonzo",
+   "sigla": "GO",
+   "abitanti": 6528
+  },
+  {
+   "codice": "030188",
+   "nome": "Rivignano Teor",
+   "sigla": "UD",
+   "abitanti": 6403
+  },
+  {
+   "codice": "031018",
+   "nome": "San Canzian d'Isonzo",
+   "sigla": "GO",
+   "abitanti": 6309
+  },
+  {
+   "codice": "030037",
+   "nome": "Fagagna",
+   "sigla": "UD",
+   "abitanti": 6279
+  },
+  {
+   "codice": "034017",
+   "nome": "Fornovo di Taro",
+   "sigla": "PR",
+   "abitanti": 6192
+  },
+  {
+   "codice": "030101",
+   "nome": "San Giovanni al Natisone",
+   "sigla": "UD",
+   "abitanti": 6117
+  },
+  {
+   "codice": "098056",
+   "nome": "Tavazzano con Villavesco",
+   "sigla": "LO",
+   "abitanti": 6099
+  },
+  {
+   "codice": "030053",
+   "nome": "Majano",
+   "sigla": "UD",
+   "abitanti": 6051
+  },
+  {
+   "codice": "032004",
+   "nome": "San Dorligo della Valle-Dolina",
+   "sigla": "TS",
+   "abitanti": 5912
+  },
+  {
+   "codice": "093036",
+   "nome": "Roveredo in Piano",
+   "sigla": "PN",
+   "abitanti": 5779
+  },
+  {
+   "codice": "063077",
+   "nome": "Scisciano",
+   "sigla": "NA",
+   "abitanti": 5775
+  },
+  {
+   "codice": "024095",
+   "nome": "Santorso",
+   "sigla": "VI",
+   "abitanti": 5746
+  },
+  {
+   "codice": "083107",
+   "nome": "Acquedolci",
+   "sigla": "ME",
+   "abitanti": 5744
+  },
+  {
+   "codice": "061007",
+   "nome": "Bellona",
+   "sigla": "CE",
+   "abitanti": 5705
+  },
+  {
+   "codice": "030074",
+   "nome": "Pavia di Udine",
+   "sigla": "UD",
+   "abitanti": 5698
+  },
+  {
+   "codice": "061012",
+   "nome": "Cancello ed Arnone",
+   "sigla": "CE",
+   "abitanti": 5428
+  },
+  {
+   "codice": "030070",
+   "nome": "Palmanova",
+   "sigla": "UD",
+   "abitanti": 5409
+  },
+  {
+   "codice": "030009",
+   "nome": "Basiliano",
+   "sigla": "UD",
+   "abitanti": 5353
+  },
+  {
+   "codice": "067017",
+   "nome": "Civitella del Tronto",
+   "sigla": "TE",
+   "abitanti": 5333
+  },
+  {
+   "codice": "060007",
+   "nome": "Aquino",
+   "sigla": "FR",
+   "abitanti": 5309
+  },
+  {
+   "codice": "093013",
+   "nome": "Chions",
+   "sigla": "PN",
+   "abitanti": 5188
+  },
+  {
+   "codice": "030062",
+   "nome": "Mortegliano",
+   "sigla": "UD",
+   "abitanti": 5045
+  }
+ ]
+}
