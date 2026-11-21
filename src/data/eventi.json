@@ -295609,5 +295609,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-proiezione-e-dibattito-cinema-teatro-comunale-catanzaro-2026-11-25",
+    "titolo": "«Se domani non torno»: proiezione e dibattito pubblico nella Giornata contro la violenza sulle donne",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:00",
+    "luogo": "Cinema Teatro Comunale",
+    "indirizzo": "Corso Mazzini 82/84",
+    "comune": "079023",
+    "lat": 38.89001,
+    "lon": 16.60246,
+    "coordinateApprossimate": true,
+    "descrizione": "Per la Giornata internazionale per l'eliminazione della violenza contro le donne, alle 18:00 si proietta il film «Se domani non torno» di Paola Randi, che racconta la storia di Giulia Cecchettin; alle 20:15 segue un dibattito pubblico con rappresentanti di centri antiviolenza, istituzioni, mondo giuridico e associazioni (tra gli altri Mondo Rosa, Attivamente Coinvolte, Astarte, Fondazione Città Solidale, FIDAPA, Camera Penale). Il film resta in programmazione dal 23 novembre, con matinée per le scuole.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cinema Teatro Comunale di Catanzaro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cinema Teatro Comunale",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzQa7JFAOH/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
