@@ -289926,5 +289926,143 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "incontro-di-controllo-di-vicinato-mazzano-2026-11-25",
+    "titolo": "Incontro sul controllo di vicinato",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:00",
+    "luogo": "Sala Consiliare",
+    "comune": "017107",
+    "lat": 45.49961,
+    "lon": 10.35414,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico sul controllo di vicinato con il sindaco, il comandante della Polizia Locale e la comandante della Stazione dei Carabinieri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Mazzano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Mazzano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7QY0nhE5C/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "un-filo-rosso-che-ci-unisce-non-e-normale-centro-venturini-massa-lombarda-2026-11-28",
+    "titolo": "«Un filo rosso che ci unisce. NON È NORMALE»: lavori degli studenti",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T10:00",
+    "luogo": "Centro Culturale Venturini",
+    "indirizzo": "viale Zaganelli 2",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Le classi seconde e terze della scuola «Salvo D'Acquisto» presentano un «piccolo museo delle cose che non dovremmo mai considerare normali», contro la violenza di genere. Le esposizioni restano visitabili fino al 9 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massa Lombarda",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df64Pukhrin/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "gran-premio-di-las-vegas-in-diretta-auditorium-enzo-ferrari-maranello-2026-11-22",
+    "titolo": "Gran Premio di Las Vegas in diretta all'Auditorium Enzo Ferrari",
+    "categoria": "sport",
+    "inizio": "2026-11-22T05:00",
+    "luogo": "Auditorium Enzo Ferrari",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione della diretta della gara di Formula 1 con ingresso gratuito fino a esaurimento posti; l'Auditorium apre al pubblico trenta minuti prima dell'inizio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Maranello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df6foWoS3Rz/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-lavoro-oltre-la-fragilita-talk-festival-empatica-maranello-2026-11-22",
+    "titolo": "Talk «Il lavoro oltre la fragilità» (Festival Empatica)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T17:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "L.E.I. Rooms",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Confronto sul mondo del lavoro con un approccio inclusivo, dai risultati del progetto «Labors» sulle prospettive per donne in situazioni di fragilità, in occasione di «Libere dalla violenza».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Maranello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df619pMgGaF/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pranzo-di-natale-pro-loco-martinengo-2026-12-13",
+    "titolo": "Pranzo di Natale della Pro Loco con visita all'Aero Club",
+    "categoria": "sagra",
+    "inizio": "2026-12-13",
+    "luogo": "Aero Club Aeromodellisti Bergamaschi «Dino Sestini» e ristorante Lo Scalo dei Sapori",
+    "comune": "016133",
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata con visita all'Aero Club e dimostrazioni di volo, poi pranzo natalizio al ristorante Lo Scalo dei Sapori. Quota 38 euro per i soci Pro Loco, 40 per i non soci; prenotazione obbligatoria con saldo entro il 10 dicembre.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "organizzatore": "Pro Loco Martinengo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Martinengo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6oK7Kh9bq/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
