@@ -304637,5 +304637,2362 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "note-per-il-mondo-2026-brescia",
+    "titolo": "Note per il mondo 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T22:30",
+    "luogo": "Auditorium San Barnaba",
+    "indirizzo": "Piazza Arturo Benedetti Michelangeli, 1, 25121 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto benefico per il 25° anniversario dell'associazione Note per il mondo. Esecuzione dell'opera 'Swing heritage numero 6' con voci liriche e strumentisti. A sostegno del progetto ACTIVE della Breast Unit degli Spedali Civili.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Note per il mondo",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/note-per-il-mondo-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "us-da-le-as-2026-2-atto-brescia-21-11",
+    "titolo": "Us da le as 2026. 2° atto",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:45",
+    "fine": "2026-11-21T22:45",
+    "luogo": "Teatro Santa Giulia",
+    "indirizzo": "Villaggio Prealpino Via Quinta, 4, 25136 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in dialetto bergamasco della compagnia La Meridiana. Presentazione del volume 'Scarvàj' di Armando Azzini e commedia 'Amanti, lader e dùtur …. mai fidàs de lùr' di Davide Lenisa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/us-da-le-as-2026-2-atto-2520683",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ctb-a-colpi-d-ascia-brescia",
+    "titolo": "CTB. A colpi d'ascia",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-24T22:30",
+    "luogo": "Teatro Mina Mezzadri",
+    "indirizzo": "Contrada Santa Chiara, 50, 25122 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo tratto dal romanzo di Thomas Bernhard 'A colpi d'ascia. Un'irritazione'. Insito nella stagione 2026-2027 del Centro Teatrale Bresciano. Chiura della trilogia dedicata al tema della confessione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 14
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro teatrale Bresciano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/ctb-la-signora-del-gioco-2520530-2520680",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "biblioteca-la-notte-dei-pupazzi-busca",
+    "titolo": "Biblioteca | La notte dei pupazzi",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T18:30",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Busca",
+    "cap": null,
+    "comune": "004034",
+    "frazione": null,
+    "lat": 44.50924,
+    "lon": 7.44984,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini alla biblioteca civica per scoprire cosa fanno i peluche quando la biblioteca chiude.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca civica",
+    "fonti": [
+      {
+        "nome": "Comune di Busca",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.busca.cn.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fulvio-creux-stagione-musicale-di-caltanissetta-caltanissetta",
+    "titolo": "Fulvio Creux | Stagione musicale di Caltanissetta",
+    "categoria": "concerto",
+    "inizio": "2027-05-30",
+    "fine": "2027-05-30",
+    "luogo": "Palazzo del Carmine",
+    "indirizzo": "Corso Umberto I, 134, 93100 Caltanissetta CL",
+    "cap": null,
+    "comune": "085004",
+    "frazione": null,
+    "lat": 37.4696,
+    "lon": 14.00735,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto \"Aspettando la Festa della Repubblica\" con il Maestro Fulvio Creux. L'evento celebra la tradizione bandistica italiana e il patrimonio musicale legato alle istituzioni nazionali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giovane Orchestra Sicula",
+    "fonti": [
+      {
+        "nome": "Comune di Caltanissetta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caltanissetta.it/it/eventi/stagione-musicale-di-caltanissestta-733549",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-della-musica-stagione-musicale-di-caltanissetta-caltanissetta",
+    "titolo": "Festa della Musica | Stagione musicale di Caltanissetta",
+    "categoria": "concerto",
+    "inizio": "2027-06-21",
+    "fine": "2027-06-21",
+    "luogo": "Centro storico",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 93100 Caltanissetta CL",
+    "cap": null,
+    "comune": "085004",
+    "frazione": null,
+    "lat": 37.4696,
+    "lon": 14.00735,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della Stagione musicale di Caltanissetta nel quadro della Festa della Musica. Evento a ingresso gratuito promosso dalla Giovane Orchestra Sicula e dalle realtà associative del territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giovane Orchestra Sicula",
+    "fonti": [
+      {
+        "nome": "Comune di Caltanissetta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caltanissetta.it/it/eventi/stagione-musicale-di-caltanissestta-733545",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-chiamero-pinocchio-capannori",
+    "titolo": "Lo chiamerò Pinocchio",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:30",
+    "fine": null,
+    "luogo": "Teatro Artè di Capannori",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale de 'Pinocchio' di Carlo Collodi, con regia di Paolo Bonanni, in occasione del bicentenario della nascita dello scrittore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-capannori",
+    "titolo": "Se domani non torno",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Cinema Teatro Artè",
+    "indirizzo": "Via Carlo Piaggia, 74A, 55012 Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Se domani non torno' di Paola Randi, ispirato alla storia vera di Giulia Cecchettin, in occasione della Giornata Internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune e Commissione Pari Opportunità di Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/proiezione-film-se-domani-non-torno",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-comunicazione-nella-coppia-capannori",
+    "titolo": "La comunicazione nella coppia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T21:00",
+    "fine": null,
+    "luogo": "sala del consiglio comunale",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro tenuto da Laura Matteucci, pedagogista, dedicato alla comunicazione nelle relazioni di coppia, programmato nella sala del consiglio comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consiglio-comunale-casalmaggiore",
+    "titolo": "Consiglio Comunale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T20:30",
+    "fine": "2026-11-26T23:59",
+    "luogo": "Sala consiliare",
+    "indirizzo": "Piazza Garibaldi, 26, 26041 Casalmaggiore CR",
+    "cap": null,
+    "comune": "019021",
+    "frazione": null,
+    "lat": 44.98698,
+    "lon": 10.45418,
+    "coordinateApprossimate": true,
+    "descrizione": "Seduta straordinaria del Consiglio Comunale convocata per discutere l'ordine del giorno allegato. Il pubblico può assistere fisicamente o tramite diretta streaming sul sito istituzionale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Casalmaggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.casalmaggiore.cr.it/it/eventi/consiglio-comunale-il-giorno-mercoledi-21-05-2025-ore-21-00-2510225-2510470-2510996-2511736-2512242-2512606-2513136-2513562-2514042-2514886-2516602-2517783-2520830",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatrale-sala-f-lli-cervi-2026-2027-caselle-torinese",
+    "titolo": "Stagione Teatrale Sala F.lli Cervi 2026/2027",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:00",
+    "fine": "2026-11-21T23:59",
+    "luogo": "Sala Fratelli Cervi",
+    "indirizzo": "Via G. Mazzini, 60, 10072 Caselle Torinese TO, Italia",
+    "cap": null,
+    "comune": "001063",
+    "frazione": null,
+    "lat": 45.1774,
+    "lon": 7.65097,
+    "coordinateApprossimate": true,
+    "descrizione": "Inizio della quinta edizione della stagione teatrale casellese. Un progetto di crescita culturale e aggregazione a cura dell'Associazione Libere Gabbie e del Comune, con ingresso gratuito per tutti i cittadini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Libere Gabbie",
+    "fonti": [
+      {
+        "nome": "Comune di Caselle Torinese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caselle-torinese.to.it/it/eventi/stagione-teatrale-sala-f-lli-cervi-2026-2027",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-di-marcello-lippi-cascina",
+    "titolo": "Presentazione libro di Marcello Lippi",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T18:00",
+    "fine": "2026-11-24T20:00",
+    "luogo": "Biblioteca comunale \"Peppino Impastato\"",
+    "indirizzo": "Viale Comasco Comaschi, 67",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'La Cattedrale nel Mare' di Marcello Lippi. L'evento fa parte della rassegna 'Libri in Libertà Dentro le Storie' e prevede un dialogo con l'autore Stefano Mecenate. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Comune di Cascina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cascina.pi.it/it/eventi/libri-in-liberta-dentro-le-storie-24-novembre-2026-ore-18-libro-di",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "processo-sportivo-fra-regole-e-deontologia-cascina",
+    "titolo": "Processo sportivo: fra regole e deontologia",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T15:00",
+    "fine": "2026-12-04T17:30",
+    "luogo": "Biblioteca comunale \"Peppino Impastato\"",
+    "indirizzo": "Viale Comasco Comaschi, 67",
+    "cap": null,
+    "comune": "050008",
+    "frazione": null,
+    "lat": 43.6642,
+    "lon": 10.49876,
+    "coordinateApprossimate": true,
+    "descrizione": "Tavola rotonda sul tema del processo sportivo, le regole e la deontologia. Iniziativa accreditata per la formazione continua forense con 3 crediti. Ingresso libero fino a esaurimento posti (max 70).",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cascina",
+    "fonti": [
+      {
+        "nome": "Comune di Cascina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cascina.pi.it/it/eventi/processo-sportivo-fra-regole-e-deontologia-04-dicembre-2026-ore-15",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dio-castel-san-giovanni",
+    "titolo": "Dio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Teatro G. Verdi",
+    "indirizzo": "Piazza Chiesa Maggiore Castel San Giovanni (PC)",
+    "cap": null,
+    "comune": "033013",
+    "frazione": null,
+    "lat": 45.05816,
+    "lon": 9.4276,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Dio' di Paolo Del Debbio. L'autore riflette sul tema del senso della vita e del mistero incomprensibile. Evento aperto a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Libreria Puma Castel San Giovanni",
+    "fonti": [
+      {
+        "nome": "Comune di Castel San Giovanni",
+        "tipo": "ufficiale",
+        "url": "https://comune.castelsangiovanni.pc.it/it/eventi/dio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convegno-su-giulia-e-le-altre-castelfidardo",
+    "titolo": "Convegno su Giulia e le altre",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Castelfidardo",
+    "indirizzo": "Castelfidardo",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di sensibilizzazione organizzato da Unitre in occasione della giornata internazionale contro la violenza sulle donne, focalizzato sulla figura di Giulia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Unitre",
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-nostri-mantici-castelfidardo",
+    "titolo": "I nostri mantici",
+    "categoria": "concerto",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Castelfidardo",
+    "indirizzo": "Castelfidardo",
+    "cap": null,
+    "comune": "042010",
+    "frazione": null,
+    "lat": 43.46436,
+    "lon": 13.56325,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto nella serie 'Concerti del Consiglio' con solisti, formazioni in duo e trio e la Fisorchestra, proposto nel programma 'I nostri mantici'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castelfidardo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelfidardo.an.it/it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-benefico-2-di-troppo-castelnuovo-del-garda",
+    "titolo": "Spettacolo benefico \"2 di troppo\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T22:00",
+    "luogo": "Teatro comunale DIM",
+    "indirizzo": "via San Martino 4",
+    "cap": null,
+    "comune": "023022",
+    "frazione": null,
+    "lat": 45.4442,
+    "lon": 10.7404,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia brillante in due atti della compagnia Gli Appassionagatti, con regia di Daniela Zenobi, a sostegno del Reparto di Ematologia dell'Ospedale di Borgo Roma.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gli Appassionagatti",
+    "fonti": [
+      {
+        "nome": "Comune di Castelnuovo del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelnuovodelgarda.vr.it/vivere-il-comune/eventi/spettacolo-benefico-2-di-troppo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spettacolo-benefico-2-di-troppo-castelnuovo-del-garda-29-11",
+    "titolo": "Spettacolo benefico \"2 di troppo\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T17:00",
+    "fine": "2026-11-29T18:30",
+    "luogo": "Teatro comunale DIM",
+    "indirizzo": "via San Martino 4",
+    "cap": null,
+    "comune": "023022",
+    "frazione": null,
+    "lat": 45.4442,
+    "lon": 10.7404,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro comunale DIM, Castelnuovo del Garda, 29/11. Commedia brillante in due atti della compagnia Gli Appassionagatti, con regia di Daniela Zenobi, a sostegno del Reparto di Ematologia dell'Ospedale di Borgo Roma.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gli Appassionagatti",
+    "fonti": [
+      {
+        "nome": "Comune di Castelnuovo del Garda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelnuovodelgarda.vr.it/vivere-il-comune/eventi/spettacolo-benefico-2-di-troppo-copy",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "roberto-innocenti-presenta-angeli-del-fango-castiglione-del-lago",
+    "titolo": "Roberto Innocenti presenta “Angeli del fango”",
+    "categoria": "mostra",
+    "inizio": "2026-11-26",
+    "fine": "2026-11-26",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Angeli del fango' di Roberto Innocenti, un racconto illustrato sui giovani che salvarono Firenze durante l'alluvione del 1966. Partecipa il Cardinale Gualtiero Bassetti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/gianluca-zanella-presenta-il-codice-del-ragno-731854",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gianluca-zanella-presenta-il-codice-del-ragno-castiglione-del-lago",
+    "titolo": "Gianluca Zanella presenta “Il codice del Ragno”",
+    "categoria": "mostra",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-27",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "L'autore Gianluca Zanella presenta il suo primo romanzo 'Il codice del Ragno' (Ponte alle Grazie), un noir che intreccia rituali occulti e cronaca nera. L'incontro è organizzato in collaborazione con la locale libreria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/gianluca-zanella-presenta-il-codice-del-ragno",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-07-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-07T17:00",
+    "fine": "2026-12-07T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-08-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-08T17:00",
+    "fine": "2026-12-08T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 08/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-09-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-09T17:00",
+    "fine": "2026-12-09T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 09/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733591",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-10-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-10T17:00",
+    "fine": "2026-12-10T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 10/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733592",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-11-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-11T17:00",
+    "fine": "2026-12-11T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 11/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733592-733594",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-12-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-12T17:00",
+    "fine": "2026-12-12T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 12/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733592-733594-733595",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-13-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-13T17:00",
+    "fine": "2026-12-13T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 13/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733592-733594-733595-733597",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luci-sul-trasimeno-il-natale-delle-meraviglie-castiglione-del-lago-14-12",
+    "titolo": "Luci sul Trasimeno - Il Natale delle Meraviglie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-14T17:00",
+    "fine": "2026-12-14T23:00",
+    "luogo": "Castiglione del Lago",
+    "indirizzo": "Castiglione del Lago",
+    "cap": null,
+    "comune": "054009",
+    "frazione": null,
+    "lat": 43.10495,
+    "lon": 12.01709,
+    "coordinateApprossimate": true,
+    "descrizione": "Castiglione del Lago, Castiglione del Lago, 14/12. Percorso natalizio tra il borgo, la Rocca Medievale e il lago. Include un albero luminoso lungo 1.080 metri, mercatino di Natale, pista di ghiaccio e video mapping sulle mura del castello. Orari del percorso dall'albero dalle 17:00 alle 23:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castiglione del Lago",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castiglione-del-lago.pg.it/it/eventi/luci-sul-trasimeno-il-natale-delle-meraviglie-733589-733590-733592-733594-733595-733597-733599",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "performance-teatrale-non-era-previsto-cento",
+    "titolo": "Performance teatrale \"Non era previsto\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T18:30",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Civica Pinacoteca il Guercino",
+    "indirizzo": "Via Giacomo Matteotti, 16",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance teatrale di Varki Teatro che intreccia frammenti di vita quotidiana, difficoltà e resistenza. Due repliche in programma. Organizzata per la Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Varki Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://comune.cento.fe.it/it/eventi/performance-teatrale-non-era-previsto-a-cura-di-varki-teatro",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alla-biblioteca-bruno-ciari-il-primo-silent-reading-party-a-certaldo-certaldo",
+    "titolo": "Alla Biblioteca Bruno Ciari il primo Silent Reading Party a Certaldo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T18:30",
+    "luogo": "Biblioteca comunale Bruno Ciari",
+    "indirizzo": "Borgo Garibaldi 37",
+    "cap": null,
+    "comune": "048012",
+    "frazione": null,
+    "lat": 43.56354,
+    "lon": 11.08064,
+    "coordinateApprossimate": true,
+    "descrizione": "Silent Reading Party dedicato agli adulti per leggere in un'atmosfera rilassata con angolo caffetteria. Iniziativa del progetto Leggere Fuori della Rete Rea.net. Possibilità di portare un libro o sceglierlo in biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rete documentaria Rea.net",
+    "fonti": [
+      {
+        "nome": "Comune di Certaldo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.certaldo.fi.it/it/eventi/alla-biblioteca-bruno-ciari-il-primo-silent-reading-party-a-certaldo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luce-nella-notte-rappresentazione-vivente-della-nativita-certaldo",
+    "titolo": "“Luce nella Notte”: rappresentazione vivente della Natività",
+    "categoria": "teatro",
+    "inizio": "2026-12-13T10:25",
+    "fine": "2026-12-13T20:00",
+    "luogo": "Palazzo Giannozzi",
+    "indirizzo": "Certaldo Alto",
+    "cap": null,
+    "comune": "048012",
+    "frazione": null,
+    "lat": 43.56354,
+    "lon": 11.08064,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione vivente della Natività ideata da Officina dell'Arte. Include un mercato degli antichi mestieri, un corteo con figuranti in abiti d'epoca e sbandieratori. Si conclude con la messa in scena nella corte di Palazzo Giannozzi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Officina dell'Arte",
+    "fonti": [
+      {
+        "nome": "Comune di Certaldo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.certaldo.fi.it/it/eventi/luce-nella-notte-rappresentazione-vivente-della-nativita",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "orientiamoci-2026-chivasso",
+    "titolo": "Orientiamoci 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T13:00",
+    "luogo": "Palazzo Einaudi",
+    "indirizzo": "Lungo Piazza d'Armi, 6, 10034 Chivasso TO, Italia",
+    "cap": null,
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di orientamento universitario promossa dall'Associazione Ex Alunni Liceo Newton, con stand informativi e dialoghi con professionisti per studenti delle scuole superiori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ex Alunni Liceo Newton",
+    "fonti": [
+      {
+        "nome": "Comune di Chivasso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chivasso.to.it/it/eventi/orientiamoci-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "c-era-una-volta-italia-61-chivasso-21-11",
+    "titolo": "C’era una volta Italia ‘61",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-21",
+    "luogo": "Biblioteca comunale MOviMEnte",
+    "indirizzo": "Piazza 12 Maggio 1944, 10034 Chivasso TO, Italia",
+    "cap": null,
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra storico-documentaria sull'Esposizione Internazionale di Torino del 1961, con foto e oggetti d'epoca. Il 21 novembre si chiude con la presentazione del libro di Mario Abrate.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale Amici di Italia '61",
+    "fonti": [
+      {
+        "nome": "Comune di Chivasso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chivasso.to.it/it/eventi/cera-una-volta-italia-61",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-25-novembre-attraverso-il-cinema-chivasso",
+    "titolo": "Il 25 novembre attraverso il cinema",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T20:45",
+    "fine": "2026-11-25T22:00",
+    "luogo": "Teatrino Civico",
+    "indirizzo": "Piazza Generale Carlo Alberto dalla Chiesa, 6, 10034 Chivasso TO, Italia",
+    "cap": null,
+    "comune": "001082",
+    "frazione": null,
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Un giorno perfetto' in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Chivasso",
+    "fonti": [
+      {
+        "nome": "Comune di Chivasso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chivasso.to.it/it/eventi/il-25-novembre-attraverso-il-cinema",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ciclo-di-incontri-culturali-anpi-ciampino-ciampino",
+    "titolo": "Ciclo di incontri culturali ANPI Ciampino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Sala Lavagnini della Biblioteca comunale P.P. Pasolini",
+    "indirizzo": "Via Quattro Novembre, 40, 00043 Ciampino RM",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Rai. Sia benedetta la lottizzazione!' di Giorgio Balzoni. L'iniziativa, aperta al pubblico, include l'intervento di Salvatore Italiano e invita a riflettere sull'evoluzione del servizio pubblico radiotelevisivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ANPI Ciampino",
+    "fonti": [
+      {
+        "nome": "Comune di Ciampino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ciampino.roma.it/it/eventi/ciclo-di-incontri-culturali-anpi-ciampino-2520646",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "donna-in-salute-ciampino",
+    "titolo": "Donna in salute",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-21T16:00",
+    "luogo": "Casa della Comunità",
+    "indirizzo": "Largo Felice Armati, 1, 00043 Ciampino RM",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata alla prevenzione e alla salute femminile con screening oncologici, prenotazione di mammografie, ecografie, consulenze di fisioterapia e dietistica. Sono presenti gli Infermieri di Famiglia e di Comunità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ciampino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ciampino.roma.it/it/eventi/donna-in-salute",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proteggiti-ciampino",
+    "titolo": "Proteggiti",
+    "categoria": "mostra",
+    "inizio": "2026-10-26",
+    "fine": "2026-12-20",
+    "luogo": "Ospedale Regina Apostolorum",
+    "indirizzo": "Albano Laziale",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Campagna di prevenzione e diagnosi precoce delle patologie prostatiche per uomini tra i 45 e i 75 anni. Gli esami si effettuano dal lunedì al sabato senza necessità di prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ciampino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ciampino.roma.it/it/eventi/proteggiti",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "emisferi-festival-del-cinema-di-ciampino-ciampino",
+    "titolo": "Emisferi - Festival del cinema di Ciampino",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T19:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Cinema Il Piccolissimo",
+    "indirizzo": "Via Palermo, 18, 00043 Ciampino RM",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "V edizione del festival cinematografico dedicata al mondo del cinema. L'iniziativa, organizzata da Ersìte Film e Vita Via Est OdV, propone proiezioni di film e cortometraggi con ingresso gratuito fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ersìte Film, Vita Via Est OdV",
+    "fonti": [
+      {
+        "nome": "Comune di Ciampino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ciampino.roma.it/it/eventi/emisferi-festival-del-cinema-di-ciampino",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "radar-giovani-san-giorgio-di-nogaro",
+    "titolo": "Radar Giovani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": null,
+    "luogo": "Sala conferenze Villa Dora",
+    "indirizzo": "San Giorgio di Nogaro",
+    "cap": null,
+    "comune": "030100",
+    "frazione": null,
+    "lat": 45.81085,
+    "lon": 13.21678,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa dedicata ai giovani che si terrà nella sala conferenze di Villa Dora. L'evento è aperto al pubblico e si svolge nella mattinata di sabato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio di Nogaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sangiorgiodinogaro.ud.it/eventi/3680247/radar-giovani",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-jazz-san-giorgio-delle-pertiche",
+    "titolo": "Natale in Jazz",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": "2026-12-18T23:00",
+    "luogo": "Cinema Teatro Giardino",
+    "indirizzo": "Via Roma 74",
+    "cap": null,
+    "comune": "028075",
+    "frazione": null,
+    "lat": 45.53652,
+    "lon": 11.8923,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Blue Big Band diretto dal maestro Ermanno Pantini. Si esibiranno Natali Rossato e Giuliano Perin al vibrafone. Serata dedicata alla musica all'interno del programma di eventi natalizi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale e Blue Big Band",
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio delle Pertiche",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sangiorgiodellepertiche.pd.it/vivere-il-comune/eventi/natale-in-jazz",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consiglio-comunale-24-novembre-2026-san-paolo-d-argon",
+    "titolo": "Consiglio Comunale - 24 novembre 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-24T19:30",
+    "fine": null,
+    "luogo": "Sala Riunioni Centro Civico",
+    "indirizzo": "Via Papa Giovanni XXIII",
+    "cap": null,
+    "comune": "016189",
+    "frazione": null,
+    "lat": 45.68616,
+    "lon": 9.80318,
+    "coordinateApprossimate": true,
+    "descrizione": "Convocazione del Consiglio Comunale aperta al pubblico. L'incontro si terrà nella sala riunioni del centro civico del comune di San Paolo d'Argon. È necessario consultare l'ordine del giorno disponibile nella sezione allegati della pagina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di San Paolo d'Argon",
+    "fonti": [
+      {
+        "nome": "Comune di San Paolo d'Argon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanpaolodargon.bg.it/vivere-il-comune/eventi/dettaglio-evento/Consiglio-Comunale-24-novembre-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-comunita-premia-2026-sernaglia-della-battaglia",
+    "titolo": "La comunità premia 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T22:00",
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Piazza Martiri della Libertà, 1",
+    "cap": null,
+    "comune": "026080",
+    "frazione": null,
+    "lat": 45.86616,
+    "lon": 12.14323,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata istituzionale dedicata ai giovani che si sono distinti in ambito scolastico, sportivo e nel volontariato. L'evento prevede la partecipazione della Piccola Orchestra Veneta e si rivolge all'intera cittadinanza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Sernaglia della Battaglia",
+    "fonti": [
+      {
+        "nome": "Comune di Sernaglia della Battaglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sernaglia.tv.it/vivere-il-comune/eventi/la-comunita-premia-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xxvi-edizione-di-danzare-per-la-vita-settala",
+    "titolo": "XXVI edizione di “Danzare per la vita”",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "Auditorium di via Verdi",
+    "indirizzo": "Settala",
+    "cap": null,
+    "comune": "015210",
+    "frazione": null,
+    "lat": 45.4541,
+    "lon": 9.38921,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di beneficenza con la performance di danza della XXVI edizione di Danzare per la vita, con la partecipazione degli allievi della Ddance e della Ddance Company di Settala.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Gwendolen Duncan",
+    "fonti": [
+      {
+        "nome": "Comune di Settala",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.settala.mi.it/eventi/xxvi-edizione-di-danzare-per-la-vita",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cio-che-non-si-vede-performance-teatrale-settala",
+    "titolo": "“Ciò che non si vede” -performance teatrale-",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Auditorium di via Verdi",
+    "indirizzo": "Settala",
+    "cap": null,
+    "comune": "015210",
+    "frazione": null,
+    "lat": 45.4541,
+    "lon": 9.38921,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance teatrale della compagnia Personaetatis del Liceo Giordano Bruno di Melzo dedicata al tema della violenza di genere. L'evento è aperto alla cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia teatrale Personaetatis",
+    "fonti": [
+      {
+        "nome": "Comune di Settala",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.settala.mi.it/eventi/cio-che-non-si-vede-performance-teatrale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-sotto-l-albero-iii-edizione-settala",
+    "titolo": "Natale sotto l’albero -III^ edizione-",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Piazza Vittorio Veneto",
+    "indirizzo": "Settala",
+    "cap": null,
+    "comune": "015210",
+    "frazione": null,
+    "lat": 45.4541,
+    "lon": 9.38921,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata natalizia con mercatini, corsa dei Babbi Natale, giochi, intrattenimento, presenza di Babbo Natale e accensione degli alberi di Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Articom",
+    "fonti": [
+      {
+        "nome": "Comune di Settala",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.settala.mi.it/eventi/natale-sotto-lalbero-iii-edizione",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-fotografica-1946-2026-80-anni-di-donne-al-voto-silea",
+    "titolo": "Mostra fotografica: \"1946-2026\" 80 anni di donne al voto",
+    "categoria": "mostra",
+    "inizio": "2026-11-13T18:00",
+    "fine": "2026-12-30T18:00",
+    "luogo": "Municipio",
+    "indirizzo": "Via Don Minzoni,12, 31057 Silea (TV)",
+    "cap": null,
+    "comune": "026081",
+    "frazione": null,
+    "lat": 45.64054,
+    "lon": 12.32477,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione venerdì 13 novembre alle ore 18:00 dell'esposizione di disegni del Gruppo Pittura Carbonera a cura di Nadia Pavanetto. La mostra resterà aperta al pubblico fino al 30 dicembre con orari specifici nei giorni feriali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale di Silea",
+    "fonti": [
+      {
+        "nome": "Comune di Silea",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.silea.tv.it/eventi/Mostra-fotografica.html",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-animate-in-biblioteca-silea",
+    "titolo": "Letture animate in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-12-02T16:30",
+    "fine": "2026-12-02T18:30",
+    "luogo": "Biblioteca dei Liberi Pensatori",
+    "indirizzo": "Via Don Minzoni, 14 - 31057 Silea",
+    "cap": null,
+    "comune": "026081",
+    "frazione": null,
+    "lat": 45.64054,
+    "lon": 12.32477,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento dell'angolo delle Storie birichine dove lettori volontari propongono storie da ascoltare insieme. L'evento si svolge nella sezione per bambini della biblioteca comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Silea",
+    "fonti": [
+      {
+        "nome": "Comune di Silea",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.silea.tv.it/eventi/Letture-animate-26.html",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "parole-spazi-di-cura-silea",
+    "titolo": "Parole... Spazi di cura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T16:00",
+    "fine": "2026-12-03T20:00",
+    "luogo": "Auditorium di Santa Caterina",
+    "indirizzo": "Piazzetta Mario Botter, 1 – 31100 Treviso (TV)",
+    "cap": null,
+    "comune": "026081",
+    "frazione": null,
+    "lat": 45.64054,
+    "lon": 12.32477,
+    "coordinateApprossimate": true,
+    "descrizione": "Premiazione della quarta edizione del contest letterario rivolto agli studenti delle professioni sanitarie. L'iniziativa promuove la medicina narrativa per riflettere sulle esperienze di tirocinio e sul valore della relazione di cura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Silea",
+    "fonti": [
+      {
+        "nome": "Comune di Silea",
+        "tipo": "ufficiale",
+        "url": "http://www.comune.silea.tv.it/eventi/Parole-spazi-di-cura.html",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-villaggio-di-natale-siziano",
+    "titolo": "Inaugurazione Villaggio di Natale",
+    "categoria": "mostra",
+    "inizio": "2026-11-22T15:00",
+    "fine": null,
+    "luogo": "Siziano",
+    "indirizzo": "Siziano",
+    "cap": null,
+    "comune": "018150",
+    "frazione": null,
+    "lat": 45.3118,
+    "lon": 9.2106,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di inaugurazione del Villaggio di Natale con esibizione di pattinaggio sul ghiaccio. Risorsa gratuita aperta a tutti i cittadini per l'avvio delle iniziative natalizie nel comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Siziano",
+    "fonti": [
+      {
+        "nome": "Comune di Siziano",
+        "tipo": "ufficiale",
+        "url": "https://comune.siziano.pv.it/vivere-il-comune/eventi/inaugurazione-villaggio-di-natale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppi-di-lettura-siziano",
+    "titolo": "Gruppi di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T20:45",
+    "fine": null,
+    "luogo": "Biblioteca Comunale A. Merini",
+    "indirizzo": "Via della Stazione, 15, 27010 Siziano PV",
+    "cap": null,
+    "comune": "018150",
+    "frazione": null,
+    "lat": 45.3118,
+    "lon": 9.2106,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento mensile dedicato alla lettura, aperto a tutti i cittadini. L'evento si svolge presso la Biblioteca Comunale A. Merini ed è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Siziano",
+        "tipo": "ufficiale",
+        "url": "https://comune.siziano.pv.it/vivere-il-comune/eventi/gruppi-di-lettura-3",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quattro-passi-nella-rocca-soncino",
+    "titolo": "Quattro passi... nella Rocca",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-01",
+    "fine": "2026-11-29",
+    "luogo": "Rocca Sforzesca",
+    "indirizzo": "Piazza Prof, Via Ferrari Enea, 26029 Soncino CR, Italia",
+    "cap": null,
+    "comune": "019097",
+    "frazione": null,
+    "lat": 45.4068,
+    "lon": 9.85242,
+    "coordinateApprossimate": true,
+    "descrizione": "Visite guidate nella Rocca sforzesca di Soncino per scoprire la storia, i meccanismi difensivi e le stanze, dai sotterranei alle torri. Comprende anche una struttura sotterranea esterna non accessibile in autonomia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Soncino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.soncino.cr.it/it/eventi/quattro-passi-nella-rocca-657839-724567",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "star-bene-al-nido-e-alla-scuola-dell-infanzia-soncino",
+    "titolo": "Star bene al nido e alla scuola dell'infanzia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T18:00",
+    "fine": "2026-11-23T19:30",
+    "luogo": "Sala Convegni Ex-filanda Meroni",
+    "indirizzo": "Via Cattaneo, 1, 26029 Soncino CR, Italia",
+    "cap": null,
+    "comune": "019097",
+    "frazione": null,
+    "lat": 45.4068,
+    "lon": 9.85242,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno dedicato ai genitori di bambini 0-6 anni e al personale dei servizi educativi per discutere del benessere nei nidi e nelle scuole dell'infanzia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Soncino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.soncino.cr.it/it/eventi/star-bene-al-nido-e-alla-scuola-dell-infanzia",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "all-ombra-di-tarantasio-soncino",
+    "titolo": "All'ombra di Tarantasio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:30",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Museo della stampa - casa degli stampatori \"Soncino\"",
+    "indirizzo": "Via Lanfranco, 6, 26029 Soncino CR, Italia",
+    "cap": null,
+    "comune": "019097",
+    "frazione": null,
+    "lat": 45.4068,
+    "lon": 9.85242,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione della trilogia \"All'ombra di Tarantasio\" di Giorgio Fusetto. L'autore regalerà il primo volume ad alcuni presenti estratti a sorte e seguirà un momento conviviale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo della Stampa - Centro Studi Stampatori Ebrei Soncino",
+    "fonti": [
+      {
+        "nome": "Comune di Soncino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.soncino.cr.it/it/eventi/all-ombra-di-tarantasio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consegna-delle-borse-di-studio-soncino",
+    "titolo": "Consegna delle borse di studio",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-29T20:45",
+    "fine": "2026-11-29T22:00",
+    "luogo": "Sala Ciminiera Ex-filanda Meroni",
+    "indirizzo": "via Cattaneo, 1",
+    "cap": null,
+    "comune": "019097",
+    "frazione": null,
+    "lat": 45.4068,
+    "lon": 9.85242,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di consegna delle borse di studio organizzata dall'associazione \"A Vale... sempre con noi\", con presenza dell'assessore regionale all'Istruzione Simona Tironi, concerto musicale e lettura di poesie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "A Vale... sempre con noi",
+    "fonti": [
+      {
+        "nome": "Comune di Soncino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.soncino.cr.it/it/eventi/consegna-delle-borse-di-studio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "80-anniversario-del-consiglio-comunale-di-soncino-soncino",
+    "titolo": "80° anniversario del Consiglio Comunale di Soncino",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-30T20:30",
+    "fine": "2026-11-30T23:00",
+    "luogo": "Palazzo comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 1, 26029 Soncino CR, Italia",
+    "cap": null,
+    "comune": "019097",
+    "frazione": null,
+    "lat": 45.4068,
+    "lon": 9.85242,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di riconoscimento ai Consiglieri Comunali di Soncino dal 1946 ad oggi, in occasione dell'80° anniversario del Consiglio Comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Soncino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.soncino.cr.it/it/eventi/80-anniversario-del-consiglio-comunale-di-soncino",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xxix-settimana-del-libro-microcosmi-e-altre-cose-molto-piccole-tarcento",
+    "titolo": "XXIX Settimana del Libro: Microcosmi e altre cose molto piccole",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T09:00",
+    "fine": "2026-12-02T18:00",
+    "luogo": "Scuola elementare Marinelli",
+    "indirizzo": "Viale Giacomo Matteotti, 56, 33017 Tarcento UD, Italia",
+    "cap": null,
+    "comune": "030116",
+    "frazione": null,
+    "lat": 46.22388,
+    "lon": 13.22619,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di letture pubbliche dedicata ai bambini, con la partecipazione di lettori, librai e associazioni locali. L'evento si svolge presso la scuola elementare Marinelli con l'obiettivo di promuovere il piacere della lettura tra i più giovani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Tarcento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tarcento.ud.it/it/eventi/xxix-settimana-del-libro-microcosmi-e-altre-cose-molto-piccole",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ora-del-racconto-edizione-speciale-tarcento",
+    "titolo": "L'ora del racconto: edizione speciale",
+    "categoria": "bambini",
+    "inizio": "2026-11-27T16:30",
+    "fine": "2026-11-27T18:00",
+    "luogo": "Biblioteca civica \"Pierluigi Cappello\"",
+    "indirizzo": "Via Julia, 13, 33017 Tarcento UD, Italia",
+    "cap": null,
+    "comune": "030116",
+    "frazione": null,
+    "lat": 46.22388,
+    "lon": 13.22619,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione speciale dell'ora del racconto intitolata 'Tra le pagine nasce il rispetto', rivolta ai bambini dai 3 ai 6 anni. L'iniziativa, in collaborazione con Nati per Leggere e Trallallero 2026, mira a stimolare la fantasia attraverso storie, immagini e parole.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale, Commissione Pari Opportunità",
+    "fonti": [
+      {
+        "nome": "Comune di Tarcento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tarcento.ud.it/it/eventi/l-ora-del-racconto-edizione-speciale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-2026-tarcento",
+    "titolo": "Mercatini di Natale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-12-20T18:00",
+    "luogo": "Ufficio informazione e accoglienza turistica (i.a.t.) Tarcento turismo",
+    "indirizzo": "Via Divisione Julia, 13, 33017 Tarcento UD, Italia",
+    "cap": null,
+    "comune": "030116",
+    "frazione": null,
+    "lat": 46.22388,
+    "lon": 13.22619,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini di Natale con apertura a cura della Pro Loco Tarcento. Il programma include l'accensione dell'albero, l'arrivo di Babbo Natale, intrattenimenti musicali, spettacoli di magia, danza e arte, e castagnate.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Tarcento A.P.S.",
+    "fonti": [
+      {
+        "nome": "Comune di Tarcento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tarcento.ud.it/it/eventi/mercatini-di-natale-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "carnevale-termense-terme-vigliatore",
+    "titolo": "Carnevale Termense",
+    "categoria": "festa-religiosa",
+    "inizio": "2027-03-16",
+    "fine": "2027-03-18",
+    "luogo": "Palazzo Municipale",
+    "indirizzo": "Terme Vigliatore",
+    "cap": null,
+    "comune": "083106",
+    "frazione": null,
+    "lat": 38.13091,
+    "lon": 15.15222,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di tipo festival che si svolge a Palazzo Municipale. La pagina non fornisce ulteriori dettagli specifici sul programma o sugli ospiti, indicando solo la data e il luogo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Terme Vigliatore",
+        "tipo": "ufficiale",
+        "url": "https://comune.termevigliatore.me.it/vivere-il-comune/tipo-evento/festival",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sabato-in-biblioteca-sta-arrivando-santa-lucia-terno-d-isola",
+    "titolo": "Sabato in biblioteca: Sta arrivando Santa Lucia",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di letture animate per bambini dai 3 ai 6 anni con Micaela Vernice. L'evento fa parte della serie 'Sabato in biblioteca' e si svolge presso la biblioteca comunale o il parco Pivano.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/sabato-biblioteca-1",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sabato-in-biblioteca-scende-la-neve-terno-d-isola",
+    "titolo": "Sabato in biblioteca: Scende la neve",
+    "categoria": "bambini",
+    "inizio": "2027-01-16T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività di lettura e animazione per bambini piccoli (3-6 anni) a tema invernale. L'incontro si tiene ogni sabato mattina presso la biblioteca o il parco Pivano, con iscrizione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/sabato-biblioteca-1",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-di-natale-ballata-di-natale-terno-d-isola",
+    "titolo": "Teatro di Natale: Ballata di Natale",
+    "categoria": "teatro",
+    "inizio": "2026-12-29T16:30",
+    "fine": null,
+    "luogo": "Teatro dell'Oratorio",
+    "indirizzo": "Terno d'Isola",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale natalizio 'Ballata di Natale' presentato dalla compagnia Teatro del Vento. L'evento è rivolto alle famiglie e richiede prenotazione tramite QR code presente nella locandina.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Vento",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/teatro-di-natale-martedi-29-dicembre-ore-1630-teatro-delloratorio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sabato-in-biblioteca-che-belle-mascherine-terno-d-isola",
+    "titolo": "Sabato in biblioteca: Che belle mascherine",
+    "categoria": "bambini",
+    "inizio": "2027-02-06T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture e animazioni dedicate a bambini di 3-6 anni. L'attività si svolge presso la biblioteca o il parco Pivano con l'animatrice Micaela Vernice. La partecipazione è gratuita ma l'iscrizione è obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/sabato-biblioteca-1",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sabato-in-biblioteca-evviva-i-papa-terno-d-isola",
+    "titolo": "Sabato in biblioteca: Evviva i papà!",
+    "categoria": "bambini",
+    "inizio": "2027-03-06T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di letture e giochi per la fascia d'età 3-6 anni, parte del ciclo 'Sabato in biblioteca'. L'evento si tiene nella biblioteca comunale o nel parco Pivano. Necessaria iscrizione preventiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/sabato-biblioteca-1",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-dsa-riconoscerli-e-comprenderli-terno-d-isola",
+    "titolo": "CORSO DSA RICONOSCERLI E COMPRENDERLI",
+    "categoria": "conferenza",
+    "inizio": "2027-01-26T20:30",
+    "fine": null,
+    "luogo": "Aula corsi della biblioteca",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso di tre incontri per genitori e adulti focalizzato sul riconoscimento e la comprensione dei Disturbi Specifici dell'Apprendimento. Conduzione di psicologa e logopedista. Iscrizioni presso la biblioteca.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 48
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/corso-dsa-riconoscerli-e-comprenderli",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-gospel-presso-prepositurale-plebana-terno-d-isola",
+    "titolo": "CONCERTO GOSPEL PRESSO PREPOSITURALE PLEBANA",
+    "categoria": "concerto",
+    "inizio": "2027-01-03T20:45",
+    "fine": null,
+    "luogo": "Prepositurale Plebana",
+    "indirizzo": "Terno d'Isola",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica corale eseguita dal coro Clapping Voices Choir. L'evento si svolge all'interno della Prepositurale Plebana di Terno d'Isola. Ingresso gratuito fino ad esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/concerto-gospel-presso-prepositurale-plebana-domenica-3-gennaio-ore-2045",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sabato-in-biblioteca-che-storia-che-sei-mamma-terno-d-isola",
+    "titolo": "Sabato in biblioteca: Che storia che sei, mamma!",
+    "categoria": "bambini",
+    "inizio": "2027-05-29T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Via Bravi",
+    "cap": null,
+    "comune": "016213",
+    "frazione": null,
+    "lat": 45.68561,
+    "lon": 9.52696,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di lettura e animazione per bambini di età compresa tra 3 e 6 anni. L'evento si svolge presso la biblioteca o il parco Pivano. La partecipazione è gratuita ma richiede l'iscrizione tramite link dedicato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Terno d'Isola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ternodisola.bg.it/vivere-il-comune/eventi/sabato-biblioteca-1",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ogni-8-minuti-torreglia",
+    "titolo": "Ogni 8 minuti",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T09:00",
+    "fine": "2026-11-26T12:00",
+    "luogo": "Auditorium Giuliana Fraccaro Prosdocimi",
+    "indirizzo": "Via Vittorio Veneto n. 7, Torreglia",
+    "cap": null,
+    "comune": "028092",
+    "frazione": null,
+    "lat": 45.33812,
+    "lon": 11.72687,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale organizzato dal Comune di Torreglia in collaborazione con l'Istituto Comprensivo di Montegrotto Terme. L'evento, rivolto alle scuole secondarie di primo grado ma aperto al pubblico, celebra la giornata internazionale contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Torreglia",
+    "fonti": [
+      {
+        "nome": "Comune di Torreglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.torreglia.pd.it/vivere-il-comune/eventi/ogni-8-minuti",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "costruisco-il-mio-volto-come-picasso-torreglia",
+    "titolo": "Costruisco il mio volto come Picasso",
+    "categoria": "bambini",
+    "inizio": "2026-11-27T16:15",
+    "fine": "2026-11-27T18:00",
+    "luogo": "Biblioteca A. Tolomei",
+    "indirizzo": "Largo Marconi, 2, Torreglia",
+    "cap": null,
+    "comune": "028092",
+    "frazione": null,
+    "lat": 45.33812,
+    "lon": 11.72687,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio inclusivo per ragazzi dagli 11 anni curato da Debora Spolverato nell'ambito del progetto \"Inclusione di comunità\", con la partecipazione della Cooperativa Nuova Idea. Attività di costruzione creativa proposta dalla Biblioteca di Torreglia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Torreglia",
+    "fonti": [
+      {
+        "nome": "Comune di Torreglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.torreglia.pd.it/vivere-il-comune/eventi/costruisco-il-mio-volto-come-picasso",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vonde-tricesimo",
+    "titolo": "Vonde!",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T18:00",
+    "fine": "2026-11-27T20:00",
+    "luogo": "Sala Pierluigi Cappello",
+    "indirizzo": "Piazzale S. Giovanni Bosco, 33019 Tricesimo UD, Italia",
+    "cap": null,
+    "comune": "030127",
+    "frazione": null,
+    "lat": 46.15946,
+    "lon": 13.20806,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna culturale di quattro appuntamenti dedicati alla Giornata Internazionale contro la Violenza sulle Donne, con focus sul rispetto, le pari opportunità e il contrasto alla violenza di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Tricesimo",
+    "fonti": [
+      {
+        "nome": "Comune di Tricesimo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tricesimo.ud.it/it/eventi/vonde",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-fotografica-a-50-anni-dal-terremoto-tricesimo",
+    "titolo": "Mostra fotografica a 50 anni dal terremoto",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T17:30",
+    "fine": "2026-12-07T12:00",
+    "luogo": "Ufficio I.A.T.",
+    "indirizzo": "Via Sant'Antonio, 8, 33019 Tricesimo UD, Italia",
+    "cap": null,
+    "comune": "030127",
+    "frazione": null,
+    "lat": 46.15946,
+    "lon": 13.20806,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica che documenta i danni agli edifici friulani causati dal sisma del 1976. L'esposizione raccoglie immagini dagli archivi locali per conservare la memoria dell'evento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Memorie Tricesimane, Rosade Furlane",
+    "fonti": [
+      {
+        "nome": "Comune di Tricesimo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tricesimo.ud.it/it/eventi/mostra-fotografica-a-50-anni-dal-terremoto",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
