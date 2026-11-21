@@ -306994,5 +306994,104 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nidaba-family-band-milano",
+    "titolo": "NIDABA FAMILY BAND",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T20:00",
+    "fine": null,
+    "luogo": "Nidaba Theatre",
+    "indirizzo": "Via Emilio Gola 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.448978,
+    "lon": 9.175648,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto della Nidaba Family Band che esegue brani in stili Soul, Funk e Blues. Prima uscita della serata per questa formazione musicale, che anima il palco del locale con ritmi energici e classici del genere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nidaba Theatre",
+    "fonti": [
+      {
+        "nome": "Nidaba Theatre",
+        "tipo": "organizzatore",
+        "url": "https://nidaba.it/nidaba-aperitivo-live-ibla",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "amanda-e-la-banda-celebrating-25-years-of-blues-milano",
+    "titolo": "Amanda e La Banda: Celebrating 25 Years of Blues",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T20:00",
+    "fine": null,
+    "luogo": "Nidaba Theatre",
+    "indirizzo": "Via Emilio Gola 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.448978,
+    "lon": 9.175648,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento speciale per celebrare 25 anni di carriera nella scena Blues. Amanda e La Banda si esibiscono in stili Soul, Funk e Blues, offrendo un tributo alla loro storia musicale con un concerto commemorativo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nidaba Theatre",
+    "fonti": [
+      {
+        "nome": "Nidaba Theatre",
+        "tipo": "organizzatore",
+        "url": "https://nidaba.it/nidaba-aperitivo-live-ibla",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casseoula-con-polenta-canegrate",
+    "titolo": "Casseoula con polenta",
+    "categoria": "sagra",
+    "inizio": "2026-11-25T12:00",
+    "fine": null,
+    "luogo": "Beer Banti",
+    "indirizzo": "Via Mulino Galletto 8",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.580324,
+    "lon": 8.93296,
+    "coordinateApprossimate": false,
+    "descrizione": "Pausa pranzo speciale dedicata alla cassoeula con polenta, un piatto tradizionale piemontese, proposta dal locale nella giornata del 25 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Beer Banti",
+    "fonti": [
+      {
+        "nome": "Beer Banti",
+        "tipo": "organizzatore",
+        "url": "https://www.mulinobeerbanti.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
