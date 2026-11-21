@@ -304581,5 +304581,61 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "fashion-weekend-in-villa-villa-mazzotti-chiari-2026-11-28",
+    "titolo": "Fashion Weekend in Villa",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Villa Mazzotti",
+    "comune": "017052",
+    "lat": 45.53312,
+    "lon": 9.9182,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate dedicate a moda e design nella storica Villa Mazzotti. Sabato 28 fashion e beauty market di giorno (la serata «Glamour Vintage Party» è solo su invito); domenica 29 nel pomeriggio sfilata di moda e spettacolo di danza. Per tutto il weekend sono attive un'area bar e ristoro e un'area lounge. Con la Pro Loco di Chiari e il patrocinio della Città di Chiari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco di Chiari e partner",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzhU5bjS23/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "stella-di-natale-agricola-in-memoria-di-nicolas-tomasoni-comezzano-cizzago-2027-01-02",
+    "titolo": "Stella di Natale agricola in memoria di Nicolas Tomasoni (1ª edizione)",
+    "categoria": "cerimonia",
+    "inizio": "2027-01-02T16:30",
+    "fine": "2027-01-02T23:00",
+    "luogo": "Via G. Mameli",
+    "comune": "017060",
+    "lat": 45.46884,
+    "lon": 9.95395,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di condivisione e solidarietà per ricordare Nicolas Tomasoni: trattori, mezzi agricoli e altri veicoli illuminati si ritrovano dalle 16:30 alle 22:30 per comporre una grande Stella di Natale, con foto e video dall'alto alle 23:00. Chi vuole può partecipare con il proprio mezzo. Durante la serata pane e salamina, tè caldo, vin brulé e vino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Famiglia e amici di Nicolas Tomasoni",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Chiari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzAkFuoUrq/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
