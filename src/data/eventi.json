@@ -290226,5 +290226,1758 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "alla-ricerca-di-parsifal-novara",
+    "titolo": "Alla ricerca di PARSIFAL",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T13:00",
+    "luogo": "Broletto",
+    "indirizzo": "Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza a tema storico tenuta al Broletto di Novara, dedicata all'analisi dell'opera Parsifal di Wagner.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Novara",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.novara.it/vivere-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sant-antero-novara",
+    "titolo": "Sant'Antero",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T16:00",
+    "fine": null,
+    "luogo": "Fondazione Fabbrica Lapidea",
+    "indirizzo": "Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al sito di Sant'Antero, condotta dalla Fondazione Fabbrica Lapidea con approfondimenti storici e architettonici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Fabbrica Lapidea",
+    "fonti": [
+      {
+        "nome": "Comune di Novara",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.novara.it/vivere-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "strawoman-novara",
+    "titolo": "Strawoman",
+    "categoria": "sport",
+    "inizio": "2026-11-21T13:00",
+    "fine": "2026-11-21T17:00",
+    "luogo": "Piazza Puccini",
+    "indirizzo": "Novara",
+    "cap": null,
+    "comune": "003106",
+    "frazione": null,
+    "lat": 45.4393,
+    "lon": 8.61537,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata non competitiva, partenza da Piazza Puccini, lungo percorsi naturali. Durata quattro ore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Novara",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.novara.it/vivere-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-a-teatro-con-tut-el-ben-che-te-voi-pergine-valsugana",
+    "titolo": "Autunno a teatro - 'Con tut el ben che te vòi'",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T22:30",
+    "luogo": "Teatro Comunale di Pergine Valsugana",
+    "indirizzo": "Pergine Valsugana",
+    "cap": null,
+    "comune": "022139",
+    "frazione": null,
+    "lat": 46.05828,
+    "lon": 11.2361,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della Filodrammatica R.A.L. di Rallo che inaugura la diciassettesima edizione della rassegna Autunno a teatro, promossa dalla Filodrammatica ACS-PUNTO3 di Canale in collaborazione con COFAS.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Filodrammatica \"ACS-PUNTO3\" di Canale",
+    "fonti": [
+      {
+        "nome": "Comune di Pergine Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pergine.tn.it/Vivere-il-Comune/Eventi/Autunno-a-teatro-diciassettesima-edizione",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "na-carega-col-cusin-pergine-valsugana",
+    "titolo": "Na carega col cusin",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T22:30",
+    "luogo": "Teatro Comunale di Pergine Valsugana",
+    "indirizzo": "Pergine Valsugana",
+    "cap": null,
+    "comune": "022139",
+    "frazione": null,
+    "lat": 46.05828,
+    "lon": 11.2361,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo spettacolo della diciassettesima edizione della rassegna Autunno a teatro, promosso dalla Filodrammatica ACS-PUNTO3 di Canale in collaborazione con COFAS. Tutti gli spettacoli si tengono al teatro comunale con inizio alle ore 20:30.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Filodrammatica \"ACS-PUNTO3\" di Canale",
+    "fonti": [
+      {
+        "nome": "Comune di Pergine Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pergine.tn.it/Vivere-il-Comune/Eventi/Autunno-a-teatro-diciassettesima-edizione",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "60-40-e-25-anni-di-storia-canti-e-ricerca-nella-e-per-la-comunita-pergine-valsugana",
+    "titolo": "60, 40 e 25 anni di storia, canti e ricerca nella e per la Comunità",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T17:30",
+    "fine": "2026-11-22T20:00",
+    "luogo": "Teatro Comunale di Pergine Valsugana",
+    "indirizzo": "Pergine Valsugana",
+    "cap": null,
+    "comune": "022139",
+    "frazione": null,
+    "lat": 46.05828,
+    "lon": 11.2361,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo celebrativo che riunisce tradizione del canto corale, ricerca e narrazione per festeggiare i 60 anni della Corale Canezza. Include musiche del Trio Ametista, recite della Società Filodrammatica Canezza e sand animation di Elena Leonardelli, con regia di Elio Carlin.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pergine Valsugana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pergine.tn.it/Vivere-il-Comune/Eventi/60-40-e-25-anni-di-storia-canti-e-ricerca-nella-e-per-la-Comunita",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-nazionale-degli-alberi-e-l-albero-di-san-martino-appuntamenti-ozzano-dell-emilia",
+    "titolo": "Giornata nazionale degli Alberi e l'Albero di San Martino: appuntamenti sul territorio",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-21",
+    "luogo": "Ozzano",
+    "indirizzo": "Ozzano dell'Emilia",
+    "cap": null,
+    "comune": "037046",
+    "frazione": null,
+    "lat": 44.42837,
+    "lon": 11.47606,
+    "coordinateApprossimate": true,
+    "descrizione": "Ozzano festeggia la Giornata Nazionale degli Alberi con eventi promossi dall'Assessorato all'Ambiente in collaborazione con associazioni del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ozzano dell'Emilia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "let-s-beat-together-inaugurazione-dae-in-piazza-xxv-aprile-ozzano-dell-emilia",
+    "titolo": "\"Let's Beat Together\", inaugurazione DAE in piazza XXV aprile",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-23",
+    "fine": null,
+    "luogo": "piazza XXV aprile",
+    "indirizzo": "Ozzano dell'Emilia",
+    "cap": null,
+    "comune": "037046",
+    "frazione": null,
+    "lat": 44.42837,
+    "lon": 11.47606,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di un Defibrillatore Automatico Esterno (DAE) in piazza XXV aprile. Il messaggio promosso è che il primo soccorso è di tutti e che prendersi cura gli uni degli altri è qualcosa che si può imparare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ozzano dell'Emilia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ozzano.bo.it/it-it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochi-da-tavolo-al-csg-perugia",
+    "titolo": "Giochi da tavolo al CSG",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T15:00",
+    "fine": null,
+    "luogo": "Centro Servizi Giovani",
+    "indirizzo": "Via Settevalli, 11",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo appuntamento con i giochi da tavolo presso il Centro Servizi Giovani alle ore 15.00. Ingresso gratuito aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Perugia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.perugia.it/tipi_evento/laboratorio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "desteenazione-incontra-la-fucina-della-musica-perugia",
+    "titolo": "DesTEENazione incontra la Fucina della Musica",
+    "categoria": "bambini",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-02",
+    "luogo": "Centro Servizi Giovani",
+    "indirizzo": "Via Settevalli, 11",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre appuntamenti gratuiti per scoprire da vicino il mondo della musica, incontrarsi, sperimentare e lasciarsi ispirare. Ciclo rivolto ai giovani che si tiene dal 21 novembre al 2 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fucina della Musica",
+    "fonti": [
+      {
+        "nome": "Comune di Perugia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.perugia.it/tipi_evento/laboratorio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "collodi-in-biblioteca-letizia-bolzani-racconta-carlo-collodi-nel-bicen-pavia",
+    "titolo": "Collodi in Biblioteca - Letizia Bolzani racconta Carlo Collodi nel bicentenario della nascita",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-25T18:00",
+    "fine": "2026-11-25T19:30",
+    "luogo": "Biblioteca Mirabello Scala",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro culturale alla Biblioteca Mirabello Scala con Letizia Bolzani che racconta la vita e le opere di Carlo Collodi nel bicentenario della sua nascita.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-avventure-di-pinocchio-storia-di-un-burattino-pavia",
+    "titolo": "Le avventure di Pinocchio. Storia di un burattino",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T18:30",
+    "luogo": "Biblioteca Varesi",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dalle avventure di Pinocchio, proposto dalla Biblioteca Varesi per un pubblico giovane.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mondo-classico-la-valle-dell-eden-di-john-steinbeck-pavia",
+    "titolo": "Mondo Classico - 'La valle dell'Eden' di John Steinbeck",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T17:00",
+    "fine": "2026-11-27T18:30",
+    "luogo": "Biblioteca civica Carlo Bonetta",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura pubblica del romanzo 'La valle dell'Eden' di John Steinbeck presso la Biblioteca civica Carlo Bonetta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-il-giorno-che-non-ti-ho-ucciso-di-sarah-mustaf-pavia",
+    "titolo": "Presentazione del libro 'Il giorno che non ti ho ucciso' di Sarah Mustafa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": "2026-11-27T19:30",
+    "luogo": "Biblioteca Mirabello Scala",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Il giorno che non ti ho ucciso' di Sarah Mustafa presso la Biblioteca Mirabello Scala.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-alla-scoperta-di-pavia-il-fiume-azzurro-di-man-pavia",
+    "titolo": "Presentazione del libro 'Alla scoperta di Pavia. Il fiume azzurro' di Manuela Paini e Valentina Balma",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Biblioteca Ragazzi",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Alla scoperta di Pavia. Il fiume azzurro' di Manuela Paini e Valentina Balma, seguita da laboratorio creativo a tema presso la Biblioteca Ragazzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tutte-dormono-sulla-collina-lettura-scenica-a-cura-di-collezione-teatr-pavia",
+    "titolo": "Tutte dormono sulla collina - Lettura scenica a cura di Collezione Teatrica Netsuke",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T17:30",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Biblioteca Mirabello Scala",
+    "indirizzo": "Pavia",
+    "cap": null,
+    "comune": "018110",
+    "frazione": null,
+    "lat": 45.19776,
+    "lon": 9.16492,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura scenica del testo 'Tutte dormono sulla collina' a cura di Collezione Teatrica Netsuke presso la Biblioteca Mirabello Scala.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pavia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pavia.it/vivere-comune/eventi?f%5B0%5D=argomenti_eventi%3A428",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cinecorallo-la-rassegna-del-mercoledi-monselice",
+    "titolo": "CineCorallo - La rassegna del mercoledì",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T21:00",
+    "fine": null,
+    "luogo": "Cinema Corallo",
+    "indirizzo": "via S. Luigi, 18",
+    "cap": null,
+    "comune": "028055",
+    "frazione": null,
+    "lat": 45.22855,
+    "lon": 11.75668,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Filthy' in lingua originale, in programma in occasione della Giornata internazionale contro la violenza sulle donne. La rassegna è curata in collaborazione con Euganea Movie Movement.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Euganea Movie Movement",
+    "fonti": [
+      {
+        "nome": "Comune di Monselice",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monselice.padova.it/vivere-il-comune/eventi/cinecorallo-la-rassegna-del-mercoledi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-officina-del-tempo-sospeso-monselice-21-11",
+    "titolo": "L’officina del tempo sospeso",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Torre civica",
+    "indirizzo": "Monselice",
+    "cap": null,
+    "comune": "028055",
+    "frazione": null,
+    "lat": 45.22855,
+    "lon": 11.75668,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione di Omero Silver. L'evento si svolge nei giorni 14, 15, 21 e 22 novembre presso la Torre civica di Monselice.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Monselice",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monselice.padova.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "censimento-permanente-della-popolazione-2026-incontro-informativo-monselice",
+    "titolo": "Censimento permanente della popolazione 2026: incontro informativo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": null,
+    "luogo": "Aula Consiliare del Comune di Monselice",
+    "indirizzo": "Monselice",
+    "cap": null,
+    "comune": "028055",
+    "frazione": null,
+    "lat": 45.22855,
+    "lon": 11.75668,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico aperto alla cittadinanza sul Censimento Istat. Verranno presentati i rilevatori attivi sul territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Monselice",
+    "fonti": [
+      {
+        "nome": "Comune di Monselice",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monselice.padova.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "memories-la-pittura-di-elena-marchesini-monselice",
+    "titolo": "MEMORIES – La pittura di Elena Marchesini",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2027-01-11",
+    "luogo": "Galleria d'Arte Contemporanea Roma V",
+    "indirizzo": "Monselice",
+    "cap": null,
+    "comune": "028055",
+    "frazione": null,
+    "lat": 45.22855,
+    "lon": 11.75668,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale dell'artista Elena Marchesini, a cura di Riccardo Pietto. L'esposizione ospitata dalla Galleria d'Arte Contemporanea Roma V.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Riccardo Pietto",
+    "fonti": [
+      {
+        "nome": "Comune di Monselice",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monselice.padova.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "4-incontri-con-l-arte-prato-della-valle-e-il-palio-di-monselice-monselice",
+    "titolo": "4 Incontri con l'Arte - Prato della Valle e Il Palio di Monselice",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Monselice",
+    "indirizzo": "Monselice",
+    "cap": null,
+    "comune": "028055",
+    "frazione": null,
+    "lat": 45.22855,
+    "lon": 11.75668,
+    "coordinateApprossimate": true,
+    "descrizione": "Ultimo incontro della rassegna Incontri con l'Arte, dedicato al Prato della Valle e al Palio di Monselice.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Monselice",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.monselice.padova.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-tu-per-tu-con-la-violenza-montecatini-terme",
+    "titolo": "A tu per tu con la violenza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-21",
+    "luogo": "Terme del Tettuccio",
+    "indirizzo": "Montecatini-Terme",
+    "cap": null,
+    "comune": "047011",
+    "frazione": null,
+    "lat": 43.89834,
+    "lon": 10.78144,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul caso di Nessy Guerra, vittima di violenza domestica in Egitto, con la diretta dellinteressata in collegamento e la ricostruzione legale di Agata Armanetti, inserito nel ciclo A tu per tu con la violenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montecatini-Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecatini-terme.pt.it/it/eventi/a-tu-per-tu-con-la-violenza",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-gatto-col-cappello-montecchio-maggiore",
+    "titolo": "Il gatto col cappello",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Cinema San Pietro",
+    "indirizzo": "Corso G. Matteotti, 56, 36075 Montecchio Maggiore VI, Italia",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film d'animazione dedicato a Gabby e Sebastian, due fratelli che affrontano un trasferimento; arriva il Gatto col Cappello, personaggio eccentrico e imprevedibile che porta magia e allegria. Avventura ispirata al mondo di Dr. Seuss.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/cinema-san-pietro-728422-734471",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-dei-diversi-plessi-dell-istituto-comprensivo-di-ponte-san-nic-ponte-san-nicolo",
+    "titolo": "Open Day dei diversi plessi dell’Istituto Comprensivo di Ponte San Nicolò",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-01",
+    "fine": null,
+    "luogo": "Scuola L'Aquilone",
+    "indirizzo": "via S. Fidenzio, 13 Roncajette",
+    "cap": null,
+    "comune": "028069",
+    "frazione": null,
+    "lat": 45.35634,
+    "lon": 11.92644,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione della scuola dell'infanzia presso la scuola L'Aquilone nell'ambito dell'Open Day dell'Istituto Comprensivo di Ponte San Nicolò.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ponte San Nicolò",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pontesannicolo.pd.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-dei-diversi-plessi-dell-istituto-comprensivo-di-ponte-san-nic-ponte-san-nicolo-10-12",
+    "titolo": "Open Day dei diversi plessi dell’Istituto Comprensivo di Ponte San Nicolò",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-10",
+    "fine": null,
+    "luogo": "Scuola Marconi",
+    "indirizzo": "via Medici, 10",
+    "cap": null,
+    "comune": "028069",
+    "frazione": null,
+    "lat": 45.35634,
+    "lon": 11.92644,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione delle scuole primarie presso la scuola Marconi nell'ambito dell'Open Day dell'Istituto Comprensivo di Ponte San Nicolò.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ponte San Nicolò",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pontesannicolo.pd.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "listen-first-san-mauro-pascoli",
+    "titolo": "Listen First",
+    "categoria": "sport",
+    "inizio": "2026-11-22T10:30",
+    "fine": "2026-11-22T19:30",
+    "luogo": "Villa Torlonia (La Torre)",
+    "indirizzo": "San Mauro Pascoli",
+    "cap": null,
+    "comune": "040041",
+    "frazione": null,
+    "lat": 44.11456,
+    "lon": 12.43209,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa sul progetto Generazioni unite nella parità dei diritti, sostenuta da Agedo Rimini-Cesena e curata da A.S.D. Yessai Hip Hop Dance School e Istituto Comprensivo. Prevede panel talk, jam, battle 2vs2 All Style su musica hip hop e open stage per affrontare tematiche di genere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.S.D. Yessai Hip Hop Dance School",
+    "fonti": [
+      {
+        "nome": "Comune di San Mauro Pascoli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanmauropascoli.fc.it/it/eventi/educare-alla-parole-734515",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scarpe-rosse-in-piazza-rompiamo-il-muro-san-mauro-pascoli",
+    "titolo": "Scarpe rosse in piazza – Rompiamo il muro",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T10:30",
+    "fine": "2026-11-25T17:30",
+    "luogo": "Piazza Mazzini",
+    "indirizzo": "San Mauro Pascoli",
+    "cap": null,
+    "comune": "040041",
+    "frazione": null,
+    "lat": 44.11456,
+    "lon": 12.43209,
+    "coordinateApprossimate": true,
+    "descrizione": "Flash mob a cura di Le Rose di Oriana A.P.S. per la Giornata Mondiale contro la Violenza sulle Donne. Dalle 10:30 alle 17:30 sul palco di Piazza Mazzini verranno posizionate scarpe rosse; dalle 15:30 alle 16:00 momento musicale con Amici della Musica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Le Rose di Oriana A.P.S.",
+    "fonti": [
+      {
+        "nome": "Comune di San Mauro Pascoli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanmauropascoli.fc.it/it/eventi/reading-poetico-qualcosa-di-nuovo-nel-sole-pascoli-si-racconta-726715-726719-732221-732225-732542-733354-733362-734513",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-cammino-contro-la-violenza-sulle-donne-san-mauro-pascoli",
+    "titolo": "In cammino contro la violenza sulle donne",
+    "categoria": "sport",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Municipio",
+    "indirizzo": "San Mauro Pascoli",
+    "cap": null,
+    "comune": "040041",
+    "frazione": null,
+    "lat": 44.11456,
+    "lon": 12.43209,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata solidale organizzata da MuoviSanMauro APS per la riappropriazione degli spazi pubblici e per sensibilizzare sul tema della violenza contro le donne. Si consiglia abbigliamento e calzature sportive.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MuoviSanMauro APS",
+    "fonti": [
+      {
+        "nome": "Comune di San Mauro Pascoli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanmauropascoli.fc.it/it/eventi/commemorazione-dei-caduti-di-tutte-le-guerre-733613-734646",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anna-della-rosa-diario-di-eva-san-mauro-pascoli",
+    "titolo": "Anna Della Rosa - Diario di Eva",
+    "categoria": "teatro",
+    "inizio": "2026-12-19",
+    "fine": null,
+    "luogo": "Teatro di Villa Torlonia",
+    "indirizzo": "San Mauro Pascoli",
+    "cap": null,
+    "comune": "040041",
+    "frazione": null,
+    "lat": 44.11456,
+    "lon": 12.43209,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Anna Della Rosa in Diario di Eva di Dario Fo e Franca Rame, produzione Casa del Contemporaneo in collaborazione con Stanze – teatro fuori dai teatri. Lettura recitata dell'intera opera.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa del Contemporaneo in collaborazione con Stanze – teatro fuori dai teatri",
+    "fonti": [
+      {
+        "nome": "Comune di San Mauro Pascoli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanmauropascoli.fc.it/it/eventi/rassegna-teatrale-sillaba-2026-2027-728930-729182-729395",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "impero-romagno-mania-monologo-e-concerto-di-liscio-san-mauro-pascoli",
+    "titolo": "IMPERO ROMAGNO MANIA / monologo e concerto di liscio",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T17:00",
+    "fine": "2026-12-20T19:00",
+    "luogo": "Teatro di Villa Torlonia",
+    "indirizzo": "San Mauro Pascoli",
+    "cap": null,
+    "comune": "040041",
+    "frazione": null,
+    "lat": 44.11456,
+    "lon": 12.43209,
+    "coordinateApprossimate": true,
+    "descrizione": "Monologo e concerto di liscio scritto da Lorenzo Kruger e Stefano Andreoli. Lorenzo Kruger, nei panni di un sedicente medico, illustra la sindrome Impero Romagno Mania smontando stereotipi della cultura romagnola con humor e concerti di liscio rivisitati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperativa Sillaba Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di San Mauro Pascoli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanmauropascoli.fc.it/it/eventi/rassegna-teatrale-sillaba-2026-2027-728930-729182-729395-729396-733710-733715-733717-733719-734691",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piantare-e-solo-l-inizio-saronno",
+    "titolo": "Piantare è solo l'inizio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T21:00",
+    "fine": null,
+    "luogo": "Villa Gianetti",
+    "indirizzo": "Saronno",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico dedicato alla cura del verde cittadino. L'evento si terrà lunedì 23 novembre alle ore 21:00 presso Villa Gianetti, ed è rivolto ai cittadini interessati al tema della gestione e valorizzazione degli spazi verdi urbani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Saronno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.saronno.va.it/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ludobus-le-magie-del-giocare-savona",
+    "titolo": "Ludobus: le magie del giocare",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T13:00",
+    "luogo": "Piazza Sisto IV",
+    "indirizzo": "Piazza Sisto IV, 17100 Savona SV, Italia",
+    "cap": null,
+    "comune": "009056",
+    "frazione": null,
+    "lat": 44.33596,
+    "lon": 8.42357,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta in occasione della Giornata internazionale per i diritti dell'infanzia e dell'adolescenza, con il Ludobus presente in piazza per giochi e attività dedicate ai bambini dalle ore 9 alle 13.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Savona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.savona.it/it/eventi/ludobus-le-magie-del-giocare",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-e-gratuita-al-complesso-di-san-giacomo-savona-06-12",
+    "titolo": "Visita guidata e gratuita al complesso di San Giacomo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-06T10:00",
+    "fine": "2026-12-06T12:00",
+    "luogo": "Municipio",
+    "indirizzo": "Corso Italia, 19, 17100 Savona SV, Italia",
+    "cap": null,
+    "comune": "009056",
+    "frazione": null,
+    "lat": 44.33596,
+    "lon": 8.42357,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al Complesso di San Giacomo, ex convento restaurato grazie a fondi PNRR e al Comune, che ha riaperto nell'autunno 2026 svelando ambienti e preziosi affreschi. La visita è a cura di Amici del San Giacomo, con due gruppi alle ore 10-11 e 11-12.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amici del San Giacomo",
+    "fonti": [
+      {
+        "nome": "Comune di Savona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.savona.it/it/eventi/visita-guidata-e-gratuita-al-complesso-di-san-giacomo-733310-733312-733318-733319",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "diamanti-grezzi-serata-di-musica-emergente-al-c-s-a-baraonda-segrate",
+    "titolo": "\"Diamanti Grezzi\", serata di musica emergente al C.S.A. Baraonda",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "C.S.A. Baraonda",
+    "indirizzo": "Segrate",
+    "cap": null,
+    "comune": "015205",
+    "frazione": null,
+    "lat": 45.48391,
+    "lon": 9.28548,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla musica emergente con esibizioni di artisti locali presso il C.S.A. Baraonda.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Segrate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.segrate.mi.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "canti-poesia-e-tecniche-base-di-autodifesa-serata-al-centro-civico-di-segrate",
+    "titolo": "\"Canti, poesia e tecniche base di Autodifesa\". Serata al Centro civico di Redecesio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Centro civico di Redecesio",
+    "indirizzo": "Segrate",
+    "cap": null,
+    "comune": "015205",
+    "frazione": null,
+    "lat": 45.48391,
+    "lon": 9.28548,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata che unisce canti, poesia e tecniche base di autodifesa presso il Centro civico di Redecesio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Segrate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.segrate.mi.it/vivere-il-comune/eventi/?reloaded&facet_category_exact=argomenti%2Fassistenza-sociale%2F&q=&sort=date_asc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "due-vite-in-una-storia-di-una-rinascita-conversazione-aperta-dibattito-segrate",
+    "titolo": "\"Due vite in una\". Storia di una rinascita. Conversazione aperta dibattito al Centro Verdi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Centro Verdi",
+    "indirizzo": "Segrate",
+    "cap": null,
+    "comune": "015205",
+    "frazione": null,
+    "lat": 45.48391,
+    "lon": 9.28548,
+    "coordinateApprossimate": true,
+    "descrizione": "Conversazione aperta e dibattito sul tema della rinascita personale presso il Centro Verdi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Segrate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.segrate.mi.it/vivere-il-comune/eventi/?reloaded&facet_category_exact=argomenti%2Fassistenza-sociale%2F&q=&sort=date_asc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "babbo-run-corsa-o-camminata-per-famiglie-giochi-e-merenda-in-piazza-sa-segrate",
+    "titolo": "\"BABBO RUN\", corsa o camminata per famiglie, giochi e merenda in Piazza San Francesco",
+    "categoria": "sport",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Piazza San Francesco",
+    "indirizzo": "Segrate",
+    "cap": null,
+    "comune": "015205",
+    "frazione": null,
+    "lat": 45.48391,
+    "lon": 9.28548,
+    "coordinateApprossimate": true,
+    "descrizione": "Corsa o camminata per famiglie con giochi e merenda in Piazza San Francesco.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Segrate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.segrate.mi.it/vivere-il-comune/eventi/?reloaded&facet_category_exact=argomenti%2Fcomunicazione-istituzionale%2F&q=&sort=date_asc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "io-valgo-nel-borgo-santarcangelo-di-romagna",
+    "titolo": "IO VALGO...nel borgo",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-03T10:00",
+    "fine": "2026-12-03T13:00",
+    "luogo": "Parco Campo della Fiera",
+    "indirizzo": "Via Arrigo Faini, 8",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata di iniziative a cura della Consulta del Settore Civile in occasione della Giornata internazionale dei diritti delle persone con disabilità. Evento aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consulta del Settore Civile",
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/eventi/io-valgo-nel-borgo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "musas-contatto-santarcangelo-di-romagna",
+    "titolo": "MUSAS ConTATTO",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-03T16:30",
+    "fine": "2026-12-03T19:00",
+    "luogo": "Musas Museo Storico Archeologico",
+    "indirizzo": "via della Costa, 26",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso tattile di visita tra le opere del museo, dedicato a archeologia e storia dell'arte. Evento accessibile a tutti, promosso nell'ambito di Week Care.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/eventi/musas-contatto",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-zaca-santarcangelo-di-romagna",
+    "titolo": "Inaugurazione ZÀCA!",
+    "categoria": "mostra",
+    "inizio": "2026-12-03T18:45",
+    "fine": "2026-12-03T20:30",
+    "luogo": "Biblioteca Baldini",
+    "indirizzo": "via Giovanni Pascoli, 3",
+    "cap": null,
+    "comune": "099018",
+    "frazione": null,
+    "lat": 44.0525,
+    "lon": 12.43586,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra fotografica \"La pace non è neutrale - Dall'Iran, immagini di memoria e resistenza\" di Majid Bita e Hanieh Ghashghaei. Evento gratuito, aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Santarcangelo di Romagna",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.santarcangelo.rn.it/it/eventi/inaugurazione-zaca",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maurizio-albertini-le-indagini-della-dottoressa-giulia-alberti-medico-sesto-calende",
+    "titolo": "Maurizio Albertini - Le indagini della Dottoressa Giulia Alberti, Medico Legale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:30",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Mazzini 16 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro dell’autore Maurizio Albertini nell’ambito della rassegna letteraria Segnalibri d’Autunno. Incontro aperto a tutta la cittadinanza, evento gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Attività Turistiche e Culturali",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/Maurizio-Albertini-Le-indagini-della-Dottoressa-Giulia-Alberti-Medico-Legale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sara-magnoli-a-carte-scoperte-sesto-calende",
+    "titolo": "Sara Magnoli - A Carte Scoperte",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Mazzini 16 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro dell’autrice Sara Magnoli nell’ambito della rassegna letteraria Segnalibri d’Autunno. Incontro aperto a tutta la cittadinanza, evento gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Attività Turistiche e Culturali",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/Sara-Magnoli-A-Carte-Scoperte",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-stronzo-spettacolo-teatrale-sesto-calende",
+    "titolo": "Lo Stronzo - Spettacolo teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T18:00",
+    "fine": null,
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Piazza Cesare da Sesto 1 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in occasione della Giornata Internazionale per l’eliminazione della violenza contro le donne. Evento gratuito aperto a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Attività Turistiche e Culturali",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/Lo-Stronzo-Spettacolo-teatrale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-internazionale-contro-violenza-sulle-donne-settimo-torinese",
+    "titolo": "Giornata internazionale contro violenza sulle donne",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T17:30",
+    "luogo": "Piazza della Libertà",
+    "indirizzo": "Settimo Torinese",
+    "cap": null,
+    "comune": "001265",
+    "frazione": null,
+    "lat": 45.14577,
+    "lon": 7.77311,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa Legambiente Settimo per la posa di una targa dedicata a Monica Nucetto, corteo contro la violenza sulle donne e dibattito in Sala Levi sulla realtà dei centri antiviolenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Forum Donne Settimo Torinese",
+    "fonti": [
+      {
+        "nome": "Comune di Settimo Torinese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.settimo-torinese.to.it/it/eventi/giornata-internazionale-contro-violenza-sulle-donne",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "60-minuti-d-autore-oltre-la-pagina-romentino",
+    "titolo": "60 minuti d'autore oltre la pagina",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T18:00",
+    "fine": null,
+    "luogo": "centro culturale Arch Pio Occhetta",
+    "indirizzo": "Romentino",
+    "cap": null,
+    "comune": "003131",
+    "frazione": null,
+    "lat": 45.46381,
+    "lon": 8.74688,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di presentazioni letterarie presso il centro culturale Arch Pio Occhetta. Il 4 dicembre 2026 alle ore 18:00 si terrà un incontro con autori e lettori, nell’ambito della serie dedicata alla letteratura contemporanea.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Romentino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.romentino.no.it/it-it/vivere-il-comune/eventi/60-minuti-d-autore-oltre-la-pagina-133270-1-3ee71fd2b5e694f108c22f05be116c03",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "60-minuti-d-autore-oltre-la-pagina-romentino-28-12",
+    "titolo": "60 minuti d'autore oltre la pagina",
+    "categoria": "conferenza",
+    "inizio": "2026-12-28T18:00",
+    "fine": null,
+    "luogo": "centro culturale Arch Pio Occhetta",
+    "indirizzo": "Romentino",
+    "cap": null,
+    "comune": "003131",
+    "frazione": null,
+    "lat": 45.46381,
+    "lon": 8.74688,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di presentazioni letterarie presso il centro culturale Arch Pio Occhetta. Il 28 dicembre 2026 alle ore 18:00 si terrà un incontro con autori e lettori, nell’ambito della serie dedicata alla letteratura contemporanea.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Romentino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.romentino.no.it/it-it/vivere-il-comune/eventi/60-minuti-d-autore-oltre-la-pagina-133272-1-f0c09aef6c381aa8160c9ffe8b6308cd",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-santa-cecilia-in-musica-roncoferraro",
+    "titolo": "Concerto Santa Cecilia in musica",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T17:30",
+    "fine": null,
+    "luogo": "Chiesa di Governolo",
+    "indirizzo": "Roncoferraro",
+    "cap": null,
+    "comune": "020052",
+    "frazione": null,
+    "lat": 45.12291,
+    "lon": 10.94855,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per festeggiare Santa Cecilia Patrona della Musica, diretto dai Maestri Andrea Presciuttini e Alessandra Zanon. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Roncoferraro",
+    "fonti": [
+      {
+        "nome": "Comune di Roncoferraro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.roncoferraro.mn.it/c020052/po/mostra_news.php?id=603&area=H",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-insieme-a-rufina-rufina",
+    "titolo": "Natale insieme a Rufina",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2027-01-10T23:00",
+    "luogo": "Municipio",
+    "indirizzo": "Via Piave, 5 - 50068 Rufina",
+    "cap": null,
+    "comune": "048037",
+    "frazione": null,
+    "lat": 43.81787,
+    "lon": 11.53369,
+    "coordinateApprossimate": true,
+    "descrizione": "Torna la magia del Natale, da vivere insieme a Rufina. Il calendario completo delle attività natalizie sarà pubblicato prossimamente.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rufina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rufina.fi.it/vivere-il-comune/eventi/natale-insieme-rufina",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-contro-la-violenza-sulle-donne-san-benigno-canavese",
+    "titolo": "Serata contro la violenza sulle donne",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Giovanni XXIII 16",
+    "cap": null,
+    "comune": "001236",
+    "frazione": null,
+    "lat": 45.23199,
+    "lon": 7.78632,
+    "coordinateApprossimate": true,
+    "descrizione": "In occasione della giornata contro la violenza sulle donne (25/11), il Comune organizza la serata «NON CHIAMATELO DESTINO» con interventi della Dott.ssa Vercellini, dell'Associazione Decima Arte e della Dott.ssa Braggion.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di San Benigno Canavese",
+    "fonti": [
+      {
+        "nome": "Comune di San Benigno Canavese",
+        "tipo": "ufficiale",
+        "url": "https://comune.sanbenignocanavese.to.it/eventi/serata-contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piazza-del-riuso-a-naturno-scoprire-riutilizzare-e-condividere-naturno-naturns",
+    "titolo": "Piazza del Riuso a Naturno: scoprire, riutilizzare e condividere",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "piazza davanti alla Cassa Raiffeisen di Naturno",
+    "indirizzo": "Naturno/Naturns",
+    "cap": null,
+    "comune": "021056",
+    "frazione": null,
+    "lat": 46.64157,
+    "lon": 11.00171,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento dedicato al riuso, alla riparazione e alla condivisione organizzato da iniziative e associazioni locali. Si terrà sabato 21 novembre dalle 9.00 alle 12.00 nella piazza davanti alla Cassa Raiffeisen di Naturno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Naturno/Naturns",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.naturno.bz.it/it/Vivere_il_comune/Eventi/Mercato_delle_possibilita_a_Naturno_scoprire_offerte_riparare_e_risparmiare_risorse",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-tempo-della-paura-quando-le-giornate-si-scolorano-la-paura-di-non-r-mozzo",
+    "titolo": "Il tempo della Paura - Quando le giornate si scolorano: la paura di non ritrovarsi",
+    "categoria": "conferenza",
+    "inizio": "2027-01-22T20:30",
+    "fine": null,
+    "luogo": "Sala Civica della Biblioteca di Mozzo",
+    "indirizzo": "via Orobie, 1",
+    "cap": null,
+    "comune": "016143",
+    "frazione": null,
+    "lat": 45.70233,
+    "lon": 9.60924,
+    "coordinateApprossimate": true,
+    "descrizione": "Un incontro sulla depressione come nebbia che cancella i punti di riferimento, con pratiche di Mindfulness per prevenire le ricadute. Con Patrizia Pini e Cristina Paruta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Divenire",
+    "fonti": [
+      {
+        "nome": "Comune di Mozzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mozzo.bg.it/vivere-il-comune/eventi/il-tempo-della-paura-quando-le-giornate-si-scolorano-la-paura-di-non-ritrovarsi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rompiamo-il-silenzio-none",
+    "titolo": "Rompiamo il silenzio",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T20:30",
+    "fine": null,
+    "luogo": "Via Roma, davanti alla Biblioteca",
+    "indirizzo": "Via Roma, davanti alla Biblioteca",
+    "cap": null,
+    "comune": "001168",
+    "frazione": null,
+    "lat": 44.94015,
+    "lon": 7.54886,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa sociale dedicata alla lotta contro la violenza sulle donne, organizzata nel quadro della campagna Rompiamo il silenzio. L'evento si tiene nel pomeriggio del 25 novembre, giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di None",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.none.to.it/Eventi?idCat=2",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cantico-delle-maledette-nervesa-della-battaglia",
+    "titolo": "Cantico delle maledette",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:30",
+    "fine": "2026-11-26T22:00",
+    "luogo": "Sala Consiliare del Municipio",
+    "indirizzo": "Piazza La Piave 1",
+    "cap": null,
+    "comune": "026050",
+    "frazione": null,
+    "lat": 45.82005,
+    "lon": 12.19591,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Attraverso parole, immagini, luci e musica dal vivo, lo spettacolo dà voce a chi ha subito violenza, invitando a riflettere e emozionarsi. Ideazione e regia di Giovanni Cilluffo, con voci recitanti e violoncello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cantieri Associati Culturali",
+    "fonti": [
+      {
+        "nome": "Comune di Nervesa della Battaglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.nervesa.tv.it/vivere-il-comune/eventi/cantico-delle-maledette-ideazione-e-regia-di-giovanni-cilluffo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
