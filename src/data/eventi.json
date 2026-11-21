@@ -302941,5 +302941,1589 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "accensione-dell-albero-e-delle-luminarie-acqui-terme",
+    "titolo": "ACCENSIONE DELL'ALBERO E DELLE LUMINARIE",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T17:30",
+    "fine": null,
+    "luogo": "Piazza Italia",
+    "indirizzo": "piazza Italia - 15011 Acqui Terme",
+    "cap": null,
+    "comune": "006001",
+    "frazione": null,
+    "lat": 44.68126,
+    "lon": 8.46393,
+    "coordinateApprossimate": true,
+    "descrizione": "Accensione dell'albero di Natale e delle luminarie in piazza. Pomeriggio festoso con distribuzione di cioccolata calda e presenza dell'animatore Willy Wonka.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/accensione-dellalbero-e-delle-luminarie/267d96b07b74479791314bbad54569f9?",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-contro-la-violenza-sulle-donne-serravalle-scrivia",
+    "titolo": "giornata contro la violenza sulle donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Area archeologica di Libarna",
+    "indirizzo": "Serravalle Scrivia",
+    "cap": null,
+    "comune": "006160",
+    "frazione": null,
+    "lat": 44.72338,
+    "lon": 8.84951,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del progetto 'Scarpette rosse' con passeggiata archeologica tematica sulla violenza di genere nel mondo romano. Organizzato dalla Consulta per le pari opportunità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consulta per le pari opportunità del Comune di Serravalle Scrivia",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/giornata-contro-la-violenza-sulle-donne/8b0a077a894b8b2acf0c2919831db399?",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "treno-storico-a-canelli-canelli",
+    "titolo": "Treno storico a Canelli",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-01",
+    "fine": "2026-11-22",
+    "luogo": "Stazione di Canelli",
+    "indirizzo": "Canelli",
+    "cap": null,
+    "comune": "005017",
+    "frazione": null,
+    "lat": 44.72206,
+    "lon": 8.28293,
+    "coordinateApprossimate": true,
+    "descrizione": "Arrivo alla stazione di Canelli del Treno Storico con carrozze anni '30 Centoporte nelle giornate specificate.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ferrovia delle Langhe, Roero e Monferrato",
+    "fonti": [
+      {
+        "nome": "Canelli Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.canellieventi.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-cima-rossa-bagheria",
+    "titolo": "Una Cima Rossa",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Bagheria",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione contro ogni forma di violenza sulle donne, organizzata in previsione della Giornata Internazionale del 25 novembre. L'evento è promosso dalla Lega.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lega",
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-internazionale-di-musica-sacra-mariana-bagheria",
+    "titolo": "Festival Internazionale di Musica Sacra Mariana",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Bagheria",
+    "indirizzo": "Bagheria",
+    "cap": null,
+    "comune": "082006",
+    "frazione": null,
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata al canto d'insieme e alla tradizione musicale natalizia e mariana, all'insegna dell'armonia e della bellezza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bagheria.pa.it/it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ba-gusto-2026-busto-arsizio",
+    "titolo": "Ba Gusto 2026",
+    "categoria": "sagra",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-29",
+    "luogo": "Busto Arsizio",
+    "indirizzo": "Busto Arsizio",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival gastronomico dedicato alla produzione locale e stagionale, con focus su panettoni, dolci di Natale, distillati e amari. L'evento offre assaggi e degustazioni di prodotti tipici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/categorie-eventi/65327",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "processo-per-stupro-mantova",
+    "titolo": "Processo per stupro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T18:30",
+    "luogo": "Sala delle Vedute",
+    "indirizzo": "via Roberto Ardigò, 13",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura pubblica e visione di estratti del documentario del 1979 per ripercorrere storie di processi e di donne ribelli nell'ambito della Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Istituto Mantovano di Storia Contemporanea, Associazione Bibliofficina",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/processo-per-stupro-25-novembre",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-divine-del-jazz-mantova",
+    "titolo": "Le Divine del jazz",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Cinema del Carbone",
+    "indirizzo": "Via Guglielmo Oberdan, 11",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della vocalist Valeria Perboni accompagnata dal quintetto d'archi e batteria del JAS-Jazz Acoustic Strings, dedicato alle grandi icone femminili del jazz con arrangiamenti di Cesare Carretta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Scuola di Musica",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/tracce-fossili-e-altri-inganni-8-novembre-731302-731308",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-tesori-di-spazio-900-mantova-26-11",
+    "titolo": "I tesori di spazio \"900",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T19:00",
+    "luogo": "Museo Diocesano Francesco Gonzaga",
+    "indirizzo": "Piazza Virgiliana, 55",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza dal titolo 'Ugo Celada da Virgilio', a cura di Cristian Valenti, che fa parte di un ciclo di incontri dedicati alla letteratura e all'arte del Novecento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Mirabilia",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/i-tesori-di-spazio-900-12-dicembre-731369",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accabadora-mantova",
+    "titolo": "Accabadora",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "fine": "2026-11-26T23:00",
+    "luogo": "Teatro Sociale di Mantova",
+    "indirizzo": "Piazza Felice Cavallotti, 14",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dal romanzo di Michela Murgia, con Anna Della Rosa e regia di Veronica Cruciani, ambientato in una Sardegna immaginaria e focalizzato sul personaggio di Maria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Artioli",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/sogno-di-una-notte-di-mezza-estate-10-novembre-731052",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-della-mostra-fotografica-le-pietre-parlano-musile-di-piave",
+    "titolo": "Inaugurazione della mostra fotografica Le Pietre parlano",
+    "categoria": "mostra",
+    "inizio": "2026-11-22T18:00",
+    "fine": "2026-11-22T20:30",
+    "luogo": "Sala Polivalente Oriana Fallaci",
+    "indirizzo": "Via San Giovanni, 2",
+    "cap": null,
+    "comune": "027025",
+    "frazione": null,
+    "lat": 45.59988,
+    "lon": 12.52424,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra fotografica dedicata alla lotta contro ogni forma di violenza. L'evento si svolge nella sala polivalente del centro culturale Bressanin - Sicher.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Musile di Piave",
+    "fonti": [
+      {
+        "nome": "Comune di Musile di Piave",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.musile.ve.it/vivere-il-comune/eventi/inaugurazione-della-mostra-fotografica-le-pietre-parlano",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "brescello-film-festival-brescello",
+    "titolo": "Brescello Film Festival",
+    "categoria": "teatro",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-22",
+    "luogo": "Teatro Gino Cervi",
+    "indirizzo": "Via Fratelli Rosselli, 1",
+    "cap": null,
+    "comune": "035006",
+    "frazione": null,
+    "lat": 44.88347,
+    "lon": 10.49092,
+    "coordinateApprossimate": true,
+    "descrizione": "La XXVI edizione della rassegna cinematografica curata dalla Fondazione Paese di Don Camillo e Peppone. I film vengono proiettati al Teatro Gino Cervi, con un focus sul cinema d'autore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Paese di Don Camillo e Peppone",
+    "fonti": [
+      {
+        "nome": "Emilia Romagna Turismo (Regione Emilia",
+        "tipo": "ufficiale",
+        "url": "https://emiliaromagnaturismo.it/it/eventi/brescello-film-festival",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "terre-di-pace-2026-gorizia",
+    "titolo": "Terre di Pace 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-23",
+    "luogo": "Gorizia",
+    "indirizzo": "Gorizia",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio interreligioso che porterà a Gorizia incontri e iniziative per una nuova rivoluzione culturale, coinvolgendo cinque comunità religiose: cristiano cattolica, cristiano metodista, ebraica, musulmana e buddista. Il progetto promuove il dialogo e il superamento delle divisioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Gorizia",
+    "fonti": [
+      {
+        "nome": "Let's Go Gorizia (Comune di Gorizia)",
+        "tipo": "ufficiale",
+        "url": "https://letsgo.gorizia.it/events/terre-di-pace-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cavallo-colossale-di-antonio-canova-bassano-del-grappa",
+    "titolo": "Il Cavallo colossale di Antonio Canova",
+    "categoria": "mostra",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Museo Civico di Bassano del Grappa",
+    "indirizzo": "Bassano del Grappa",
+    "cap": null,
+    "comune": "024012",
+    "frazione": null,
+    "lat": 45.77409,
+    "lon": 11.70721,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra che segnala il ritorno dell'opera scultorea del Cavallo colossale, attribuita ad Antonio Canova, all'interno delle sale espositive del Museo Civico, dedicata alla valorizzazione del patrimonio artistico locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+        "tipo": "ufficiale",
+        "url": "https://www.museibassano.it/it/mostre/in_corso",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sebasti-atilde-o-salgado-fotografie-della-collezione-maison-europ-eacu-bassano-del-grappa",
+    "titolo": "Sebasti&atilde;o Salgado. Fotografie della collezione Maison Europ&eacute;enne de la Photographie, Parigi",
+    "categoria": "mostra",
+    "inizio": "2026-10-24",
+    "fine": "2027-04-04",
+    "luogo": "Museo Civico di Bassano del Grappa",
+    "indirizzo": "Bassano del Grappa",
+    "cap": null,
+    "comune": "024012",
+    "frazione": null,
+    "lat": 45.77409,
+    "lon": 11.70721,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione fotografica che presenta opere della collezione della Maison Européenne de la Photographie di Parigi, dedicate alla figura di Sebastião Salgado, visitabile presso il museo civico comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+        "tipo": "ufficiale",
+        "url": "https://www.museibassano.it/it/mostre/in_corso",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-i-ricettari-dietetica-ittiologia-botanica-e-farmacopea-tra-xv-e-bassano-del-grappa",
+    "titolo": "Oltre i ricettari. Dietetica, ittiologia, botanica e farmacopea tra XV e XVII secolo",
+    "categoria": "mostra",
+    "inizio": "2026-10-30",
+    "fine": "2027-02-20",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Bassano del Grappa",
+    "cap": null,
+    "comune": "024012",
+    "frazione": null,
+    "lat": 45.77409,
+    "lon": 11.70721,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa espositiva e culturale che esplora il rapporto tra alimentazione, pesca, piante e farmaci nei secoli tra il Quattrocento e il Seicento, organizzata presso la sede della biblioteca civica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Musei Biblioteca Archivio di Bassano del Grappa",
+        "tipo": "ufficiale",
+        "url": "https://www.museibassano.it/it/mostre/in_corso",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-nozze-dell-orso-catania-10-12",
+    "titolo": "Le nozze dell’Orso",
+    "categoria": "teatro",
+    "inizio": "2026-12-10",
+    "fine": "2026-12-12",
+    "luogo": "Teatro Sangiorgi",
+    "indirizzo": "Via Antonino Di Sangiuliano, 233, Catania, 95131 CT, Italia",
+    "cap": null,
+    "comune": "087015",
+    "frazione": null,
+    "lat": 37.44224,
+    "lon": 15.03593,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale di Le nozze dell’Orso in programma a dicembre presso il Teatro Sangiorgi. L'evento è incluso nell'archivio eventi della stagione teatrale catanese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Massimo Bellini di Catania",
+        "tipo": "ufficiale",
+        "url": "https://www.teatromassimobellini.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "te-delle-tre-al-centro-giovani-pachamama-rubiera",
+    "titolo": "Tè delle Tre al Centro Giovani Pachamama",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T15:00",
+    "fine": "2026-11-21T19:30",
+    "luogo": "Centro Giovani Pachamama",
+    "indirizzo": "Via Terraglio 16, 42048 Rubiera",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di attività e merenda con tè e biscotti per i ragazzi, con apertura straordinaria del centro giovani e iscrizione obbligatoria limitata a 15 posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Giovani Pachamama",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/te-delle-tre-al-centro-giovani-pachamama-rubiera-21-novembre-2026-hSeid",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "my-skinny-sister-cineforum-generazioni-scandiano",
+    "titolo": "My Skinny Sister – Cineforum GenerAzioni",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T16:00",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Cinema Teatro Boiardo",
+    "indirizzo": "Viale XXV Aprile 3",
+    "cap": null,
+    "comune": "035040",
+    "frazione": null,
+    "lat": 44.59875,
+    "lon": 10.68975,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film e successivo confronto con operatori AUSL ed esperti sul tema delle dipendenze e della salute mentale, aperto alla cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ACAT Scandiano",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/my-skinny-sister-cineforum-generazioni-scandiano-21-novembre-2026-q6Xvd",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mater-amabilis-l-annunciazione-raccontata-da-dipinti-poco-conosciuti-scandiano",
+    "titolo": "«Mater Amabilis» – L'Annunciazione raccontata da dipinti poco conosciuti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T18:00",
+    "fine": "2026-11-21T19:30",
+    "luogo": "Teatrino di Pratissolo",
+    "indirizzo": "Scandiano",
+    "cap": null,
+    "comune": "035040",
+    "frazione": null,
+    "lat": 44.59875,
+    "lon": 10.68975,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro-lezione del Padre Antonello Ferretti sull'Annunciazione attraverso dipinti poco noti, a chiusura della Sagra della Maternità di Maria 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parrocchia di Pratissolo",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/mater-amabilis-lannunciazione-raccontata-da-dipinti-poco-conosciuti-con-padre-antonello-ferretti-pratissolo-21-novembre-2026-qz4So",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tombola-per-il-palio-dell-angelica-scandiano",
+    "titolo": "Tombola per il Palio dell'Angelica",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T20:30",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Centro Bisamar",
+    "indirizzo": "Via Beucci 84",
+    "cap": null,
+    "comune": "035040",
+    "frazione": null,
+    "lat": 44.59875,
+    "lon": 10.68975,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di tombola per raccogliere fondi destinati al Palio dell'Angelica 2027, con posti limitati e prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/tombola-al-centro-bisamar-21-novembre-2026-3fFfp",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercato-del-lunedi-a-scandiano-scandiano-23-11",
+    "titolo": "Mercato del lunedì a Scandiano",
+    "categoria": "mercatino",
+    "inizio": "2026-11-23T08:00",
+    "fine": null,
+    "luogo": "Centro storico di Scandiano",
+    "indirizzo": "Scandiano",
+    "cap": null,
+    "comune": "035040",
+    "frazione": null,
+    "lat": 44.59875,
+    "lon": 10.68975,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale mercato settimanale del lunedì mattina che si svolge nel centro di Scandiano, con banchi di generi vari.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "attraverso-cinema-horror-e-disuguaglianze-rubiera",
+    "titolo": "Attraverso: cinema horror e disuguaglianze",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T10:00",
+    "fine": null,
+    "luogo": "Biblioteca Antonio Urceo detto «Codro»",
+    "indirizzo": "Via Emilia Est 11, 42048 Rubiera",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro guidato da Daniele Giuliotti che analizza il legame tra il genere horror cinematografico e le disuguaglianze sociali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "noir-teatro-herberia-rubiera",
+    "titolo": "Noir – Teatro Herberia",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T20:30",
+    "fine": null,
+    "luogo": "Teatro Herberia",
+    "indirizzo": "Piazza Antonio Gramsci 1/b",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale Usine Baug sull'indagine riguardante la sparizione di un documentarista, che mescola true crime e teatro d'inchiesta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "PinS – Parole in Scena",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-natale-dei-bambini-al-museo-della-marineria-cesenatico",
+    "titolo": "Il Natale dei bambini al Museo della Marineria",
+    "categoria": "bambini",
+    "inizio": "2026-12-07T16:00",
+    "fine": null,
+    "luogo": "Museo della Marineria",
+    "indirizzo": "Cesenatico",
+    "cap": null,
+    "comune": "040008",
+    "frazione": null,
+    "lat": 44.17575,
+    "lon": 12.38003,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratori creativi per bambini dai 5 ai 12 anni presso il museo. Il primo appuntamento, Natale a gonfie vele, prevede la creazione di barche tradizionali a vela al terzo utilizzando materiali di riciclo e colori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Cesenatico",
+        "tipo": "ufficiale",
+        "url": "https://visitcesenatico.it/vivi-cesenatico/eventi/il-natale-dei-bambini-al-museo-della-marineria",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "taglio-del-bre-2026-breno",
+    "titolo": "Taglio del Bré 2026",
+    "categoria": "sagra",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Chiesa di Sant'Antonio",
+    "indirizzo": "Piazza Sant'Antonio, Breno",
+    "cap": null,
+    "comune": "017028",
+    "frazione": null,
+    "lat": 45.93972,
+    "lon": 10.40356,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento dedicato al formaggio tipico della Valle Camonica con dimostrazioni di caseificazione, degustazioni e intrattenimento musicale. Include visite guidate alla Chiesa di Sant'Antonio e al rifugio antiaereo sotto il Castello di Breno, con il tradizionale taglio del formaggio alle ore 18.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/taglio-del-bre",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "winter-camp-per-bambini-e-ragazzi-2026-2027-brescia",
+    "titolo": "Winter Camp per bambini e ragazzi 2026/2027",
+    "categoria": "bambini",
+    "inizio": "2026-12-23",
+    "fine": "2027-01-05",
+    "luogo": "Museo di Santa Giulia, Pinacoteca Tosio Martinengo, AmbienteParco",
+    "indirizzo": "Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività educative e laboratori per bambini e ragazzi durante le vacanze natalizie. Il programma include percorsi al Museo di Santa Giulia e alla Pinacoteca Tosio Martinengo, oltre a esperienze naturalistiche presso AmbienteParco focalizzate su sostenibilità e riciclo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Brescia Musei",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/winter-camp-brescia",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-gargnano-2026-2027-gargnano",
+    "titolo": "Natale a Gargnano 2026/2027",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-06",
+    "luogo": "Gargnano",
+    "indirizzo": "Gargnano",
+    "cap": null,
+    "comune": "017076",
+    "frazione": null,
+    "lat": 45.70527,
+    "lon": 10.64207,
+    "coordinateApprossimate": true,
+    "descrizione": "Palinsesto di eventi natalizi che include concerti, proiezioni cinematografiche, visite guidate alle limonaie gardesane e mercati di eccellenze locali. Il 12 dicembre si terrà l'evento Aspettando Santa Lucia con il tradizionale corteo per le vie del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Gargnano",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/natale-a-gargnano",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-del-silter-dop-2026-ponte-di-legno",
+    "titolo": "Festival del Silter DOP 2026",
+    "categoria": "sagra",
+    "inizio": "2026-12-06",
+    "fine": "2026-12-07",
+    "luogo": "Sala Polifunzionale",
+    "indirizzo": "Via Salimmo, 1, Ponte di Legno",
+    "cap": null,
+    "comune": "017148",
+    "frazione": null,
+    "lat": 46.2784,
+    "lon": 10.52432,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione del formaggio Silter DOP con degustazioni, intrattenimento musicale e il concorso Miglior Silter. L'evento permette di scoprire le eccellenze gastronomiche della Valle Camonica e del Sebino bresciano incontrando direttamente i produttori locali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consorzio per la Tutela del Formaggio Silter DOP",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/festival-silter-dop",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "4-festival-internazionale-silvana-tirini-bonometti-2026-2027-brescia",
+    "titolo": "4^ Festival Internazionale Silvana Tirini Bonometti 2026/2027",
+    "categoria": "concerto",
+    "inizio": "2027-03-21T16:00",
+    "fine": null,
+    "luogo": "Chiesa di San Gaetano",
+    "indirizzo": "Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di musica sacra e organistica che propone capolavori di grandi maestri come Bach, Mozart e Beethoven. L'appuntamento del 21 marzo 2027 vede la partecipazione dell'organista David Cassan e del musicologo Giovanni Bietti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bach Consort Brescia",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/festival-internazionale-silvana-tirini-bonometti",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pomeriggi-musicali-di-salo-2026-salo",
+    "titolo": "Pomeriggi Musicali di Salò 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Sala dei Provveditori",
+    "indirizzo": "Lungolago Zanardelli, 52, Salò",
+    "cap": null,
+    "comune": "017170",
+    "frazione": null,
+    "lat": 45.60804,
+    "lon": 10.54083,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di musica da camera che porta sulla sponda bresciana del lago di Garda interpreti di rilievo. Il programma esplora i capolavori di grandi compositori come Verdi, Bizet, Ravel e Schubert all'interno della cornice del Palazzo Municipale.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Musa Musica Salò",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/pomeriggi-musicali-salo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "decant-hellip-iamo-il-panettone-a-fondi-un-pomeriggio-di-degustazioni-fondi",
+    "titolo": "Decant&hellip;iamo il Panettone: a Fondi un pomeriggio di degustazioni",
+    "categoria": "sagra",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Auditorium Comunale Sergio Preti",
+    "indirizzo": "Fondi",
+    "cap": null,
+    "comune": "059007",
+    "frazione": null,
+    "lat": 41.33594,
+    "lon": 13.40963,
+    "coordinateApprossimate": true,
+    "descrizione": "Degustazione dedicata al panettone con abbinamenti enogastronomici, organizzata in un pomeriggio presso l'Auditorium Comunale. Evento aperto al pubblico con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LatinaToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.latinatoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "al-teatro-europa-di-aprilia-arriva-lo-schiaccianoci-aprilia",
+    "titolo": "Al Teatro Europa di Aprilia arriva \"Lo Schiaccianoci\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Teatro Europa",
+    "indirizzo": "Aprilia",
+    "cap": null,
+    "comune": "059001",
+    "frazione": null,
+    "lat": 41.57868,
+    "lon": 12.65626,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione de \"Lo Schiaccianoci\" al Teatro Europa di Aprilia. Spettacolo di teatro/balletto classico adatto a un pubblico familiare, in occasione della stagione invernale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LatinaToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.latinatoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "chiara-francini-presenta-il-suo-nuovo-libro-caserta",
+    "titolo": "Chiara Francini presenta il suo nuovo libro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Convitto Nazionale \"Giordano Bruno\"",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'attrice e scrittrice Chiara Francini, che presenta il suo ultimo libro in anteprima al pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-per-santa-cecilia-caserta",
+    "titolo": "Concerto per Santa Cecilia",
+    "categoria": "concerto",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Salone Borbonico",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Esibizione musicale in onore di Santa Cecilia, patrona della musica, nel suggestivo Salone Borbonico della Reggia di Caserta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "moda-e-impegno-sociale-contro-la-violenza-di-genere-caserta",
+    "titolo": "Moda e impegno sociale contro la violenza di genere",
+    "categoria": "teatro",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Teatro della Chiesa Buon Pastore",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di sensibilizzazione sulla violenza di genere che intreccia sfilate di moda e momento di riflessione sociale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-salento-di-paolo-miggiano-caserta",
+    "titolo": "Il Salento di Paolo Miggiano",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Mondadori Bookstore",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Paolo Miggiano presenta il progetto 'Taccuino', offrendo un viaggio musicale e culturale nella tradizione del Salento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-d-organo-caserta",
+    "titolo": "Concerto d'Organo",
+    "categoria": "concerto",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Abbazia di San Lorenzo Fuori le Mura",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Raccolto di brani per organo eseguiti all'interno della storica Abbazia di San Lorenzo, fuori le mura di Caserta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-in-chiesa-con-organo-e-soprano-caserta",
+    "titolo": "Concerto in chiesa con organo e soprano",
+    "categoria": "concerto",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Chiesa del Cuore Immacolato di Maria",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Esibizione lirica e organistica presso la sede dei Salesiani a Caserta, con la partecipazione di un solista soprano.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Salesiani",
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "script-rassegna-di-nuova-drammaturgia-caserta",
+    "titolo": "Script: rassegna di nuova drammaturgia",
+    "categoria": "teatro",
+    "inizio": "2026-11-22",
+    "fine": null,
+    "luogo": "Teatro Civico 14",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento della rassegna Script, dedicata alla promozione e alla messa in scena di opere teatrali di nuova scrittura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "governare-gli-algoritmi-caserta",
+    "titolo": "Governare gli algoritmi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Sala consiliare",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Alessandro Nardone presenta il suo nuovo libro su intelligenza artificiale e governance degli algoritmi, in dialogo con il pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ciambrone-dipinge-sulle-borse-di-new-hope-caserta",
+    "titolo": "Ciambrone dipinge sulle borse di New Hope",
+    "categoria": "mostra",
+    "inizio": "2026-11-24",
+    "fine": null,
+    "luogo": "Laboratorio Cooperativa Sociale New Hope",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento nell'ambito della giornata contro la violenza di genere, con l'artista Ciambrone che realizza dipinti su borse in collaborazione con la cooperativa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperativa Sociale New Hope",
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mafia-e-politica-a-caserta-caserta",
+    "titolo": "Mafia e politica a Caserta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Biblioteca del Seminario di piazza Duomo",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Lezione tenuta da Polity Design per la nuova classe dirigente, incentrata sul rapporto tra criminalità organizzata e politica locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Polity Design",
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-prima-volta-atto-secondo-caserta",
+    "titolo": "La prima volta – Atto secondo",
+    "categoria": "teatro",
+    "inizio": "2026-11-21",
+    "fine": null,
+    "luogo": "Teatro Don Bosco",
+    "indirizzo": "Caserta",
+    "cap": null,
+    "comune": "061022",
+    "frazione": null,
+    "lat": 41.08761,
+    "lon": 14.35776,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale interpretato da Paolo Conticini, tratto dall'omonimo libro, in scena al Teatro Don Bosco di Caserta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "CasertaNews – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.casertanews.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "torna-l-archeofestival-la-quinta-edizione-racconta-il-medioevo-in-camp-poggiomarino",
+    "titolo": "Torna l'Archeofestival, la quinta edizione racconta il Medioevo in Campania",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-21",
+    "luogo": "Sala consiliare del Comune di Poggiomarino",
+    "indirizzo": "Poggiomarino",
+    "cap": null,
+    "comune": "063055",
+    "frazione": null,
+    "lat": 40.80672,
+    "lon": 14.54724,
+    "coordinateApprossimate": true,
+    "descrizione": "La quinta edizione di Archeofestival racconta il Medioevo in Campania tra chiese, borghi e castelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "NapoliToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.napolitoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "massimo-ranieri-al-politeama-con-tutti-i-sogni-ancora-in-volo-e-contin-napoli",
+    "titolo": "Massimo Ranieri al Politeama con “Tutti i sogni ancora in volo …e continuano a volare”",
+    "categoria": "teatro",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-23",
+    "luogo": "Teatro Politeama",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Massimo Ranieri protagonista di un show al Teatro Politeama.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "NapoliToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.napolitoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cante-core-l-artista-andalusa-jihan-in-concerto-con-l-ensemble-di-napu-napoli",
+    "titolo": "Cante & Core, l’artista andalusa Jihan in concerto con l’Ensemble di Napulitanata",
+    "categoria": "concerto",
+    "inizio": "2026-11-22",
+    "fine": "2026-11-22",
+    "luogo": "Fondazione Famiglia di Maria",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della cantante andalusa Jihan con l'Ensemble di Napulitanata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "NapoliToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.napolitoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alla-scugnizzeria-ubik-del-vomero-la-presentazione-del-libro-vite-spez-napoli",
+    "titolo": "Alla Scugnizzeria Ubik del Vomero la presentazione del libro \"Vite Spezzate\" di Rosetta Cappelluccio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25",
+    "fine": "2026-11-25",
+    "luogo": "Scugnizzeria Ubik al Vomero",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Vite Spezzate\" dell'autrice Rosetta Cappelluccio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "NapoliToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.napolitoday.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
