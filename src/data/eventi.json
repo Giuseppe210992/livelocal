@@ -294485,5 +294485,1129 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "performance-teatrale-non-era-previsto-a-cura-di-varki-teatro-cento",
+    "titolo": "Performance teatrale \"Non era previsto\" a cura di Varki Teatro",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T18:30",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Civica Pinacoteca il Guercino",
+    "indirizzo": "Via Giacomo Matteotti, 16, 44042 Cento FE, Italia",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance teatrale che mette in scena frammenti di realtà e quotidianità, organizzata all'interno delle iniziative per la Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Varki Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/performance-teatrale-non-era-previsto-a-cura-di-varki-teatro",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vieni-no-tengas-miedo-un-passo-dopo-l-altro-fuori-dalla-violenza-badia-polesine",
+    "titolo": "“Vieni, no tengas miedo” – Un passo dopo l’altro fuori dalla violenza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Badia Polesine",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di parole, danza e testimonianze in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, per riflettere sulla violenza di genere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperiqueer-ivrea-25-11",
+    "titolo": "Aperiqueer",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T18:00",
+    "fine": null,
+    "luogo": "Bar",
+    "indirizzo": "ZAC!",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Aperitivo in uno spazio sicuro e queer al bar dello ZAC!, con chiacchiere informali e facilitazione per chi non ha particolari abilità sociali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/aperiqueer-0",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cerchi-filosofici-ivrea",
+    "titolo": "Cerchi filosofici",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:00",
+    "fine": null,
+    "luogo": "Bar",
+    "indirizzo": "ZAC!",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Dibattito informale al bar dello ZAC! su un tema segreto, aperto a tutti senza prenotazione, organizzato da CosìCosà x ZAC!.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "CosìCosà x ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/cerchi-filosofici",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nana-bang-e-hyperculte-ivrea",
+    "titolo": "Nana Bang e Hyperculte",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": null,
+    "luogo": "ZAC! Music Club",
+    "indirizzo": "Atrio - palco",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del duo bresciano Nana Bang (slacker/psichedelico) e del duo ginevrino Hyperculte (krautrock/post-punk) nel contesto ZAC! Music Club.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/09/eventi/nana-bang-e-hyperculte",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "burraco-ivrea-03-12",
+    "titolo": "Burraco",
+    "categoria": "bambini",
+    "inizio": "2026-12-03T16:00",
+    "fine": null,
+    "luogo": "Bar",
+    "indirizzo": "ZAC!",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per giocare a burraco al bar dello ZAC!, attività ricorrente tutti i giovedì a partire dalle 16 in risposta alla richiesta dei frequentatori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/burraco-0",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fammispazio-ivrea-08-12",
+    "titolo": "FammiSpazio",
+    "categoria": "bambini",
+    "inizio": "2026-12-08T15:00",
+    "fine": null,
+    "luogo": "Movicentro",
+    "indirizzo": "Atrio",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di gioco e incontro al Movicentro con calcetto, fumetti, PlayStation e musica, aperto ai ragazzi e accompagnato da Marco e Francesca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/fammispazio-3",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dea-igea-bellaria-igea-marina-28-11",
+    "titolo": "Dea Igea",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Palazzo del Turismo",
+    "indirizzo": "Via Leonardo da Vinci, 2",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra e concorso di pittura e fotografia dedicata all'arte e alla creatività. L'evento, che celebra il talento artistico attraverso opere visive, si tiene al Palazzo del Turismo con ingresso gratuito per il pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bell'arte",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/dea-igea-inaugurazione-730760-730772",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "esperienze-d-autunno-bellaria-igea-marina",
+    "titolo": "Esperienze d'autunno",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T17:00",
+    "fine": "2026-11-28T20:00",
+    "luogo": "Centro Culturale Vittorio Belli",
+    "indirizzo": "Via Silio Italico, 8",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata all'esperienza sensoriale con laboratorio di ceramica, degustazione di vini e musica dal vivo. L'appuntamento è presso il Centro Culturale Vittorio Belli, con prenotazione obbligatoria per partecipare alle attività guidate.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ProLoco Bellaria Igea Marina",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/esperienze-d-autunno",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "candlelight-hans-zimmer-e-colonne-sonore-bellaria-igea-marina",
+    "titolo": "Candlelight - Hans Zimmer e Colonne Sonore",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T19:30",
+    "fine": "2026-11-28T20:30",
+    "luogo": "Teatro degli Amici di Bordonchio",
+    "indirizzo": "Via Quinto Ennio, 91",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in cui le colonne sonore più celebri di Hans Zimmer, tra cui Inception e Interstellar, vengono reinterpretate dal vivo in un'atmosfera suggestiva illuminata da candele. L'evento si svolge al Teatro degli Amici di Bordonchio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Amici di Bordonchio",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/candlelight-tributo-a-ludovico-einaudi-731106-731129",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "candlelight-coldplay-imagine-dragons-bellaria-igea-marina",
+    "titolo": "Candlelight - Coldplay & Imagine Dragons",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Teatro degli Amici di Bordonchio",
+    "indirizzo": "Via Quinto Ennio, 91",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale che celebra i brani iconici dei Coldplay e degli Imagine Dragons, come Viva La Vida e Believer, in un'atmosfera raffinata e suggestiva. L'evento si tiene al Teatro degli Amici di Bordonchio con inizio alle 21:30.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Amici di Bordonchio",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/candlelight-tributo-a-ludovico-einaudi-731106-731129-731131",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dea-igea-bellaria-igea-marina-29-11",
+    "titolo": "Dea Igea",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Palazzo del Turismo",
+    "indirizzo": "Via Leonardo da Vinci, 2",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di apertura dell'esposizione di pittura e fotografia dedicata all'arte e alla creatività. L'evento offre al pubblico un'occasione di incontro e condivisione attraverso il linguaggio universale dell'arte, con ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bell'arte",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/dea-igea-inaugurazione-730760-730772-730781",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-in-biblioteca-borgo-san-lorenzo",
+    "titolo": "Storie in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T16:30",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 10",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura e laboratorio artistico per bambini dai 3 ai 6 anni intitolato 'Biancaneve d'Autunno', a cura di Marta Manetti, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/storie-in-biblioteca",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-nostro-passo-contro-la-violenza-borgo-san-lorenzo",
+    "titolo": "Il nostro passo contro la violenza",
+    "categoria": "sport",
+    "inizio": "2026-11-25T18:30",
+    "fine": "2026-11-25T21:00",
+    "luogo": "Comune di Borgo San Lorenzo",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Raduno sportivo con corsa di 6 o 10 chilometri e camminata simbolica aperta a tutti per sensibilizzare sulla Giornata Internazionale contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mugello Social Run",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/il-nostro-passo-contro-la-violenza",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "diritto-di-voto-donne-costituenti-borgo-san-lorenzo",
+    "titolo": "Diritto di voto, donne costituenti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Saletta Pio La Torre",
+    "indirizzo": "via Giotto, 17",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico sulle Madri Costituenti con interventi di docenti e storiche, e la partecipazione di Letizia Fuochi per le voci delle donne che votarono nel 1946.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/diritto-di-voto-donne-costituenti",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fili-di-donne-trame-di-liberta-borgo-san-lorenzo",
+    "titolo": "Fili di donne, trame di libertà",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Circolo di Casaglia",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture ad alta voce su storie di coraggio e dignità accompagnate dalla realizzazione di cuori rossi all'uncinetto, letture a cura di Rosarita Bernardi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Casaglia",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/fili-di-donne-trame-di-liberta",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-il-rumore-che-mi-precede-canegrate",
+    "titolo": "Presentazione del libro Il rumore che mi precede",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T17:00",
+    "fine": null,
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Piazza Unità d'Italia 2",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del volume Il rumore che mi precede – Il racconto di un’eredità invisibile presso il Polo Culturale Catarabia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-l-eco-del-ghiacciaio-canegrate",
+    "titolo": "Presentazione del libro L’eco del ghiacciaio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-29T17:00",
+    "fine": null,
+    "luogo": "Polo Culturale Catarabia",
+    "indirizzo": "Piazza Unità d'Italia 2",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del racconto collettivo L’eco del ghiacciaio, realizzato dal gruppo di Scrittura Creativa di Auser Canegrate e coordinato da Maura Giunta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Auser Canegrate",
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/evento/presentazione-libro-eco-ghiacciaio",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-passaggi-canegrate",
+    "titolo": "Presentazione del libro Passaggi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T21:00",
+    "fine": null,
+    "luogo": "Canegrate",
+    "indirizzo": "Canegrate",
+    "cap": null,
+    "comune": "015046",
+    "frazione": null,
+    "lat": 45.56595,
+    "lon": 8.92483,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione della raccolta di racconti Passaggi di Marino Bottini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Canegrate",
+        "tipo": "ufficiale",
+        "url": "https://comune.canegrate.mi.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "contro-la-violenza-sulle-donne-brescia",
+    "titolo": "Contro la violenza sulle donne",
+    "categoria": "sport",
+    "inizio": "2026-11-21T08:45",
+    "fine": "2026-11-21T12:30",
+    "luogo": "Palazzo Broletto",
+    "indirizzo": "Piazza Paolo VI, 2",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Pedalata di impegno civile aperta alla cittadinanza in quattro itinerari, in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne e dei diritti dell'infanzia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fiab Paciclica e Acli Provinciali di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/contro-la-violenza-sulle-donne",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cammina-foreste-urbane-2026-brescia",
+    "titolo": "Cammina Foreste Urbane 2026",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Quartiere Urago Mella",
+    "indirizzo": "Urago Mella, 25127 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Trekking urbano di 7 km sulle colline dell'Oltremella, alla scoperta del verde cittadino con guide esperte. Itinerario con dislivello di 230 metri, dedicato alla nona edizione dell'iniziativa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Brescia e Parco delle Colline",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cammina-foreste-urbane-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gender-pay-gap-a-brescia-brescia",
+    "titolo": "Gender Pay Gap a Brescia",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T09:00",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Acli Provinciali di Brescia",
+    "indirizzo": "via Corsica 165",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno sul benessere delle comunità e sul lavoro femminile, con interviste a ricercatori e professionisti. Ultima tappa della rassegna dedicata alle storie dietro i dati sul gap salariale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Commissione Pari Opportunità del Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/gender-pay-gap-a-brescia-2520682",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "villaggio-della-cura-brescia",
+    "titolo": "Villaggio della cura",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T09:30",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Piazza della Vittoria",
+    "indirizzo": "Piazza della Vittoria, Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per la prima infanzia con percorsi ludici di scoperta delle figure di soccorso: vigili del fuoco, protezione civile e polizia. Includa l'Ospedale dei Pupazzi e l'angolo educativa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/villaggio-della-cura",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "biblioteche-sociali-uncinetto-brescia",
+    "titolo": "Biblioteche sociali. Uncinetto",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:00",
+    "fine": "2026-11-21T11:30",
+    "luogo": "Biblioteca San Polo",
+    "indirizzo": "Via Tiziano, 246, 25124 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di uncinetto per imparare a creare piccoli oggetti in stile giapponese (Amigurumi). Iniziativa itinerante del progetto Biblioteche Sociali, a cura di Albarosa Gatti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sistema Bibliotecario Urbano del Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/biblioteche-sociali-uncinetto-2518943-2519198-2519414-2519612-2519922-2520071-2520260-2520474-2520674",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-voce-del-papa-brescia",
+    "titolo": "La voce del papà",
+    "categoria": "bambini",
+    "inizio": "2026-11-21T10:30",
+    "fine": "2026-11-21T12:00",
+    "luogo": "Biblioteca Sereno",
+    "indirizzo": "Traversa Dodicesima Villaggio Sereno, 58a, 25125 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato ai padri con bambini da 0 a 3 anni per la lettura condivisa. Presenti ostetriche e bibliotecarie per condividere esperienze e suggerimenti pratici sul legame genitoriale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sistema Bibliotecario Urbano del Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-voce-del-papa-2519426-2520684",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trame-di-potere-brescia",
+    "titolo": "Trame di potere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T11:00",
+    "fine": "2026-11-21T12:30",
+    "luogo": "MITA - Museo Internazionale del Tappeto Antico",
+    "indirizzo": "Via Privata de Vitalis, 2bis",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul tema dell'Egitto e del Mediterraneo con l'analista Giuseppe Dentice, nel ciclo 'Trame di potere' del Festival della Pace. Si discute di geopolitica e scenari contemporanei.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Festival della pace 2026",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/trame-di-potere-2520685",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mo-ca-2026-aperti-per-voi-brescia",
+    "titolo": "Mo.Ca 2026 – Aperti per voi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T15:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "MO.CA- Centro per le nuove culture",
+    "indirizzo": "Via Moretto, 78, 25121 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alle sale nobiliari del Palazzo Martinengo Colleoni a cura dei soci volontari del Touring Club Italiano. Esplorazione dei tesori e delle meraviglie della sede di MO.CA.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Touring Club Italiano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/mo-ca-2026-aperti-per-voi-2520321",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buon-natale-brescia-2026-brescia",
+    "titolo": "Buon Natale Brescia 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T15:30",
+    "fine": "2026-11-21T23:55",
+    "luogo": "Centro città di Brescia",
+    "indirizzo": "Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione delle luminarie natalizie con accensione in Piazza Loggia. Corteo 'La Strada Winter', installazione di Jimmy Milani e spettacoli gratuiti per famiglie con bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/buon-natale-brescia-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-pomeriggi-al-ctb-2026-2027-brescia",
+    "titolo": "I pomeriggi al CTB 2026-2027",
+    "categoria": "conferenza",
+    "inizio": "2026-11-21T17:00",
+    "fine": "2026-11-21T19:00",
+    "luogo": "Teatro Mina Mezzadri",
+    "indirizzo": "Contrada Santa Chiara, 50, 25122 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'attore Marco Sgrosso e il critico Gerardo Guccini per approfondire i testi di Savinio e Bernhard, 'Emma B.' e 'A colpi d'ascia', in scena al teatro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Teatrale Bresciano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/i-pomeriggi-al-ctb-2520218-2520462-2520686",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-nazionale-degli-alberi-cortona",
+    "titolo": "Giornata nazionale degli alberi",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-23T10:30",
+    "fine": null,
+    "luogo": "Parco Petri",
+    "indirizzo": "Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione istituzionale della giornata dedicata al patrimonio arboreo, con consegna di piante ai genitori di nuovi nati nel 2025.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione comunale di Cortona",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/eventi-sociali/giornata-nazionale-alberi-2026",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "archeologie-cortona",
+    "titolo": "Archeologie",
+    "categoria": "mostra",
+    "inizio": "2026-12-01",
+    "fine": null,
+    "luogo": "Cortona",
+    "indirizzo": "Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione intitolata 'Oltre confine. Gli Etruschi e gli altri - 300 anni dell'Accademia Etrusca'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/evento-culturale",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "meraviglie-nascoste-ravenna",
+    "titolo": "Meraviglie nascoste",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-07",
+    "fine": "2026-11-28",
+    "luogo": "Cripta Rasponi e Giardini Pensili",
+    "indirizzo": "Ravenna",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.41269,
+    "lon": 12.19304,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura straordinaria di Cripta Rasponi e Giardini Pensili per un'occasione dedicata alla scoperta di questi luoghi storici di Ravenna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ravenna",
+        "tipo": "ufficiale",
+        "url": "https://comune.ravenna.it/vivere-il-comune/eventi/visita-guidata",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-serra-atmosfere-di-natale-nel-borgo-lerici",
+    "titolo": "La Serra: atmosfere di Natale nel borgo",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T14:30",
+    "fine": "2026-12-12T19:00",
+    "luogo": "Piazza Santa Croce",
+    "indirizzo": "La Serra",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino natalizio artigianale, laboratori creativi (biscotti, candele) e musica. Atmosfera festosa con cioccolata calda e vin brulé per famiglie e bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Lerici",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "magic-jazz-in-concerto-a-pugliola-lerici",
+    "titolo": "Magic Jazz in concerto a Pugliola",
+    "categoria": "concerto",
+    "inizio": "2026-12-19T18:00",
+    "fine": "2026-12-19T19:30",
+    "luogo": "Piazzetta di Pugliola",
+    "indirizzo": "Pugliola",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto jazz con cinque musicisti. Repertorio di standard jazz, bossanova, samba e brani d'autore italiani e internazionali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
