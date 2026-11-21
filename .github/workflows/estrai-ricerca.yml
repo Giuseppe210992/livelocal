@@ -1,5 +1,5 @@
 # Eventi dai portali di eventi per comune (cheventi.it) e dalla ricerca web gratuita di FreeLLMAPI (Facebook, Instagram, siti dei locali, giornali).
-# Costo: zero (quota gratuita di FreeLLMAPI). Ogni 6 ore (impostazione ORE_PORTALI, vedi docs/avvio-da-chat.md) legge le pagine «Eventi» dei comuni da 8.000 abitanti,
+# Costo: zero (quota gratuita di FreeLLMAPI). Ogni ~6 ore (impostazione ORE_PORTALI: parte se l'ultimo salvataggio ha più di ORE-1 ore) legge le pagine «Eventi» dei comuni da 8.000 abitanti,
 # a rotazione, e salva solo gli eventi che superano i controlli anti-invenzione. A mano: Actions → questo flusso → Run workflow, con scelta «ricerca» o «portali».
 # Per fermarlo: variabile del repository ATTIVO = false (ferma tutte le ricerche programmate) oppure ORE_PORTALI molto alto.
 name: Estrai eventi con la ricerca web (FreeLLMAPI)
@@ -37,6 +37,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 300
       - name: Decide se partire (impostazioni di ricerca)
         id: decide
         env:
@@ -45,14 +48,15 @@ jobs:
           ORE: ${{ vars.ORE_PORTALI }}
         run: |
           ORE="${ORE:-6}"
-          H=$(date -u +%-H)
           if [ "$EVENTO" = "schedule" ]; then
             if [ "$ATTIVO" = "false" ]; then echo "Ricerche programmate sospese (ATTIVO=false)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
-            if [ $((H % ORE)) -ne 1 ]; then echo "Non tocca a questo giro (si parte ogni $ORE ore)."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+            # Si parte se l'ultimo salvataggio dei portali ha più di (ORE-1) ore: così un'esecuzione saltata da GitHub non fa perdere il giro.
+            ULTIMO=$(git log -1 --format=%ct -- ricerca/portali-stato.json 2>/dev/null || true)
+            ULTIMO="${ULTIMO:-0}"
+            ADESSO=$(date +%s)
+            if [ $((ADESSO - ULTIMO)) -lt $(( (ORE - 1) * 3600 )) ]; then echo "Già eseguito da meno di $((ORE - 1)) ore."; echo "run=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           fi
           echo "run=true" >> "$GITHUB_OUTPUT"
-      - uses: actions/checkout@v4
-        if: steps.decide.outputs.run == 'true'
       - uses: actions/setup-node@v4
         if: steps.decide.outputs.run == 'true'
         with:
