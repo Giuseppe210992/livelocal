@@ -281023,5 +281023,59 @@
     ],
     "inserito": "2026-11-20",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "passeggiata-alla-scoperta-di-dolo-i-do-love-festival-2026-11-21",
+    "titolo": "Passeggiata alla scoperta di Dolo con gli studenti dell'Istituto Lazzari",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-21T14:15",
+    "luogo": "Piazza Cantiere (zona squero)",
+    "comune": "027012",
+    "lat": 45.41961,
+    "lon": 12.08663,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata nel centro storico con gli studenti dell'istituto tecnico «Maria Lazzari» per scoprire curiosità e segreti di Dolo, nell'ambito del festival letterario I_Do Love 2026. Si conclude vicino al Cinema Teatro Italia verso le 15.45. Senza prenotazione; annullata in caso di maltempo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Dolo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Dolo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4i-j1hMuz/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "dedicato-per-un-teatro-umano-teatro-comunale-leverano-2026-11-21",
+    "titolo": "«Dedicato» – rassegna Per un teatro umano",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T20:45",
+    "luogo": "Teatro Comunale",
+    "comune": "075037",
+    "lat": 40.29083,
+    "lon": 17.97069,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Francesco Albérici ed Ermelinda Nasuto con Olga Durano, un racconto intimo sulla malattia, sul tempo della cura e su una nuova, fragile consapevolezza, per la rassegna dei Teatri del nord Salento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Leverano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Leverano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df4LX3HiNIR/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
