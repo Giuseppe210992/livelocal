@@ -307093,5 +307093,1631 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cava-dei-servi-tra-laghetti-e-cascatelle-modica",
+    "titolo": "Cava dei Servi tra laghetti e cascatelle",
+    "categoria": "visita-guidata",
+    "inizio": "2027-03-21T10:00",
+    "fine": "2027-03-21T15:00",
+    "luogo": "Cava dei Servi",
+    "indirizzo": "Cava dei Servi - Vanella 192 - Modica (RG)",
+    "cap": null,
+    "comune": "088006",
+    "frazione": null,
+    "lat": 36.85399,
+    "lon": 14.82285,
+    "coordinateApprossimate": true,
+    "descrizione": "Trekking medio-facile di circa 7 km nel canyon carsico della Cava dei Servi, attraversato dal fiume Tellesimo. Il percorso permette di osservare la vegetazione ripariale e le cascatelle, con visita di antiche abitazioni rupestri. Rientro al meeting point entro le 15:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Sharing Sicily",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Modica",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cava-dei-servi-tra-laghetti-e-cascatelle",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "strike-live-rock-modica-modica",
+    "titolo": "Strike LIVE @Rock Modica",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T21:30",
+    "fine": "2026-12-03T23:30",
+    "luogo": "C.da Michelica Zona artigianale",
+    "indirizzo": "C.da Michelica Zona artigianale - Modica (RG)",
+    "cap": null,
+    "comune": "088006",
+    "frazione": null,
+    "lat": 36.85399,
+    "lon": 14.82285,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto live della formazione ragusana Strike, specializzata in rockabilly, rock n' roll, swing e classici italiani. L'evento propone un sound vintage eseguito ad alto volume in una serata dedicata alla musica live.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock Modica",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Modica",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-strike-live-rock-modica-rg",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serata-dei-single-a-sanremo-by-celestino-sanremo",
+    "titolo": "Serata dei single a Sanremo by Celestino !",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21T20:15",
+    "fine": "2026-11-21T23:59",
+    "luogo": "Grand Hotel Des Anglais",
+    "indirizzo": "Strada Shuttlewort - 18038 Sanremo (IM)",
+    "cap": null,
+    "comune": "008055",
+    "frazione": null,
+    "lat": 43.83796,
+    "lon": 7.76725,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di incontro per single con cena spettacolo a tema, musiche e servizio di posta interna per facilitare la conoscenza tra i partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Sanremo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-serata-dei-single-a-sanremo-by-celestino-im",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marco-masini-teatri-2027-sanremo-sanremo",
+    "titolo": "Marco Masini - Teatri 2027 - Sanremo",
+    "categoria": "concerto",
+    "inizio": "2027-05-14T21:00",
+    "fine": "2027-05-14T23:00",
+    "luogo": "Teatro Ariston",
+    "indirizzo": "Via Giacomo Matteotti, 212 - 18038 Sanremo (IM)",
+    "cap": null,
+    "comune": "008055",
+    "frazione": null,
+    "lat": 43.83796,
+    "lon": 7.76725,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del cantautore Marco Masini nel suo tour teatrale 2027, in cui ripercorre oltre 35 anni di carriera tra i principali teatri italiani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marco Masini",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Sanremo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-marco-masini-teatri-sanremo-san-remo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "winx-il-musical-sanremo",
+    "titolo": "Winx Il Musical",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Teatro Ariston",
+    "indirizzo": "Via Giacomo Matteotti, 200 - 18038 Sanremo (IM)",
+    "cap": null,
+    "comune": "008055",
+    "frazione": null,
+    "lat": 43.83796,
+    "lon": 7.76725,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale dedicato alle Winx, con Bloom e le sue amiche chiamate a fronteggiare una nuova minaccia in un percorso di crescita personale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Ariston Sanremo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Sanremo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-winx-il-musical-sanremo-im",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "zitt-mai-siena",
+    "titolo": "Zittə Mai",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T18:30",
+    "fine": "2026-11-25T20:30",
+    "luogo": "Complesso Universitario San Niccolò",
+    "indirizzo": "Via Roma, 56 - 53100 Siena",
+    "cap": null,
+    "comune": "052032",
+    "frazione": null,
+    "lat": 43.31043,
+    "lon": 11.33358,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro nella giornata contro la violenza sulle donne. Letture femministe a cura di NON UNA DI MENO e F.R.O.G. e mostra AMAZZOMANTE di Domitilla Marzuoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Non Una Di Meno, F.R.O.G.",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Siena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-zitt-mai-siena-si",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pallavolo-e-minivolley-siena",
+    "titolo": "Pallavolo E Minivolley",
+    "categoria": "sport",
+    "inizio": "2026-11-24T16:45",
+    "fine": "2026-11-24T18:30",
+    "luogo": "Palasport Asciano",
+    "indirizzo": "Via Mentana, 102 - 53100 Siena",
+    "cap": null,
+    "comune": "052032",
+    "frazione": null,
+    "lat": 43.31043,
+    "lon": 11.33358,
+    "coordinateApprossimate": true,
+    "descrizione": "Lezione di pallavolo e minivolley. Fondamentali di gioco, preparazione fisica e tecnica di squadra. Si tiene presso il Palasport di Asciano a Siena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.S.D. Sporting Club 2000",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Siena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-pallavolo-e-minivolley-siena-si",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "villa-d-este-di-notte-tivoli",
+    "titolo": "Villa d’Este di Notte!",
+    "categoria": "visita-guidata",
+    "inizio": "2027-04-13T20:30",
+    "fine": "2027-04-13T22:30",
+    "luogo": "Convitto Nazionale Amedeo di Savoia",
+    "indirizzo": "Piazza Giuseppe Garibaldi",
+    "cap": null,
+    "comune": "058104",
+    "frazione": null,
+    "lat": 41.95701,
+    "lon": 12.78485,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata notturna al Parco della Villa d'Este, opera di Pirro Ligorio. Percorso tra terrazze, fontane alimentate da vasi comunicanti e piante secolari. Esplora i 250 zampilli e le cascate nel buio della sera.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 33
+    },
+    "prenotazione": null,
+    "organizzatore": "Bellezze di Roma",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Tivoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-villa-deste-di-notte-tivoli-rm",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "swing-craze-festival-montesilvano",
+    "titolo": "Swing Craze Festival",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T14:00",
+    "fine": "2026-11-29T23:45",
+    "luogo": "Grand Hotel Adriatico",
+    "indirizzo": "Viale Aldo Moro, 63",
+    "cap": null,
+    "comune": "068024",
+    "frazione": null,
+    "lat": 42.49357,
+    "lon": 14.14197,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival di ballo swing con lezioni di lindy hop, balboa e solo jazz, serate con musica dal vivo, competizioni e after-party. Include workshop, ospiti internazionali e attività culturali dedicate alla storia del ballo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Italian Swing Dance Academy",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Montesilvano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-swing-craze-festival-montesilvano-pe",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "davide-van-de-sfroos-folkestra-gallarate",
+    "titolo": "Davide Van De Sfroos & Folkestra",
+    "categoria": "concerto",
+    "inizio": "2026-12-02T21:00",
+    "fine": "2026-12-02T23:00",
+    "luogo": "Teatro Condominio V. Gassman",
+    "indirizzo": "Via Pietro da Gallarate, 3",
+    "cap": null,
+    "comune": "012070",
+    "frazione": null,
+    "lat": 45.66305,
+    "lon": 8.7929,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in teatro con Davide Van De Sfroos accompagnato dalla Folkestra. L'artista propone un tour teatrale per raccontare storie attraverso la musica, riprendendo il progetto iniziato in estate con nuovi appuntamenti in diversi teatri italiani.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Davide Van De Sfroos e MyNina Spettacoli",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gallarate",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-davide-van-de-sfroos-folkestra-gallarate-02122026-va",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "davide-van-de-sfroos-folkestra-gallarate-03-12",
+    "titolo": "Davide Van De Sfroos & Folkestra",
+    "categoria": "concerto",
+    "inizio": "2026-12-03T20:30",
+    "fine": "2026-12-03T22:30",
+    "luogo": "Teatro Condominio V. Gassman",
+    "indirizzo": "Via Pietro da Gallarate, 3",
+    "cap": null,
+    "comune": "012070",
+    "frazione": null,
+    "lat": 45.66305,
+    "lon": 8.7929,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento consecutivo del tour teatrale di Davide Van De Sfroos con la sua band. Il concerto si svolgerà al Teatro V. Gassman, offrendo al pubblico l'opportunità di assistere a uno spettacolo musicale dal vivo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Davide Van De Sfroos e MyNina Spettacoli",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gallarate",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-davide-van-de-sfroos-folkestra-gallarate-03122026-va",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-corsa-in-rosa-2-edizione-rovigo",
+    "titolo": "La corsa in rosa - 2° edizione",
+    "categoria": "sport",
+    "inizio": "2026-11-22T08:30",
+    "fine": "2026-11-22T10:30",
+    "luogo": "Piazza Giacomo Matteotti",
+    "indirizzo": "Via Manara - 45100 Rovigo (RO)",
+    "cap": null,
+    "comune": "029041",
+    "frazione": null,
+    "lat": 45.06959,
+    "lon": 11.79521,
+    "coordinateApprossimate": true,
+    "descrizione": "Mancina a Rovigo della corsa camminata 6 km promossa per la prevenzione dei tumori. Aperta a uomini e donne, con ritrovo alle 08:30 e partenza alle 09:30. L'evento si conclude alle 12:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "UISP Comitato Territoriale Rovigo APS",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rovigo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-corsa-in-rosa-2-edizione-rovigo-ro",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-del-lemming-le-stanze-di-amleto-visioni-rovigo-2026-rovigo",
+    "titolo": "Teatro Del Lemming Le Stanze Di Amleto Visioni, Rovigo 2026",
+    "categoria": "teatro",
+    "inizio": "2026-11-17T18:00",
+    "fine": "2026-11-22T21:00",
+    "luogo": "Teatro Studio",
+    "indirizzo": "Viale Antonio Oroboni - 45100 Rovigo (RO)",
+    "cap": null,
+    "comune": "029041",
+    "frazione": null,
+    "lat": 45.06959,
+    "lon": 11.79521,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo itinerante di Massimo Munaro dedicato all'Amleto di Shakespeare, vincitore di un premio al Sarajevo Winter Festival. La versione presentata a Rovigo dal 17 al 22 novembre è un'opera di ricerca e sperimentazione che coinvolge direttamente il pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro del Lemming",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rovigo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-teatro-del-lemming-le-stanze-di-amleto-visioni-rovigo-ro",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "simone-cristicchi-franciscus-rovigo-rovigo",
+    "titolo": "Simone Cristicchi Franciscus Rovigo",
+    "categoria": "concerto",
+    "inizio": "2027-03-23T20:30",
+    "fine": "2027-03-23T22:30",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Piazza Giuseppe Garibaldi - 45100 Rovigo (RO)",
+    "cap": null,
+    "comune": "029041",
+    "frazione": null,
+    "lat": 45.06959,
+    "lon": 11.79521,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Simone Cristicchi dedicato a San Francesco d'Assisi. L'artista romano racconta la figura del santo attraverso riflessioni, domande e canzoni inedite, in una tournée che celebra la forza poetica e spirituale del messaggio francescano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale Rovigo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rovigo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-simone-cristicchi-franciscus-rovigo-ro",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "popit-play-comics-26-mazara-del-vallo",
+    "titolo": "POPit! Play & Comics ’26",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Collegio Gesuiti",
+    "indirizzo": "Via San Vito",
+    "cap": null,
+    "comune": "081012",
+    "frazione": null,
+    "lat": 37.7018,
+    "lon": 12.64608,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival pop e nerd per tutte le età con giochi da tavolo, di ruolo, Risiko, Warhammer, scacchi e tornei di Beyblade. Include workshop, talk e mostre. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Taverna dei Giochi e Mazara Valley",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mazara del Vallo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-popit-play-comics-26-mazara-del-vallo-tp",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "kings-of-metal-manowar-tribute-hellion-w-a-s-p-tribute-live-rock-n-rol-rho",
+    "titolo": "Kings Of Metal (MANOWAR tribute) Hellion (W.A.S.P. tribute) live - Rock'n'Roll Club, RHO!",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:30",
+    "fine": "2026-11-21T23:30",
+    "luogo": "Rocknroll Club Rho",
+    "indirizzo": "Via Magenta, 77 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto live dedicato al genere rock e metal con le tribute band Kings Of Metal (omaggio ai Manowar) e Hellion (omaggio a W.A.S.P.). Include un DJ set e l'accesso alla sala per l'aftershow party. Ingresso live a pagamento.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock'n'Roll Club Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-kings-of-metal-manowar-tribute-hellion-wasp-tribute-live-rocknroll-club-rho-mi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-terra-trema-2026-fiera-feroce-rho",
+    "titolo": "La Terra Trema 2026 - Fiera Feroce",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-29T23:59",
+    "luogo": "SOS Fornace",
+    "indirizzo": "Via Risorgimento, 18 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera dedicata a vini, cibi e relazioni organizzata da centri sociali autogestiti. L'evento si svolge in un ex opificio riconvertito e include stacchi di riflessione sociale, musica e animazione. Ingresso a pagamento o gratuito non specificato nel testo fornito.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "SOS Fornace",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-terra-trema-fiera-feroce-2829-novembre-in-sos-fornace-a-rho-mi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mtv-alternative-generation-libithium-nirvana-tribute-cabrones-ramones-rho",
+    "titolo": "Mtv Alternative Generation Libithium (Nirvana Tribute) Cabrones (Ramones Tribute) - Rock'n'roll Rho",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Rock'n'Roll Club Rho",
+    "indirizzo": "Via Magenta, 77 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo live rock con le tribute band Libithium (Nirvana) e Cabrones (Ramones). L'evento si tiene presso il locale Rock'n'Roll Club e include DJ set post-concerto. Orari di apertura porte alle 21:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock'n'Roll Club Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-natale-a-rho-center-rho",
+    "titolo": "Il Natale a Rho Center",
+    "categoria": "mercatino",
+    "inizio": "2026-11-30T09:00",
+    "fine": "2026-12-13T19:00",
+    "luogo": "Rho Center",
+    "indirizzo": "Rho Center - Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera natalizia organizzata nel centro commerciale Rho Center. L'evento include bancarelle, attività per bambini e iniziative festive aperte al pubblico con orari giornalieri dalle 9:00 alle 19:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rho Center",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "black-stars-live-rnr-rho-mi-it-rho",
+    "titolo": "Black Stars live RNR Rho (Mi)IT",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:30",
+    "fine": "2026-11-27T23:30",
+    "luogo": "Rock'n'Roll Club Rho",
+    "indirizzo": "Via Magenta, 77 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto live del gruppo Black Stars presso il locale Rock'n'Roll Club di Rho. La serata è dedicata alla musica rock e si svolge con apertura porte alle 21:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock'n'Roll Club Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "david-ellefson-megadeth-cofounder-live-18-years-of-rock-n-roll-club-rh-rho",
+    "titolo": "David Ellefson (Megadeth Cofounder) Live - 18 Years Of Rock'n'roll Club, Rho!",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T21:30",
+    "fine": "2026-12-04T23:30",
+    "luogo": "Rock'n'Roll Club Rho",
+    "indirizzo": "Via Magenta, 77 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto speciale per il diciottesimo anniversario del Rock'n'Roll Club con la partecipazione di David Ellefson, cofondatore dei Megadeth. La serata celebra la storia della scena metal locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock'n'Roll Club Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sugar-system-of-a-down-tribute-papercut-linkin-park-tribute-live-18-ye-rho",
+    "titolo": "Sugar (SYSTEM OF A DOWN tribute) Papercut (LINKIN PARK tribute) live - 18 Years Of Rock'n'Roll RHO",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:30",
+    "fine": "2026-12-05T23:30",
+    "luogo": "Rock'n'Roll Club Rho",
+    "indirizzo": "Via Magenta, 77 - 20017 Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Doppio concerto live con le tribute band Sugar (System of a Down) e Papercut (Linkin Park), in occasione dell'anniversario del locale. Ingresso a pagamento per lo show e ingresso libero per l'aftershow.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock'n'Roll Club Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-lunedi-rhodensi-dell-alimentazione-cuore-a-tavola-rho",
+    "titolo": "I lunedì rhodensi dell'alimentazione cuore a tavola",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T20:45",
+    "fine": "2026-11-23T22:45",
+    "luogo": "Rho",
+    "indirizzo": "Rho (MI)",
+    "cap": null,
+    "comune": "015182",
+    "frazione": null,
+    "lat": 45.53106,
+    "lon": 9.04942,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di approfondimento sull'alimentazione e salute cardiovascolare. L'evento fa parte di una serie di appuntamenti settimanali dedicati alla prevenzione e alla corretta alimentazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Rho",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rho",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/regioni/lombardia/milano/rho",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-anni-90-la-storia-continua-breaklive-ascoli-piceno",
+    "titolo": "Gli Anni 90 - La Storia Continua Breaklive",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T20:00",
+    "fine": "2026-11-21T22:00",
+    "luogo": "BREAKLIVE",
+    "indirizzo": "Via della Filatura, 63100 Ascoli Piceno",
+    "cap": null,
+    "comune": "044007",
+    "frazione": null,
+    "lat": 42.85123,
+    "lon": 13.56875,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata musicale dedicata alla nostalgia degli anni '90. L'evento include DJ set, vocalist e ballerine per un'esplosione di energia in stile 90's disco, con canzoni dal pop alle dance hit.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Format Music Lab e BREAKLIVE",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Ascoli Piceno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-gli-anni-90-la-storia-continua-breaklive-ascoli-piceno-ap",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "d-io-la-d-e-muta-teatro-palafolli-ascoli-piceno",
+    "titolo": "D'io la D è Muta - Teatro Palafolli",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T18:00",
+    "fine": "2026-11-22T20:00",
+    "luogo": "Palafolli teatro",
+    "indirizzo": "Via della Cardatura, 63100 Ascoli Piceno",
+    "cap": null,
+    "comune": "044007",
+    "frazione": null,
+    "lat": 42.85123,
+    "lon": 13.56875,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Piero Massimo Macchini che fonde stand up comedy, monologhi e oggetti scenici per esplorare il rapporto tra l'ego e la divinità. La regia è di Gabriele Claretti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Piero Massimo Macchini, La Birretta Ap, Palafolli teatro, Il Piccio Booking",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Ascoli Piceno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-dio-la-d-e-muta-teatro-palafolli-ascoli-piceno-ap",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ritmovies-bestmoviehits-live-mata-pata-anzio",
+    "titolo": "RitMovies BestMovieHits Live – MATA PÀTA",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "MATA PÀTA",
+    "indirizzo": "Viale Re Latino, 27 - 00042 Anzio (RM)",
+    "cap": null,
+    "comune": "058007",
+    "frazione": null,
+    "lat": 41.50185,
+    "lon": 12.60788,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dal vivo di RitMovies BestMovieHits al MATA PÀTA di Anzio, con repertorio pop, disco, dance e soul tratto dalle colonne sonore dei film dagli anni ’70 a oggi. Ingresso libero, possibilità di cena alla carta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "RitMovies, MATA PATA, Diego Magnani",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Anzio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-ritmovies-bestmoviehits-live-mata-pata-lavinio-anzio-rm",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-cantautori-christmas-edition-caffe-lib-collegno",
+    "titolo": "La Notte Dei Cantautori – Christmas Edition – Caffè Lib",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T20:30",
+    "fine": "2026-12-18T22:30",
+    "luogo": "Caffè Lib",
+    "indirizzo": "Via Torino, 166 - Collegno",
+    "cap": null,
+    "comune": "001090",
+    "frazione": null,
+    "lat": 45.09137,
+    "lon": 7.59026,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata speciale dedicata alla grande musica d’autore italiana con artisti come Vecchioni, Bertoli, Dalla, De Gregori, Battiato, De André, Battisti, Bennato e Rino Gaetano, con arrangiamenti originali, racconti e aneddoti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 26
+    },
+    "prenotazione": null,
+    "organizzatore": "passevent.it",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Collegno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-venerdi-18-dicembre-la-notte-dei-cantautori-christmas-edition-caffe-lib-collegno-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cafe-de-la-paix-tributo-a-franco-battiato-rivoli",
+    "titolo": "Cafe De La Paix – Tributo A Franco Battiato",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro San Martino",
+    "indirizzo": "Via San Martino, 10098 Rivoli (TO)",
+    "cap": null,
+    "comune": "001219",
+    "frazione": null,
+    "lat": 45.06705,
+    "lon": 7.52328,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale e teatrale a cura di un ensemble di sette musicisti che rilegge l'opera di Franco Battiato. Il concerto dura un'ora e quaranta minuti e include l'esecuzione integrale dell'album La Voce del Padrone.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vertigo Spettacoli, Conte",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rivoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cafe-de-la-paix-tributo-a-franco-battiato-rivoli-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-alla-mostra-marisa-merz-la-danza-delle-ore-rivoli",
+    "titolo": "Visita guidata alla mostra Marisa Merz – La danza delle ore",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T14:00",
+    "fine": "2026-11-28T16:00",
+    "luogo": "Piazzale Mafalda di Savoia",
+    "indirizzo": "Piazzale Mafalda di Savoia, 10098 Rivoli (TO)",
+    "cap": null,
+    "comune": "001219",
+    "frazione": null,
+    "lat": 45.06705,
+    "lon": 7.52328,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla retrospettiva dedicata a Marisa Merz, che celebra il centenario della nascita dell'artista. La mostra è ospitata al Castello di Rivoli Museo d'Arte Contemporanea e include opere di dieci artiste contemporanee.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Castello di Rivoli Museo d'Arte Contemporanea",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rivoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-visita-guidata-alla-mostra-marisa-merz-la-danza-delle-ore-rivoli-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marco-masini-teatri-2027-torino-rivoli",
+    "titolo": "Marco Masini – Teatri 2027 – Torino",
+    "categoria": "concerto",
+    "inizio": "2027-04-22T21:30",
+    "fine": "2027-04-22T23:30",
+    "luogo": "Teatro Colosseo Torino",
+    "indirizzo": "Via Tevere, 10098 Rivoli (TO)",
+    "cap": null,
+    "comune": "001219",
+    "frazione": null,
+    "lat": 45.06705,
+    "lon": 7.52328,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Marco Masini nel tour Teatri 2027, un viaggio attraverso oltre 35 anni di musica. Lo spettacolo ripercorre le canzoni che hanno segnato la carriera dell'artista in una dimensione intima.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marco Masini",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rivoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-marco-masini-teatri-torino-rivoli-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-sera-dei-miracoli-omaggio-a-lucio-dalla-monopoli",
+    "titolo": "La sera dei miracoli – omaggio a Lucio Dalla",
+    "categoria": "concerto",
+    "inizio": "2027-02-28T19:00",
+    "fine": "2027-02-28T21:00",
+    "luogo": "Teatro Radar",
+    "indirizzo": "Via Magenta, 71",
+    "cap": null,
+    "comune": "072030",
+    "frazione": null,
+    "lat": 40.89782,
+    "lon": 17.27764,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale dedicato alla storia e al repertorio del cantautore bolognese, con una band dal vivo, scenografie suggestive ed effetti di luce.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Good Vibrations Entertainment",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Monopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-sera-dei-miracoli-omaggio-a-lucio-dalla-monopoli-ba-teatro-radar",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "deutch-2027-atlas-wellness-workshop-apulien-monopoli",
+    "titolo": "Deutch 2027 – Atlas Wellness Workshop Apulien",
+    "categoria": "conferenza",
+    "inizio": "2027-06-14T20:30",
+    "fine": "2027-06-19T09:30",
+    "luogo": "Tenuta Monacelle",
+    "indirizzo": "Piazza Giuseppe di Vagno",
+    "cap": null,
+    "comune": "072030",
+    "frazione": null,
+    "lat": 40.89782,
+    "lon": 17.27764,
+    "coordinateApprossimate": true,
+    "descrizione": "Workshop di benessere che prevede sessioni di Chiropratica Network Spinal per adulti e bambini, finalizzato allo sviluppo di capacita fisiche, emotive e mentali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 600
+    },
+    "prenotazione": null,
+    "organizzatore": "Atlas Studio NSA Torino",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Monopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-deutch-atlas-wellness-workshop-apulien-monopoli-ba",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "francais-2027-atlas-wellness-workshop-pouilles-monopoli",
+    "titolo": "Français 2027 – Atlas Wellness Workshop Pouilles",
+    "categoria": "conferenza",
+    "inizio": "2027-06-14T20:30",
+    "fine": "2027-06-19T09:30",
+    "luogo": "Tenuta Monacelle",
+    "indirizzo": "Monopoli",
+    "cap": null,
+    "comune": "072030",
+    "frazione": null,
+    "lat": 40.89782,
+    "lon": 17.27764,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di benessere in lingua francese con sessioni pratiche di Chiropratica Network Spinal per la cura della persona e lo sviluppo di capacita fisiche e mentali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 600
+    },
+    "prenotazione": null,
+    "organizzatore": "Atlas Studio NSA Torino",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Monopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-francais-atlas-wellness-workshop-pouilles-monopoli-ba",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ora-o-mai-piu-spettacolo-teatrale-di-andrea-scanzi-martina-franca",
+    "titolo": "Ora o mai più - Spettacolo teatrale di Andrea Scanzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Teatro Nuovo Martina Franca",
+    "indirizzo": "Via Giuseppe Fanelli, 60",
+    "cap": null,
+    "comune": "073013",
+    "frazione": null,
+    "lat": 40.68646,
+    "lon": 17.30387,
+    "coordinateApprossimate": true,
+    "descrizione": "Andrea Scanzi porta in scena un one man show esilarante e satirico tra politica e grande musica, volto a smontare la classe di governo e stimolare una reazione del pubblico prima che sia troppo tardi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Fatto Quotidiano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Martina Franca",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-ora-o-mai-piu-il-nuovo-spettacolo-teatrale-di-andrea-scanzi-martina-franca-ta",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "harlem-gospel-choir-remembering-whitney-and-tina-martina-franca",
+    "titolo": "Harlem Gospel Choir - Remembering Whitney and Tina",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T21:00",
+    "fine": "2026-12-07T23:00",
+    "luogo": "Teatro Nuovo Martina Franca",
+    "indirizzo": "Viale della Libertà",
+    "cap": null,
+    "comune": "073013",
+    "frazione": null,
+    "lat": 40.68646,
+    "lon": 17.30387,
+    "coordinateApprossimate": true,
+    "descrizione": "Lo storico coro gospel newyorkese presenta un tributo musicale a Whitney Houston e Tina Turner, fondendo gospel contemporaneo, jazz e blues in una serata ricca di spiritualità ed energia vocale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Martina Franca",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-harlem-gospel-choir-remembering-whitney-and-tina-teatro-nuovo-martina-franca-ta",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-capodanno-orchestra-tebaide-martina-franca",
+    "titolo": "Concerto di Capodanno - Orchestra Tebaide",
+    "categoria": "concerto",
+    "inizio": "2027-01-01T20:00",
+    "fine": "2027-01-01T22:00",
+    "luogo": "Teatro Nuovo Martina Franca",
+    "indirizzo": "Via Giuseppe Fanelli, 60",
+    "cap": null,
+    "comune": "073013",
+    "frazione": null,
+    "lat": 40.68646,
+    "lon": 17.30387,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Coro e l'Orchestra Sinfonica Tebaide d'Italia accolgono il nuovo anno con valzer, polke e celebri pagine sinfoniche dei grandi compositori europei, sotto la direzione del maestro Cosimo Maraglino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Martina Franca",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-di-capodanno-orchestra-tebaide-martina-franca-01-gennaio-teatro-nuovo-ta",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hetta-chevalier-konoha-lumiere-csanextemerson-sesto-fiorentino",
+    "titolo": "Hetta Chevalier Konoha Lumiére @Csanextemerson",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "CSA nEXt Emerson",
+    "indirizzo": "Via di Bellagio",
+    "cap": null,
+    "comune": "048043",
+    "frazione": null,
+    "lat": 43.83994,
+    "lon": 11.22209,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale del Bad Taste Collective con le band Hetta, Chevalier, Konoha e Lumiére, in programma sabato 28 novembre 2026 al CSA nEXt Emerson di Via di Bellagio, Sesto Fiorentino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Collettivo Bad Taste",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Sesto Fiorentino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-hetta-chevalier-konoha-lumiere-csanextemerson-sesto-fiorentino-fi",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "immanuel-casto-non-ha-senso-ma-mi-adeguo-nichelino",
+    "titolo": "Immanuel Casto - Non Ha Senso Ma Mi Adeguo",
+    "categoria": "teatro",
+    "inizio": "2027-04-10T17:00",
+    "fine": "2027-04-10T19:00",
+    "luogo": "Teatro Superga",
+    "indirizzo": "Via Caprera",
+    "cap": null,
+    "comune": "001164",
+    "frazione": null,
+    "lat": 44.98999,
+    "lon": 7.62392,
+    "coordinateApprossimate": true,
+    "descrizione": "L'artista Immanuel Casto porta sul palco un nuovo monologo di pragmatismo comico che analizza il presente e la società tra ironia, satira e riflessioni sulla logica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Nichelino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-immanuel-casto-nichelino-to-teatro-superga-100427-non-ha-senso-ma-mi-adeguo",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dinosaur-pile-up-combo-settimo-torinese-to-settimo-torinese",
+    "titolo": "Dinosaur Pile Up Combo, Settimo Torinese (TO)",
+    "categoria": "concerto",
+    "inizio": "2027-04-28T19:00",
+    "fine": "2027-04-28T21:00",
+    "luogo": "Suoneria",
+    "indirizzo": "Via Partigiani, 4 - 10036 Settimo Torinese (TO)",
+    "cap": null,
+    "comune": "001265",
+    "frazione": null,
+    "lat": 45.14577,
+    "lon": 7.77311,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della band alt rock britannica Dinosaur Pile Up, che presenta il nuovo album I've Felt Better. Il live si terrà al locale Suoneria, parte di una data italiana del tour.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Hub Music Factory, LM Productions",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Settimo Torinese",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-dinosaur-pile-up-combo-settimo-torinese-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nocturnal-depression-the-last-italian-rites-stormcrow-guests-tba-suone-settimo-torinese",
+    "titolo": "NOCTURNAL DEPRESSION (The Last Italian Rites) Stormcrow Guests TBA – Suoneria (Torino)",
+    "categoria": "concerto",
+    "inizio": "2027-02-04T20:00",
+    "fine": "2027-02-04T22:00",
+    "luogo": "Suoneria",
+    "indirizzo": "Via Partigiani - 10036 Settimo Torinese (TO)",
+    "cap": null,
+    "comune": "001265",
+    "frazione": null,
+    "lat": 45.14577,
+    "lon": 7.77311,
+    "coordinateApprossimate": true,
+    "descrizione": "L'ultimo tour italiano della band di depressive black metal Nocturnal Depression, con a supporto gli Stormcrow. La data celebra la lunga carriera del gruppo prima di una pausa dalle scene.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orion Agency, LM Productions",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Settimo Torinese",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nocturnal-depression-the-last-italian-rites-stormcrow-guests-tba-suoneria-torino-settimo-torinese-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "witch-club-satan-suoneria-settimo-torinese-to-settimo-torinese",
+    "titolo": "Witch Club Satan Suoneria, Settimo Torinese (TO)",
+    "categoria": "concerto",
+    "inizio": "2027-04-21T21:00",
+    "fine": "2027-04-21T23:00",
+    "luogo": "Suoneria",
+    "indirizzo": "Via Partigiani - 10036 Settimo Torinese (TO)",
+    "cap": null,
+    "comune": "001265",
+    "frazione": null,
+    "lat": 45.14577,
+    "lon": 7.77311,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo arrivo in Italia del trio norvegese Witch Club Satan, che propone un live esperienziale con un sound che fonde le radici punk con il black metal norvegese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Hub Music Factory",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Settimo Torinese",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-witch-club-satan-suoneria-settimo-torinese-to",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-cenacolo-francescano-lecco-lc-lecco",
+    "titolo": "Teatro Cenacolo Francescano, Lecco(LC)",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T21:15",
+    "fine": "2026-11-21T23:15",
+    "luogo": "Teatro Il Cenacolo Francescano",
+    "indirizzo": "Piazzale dei Cappuccini, 3",
+    "cap": null,
+    "comune": "097042",
+    "frazione": null,
+    "lat": 45.85777,
+    "lon": 9.42254,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dei Dire Straits Over Gold, progetto dedicato al repertorio di Mark Knopfler. La band esegue brani storici come Sultans of Swing e Money for Nothing in un'esperienza immersiva di rock anni '80.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Lecco",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-teatro-cenacolo-francescano-leccolc-lecco-lc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lecco-suona-paoli-vanoni-gran-concerto-al-teatro-cenacolo-francescano-lecco",
+    "titolo": "Lecco Suona Paoli Vanoni Gran Concerto al Teatro Cenacolo Francescano",
+    "categoria": "concerto",
+    "inizio": "2027-02-27T21:00",
+    "fine": "2027-02-27T23:00",
+    "luogo": "Teatro Il Cenacolo Francescano",
+    "indirizzo": "Piazzale dei Cappuccini, 3",
+    "cap": null,
+    "comune": "097042",
+    "frazione": null,
+    "lat": 45.85777,
+    "lon": 9.42254,
+    "coordinateApprossimate": true,
+    "descrizione": "Omaggio a Gino Paoli e Ornella Vanoni con un ensemble che ripercorre i loro brani più amati e duetti. Il concerto unisce canzone d'autore, jazz e poesia in un'atmosfera intima e sofisticata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Temporary Band",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Lecco",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lecco-suona-paoli-vanoni-gran-concerto-al-teatro-cenacolo-francescano-lc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lecco-suona-buena-vista-social-club-sesion-cubana-al-teatro-cenacolo-f-lecco",
+    "titolo": "Lecco Suona Buena Vista Social Club Sesiòn Cubana al Teatro Cenacolo Francescano",
+    "categoria": "concerto",
+    "inizio": "2027-03-13T21:00",
+    "fine": "2027-03-13T23:00",
+    "luogo": "Teatro Il Cenacolo Francescano",
+    "indirizzo": "Piazzale dei Cappuccini, 3",
+    "cap": null,
+    "comune": "097042",
+    "frazione": null,
+    "lat": 45.85777,
+    "lon": 9.42254,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dedicato al Son Cubano e al repertorio del Buena Vista Social Club. Un ensemble di musicisti cubani e una cantante interpretano brani come Chan Chan e Dos Gardenias, evocando l'atmosfera dell'Avana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Temporary Band",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Lecco",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lecco-suona-buena-vista-social-club-sesion-cubana-al-teatro-cenacolo-francescano-lc",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-a-mantova-2026-mantova",
+    "titolo": "Mercatini di Natale a Mantova 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Piazza Virgiliana - Via Fratelli Cairoli",
+    "indirizzo": "Piazza Virgiliana - Via Fratelli Cairoli - 46100 Mantova (MN)",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini di Natale con chalet in legno, pista di pattinaggio sul ghiaccio e Christmas Arena. Aperture straordinarie per le festività e aree dedicate a eventi e laboratori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mercatini di Natale a Mantova",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mantova",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-mercatini-di-natale-a-mantova-mn",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xl-gianluca-zeccardo-flavio-zizzu-mantova",
+    "titolo": "XL Gianluca Zeccardo Flavio Zizzu",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T15:00",
+    "fine": "2026-11-22T23:00",
+    "luogo": "El Viejo Almacen Papelero",
+    "indirizzo": "Strada Chiesanuova, 27i - 46100 Mantova (MN)",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di ballo tango con DJ set di Gianluca Zeccardo e Flavio Zizzu. Evento bilanciato con buffet e acqua a disposizione. Obbligatoria la tessera ACSI.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Papelero's Special Event",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mantova",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-xl-gianluca-zeccardo-flavio-zizzu-mantova-mn",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giuseppe-ninno-mandrake-citofonare-casa-imbarazzi-san-benedetto-del-tronto",
+    "titolo": "Giuseppe Ninno Mandrake \"Citofonare Casa Imbarazzi\"",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T17:00",
+    "fine": "2026-11-21T23:00",
+    "luogo": "Madison Cinemas Palariviera",
+    "indirizzo": "Via Nicolò Paganini, 63074 San Benedetto del Tronto (AP)",
+    "cap": null,
+    "comune": "044066",
+    "frazione": null,
+    "lat": 42.92929,
+    "lon": 13.87764,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico di Giuseppe Ninno (Mandrake) con il nuovo show 'Citofonare Casa Imbarazzi', che racconta dinamiche familiari con situazioni paradossali e dialoghi taglienti, in un doppio appuntamento serale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Aurora Eventi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Benedetto del Tronto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-giuseppe-ninno-mandrake-citofonare-casa-imbarazzi-palariviera-san-benedetto-del-tronto",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-christmas-carol-il-musical-san-benedetto-del-tronto",
+    "titolo": "A Christmas Carol - Il Musical",
+    "categoria": "teatro",
+    "inizio": "2026-12-28T21:00",
+    "fine": "2026-12-28T23:00",
+    "luogo": "Madison Cinemas Palariviera",
+    "indirizzo": "Via Nicolò Paganini, 63074 San Benedetto del Tronto (AP)",
+    "cap": null,
+    "comune": "044066",
+    "frazione": null,
+    "lat": 42.92929,
+    "lon": 13.87764,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale del celebre racconto di Charles Dickens, interpretato dall'attore Roberto Ciufoli insieme alla Compagnia dell'Alba. La storia segue Ebenezer Scrooge nella sua redenzione durante la vigilia di Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Benedetto del Tronto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-a-christmas-carol-il-musical-palariviera-san-benedetto-del-tronto-ap",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "katia-follesa-no-vabbe-mi-adoro-san-benedetto-del-tronto",
+    "titolo": "Katia Follesa No Vabbe’ Mi Adoro",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Pala Riviera",
+    "indirizzo": "Via Nicolò Paganini, 63074 San Benedetto del Tronto (AP)",
+    "cap": null,
+    "comune": "044066",
+    "frazione": null,
+    "lat": 42.92929,
+    "lon": 13.87764,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico di Katia Follesa che esamina le nevrosi moderne, le relazioni e l'autoironia con uno stile brillante e dissacrante, offrendo una serata di divertimento e riflessione intelligente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ad Management Srl Spettacolo e Musica",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Benedetto del Tronto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-katia-follesa-no-vabbe-mi-adoro-san-benedetto-del-tronto-ap",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-21",
+    "inseritoDa": "consegna"
   }
 ]
