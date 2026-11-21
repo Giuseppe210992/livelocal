@@ -289815,5 +289815,116 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-terra-tra-il-cielo-e-l-acqua-massimo-dall-argine-palazzo-ducale-guastalla-2026-11-21",
+    "titolo": "«La terra tra il cielo e l'acqua»: fotografie di Massimo Dall'Argine",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2027-01-10",
+    "luogo": "Palazzo Ducale – Sale dell'Ottocento",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale del fotografo parmigiano sulle terre del Po, tra memoria, luce e suggestione. Inaugurazione sabato 21 novembre alle 17.30; aperta mercoledì, sabato e domenica 9.30-12.30 e 15.30-18.30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Guastalla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7EiH3BTrE/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "io-sono-il-po-spettacolo-palazzo-ducale-guastalla-2026-11-22",
+    "titolo": "«Io sono il Po»: quando è il fiume a prendere la parola",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:30",
+    "luogo": "Palazzo Ducale – Sala dell'Antico Portico",
+    "comune": "035024",
+    "lat": 44.90511,
+    "lon": 10.68148,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo inedito di otto racconti in cui il Po parla in prima persona, con testo di Ciro Maiocchi e musiche dal vivo di Max Savioli, Orazio Aroldi e Paolo Falchi; con l'Università Popolare «Il pane e le rose».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Guastalla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Guastalla",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7j2ksBfF8/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-di-san-martino-piazza-creativa-magenta-2026-11-21",
+    "titolo": "Mercatino di San Martino – Piazza Creativa",
+    "categoria": "mercatino",
+    "inizio": "2026-11-21T08:00",
+    "fine": "2026-11-21T18:00",
+    "luogo": "Via Mazzini",
+    "comune": "015130",
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "coordinateApprossimate": true,
+    "descrizione": "Bancarelle e creazioni artigianali nelle celebrazioni di San Martino, patrono di Magenta.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Magenta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7fkxoDe-j/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-delle-pulci-piazza-arrigo-vii-magenta-2026-11-29",
+    "titolo": "Mercatino delle Pulci (rinviato dal 22 novembre)",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T08:30",
+    "fine": "2026-11-29T16:00",
+    "luogo": "Piazza Arrigo VII",
+    "comune": "015130",
+    "lat": 45.45328,
+    "lon": 8.86243,
+    "coordinateApprossimate": true,
+    "descrizione": "Novità assoluta per Magenta, rinviata dal 22 al 29 novembre per le previsioni meteo sfavorevoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Magenta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Magenta",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df7fkxoDe-j/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
