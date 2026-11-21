@@ -291979,5 +291979,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-21",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "viva-la-mamma-mammitudine-e-altri-disastri-teatro-della-caduta-torino-2026-11-21",
+    "titolo": "Viva la mamma! Mammitudine e altri disastri",
+    "categoria": "teatro",
+    "inizio": "2026-11-21T21:00",
+    "luogo": "Teatro della Caduta",
+    "indirizzo": "Via Buniva 24",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico con Hannah Croft ed Emanuela Currao: una comica inglese e una italiana passano in rassegna dubbi, aspettative e assurdità della maternità, dai primi vagiti agli strilli dell'adolescenza. Ingresso gratuito con la tessera TdC 2027 (5 €); prenotazioni dal link nella biografia del teatro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro della Caduta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro della Caduta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzWTQcob0O/",
+        "consultata": "2026-11-21"
+      }
+    ],
+    "inserito": "2026-11-21",
+    "inseritoDa": "ia"
   }
 ]
