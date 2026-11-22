@@ -322649,5 +322649,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "50-anni-del-centro-emmaus-alm-2026-11-22",
+    "titolo": "50 anni del Centro Emmaus",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-22T10:30",
+    "fine": "2026-11-22T17:00",
+    "luogo": "Centro Emmaus, Scuola dell'Infanzia Teresa Zanchi",
+    "comune": "016005",
+    "lat": 45.73812,
+    "lon": 9.61359,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta a tutti per i 50 anni del Centro Emmaus: Santa Messa alle 10.30, aperitivo alle 11.30, scuola aperta e spettacolo del Mago Luca alle 15.00, taglio della torta alle 17.00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Almè",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Almè",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgABECotdbc/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatini-di-natale-ad-alm-alm-2026-12-08",
+    "titolo": "Mercatini di Natale ad Almè",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08T09:30",
+    "fine": "2026-12-08T18:00",
+    "luogo": "Piazza Lemine",
+    "comune": "016005",
+    "lat": 45.73812,
+    "lon": 9.61359,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini degli hobbisti, punti di ristoro, animazione per grandi e piccoli, proiezioni luminose e musica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Almè",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Almè",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgABm6jtREd/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
