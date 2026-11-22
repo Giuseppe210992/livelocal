@@ -318514,5 +318514,834 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "crazy-train-ozzy-osbourne-tribute-live-the-old-jesse-saronno",
+    "titolo": "CRAZY TRAIN - Ozzy Osbourne Tribute live - The Old Jesse",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T22:00",
+    "fine": "2026-12-29T00:00",
+    "luogo": "The Old Jesse",
+    "indirizzo": "Via Maestri del Lavoro, 45",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto tributo a Ozzy Osbourne con la band CRAZY TRAIN. Performance live di musica rock al locale The Old Jesse di Saronno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "CRAZY TRAIN - Ozzy Osbourne Tribute",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Saronno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-crazy-train-ozzy-osbourne-tribute-live-the-old-jesse-saronno-va",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giudybrutto-live-the-old-jesse-saronno",
+    "titolo": "Giudybrutto Live - The Old Jesse!",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T19:00",
+    "fine": "2026-12-05T21:00",
+    "luogo": "The Old Jesse",
+    "indirizzo": "Via Maestri del Lavoro, 45",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata musicale con il gruppo Giudybrutto. Appuntamento nella location The Old Jesse con esibizione live e atmosfera informale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giudybrutto",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Saronno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-giudybrutto-live-the-old-jesse-saronno-va",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "p-a-n-e-t-t-o-n-a-t-a-n-i-g-h-t-saronno",
+    "titolo": "P ä n ë t t ö n ä t ä N ï g ḧ t",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-16T20:00",
+    "fine": "2026-12-16T22:00",
+    "luogo": "The Old Jesse",
+    "indirizzo": "Via Maestri del Lavoro, 45",
+    "cap": null,
+    "comune": "012119",
+    "frazione": null,
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa di Natale aperta al pubblico con degustazione di panettone e bollicine. Incontro informale tra i frequentatori del club The Old Jesse.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "JBC MC Saronno",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Saronno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-p-a-n-e-t-t-o-n-a-t-a-n-i-g-t-saronno-va",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "antonio-ornano-in-grato-cantu-co-teatro-fumagalli-cantu",
+    "titolo": "Antonio Ornano \"(In)grato\" - Cantù (CO) - Teatro Fumagalli",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Teatro Fumagalli",
+    "indirizzo": "Via San Giuseppe - 22063 Cantù (CO)",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Antonio Ornano, sequel del suo precedente show \"Maschio caucasico irrisolto\". L'attore affronta con ironia e leggerezza il tema della modernità e della gratitudine obbligatoria, proponendo una riflessione sulla fallibilità umana attraverso una commedia brillante.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 33
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cantù",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-antonio-ornano-ingrato-cantu-co-teatro-fumagalli",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "come-l-era-bun-adess-che-l-e-mort-rassegna-commedia-dialettale-brillan-cantu",
+    "titolo": "Come L’era Bun… Adess Che L’é Mort… Rassegna Commedia Dialettale Brillante",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro San Teodoro",
+    "indirizzo": "Via Corbetta 7, 22063 Cantù (CO)",
+    "cap": null,
+    "comune": "013041",
+    "frazione": null,
+    "lat": 45.73917,
+    "lon": 9.13982,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di commedia dialettale brillante a cura della Compagnia Svitol. La trama vede Mafalfa stanca del marito nullafacente che, fingendosi morto, riceve lodi inaspettate e scatena una catena di imprevisti comici. Spettacolo in lingua dialettale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro San Teodoro",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cantù",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-come-lera-bun-adess-che-le-mort-rassegna-commedia-dialettale-brillante-cantu-co",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-villa-dei-viaggiatori-mira",
+    "titolo": "La Villa dei Viaggiatori",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T22:30",
+    "luogo": "Biblioteca di Oriago",
+    "indirizzo": "Via Venezia - 30034 Mira (VE)",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna di fotografia e letteratura di viaggio con Valentina Gallimberti Ballarin. L'autrice presenterà il suo percorso tra le stelle, esplorando il legame tra cucina e cinema in un racconto personale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mira",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-villa-dei-viaggiatori-mira-ve-2",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "percorso-tantra-a-mira-ve-tantra-la-via-dell-essere-mira",
+    "titolo": "Percorso Tantra a Mira (VE) Tantra - La Via dell'Essere",
+    "categoria": "bambini",
+    "inizio": "2026-12-02T20:00",
+    "fine": "2026-12-02T22:30",
+    "luogo": "Armonia di Giuditta",
+    "indirizzo": "Via Nazionale, 117;118;119;120;121 - 30034 Mira (VE)",
+    "cap": null,
+    "comune": "027023",
+    "frazione": null,
+    "lat": 45.41284,
+    "lon": 12.18556,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro esperienziale sul tema delle emozioni come messaggere, parte di un ciclo di crescita personale e consapevolezza corporea facilitato dai professionisti Enzo e Nadia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mira",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-percorso-tantra-a-mira-ve-tantra-la-via-dellessere",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cornuti-e-contenti-il-nuovo-spettacolo-di-marco-travaglio-spoleto",
+    "titolo": "Cornuti e contenti' il nuovo spettacolo di Marco Travaglio",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T21:00",
+    "fine": "2026-11-29T23:00",
+    "luogo": "Teatro Nuovo Gian Carlo Menotti",
+    "indirizzo": "Via Adriano Belli, 4",
+    "cap": null,
+    "comune": "054051",
+    "frazione": null,
+    "lat": 42.73743,
+    "lon": 12.70796,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Marco Travaglio dedicato alla critica della mala-politica e della mala-informazione. Il direttore del quotidiano Il Fatto Quotidiano presenta un manuale di autodifesa per invertire la rotta dal basso, dopo un tour di 90 date in 66 città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Fatto Quotidiano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Spoleto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cornuti-e-contenti-il-nuovo-spettacolo-di-marco-travaglio-spoleto-pg",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "simone-cristicchi-noi-che-fummo-con-lui-sulle-tracce-di-francesco-spoleto",
+    "titolo": "Simone Cristicchi 'Noi che fummo con lui. Sulle tracce di Francesco'",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T20:30",
+    "fine": "2026-12-08T22:30",
+    "luogo": "Teatro Nuovo Gian Carlo Menotti",
+    "indirizzo": "Via Adriano Belli, 4",
+    "cap": null,
+    "comune": "054051",
+    "frazione": null,
+    "lat": 42.73743,
+    "lon": 12.70796,
+    "coordinateApprossimate": true,
+    "descrizione": "Reading musicale scritto e interpretato da Simone Cristicchi insieme a Simona Orlando. L'artista riflette sugli insegnamenti di San Francesco d'Assisi partendo dai manoscritti dei suoi compagni. L'evento è parte del Festival di Spoleto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Simone Cristicchi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Spoleto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-simone-cristicchi-noi-che-fummo-con-lui-sulle-tracce-di-francesco-spoleto-pg",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "eros-ramazzotti-eboli-palasele-eboli",
+    "titolo": "Eros Ramazzotti Eboli, Palasele",
+    "categoria": "concerto",
+    "inizio": "2026-11-24T20:00",
+    "fine": "2026-11-24T22:00",
+    "luogo": "Palasele",
+    "indirizzo": "Via dell'Atletica - 84025 Eboli (SA) - Italia",
+    "cap": null,
+    "comune": "065050",
+    "frazione": null,
+    "lat": 40.56215,
+    "lon": 15.00563,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Eros Ramazzotti in programma presso la Palasele di Eboli. L'evento fa parte del tour dell'artista e include la vendita dei biglietti. Non vengono indicati dettagli sul repertorio specifico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Got Exclusive Event, Flussoconcerti It",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Eboli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-eros-ramazzotti-eboli-palasele",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voglio-tornare-negli-anni-90-r-eboli-sa-eboli",
+    "titolo": "Voglio Tornare Negli Anni 90 r - Eboli (SA)",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T18:30",
+    "fine": "2026-11-27T20:30",
+    "luogo": "Centro Commerciale LeBolle",
+    "indirizzo": "Via Serracapilli - 84025 Eboli (SA) - Italia",
+    "cap": null,
+    "comune": "065050",
+    "frazione": null,
+    "lat": 40.56215,
+    "lon": 15.00563,
+    "coordinateApprossimate": true,
+    "descrizione": "Show live dedicato alla musica degli anni '90, in occasione del 15° anniversario del Centro Commerciale Lebolle. L'evento include effetti speciali, animazione e momenti interattivi per il pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Voglio Tornare Negli Anni 90, Stuzzico Marco Sattin",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Eboli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-voglio-tornare-negli-anni-90-r-eboli-sa",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nonono-tributo-ai-pinguini-tattici-nucleari-voghera",
+    "titolo": "Nonono - Tributo ai Pinguini Tattici Nucleari",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T22:00",
+    "fine": "2026-12-01T00:00",
+    "luogo": "Cowboys' Guest Ranch",
+    "indirizzo": "Via Tullio Morato 18",
+    "cap": null,
+    "comune": "018182",
+    "frazione": null,
+    "lat": 45.00827,
+    "lon": 9.01347,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettivo musicale live di tributo ai Pinguini Tattici Nucleari. La band esecutrice Nonono propone un concerto con le hit della band bergamasca, focalizzato su energia e coinvolgimento del pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nonono - Tributo ai Pinguini Tattici Nucleari, Universal Pub, Cowboys' American Restaurant & Saloon",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Voghera",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nonono-tributo-ai-pinguini-tattici-nucleari-cowboys-guest-ranch-voghera-pv",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quasi-country-night-party-ciampino",
+    "titolo": "Quasi Country Night Party",
+    "categoria": "concerto",
+    "inizio": "2026-11-21T22:00",
+    "fine": "2026-11-22T04:00",
+    "luogo": "Orion Live",
+    "indirizzo": "Viale John Fitzgerald Kennedy, 52",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa a tema country con musica dance, sigle TV e cartoni animati. Dress code creativo con contest sui costumi. Ingresso a pagamento con biglietto unico online o botteghino.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "QUASI - Una festa pressappochista",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Ciampino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-quasi-country-night-party-ciampino-rm",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "belle-sebastian-30th-anniversary-tour-live-in-rome-ciampino",
+    "titolo": "Belle & Sebastian 30th Anniversary Tour Live in Rome",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T21:45",
+    "fine": "2026-11-29T23:45",
+    "luogo": "Orion Club",
+    "indirizzo": "Viale John Fitzgerald Kennedy, 52",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dei Belle & Sebastian in occasione del tour del 30° anniversario. La band è nota per il pop melodico e ironico. Biglietti disponibili su Ticketone.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "prenotazione": null,
+    "organizzatore": "Barley Arts",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Ciampino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-belle-sebastian-30th-anniversary-tour-live-in-rome-ciampino-rm",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nanowar-of-steel-orion-live-club-ciampino-roma-4-dicembre-2026-ciampino",
+    "titolo": "NANOWAR OF STEEL Orion Live Club, Ciampino (Roma) 4 Dicembre 2026",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T20:45",
+    "fine": "2026-12-04T22:45",
+    "luogo": "Orion Live Club",
+    "indirizzo": "Viale John Fitzgerald Kennedy, 52",
+    "cap": null,
+    "comune": "058118",
+    "frazione": null,
+    "lat": 41.79309,
+    "lon": 12.61482,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della band metal norvegese Nanowar of Steel. Biglietti early bird a tiratura limitata disponibili su TicketOne e Mailticket.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Bagana",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Ciampino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nanowar-of-steel-orion-live-club-ciampino-roma-4-dicembre-rm",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "esotika-pet-show-fermo-fermo",
+    "titolo": "Esotika Pet Show FERMO",
+    "categoria": "mostra",
+    "inizio": "2026-11-21T09:30",
+    "fine": "2026-11-22T18:30",
+    "luogo": "Quartiere Fieristico Fermo Forum",
+    "indirizzo": "Via Enzo Ferrari",
+    "cap": null,
+    "comune": "109006",
+    "frazione": null,
+    "lat": 43.1608,
+    "lon": 13.71686,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera nazionale dedicata agli animali esotici e da compagnia. L'evento include esposizioni di rettili, ornitologia, acquariologia, mostre scambio e spettacoli di intrattenimento. Si tiene nel quartiere fieristico Fermo Forum.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Esotika Pet Show",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Fermo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-esotika-pet-show-fermo-2122-novembre-fm",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-serata-balfolk-fermo",
+    "titolo": "Corso Serata Balfolk",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "fine": "2026-11-26T23:59",
+    "luogo": "Centro Sociale Luigi Salvadori",
+    "indirizzo": "Via Vittorio Bachelet",
+    "cap": null,
+    "comune": "109006",
+    "frazione": null,
+    "lat": 43.1608,
+    "lon": 13.71686,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di danza popolare folkloristica aperta a tutti, anche a chi non ha mai ballato. Durante l'evento vengono spiegati i passi di mazurka, bourrée, scottish e valse, seguiti da una sessione libera con playlist musicale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Balfolk Fermo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Fermo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-corso-serata-balfolk-fermo-fm",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "onori-al-nostro-eroe-patriota-e-martire-elia-formia",
+    "titolo": "Onori al Nostro Eroe Patriota E Martire Elia",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-30T07:00",
+    "fine": "2026-11-30T09:00",
+    "luogo": "Strada Statale 630 Formia Cassino",
+    "indirizzo": "04028 Formia (LT) - Italia",
+    "cap": null,
+    "comune": "059008",
+    "frazione": null,
+    "lat": 41.28458,
+    "lon": 13.6279,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia in onore di Antonio d'Elia, soldato dell'Armata di Mare delle Due Sicilie morto nella Battaglia di Mola. L'evento commemora i caduti formiani in occasione del ricordo della battaglia del 4 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Formia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-onori-al-nostro-eroe-patriota-e-martire-elia",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ospedale-si-apre-al-territorio-chieri",
+    "titolo": "L'ospedale si apre al territorio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Biblioteca Civica \"Nicolò e Paola Francone\"",
+    "indirizzo": "Via Vittorio Emanuele Secondo, 1 - 10023 Chieri (TO)",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro tematico di aggiornamento dedicato alle disfunzioni del pavimento pelvico, parte di una serie di 6 conferenze tenute dalla Struttura Complessa di Ostetricia e Ginecologia dell'Ospedale di Chieri.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca & Archivio - Città di Chieri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Chieri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lospedale-si-apre-al-territorio-chieri-to",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-e-creativita-chieri",
+    "titolo": "Storie e creatività",
+    "categoria": "bambini",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T18:15",
+    "luogo": "Biblioteca Civica \"Nicolò e Paola Francone\"",
+    "indirizzo": "Via Vittorio Emanuele II, 1 - 10023 Chieri (TO)",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per famiglie con bambini da 3 a 6 anni, che include letture e attività manuali come ritagli e collage per esplorare la creatività e i colori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca & Archivio - Città di Chieri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Chieri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-storie-e-creativita-chieri-to-2",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "chiedi-al-commercialista-2026-chieri",
+    "titolo": "Chiedi al Commercialista 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-12-14T15:00",
+    "fine": "2026-12-14T18:00",
+    "luogo": "Biblioteca Civica \"Nicolò e Paola Francone\"",
+    "indirizzo": "Via Vittorio Emanuele II, 1 - 10023 Chieri (TO)",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Sportello di consulenza gratuita gestito dall'Ordine dei Commercialisti di Torino, dove un professionista fornisce informazioni su temi fiscali, tributari, del terzo settore e societari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca & Archivio - Città di Chieri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Chieri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/chiedi-al-commercialista-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scottish-night-for-the-st-andrew-s-day-bollate",
+    "titolo": "Scottish Night for the St. Andrew’s Day",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:15",
+    "fine": "2026-11-27T23:30",
+    "luogo": "Las Vegas - Castellazzo di Bollate",
+    "indirizzo": "Via Corte del Fabbro, 20021 Bollate (MI)",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.5503,
+    "lon": 9.11464,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per la festa di Sant'Andrea, patrono della Scozia, alla birreria Las Vegas nel borgo di Castellazzo, di fianco a Villa Arconati. La serata si chiude con una gustosa cenetta. In scaletta le Lepricorns, gruppo locale specializzato in musica celtica e scozzese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "The Lepricorns",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bollate",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-scottish-night-for-the-st-andrews-day-bollate-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "max-forever-max-pezzali-live-bologna-casalecchio-di-reno",
+    "titolo": "Max Forever Max Pezzali LIVE @BOLOGNA",
+    "categoria": "concerto",
+    "inizio": "2027-02-05T21:00",
+    "fine": "2027-02-08T23:30",
+    "luogo": "Unipol Arena",
+    "indirizzo": "Via Gino Cervi",
+    "cap": null,
+    "comune": "037011",
+    "frazione": null,
+    "lat": 44.471,
+    "lon": 11.2654,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo show di Max Pezzali nel circuito dei palazzetti. L'evento è previsto per le date di febbraio 2027 presso l'Unipol Arena di Bologna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Max Pezzali FMP Community",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Casalecchio di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-max-forever-max-pezzali-live-bologna-unipol-arena-casalecchio-di-reno-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "simple-minds-in-concerto-a-bologna-casalecchio-di-reno",
+    "titolo": "Simple Minds in concerto a Bologna",
+    "categoria": "concerto",
+    "inizio": "2027-04-17T19:00",
+    "fine": "2027-04-17T21:00",
+    "luogo": "Unipol Arena",
+    "indirizzo": "Via Gino Cervi, 2",
+    "cap": null,
+    "comune": "037011",
+    "frazione": null,
+    "lat": 44.471,
+    "lon": 11.2654,
+    "coordinateApprossimate": true,
+    "descrizione": "La band di Jim Kerr e Charlie Burchill festeggia 50 anni di carriera con una data imperdibile a Bologna, presso l'Unipol Arena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Indipendente Concerti",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Casalecchio di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-simple-minds-in-concerto-a-bologna-casalecchio-di-reno-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giannagold-celebration-tour-live-2027-casalecchio-di-reno",
+    "titolo": "Giannagold – Celebration Tour – Live 2027",
+    "categoria": "concerto",
+    "inizio": "2027-04-09T21:00",
+    "fine": "2027-04-09T23:00",
+    "luogo": "Unipol Arena",
+    "indirizzo": "Via Gino Cervi, 2",
+    "cap": null,
+    "comune": "037011",
+    "frazione": null,
+    "lat": 44.471,
+    "lon": 11.2654,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo tour nei grandi palasport italiani di Gianna Nannini dopo il concerto evento a Berlino. La tappa di Bologna si svolge presso l'Unipol Arena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gianna Nannini",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Casalecchio di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-giannagold-celebration-tour-live-casalecchio-di-reno-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
   }
 ]
