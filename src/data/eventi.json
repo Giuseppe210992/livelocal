@@ -321127,5 +321127,1527 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercato-a-garbagna-garbagna",
+    "titolo": "mercato a Garbagna",
+    "categoria": "mercatino",
+    "inizio": "2026-11-22T08:00",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Piazza Alvigini",
+    "indirizzo": "piazza Alvigini - 15050 Garbagna",
+    "cap": null,
+    "comune": "006079",
+    "frazione": null,
+    "lat": 44.78054,
+    "lon": 8.99765,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato settimanale dedicato allo shopping e ai sapori del territorio, che si tiene la quarta domenica del mese con orari prestabiliti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/mercato-a-garbagna/1adff27eb84624fa563978cfb90d217c?",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "avis-giornata-di-raccolta-sangue-con-autoemoteca-buccinasco",
+    "titolo": "Avis, Giornata di raccolta sangue con autoemoteca",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-29T07:00",
+    "fine": "2026-11-29T13:00",
+    "luogo": "Centro Civico Marzabotto",
+    "indirizzo": "Via Marzabotto 3, 20090 Buccinasco",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di donazione del sangue con autoemoteca presente nel cortile del Centro Civico, a cura di Avis Corsico Buccinasco Assago.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Avis Corsico Buccinasco Assago",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/copia-di-avis-giornata-di-raccolta-sangue-con-autoe-f233b5cc-6390-4faf-8579-425c3d269d0b-663494-663497-712394",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ludofunclub-apertura-straordinaria-buccinasco",
+    "titolo": "Ludofunclub: apertura straordinaria",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Fagnana, 6, 20090 Buccinasco",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta a tutta la cittadinanza con svolgimento di giochi da tavolo e di ruolo, con il patrocinio del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ludofunclub",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/ludofunclub-apertura-straordinaria-719631-725780-730754-732526",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperitivi-in-musica-buccinasco",
+    "titolo": "Aperitivi in musica",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T11:30",
+    "fine": "2026-11-29T13:00",
+    "luogo": "Centro Civico Marzabotto",
+    "indirizzo": "Via Marzabotto 3, 20090 Buccinasco",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica irlandese dei Fabbricanti di nuvole con Federica Arestia, Elisa Sargenti e Denis Alessio. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Buccinasco",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/aperitivi-in-musica-726145-732748",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anche-gli-angeli-mangiano-bruscitti-busto-arsizio",
+    "titolo": "Anche gli angeli mangiano bruscitti",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-29T11:30",
+    "luogo": "Cimitero Monumentale",
+    "indirizzo": "Via Favana 2",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata pop dedicata alla scoperta delle sculture degli angeli nel cimitero, descritte come capolavori in pietra. Evento a posti limitati con iscrizione obbligatoria. Prezzo: 8 euro per tesserati, 12 euro per tessera più tour.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "AR-BUSTO",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/anche-gli-angeli-mangiano-bruscitti",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-natale-vi-edizione-busto-arsizio",
+    "titolo": "Concerto di Natale VI° edizione",
+    "categoria": "concerto",
+    "inizio": "2026-12-06T17:00",
+    "fine": "2026-12-06T18:00",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto natalizio della Fanfara bersaglieri Nino Tramonti - Mario Crosta di Lonate Pozzolo. L'evento ripropone i motivi più classici ed evocativi della festa. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fanfara bersaglieri Nino Tramonti - Mario Crosta",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/concerto-di-natale-vi-edizione",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-sant-ambrogio-xii-edizione-busto-arsizio",
+    "titolo": "Concerto di Sant'Ambrogio XII° edizione",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T21:00",
+    "fine": "2026-12-07T22:00",
+    "luogo": "Piazza San Giovanni",
+    "indirizzo": "Busto Arsizio",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto classico e moderno curato dal Corpo musicale Ana La Baldoria in collaborazione con il coro Ana Monterosa. L'evento si svolge in piazza San Giovanni e l'ingresso è gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Corpo musicale Ana La Baldoria",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/concerto-di-sant-ambrogio",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pive-nelle-vie-del-centro-busto-arsizio",
+    "titolo": "Pive nelle vie del centro",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T16:00",
+    "fine": "2026-12-08T17:00",
+    "luogo": "Centro cittadino",
+    "indirizzo": "Busto Arsizio",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto classico itinerante nelle vie e piazze del centro, accompagnato dall'inaugurazione del presepe del gruppo Alpini in piazza San Giovanni. L'evento è gratuito e aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Corpo musicale Ana La Baldoria",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/pive-nelle-vie-del-centro",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-dell-immacolata-busto-arsizio",
+    "titolo": "Concerto dell'Immacolata",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T17:30",
+    "fine": "2026-12-08T18:30",
+    "luogo": "Santuario di Santa Maria di Piazza",
+    "indirizzo": "P.za Santa Maria, 1",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto a plettro dei Mandolinisti Bustesi. L'evento si tiene nel Santuario di Santa Maria di Piazza ed è gratuito, aperto a tutto il pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mandolinisti Bustesi",
+    "fonti": [
+      {
+        "nome": "Comune di Busto Arsizio, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bustoarsizio.va.it/it/eventi/pive-nelle-vie-del-centro-734409",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buon-compleanno-jane-austen-castel-goffredo",
+    "titolo": "Buon compleanno, Jane Austen!",
+    "categoria": "conferenza",
+    "inizio": "2026-12-16T21:00",
+    "fine": "2026-12-16T22:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Piazza Matteotti, 7",
+    "cap": null,
+    "comune": "020015",
+    "frazione": null,
+    "lat": 45.29613,
+    "lon": 10.47835,
+    "coordinateApprossimate": true,
+    "descrizione": "Il compleanno della grande scrittrice inglese ricordato attraverso la lettura di alcuni brani tratti dai suoi capolavori. Evento rivolto a tutta la popolazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castel Goffredo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castelgoffredo.mn.it/it/eventi/buon-compleanno-jane-austen-16-12-26",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-l-invisibile-caporalato-e-sfruttamento-lavorativo-un-sistema-che-cuneo",
+    "titolo": "Oltre l’invisibile. Caporalato e sfruttamento lavorativo. Un sistema che disumanizza. Soluzioni per un’economia etica",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Centro Culturale don Aldo Benevelli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo sul tema dello sfruttamento lavorativo nell'ambito del ciclo Resistenze di Oggi - Informare per Resistere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Partigiana Ignazio Vian",
+    "fonti": [
+      {
+        "nome": "Comune di Cuneo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cuneo.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cieli-stellati-cuneo",
+    "titolo": "Cieli Stellati",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11",
+    "fine": null,
+    "luogo": "Parco fluviale Gesso e Stura",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Una serie di attività per approfondire il tema dell'inquinamento luminoso e della tutela dell'ambiente notturno, nell'ambito del progetto europeo ALCOTRA.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco fluviale Gesso e Stura",
+    "fonti": [
+      {
+        "nome": "Comune di Cuneo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cuneo.it/eventi-tipi/convegno",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "toc-toc-cuneo",
+    "titolo": "Toc Toc",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": null,
+    "luogo": "Teatro Toselli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "La Compagnia degli Stornati presenta una commedia brillante in due atti scritta dall'autore francese Laurent Baffie, in collaborazione con ABIO Cuneo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia degli Stornati",
+    "fonti": [
+      {
+        "nome": "Comune di Cuneo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cuneo.it/eventi-tipi/spettacolo-teatrale",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-magia-del-cuore-desio-in-fiaba-desio",
+    "titolo": "La magia del cuore | Desio in Fiaba",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T16:30",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Spazio Stendhal - Villa Tittoni",
+    "indirizzo": "Via G. M. Lampugnani, 62, 20832 Desio MB, Italia",
+    "cap": null,
+    "comune": "108023",
+    "frazione": null,
+    "lat": 45.61757,
+    "lon": 9.20336,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale a cura di Mission Bambini inserito nel palinsesto Desio in Fiaba, il Natale che incanta grandi e piccini. Evento gratuito aperto a tutti i partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mission Bambini",
+    "fonti": [
+      {
+        "nome": "Comune di Desio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.desio.mb.it/it/eventi/accendiamo-il-natale-desio-in-fiaba-734709",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-immagine-che-racconta-il-mondo-mantova-27-11",
+    "titolo": "L'immagine che racconta il mondo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:30",
+    "fine": "2026-11-27T22:00",
+    "luogo": "SANTAGNESE10 Officina Creativa",
+    "indirizzo": "Via Sant'Agnese, 10",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di incontri e dibattiti incentrati sulla fotografia e sui valori da essa trasmessi, tra memoria storica e sguardi contemporanei. L'evento rientra nella rassegna IMMAGINA 2026.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pantacon",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/l-immagine-che-racconta-il-mondo-23-ottobre-730021-730022",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lawrence-ammara-mantova",
+    "titolo": "Lawrence, Ammara",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T19:00",
+    "fine": "2026-11-27T21:00",
+    "luogo": "Sala delle Capriate",
+    "indirizzo": "Piazza Leon Battista Alberti, 10",
+    "cap": null,
+    "comune": "020030",
+    "frazione": null,
+    "lat": 45.14921,
+    "lon": 10.80693,
+    "coordinateApprossimate": true,
+    "descrizione": "Insolite incursioni musicali ispirate alla natura con musiche di Chopin, Debussy e Ravel. Sul palco la pianista Alessandra Ammara dialogherà con l'artista e botanico Clark Lawrence.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Orchestar da Camera di Mantova",
+    "fonti": [
+      {
+        "nome": "Comune di Mantova",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.mantova.it/it/eventi/kremer-kremerata-baltica-730212-730240",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-duemila-stagione-teatrale-2026-2027-le-serve-ragusa",
+    "titolo": "Teatro Duemila \"Stagione Teatrale 2026-2027\" - Le serve",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro Duemila",
+    "indirizzo": "Viale Sicilia, 21, 97100 Ragusa",
+    "cap": null,
+    "comune": "088009",
+    "frazione": null,
+    "lat": 36.90686,
+    "lon": 14.66391,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della stagione 2026-2027 con la commedia \"Le serve\" di Jean Genet. Regia di Guglielmo Ferri, traduzione di Giorgio Caproni. Protagoniste Fioretta Mari, Nadia De Luca e Francesca Ferri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ragusa",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ragusa.it/it/eventi/teatro-duemila-stagione-teatrale-2026-2027-le-serve",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aurora-tamigio-presenta-otto-ragazze-oleggio",
+    "titolo": "Aurora Tamigio presenta \"Otto ragazze\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T11:00",
+    "fine": null,
+    "luogo": "Biblioteca",
+    "indirizzo": "Oleggio",
+    "cap": null,
+    "comune": "003108",
+    "frazione": null,
+    "lat": 45.59683,
+    "lon": 8.64626,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo \"Otto ragazze\" di Aurora Tamigio. L'opera racconta la storia di Argenta, che a quattordici anni partecipa al progetto di co-residenza femminile della madre Sara in una villetta Liberty a Milano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/13/aurora-tamigio-presenta-otto-ragazze-a-oleggio",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "jana-karsaiova-presenta-io-non-parlo-russo-bologna",
+    "titolo": "Jana Karšaiová presenta \"Io non parlo russo\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T15:00",
+    "fine": null,
+    "luogo": "Libreria Coop Ambasciatori",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Io non parlo russo\" di Jana Karšaiová al festival L'Eredità delle Donne. Il romanzo racconta di Hana che torna a Bratislava per seguire le elezioni slovacche come inviata di una radio italiana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/12/jana-karsaiova-presenta-io-non-parlo-russo-al-festival-leredita-delle-donne",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "artemis-iii-prove-generali-per-la-luna-incontro-con-luca-parmitano-milano",
+    "titolo": "Artemis III. Prove generali per la Luna. Incontro con Luca Parmitano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T15:30",
+    "fine": null,
+    "luogo": "Museo della Scienza e della Tecnologia Leonardo da Vinci",
+    "indirizzo": "Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Luca Parmitano sul libro \"Camminare tra le stelle\". L'evento esplora le motivazioni dell'esplorazione spaziale, dai sogni alla cura del pianeta, citando anche l'influenza dei cartoni animati giapponesi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/11/artemis-iii-prove-generali-per-la-luna-incontro-con-luca-parmitano",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giorgio-mottola-presenta-l-internazionale-nera-salerno",
+    "titolo": "Giorgio Mottola presenta \"L'internazionale nera\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T18:00",
+    "fine": null,
+    "luogo": "Pinacoteca Provinciale",
+    "indirizzo": "Salerno",
+    "cap": null,
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67793,
+    "lon": 14.80995,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione de \"L'Internazionale nera\" di Giorgio Mottola. Il libro analizza la storia dell'Internazionale della nuova destra, i suoi finanziatori e il ruolo di Giorgia Meloni nelle alleanze tra sovranisti europei e fondazioni russe.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/10/giorgio-mottola-presenta-linternazionale-nera-a-salerno",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lorenzo-marone-presenta-i-sanacore-lucera",
+    "titolo": "Lorenzo Marone presenta \"I Sanacore\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T18:30",
+    "fine": null,
+    "luogo": "Circolo Unione Lucera 1860",
+    "indirizzo": "Lucera",
+    "cap": null,
+    "comune": "071028",
+    "frazione": null,
+    "lat": 41.49775,
+    "lon": 15.35133,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo \"I Sanacore\" di Lorenzo Marone. La storia inizia nel 1919 a Napoli con Lina, che perde l'uomo a vent'anni e da cui nasce un impero grazie alla passione per la cucitura tramandata in famiglia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/10/lorenzo-marone-presenta-i-sanacore-a-lucera",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "valentina-mira-presenta-tutto-il-furore-roma",
+    "titolo": "Valentina Mira presenta \"Tutto il furore\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T18:30",
+    "fine": null,
+    "luogo": "Libreria Novarcadia - Ubik Casalpalocco",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione di \"Tutto il furore\" di Valentina Mira. Il romanzo racconta Nina, che gioca a Call of Duty nel seminterrato di casa, e Davide, un ragazzo della stessa città con cui condivide la rabbia attraverso lo schermo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/10/20/valentina-mira-presenta-tutto-il-furore-alla-libreria-ubik-novarcadia",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "milo-manara-presenta-l-avventura-dell-erotismo-milano",
+    "titolo": "Milo Manara presenta \"L'avventura dell'erotismo\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T18:30",
+    "fine": null,
+    "luogo": "Centro Internazionale di Brera",
+    "indirizzo": "Milano",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione di \"L'avventura dell'erotismo\" di Milo Manara durante Bookcity Milano. L'autore, maestro del fumetto, svela in prima persona cosa rappresenta per lui il genere erotico. Partecipa Tito Faraci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Feltrinelli Editore",
+    "fonti": [
+      {
+        "nome": "Feltrinelli Editore",
+        "tipo": "organizzatore",
+        "url": "https://www.feltrinellieditore.it/appuntamenti/2026/11/20/milo-manara-presenta-lavventura-dellerotismo-a-bookcity-milano",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-amore-non-e-violenza-figline-e-incisa-valdarno",
+    "titolo": "L'amore non è violenza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T16:00",
+    "fine": null,
+    "luogo": "Circolo Arci Incisa",
+    "indirizzo": "Piazza Auzzi, Incisa",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di sensibilizzazione contro la violenza sulle donne con musica dal vivo, interventi informativi di esperti e personalità, e aperitivo. L'iniziativa mira a creare un momento di riflessione e informazione collettiva.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Arci Incisa",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi/lamore-non-e-violenza",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "monterosa-ski-alta-valsesia-stagione-2026-2027-alagna-valsesia",
+    "titolo": "Monterosa Ski Alta Valsesia: stagione 2026/2027",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2027-04-11",
+    "luogo": "Comprensorio Monterosa Ski",
+    "indirizzo": "Alagna Valsesia",
+    "cap": null,
+    "comune": "002002",
+    "frazione": null,
+    "lat": 45.84329,
+    "lon": 7.9172,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura della stagione sciistica nel comprensorio Monterosa Ski in Alta Valsesia, con l'attivazione delle piste da sci per l'inverno 2026-2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Lago Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.illagomaggiore.it/eventi/monterosa-ski-alta-valsesia-stagione-2026-2027",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-a-biella-divisionismo-1900-1930-il-segno-dell-avanguardia-in-it-biella",
+    "titolo": "Mostra a Biella: “Divisionismo 1900-1930. Il segno dell’Avanguardia in Italia”",
+    "categoria": "mostra",
+    "inizio": "2026-11-28",
+    "fine": "2027-04-04",
+    "luogo": "Palazzo Gromo Losa",
+    "indirizzo": "Biella",
+    "cap": null,
+    "comune": "096004",
+    "frazione": null,
+    "lat": 45.59264,
+    "lon": 8.01986,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata al divisionismo italiano del primo Novecento, ospitata negli spazi di Palazzo Gromo Losa e Palazzo Ferrero nel borgo storico del Piazzo a Biella.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Lago Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.illagomaggiore.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "isole-di-luce-2026-arte-sul-lago-maggiore-e-lago-d-orta-stresa",
+    "titolo": "Isole di Luce 2026: arte sul Lago Maggiore e Lago d’Orta",
+    "categoria": "mostra",
+    "inizio": "2026-12-04",
+    "fine": "2027-01-10",
+    "luogo": "Golfo Borromeo",
+    "indirizzo": "Stresa",
+    "cap": null,
+    "comune": "103064",
+    "frazione": null,
+    "lat": 45.887,
+    "lon": 8.52556,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di luci proiettate su Isola Bella e Isola dei Pescatori, visibile dal lungolago di Stresa e Baveno, con un itinerario artistico che include Verbania e Orta San Giulio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Distretto Turistico dei Laghi, Monti e Valli dell'Ossola",
+    "fonti": [
+      {
+        "nome": "Il Lago Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.illagomaggiore.it/eventi/isole-di-luce-2026-arte-sul-lago-maggiore-e-lago-dorta",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepi-sull-acqua-2026-crodo",
+    "titolo": "Presepi sull’acqua 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05",
+    "fine": "2027-01-10",
+    "luogo": "Valle Antigorio",
+    "indirizzo": "Crodo",
+    "cap": null,
+    "comune": "103026",
+    "frazione": null,
+    "lat": 46.24329,
+    "lon": 8.29534,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso all'aria aperta nella Valle Antigorio dove circa 70 presepi sono collocati in fontane, lavatoi e torrenti, visibile gratuitamente di giorno e di sera.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Crodo Eventi",
+    "fonti": [
+      {
+        "nome": "Il Lago Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.illagomaggiore.it/eventi/presepi-sullacqua-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-a-domodossola-2026-domodossola",
+    "titolo": "Mercatini di Natale a Domodossola 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12",
+    "fine": "2026-12-13",
+    "luogo": "Centro storico",
+    "indirizzo": "Domodossola",
+    "cap": null,
+    "comune": "103028",
+    "frazione": null,
+    "lat": 46.12289,
+    "lon": 8.25395,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini di Natale nel centro storico di Domodossola, con banchi di artigianato, prodotti locali e idee regalo, aperti dalle 9 alle 18.30 nei due giorni festivi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Il Lago Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.illagomaggiore.it/eventi/mercatini-di-natale-a-domodossola-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-di-condivisione-botticino",
+    "titolo": "Natale di condivisione",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-19T22:00",
+    "fine": null,
+    "luogo": "Cascina Pesa",
+    "indirizzo": "via Tito Speri 1, Botticino",
+    "cap": null,
+    "comune": "017023",
+    "frazione": null,
+    "lat": 45.55004,
+    "lon": 10.31401,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma natalizio che include una serata musicale il 18 dicembre con il duo Soffio Armonico e, il 19 e 20 dicembre, mercati e attività per bambini, tra cui la casa di Babbo Natale, la visita al presepe della Contrada Arancione e momenti musicali al pianoforte con brani della tradizione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Botticino",
+    "fonti": [
+      {
+        "nome": "Pro Loco Botticino",
+        "tipo": "organizzatore",
+        "url": "https://prolocobotticino.it/eventi/natale-di-condivisione",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-luce-del-natale-botticino",
+    "titolo": "La Luce del Natale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-07T18:00",
+    "fine": null,
+    "luogo": "Piazzetta antistante la Casa di Riposo",
+    "indirizzo": "Botticino",
+    "cap": null,
+    "comune": "017023",
+    "frazione": null,
+    "lat": 45.55004,
+    "lon": 10.31401,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia pubblica di accensione dell'albero di Natale. L'evento si svolge nella piazzetta antistante la Casa di Riposo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Botticino",
+    "fonti": [
+      {
+        "nome": "Pro Loco Botticino",
+        "tipo": "organizzatore",
+        "url": "https://prolocobotticino.it/eventi/la-luce-del-natale",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "beethoven-e-rodrigo-rito-e-passione-latina",
+    "titolo": "Beethoven e Rodrigo Rito e Passione",
+    "categoria": "concerto",
+    "inizio": "2026-12-27T18:00",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Viale Umberto I, 41/43, 04100 Latina",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica classica che propone brani di Beethoven e Manuel de Falla (Rodrigo), unendo l'intensità tedesca al fuoco latino.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Gabriele D'Annunzio",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrodannunziolatina.it/programmazione",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ex-tram-riscrittura-tra-infrastrutture-citta-e-storia-per-l-ex-deposit-gorizia",
+    "titolo": "Ex Tram. Riscrittura tra infrastrutture, città e storia per l'ex deposito tram di Gorizia",
+    "categoria": "mostra",
+    "inizio": "2026-11-13",
+    "fine": "2026-12-16",
+    "luogo": "Biblioteca Polo Universitario",
+    "indirizzo": "via Alviano 18",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra espositiva che presenta il progetto di ricerca per la rigenerazione dell'ex deposito tram. Collaborazione tra Università di Trieste e Comune di Gorizia. L'inaugurazione è accompagnata da una tavola rotonda di approfondimento sul rapporto tra la città e le infrastrutture.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Università degli Studi di Trieste",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/ex-tram-riscritture-tra-infrastrutture-citta-e-storia-per-lex-deposito-tram-di-gorizia",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "disegni-e-pastelli-inediti-gorizia",
+    "titolo": "Disegni e pastelli inediti",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-12-20",
+    "luogo": "Kulturni dom Gorica",
+    "indirizzo": "via Brass 20",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione di opere inedite e di recente produzione del pittore e incisore Franco Dugo. L'evento si inserisce nelle celebrazioni per il 45° anniversario del Kulturni dom e per l'85° compleanno dell'artista. La presentazione è affidata a critici d'arte e scrittori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/disegni-e-pastelli-inediti",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tonci-fantoni-il-colore-del-confine-gorizia",
+    "titolo": "Tonci Fantoni – Il colore del confine",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2026-12-18",
+    "luogo": "Palazzo Attems Santa Croce",
+    "indirizzo": "Gorizia",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata ad Antonio Fantoni, pittore dalmata arrivato a Gorizia nel 1938. L'esposizione, curata da Elisabetta Zerial, presenta acquerelli con fiori, paesaggi e alberi. Il tema 'confine' è inteso in senso poetico come soglia visiva tra elementi naturali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Gorizia",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/tonci-fantoni-il-colore-del-confine",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alienazioni-9-festival-2026-gorizia",
+    "titolo": "Alienazioni 9° Festival – 2026",
+    "categoria": "teatro",
+    "inizio": "2026-11-19T20:30",
+    "fine": "2026-12-10T20:30",
+    "luogo": "Kinemax",
+    "indirizzo": "piazza Vittoria",
+    "cap": null,
+    "comune": "031007",
+    "frazione": null,
+    "lat": 45.94416,
+    "lon": 13.59889,
+    "coordinateApprossimate": true,
+    "descrizione": "Nona edizione del festival con un programma di spettacoli teatrali, conferenze e letture. Si spazia da storie di cantiere a riflessioni su Franco Basaglia e Oriana Fallaci. Appuntamenti in diverse sedi cittadine tra novembre e dicembre con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gorizia Spettacoli",
+    "fonti": [
+      {
+        "nome": "Scopri Gorizia",
+        "tipo": "ufficiale",
+        "url": "https://www.scopri.gorizia.it/eventi/alienazioni-9-festival-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ascolta-l-invisibile-con-alessia-napolitano-castellarano-24-11",
+    "titolo": "Ascolta l'Invisibile con Alessia Napolitano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T16:30",
+    "fine": "2026-11-24T18:00",
+    "luogo": "Biblioteca comunale Alma ed Emma Chiavelli",
+    "indirizzo": "Via Roma 56, 42014 Castellarano",
+    "cap": null,
+    "comune": "035014",
+    "frazione": null,
+    "lat": 44.523,
+    "lon": 10.70193,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro conclusivo del ciclo Ascolta l'Invisibile con Alessia Napolitano alla Biblioteca Chiavelli di Castellarano. L'appuntamento chiude il percorso proposto nel calendario di novembre del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castellarano",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/ascolta-linvisibile-con-alessia-napolitano-ultimo-incontro-castellarano-24-novembre-2026-Ulvqu",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "noir-rubiera",
+    "titolo": "Noir",
+    "categoria": "teatro",
+    "inizio": "2026-11-24T20:30",
+    "fine": "2026-11-24T23:00",
+    "luogo": "Teatro Herberia",
+    "indirizzo": "Piazza Antonio Gramsci 1/b, Rubiera",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale Usine Baug, un'indagine sulla sparizione del documentarista Angel Forloi. Mette insieme testimonianze e frammenti di lavoro, tra true crime e teatro d'inchiesta. Corte Ospitale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": null,
+    "organizzatore": "Corte Ospitale",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/noir-teatro-herberia-rubiera-24-novembre-2026-WvUD9",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "psicologia-in-campo-psicologia-per-lo-staff-rubiera",
+    "titolo": "Psicologia in campo – Psicologia per lo staff",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:30",
+    "fine": "2026-11-25T20:30",
+    "luogo": "Sala del Consiglio di Palazzo Sacrati",
+    "indirizzo": "Via Emilia Est 5, Rubiera",
+    "cap": null,
+    "comune": "035036",
+    "frazione": null,
+    "lat": 44.67025,
+    "lon": 10.78748,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con lo psicologo dello sport Andrea Menozzi dedicato alla psicologia per lo staff. Offre strumenti per migliorare le relazioni tra allenatori, atleti e genitori nel contesto sportivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Rubiera",
+    "fonti": [
+      {
+        "nome": "Unione Tresinaro Secchia",
+        "tipo": "ufficiale",
+        "url": "https://unionetresinarosecchia.it/eventi/psicologia-in-campo-psicologia-per-lo-staff-rubiera-25-novembre-2026-QlNk6",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-di-natale-2026-desenzano-del-garda",
+    "titolo": "Mercatino di Natale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-14",
+    "fine": "2027-01-06",
+    "luogo": "Piazza Cappelletti",
+    "indirizzo": "Desenzano del Garda",
+    "cap": null,
+    "comune": "017067",
+    "frazione": null,
+    "lat": 45.45394,
+    "lon": 10.56427,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione del mercatino natalizio di Desenzano del Garda. Il villaggio natalizio in Piazza Cappelletti ospita 37 casette in legno per artigianato e prodotti tipici. Il programma include spettacoli per famiglie, giochi di luce e proiezioni Gobo Mapping sulle facciate degli edifici storici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/eventi-natale-desenzano",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-notte-un-museo-2026-brescia",
+    "titolo": "Una Notte un Museo 2026",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-09-19",
+    "fine": "2026-11-28",
+    "luogo": "Varie location",
+    "indirizzo": "Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Venticinque musei di Brescia e provincia aprono con iniziative speciali. Il percorso include storytelling multimediale, visita al buio e degustazioni di prodotti tipici. L'iniziativa unisce arte, sensi e territorio, offrendo un'esperienza multisensoriale guidata dalla voce di Luciano Bertoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Provincia di Brescia Eventi",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/una-notte-un-museo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-spiedo-scoppiettando-2026-gussago",
+    "titolo": "Lo Spiedo Scoppiettando 2026",
+    "categoria": "sagra",
+    "inizio": "2026-09-24",
+    "fine": "2026-12-10",
+    "luogo": "Vari ristoranti",
+    "indirizzo": "Gussago",
+    "cap": null,
+    "comune": "017081",
+    "frazione": null,
+    "lat": 45.59023,
+    "lon": 10.15122,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna gastronomica dedicata allo Spiedo di Gussago De.Co., il giovedì sera in vari ristoranti del paese. Il menù fisso comprende minestra sporca, spiedo, polenta, patate al forno, vini locali e grappa. L'evento sostiene le eccellenze gastronomiche del territorio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ristoranti di Gussago",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/lo-spiedo-scoppiettando",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-antiquaria-2026-montichiari",
+    "titolo": "Rassegna Antiquaria 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-29",
+    "luogo": "Centro Fiera Montichiari",
+    "indirizzo": "Via Brescia, 129",
+    "cap": null,
+    "comune": "017113",
+    "frazione": null,
+    "lat": 45.4112,
+    "lon": 10.38196,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di antiquariato e arte d'occasione che si tiene al Centro Fiera di Montichiari. L'evento presenta opere storiche e pezzi da collezione provenienti da gallerie italiane, offrendo ai visitatori la possibilità di ammirare e acquistare manufatti di pregio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/rassegna-antiquaria",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "salo-design-market-2026-salo",
+    "titolo": "Salò Design Market 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13",
+    "fine": "2026-12-13",
+    "luogo": "Piazza Vittorio Emanuele II",
+    "indirizzo": "Fossa e lungolago",
+    "cap": null,
+    "comune": "017170",
+    "frazione": null,
+    "lat": 45.60804,
+    "lon": 10.54083,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato creativo che riunisce espositori selezionati di design, antiquariato, modernariato, arte e vintage. L'evento si svolge nella Fossa e sul lungomare di Salò, offrendo una giornata di shopping e relax all'aria aperta in un contesto caratteristico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Salò",
+    "fonti": [
+      {
+        "nome": "Visit Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitbrescia.it/eventi/salo-design-market",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "street-food-alla-sonninese-tutto-pronto-per-la-prima-edizione-autunnal-sonnino",
+    "titolo": "Street Food alla Sonninese: tutto pronto per la prima edizione autunnale",
+    "categoria": "sagra",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "area pedonale tra via Cesare Battisti e Piazza Garibaldi",
+    "indirizzo": "Sonnino",
+    "cap": null,
+    "comune": "059029",
+    "frazione": null,
+    "lat": 41.4007,
+    "lon": 13.23392,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione autunnale di street food nella frazione di Sonnino. L'evento è previsto per il 29 novembre e si svolgerà nell'area pedonale centrale del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "LatinaToday – Eventi",
+        "tipo": "stampa",
+        "url": "https://www.latinatoday.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
   }
 ]
