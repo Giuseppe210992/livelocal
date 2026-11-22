@@ -312525,5 +312525,172 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-proiezione-sala-della-comunita-osio-sotto-2026-11-22",
+    "titolo": "Proiezione di «Se domani non torno»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T16:00",
+    "luogo": "Sala della Comunità Mons. Vincenzo Savio – Cinema",
+    "comune": "016153",
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film «Se domani non torno» nella settimana di iniziative del Comune di Osio Sotto contro la violenza sulle donne (21–29 novembre). Replica della proiezione di sabato sera.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "organizzatore": "Comune di Osio Sotto",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Dfzzs3zNTrf/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lea-e-le-eumenidi-donne-contro-la-vendetta-del-sangue-teatro-bianchi-pescantina-2026-11-26",
+    "titolo": "«Lea e le Eumenidi: donne contro la vendetta del sangue»",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:30",
+    "luogo": "Teatro G. Bianchi, Piazza Alpini",
+    "comune": "023058",
+    "lat": 45.49065,
+    "lon": 10.86121,
+    "coordinateApprossimate": true,
+    "descrizione": "Atto unico di Anna Rapisarda, con la regia di Enzo Rapisarda, liberamente ispirato alle «Eumenidi» di Eschilo e portato in scena dalla Compagnia Teatrale Rapisarda: il mito antico si intreccia con la storia di Lea Garofalo e della figlia Denise, che scelgono di opporsi alla 'ndrangheta e di spezzare la spirale della vendetta. Una serata di teatro, memoria e riflessione sulla violenza di genere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Pescantina",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Pescantina",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzZDnxItBR/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sudori-freddi-il-cinema-di-alfred-hitchcock-palazzo-delle-esposizioni-roma-2026-11-19",
+    "titolo": "«Sudori freddi. Il cinema di Alfred Hitchcock»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-19",
+    "fine": "2026-12-20",
+    "luogo": "Palazzo delle Esposizioni",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Grande retrospettiva sul maestro della suspense, dagli esordi inglesi con film raramente riproposti in sala ai capolavori americani, da «Psycho» a «Il pensionante», da «L'uomo che sapeva troppo» a «Notorious». A cura di Marco Berti e Francesca Pappalardo. Ingresso libero fino a esaurimento posti, prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Palazzo delle Esposizioni – Roma Capitale",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzMuaTjS2W/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ylajali-jon-fosse-prove-aperte-teatro-tor-bella-monaca-roma-2026-11-26",
+    "titolo": "«Ylajali» di Jon Fosse: prove aperte al pubblico",
+    "categoria": "teatro",
+    "inizio": "2026-11-26",
+    "fine": "2026-12-01",
+    "luogo": "Teatro Tor Bella Monaca",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima italiana di «Ylajali», testo inedito di Jon Fosse (Premio Nobel per la Letteratura 2023) ispirato al romanzo «Fame» di Knut Hamsun: povertà estrema, perdita della casa, isolamento e lotta per conservare la propria umanità, simbolo delle nuove fragilità delle periferie urbane. A cura dell'Associazione Culturale Zerkalo. Ingresso libero. Le prove sono aperte al pubblico su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione Culturale Zerkalo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1pZTbBi0D/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ylajali-jon-fosse-restituzione-teatro-della-visitazione-roma-2026-12-02",
+    "titolo": "«Ylajali» di Jon Fosse: restituzione al Teatro della Visitazione",
+    "categoria": "teatro",
+    "inizio": "2026-12-02",
+    "fine": "2026-12-04",
+    "luogo": "Teatro della Visitazione",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima italiana di «Ylajali», testo inedito di Jon Fosse (Premio Nobel per la Letteratura 2023) ispirato al romanzo «Fame» di Knut Hamsun: povertà estrema, perdita della casa, isolamento e lotta per conservare la propria umanità, simbolo delle nuove fragilità delle periferie urbane. A cura dell'Associazione Culturale Zerkalo. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione Culturale Zerkalo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1pZTbBi0D/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "ylajali-jon-fosse-restituzione-teatro-della-dodicesima-roma-2026-12-11",
+    "titolo": "«Ylajali» di Jon Fosse: restituzione al Teatro della Dodicesima",
+    "categoria": "teatro",
+    "inizio": "2026-12-11",
+    "fine": "2026-12-13",
+    "luogo": "Teatro della Dodicesima",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima italiana di «Ylajali», testo inedito di Jon Fosse (Premio Nobel per la Letteratura 2023) ispirato al romanzo «Fame» di Knut Hamsun: povertà estrema, perdita della casa, isolamento e lotta per conservare la propria umanità, simbolo delle nuove fragilità delle periferie urbane. A cura dell'Associazione Culturale Zerkalo. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione Culturale Zerkalo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1pZTbBi0D/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
