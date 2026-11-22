@@ -35,7 +35,7 @@
    "eventi": 0
   },
   "101008": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -77,7 +77,7 @@
    "eventi": 0
   },
   "101025": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -123,7 +123,7 @@
    "eventi": 0
   },
   "103028": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -145,10 +145,9 @@
    "motivo": "sito non trovato"
   },
   "103075": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "108001": {
    "data": "2026-11-21",
@@ -243,7 +242,7 @@
    "motivo": "sito non trovato"
   },
   "108021": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -297,14 +296,14 @@
    "eventi": 0
   },
   "108033": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
-   "eventi": 6
+   "eventi": 14
   },
   "108034": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
-   "eventi": 1
+   "eventi": 2
   },
   "108035": {
    "data": "2026-11-19",
@@ -410,7 +409,7 @@
    "eventi": 0
   },
   "109034": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -421,10 +420,9 @@
    "eventi": 0
   },
   "110001": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: HTTP 500"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "110002": {
    "data": "2026-11-20",
@@ -709,7 +707,7 @@
    "eventi": 0
   },
   "083107": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -788,7 +786,7 @@
    "eventi": 0
   },
   "063003": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -830,7 +828,7 @@
    "eventi": 0
   },
   "094002": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -928,7 +926,7 @@
    "eventi": 0
   },
   "062001": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -949,10 +947,9 @@
    "eventi": 0
   },
   "022001": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "001003": {
    "data": "2026-11-04",
@@ -1018,10 +1015,9 @@
    "motivo": "errore: The operation was aborted due to timeout"
   },
   "016003": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "002003": {
    "data": "2026-11-04",
@@ -1039,7 +1035,7 @@
    "eventi": 1
   },
   "013003": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -1095,7 +1091,7 @@
    "eventi": 0
   },
   "009004": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -1106,7 +1102,7 @@
    "eventi": 0
   },
   "012002": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -1173,13 +1169,12 @@
    "eventi": 0
   },
   "075003": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "023002": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: fetch failed"
@@ -1271,7 +1266,7 @@
    "eventi": 0
   },
   "061002": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -1409,7 +1404,7 @@
    "eventi": 0
   },
   "065005": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -1478,10 +1473,9 @@
    "eventi": 0
   },
   "007003": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: HTTP 404"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "021004": {
    "data": "2026-11-21",
@@ -1773,7 +1767,7 @@
    "eventi": 0
   },
   "001024": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -2204,7 +2198,7 @@
    "motivo": "sito non trovato"
   },
   "027005": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: fetch failed"
@@ -2876,17 +2870,17 @@
    "eventi": 0
   },
   "001086": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "059005": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "074005": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
    "eventi": 1
   },
@@ -2897,17 +2891,17 @@
    "motivo": "sito non trovato"
   },
   "068012": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "028032": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
-   "eventi": 15
+   "eventi": 8
   },
   "080028": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -2930,17 +2924,17 @@
    "motivo": "sito non trovato"
   },
   "058032": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "038005": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
    "eventi": 1
   },
   "098019": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -2951,12 +2945,12 @@
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
   },
   "052012": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "034009": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -2985,38 +2979,38 @@
    "motivo": "sito non trovato"
   },
   "016079": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "eventi",
    "eventi": 3
   },
   "015081": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "038006": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "088003": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: fetch failed"
   },
   "013075": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "017061": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "027011": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -3591,7 +3585,7 @@
    "eventi": 0
   },
   "087017": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -3787,10 +3781,9 @@
    "eventi": 2
   },
   "015114": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: terminated"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "063037": {
    "data": "2026-11-18",
@@ -4245,7 +4238,7 @@
    "motivo": "sito non trovato"
   },
   "087023": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -4277,7 +4270,7 @@
    "eventi": 0
   },
   "046018": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: The operation was aborted due to timeou"
@@ -4704,9 +4697,9 @@
    "eventi": 0
   },
   "017113": {
-   "data": "2026-11-19",
-   "esito": "nessun-evento",
-   "eventi": 0
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "045011": {
    "data": "2026-11-21",
@@ -4714,7 +4707,7 @@
    "eventi": 0
   },
   "064121": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -4725,9 +4718,9 @@
    "motivo": "sito non trovato"
   },
   "050022": {
-   "data": "2026-11-19",
-   "esito": "eventi",
-   "eventi": 2
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "043033": {
    "data": "2026-11-21",
@@ -4735,7 +4728,7 @@
    "eventi": 0
   },
   "014045": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -4752,7 +4745,7 @@
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
   },
   "073019": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -4763,14 +4756,14 @@
    "motivo": "sito non trovato"
   },
   "063048": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "027025": {
-   "data": "2026-11-19",
-   "esito": "eventi",
-   "eventi": 3
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "085012": {
    "data": "2026-11-21",
@@ -4785,7 +4778,7 @@
    "motivo": "sito non trovato"
   },
   "075052": {
-   "data": "2026-11-19",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
@@ -5247,34 +5240,31 @@
    "eventi": 3
   },
   "086014": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "037047": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "001189": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "026057": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: fetch failed"
-  },
-  "001191": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
+  },
+  "001191": {
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "061057": {
    "data": "2026-11-21",
@@ -5302,73 +5292,67 @@
    "eventi": 3
   },
   "067035": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "050026": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "001197": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "072035": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "063056": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "080061": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "063057": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "050028": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "048033": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "049012": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "001194": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "026059": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5379,31 +5363,30 @@
    "eventi": 2
   },
   "043042": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "063059": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "049014": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "076063": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "065099": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5414,49 +5397,47 @@
    "eventi": 0
   },
   "043043": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "088008": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "059017": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "063061": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "089021": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "087038": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "080063": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "010047": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5467,31 +5448,29 @@
    "eventi": 0
   },
   "015182": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 14
   },
   "026068": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "099014": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 7
   },
   "010046": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "057059": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5552,7 +5531,7 @@
    "eventi": 1
   },
   "093032": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -5669,10 +5648,9 @@
    "eventi": 0
   },
   "048035": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: vietato da robots.txt"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "087037": {
    "data": "2026-11-20",
@@ -5720,25 +5698,22 @@
    "eventi": 12
   },
   "022153": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "001217": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "001214": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 8
   },
   "087039": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5749,55 +5724,49 @@
    "eventi": 0
   },
   "058086": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "001219": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "058088": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "022161": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "072038": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "065114": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "089016": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "065116": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "031016": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -5823,7 +5792,7 @@
    "eventi": 0
   },
   "067037": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -5870,7 +5839,7 @@
    "motivo": "errore: The operation was aborted due to timeout"
   },
   "093037": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -5896,10 +5865,9 @@
    "eventi": 0
   },
   "004203": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: terminated"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "017170": {
    "data": "2026-11-21",
@@ -5912,22 +5880,20 @@
    "eventi": 9
   },
   "012118": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "023069": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
+  },
+  "026071": {
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
-  },
-  "026071": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: fetch failed"
   },
   "027032": {
    "data": "2026-11-20",
@@ -5940,19 +5906,18 @@
    "eventi": 0
   },
   "048038": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
-   "motivo": "sito non trovato"
+   "motivo": "errore: The operation was aborted due to timeout"
   },
   "085016": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "058119": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5969,7 +5934,7 @@
    "motivo": "non letta: HTTP 404"
   },
   "061075": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -5990,43 +5955,43 @@
    "eventi": 0
   },
   "073024": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "069081": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "050031": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "054044": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "063068": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "037054": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "071047": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -6042,37 +6007,37 @@
    "eventi": 5
   },
   "074015": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "028077": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
-   "motivo": "non letta: fetch failed"
+   "motivo": "sito non trovato"
   },
   "065122": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "071049": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "023076": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
-   "motivo": "non letta: fetch failed"
+   "motivo": "sito non trovato"
   },
   "063067": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -6110,7 +6075,7 @@
    "motivo": "errore: The operation was aborted due to timeout"
   },
   "061077": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: vietato da robots.txt"
@@ -6121,10 +6086,10 @@
    "eventi": 0
   },
   "001249": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
-   "motivo": "non letta: terminated"
+   "motivo": "sito non trovato"
   },
   "027034": {
    "data": "2026-11-20",
@@ -6393,10 +6358,9 @@
    "eventi": 0
   },
   "001257": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "012119": {
    "data": "2026-11-21",
@@ -6414,10 +6378,9 @@
    "eventi": 0
   },
   "011027": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "073026": {
    "data": "2026-11-21",
@@ -6667,10 +6630,9 @@
    "eventi": 2
   },
   "054051": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 3
   },
   "016207": {
    "data": "2026-11-21",
@@ -6678,7 +6640,7 @@
    "eventi": 0
   },
   "073029": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -11732,229 +11694,217 @@
    "eventi": 6
   },
   "075068": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "065118": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "099016": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "075069": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "013206": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "083077": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "062058": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "059025": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "084036": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "082064": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "047024": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "016188": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "018137": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "074014": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "001248": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "087044": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "071050": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "049018": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "061085": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "063070": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "015201": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "026077": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "018138": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "010055": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "025048": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "087047": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "083089": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "059026": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "011026": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "087048": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "085017": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "042044": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "077031": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "020061": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "058102": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "012122": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "089018": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "031018": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -11970,19 +11920,19 @@
    "eventi": 0
   },
   "030099": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
   },
   "032004": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
   },
   "074013": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: HTTP 404"
@@ -11998,16 +11948,14 @@
    "eventi": 2
   },
   "015191": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "052028": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 1
   },
   "030100": {
    "data": "2026-11-21",
@@ -12025,7 +11973,7 @@
    "eventi": 0
   },
   "030101": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12131,10 +12079,9 @@
    "eventi": 0
   },
   "024091": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 4
   },
   "076080": {
    "data": "2026-11-21",
@@ -12147,13 +12094,12 @@
    "eventi": 0
   },
   "072040": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "067038": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12174,10 +12120,9 @@
    "eventi": 0
   },
   "088010": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: terminated"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "026075": {
    "data": "2026-11-21",
@@ -12185,10 +12130,9 @@
    "eventi": 0
   },
   "063071": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 2
   },
   "010054": {
    "data": "2026-11-21",
@@ -12252,7 +12196,7 @@
    "eventi": 0
   },
   "063077": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12299,7 +12243,7 @@
    "eventi": 0
   },
   "085018": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: terminated"
@@ -12315,10 +12259,9 @@
    "eventi": 2
   },
   "006160": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "non letta: terminated"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "010058": {
    "data": "2026-11-21",
@@ -12326,7 +12269,7 @@
    "eventi": 0
   },
   "024095": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12373,10 +12316,9 @@
    "eventi": 2
   },
   "036042": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "errore: The operation was aborted due to timeout"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "028087": {
    "data": "2026-11-21",
@@ -12384,181 +12326,169 @@
    "eventi": 0
   },
   "059029": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "056048": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "016202": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "061089": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "019102": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "089019": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "061090": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "012124": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "001270": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 7
   },
   "013222": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "041070": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "072044": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "056049": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "017187": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "076089": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "043054": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "013252": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "016218": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "063091": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "058107": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "054054": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "024107": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "015226": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "065154": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "086019": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "003154": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "087052": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "061095": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "015251": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "016232": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -12610,7 +12540,7 @@
    "eventi": 0
   },
   "031023": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12671,7 +12601,7 @@
    "eventi": 0
   },
   "098056": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -12849,7 +12779,7 @@
    "eventi": 0
   },
   "015224": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "non letta: HTTP 404"
@@ -12875,14 +12805,14 @@
    "eventi": 0
   },
   "009064": {
-   "data": "2026-11-18",
+   "data": "2026-11-22",
    "esito": "nessun-evento",
    "eventi": 0
   },
   "048046": {
-   "data": "2026-11-18",
-   "esito": "eventi",
-   "eventi": 1
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "024125": {
    "data": "2026-11-18",
@@ -12975,91 +12905,88 @@
    "eventi": 0
   },
   "011031": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "048049": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "050038": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "nessun-evento",
+   "eventi": 0
   },
   "065157": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "096077": {
-   "data": "2026-11-15",
-   "esito": "fonti-illeggibili",
-   "eventi": 0,
-   "motivo": "sito non trovato"
+   "data": "2026-11-22",
+   "esito": "eventi",
+   "eventi": 6
   },
   "087053": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "061098": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "028104": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "078154": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "020070": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "005118": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "016245": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "001315": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "024118": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
   },
   "024119": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "sito non trovato"
@@ -13090,7 +13017,7 @@
    "eventi": 0
   },
   "017195": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
@@ -13227,7 +13154,7 @@
    "eventi": 0
   },
   "093051": {
-   "data": "2026-11-15",
+   "data": "2026-11-22",
    "esito": "fonti-illeggibili",
    "eventi": 0,
    "motivo": "pagina vuota (probabile contenuto caricato con Jav"
