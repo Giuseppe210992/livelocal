@@ -327029,5 +327029,903 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "karaoke-night-con-alessandro-tiberio-san-giuliano-terme",
+    "titolo": "Karaoke Night con Alessandro Tiberio",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T19:30",
+    "fine": "2026-11-25T23:45",
+    "luogo": "Route 66",
+    "indirizzo": "Via delle Sorgenti, 15B",
+    "cap": null,
+    "comune": "050031",
+    "frazione": null,
+    "lat": 43.75703,
+    "lon": 10.4104,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di karaoke con Alessandro Tiberio al Route 66. L'evento include cena a partire dalle 19:30 e sessione di karaoke dalle 21:30, con atmosfera informale e musicale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Route 66-ristopub",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Giuliano Terme",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-karaoke-night-con-alessandro-tiberio-tutti-i-mercoledi-san-giuliano-terme-pi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-ora-all-opera-carnevale-a-roma-san-lazzaro-di-savena",
+    "titolo": "Un'ora all'Opera - Carnevale a Roma",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T17:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Mediateca di San Lazzaro di Savena",
+    "indirizzo": "Via Caselle, 22 - 40068 San Lazzaro di Savena (BO)",
+    "cap": null,
+    "comune": "037054",
+    "frazione": null,
+    "lat": 44.45082,
+    "lon": 11.42589,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con una rappresentazione dell'opera. Protagoniste: Marie (Giada Maria Zanzi) e Arthur (Maurizio Tonelli). Accompagnamento musicale del Maestro Gioacchino Cancemi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sol Omnibus Lucet APS, Comune di San Lazzaro di Savena, Mediateca di San Lazzaro di Savena, Modesta Compagnia dell'Arte",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Lazzaro di Savena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-unora-allopera-carnevale-a-roma-san-lazzaro-di-savena-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "io-voto-sguardi-contemporanei-san-lazzaro-di-savena",
+    "titolo": "IO VOTO - Sguardi contemporanei",
+    "categoria": "mostra",
+    "inizio": "2026-11-16T14:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Mediateca di San Lazzaro di Savena",
+    "indirizzo": "Via Caselle, 22 - 40068 San Lazzaro di Savena (BO)",
+    "cap": null,
+    "comune": "037054",
+    "frazione": null,
+    "lat": 44.45082,
+    "lon": 11.42589,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Gabriele Fiolo che celebra gli 80 anni dal diritto di voto alle donne. Ritratti di donne di generazioni diverse con la propria tessera elettorale. Inaugurazione il 20 novembre alle ore 18:30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di San Lazzaro di Savena",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Lazzaro di Savena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-io-voto-sguardi-contemporanei-san-lazzaro-di-savena-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-per-il-nuovo-anno-fabriano",
+    "titolo": "Concerto Per Il Nuovo Anno",
+    "categoria": "concerto",
+    "inizio": "2027-01-04T21:00",
+    "fine": "2027-01-04T23:00",
+    "luogo": "Teatro Gentile",
+    "indirizzo": "Via Gentile da Fabriano, 1",
+    "cap": null,
+    "comune": "042017",
+    "frazione": null,
+    "lat": 43.33179,
+    "lon": 12.9065,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico per il nuovo anno con musiche di Rossini, Verdi, Puccini, Mozart e Strauss. Si esibiscono la soprano Kateryna Cebotova e il tenore Marco Mancuso, diretti da Mario Lamberto con la FORM-Orchestra Filarmonica Marchigiana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FORM - Orchestra Filarmonica Marchigiana",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Fabriano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-per-il-nuovo-anno-fabriano-an",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "metal-witches-ii-abbiategrasso",
+    "titolo": "Metal Witches Ii",
+    "categoria": "concerto",
+    "inizio": "2027-04-10T20:00",
+    "fine": "2027-04-10T22:00",
+    "luogo": "Cooperativa Rinascita Abbiatense",
+    "indirizzo": "Via Novara, 6",
+    "cap": null,
+    "comune": "015002",
+    "frazione": null,
+    "lat": 45.3819,
+    "lon": 8.89543,
+    "coordinateApprossimate": true,
+    "descrizione": "Festival metal con le band Toliman, Loudblood, Noise in Myself e Wicked Asylum. Apertura porte alle 20:30 e inizio concerti alle 21:00. Ingresso a pagamento con biglietti disponibili in cassa solo in contanti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Pandemonium over Lugano, Wicked Asylum, Misty Gravestone, Coop Metal Beer, Cooperativa Rinascita Abbiatense, Mattia Maina",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Abbiategrasso",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-metal-witches-ii-abbiategrasso-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-per-il-nuovo-anno-ennio-morricone-e-altre-colonne-sonore-conc-abbiategrasso",
+    "titolo": "Concerto Per Il Nuovo Anno Ennio Morricone E Altre Colonne Sonore - Concerto A Lume Di Candela",
+    "categoria": "concerto",
+    "inizio": "2027-01-10T17:00",
+    "fine": "2027-01-10T19:00",
+    "luogo": "Castello di Abbiategrasso",
+    "indirizzo": "Piazza Castello",
+    "cap": null,
+    "comune": "015002",
+    "frazione": null,
+    "lat": 45.3819,
+    "lon": 8.89543,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettáculo musicale con arpa che propone colonne sonore di Morricone, Rota, Williams e altri, tra cui Romeo e Giulietta e Il Postino. Evento tenuto nei sotterranei del Castello illuminato da candele per celebrare il nuovo anno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Abbiategrasso",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-per-il-nuovo-anno-ennio-morricone-e-altre-colonne-sonore-concerto-a-lume-di-candela-abbiategrasso-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-erbe-dello-spirito-corso-di-erboristeria-ciclo-autunnale-san-donato-milanese",
+    "titolo": "Le erbe dello spirito - Corso di erboristeria - Ciclo autunnale",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T10:00",
+    "fine": "2026-12-12T13:00",
+    "luogo": "Hortus conclusus del Mulino dell'Abbazia di Chiaravalle",
+    "indirizzo": "20097 San Donato Milanese (MI)",
+    "cap": null,
+    "comune": "015192",
+    "frazione": null,
+    "lat": 45.41252,
+    "lon": 9.25845,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alle erbe delle feste, quarto di una serie di lezioni su piante aromatiche e officinali. Comprende parte teorica e pratica laboratoriale con realizzazione di preparazioni erboristiche. Include degustazione guidata di infusi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 130
+    },
+    "prenotazione": null,
+    "organizzatore": "Abbazia di Chiaravalle",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Donato Milanese",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-le-erbe-dello-spirito-corso-di-erboristeria-ciclo-autunnale-san-donato-milanese-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "frozen-elsa-e-il-castello-di-ghiaccio-alba",
+    "titolo": "Frozen – Elsa E Il Castello Di Ghiaccio",
+    "categoria": "teatro",
+    "inizio": "2026-12-06T18:30",
+    "fine": "2026-12-06T20:30",
+    "luogo": "Teatro Sociale \"G. Busca\"",
+    "indirizzo": "Piazza Vittorio Veneto, 3",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.68794,
+    "lon": 8.03089,
+    "coordinateApprossimate": true,
+    "descrizione": "Musical per famiglie tratto dal film Disney Frozen, con musica, recitazione e scenografie digitali immersive. Lo spettacolo racconta le vicende di due principesse separate dalla magia del ghiaccio, unendo danza e narrazione teatrale in un'esperienza multisensoriale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "GRUPPOANTEPRIMA",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Alba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-frozen-elsa-e-il-castello-di-ghiaccio-alba-cn",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "abba-show-the-golden-years-teatro-sociale-busca-sala-abbado-alba-alba",
+    "titolo": "ABBA SHOW \"The Golden Years\" – Teatro Sociale Busca Sala Abbado, Alba",
+    "categoria": "concerto",
+    "inizio": "2027-02-13T21:00",
+    "fine": "2027-02-13T23:00",
+    "luogo": "Teatro Sociale \"G. Busca\" - Sala Abbado",
+    "indirizzo": "Piazza Vittorio Veneto, 3",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.68794,
+    "lon": 8.03089,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo live della tribute band AdbaShow, dedicata ai successi degli Abba. Lo show ricrea l'atmosfera degli anni Settanta attraverso musica, luci, costumi e coreografie, offrendo un'esperienza immersiva tra folk, dance e rock.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Spettacolo Live",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Alba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-abba-show-the-golden-years-teatro-sociale-busca-sala-abbado-alba",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ora-o-mai-piu-il-nuovo-spettacolo-teatrale-di-andrea-scanzi-alba-alba",
+    "titolo": "“ORA O MAI PIÙ” il nuovo spettacolo teatrale di Andrea Scanzi ALBA",
+    "categoria": "teatro",
+    "inizio": "2027-01-08T21:00",
+    "fine": "2027-01-08T23:00",
+    "luogo": "Teatro Sociale \"G. Busca\"",
+    "indirizzo": "Piazza Vittorio Veneto, 3",
+    "cap": null,
+    "comune": "004003",
+    "frazione": null,
+    "lat": 44.68794,
+    "lon": 8.03089,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Andrea Scanzi, un one man show satirico e irriverente. L'autore si esprime con musica e parole per commentare la politica italiana, invitando il pubblico a una riflessione critica sui fatti di cronaca e sul governo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Fatto Quotidiano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Alba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-ora-o-mai-piu-il-nuovo-spettacolo-teatrale-di-andrea-scanzi-alba-cn",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "karaoke-cernusco-sul-naviglio-mi-cernusco-sul-naviglio",
+    "titolo": "KARAOKE – Cernusco sul Naviglio (MI)",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T19:30",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Da Mordisco",
+    "indirizzo": "Via Balconi 25a",
+    "cap": null,
+    "comune": "015070",
+    "frazione": null,
+    "lat": 45.52604,
+    "lon": 9.33272,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di intrattenimento e karaoke condotta da Alice Manzati e Antonello Arabia. L'evento si svolge ogni mercoledì e prevede la premiazione di un vincitore con un aperitivo per due persone.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "BULLETPROOF",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cernusco sul Naviglio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-karaoke-cernusco-sul-naviglio-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "christmas-run-2026-cernusco-sul-naviglio",
+    "titolo": "Christmas Run 2026",
+    "categoria": "sport",
+    "inizio": "2026-12-13T10:00",
+    "fine": "2026-12-13T12:00",
+    "luogo": "Parco Comi",
+    "indirizzo": "Viale Assunta, 17",
+    "cap": null,
+    "comune": "015070",
+    "frazione": null,
+    "lat": 45.52604,
+    "lon": 9.33272,
+    "coordinateApprossimate": true,
+    "descrizione": "Marcia non competitiva natalizia della 11ª edizione, con percorsi di 5 e 10 km lungo l'alzaia del Naviglio Martesana. Include kit di accoglienza e animazione natalizia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Cernusco Sul Naviglio",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cernusco sul Naviglio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-christmas-run-cernusco-sul-naviglio-mi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "jazz-night-aglio-olio-swing-mattorosso-montebelluna",
+    "titolo": "JAZZ NIGHT – Aglio, Olio & Swing – Mattorosso",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T20:00",
+    "fine": "2026-11-22T22:00",
+    "luogo": "Mattorosso",
+    "indirizzo": "Via Piave, 108",
+    "cap": null,
+    "comune": "026046",
+    "frazione": null,
+    "lat": 45.77161,
+    "lon": 12.04248,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di jazz e swing a tavola con il gruppo Aglio, Olio e Swing. Repertorio di classici italiani degli anni '20-'50 riletti in chiave gipsy jazz, accompagnato da una cena al ristorante Mattorosso.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Mattorosso",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Montebelluna",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-jazz-night-aglio-olio-swing-mattorosso-montebelluna-tv",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maurizio-solieri-gang-in-concerto-al-mattorosso-di-montebelluna-tv-montebelluna",
+    "titolo": "MAURIZIO SOLIERI Gang in concerto al Mattorosso di Montebelluna (TV)",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:30",
+    "fine": "2026-12-05T23:30",
+    "luogo": "Mattorosso",
+    "indirizzo": "Via Piave, 108",
+    "cap": null,
+    "comune": "026046",
+    "frazione": null,
+    "lat": 45.77161,
+    "lon": 12.04248,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del gruppo Maurizio Solieri Gang, storico chitarrista di Vasco Rossi e fondatore della Steve Rogers Band. Il set include brani di Vasco, omaggi a Led Zeppelin e Rolling Stones e composizioni originali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Montebelluna",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-maurizio-solieri-gang-in-concerto-al-mattorosso-di-montebelluna-tv",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "templari-verbania-verbania",
+    "titolo": "Templari – Verbania",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Teatro Spazio Sant'Anna",
+    "indirizzo": "Via Belgio 4",
+    "cap": null,
+    "comune": "103072",
+    "frazione": null,
+    "lat": 45.93502,
+    "lon": 8.54026,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance narrativa di divulgazione storica a cura della medievista Jennifer Radulovic, autrice di Barbaricus. L'evento propone una appassionante narrazione sulla storia dei Templari, accompagnata da una galleria di immagini e documenti d'epoca.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15.8
+    },
+    "prenotazione": null,
+    "organizzatore": "Jennifer Radulovic",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Verbania",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-templari-verbania-vb",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nessun-dorma-valsamoggia",
+    "titolo": "Nessun Dorma!",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-29T18:30",
+    "luogo": "Fondazione Rocca dei Bentivoglio",
+    "indirizzo": "Via Contessa Matilde, 10",
+    "cap": null,
+    "comune": "037061",
+    "frazione": null,
+    "lat": 44.44408,
+    "lon": 11.09137,
+    "coordinateApprossimate": true,
+    "descrizione": "24 ore di eventi letterari, musicali e di coesione sociale contro la violenza di genere in occasione della Giornata internazionale per l'eliminazione della violenza contro le donne. Il programma include talk, presentazioni di libri, mostre, podcast live e giochi per la parità dei diritti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Valsamoggia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nessun-dorma-valsamoggia-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "let-it-be-logy-i-beatles-in-chiave-jazz-valsamoggia",
+    "titolo": "LET IT BE – LOGY – I Beatles in chiave jazz",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T19:00",
+    "fine": "2026-11-29T21:00",
+    "luogo": "CRAL - Circolo Arci Bazzano",
+    "indirizzo": "Via Edmondo De Amicis",
+    "cap": null,
+    "comune": "037061",
+    "frazione": null,
+    "lat": 44.44408,
+    "lon": 11.09137,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettáculo jazz strumentale in cui il gruppo LOGY, formato da Alessandro Russo, Daniele Fabbri, Andrea Filippig e Umberto Genovese, rivede in chiave acustica ed elettrica alcuni brani dei Beatles. L'evento si svolge nel contesto di un circolo culturale con offerta di cibo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Arci Bazzano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Valsamoggia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-let-it-be-logy-i-beatles-in-chiave-jazz-valsamoggia-bo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "portofino-marathon-rapallo",
+    "titolo": "Portofino Marathon",
+    "categoria": "sport",
+    "inizio": "2027-01-31T09:15",
+    "fine": "2027-01-31T11:15",
+    "luogo": "Lungomare Chiosco della Musica",
+    "indirizzo": "Via della Libertà - 16035 Rapallo (GE) - Italia",
+    "cap": null,
+    "comune": "010046",
+    "frazione": null,
+    "lat": 44.36802,
+    "lon": 9.21629,
+    "coordinateApprossimate": true,
+    "descrizione": "Maratona e mezza maratona che si svolgono tra mare e storia nella Riviera Ligure. La gara prevede un percorso di 42 km o 21 km con partenza da Rapallo. Le iscrizioni sono aperte con quote promozionali disponibili fino a ottobre 2026.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "Runners e Benessere",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rapallo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-portofino-marathon-rapallo-ge",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mulinobianco-back-to-the-green-future-poggibonsi",
+    "titolo": "MULINOBIANCO - back to the green future",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-11-25T23:00",
+    "luogo": "Teatro Politeama - Sala Maggiore",
+    "indirizzo": "piazza Rosselli 6 - Via Trento - 53036 Poggibonsi (SI)",
+    "cap": null,
+    "comune": "052022",
+    "frazione": null,
+    "lat": 43.45774,
+    "lon": 11.16677,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Babilonia Teatri e La Corte Ospitale che esplora la relazione tra l'umanità e il pianeta attraverso la voce di due bambini. La pièce affronta temi ecologici e sociali con un linguaggio poetico e provocatorio, invitando il pubblico a riflettere sul futuro del mondo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Babilonia Teatri e La Corte Ospitale",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Poggibonsi",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-mulinobianco-back-to-the-green-future-poggibonsi-si",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "un-po-meno-fantasma-poggibonsi",
+    "titolo": "Un Po' Meno Fantasma",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Teatro Politeama Sala Set",
+    "indirizzo": "piazza Rosselli 6 - Via Trento - 53036 Poggibonsi (SI)",
+    "cap": null,
+    "comune": "052022",
+    "frazione": null,
+    "lat": 43.45774,
+    "lon": 11.16677,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Tommaso Bianco, regia di Francesca Sarteanesi. La storia segue Marcello, un uomo dalla sensibilità unica che parla a volume molto basso, esplorando la delicatezza emotiva e i rapporti umani in modo intimo e raffinato.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Politeama Multisala Poggibonsi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Poggibonsi",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-un-po-meno-fantasma-poggibonsi-si",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tuttafuffa-show-arena-boglione-back-in-town-bra",
+    "titolo": "Tuttafuffa SHOW - Arena Boglione Back in Town",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Centro Polifunzionale di Bra",
+    "indirizzo": "Via Ernesto Guala, 2b - 12042 Bra (CN) - Italia",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento musicale dell'Arena Boglione che si trasferisce temporaneamente al Centro Polifunzionale per la serata 'Back in Town'. Lo show vede alla consolle i veterani della scena braidese in un ambiente eclettico che coinvolge palco, banconi e pista.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Caffè Boglione di Bra, TUTTAFUFFA",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bra",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-tuttafuffa-show-arena-boglione-back-in-town-27-11-26-bra-cn",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giorgio-vanni-live-natale-in-citta-2026-bra",
+    "titolo": "Giorgio Vanni Live - Natale in Città 2026",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T23:00",
+    "luogo": "Auditorium G.Arpino",
+    "indirizzo": "Via della Resistenza 1, di BRA (CN)",
+    "cap": null,
+    "comune": "004029",
+    "frazione": null,
+    "lat": 44.70706,
+    "lon": 7.825,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Giorgio Vanni nell'ambito dell'iniziativa Natale in Città. Lo spettacolo dura circa un'ora e propone un repertorio di canzoni per intrattenere il pubblico. L'ingresso è gratuito previa prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giorgio Vanni, Comune di Bra",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bra",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-giorgio-vanni-live-natale-in-citta-a-bra-cn",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "romeo-live-red-velvet-corazon-cervia",
+    "titolo": "ROMEO live @Red Velvet Corazon",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T18:30",
+    "fine": "2026-11-22T20:30",
+    "luogo": "Red Velvet Corazón",
+    "indirizzo": "Viale dei Mille, 100",
+    "cap": null,
+    "comune": "039007",
+    "frazione": null,
+    "lat": 44.25125,
+    "lon": 12.315,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance live della band Romeo con DJ set di Luke The Man presso il locale Red Velvet Corazón, accompagnata da offerta gastronomica messicana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Romeo - The Band, Red Velvet Corazón",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cervia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-romeo-live-red-velvet-corazon-cervia-ra",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gipsy-garden-very-xmas-edition-2026-cervia",
+    "titolo": "Gipsy Garden Very Xmas Edition 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-12-06T20:00",
+    "luogo": "Magazzini del Sale",
+    "indirizzo": "Viale Nazario Sauro, 24",
+    "cap": null,
+    "comune": "039007",
+    "frazione": null,
+    "lat": 44.25125,
+    "lon": 12.315,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato di artigianato e creatività con cento espositori italiani, musica e gastronomia in formato natalizio su due weekend consecutivi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gipsy Garden",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cervia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-gipsy-garden-very-xmas-edition-28-29-novembre-5-6-dicembre-cervia-ra",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "speed-stroke-the-loyal-cheaters-pit-dust-rock-planet-cervia",
+    "titolo": "Speed Stroke The Loyal Cheaters Pit Dust Rock Planet",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:30",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Rock Planet Club",
+    "indirizzo": "Viale Tritone, 77",
+    "cap": null,
+    "comune": "039007",
+    "frazione": null,
+    "lat": 44.25125,
+    "lon": 12.315,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di hard rock e rock'n'roll con le band Speed Stroke, The Loyal Cheaters e Pit Dust nel quadro del Damage Control Tour.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 2
+    },
+    "prenotazione": null,
+    "organizzatore": "Bagana, URSUS Rock, Skull Of Rock, Speed Stroke, Rock Planet Club",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cervia",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-speed-stroke-the-loyal-cheaters-pit-dust-rock-planet-cervia-ra",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vittorio-veneto-suona-buena-vista-social-club-sesion-cubana-al-teatro-vittorio-veneto",
+    "titolo": "Vittorio Veneto Suona Buena Vista Social Club Sesión Cubana al Teatro Da Ponte",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Teatro Lorenzo Da Ponte",
+    "indirizzo": "Piazza Minuccio Minucci, 31029 Vittorio Veneto (TV)",
+    "cap": null,
+    "comune": "026092",
+    "frazione": null,
+    "lat": 46.00418,
+    "lon": 12.29672,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per rivivere il Son del Buena Vista Social Club. Un ensemble di musicisti cubani guida il pubblico in un viaggio nella musica tradizionale, con arrangiamenti curati e atmosfera elegante, riproponendo le atmosfere della Cuba antica e il repertorio reso celebre dal film di Wim Wenders.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Temporary Band",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Vittorio Veneto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-vittorio-veneto-suona-buena-vista-social-club-sesion-cubana-al-teatro-da-ponte-tv",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sfilata-dei-krampus-vittorio-veneto-vittorio-veneto",
+    "titolo": "Sfilata dei Krampus - Vittorio Veneto",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-07T20:00",
+    "fine": "2026-12-07T22:00",
+    "luogo": "Piazza del Popolo",
+    "indirizzo": "Piazza del Popolo, 14 - 31029 Vittorio Veneto (TV)",
+    "cap": null,
+    "comune": "026092",
+    "frazione": null,
+    "lat": 46.00418,
+    "lon": 12.29672,
+    "coordinateApprossimate": true,
+    "descrizione": "Sfilata delle figure Krampus, caratterizzate da costumi e maschere tradizionali alpine. L'appuntamento, inserito nel Villaggio di Natale, anima le strade del centro cittadino con un'atmosfera suggestiva e tradizionale che richiama numerosi spettatori ogni anno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Vittorio Al Centro",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Vittorio Veneto",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-sfilata-dei-krampus-vittorio-veneto-tv-2",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
   }
 ]
