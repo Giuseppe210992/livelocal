@@ -308746,5 +308746,86 @@
     ],
     "inserito": "2026-11-21",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "inaugurazione-pista-di-pattinaggio-parcheggio-scuole-medie-malnate-2026-11-29",
+    "titolo": "Inaugurazione della pista di pattinaggio",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-29T10:00",
+    "luogo": "Parcheggio delle scuole medie",
+    "comune": "012096",
+    "lat": 45.79714,
+    "lon": 8.8823,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della pista di pattinaggio di Malnate nel parcheggio delle scuole medie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Malnate",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Malnate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1euOJlSDe/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-piccolo-principe-teatro-nuovo-varese-2026-11-22",
+    "titolo": "«Il Piccolo Principe»",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:00",
+    "luogo": "Teatro Nuovo",
+    "comune": "012133",
+    "lat": 45.8243,
+    "lon": 8.81294,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale «Il Piccolo Principe» in programma domenica pomeriggio al Teatro Nuovo di Varese, segnalato dal Comune di Malnate tra i prossimi appuntamenti del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro Nuovo di Varese",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Malnate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1euOJlSDe/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "quello-che-resta-per-giulia-per-tutte-reading-teatrale-sala-del-carmine-massa-lombarda-2026-11-26",
+    "titolo": "«Quello che resta. Per Giulia, per tutte»: reading teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "luogo": "Sala del Carmine",
+    "comune": "039013",
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Reading teatrale nel programma del Comune di Massa Lombarda per la Giornata internazionale per l'eliminazione della violenza contro le donne, dedicato a Giulia e a tutte le donne vittime di violenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Massa Lombarda",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Massa Lombarda",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzUq5wAKbU/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
