@@ -327927,5 +327927,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-oro-rosso-futuro-e-sostenibilita-del-pomodoro-da-industria-villa-soragna-collecchio-2026-11-28",
+    "titolo": "L'oro rosso: futuro e sostenibilità del pomodoro da industria",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:00",
+    "luogo": "Villa Soragna",
+    "comune": "034009",
+    "lat": 44.75112,
+    "lon": 10.20762,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro di un ciclo su agricoltura, ambiente e società: convegno tra istituzioni, università, ricerca e industria conserviera su innovazione genetica, irrigazione con sensori, resilienza climatica e digitalizzazione. Saluti della Sindaca Mariastella Galli e dell'Assessore regionale Roberto Dallavalle.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Collecchio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Collecchio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgAgI4HCVv3/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-a-codigoro-vetrine-in-festa-e-case-sotto-le-luci-codigoro-2026-12-08",
+    "titolo": "Natale a Codigoro: Vetrine in festa e Case sotto le luci",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-08",
+    "fine": "2027-01-08",
+    "luogo": "Centro e frazioni di Codigoro",
+    "comune": "038005",
+    "lat": 44.85818,
+    "lon": 12.12771,
+    "coordinateApprossimate": true,
+    "descrizione": "Contest natalizio promosso da Comune, Hub urbano e Pro Loco: vetrine e case illuminate a gara, con accensione del Natale dall'8 dicembre e votazioni aperte a tutti dal 9 dicembre all'8 gennaio presso la Biblioteca «Giorgio Bassani». Iscrizioni dal 23 novembre al 5 dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Codigoro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Codigoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgAp2Y3he0B/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
