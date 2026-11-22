@@ -315517,5 +315517,168 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "44-torino-film-festival-tff44-cinema-massimo-e-romano-torino-2026-11-24",
+    "titolo": "44° Torino Film Festival (TFF44)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24",
+    "fine": "2026-12-02",
+    "luogo": "Cinema Massimo e Cinema Romano",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Dal 24 novembre al 2 dicembre 120 film in cinque sezioni tra lungometraggi, documentari e cortometraggi, in concorso e fuori concorso, più una retrospettiva. Biglietti online e, dal 17 novembre, alle casse dei Cinema Massimo e Romano dalle 16 alle 21.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df1m7opoeN0/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mira-sorvino-premio-stella-della-mole-tff44-cinema-massimo-torino-2026-12-02",
+    "titolo": "Mira Sorvino riceve il premio Stella della Mole al TFF44",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-02",
+    "luogo": "Cinema Massimo",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Nella serata di premiazione del 44° Torino Film Festival l'attrice Premio Oscar Mira Sorvino riceve il premio Stella della Mole. Al festival presenta «That One Beautiful Day» di Melora Walters e sarà in sala per «Norma Jean & Marilyn» di Tim Fywell (1996).",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfz2QhBoDYo/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "se-domani-non-torno-terza-settimana-auditorium-casatenovo-2026-11-22",
+    "titolo": "«Se domani non torno» (terza settimana in prima visione)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T16:00",
+    "luogo": "Auditorium di Casatenovo",
+    "comune": "097016",
+    "lat": 45.6822,
+    "lon": 9.32319,
+    "coordinateApprossimate": true,
+    "descrizione": "Prosegue il film su Giulia Cecchettin, che invita a riflettere sulla violenza contro le donne e sulla cultura del rispetto. Domenica 22 novembre proiezioni alle 16:00 e alle 21:00. Biglietti sul sito dell'Auditorium.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Auditorium di Casatenovo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Auditorium Casatenovo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df1jQekooA0/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "se-domani-non-torno-con-intro-video-di-paola-randi-cinema-gabbiano-senigallia-2026-11-25",
+    "titolo": "«Se domani non torno» con introduzione in diretta video della regista Paola Randi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:30",
+    "luogo": "Cinema Gabbiano",
+    "comune": "042045",
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film di Paola Randi su Giulia Cecchettin, con l'introduzione in diretta video della regista. Biglietti alla cassa o sul sito del cinema.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Fondazione Gabbiano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cinema Gabbiano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Dfz8ywsHC8k/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "kasia-smutniak-ospite-dopo-la-proiezione-di-mustang-cinema-gabbiano-senigallia-2026-11-27",
+    "titolo": "Kasia Smutniak ospite dopo la proiezione di «Mustang»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:15",
+    "luogo": "Cinema Gabbiano",
+    "comune": "042045",
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "L'attrice Kasia Smutniak è ospite in sala al termine della proiezione del film «Mustang». Prevendita e acquisto dei biglietti dal 18 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cinema Gabbiano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cinema Gabbiano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df2GBYOG8v7/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "nanni-moretti-e-jasmine-trinca-presentano-succedera-questa-notte-cinema-gabbiano-senigallia-2026-12-11",
+    "titolo": "Nanni Moretti e Jasmine Trinca presentano «Succederà questa notte»",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11T19:00",
+    "luogo": "Cinema Gabbiano",
+    "comune": "042045",
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Il regista e l'attrice protagonista incontrano il pubblico e introducono personalmente le due proiezioni del nuovo film «Succederà questa notte»: alle 19:00 e alle 22:00. Prevendita dal 18 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cinema Gabbiano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cinema Gabbiano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df2FQSZDQ3h/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
