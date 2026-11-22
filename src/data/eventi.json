@@ -321045,5 +321045,87 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cenere-e-diamanti-di-andrzej-wajda-restauro-bologna-2026-11-25",
+    "titolo": "«Cenere e diamanti» di Andrzej Wajda (restauro)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T19:30",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film restaurato del 1958, opera-manifesto della scuola polacca con Zbigniew Cybulski. Biglietti sul sito della programmazione della Cineteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df_8xOeDwR6/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "american-gigol-e-presentazione-del-libro-giorgio-secondo-armani-bologna-2026-11-26",
+    "titolo": "«American Gigolò» e presentazione del libro «Giorgio secondo Armani»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T17:30",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film di Paul Schrader (1980), preceduta dalla presentazione del volume «Giorgio secondo Armani. La vita oltre il successo» (Marsilio, 2026) con l'autrice Roberta Filippini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgAZYQxEe-S/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "mercatino-solidale-di-natale-ad-albinea-albinea-2026-12-05",
+    "titolo": "Mercatino Solidale di Natale ad Albinea",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-05T18:00",
+    "luogo": "Piazza Cavicchioni",
+    "comune": "035001",
+    "lat": 44.609,
+    "lon": 10.61287,
+    "coordinateApprossimate": true,
+    "descrizione": "Stand delle associazioni di volontariato con gadget e prodotti natalizi; allo stand della Pro Loco vin brulè, erbazzoni e dolci di Natale. Con il patrocinio del Comune di Albinea.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Albinea",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Albinea",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df_7vHMjYGN/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
