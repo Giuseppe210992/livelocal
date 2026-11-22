@@ -310079,5 +310079,140 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-gigante-che-inseguiva-il-vento-teatro-astra-sassari-2026-11-22",
+    "titolo": "«Il gigante che inseguiva il vento» (Famiglie a Teatro)",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T18:00",
+    "luogo": "Teatro Astra",
+    "comune": "112050",
+    "lat": 40.74467,
+    "lon": 8.36425,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per famiglie coprodotto dalla compagnia sassarese La Botte e il Cilindro e dalla Fondazione AIDA di Verona: in una valle dove le macchine perfette hanno spento i sogni, la sarta Anna e un gigante appassionato di volo riportano il vento. Rassegna «Famiglie a Teatro», 37ª edizione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "La Botte e il Cilindro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "L'Unione Sarda",
+        "tipo": "stampa",
+        "url": "https://unionesarda.it/news-sardegna/agenda/il-gigante-che-inseguiva-il-vento-approda-al-teatro-astra-di-sassari-nqk3mmlu",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-voci-per-santa-cecilia-festival-delle-bellezze-latte-dolce-sassari-2026-11-22",
+    "titolo": "«Voci per Santa Cecilia» al Festival delle Bellezze, dedicato a Luca",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T20:00",
+    "luogo": "Santuario di Nostra Signora di Latte Dolce",
+    "comune": "112050",
+    "lat": 40.74467,
+    "lon": 8.36425,
+    "coordinateApprossimate": true,
+    "descrizione": "XIV tappa della 9ª edizione del Festival delle Bellezze, nella rassegna nazionale «Voci per Santa Cecilia» (FENIARCO): cori Insieme Vocale Nova Euphonia e Corale Studentesca Città di Sassari, diretti da Vincenzo Cossu, con brani sacri, spirituals e natalizi; ospiti Margherita Scaramuzzino (voce) e Calogero Sportato (tiorba, arciliuto, chitarra alla spagnola) del Festival Note Senza Tempo. La serata è dedicata a Luca, giovane ex corista aggredito a Latte Dolce all'inizio di novembre, e alla sua famiglia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Festival delle Bellezze",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "L'Unione Sarda",
+        "tipo": "stampa",
+        "url": "https://unionesarda.it/news-sardegna/agenda/sassari-un-concerto-dedicato-a-luca-il-giovane-corista-aggredito-a-latte-dolce-ejn51w49",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "roberto-gatto-around-miles-and-trane-macerata-jazz-winter-teatro-lauro-rossi-2026-12-04",
+    "titolo": "Roberto Gatto: «Around Miles and Trane» – Macerata Jazz Winter",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T21:15",
+    "luogo": "Teatro Lauro Rossi",
+    "comune": "043023",
+    "lat": 43.30328,
+    "lon": 13.45191,
+    "coordinateApprossimate": true,
+    "descrizione": "Omaggio a Miles Davis e John Coltrane nel centenario, nella rassegna Macerata Jazz Winter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Macerata Jazz Winter",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Amarche",
+        "tipo": "aggregatore",
+        "url": "https://amarche.it/eventi-marche/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-gospel-david-gulley-cleveland-chorale-macerata-jazz-winter-teatro-lauro-rossi-2026-12-27",
+    "titolo": "Concerto gospel con David Gulley e Cleveland Chorale – Macerata Jazz Winter",
+    "categoria": "concerto",
+    "inizio": "2026-12-27T21:15",
+    "luogo": "Teatro Lauro Rossi",
+    "comune": "043023",
+    "lat": 43.30328,
+    "lon": 13.45191,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto gospel natalizio con David Gulley e il coro di Cleveland, nella rassegna Macerata Jazz Winter.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Macerata Jazz Winter",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Amarche",
+        "tipo": "aggregatore",
+        "url": "https://amarche.it/eventi-marche/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "karima-e-walter-ricci-chiusura-macerata-jazz-winter-teatro-lauro-rossi-2027-01-05",
+    "titolo": "Karima e Walter Ricci – chiusura di Macerata Jazz Winter",
+    "categoria": "concerto",
+    "inizio": "2027-01-05T21:15",
+    "luogo": "Teatro Lauro Rossi",
+    "comune": "043023",
+    "lat": 43.30328,
+    "lon": 13.45191,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di chiusura di Macerata Jazz Winter: la voce di Karima con Walter Ricci al pianoforte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Macerata Jazz Winter",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Amarche",
+        "tipo": "aggregatore",
+        "url": "https://amarche.it/eventi-marche/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
