@@ -310051,5 +310051,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-sport-per-le-donne-attivita-gratuite-maranello-2026-11-23",
+    "titolo": "Open Sport per le donne: attività sportive gratuite",
+    "categoria": "sport",
+    "inizio": "2026-11-23",
+    "fine": "2026-11-29",
+    "luogo": "Impianti sportivi di Maranello",
+    "comune": "036019",
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Per il 25 novembre, Giornata internazionale per l'eliminazione della violenza contro le donne, a Maranello attività sportive gratuite per le donne: bocce alla Bocciofila Cavallino tutti i giorni dalle 14 alle 18; judo lunedì 23 e karate martedì 24 dalle 19 alle 20 nella palestra della scuola Stradi (via Boito 27); mercoledì 25 yoga alla Polisportiva Polivalente dalle 18:15 alle 19:05 (via Dino Ferrari 8) e acquagym in piscina (via Virginia Woolf 20) dalle 10:10 alle 11 e dalle 19:20 alle 20:10; Maranello Sport applica uno sconto del 10% sugli abbonamenti di nuoto libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Maranello",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Maranello",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1oj3cDQ2-/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
