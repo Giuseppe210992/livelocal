@@ -330129,5 +330129,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "the-next-seat-viola-masterclass-teatro-della-caduta-torino-2026-11-24",
+    "titolo": "The Next Seat: Viola Masterclass",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T19:00",
+    "luogo": "Teatro della Caduta",
+    "indirizzo": "Via Buniva 24",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Masterclass aperta al pubblico guidata da Enrico Carraro, Prima Viola dell'Orchestra del Teatro Regio di Torino: si assiste al lavoro dei musicisti e a come si costruiscono tecnica e interpretazione. Non serve essere musicisti. Ingresso gratuito con tessera TdC 2026/27 (5 euro); prenotazione online.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Teatro della Caduta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Teatro della Caduta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgCh0NCB6A3/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "proteggersi-e-prendersi-cura-presidio-contro-la-violenza-sulle-donne-formia-2026-11-25",
+    "titolo": "«Proteggersi è prendersi cura»: presidio contro la violenza sulle donne",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T10:00",
+    "luogo": "Piazza della Vittoria",
+    "comune": "059008",
+    "lat": 41.28458,
+    "lon": 13.6279,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di sensibilizzazione dei volontari V.E.R. Sud Pontino, con il patrocinio del Comune di Formia, per la Giornata internazionale contro la violenza sulle donne: scarpe rosse, informazioni sul segnale «Signal for Help», pannelli per lasciare messaggi e musica di una violinista volontaria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "V.E.R. Sud Pontino",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Formia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCvvAPoTMT/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
