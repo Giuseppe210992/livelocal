@@ -319343,5 +319343,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alla-scoperta-della-collezione-farnese-mannconme-museo-archeologico-napoli-2026-11-22",
+    "titolo": "«MANNconme»: alla scoperta della Collezione Farnese",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-22T16:00",
+    "luogo": "Museo Archeologico Nazionale di Napoli (MANN)",
+    "comune": "063049",
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso guidato dalla funzionaria archeologa Laura Forte tra alcune delle opere più celebri della Collezione Farnese. Domenica 22 novembre due turni, alle 16:00 e alle 17:10. I percorsi #MANNconme sono un'occasione per vivere il museo con l'esperienza di chi ci lavora ogni giorno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Museo Archeologico Nazionale di Napoli",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MANN",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/Df2OgGxsJnc/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "perugia-contro-la-violenza-il-rispetto-inizia-dalle-parole-piazza-iv-novembre-2026-11-23",
+    "titolo": "«Perugia contro la violenza. Il rispetto inizia dalle parole»",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-23T10:30",
+    "luogo": "Piazza IV Novembre",
+    "comune": "054039",
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa del Comune di Perugia per la Giornata internazionale per l'eliminazione della violenza contro le donne: alle 10:30 i saluti istituzionali della sindaca Vittoria Ferdinandi e delle assessore Francesca Tizi e Costanza Spera; alle 11:00 una performance delle scuole di Perugia intorno alla Fontana Maggiore. La cittadinanza è invitata a partecipare.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Perugia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Perugia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DfzStbXoT6s/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
