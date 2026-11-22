@@ -329831,5 +329831,303 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "compleanno-3-anni-le-petit-jardin-con-smokingreen-trio-trento",
+    "titolo": "Compleanno 3 anni Le Petit Jardin con Smokingreen Trio",
+    "categoria": "concerto",
+    "inizio": "2026-11-23T20:00",
+    "fine": null,
+    "luogo": "Le Petit Jardin",
+    "indirizzo": "Piazzetta Bruno Lunelli 12",
+    "cap": null,
+    "comune": "022205",
+    "frazione": null,
+    "lat": 46.069567,
+    "lon": 11.125115,
+    "coordinateApprossimate": false,
+    "descrizione": "Celebrazione del terzo anniversario del locale con brindisi e musica dal vivo. La serata è animata dal trio Smokingreen, che suonerà a partire dalle ore 20:00 per accompagnare gli ospiti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Le Petit Jardin",
+    "fonti": [
+      {
+        "nome": "Le Petit Jardin",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Df2wx6JIB8k",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sushitiamo-oria",
+    "titolo": "SushiTiAmo",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T20:00",
+    "fine": null,
+    "luogo": "Caveau Bar",
+    "indirizzo": "Piazza Albanese 2",
+    "cap": null,
+    "comune": "074011",
+    "frazione": null,
+    "lat": 40.498451,
+    "lon": 17.643367,
+    "coordinateApprossimate": false,
+    "descrizione": "Aperitivo con sushi preparato dal vivo, cocktail e DJ set. L'evento include la performance di un sushiman e una sessione musicale per un'esperienza conviviale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Caveau Bar",
+    "fonti": [
+      {
+        "nome": "Caveau Bar",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df9OK8dRbTO",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natura-sperimentale-2-milano",
+    "titolo": "Natura sperimentale #2",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T19:00",
+    "fine": null,
+    "luogo": "Ultramarino",
+    "indirizzo": "Via Lambro 9",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.474266,
+    "lon": 9.209352,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento di degustazione di vino Syrah 2024 in edizione limitata, presentato da Ultramarino e Aldo Viola, con il pensiero di Alberto Zanetti. Stappiamo insieme giovedì 26 novembre alle 19:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ultramarino",
+    "fonti": [
+      {
+        "nome": "Ultramarino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfz4qU3Rffi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prima-apericena-e-poi-happy-hour-alessandria",
+    "titolo": "Prima Apericena E Poi Happy Hour",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-24",
+    "fine": null,
+    "luogo": "Il Cantone",
+    "indirizzo": "Via Maria di Castello, 7",
+    "cap": null,
+    "comune": "006003",
+    "frazione": null,
+    "lat": 44.917575,
+    "lon": 8.617011,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di apericena seguita da happy hour organizzata dal Pub Il Cantone, aperta al pubblico nella serata del 24 dicembre 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Cantone",
+    "fonti": [
+      {
+        "nome": "Il Cantone",
+        "tipo": "organizzatore",
+        "url": "https://ilcantonepub.wixsite.com/pub85/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vino-vagando-dietro-ogni-calice-napoli",
+    "titolo": "Vino Vagando - Dietro ogni calice",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T19:30",
+    "fine": "2026-11-23T21:30",
+    "luogo": "Indovino",
+    "indirizzo": "Vico Latilla 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.848287,
+    "lon": 14.24834,
+    "coordinateApprossimate": false,
+    "descrizione": "Un viaggio alla scoperta del vino tra profumi, sapori e abbinamenti gastronomici. Durante l'incontro la cantina Casa di Baal presenta i suoi vini biologici del territorio dei Colli di Salerno.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "Indovino",
+    "fonti": [
+      {
+        "nome": "Indovino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzfeTaCIIz",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lammidia-e-troppofrizzante-ospiti-di-indovino-napoli",
+    "titolo": "Lammidia e Troppofrizzante ospiti di Indovino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T19:30",
+    "fine": null,
+    "luogo": "Indovino",
+    "indirizzo": "Vico Latilla 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.848287,
+    "lon": 14.24834,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata ai vini naturali abruzzesi con la degustazione al calice delle etichette e delle ultime annate di Lammidia e Troppofrizzante, con la presenza del produttore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Indovino",
+    "fonti": [
+      {
+        "nome": "Indovino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df7ex2ViFjj",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vino-vagando-fuori-dagli-schemi-napoli",
+    "titolo": "Vino Vagando - Fuori dagli schemi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T19:30",
+    "fine": "2026-11-30T21:30",
+    "luogo": "Indovino",
+    "indirizzo": "Vico Latilla 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.848287,
+    "lon": 14.24834,
+    "coordinateApprossimate": false,
+    "descrizione": "Degustazione ed escursione nel mondo degli orange wine e delle macerazioni oltre le convenzioni del vino tradizionale, con l'intervento della cantina Enoz di Sessa Aurunca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Indovino",
+    "fonti": [
+      {
+        "nome": "Indovino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmzgAICMJa",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vino-vagando-un-vigneto-mille-facce-napoli",
+    "titolo": "Vino Vagando - Un vigneto, mille facce",
+    "categoria": "conferenza",
+    "inizio": "2026-12-07T19:30",
+    "fine": "2026-12-07T21:30",
+    "luogo": "Indovino",
+    "indirizzo": "Vico Latilla 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.848287,
+    "lon": 14.24834,
+    "coordinateApprossimate": false,
+    "descrizione": "Incontro incentrato sul legame tra territorio, varietà di uva e tempo nell'evoluzione del vino, a cura dell'enologo e vignaiolo della cantina Casa Brecceto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Indovino",
+    "fonti": [
+      {
+        "nome": "Indovino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmzgAICMJa",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vino-vagando-naturale-ma-quanto-napoli",
+    "titolo": "Vino Vagando - Naturale, ma quanto?",
+    "categoria": "conferenza",
+    "inizio": "2026-12-14T19:30",
+    "fine": "2026-12-14T21:30",
+    "luogo": "Indovino",
+    "indirizzo": "Vico Latilla 9",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.848287,
+    "lon": 14.24834,
+    "coordinateApprossimate": false,
+    "descrizione": "Un confronto sui vini naturali tra filosofia produttiva, lavoro in cantina e falsi miti, con la partecipazione dei vignaioli della cantina Robb de Matt di Foglianise.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Indovino",
+    "fonti": [
+      {
+        "nome": "Indovino",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfmzgAICMJa",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
   }
 ]
