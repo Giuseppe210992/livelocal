@@ -314185,5 +314185,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ospedale-dei-giocattoli-rotti-teatro-san-giustino-roma-2026-11-22",
+    "titolo": "«L'Ospedale dei Giocattoli Rotti»: larp da camera per famiglie",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T14:00",
+    "luogo": "Teatro San Giustino",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro immersivo e partecipativo di Progetto Goldstein, di Martina Montenegro: il pubblico entra nel racconto del Dottor Milne, che cura bambole scucite, trottole ferme e peluche strappati, e accompagna i protagonisti nelle scelte e nei percorsi di cura. Ultimo giorno della replica: domenica 22 novembre tre turni alle 14, alle 16 e alle 18, ciascuno preceduto da un breve momento laboratoriale. Ingresso gratuito fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Progetto Goldstein",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Culture Roma",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df1zzmBBxC3/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "appuntamento-in-via-lattea-esplorazione-del-sistema-solare-planetario-citta-della-scienza-napoli-2026-11-27",
+    "titolo": "«Appuntamento in Via Lattea»: esplorazione del Sistema Solare",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T20:00",
+    "luogo": "Città della Scienza, Planetario e Museo Corporea",
+    "comune": "063049",
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata alla scoperta dei misteri del cosmo e della caccia all'acqua nel Sistema Solare: aperitivo di benvenuto con dj set al Museo Corporea dalle 20:00, esperienza immersiva nel Planetario rinnovato con la sonorizzazione dal vivo del jazzista Marco Corcione e il commento dell'astrofisico Massimo Dall'Ora, osservazione dei pianeti ai telescopi con l'Unione Astrofili Napoletani (se il tempo lo permette). Biglietti solo in prevendita, posti limitati; aperitivo incluso.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "organizzatore": "Città della Scienza",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città della Scienza",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df1qneOlF2y/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
