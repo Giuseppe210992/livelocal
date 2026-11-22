@@ -318459,5 +318459,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "andy-garcia-premio-stella-della-mole-e-diamond-tff44-cinema-massimo-torino-2026-11-29",
+    "titolo": "Andy Garcia riceve il premio Stella della Mole e presenta «Diamond» al TFF44",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-29T17:00",
+    "luogo": "Cinema Massimo",
+    "comune": "001272",
+    "lat": 45.07184,
+    "lon": 7.67802,
+    "coordinateApprossimate": true,
+    "descrizione": "Al 44° Torino Film Festival l'attore e regista Andy Garcia riceve il premio Stella della Mole e presenta il suo film «Diamond»: un detective privato di Los Angeles che vive fuori dal tempo, come in un noir anni Quaranta, con Vicky Krieps, Brendan Fraser, Dustin Hoffman, Bill Murray e Danny Huston.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df2TdlTINsc/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festival-del-cinema-di-porretta-25-anni-porretta-terme-2026-12-05",
+    "titolo": "Festival del Cinema di Porretta (25ª edizione)",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-12",
+    "luogo": "Porretta Terme",
+    "comune": "037062",
+    "lat": 44.12787,
+    "lon": 10.93612,
+    "coordinateApprossimate": true,
+    "descrizione": "Da 25 anni il festival apre la «casa» del cinema di Porretta: proiezioni speciali, incontri faccia a faccia con registi e interpreti e occasioni per guardare il cinema con occhi nuovi, fuori dai soliti circuiti. In collaborazione con Cineteca di Bologna, Centro Sperimentale di Cinematografia ed Emilia-Romagna Film Commission.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Festival del Cinema di Porretta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Festival del Cinema di Porretta",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfzQPuumWhf/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
