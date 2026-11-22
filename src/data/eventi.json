@@ -314322,5 +314322,1200 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "rejoice-comedy-christmas-show-busto-arsizio",
+    "titolo": "Rejoice Comedy & Christmas Show",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": "2026-12-18T22:30",
+    "luogo": "Teatro Sociale",
+    "indirizzo": "Via Dante Alighieri, 20",
+    "cap": null,
+    "comune": "012026",
+    "frazione": null,
+    "lat": 45.6062,
+    "lon": 8.84181,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo natalizio che fonde musica gospel, teatro e ironia, con il Rejoice Gospel Choir diretto da Gianluca Sambataro. Include gag e interazione col pubblico.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Busto Arsizio, Accabadora",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrosociale.it/spettacoli/rejoice-gospel-choir-26",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontri-d-autunno-george-lucas-il-mito-dell-immagine-agliana",
+    "titolo": "Incontri d’autunno – George Lucas. Il mito dell’immagine",
+    "categoria": "conferenza",
+    "inizio": "2026-11-22T16:00",
+    "fine": null,
+    "luogo": "Teatro Il Moderno",
+    "indirizzo": "Piazza Anna Magnani, 1, Agliana, 51031",
+    "cap": null,
+    "comune": "047002",
+    "frazione": null,
+    "lat": 43.89586,
+    "lon": 11.00087,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna Incontri d'autunno con Ciro Mesti e Carlo Coda dedicato al libro su George Lucas. L'analisi esplora la figura del regista e il suo impatto sull'immaginario cinematografico e la cultura popolare contemporanea.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Il Moderno",
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/incontri-dautunno-2026-george-lucas-il-mito-dellimmagine",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tre-sull-altalena-teatro-per-tutti-2027-badia-polesine",
+    "titolo": "Tre sull’altalena - Teatro per Tutti 2027",
+    "categoria": "teatro",
+    "inizio": "2027-01-09",
+    "fine": null,
+    "luogo": "Teatro Sociale Eugenio Balzan",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo appuntamento della rassegna di teatro amatoriale 'Teatro per Tutti'. Comicità e teatro dialettale nel teatro del comune, quarta edizione della stagione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale Eugenio Balzan",
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lettera-anonima-mejo-no-verzerla-teatro-per-tutti-2027-badia-polesine",
+    "titolo": "Lettera anonima? Mejo no’ verzerla - Teatro per Tutti 2027",
+    "categoria": "teatro",
+    "inizio": "2027-01-23",
+    "fine": null,
+    "luogo": "Teatro Sociale Eugenio Balzan",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo appuntamento della rassegna di teatro amatoriale. Spettacolo dialettale e comico che fa parte del cartellone 'Teatro per Tutti' presso il teatro del comune.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale Eugenio Balzan",
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sotto-a-chi-tocca-teatro-per-tutti-2027-badia-polesine",
+    "titolo": "Sotto a chi tocca - Teatro per Tutti 2027",
+    "categoria": "teatro",
+    "inizio": "2027-02-06",
+    "fine": null,
+    "luogo": "Teatro Sociale Eugenio Balzan",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo appuntamento della rassegna di teatro amatoriale. Un altro momento di comicità e intrattenimento in dialetto all'interno della stagione 'Teatro per Tutti'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale Eugenio Balzan",
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gioco-pericoloso-teatro-per-tutti-2027-badia-polesine",
+    "titolo": "Gioco pericoloso - Teatro per Tutti 2027",
+    "categoria": "teatro",
+    "inizio": "2027-02-20",
+    "fine": null,
+    "luogo": "Teatro Sociale Eugenio Balzan",
+    "indirizzo": "Badia Polesine",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto appuntamento della rassegna di teatro amatoriale. Spettacolo in dialetto dedicato al divertimento e alla comicità, parte del percorso 'Teatro per Tutti'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale Eugenio Balzan",
+    "fonti": [
+      {
+        "nome": "Comune di Badia Polesine",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.badiapolesine.ro.it/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "poesie-dalla-prigione-chieri",
+    "titolo": "Poesie dalla prigione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:45",
+    "fine": "2026-11-24T23:00",
+    "luogo": "Biblioteca Civica Nicolò e Paola Francone",
+    "indirizzo": "Via Vittorio Emanuele II, 1",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Mahvash Sabet, poetessa iraniana e attivista per i diritti umani. Il volume raccoglie poesie scritte durante la detenzione nel carcere di Evin. L'incontro è in collaborazione con FIDAPA sezione Pino-Chieri, con l'intervento di Flora Ahadizadeh e Masoudeh Miri Karbasaki.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "FIDAPA sezione Pino-Chieri",
+    "fonti": [
+      {
+        "nome": "Comune di Chieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chieri.to.it/it/eventi/poesie-dalla-prigione",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sangue-femmina-chieri",
+    "titolo": "Sangue femmina",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T19:00",
+    "luogo": "Biblioteca Civica Nicolò e Paola Francone",
+    "indirizzo": "Via Vittorio Emanuele II, 1",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Cristina Nori, una raccolta di racconti su donne protagoniste di percorsi di consapevolezza e riscatto economico e sociale. L'autrice dialoga con Carolina Paparozzi, Consigliera del Comune di Chieri con delega alle Pari Opportunità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Chieri",
+    "fonti": [
+      {
+        "nome": "Comune di Chieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chieri.to.it/it/eventi/sangue-femmina",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-altra-riva-nel-tempo-chieri",
+    "titolo": "L'altra riva nel tempo",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T21:00",
+    "fine": "2026-11-26T23:00",
+    "luogo": "Biblioteca Civica Nicolò e Paola Francone",
+    "indirizzo": "Via Vittorio Emanuele II, 1",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di narrazione che intreccia storie familiari, memoria e migrazione attraverso tre generazioni di donne. La figura centrale è Agostino, emigrato dall'Isola d'Elba in Argentina. La narrazione è di Serena Abbà con tappeto sonoro di Gian Giacomo Parigini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Chieri",
+    "fonti": [
+      {
+        "nome": "Comune di Chieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chieri.to.it/it/eventi/l-altra-riva-nel-tempo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "genova-heritage-week-genova",
+    "titolo": "Genova Heritage Week",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23",
+    "fine": "2026-11-27",
+    "luogo": "Palazzi dei Rolli",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di eventi per il ventennale UNESCO del sito 'Genova, le Strade Nuove e il sistema dei Palazzi dei Rolli'. Comprende convegni scientifici, incontri internazionali e visite guidate in sedi storiche. Appuntamenti gratuiti su prenotazione con ospite Tomaso Montanari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Genova, Fondazione Santagata, Università di Genova",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/genova-heritage-week",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "h-o-g-inverno-2026-appuntamento-a-genova-genova",
+    "titolo": "H.O.G. Inverno 2026: appuntamento a Genova",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-28",
+    "luogo": "Padiglione Blu del Waterfront di Levante",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Raduno Harley-Davidson per celebrare i 10 anni dal National Winter Rally. Due giorni di eventi, esposizione di moto, stand tematici, aree ristoro e musica dal vivo. Appuntamenti dedicati alla community motociclistica e alla fratellanza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Genova Chapter",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/h-o-g-inverno-2026-appuntamento-a-genova",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "di-molo-in-molo-la-storia-del-porto-antico-di-genova-genova",
+    "titolo": "Di Molo in Molo: la storia del Porto Antico di Genova",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29",
+    "fine": "2026-11-29",
+    "luogo": "Porto Antico",
+    "indirizzo": "Genova",
+    "cap": null,
+    "comune": "010025",
+    "frazione": null,
+    "lat": 44.44135,
+    "lon": 8.89304,
+    "coordinateApprossimate": true,
+    "descrizione": "Itinerario di archeologia industriale che racconta la storia dello scalo genovese. Visite guidate a cura di Guido Rosato per scoprire la gru Tannet Walker, le tracce della ferrovia portuale e il legame della città con il mare. Promossa dall'Associazione inGE APS.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione inGE APS",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/di-molo-in-molo-genova",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-domeniche-dell-apollo-bellaria-igea-marina",
+    "titolo": "Le domeniche dell'Apollo",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T12:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Cinema Teatro Astra",
+    "indirizzo": "Via Guidi Paolo, 77",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma dedicato al tema del diavolo presso Apollo in via Muggia. Include brunch, talk con Daniela Persico, proiezione del film 'Il Diavolo veste Prada' e dj set con Enrico Rosica e Matteo Pignataro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/le-domeniche-dell-apollo",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-bim-christmas-2026-e-accensione-luminarie-bellaria-igea-marina",
+    "titolo": "Inaugurazione Bim Christmas 2026 e accensione Luminarie",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Isola dei Platani",
+    "indirizzo": "Viale Paolo Guidi",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura del villaggio di Natale e accensione delle luminarie. Programma include corale, concerto di Darma & i Riviera Boulevard e momenti di ritrovo nel cuore della città per le festività.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/apertura-villaggio-di-natale-e-accensione-luminarie",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bim-ice-bellaria-igea-marina",
+    "titolo": "Bim Ice",
+    "categoria": "sport",
+    "inizio": "2026-11-29",
+    "fine": "2027-01-10",
+    "luogo": "Piazza Don Minzoni",
+    "indirizzo": "Piazza Don Minzoni",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Pista di pattinaggio sul ghiaccio installata nel cuore dell'area pedonale di Bellaria. Aperta a bambini, giovani e adulti per trascorrere pomeriggi natalizi con orari variabili nei giorni feriali e festivi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/bim-ice",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cosa-mangio-perche-lo-mangio-bellaria-igea-marina",
+    "titolo": "Cosa mangio, perché lo mangio?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T16:30",
+    "fine": "2026-11-30T18:00",
+    "luogo": "Nido del Gelso",
+    "indirizzo": "Via Luzzati, 15",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo sulla sana alimentazione rivolto ai genitori di bambini fino ai 3 anni. L'evento è a cura del centro per le Famiglie e gode del patrocinio dell'Azienda USL della Romagna.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro per le Famiglie",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/cosa-mangio-perche-lo-mangio",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "29-mostra-mercato-del-tartufo-del-mugello-borgo-san-lorenzo",
+    "titolo": "29ª Mostra Mercato del Tartufo del Mugello",
+    "categoria": "mostra",
+    "inizio": "2026-11-21",
+    "fine": "2026-11-22",
+    "luogo": "Centro storico",
+    "indirizzo": "Piazza Dante, 2 - 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione dedicata al tartufo fresco e confezionato, con stand di aziende agricole locali e prodotti enogastronomici Km0. Prevede dimostrazioni di ricerca con cani addestrati e artisti di strada nel centro storico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/29a-mostra-mercato-del-tartufo-del-mugello",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-ai-margini-borgo-san-lorenzo",
+    "titolo": "Storie ai margini",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Sede di Ellera APS",
+    "indirizzo": "via San Donato n.6 a Polcanto",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Cineforum dedicato alla violenza nelle relazioni affettive e all'importanza del rispetto e della consapevolezza. L'ingresso è riservato agli associati o prevede l'iscrizione in loco con quota associativa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ellera APS",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/storie-ai-margini",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-un-viaggio-rivoluzionario-borgo-san-lorenzo",
+    "titolo": "Presentazione del libro Un viaggio rivoluzionario",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T17:00",
+    "fine": "2026-12-04T19:00",
+    "luogo": "Sala Benvenuti",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 10, 50032 Borgo San Lorenzo FI, Italia",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Un viaggio rivoluzionario' di Loris Pryce, che racconta un viaggio in Iran su una motocicletta da fuoristrada. Il volume sarà introdotto dalla traduttrice del libro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/presentazione-del-libro-un-viaggio-rivoluzionario",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prova-aperta-gratuita-le-conte-d-hoffmann-borgo-san-lorenzo",
+    "titolo": "Prova aperta gratuita – Le Conte D'Hoffmann",
+    "categoria": "concerto",
+    "inizio": "2026-12-17T19:00",
+    "fine": "2026-12-17T23:00",
+    "luogo": "Teatro del Maggio Musicale Fiorentino",
+    "indirizzo": "Sala Grande, Firenze",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Partecipazione alla prova generale dell'opera in 5 atti di Jacques Offenbach, con regia di Laurent Pelly e direzione di Kent Nagano. Previsto trasporto gratuito in bus da Borgo San Lorenzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale di Borgo San Lorenzo",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi/prova-aperta-gratuita-le-conte-d-hoffmann",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiera-cristo-re-2026-brescia",
+    "titolo": "Fiera \"Cristo Re 2026\"",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22T08:00",
+    "fine": "2026-11-22T20:00",
+    "luogo": "Borgo Trento",
+    "indirizzo": "Borgo Trento, 25128 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Tradizionale fiera in via Trento con circa 40 bancarelle per la vendita di abbigliamento, accessori, prodotti alimentari, dolciumi, giocattoli, bigiotteria, calze, casalinghi e tessuti. Aperta a tutta la cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/fiera-cristo-re-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bccbrescia-park-run-2026-brescia",
+    "titolo": "BCCBrescia Park Run 2026",
+    "categoria": "sport",
+    "inizio": "2026-11-22T09:00",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Campo di atletica Gabre Gabric (Sanpolino)",
+    "indirizzo": "Via Don Luigi Barberis, 25135 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Quinta edizione della corsa competitiva sui parchi della zona est di Brescia. Percorsi di mezza maratona (21 km) e 10 km, inserita nel calendario FIDAL. Include una gara non competitiva Fun&Run di 10 km.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Brescia 25cento Athletics",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/bccbrescia-park-run-2026",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buon-natale-brescia-2026-brescia-22-11",
+    "titolo": "Buon Natale Brescia 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T23:55",
+    "luogo": "Largo Formentone",
+    "indirizzo": "Largo Formentone, Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata natalizia con mercato dei sapori a Largo Formentone, visite guidate al Museo di Santa Giulia e all'Archeologico, e installazione luminosa 'Costellazione' su corso Mameli. Iniziativa promossa dal Comune di Brescia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/buon-natale-brescia-2026-2520841",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-dei-sapori-2026-brescia",
+    "titolo": "Festival dei sapori 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-22T10:00",
+    "fine": "2026-11-22T18:00",
+    "luogo": "Largo Formentone",
+    "indirizzo": "Largo Formentone, Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "'Mercato in festa', appuntamento della nona edizione del Festival dei Sapori. Incontro con i produttori della rete East Lombardy per la vendita diretta di miele, formaggi, tartufi e birre artigianali, con animazione musicale di Radio Bruno.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Brescia",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/festival-dei-sapori-2026-2520740",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-teatro-grande-2026-brescia",
+    "titolo": "Stagione Teatro Grande 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-22T11:00",
+    "fine": "2026-11-22T13:00",
+    "luogo": "Teatro Grande e il Ridotto",
+    "indirizzo": "Corso Giuseppe Zanardelli, 9/A, 25121 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Quarto e ultimo concerto della stagione 2026. L'Ensemble del Teatro Grande esegue il 'Quartetto op. 60 con pianoforte' di Johannes Brahms e 'Quartetto in l'istesso tempo' di Giya Kancheli.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Grande",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/stagione-teatro-grande-2026-2519702-2520464-2520744",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mo-ca-2026-il-ritmo-prende-forma-brescia",
+    "titolo": "Mo.Ca 2026. Il ritmo prende forma",
+    "categoria": "bambini",
+    "inizio": "2026-11-22T14:30",
+    "fine": "2026-11-22T16:30",
+    "luogo": "MO.CA- Centro per le nuove culture",
+    "indirizzo": "Via Moretto, 78, 25121 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo incontro del laboratorio di propedeutica musicale per bambini 5-8 anni e famiglie. Attività di realizzazione di uno strumento semplice con materiali forniti, seguita da performance partecipativa. Guida Federica Cassetti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MO.CA - Centro per le nuove culture",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/mo-ca-2026-il-ritmo-prende-forma",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "us-da-le-as-2026-2-atto-brescia-22-11",
+    "titolo": "Us da le as 2026. 2° atto",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T15:45",
+    "fine": "2026-11-22T17:45",
+    "luogo": "Cinema Teatro Sereno",
+    "indirizzo": "Parrocchia San Filippo Neri, Traversa Dodicesima Villaggio Sereno, 158, 25125 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di teatro dialettale 'Us da le as'. Incontro con la poesia di Leonardo Urbinati e rappresentazione della commedia 'La tisana di zia Agata' della compagnia Padre Cesare Albisetti, tratta da Camillo Vittici.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro Sereno",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/us-da-le-as-2026-2-atto-2520742",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "teatro-telaio-brescia",
+    "titolo": "Teatro Telaio",
+    "categoria": "teatro",
+    "inizio": "2026-11-22T16:00",
+    "fine": "2026-11-22T19:00",
+    "luogo": "Cinema Teatro Colonna",
+    "indirizzo": "Via Chiusure, 79/A, 25127 Brescia BS, Italia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo 'Sasso liscio, foglia rossa, guscio di noce. La storia di Nadine' della compagnia Il Teatro nel Baule. Racconto poetico per pubblico sopra i 5 anni, inserito nella rassegna 'Storie storie storie' del Teatro Telaio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 3
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Telaio",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/teatro-telaio-stagione-26-27-2520614-2520743",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-segreto-per-vivere-bene-alimentazione-e-sport-cortona",
+    "titolo": "Il segreto per vivere bene: alimentazione e sport",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T17:30",
+    "fine": "2026-11-23T19:00",
+    "luogo": "Aula Magna Scuola Primaria A. Capitini Montecchio",
+    "indirizzo": "Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sull'alimentazione e lo sport con esperti dell'Azienda USL Toscana sud est. Organizzato dall'istituto I.C. Gino Bartali - Cortona 2, è rivolto a famiglie e docenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "IC Cortona 2",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/eventi-sociali/il-segreto-per-vivere-bene-alimentazione-e-sport",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookcity-milano-2026-arriva-in-biblioteca-sabato-28-novembre-2026-ore-cusano-milanino",
+    "titolo": "BookCity Milano 2026 arriva in Biblioteca – sabato 28 novembre 2026, ore 16.00",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T16:00",
+    "fine": null,
+    "luogo": "Biblioteca F. Maraspin",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro “Non rinnegare il cuore” con l’autrice Guendalina Middei, nell’ambito della rassegna BookCity Milano, organizzata dall’Assessorato alla Cultura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookcity-milano-2026-arriva-anche-in-biblioteca-sabato-28-novembre-202-cusano-milanino",
+    "titolo": "BookCity Milano 2026 arriva anche in Biblioteca – Sabato 28 novembre 2026, ore 16.00",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T16:00",
+    "fine": null,
+    "luogo": "Biblioteca F. Maraspin",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento “Oltre il peso delle nuvole” con la scrittrice Guendalina Middei, nota come Professor X, che presenta il libro “Non rinnegare il cuore” nell'ambito di BookCity.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/bookcity-milano-2026-arriva-in-biblioteca-sabato-28-novembre-2026-ore-16-00",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "monte-grappa-incontro-pubblico-sul-progetto-di-rigenerazione-urbana-cusano-milanino",
+    "titolo": "Monte Grappa: incontro pubblico sul progetto di rigenerazione urbana",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T14:30",
+    "fine": null,
+    "luogo": "Sala consiliare Walter Tobagi",
+    "indirizzo": "Municipio, Piazza Martiri di Tienanmen 1",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico per presentare il progetto di rigenerazione urbana di via Monte Grappa e Parco Gianni Rodari, finanziato dal PMRR, con partecipazione attiva dei cittadini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cusano Milanino",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/monte-grappa-incontro-pubblico-sul-progetto-di-rigenerazione-urbana",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "caos-calmo-grezzana-11-12",
+    "titolo": "Caos calmo",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11T20:00",
+    "fine": "2026-12-11T22:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Antonio Segni, 2, 37023 Grezzana VR",
+    "cap": null,
+    "comune": "023038",
+    "frazione": null,
+    "lat": 45.54708,
+    "lon": 11.01756,
+    "coordinateApprossimate": true,
+    "descrizione": "Terzo appuntamento del ciclo di formazione gratuita. Il tema e' 'Rumori e silenzi della crescita', focalizzato sul benessere e il malessere in adolescenza, con la partecipazione della dott.ssa Alessandra Annecchini, psicologa.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Grezzana",
+    "fonti": [
+      {
+        "nome": "Comune di Grezzana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.grezzana.vr.it/it/eventi/caos-calmo-734536-734537",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "zefiro-in-jazz-alamar-locri-28-11",
+    "titolo": "Zefiro in Jazz - Alamar",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T18:30",
+    "fine": null,
+    "luogo": "Palazzo della Cultura",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di jazz con la formazione Alamar. L'evento fa parte della manifestazione Zefiro in Jazz e l'orario di inizio è indicato alle 18:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "e-il-momento-di-donare-raccolta-sangue-locri-07-12",
+    "titolo": "E' il momento di donare! - Raccolta Sangue",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-07T07:30",
+    "fine": "2026-12-07T10:30",
+    "luogo": "Viale Matteotti",
+    "indirizzo": "Viale Matteotti, 110/108",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Raccolta sangue aperta al pubblico nella sede indicata. L'evento si svolge nella mattinata come specificato nell'orario di apertura.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "opere-di-caselli-al-fourteenarttellaro-lerici-10-10",
+    "titolo": "Opere di Caselli al FourteenArtTellaro",
+    "categoria": "mostra",
+    "inizio": "2026-10-10",
+    "fine": "2026-11-29",
+    "luogo": "Piazza Figoli",
+    "indirizzo": "Tellaro",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di due quadri del maestro Giuseppe Umberto Caselli raffiguranti Tellaro, ospitata da Fourteenartellaro in concomitanza con la Mostra Caselli 50 al Castello di Lerici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fourteenartellaro",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-22",
+    "inseritoDa": "consegna"
   }
 ]
