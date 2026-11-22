@@ -319783,5 +319783,60 @@
     ],
     "inserito": "2026-11-22",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "accendi-i-motori-giornata-di-guida-sicura-osio-sotto-2026-11-22",
+    "titolo": "Accendi i motori: giornata di guida sicura",
+    "categoria": "sport",
+    "inizio": "2026-11-22",
+    "fine": "2026-11-22",
+    "luogo": "Parcheggio della Piscina",
+    "comune": "016153",
+    "lat": 45.61491,
+    "lon": 9.58518,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata sulla sicurezza stradale allo stand ESG Motorhome: auto da corsa da vicino, seduta al posto di guida, incontro con piloti professionisti e materiale informativo. Gratuito, con registrazione allo stand.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Osio Sotto",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Osio Sotto",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df_uFyGNdRS/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "lapin-presenta-il-suo-sketchbook-sul-museo-milano-2026-11-28",
+    "titolo": "Lapin presenta il suo sketchbook sul Museo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T14:00",
+    "luogo": "Sala Biancamano, Museo Nazionale Scienza e Tecnologia",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "L'illustratore Lapin presenta il suo sketchbook di 96 pagine sul Museo insieme al direttore generale Fiorenzo Marco Galli, in occasione di BookCity Milano. Segue firmacopie. Ingresso libero da via Olona 6/b fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Museo Nazionale Scienza e Tecnologia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Museo Nazionale Scienza e Tecnologia",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df_wJ4eiIhl/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
