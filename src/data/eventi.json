@@ -327000,5 +327000,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-22",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "forse-perche-son-vivo-canzoni-di-guccini-bloom-mezzago-2026-12-26",
+    "titolo": "«Forse perché son vivo»: parole e canzoni di Francesco Guccini",
+    "categoria": "concerto",
+    "inizio": "2026-12-26T21:30",
+    "luogo": "BLOOM",
+    "indirizzo": "Via Curiel 39",
+    "comune": "108031",
+    "lat": 45.62906,
+    "lon": 9.44476,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto-racconto in omaggio a Francesco Guccini con Charlie Cinelli, Lorenzo Monguzzi e Alessandro Sipolo, tra musica, ricordi e racconti personali. Solo posti in piedi; bar e cucina dalle 19, biglietteria dalle 20. Prevendita 17,08 euro, in cassa 15 euro.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "organizzatore": "BLOOM Mezzago",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram BLOOM Mezzago",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgAdkQOMPyW/",
+        "consultata": "2026-11-22"
+      }
+    ],
+    "inserito": "2026-11-22",
+    "inseritoDa": "ia"
   }
 ]
