@@ -335033,5 +335033,34 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "questa-volta-non-mi-volto-mostra-fotografica-biblioteca-civica-valenza-2026-11-25",
+    "titolo": "«Questa volta non mi volto»: mostra fotografica e spettacolo",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T21:00",
+    "fine": "2026-12-12T12:00",
+    "luogo": "Biblioteca Civica di Palazzo Valentino",
+    "indirizzo": "Piazza XXXI Martiri 1",
+    "comune": "006177",
+    "lat": 45.01881,
+    "lon": 8.62953,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della mostra fotografica di Laura Marinelli con spettacolo teatrale e musicale (voce narrante di Giulia Maino, musica di Dado Bargioni): i volti di venti uomini ritratti mentre ascoltano un testo tratto da «Ferite a morte» di Serena Dandini. Serata inaugurale a ingresso libero; la mostra resta visitabile fino al 12 dicembre negli orari della Biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Valenza",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Valenza",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCpjyJjlW5/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
