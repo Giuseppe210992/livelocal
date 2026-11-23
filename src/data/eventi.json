@@ -336752,5 +336752,38 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "serata-italo-disco-con-irene-modonesi-e-corrado-calessi-ferrara",
+    "titolo": "Serata Italo Disco con Irene Modonesi e Corrado Calessi",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T21:00",
+    "fine": null,
+    "luogo": "Snack Bar \"La Cantinetta\"",
+    "indirizzo": "Corso Porta Po 61",
+    "cap": null,
+    "comune": "038008",
+    "frazione": null,
+    "lat": 44.843152,
+    "lon": 11.615396,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata alla musica Italo Disco con esibizione dal vivo di Irene Modonesi alla voce e Corrado Calessi alla tastiera. L'evento si tiene presso La Cantinetta, con possibilità di cena e bevute, offrendo un'atmosfera conviviale e nostalgica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Snack Bar \"La Cantinetta\"",
+    "fonti": [
+      {
+        "nome": "Snack Bar \"La Cantinetta\"",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df-SffuNIlY",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
   }
 ]
