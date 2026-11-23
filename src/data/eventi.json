@@ -341197,5 +341197,32 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-melodie-di-ezio-bosso-e-ludovico-einaudi-civitafestival-winter-civita-castellana-2026-12-20",
+    "titolo": "Le melodie di Ezio Bosso e Ludovico Einaudi – Civitafestival Winter",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T17:30",
+    "luogo": "Sala Caprari, Complesso MICE",
+    "comune": "056021",
+    "lat": 42.30112,
+    "lon": 12.43737,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per violino (Andrea Petricca) e pianoforte (Francesco Dallosso) per chiudere l'anno con brani di Ezio Bosso («Bitter and Sweet Rain», «In Your Black Eyes», «Following a Bird») e Ludovico Einaudi («Divenire», «Una mattina», «Nuvole bianche», «Underwood»). Biglietti su 2tickets.it.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Civitafestival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Civitafestival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgANtGJwhyt/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
