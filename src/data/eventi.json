@@ -337351,5 +337351,1230 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "sapori-mestieri-tre-giorni-a-la-spezia-la-spezia",
+    "titolo": "Sapori & Mestieri, tre giorni a La Spezia",
+    "categoria": "mercatino",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-29",
+    "luogo": "Corso Cavour",
+    "indirizzo": "La Spezia",
+    "cap": null,
+    "comune": "011015",
+    "frazione": null,
+    "lat": 44.10989,
+    "lon": 9.82119,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato dedicata all'artigianato e alla gastronomia locale con una quarantina di espositori, show cooking, degustazioni e laboratori per tutte le età.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/sapori-mestieri-la-spezia",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bancarella-di-natale-cazzago-san-martino",
+    "titolo": "Bancarella di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-18",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato con tante idee regalo e addobbi natalizi realizzati a mano dal Gruppo maglia e uncinetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo maglia e uncinetto",
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-del-film-una-storia-vera-cazzago-san-martino",
+    "titolo": "Proiezione del film UNA STORIA VERA",
+    "categoria": "mostra",
+    "inizio": "2026-11-25",
+    "fine": null,
+    "luogo": "Cazzago San Martino",
+    "indirizzo": "Cazzago San Martino",
+    "cap": null,
+    "comune": "017046",
+    "frazione": null,
+    "lat": 45.57538,
+    "lon": 10.03578,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica in occasione della Giornata contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cazzago San Martino",
+        "tipo": "ufficiale",
+        "url": "https://comune.cazzago.bs.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "neve-valanghe-e-ghiacciai-ricerca-e-monitoraggio-della-montagna-bard",
+    "titolo": "Neve, valanghe e ghiacciai: ricerca e monitoraggio della montagna",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11T09:00",
+    "fine": "2026-12-11T18:00",
+    "luogo": "Forte di Bard",
+    "indirizzo": "Forte di Bard, 11020 Bard",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Approfondimento dedicato allo studio e al monitoraggio dell'ambiente montano in occasione della Giornata Internazionale della Montagna. Il programma include il convegno Rendiconto nivometeorologico 2025-2026 e i risultati delle ricerche sulla criosfera in Valle d'Aosta, con focus su neve, valanghe e ghiacciai.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Forte di Bard, Fondazione Montagna sicura, Regione autonoma Valle d'Aosta",
+    "fonti": [
+      {
+        "nome": "Forte di Bard",
+        "tipo": "ufficiale",
+        "url": "https://www.fortedibard.it/evento/convegni-neve-valanghe-e-ghiacciai-ricerca-e-monitoraggio-della-montagna",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-stresa-stresa",
+    "titolo": "🎅 Natale a Stresa 🎅",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-04T17:00",
+    "fine": null,
+    "luogo": "Stresa",
+    "indirizzo": "Stresa",
+    "cap": null,
+    "comune": "103064",
+    "frazione": null,
+    "lat": 45.887,
+    "lon": 8.52556,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma di manifestazioni per grandi e piccoli per vivere le festività nella città di Stresa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Stresa Turismo (Pro Loco / Comune di Stresa)",
+        "tipo": "ufficiale",
+        "url": "https://www.stresaturismo.it/it/eventi/natale-a-stresa",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stresa-si-illumina-per-natale-accensione-luminarie-in-citta-stresa",
+    "titolo": "Stresa si illumina per Natale accensione luminarie in città",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-04T17:30",
+    "fine": null,
+    "luogo": "Piazza Possi",
+    "indirizzo": "Stresa",
+    "cap": null,
+    "comune": "103064",
+    "frazione": null,
+    "lat": 45.887,
+    "lon": 8.52556,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di accensione delle luminarie natalizie in città, accompagnata dal Coro Motta Rossa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro Motta Rossa",
+    "fonti": [
+      {
+        "nome": "Stresa Turismo (Pro Loco / Comune di Stresa)",
+        "tipo": "ufficiale",
+        "url": "https://www.stresaturismo.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-boheme-verona-25-11",
+    "titolo": "La Bohème",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T19:00",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera in quattro quadri di Giacomo Puccini su libretto di Giuseppe Giacosa e Luigi Illica, rappresentata per il 130° anniversario della prima assoluta al Teatro Filarmonico di Verona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-a-teatro-le-sale-della-musica-verona-28-11",
+    "titolo": "Visita guidata a teatro | Le Sale della Musica",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alle Sale della Musica del Teatro Filarmonico di Verona, inclusa nel programma di eventi della stagione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-boheme-verona-29-11",
+    "titolo": "La Bohème",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T15:30",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Filarmonico, Verona, 29/11. Opera in quattro quadri di Giacomo Puccini su libretto di Giuseppe Giacosa e Luigi Illica, rappresentata per il 130° anniversario della prima assoluta al Teatro Filarmonico di Verona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-lago-dei-cigni-verona-31-12",
+    "titolo": "Il Lago dei Cigni",
+    "categoria": "teatro",
+    "inizio": "2026-12-31T19:30",
+    "fine": null,
+    "luogo": "Teatro Filarmonico",
+    "indirizzo": "Verona",
+    "cap": null,
+    "comune": "023091",
+    "frazione": null,
+    "lat": 45.44863,
+    "lon": 11.00207,
+    "coordinateApprossimate": true,
+    "descrizione": "Balletto in quattro atti di Pëtr Il'ič Čajkovskij, rappresentato per il 150° anniversario della composizione al Teatro Filarmonico di Verona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Arena di Verona",
+    "fonti": [
+      {
+        "nome": "Fondazione Arena di Verona",
+        "tipo": "organizzatore",
+        "url": "https://www.arena.it/teatro-filarmonico-verona/spettacoli",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-in-biblioteca-borgo-san-lorenzo-14-11",
+    "titolo": "Storie in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-14",
+    "fine": "2026-12-12",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna per bambini e bambine in Biblioteca Comunale. Il secondo appuntamento è fissato per sabato 21 novembre alle ore 16:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mi-racconti-una-storia-borgo-san-lorenzo-04-11",
+    "titolo": "Mi racconti una storia?",
+    "categoria": "bambini",
+    "inizio": "2026-11-04",
+    "fine": "2026-12-16",
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di lettura di albi illustrati destinata a bambine e bambini, ospitata all'interno della Biblioteca Comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pedalata-red-ride-borgo-san-lorenzo-29-11",
+    "titolo": "Pedalata Red Ride",
+    "categoria": "sport",
+    "inizio": "2026-11-29",
+    "fine": "2026-11-29",
+    "luogo": "Colline del Mugello",
+    "indirizzo": "Borgo San Lorenzo",
+    "cap": null,
+    "comune": "048004",
+    "frazione": null,
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "coordinateApprossimate": true,
+    "descrizione": "Pedalata collettiva di sensibilizzazione sulle colline del Mugello, inserita nel calendario dell'evento L'eredità delle donne off.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Borgo San Lorenzo, eventi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.borgo-san-lorenzo.fi.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "settimane-barocche-2026-brescia",
+    "titolo": "Settimane Barocche 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-23T20:30",
+    "fine": "2026-11-23T22:30",
+    "luogo": "Carme - Centro arti multiculturali etnosociali",
+    "indirizzo": "Via delle Battaglie, 61/1",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della XXIV edizione del festival musicale. Protagonista la violinista Kimura Wakana con I virtuosi italiani diretti da Alberto Martini. In programma la rilettura di Vivaldi di Max Richter.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/settimane-barocche-2026-2520792",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "meccaniche-della-meraviglia-2026-brescia-23-11",
+    "titolo": "Meccaniche della Meraviglia 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-23",
+    "fine": "2026-11-25",
+    "luogo": "Fondazione Clerici - spazio contemporanea",
+    "indirizzo": "Corso Zanardelli, 26",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra diffusa dedicata a Piero Cavellini, intitolata Progetto Utopia. Presenta l'archivio dell'artista e le sue pubblicazioni editoriali presso diverse sedi cittadine, tra cui la Fondazione Clerici.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/meccaniche-della-meraviglia-2026-2520789",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ctb-emma-b-vedova-giocasta-brescia",
+    "titolo": "CTB. Emma B. vedova Giocasta",
+    "categoria": "teatro",
+    "inizio": "2026-11-23T20:30",
+    "fine": "2026-11-24T22:30",
+    "luogo": "Teatro Mina Mezzadri",
+    "indirizzo": "Contrada Santa Chiara, 50",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dal testo di Alberto Savinio, inserito nella stagione 2026/2027 del Centro Teatrale Bresciano. Protagonista Emma, che racconta una storia di strappo e ricomposizione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 14
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Teatrale Bresciano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/ctb-la-signora-del-gioco-2520530-2520680-2520821",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "siamo-testimoni-brescia-23-11",
+    "titolo": "Siamo testimoni",
+    "categoria": "mostra",
+    "inizio": "2026-11-23T09:00",
+    "fine": "2026-11-27T16:00",
+    "luogo": "Palazzo Martinengo delle Palle",
+    "indirizzo": "Via S. Martino della Battaglia, 18",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra organizzata per il 50° anniversario della strage di Piazza della Loggia. Raccoglie testimonianze, documenti e archivi della Fondazione Brescia Musei e del Centro Teatrale Bresciano.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Brescia Musei, Centro Teatrale Bresciano",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/siamo-testimoni-2518291-2520793",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cne-2026-be-kind-rewind-brescia-24-11",
+    "titolo": "CNE 2026. Be kind rewind",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T18:00",
+    "fine": "2026-11-24T20:00",
+    "luogo": "Biblioteca Queriniana",
+    "indirizzo": "Via Mazzini, 1",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato al cinema asiatico, ultimo ciclo di cinque sessioni. Analisi di autori fondamentali e nuove voci, con focus su Cina, Taiwan e Hong Kong oltre a Corea e Giappone.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cne-2026-focus-wim-wenders-2519178-2519354-2520008-2520781",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-storia-di-altri-alfabeti-brescia-24-11",
+    "titolo": "Una storia di Altri Alfabeti",
+    "categoria": "mostra",
+    "inizio": "2026-11-24",
+    "fine": "2026-11-29",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "Via dei Musei, 81/b",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Monografica site-specific dedicata a Franca Ghitti. Intreccia sculture, pittura e architettura in dialogo con le testimonianze storiche del museo, dal periodo romano al rinascimento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/una-storia-di-altri-alfabeti-2516594-2516795-2520783",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "armando-milani-mostre-diffuse-brescia-24-11",
+    "titolo": "Armando Milani. Mostre diffuse",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T10:00",
+    "fine": "2026-11-29T18:30",
+    "luogo": "Museo di Santa Giulia",
+    "indirizzo": "Via dei Musei, 81/B",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra diffusa dedicata al grafico Armando Milani. Presenta oltre trenta manifesti selezionati su temi come ambiente, infanzia e ingiustizie, cornice a dibattiti e laboratori del Festival della Pace.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/armando-milani-mostre-diffuse-2520791",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-grande-saggezza-brescia-24-11",
+    "titolo": "La grande saggezza",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T10:00",
+    "fine": "2026-11-29T17:15",
+    "luogo": "Castello di Brescia",
+    "indirizzo": "Via del Castello, 9",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Retrospettiva personale di Cristina Mittermeier. Oltre 80 scatti che celebrano la bellezza del pianeta, la fauna selvatica e le culture in simbiosi con la natura, nel contesto del Castello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/la-grande-saggezza-2520784",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cavallerizza-100-autori-brescia-24-11",
+    "titolo": "Cavallerizza. 100 autori",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T14:00",
+    "fine": "2026-11-29T19:30",
+    "luogo": "Cavallerizza - Centro Italiano della fotografia",
+    "indirizzo": "Via Fratelli Cairoli, 9",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Selezione di 100 opere destinate a diventare storia. Attraversa generi come moda, paesaggio e ritratto, mostrando l'evoluzione della fotografia e il suo ruolo nella società attraverso la collezione Clerici.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cavallerizza-100-autori-2520780",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "board-games-night-cusano-milanino",
+    "titolo": "Board games night",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T21:00",
+    "fine": null,
+    "luogo": "Biblioteca F. Maraspin - Cusano Milanino",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di gioco nella Biblioteca in occasione dell’International Games Month, promossa a livello internazionale dall’American Library Association e in Italia dall’Associazione Italiana Biblioteche.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cusano Milanino",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "identicity-conosci-la-tua-citta-cusano-milanino",
+    "titolo": "IdentiCity – Conosci la tua città",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T16:30",
+    "fine": null,
+    "luogo": "Intrecci APS - Via Adige 22",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontri laboratoriali con due educatrici per esplorare sogni, diritti e partecipazione attraverso giochi e creatività, all’interno del Progetto Call Me By My Name.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Insieme Per Il Sociale, Cooperativa La Grande Casa",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/identicity-conosci-la-tua-citta",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bookcity-milano-2026-arriva-in-biblioteca-cusano-milanino",
+    "titolo": "BookCity Milano 2026 arriva in Biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T16:00",
+    "fine": null,
+    "luogo": "Biblioteca F. Maraspin - Cusano Milanino",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa della fiera del libro BookCity Milano ospitata presso la Biblioteca comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cusano Milanino",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "6-skillat-allenarsi-alle-soft-skills-cusano-milanino",
+    "titolo": "6 Skillat@? -Allenarsi alle soft skills",
+    "categoria": "bambini",
+    "inizio": "2027-01-14T14:00",
+    "fine": null,
+    "luogo": "Intrecci APS - Via Adige 22",
+    "indirizzo": "Cusano Milanino",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio pratico per ragazzi che utilizza materiali di scarto industriale per allenare le soft skills, all’interno del Progetto Call Me By My Name.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Insieme Per Il Sociale, Cooperativa La Grande Casa, Cooperativa Stripes",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/6-skillat-allenarsi-alle-soft-skills",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-crimini-della-sicurezza-pistoia",
+    "titolo": "Presentazione del libro \"Crimini della sicurezza\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-23T17:00",
+    "fine": "2026-11-23T18:30",
+    "luogo": "Biblioteca San Giorgio",
+    "indirizzo": "Via Sandro Pertini, n. 340",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alla memoria delle vittime del lavoro e alla cultura della prevenzione. Intervengono Emma Marrazzo, Maurizio Pucci, Alessandro Grassini e Jonathan Sabatini. Modera Federico Pagliai.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione culturale I 3 Mulini",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/presentazione-del-libro-crimini-della-sicurezza",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-regione-spiegata-agli-studenti-pistoia",
+    "titolo": "La Regione spiegata agli studenti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T10:00",
+    "fine": "2026-11-24T12:00",
+    "luogo": "Sala Maggiore - Palazzo Comunale",
+    "indirizzo": "Piazza del Duomo, 1",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con Bernard Dika e Alessandro Tomasi per illustrare le attività della Regione Toscana agli studenti dell'Istituto Professionale De Franceschi-Pacinotti. L'evento è aperto al pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturidea",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/la-regione-spiegata-agli-studenti-voce-di-governo-voce-di-opposizion",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-sopra-le-righe-4-appuntamenti-in-biblioteca-lerici",
+    "titolo": "Letture sopra le righe: 4 appuntamenti in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-11-06",
+    "fine": "2026-11-27",
+    "luogo": "Biblioteca A. Doria",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di quattro appuntamenti letterari che vedrà protagonisti Mario De Giorgio, Sonia Linda Vatteroni, Bernucci Samanta e Susanna Raule. Incontro con gli autori per presentare le nuove opere e discutere di temi sociali, familiari e esistenziali attraverso la narrazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca A. Doria",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-musicale-2026-masterclass-di-violino-del-m-stefano-pogliani-napoli",
+    "titolo": "Autunno Musicale 2026: Masterclass di Violino del M.° Stefano Pogliani",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T09:00",
+    "fine": "2026-12-03T13:00",
+    "luogo": "Archivio di Stato di Napoli",
+    "indirizzo": "Piazzetta del Grande Archivio, 5",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Masterclass di violino diretta dal Maestro Stefano Pogliani. Si svolge in tre giornate consecutive. Orari: 1 e 2 dicembre dalle 9 alle 18, 3 dicembre dalle 10 alle 13.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Orchestra Scarlatti",
+    "fonti": [
+      {
+        "nome": "Nuova Orchestra Scarlatti",
+        "tipo": "organizzatore",
+        "url": "https://www.nuovaorchestrascarlatti.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-rumore-delle-cose-nuove-almese-23-11",
+    "titolo": "Il rumore delle cose nuove",
+    "categoria": "teatro",
+    "inizio": "2026-11-23T18:30",
+    "fine": "2026-11-23T21:15",
+    "luogo": "Teatro Magnetto",
+    "indirizzo": "Via Avigliana 17",
+    "cap": null,
+    "comune": "001006",
+    "frazione": null,
+    "lat": 45.11825,
+    "lon": 7.41999,
+    "coordinateApprossimate": true,
+    "descrizione": "Film commedia di Paolo Genovese che racconta la storia di tre famiglie a Milano. I personaggi includono Alba, Viola e Andrea, le cui vite e relazioni si intrecciano inaspettatamente.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Magnetto",
+    "fonti": [
+      {
+        "nome": "Teatro Magnetto",
+        "tipo": "organizzatore",
+        "url": "https://www.teatromagnetto.it/event/il-rumore-delle-cose-nuove/2026-11-23/1",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-nazionale-dell-albero-a-san-giorgio-monferrato-san-giorgio-monferrato",
+    "titolo": "Giornata Nazionale dell'Albero a San Giorgio Monferrato",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-23T10:30",
+    "fine": null,
+    "luogo": "Chiesa della Madonna della Neve",
+    "indirizzo": "San Giorgio Monferrato",
+    "cap": null,
+    "comune": "006153",
+    "frazione": null,
+    "lat": 45.11051,
+    "lon": 8.41273,
+    "coordinateApprossimate": true,
+    "descrizione": "L'Amministrazione Comunale, insieme alle scuole, celebra la Giornata Nazionale degli Alberi. L'appuntamento prevede la presentazione del nuovo roseto, canti, letture curate dagli alunni e la piantumazione di un albero. L'evento è aperto a tutta la cittadinanza e coinvolge i bambini della Scuola dell'Infanzia e Primaria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale di San Giorgio Monferrato",
+    "fonti": [
+      {
+        "nome": "Alexala",
+        "tipo": "ufficiale",
+        "url": "https://www.alexala.it/it/eventi/giornata-nazionale-dellalbero-a-san-giorgio-monferrato/555e01b1987f6cb8295a9f487ce0f3fe?",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-ratter-del-navili-buccinasco",
+    "titolo": "I ratter del Navili",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Auditorium Medini",
+    "indirizzo": "Via Tiziano, 7, 20090 Buccinasco MI",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale dialettale a cura della Compagnia LU.PI.MA LEONI di Gorgonzola. La commedia di Roberto Zago, diretta da Paolo Zago, narra la storia di una vedova e dei vicini costretti a una occupazione a oltranza. La raccolta fondi sostiene la Caritas parrocchiale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia LU.PI.MA LEONI di Gorgonzola",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/furore-726837",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "come-invecchiare-bene-buccinasco-02-12",
+    "titolo": "Come invecchiare bene",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T15:00",
+    "fine": "2026-12-02T17:00",
+    "luogo": "Centro culturale Bramante",
+    "indirizzo": "Via Bramante, 14, 20090 Buccinasco MI",
+    "cap": null,
+    "comune": "015036",
+    "frazione": null,
+    "lat": 45.40712,
+    "lon": 9.10934,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro aperto a tutti con prenotazione obbligatoria, dedicato al benessere in età avanzata. L'evento è curato da Caterina Pacenza e promosso nell'ambito delle attività della Banca del Tempo e dei Saperi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Banca del Tempo e dei Saperi",
+    "fonti": [
+      {
+        "nome": "Comune di Buccinasco",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.buccinasco.mi.it/it/eventi/come-invecchiare-bene-733081-733108-733746",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "main-day-cerreto-guidi",
+    "titolo": "Main Day",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Centro Don Lido Marini",
+    "indirizzo": "Via Vittorio Veneto, 8",
+    "cap": null,
+    "comune": "048011",
+    "frazione": null,
+    "lat": 43.7575,
+    "lon": 10.85621,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato a sicurezza, prevenzione e benessere nei luoghi di lavoro. L'evento prevede una dimostrazione di primo soccorso e la possibilità di iscriversi gratis al corso sull'uso del defibrillatore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Maintech Società Benefit",
+    "fonti": [
+      {
+        "nome": "Comune di Cerreto Guidi",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cerreto-guidi.fi.it/it/eventi/main-day",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-difendiamoci-insieme-fiumicino",
+    "titolo": "Corso 'Difendiamoci insieme'",
+    "categoria": "sport",
+    "inizio": "2026-11-27",
+    "fine": null,
+    "luogo": "Comune di Fiumicino",
+    "indirizzo": "Piazza Gen. C.A. Dalla Chiesa, 78",
+    "cap": null,
+    "comune": "058120",
+    "frazione": null,
+    "lat": 41.88765,
+    "lon": 12.22823,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento patrocinato dal Comune di Fiumicino, organizzato da associazioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiumicino",
+        "tipo": "ufficiale",
+        "url": "https://comune.fiumicino.rm.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-il-secolo-del-barocco-cuneo",
+    "titolo": "Mostra “Il secolo del Barocco”",
+    "categoria": "mostra",
+    "inizio": "2026-11-19",
+    "fine": "2027-03-29",
+    "luogo": "Complesso Monumentale di San Francesco",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione che ricostruisce la congiuntura artistica e culturale del Seicento romano, con opere di Bernini, Gentileschi e Rubens. La mostra ospita una selezione di 25 opere provenienti dalle Gallerie Nazionali di Arte Antica di Roma, in collaborazione tra Fondazione CRC e Intesa Sanpaolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione CRC e Intesa Sanpaolo",
+    "fonti": [
+      {
+        "nome": "Comune di Cuneo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cuneo.it/vivere-il-comune/eventi/mostra-il-secolo-del-barocco",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
   }
 ]
