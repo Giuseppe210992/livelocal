@@ -341966,5 +341966,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "macro-podcast-live-la-nuova-stagione-dello-spionaggio-internazionale-mudec-milano-2026-11-28",
+    "titolo": "Macro – Podcast live: la nuova stagione dello spionaggio internazionale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T14:00",
+    "luogo": "Auditorium MUDEC",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "BookCity Milano 2026, incontro del Gruppo Il Sole 24 ORE: la giornalista Angelica Migliorisi dialoga con Antonio Talia sul nuovo spionaggio internazionale, dalla Cina agli Stati Uniti, dalla Russia alle grandi aziende tecnologiche. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "MUDEC – Museo delle Culture",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MUDEC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df-FvN8DOtP/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "investire-adesso-mauro-meazza-e-debora-rosciani-mudec-milano-2026-11-28",
+    "titolo": "«Investire adesso»: presentazione del libro di Mauro Meazza e Debora Rosciani",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "luogo": "Auditorium MUDEC",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "BookCity Milano 2026, incontro del Gruppo Il Sole 24 ORE: Mauro Meazza e Debora Rosciani presentano «Investire adesso. È sempre il momento giusto per occuparsi dei propri soldi», un libro su educazione finanziaria e scelte consapevoli sui risparmi. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "MUDEC – Museo delle Culture",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram MUDEC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df-FvN8DOtP/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
