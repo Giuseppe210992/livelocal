@@ -336670,5 +336670,87 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "greccio-il-presepio-mostra-mercato-dell-artigianato-greccio-2026-11-28",
+    "titolo": "Greccio… il Presepio – 28ª Mostra Mercato dell'artigianato e dell'oggettistica per il Presepio",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T12:00",
+    "fine": "2027-01-06T18:00",
+    "luogo": "Piazza Roma",
+    "comune": "057031",
+    "lat": 42.45001,
+    "lon": 12.75475,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato con casette di artigianato presepiale, decorazioni, prodotti tipici, area food, giochi e artisti di strada, Casetta Solidale e Sentiero degli Artisti. Inaugurazione sabato 28 novembre alle 12. Aperta con ingresso libero il 28-29 novembre, 5-8, 12, 13, 19, 20 e 26-30 dicembre (10-18), il 24 dicembre 10-14, il 25 dicembre e il 1° gennaio 15-19, dal 2 al 6 gennaio 10-18. Museo Internazionale del Presepe aperto dal 1° dicembre.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Greccio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Messaggero (contenuto del Comune di Greccio)",
+        "tipo": "stampa",
+        "url": "https://ilmessaggero.it/partner/news/greccio_il_borgo_del_primo_presepe_si_prepara_al_natale_dal_28_novembre_la_mostra_mercato-9892986.html",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "rievocazione-storica-del-primo-presepe-vivente-del-mondo-greccio-2026-12-24",
+    "titolo": "Rievocazione storica del Primo Presepe Vivente del Mondo",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-24T22:30",
+    "luogo": "Santuario di Greccio",
+    "comune": "057031",
+    "lat": 42.45001,
+    "lon": 12.75475,
+    "coordinateApprossimate": true,
+    "descrizione": "Rievocazione del presepe di San Francesco del 1223, curata dalla Pro Loco di Greccio, nell'ampia radura alla base del Santuario. Repliche il 26, 27 e 30 dicembre 2026 e il 1°, 2, 3 e 6 gennaio 2027 alle 17.45.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco di Greccio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Il Messaggero (contenuto del Comune di Greccio)",
+        "tipo": "stampa",
+        "url": "https://ilmessaggero.it/partner/news/greccio_il_borgo_del_primo_presepe_si_prepara_al_natale_dal_28_novembre_la_mostra_mercato-9892986.html",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "eroina-non-solo-stand-up-comedy-show-chiara-becchimanzi-teatro-san-leonardo-viterbo-2026-11-27",
+    "titolo": "«Eroina – Non solo stand up comedy show» di Chiara Becchimanzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "luogo": "Teatro San Leonardo",
+    "comune": "056059",
+    "lat": 42.43757,
+    "lon": 12.06327,
+    "coordinateApprossimate": true,
+    "descrizione": "Show che mescola teatro, stand up comedy, burlesque e conferenza buffa e rilegge i miti di Penelope, Circe, Medea e Arianna come se fossero stati scritti da donne. Di e con Chiara Becchimanzi, produzione Altrascena. Via Cavour 9; prevendite al Bistrot del Teatro e online su TicketItalia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Altrascena",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "NewTuscia",
+        "tipo": "stampa",
+        "url": "https://newtuscia.it/2026/11/22/al-teatro-san-leonardo-eroina-non-solo-stand-up-comedy-show-di-chiara-becchimanzi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
