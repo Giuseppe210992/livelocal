@@ -337295,5 +337295,61 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "maratona-documentari-e-corti-d-autore-via-dei-corti-auditorium-musco-gravina-di-catania-2026-11-28",
+    "titolo": "Via dei Corti: maratona dei finalisti Documentari e Corti d'Autore",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-28T12:15",
+    "luogo": "Auditorium Musco",
+    "comune": "087019",
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Maratona delle opere finaliste delle sezioni Documentari e Corti d'Autore del festival: tra gli altri «The restaurant at the end of the world», «Noi cosa siamo», «Isole senza mare», «Il colore del camaleonte» e «Mariska».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Via dei Corti",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Via dei Corti",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDeq8LjodO/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "donne-piu-forti-ogni-giorno-diritti-e-autodifesa-orzinuovi-2026-11-24",
+    "titolo": "«Donne più forti, ogni giorno»: diritti, tutele legali e autodifesa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:30",
+    "fine": "2026-11-24T21:30",
+    "luogo": "Centro Culturale Aldo Moro",
+    "comune": "017125",
+    "lat": 45.39788,
+    "lon": 9.93642,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata promossa dall'Assessorato alla Sicurezza con le avvocate Emanuela Cattaneo (diritto civile) e Daniela Vernia (diritto penale) su diritti e strumenti per riconoscere e denunciare la violenza; segue un'ora di lezione su come difendersi da eventuali attacchi. Via Palestro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Orzinuovi",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Orzinuovi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgDH1RnxKdM/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
