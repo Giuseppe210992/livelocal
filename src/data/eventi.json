@@ -331199,5 +331199,1301 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "2nde-ent-hard-techno-marano-ticino",
+    "titolo": "2nde_ent Hard Techno",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T23:00",
+    "fine": "2026-11-29T04:00",
+    "luogo": "H2O Club",
+    "indirizzo": "via Mezzomerico 18",
+    "cap": null,
+    "comune": "003091",
+    "frazione": null,
+    "lat": 45.627188,
+    "lon": 8.625134,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata dedicata al nuovo format Hard Techno con il progetto 2nde_ent. L'evento è riservato ai maggiorenni di 21 anni e propone un'esperienza musicale intensa fino a tarda notte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "H2O Club",
+    "fonti": [
+      {
+        "nome": "H2O Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfNDvbojaby",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "malvada-marano-ticino",
+    "titolo": "Malvada",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T23:30",
+    "fine": "2026-12-13T03:30",
+    "luogo": "H2O Club",
+    "indirizzo": "via mezzomerico 18",
+    "cap": null,
+    "comune": "003091",
+    "frazione": null,
+    "lat": 45.627188,
+    "lon": 8.625134,
+    "coordinateApprossimate": false,
+    "descrizione": "Prima apparizione di Malvada a Marano Ticino con un set che spazia tra Dembow, Funk, Reggaeton e Urban. L'evento è aperto al pubblico dai 16 anni in su.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "H2O Club",
+    "fonti": [
+      {
+        "nome": "H2O Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df3JM7ltH-y",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apertura-stagione-con-alberto-laurenti-e-rumba-de-mar-sarnano",
+    "titolo": "Apertura stagione con Alberto Laurenti e Rumba de Mar",
+    "categoria": "concerto",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "La Baita Solaria",
+    "indirizzo": "Loc. S. M. Maddalena 19, Sassotetto – Sarnano",
+    "cap": null,
+    "comune": "043049",
+    "frazione": null,
+    "lat": 43.011797,
+    "lon": 13.232286,
+    "coordinateApprossimate": false,
+    "descrizione": "Pranzo festivo per l'apertura della stagione in alta quota con menù speciale e performance live di Alberto Laurenti e del gruppo Rumba de Mar. Presenti anche Oriano e Alessandrino per una sessione di DJ set.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 45
+    },
+    "prenotazione": null,
+    "organizzatore": "La Baita Solaria",
+    "fonti": [
+      {
+        "nome": "La Baita Solaria",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df42ZSCiMRX",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "baddies-party-fabriano",
+    "titolo": "Baddies Party",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "BOHÉMIA",
+    "indirizzo": "Fabriano",
+    "cap": null,
+    "comune": "042017",
+    "frazione": null,
+    "lat": 43.351333,
+    "lon": 12.925394,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata tematica femminile con allestimento speciale, atmosfera rosa e cocktail a base di Red Bull Pink Edition. Musica urban, trap e hip hop sul dancefloor.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "BOHÉMIA",
+    "fonti": [
+      {
+        "nome": "BOHÉMIA",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDkqALo82M",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alma-officialita-gallicano",
+    "titolo": "Alma Officialita",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Drop Club",
+    "indirizzo": "Gallicano",
+    "cap": null,
+    "comune": "046015",
+    "frazione": null,
+    "lat": 44.034495,
+    "lon": 10.501585,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata a tema disco house e tech house con la DJ set di Alma Officialita nel main room del Drop Club. Ingresso con drink e servizio navetta disponibile. Vietato l'accesso ai minori di 16 anni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Drop Club",
+    "fonti": [
+      {
+        "nome": "Drop Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df7ifReok2p",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "skylab-gallicano",
+    "titolo": "SkyLab",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T22:30",
+    "fine": null,
+    "luogo": "Drop Club",
+    "indirizzo": "Gallicano",
+    "cap": null,
+    "comune": "046015",
+    "frazione": null,
+    "lat": 44.034495,
+    "lon": 10.501585,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata SkyLab con Marco Bresciani che proporrà le hit degli anni 80 e 90. Ingresso gratuito fino a mezzanotte, poi 15 euro con drink. Vietato ai minori di 16 anni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Drop Club",
+    "fonti": [
+      {
+        "nome": "Drop Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDjFKAo2Ag",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "artie-5ive-live-gallicano",
+    "titolo": "Artie 5ive Live",
+    "categoria": "concerto",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Drop Club",
+    "indirizzo": "Gallicano",
+    "cap": null,
+    "comune": "046015",
+    "frazione": null,
+    "lat": 44.034495,
+    "lon": 10.501585,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata con il gruppo Artie 5ive in live presso il Drop Club. Il main room è dedicato ad Artie 5ive, mentre le altre ospiteranno Alma e Lunea Club. Ticket disponibili su Clubbing con posti limitati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Drop Club",
+    "fonti": [
+      {
+        "nome": "Drop Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df0XCMqI18E",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "artie-5ive-alma-e-lunea-gallicano",
+    "titolo": "Artie 5ive, Alma e Lunea",
+    "categoria": "concerto",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Drop Club",
+    "indirizzo": "Gallicano",
+    "cap": null,
+    "comune": "046015",
+    "frazione": null,
+    "lat": 44.034495,
+    "lon": 10.501585,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento multi-room con Artie 5ive nella main room, Alma Officialita nella circle room e Lunea Club nella sala private. Ticket a 18 o 20 euro a seconda del tipo. Accesso alla sala Lunea riservato ai maggiorenni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": "Drop Club",
+    "fonti": [
+      {
+        "nome": "Drop Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfnSlFJCEbG",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "paradise-presenta-gabbertime-montereale-valcellina",
+    "titolo": "PARADISE presenta GABBERTIME",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T23:00",
+    "fine": null,
+    "luogo": "Bissò",
+    "indirizzo": "Montereale Valcellina",
+    "cap": null,
+    "comune": "093027",
+    "frazione": null,
+    "lat": 46.158861,
+    "lon": 12.65571,
+    "coordinateApprossimate": false,
+    "descrizione": "Party GABBERTIME con hardcore gabber: DJ Skinny B, Kerrigan, Raziel, Headcrusher, Resistance Project vs Dog-Stylerz. Musica intensa e balli notturni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Bissò",
+    "fonti": [
+      {
+        "nome": "Bissò",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDWGO5EfhV",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "get-rich-saint-christophe",
+    "titolo": "Get Rich",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T00:00",
+    "fine": null,
+    "luogo": "Fashion",
+    "indirizzo": "Saint-Christophe",
+    "cap": null,
+    "comune": "007058",
+    "frazione": null,
+    "lat": 45.741024,
+    "lon": 7.377853,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata Get Rich con musica hip hop, reggaeton, dembow e trap. L'obiettivo è ballare, cantare e lasciarsi andare. Evento over 18 con ingresso a pagamento.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "Fashion",
+    "fonti": [
+      {
+        "nome": "Fashion",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DgDSplfzj1g",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "caposile-new-year-s-marathon-musile-di-piave",
+    "titolo": "CAPOSILE - NEW YEAR'S MARATHON",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T23:00",
+    "fine": "2027-01-01T04:00",
+    "luogo": "After Caposile",
+    "indirizzo": "Via Maestri del Lavoro, 42 - San Donà di Piave",
+    "cap": null,
+    "comune": "027025",
+    "frazione": null,
+    "lat": 45.578406,
+    "lon": 12.528947,
+    "coordinateApprossimate": false,
+    "descrizione": "Celebrazione di fine anno con due appuntamenti consecutivi. Il 31 dicembre dalle 23:00 in poi e il 1 gennaio dalle 16:00 alle 04:00. Presenza di 5 special guest e 12 artisti. L'accesso al 31 dicembre include l'evento del 1 gennaio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "After Caposile",
+    "fonti": [
+      {
+        "nome": "After Caposile",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df6-Pc5s4K3",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nex-live-session-presentazione-nuovo-album-matera",
+    "titolo": "NEX - Live Session - presentazione Nuovo Album",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Rosetta Jazz Club",
+    "indirizzo": "Matera",
+    "cap": null,
+    "comune": "077014",
+    "frazione": null,
+    "lat": 40.675796,
+    "lon": 16.599991,
+    "coordinateApprossimate": false,
+    "descrizione": "Presentazione del primo album del quartetto NEX, Live Session, caratterizzata da jazz contemporaneo, groove, improvvisazione e ricerca sonora. Il disco è prodotto da OnyxDischi, etichetta dell'associazione Onyx Jazz Club di Matera. Line up: Kevin Grieco, Nicolò Petrafesa, Damiano Niglio, Pasquale Parente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rosetta Jazz Club",
+    "fonti": [
+      {
+        "nome": "Rosetta Jazz Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df7kse-N9Ff",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bb-disco-dinner-grottammare",
+    "titolo": "BB DISCO DINNER",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "BB Disco",
+    "indirizzo": "Contrada Sant'Andrea, 101, 63064 Cupra Marittima AP",
+    "cap": null,
+    "comune": "044023",
+    "frazione": null,
+    "lat": 42.994854,
+    "lon": 13.835705,
+    "coordinateApprossimate": false,
+    "descrizione": "BB Disco hosts a dinner with show and disco featuring performances by Kylián Drago and DJs. Guests enjoy a multi-room experience with music, dancing, and a special dinner menu.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "BB Disco",
+    "fonti": [
+      {
+        "nome": "BB Disco",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df8BEODFCV0",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "steve-angello-milano",
+    "titolo": "Steve Angello",
+    "categoria": "concerto",
+    "inizio": "2027-02-20",
+    "fine": null,
+    "luogo": "Magazzini Generali",
+    "indirizzo": "Via Pietrasanta 16",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.444097,
+    "lon": 9.195262,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto di Steve Angello, uno dei nomi di riferimento della musica elettronica mondiale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Magazzini Generali",
+    "fonti": [
+      {
+        "nome": "Magazzini Generali",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df1xfUBjHp4",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-santi-francesi-milano",
+    "titolo": "I Santi Francesi",
+    "categoria": "concerto",
+    "inizio": "2027-04-01",
+    "fine": null,
+    "luogo": "Magazzini Generali",
+    "indirizzo": "Via Pietrasanta 16",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.444097,
+    "lon": 9.195262,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto dei I Santi Francesi con il nuovo tour 'I Nostri Muri Le Montagne - Club 2027'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Magazzini Generali",
+    "fonti": [
+      {
+        "nome": "Magazzini Generali",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfzhTzXDc8w",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dgm-dark-ages-e-break-me-down-in-concerto-pesaro",
+    "titolo": "DGM, Dark Ages e Break Me Down in concerto",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Spazio Webo",
+    "indirizzo": "Via Yuri Gagarin 161",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.906775,
+    "lon": 12.865125,
+    "coordinateApprossimate": false,
+    "descrizione": "Una serata dedicata al metal italiano con le esibizioni dei DGM, esponenti del progressive metal, i veterani Dark Ages e l'alternative metal dei Break Me Down, seguiti da un ospite speciale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Spazio Webo",
+    "fonti": [
+      {
+        "nome": "Spazio Webo",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfFpXVvNigQ",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rares-nuova-data-ravenna",
+    "titolo": "Rareș - Nuova data",
+    "categoria": "concerto",
+    "inizio": "2027-01-31T21:00",
+    "fine": null,
+    "luogo": "Bronson Club",
+    "indirizzo": "via Cellai 50",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.382013,
+    "lon": 12.200818,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda data del tour invernale 'Sincero! D'inverno' di Rareș. Presenta l'album rivelazione con un live nuovo di zecca e una formazione allargata per cantare e ballare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bronson Club",
+    "fonti": [
+      {
+        "nome": "Bronson Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df145KMiItO",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rares-ravenna",
+    "titolo": "Rareș",
+    "categoria": "concerto",
+    "inizio": "2027-01-30T21:00",
+    "fine": null,
+    "luogo": "Bronson Club",
+    "indirizzo": "via Cellai 50",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.382013,
+    "lon": 12.200818,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto sold out del tour 'Sincero! D'inverno'. Rareș presenta il suo album d'esordio con una formazione allargata in un live pensato per il pubblico dei club.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bronson Club",
+    "fonti": [
+      {
+        "nome": "Bronson Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfpEQtLCNCV",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spartiti-tour-2026-2027-ravenna",
+    "titolo": "Spartiti Tour 2026 - 2027",
+    "categoria": "concerto",
+    "inizio": "2027-01-29T21:00",
+    "fine": null,
+    "luogo": "Bronson Club",
+    "indirizzo": "via Cellai 50",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.382013,
+    "lon": 12.200818,
+    "coordinateApprossimate": false,
+    "descrizione": "Jukka Reverberi e Max Collini celebrano i dieci anni dell'album 'Austerità' con il progetto Spartiti. Narrazioni immersive tra chitarre dilatate, elettronica e droni semiliquidi.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Bronson Club",
+    "fonti": [
+      {
+        "nome": "Bronson Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfmk7GYCGyl",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "downtown-boys-ravenna",
+    "titolo": "Downtown Boys",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": null,
+    "luogo": "Bronson Club",
+    "indirizzo": "via Cellai 50",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.382013,
+    "lon": 12.200818,
+    "coordinateApprossimate": false,
+    "descrizione": "I Downtown Boys da Providence con il nuovo album 'Public Luxury'. In apertura Komarov Magnificent Backflip, mix di surf elettrico, post punk e pulsazioni kraut.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 16
+    },
+    "prenotazione": null,
+    "organizzatore": "Bronson Club",
+    "fonti": [
+      {
+        "nome": "Bronson Club",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfPMO5tCGkJ",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ariete-tutti-tornano-a-casa-campi-bisenzio",
+    "titolo": "Ariete: Tutti Tornano A Casa",
+    "categoria": "concerto",
+    "inizio": "2026-12-01",
+    "fine": null,
+    "luogo": "Viper",
+    "indirizzo": "Campi Bisenzio",
+    "cap": null,
+    "comune": "048006",
+    "frazione": null,
+    "lat": 43.792631,
+    "lon": 11.17587,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata live di Ariete in tournée nei club. Il progetto presenta i brani del nuovo album 'Tutti Tornano A Casa' in una dimensione intima, accompagnati da chitarre e testi descritti come pagine di diario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Viper",
+    "fonti": [
+      {
+        "nome": "Viper",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDSutICJC_",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "raresmusica-sincero-d-inverno-tour-campi-bisenzio",
+    "titolo": "Raresmusica: Sincero! D'inverno Tour",
+    "categoria": "concerto",
+    "inizio": "2027-02-05",
+    "fine": null,
+    "luogo": "Viper",
+    "indirizzo": "Campi Bisenzio",
+    "cap": null,
+    "comune": "048006",
+    "frazione": null,
+    "lat": 43.792631,
+    "lon": 11.17587,
+    "coordinateApprossimate": false,
+    "descrizione": "Raresmusica riporta dal vivo le canzoni del suo ultimo album per la prima volta nei club. L'evento è parte del tour invernale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Viper",
+    "fonti": [
+      {
+        "nome": "Viper",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfpEjAcxUs8",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bluvertigo-metallo-non-metallo-campi-bisenzio",
+    "titolo": "Bluvertigo: Metallo non Metallo",
+    "categoria": "concerto",
+    "inizio": "2027-03-25",
+    "fine": null,
+    "luogo": "Viper",
+    "indirizzo": "Campi Bisenzio",
+    "cap": null,
+    "comune": "048006",
+    "frazione": null,
+    "lat": 43.792631,
+    "lon": 11.17587,
+    "coordinateApprossimate": false,
+    "descrizione": "I Bluvertigo celebrano il trentennale dell'album 'Metallo non Metallo' (1997) riproponendolo dal vivo. L'evento è una serata speciale dedicata al disco che ha segnato la musica italiana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Viper",
+    "fonti": [
+      {
+        "nome": "Viper",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfo5q23RkZ-",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "kodak-black-live-milano",
+    "titolo": "Kodak Black live",
+    "categoria": "concerto",
+    "inizio": "2027-02-21",
+    "fine": null,
+    "luogo": "Fabrique",
+    "indirizzo": "Via Gaudenzio Fantoli 9",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.452124,
+    "lon": 9.252277,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto live di Kodak Black, supportato da Richie Weiss e Yung Dre. L'evento si terrà presso il club Fabrique di Milano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fabrique",
+    "fonti": [
+      {
+        "nome": "Fabrique",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgAkbsWjXVg",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "deryck-whibley-milano",
+    "titolo": "Deryck Whibley",
+    "categoria": "concerto",
+    "inizio": "2027-04-18",
+    "fine": null,
+    "luogo": "Fabrique",
+    "indirizzo": "Via Gaudenzio Fantoli 9",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.452124,
+    "lon": 9.252277,
+    "coordinateApprossimate": false,
+    "descrizione": "Il frontman dei Sum 41, Deryck Whibley, torna in Italia con un set inedito che ripropone l'energia e le canzoni della band.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fabrique",
+    "fonti": [
+      {
+        "nome": "Fabrique",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df45UgZNTI4",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "wild-wild-tour-milano",
+    "titolo": "Wild Wild Tour",
+    "categoria": "concerto",
+    "inizio": "2027-03-18T19:30",
+    "fine": null,
+    "luogo": "Fabrique",
+    "indirizzo": "Via Gaudenzio Fantoli 9",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.452124,
+    "lon": 9.252277,
+    "coordinateApprossimate": false,
+    "descrizione": "Tornata in Italia dei Wild Wild con 8 performer. Lo show include coreografie e performance intense nell'ambito del Wild Wild Tour 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fabrique",
+    "fonti": [
+      {
+        "nome": "Fabrique",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Dfw3I8-iXsI",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "echoes-of-the-future-con-gennaro-elbio-denis-milano",
+    "titolo": "Echoes of the Future con Gennaro, Elbio & Denis",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Amnesia",
+    "indirizzo": "Via Cavriana 7",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.463038,
+    "lon": 9.240467,
+    "coordinateApprossimate": false,
+    "descrizione": "Il clubbing torna alla sua essenza con un set di Gennaro, noto per lo stile house internazionale con influenze jazz e groove articolati. Al suo fianco il duo milanese Elbio & Denis, che propone elettronica tra ricerca ritmica e contaminazioni contemporanee.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amnesia",
+    "fonti": [
+      {
+        "nome": "Amnesia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df7kla5EexQ",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "christmas-tradition-con-ilario-alicante-milano",
+    "titolo": "Christmas Tradition con Ilario Alicante",
+    "categoria": "concerto",
+    "inizio": "2026-12-25",
+    "fine": null,
+    "luogo": "Amnesia",
+    "indirizzo": "Via Cavriana 7",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.463038,
+    "lon": 9.240467,
+    "coordinateApprossimate": false,
+    "descrizione": "Tradizione natalizia del locale con Ilario Alicante in consolle per tutta la notte. L'evento prevede una selezione musicale continua dal primo all'ultimo disco, offrendo un'esperienza celebrativa in vista del 25 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amnesia",
+    "fonti": [
+      {
+        "nome": "Amnesia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/Df2auFaRD-C",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "amnesia-con-ale-de-tuglie-giulio-domi-andrea-geronzi-milano",
+    "titolo": "Amnesia con Ale de Tuglie, Giulio Domi, Andrea Geronzi",
+    "categoria": "concerto",
+    "inizio": "2026-12-12",
+    "fine": null,
+    "luogo": "Amnesia",
+    "indirizzo": "Via Cavriana 7",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.463038,
+    "lon": 9.240467,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento in collaborazione con OFFUniverse. Il groove di Ale de Tuglie, con sound costruito per la pista e produzioni su etichette come Halo e Moan, si unisce alle selezioni di Giulio Domi e Andrea Geronzi per una serata all'insegna del ritmo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amnesia",
+    "fonti": [
+      {
+        "nome": "Amnesia",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DfsHZUhRT7D",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bachadi-xxl-modugno",
+    "titolo": "Bachadi XXL",
+    "categoria": "concerto",
+    "inizio": "2026-11-24",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Evento musicale in programma martedì 24 novembre alle 22:00. Il locale non specificare ulteriormente il tipo di spettacolo o gli ospiti nell'elenco generale, ma la natura del club notturno suggerisce una serata dance o live.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bieber-fever-modugno",
+    "titolo": "Bieber Fever",
+    "categoria": "concerto",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata a tema dedicata alla musica pop e agli anni 2010, in programma giovedì 26 novembre alle 23:00. Evento pensato per l'atmosfera tipica dei locali notturni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lacrima-modugno",
+    "titolo": "Lacrima",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Performance musicale del gruppo Lacrima, in programma sabato 28 novembre alle 23:00. Concerto rock/metal nel format tipico del locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "napul-e-modugno",
+    "titolo": "Napul'è",
+    "categoria": "concerto",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata in programma sabato 5 dicembre alle 22:30. Il titolo suggerisce un omaggio alla tradizione musicale napoletana o un'esibizione legata a questo genere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "90vs2000-show-modugno",
+    "titolo": "90vs2000 show",
+    "categoria": "concerto",
+    "inizio": "2026-12-05",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo musicale a contrasto tra i successi degli anni '90 e quelli degli anni 2000. Si svolge sabato 5 dicembre alle 22:30, in contemporanea con l'evento Napul'è.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-immacolata-latina-modugno",
+    "titolo": "L'immacolata Latina",
+    "categoria": "concerto",
+    "inizio": "2026-12-07",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata latina in programma lunedì 7 dicembre alle 21:30. Evento incentrato su generi musicali come reggaeton, salsa o musica latinoamericana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "syd-lunatic-show-modugno",
+    "titolo": "Syd - Lunatic Show",
+    "categoria": "concerto",
+    "inizio": "2026-12-17",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo di Syd, in programma giovedì 17 dicembre alle 21:00. Evento musicale dal titolo Lunatic Show.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "squallor-forever-modugno",
+    "titolo": "Squallor Forever",
+    "categoria": "concerto",
+    "inizio": "2026-12-28",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Prima delle due date consecutive del progetto Squallor Forever. In programma lunedì 28 dicembre alle 21:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "squallor-forever-modugno-29-12",
+    "titolo": "Squallor Forever",
+    "categoria": "concerto",
+    "inizio": "2026-12-29",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Seconda delle due date consecutive del progetto Squallor Forever. Si svolge martedì 29 dicembre alle 21:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nocturnal-depression-modugno",
+    "titolo": "Nocturnal Depression",
+    "categoria": "concerto",
+    "inizio": "2027-02-07",
+    "fine": null,
+    "luogo": "Demodè Club",
+    "indirizzo": "Via dei Cedri 14",
+    "cap": null,
+    "comune": "072027",
+    "frazione": null,
+    "lat": 41.071338,
+    "lon": 16.823495,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo della band metal Nocturnal Depression. In programma domenica 7 febbraio 2027 alle 17:30, orario atipico per il genere.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Demodè Club",
+    "fonti": [
+      {
+        "nome": "Demodè Club",
+        "tipo": "organizzatore",
+        "url": "https://demodeclub.it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
   }
 ]
