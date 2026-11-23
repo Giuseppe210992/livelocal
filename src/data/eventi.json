@@ -336531,5 +336531,89 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "silent-book-museo-d-arte-siamese-cagliari-2026-11-26",
+    "titolo": "Silent book al Museo d'Arte Siamese",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T15:00",
+    "luogo": "Museo d'Arte Siamese Stefano Cardu",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura silenziosa con breve introduzione alla collezione del museo, a cura della Biblioteca Specialistica: ognuno porta o sceglie un libro e, con la propria tazza, gusta tè e dolcetti. Ultimo evento in programma. Prenotazione obbligatoria, massimo 15 partecipanti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici di Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgE5qNhCHbs/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visite-guidate-museo-d-arte-siamese-cagliari-2026-11-29-11",
+    "titolo": "Visita guidata al Museo d'Arte Siamese (ore 11)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T11:00",
+    "luogo": "Museo d'Arte Siamese Stefano Cardu",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla Collezione Cardu e alla mostra «Il tè e le sue ceramiche». Biglietto standard più 2 euro per la visita guidata; prenotazione obbligatoria. Replica alle 16.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 2
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici di Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgE5qNhCHbs/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "visite-guidate-museo-d-arte-siamese-cagliari-2026-11-29-16",
+    "titolo": "Visita guidata al Museo d'Arte Siamese (ore 16)",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T16:00",
+    "luogo": "Museo d'Arte Siamese Stefano Cardu",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica pomeridiana della visita guidata alla Collezione Cardu e alla mostra «Il tè e le sue ceramiche». Biglietto standard più 2 euro per la visita guidata; prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 2
+    },
+    "organizzatore": "Musei Civici di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Civici di Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgE5qNhCHbs/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
