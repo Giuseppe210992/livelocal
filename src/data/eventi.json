@@ -333686,5 +333686,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "geocromie-il-respiro-della-materia-il-silenzio-della-luce-claudio-ruax-atrio-comunale-gavi-2026-12-05",
+    "titolo": "Geocromie – Il respiro della materia, il silenzio della luce: mostra di Claudio Ruax",
+    "categoria": "mostra",
+    "inizio": "2026-12-05T17:00",
+    "fine": "2026-12-13T19:00",
+    "luogo": "Atrio Comunale",
+    "comune": "006081",
+    "lat": 44.68765,
+    "lon": 8.81581,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra personale di Claudio Ruax: dalle stratificazioni materiche dedicate alle Terre del Gavi ai paesaggi fioriti su fondi oro e ai grandi campi di colore, con sessioni di pittura dal vivo. Vernissage sabato 5 dicembre alle 17; poi sabato e domenica 10-12 e 17-19, martedì 8 dicembre 10-19. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Città di Gavi",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Gavi",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCzwiuxTxw/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sant-andrea-2026-santuario-di-sant-andrea-valfenera-2026-11-28",
+    "titolo": "Festa di Sant'Andrea al Santuario",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28T14:30",
+    "fine": "2026-11-30T16:00",
+    "luogo": "Santuario di Sant'Andrea (via Sant'Andrea)",
+    "comune": "005112",
+    "lat": 44.89149,
+    "lon": 7.95462,
+    "coordinateApprossimate": true,
+    "descrizione": "Sabato 28 novembre Santo Rosario alle 14.30 e Santa Messa alle 15, poi falò con rinfresco preparato dai borghigiani. Domenica 29 e lunedì 30 novembre Santo Rosario alle 15.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Valfenera",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Valfenera",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgDJKMQNRBf/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
