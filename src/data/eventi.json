@@ -330321,5 +330321,92 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "villaggio-di-natale-villa-comunale-maddaloni-2026-11-28",
+    "titolo": "Villaggio di Natale di Maddaloni",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-10",
+    "luogo": "Villa Comunale",
+    "indirizzo": "Piazza Don Salvatore D'Angelo",
+    "comune": "061048",
+    "lat": 41.02567,
+    "lon": 14.39128,
+    "coordinateApprossimate": true,
+    "descrizione": "24 casette in legno con proposte alimentari, artigianali e commerciali e realtà del Terzo Settore, per tutto il periodo delle feste. Il programma degli spettacoli è ancora in definizione. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Maddaloni",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Radio Caserta TV",
+        "tipo": "stampa",
+        "url": "https://radiocasertatv.it/mercatini-di-natale-2026-in-provincia-di-caserta-date-luoghi-e-programma-degli-eventi-confermati/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-village-a1expo-san-marco-evangelista-2026-12-05",
+    "titolo": "Natale Village (5ª edizione)",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-20T22:00",
+    "luogo": "Polo Fieristico A1Expò",
+    "indirizzo": "Viale delle Industrie 10",
+    "comune": "061104",
+    "lat": 41.03158,
+    "lon": 14.34296,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale tutto al coperto con stand di artigianato, hobbistica, prodotti tipici, dolci e idee regalo. Giornate: 5, 6, 7, 8, 12, 13, 19 e 20 dicembre, dalle 10 alle 22. Visite dedicate alle scuole.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "A1Expò",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Radio Caserta TV",
+        "tipo": "stampa",
+        "url": "https://radiocasertatv.it/mercatini-di-natale-2026-in-provincia-di-caserta-date-luoghi-e-programma-degli-eventi-confermati/",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "cadeaux-al-castello-il-grande-calendario-dell-avvento-limatola-2026-11-26",
+    "titolo": "Cadeaux al Castello: il Grande Calendario dell'Avvento",
+    "categoria": "mercatino",
+    "inizio": "2026-11-26T10:00",
+    "fine": "2026-12-13T22:00",
+    "luogo": "Castello di Limatola",
+    "comune": "062038",
+    "lat": 41.1346,
+    "lon": 14.39792,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale con circa 80 espositori in una città vittoriana inglese immaginaria: Grand Advent ClockTower, artisti di strada, antichi mestieri, gastronomia e Baita di Babbo Natale. Aperto in modo continuo dal 26 novembre al 13 dicembre (lun-gio 10-22, ven-dom fino alle 23.30). Biglietti da 7 a 15 euro per gli adulti, 5 euro per i bambini, gratis fino a 3 anni; incluso vin brulé o succo di frutta.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "organizzatore": "Castello di Limatola",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "ANSA",
+        "tipo": "stampa",
+        "url": "https://ansa.it/campania/notizie/2026/10/28/al-castello-di-limatola-tornano-i-mercatini-di-natale-tra-fiabe-e-magie_2beaf6ac-c8ed-4df4-b394-1d6f52e36d60.html",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "inserito": "2026-11-23",
+    "inseritoDa": "ia"
   }
 ]
