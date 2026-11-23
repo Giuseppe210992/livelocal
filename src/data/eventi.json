@@ -332495,5 +332495,1196 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-23",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-trenino-di-natale-piacenza",
+    "titolo": "Il trenino di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-20",
+    "luogo": "Viale Pubblico Passeggio",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Trenino a ciclo continuo a misura di famiglia attivo ogni sabato, domenica e festivi. Collega il centro storico alle principali aree di parcheggio per visitare monumenti e palazzi storici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/eventi/il-trenino-di-natale",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-piazza-cavalli-e-dintorni-piacenza",
+    "titolo": "Natale in Piazza Cavalli e dintorni",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-21",
+    "fine": "2027-01-06",
+    "luogo": "Piazza Cavalli",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Calendario di eventi natalizi che include il mercatino di Natale, incontri con Babbo Natale e la Befana. Iniziativa aperta al pubblico per vivere la magia del Natale in città.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Piacenza",
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/eventi/natale-in-piazza-cavalli-e-dintorni",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piacenza-on-ice-piacenza",
+    "titolo": "Piacenza On-Ice",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-24",
+    "luogo": "Piazza Cavalli",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Installazione di una pista di pattinaggio su ghiaccio aperta a grandi e piccini. Evento sportivo ricreativo per il periodo natalizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.piacenza.it/it/categorie-eventi/76807",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "orchestra-sinfonica-di-milano-piacenza-04-03",
+    "titolo": "Orchestra Sinfonica di Milano",
+    "categoria": "concerto",
+    "inizio": "2027-03-04",
+    "fine": null,
+    "luogo": "Teatro Municipale",
+    "indirizzo": "Piacenza",
+    "cap": null,
+    "comune": "033032",
+    "frazione": null,
+    "lat": 45.04154,
+    "lon": 9.71813,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'Orchestra Sinfonica di Milano in programma nella stagione teatrale piacentina. Spettacro musicale aperto al pubblico con prenotazione dei posti disponibili.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatri Piacenza",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatri Piacenza",
+        "tipo": "ufficiale",
+        "url": "https://teatripiacenza.it/calendario",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "manifestus-perugia-04-12",
+    "titolo": "Manifestus",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T20:45",
+    "fine": null,
+    "luogo": "Teatro Morlacchi",
+    "indirizzo": "Perugia",
+    "cap": null,
+    "comune": "054039",
+    "frazione": null,
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda data del progetto di danza contemporanea di Jacopo Jenna. L'opera integra la pratica del tutting e del popping per creare uno spazio energetico in costante cambiamento, manifestando la percezione della realtà attraverso il movimento astratto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/spettacolo/2026-2027-manifestus",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "vediamoci-in-novi-novantico-di-dicembre-novi-ligure",
+    "titolo": "Vediamoci in Novi: Novantico di dicembre",
+    "categoria": "mercatino",
+    "inizio": "2026-12-26T08:00",
+    "fine": "2026-12-26T18:00",
+    "luogo": "Corso Marenco",
+    "indirizzo": "Corso Romualdo Marenco, 15067 Novi Ligure AL, Italia",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Gran Mercato del Piccolo Antiquariato di dicembre. Le bancarelle espongono arredi, dischi, libri, abbigliamento vintage e oggettistica, con la partecipazione di hobbisti che propongono prodotti handmade a tema natalizio per regali e addobbi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Antiques Di Gaggianesi",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi/vediamoci-in-novi-novantico-di-aprile-682382-2511064-2511649-2513238-2513240-2513241-2513242-2513243-2513244-2513246-2513247-2513248-2513249",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nel-blu-avere-tra-le-braccia-tanta-felicita-novi-ligure",
+    "titolo": "Nel blu, avere tra le braccia tanta felicità",
+    "categoria": "teatro",
+    "inizio": "2027-01-15T21:00",
+    "fine": "2027-01-15T23:00",
+    "luogo": "Teatro Romualdo Marenco",
+    "indirizzo": "Via Nicolò Girardengo, 48, 15067 Novi Ligure AL, Italia",
+    "cap": null,
+    "comune": "006114",
+    "frazione": null,
+    "lat": 44.76516,
+    "lon": 8.79525,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di e con Mario Perrotta che ripercorre il percorso umano e artistico di Domenico Modugno, accompagnando il pubblico tra le note del celebre cantante. Lo spettacolo è stato premiato con l'Ubu 2025 per il Miglior Progetto Sonoro.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Permar Compagnia Mario Perrotta",
+    "fonti": [
+      {
+        "nome": "Comune di Novi Ligure",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.noviligure.al.it/it/eventi/stagione-teatrale-sior-todero-brontolon-2511728-2511739-2519216-2519218",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ora-ti-racconto-montecchio-maggiore",
+    "titolo": "Ora ti racconto",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2026-12-05T12:00",
+    "luogo": "Biblioteca civica",
+    "indirizzo": "Via S. Bernardino, 12, 36075 Montecchio Maggiore VI",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Mattinata di letture animate per bambine e bambini tra i 3 e gli 8 anni a cura di Lisa Tonellotto e Mirko Marchetto. L'incontro utilizza la modulazione della voce e la mimica per coinvolgere i piccoli nella storia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/ora-ti-racconto-701703-727246-727249",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "crea-colora-appendi-montecchio-maggiore",
+    "titolo": "Crea, colora, appendi!",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T14:30",
+    "fine": "2026-12-05T16:30",
+    "luogo": "Museo civico G. Zannato",
+    "indirizzo": "Piazza Marconi Guglielmo, 17, 36075 Montecchio Maggiore-Alte Ceccato VI",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio natalizio per bambini dai 5 agli 11 anni dedicato alla creazione di decorazioni per l'albero di Natale ispirate alla mostra Relics & Comics. Include la realizzazione di addobi da lasciare al museo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Museo Zannato",
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/laboratorio-creativo-crea-colora-appendi-734556",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-il-natale-ad-alte-ceccato-montecchio-maggiore",
+    "titolo": "Aspettando il Natale ad Alte Ceccato",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06T08:00",
+    "fine": "2026-12-06T18:00",
+    "luogo": "Piazza San Paolo",
+    "indirizzo": "Piazza San Paolo, 1, 36075 Montecchio Maggiore-Alte Ceccato VI",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione natalizia del mercatino del tempo libero con usato, artigianato e vintage. Include concerto della Junior Band Montecchio-Gambellara, lavoretti per bambini e accensione dell'albero di Natale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Noi Luogo Comune di Alte Ceccato; Pro Loco Alte Montecchio",
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/accensione-albero-di-natale-ad-alte-696331-734773",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "carofoglio-de-bortoli-la-scrittura-bari",
+    "titolo": "Carofoglio / De Bortoli – La Scrittura",
+    "categoria": "concerto",
+    "inizio": "2027-01-15",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento musicale dedicato al tema della Scrittura. La pagina descrive il rapporto tra la grande musica e i temi della Parola, della Scrittura, della Storia e del Pensiero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cardini-guerra-la-storia-bari",
+    "titolo": "Cardini / Guerra – La Storia",
+    "categoria": "concerto",
+    "inizio": "2027-02-05",
+    "fine": null,
+    "luogo": "Teatro Petruzzelli",
+    "indirizzo": "Bari",
+    "cap": null,
+    "comune": "072006",
+    "frazione": null,
+    "lat": 41.10302,
+    "lon": 16.84576,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento musicale dedicato al tema della Storia. La pagina descrive il rapporto tra la grande musica e i temi della Parola, della Scrittura, della Storia e del Pensiero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Teatro Petruzzelli",
+    "fonti": [
+      {
+        "nome": "Fondazione Teatro Petruzzelli",
+        "tipo": "ufficiale",
+        "url": "https://www.fondazionepetruzzelli.it/category/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-leggere-in-tanti-modi-parole-di-neve-con-la-caa-ancona",
+    "titolo": "Laboratorio \"Leggere in tanti modi: parole di neve con la CAA\"",
+    "categoria": "bambini",
+    "inizio": "2026-11-23T16:30",
+    "fine": "2026-11-23T18:00",
+    "luogo": "Biblioteca Benincasa",
+    "indirizzo": "Piazza Benvenuto Stracca, 2",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura per bambini di 4-7 anni a cura dell'Associazione Fare Leggere Tutti, con creazione di paesaggi innevati in acquerello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Fare Leggere Tutti di Faenza",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/laboratorio-leggere-in-tanti-modi-parole-di-neve-con-la-caa",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ora-del-racconto-ancona-24-11",
+    "titolo": "L'Ora del Racconto",
+    "categoria": "bambini",
+    "inizio": "2026-11-24T16:00",
+    "fine": "2026-11-24T17:00",
+    "luogo": "Biblioteca L'Isola del Tesoro",
+    "indirizzo": "Via Brecce Bianche, 72",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della serie di letture animate per bambini dai 4 agli 8 anni, condotto da Alida Pierini all'interno della biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/serie-di-eventi-l-ora-del-racconto-733451",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "next-job-blue-economy-ad-ancona-ancona",
+    "titolo": "Next Job - Blue Economy ad Ancona",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T17:00",
+    "fine": "2026-11-24T19:00",
+    "luogo": "Piazza Roma",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza sulla Blue Economy che riunisce aziende della cantieristica e del sistema portuale per parlare di professioni e competenze richieste.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/next-job-blue-economy-ad-ancona",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-mondo-che-vorrei-pensieri-d-autunno-ancona",
+    "titolo": "Il mondo che vorrei. Pensieri d'autunno",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T18:00",
+    "fine": "2026-11-24T19:30",
+    "luogo": "Biblioteca del Palazzo degli Anziani",
+    "indirizzo": "Piazza Stracca",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Caffè filosofico di approfondimento della rassegna a cura della SFI Ancona in occasione della Giornata mondiale della filosofia, condotto da Mariagrazia Conti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "SFI Ancona",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/rassegna-di-incontri-il-mondo-che-vorrei-pensieri-d-autunno-733663-733667-733668-733669",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nati-per-leggere-leggimi-perche-cosi-stiamo-insieme-ancona-25-11",
+    "titolo": "Nati per Leggere - Leggimi perché così stiamo insieme",
+    "categoria": "bambini",
+    "inizio": "2026-11-25T16:30",
+    "fine": "2026-11-25T18:00",
+    "luogo": "Biblioteca Benincasa",
+    "indirizzo": "Piazza Benvenuto Stracca, 2",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di lettura per famiglie con bambini dai 0 ai 3 anni, a cura dei volontari del progetto Nati per Leggere di Ancona.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/nati-per-leggere-leggimi-perche-cosi-stiamo-insieme-733909-733913-733914",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-mercoledi-dell-u-n-u-c-i-2026-autunno-ancona",
+    "titolo": "I Mercoledì dell'U.N.U.C.I. 2026 - Autunno",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:00",
+    "fine": null,
+    "luogo": "Sede Ancona U.N.U.C.I.",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della serie di conferenze del ciclo autunnale dell'U.N.U.C.I., tenutosi nella sede locale dell'associazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "U.N.U.C.I.",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "note-di-viaggio-esplorando-universi-altri-ancona",
+    "titolo": "Note di Viaggio - Esplorando Universi Altri",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T19:30",
+    "fine": "2026-11-26T21:00",
+    "luogo": "Mole Vanvitelliana",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione musicale dedicata all'esplorazione di universi sonori e nuovi approcci alla performance, all'interno della stagione cittadina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "les-nuits-barbares-como",
+    "titolo": "Les Nuits Barbares",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T20:30",
+    "fine": "2026-11-27T22:00",
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Como",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura della Stagione Danza con il lavoro iconico di Hervé Koubi, dedicato all'origine della cultura mediterranea, descritto dalla stampa come spettacolare e sublime.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnie Hervé Koubi",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-film-se-domani-non-torno-capannori",
+    "titolo": "Proiezione film 'Se domani non torno'",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T21:00",
+    "fine": null,
+    "luogo": "Cinema Teatro Artè",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Se domani non torno' della regista Paola Randi. Il lungometraggio è ispirato alla storia vera di Giulia Cecchettin, vittima di femminicidio. L'evento è parte della programmazione cinematografica del cinema teatro comunale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "porticoso-christmas-edition-2026-cento",
+    "titolo": "Porticoso Christmas Edition 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Piazza Guercino",
+    "indirizzo": "Piazza Guercino",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione natalizia con bande, cori e musica dal vivo nel centro storico. Il programma include spettacoli, fiabe per bambini e concerti di musica classica. L'evento si svolge nella suggestiva cornice della Rocca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/porticoso-christmas-edition-2026",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "orientare-attraverso-nuove-metodologie-cento",
+    "titolo": "Orientare attraverso nuove metodologie",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T15:00",
+    "fine": "2026-12-01T17:30",
+    "luogo": "Sala \"Franco Zarri\"",
+    "indirizzo": "Piazza Guercino",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato all'esplorazione di nuove metodologie per l'orientamento, come narrazione e realtà virtuale immersiva. Rivolto a docenti e operatori del settore, con la partecipazione di esperti universitari e dell'Informagiovani comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Informagiovani comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/orientare-attraverso-nuove-metodologie",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-dei-nidi-e-accensione-albero-di-natale-cento",
+    "titolo": "Festa dei nidi e accensione Albero di Natale",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-02T16:30",
+    "fine": "2026-12-02T18:30",
+    "luogo": "Piazza Guercino",
+    "indirizzo": "Piazza Guercino",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione natalizia con giochi per grandi e piccoli, accensione dell'albero di Natale accompagnata dai canti del coro del Gruppo Verde. L'evento si conclude con la distribuzione di biscotti e tè caldo ai partecipanti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/festa-dei-nidi-e-accensione-albero-di-natale-734615",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-bottega-dei-piccoli-elfi-la-tela-magica-di-natale-cento",
+    "titolo": "\"La bottega dei piccoli elfi - LA TELA MAGICA DI NATALE\"",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2026-12-05T16:30",
+    "luogo": "Caffè Italia",
+    "indirizzo": "Corso del Guercino, 28, 44042 Cento FE",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo dedicato ai più piccoli, nella 'Bottega dei piccoli elfi'. I bambini potranno cimentarsi in attività manuali e artistiche, dipingendo e personalizzando una tela a tema natalizio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/la-bottega-dei-piccoli-elfi-la-tela-magica-di-natale",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-nel-borgo-del-castello-cento",
+    "titolo": "Natale nel borgo del castello",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T14:30",
+    "fine": "2026-12-13T20:00",
+    "luogo": "Castello della Rocca",
+    "indirizzo": "Rocca di Cento, Corso del Guercino, 44042 Cento FE",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Weekend dedicato ai mercatini di Natale nella cornice della Rocca. L'evento propone idee regalo e atmosfera natalizia, con apertura al pubblico sabato pomeriggio e domenica fino alla sera.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/natale-nel-borgo-del-castello",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-day-dietro-le-quinte-delle-aziende-san-marcello-piteglio",
+    "titolo": "Open day. Dietro le quinte delle aziende",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-28T13:30",
+    "luogo": "Campo Tizzoro",
+    "indirizzo": "Campo Tizzoro",
+    "cap": null,
+    "comune": "047024",
+    "frazione": null,
+    "lat": 44.05282,
+    "lon": 10.79646,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per scoprire cinque aziende della Montagna Pistoiese, tra laboratori e processi produttivi. Partenza da Campo Tizzoro con servizio navetta. Ingresso gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ecomuseo della Montagna Pistoiese",
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/open-day-dietro-le-quinte-delle-aziende",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "volete-sapere-perche-vale-la-pena-vivere-calenzano-06-01",
+    "titolo": "Volete sapere perché vale la pena vivere?",
+    "categoria": "teatro",
+    "inizio": "2027-01-06T18:00",
+    "fine": "2027-01-06T20:00",
+    "luogo": "Teatro Manzoni",
+    "indirizzo": "Via Pietro Mascagni, 18, 50041 Calenzano FI, Italia",
+    "cap": null,
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Omaggio teatrale a Woody Allen con Fabrizio Checcacci, Roberto Andrioli e Lorenzo Degli Innocenti. Musica dal vivo jazz e dixieland. Un elegante cabaret contemporaneo tra parole e musica.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tieffe Teatro/La Macchina del Suono",
+    "fonti": [
+      {
+        "nome": "Comune di Calenzano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.calenzano.fi.it/it/eventi/t-immagini-stagione-teatrale-2026-2027-727199-727200",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "no-good-men-aosta",
+    "titolo": "No Good Men",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T15:30",
+    "fine": null,
+    "luogo": "Cinema",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film \"No Good Men\" di Shahrbanoo Sadat, co-prodotto tra Germania, Francia, Danimarca e Norvegia. La trama segue Naru, unica operatrice televisiva afghana tra colleghi uomini, a Kabul prima del ritorno dei talebani.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Saison Culturelle Valle d'Aosta",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/cinema/no-good-men",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-hangar-rosso-hangar-rojo-aosta",
+    "titolo": "L'Hangar Rosso (Hangar Rojo)",
+    "categoria": "mostra",
+    "inizio": "2026-11-24T18:30",
+    "fine": null,
+    "luogo": "Cinema",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film \"L'Hangar Rosso\" di Juan Pablo Sallato, co-produzione italo-cilena. Thriller ambientato durante il golpe cileno del 1973, con versioni originali sottotitolate in italiano.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Saison Culturelle Valle d'Aosta",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli/cinema/lhangar-rosso-hangar-rojo",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "in-cerca-di-pace-dialoghi-con-persone-in-cammino-pesaro",
+    "titolo": "In cerca di pace. Dialoghi con persone in cammino",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24",
+    "fine": "2026-11-24",
+    "luogo": "Hotel Baia Flaminia",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna promossa dal Centro Culturale Città Ideale. Protagonisti del dialogo sono Fausto Bertinotti e altri ospiti, con focus su temi di pace e cammino sociale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Culturale Città Ideale",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spazio-900-pesaro",
+    "titolo": "Spazio 900",
+    "categoria": "mostra",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-27",
+    "luogo": "Musei Civici",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Apertura di una nuova sezione permanente dedicata al secolo breve. Lo spazio esplora l'identità locale e dialoga con la modernità attraverso opere e testi di autori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "musica-per-santa-cecilia-pesaro",
+    "titolo": "Musica per Santa Cecilia",
+    "categoria": "concerto",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-27",
+    "luogo": "Teatro Rossini",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in onore della Patrona della musica e dei musicisti. L'evento è organizzato dal Conservatorio Rossini per celebrare la Santa con un appuntamento consuetudinario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Conservatorio Rossini",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anna-million-dollar-babe-tour-2026-pesaro",
+    "titolo": "Anna - Million Dollar Babe - Tour 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Vitrifrigo Arena",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di apertura del tour 2026 della cantante Anna. L'appuntamento si terrà alle ore 21:00 presso la Vitrifrigo Arena di Pesaro, segnando l'inizio della serie di date.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-tronco-di-ferro-di-fernando-campigli-pesaro",
+    "titolo": "Il tronco di ferro di Fernando Campigli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-28",
+    "luogo": "Biblioteca San Giovanni",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Il tronco di ferro\" di Fernando Campigli. L'evento editoriale si svolge presso la Biblioteca San Giovanni, un'occasione per il confronto con l'autore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dj-set-tra-musica-e-museo-pesaro-28-11",
+    "titolo": "Dj set tra musica e museo",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-28",
+    "luogo": "Piazza Olivieri",
+    "indirizzo": "Pesaro",
+    "cap": null,
+    "comune": "041044",
+    "frazione": null,
+    "lat": 43.87297,
+    "lon": 12.85592,
+    "coordinateApprossimate": true,
+    "descrizione": "Performance del Rossini Jazz Quartet del Conservatorio Rossini. Un dj set che unisce musica e spazio museale, con il quartetto che si esibisce in piazza Olivieri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rossini Jazz Quartet del Conservatorio Rossini",
+    "fonti": [
+      {
+        "nome": "Comune di Pesaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pesaro.pu.it/novita-in-comune/eventi",
+        "consultata": "2026-11-23"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-23",
+    "inseritoDa": "consegna"
   }
 ]
