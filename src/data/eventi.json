@@ -350839,5 +350839,59 @@
         "consultata": "2026-11-24"
       }
     ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "baggio-a-bologna-spettacolo-cinema-modernissimo-bologna-2026-11-26",
+    "titolo": "«Baggio a Bologna» e premio giornalistico Gianfranco Civolani",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:00",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "descrizione": "Spettacolo di Emilio Marrese e Fernando Pellerano sull'anno di Roberto Baggio al Bologna (1997-98), con letture di articoli di Civolani dell'attore Alessandro Pilloni. Prima si svolge la cerimonia del IV Premio giornalistico Gianfranco Civolani. Biglietti sul sito della Cineteca.",
+    "organizzatore": "Cineteca di Bologna",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCdN8wlHl4/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "frammenti-autoriali-omaggio-a-jacques-tati-biblioteca-ramagli-sarconi-2026-12-06",
+    "titolo": "Frammenti autoriali – omaggio a Jacques Tati",
+    "categoria": "conferenza",
+    "inizio": "2026-12-06T18:30",
+    "luogo": "Biblioteca «N. Ramagli»",
+    "comune": "076081",
+    "lat": 40.22882,
+    "lon": 15.91034,
+    "descrizione": "Proiezione dedicata al regista e attore francese Jacques Tati nella rassegna «Frammenti autoriali» di Marateale, che porta il cinema d'autore in biblioteche, circoli e scuole della Basilicata.",
+    "organizzatore": "Marateale",
+    "fonti": [
+      {
+        "nome": "Instagram Marateale",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgDSMWWlDG1/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
