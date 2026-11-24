@@ -352973,5 +352973,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "i-corti-di-isabella-rossellini-green-porno-cinema-modernissimo-bologna-2026-11-27",
+    "titolo": "I corti di Isabella Rossellini («Green Porno», «Seduce Me», «Mammas»)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T13:00",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "descrizione": "Proiezione dei cortometraggi di Isabella Rossellini sugli animali, tra etologia e fantasia: «Green Porno», «Seduce Me» e «Mammas». Biglietti sul sito della programmazione della Cineteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgC_5WtARlN/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "alchimisti-del-metallo-laboratorio-musei-nazionali-cagliari-2026-11-28",
+    "titolo": "«Alchimisti del metallo» – laboratorio per bambini ai Musei Nazionali di Cagliari",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Musei Nazionali di Cagliari",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "descrizione": "Laboratorio gratuito di circa 2 ore per ragazzi dai 7 ai 12 anni: si scoprono i capolavori della metallurgia antica e si sperimenta la fusione in sicurezza. Posti limitati, prenotazione obbligatoria. Replica alle 16.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgDSsEepQry/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
