@@ -348689,5 +348689,59 @@
     ],
     "inserito": "2026-11-24",
     "inseritoDa": "ia"
+  },
+  {
+    "categoria": "conferenza",
+    "luogo": "Cinema Massimo, Sala 3",
+    "comune": "001272",
+    "lat": 45.0679,
+    "lon": 7.6935,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "slug": "il-principe-e-la-ballerina-retrospettiva-marilyn-monroe-tff44-cinema-massimo-torino-2026-11-29",
+    "titolo": "«Il principe e la ballerina» – retrospettiva Marilyn Monroe (TFF44)",
+    "inizio": "2026-11-29T22:30",
+    "descrizione": "Proiezione del film del 1957 nella retrospettiva di 24 film che il 44° Torino Film Festival dedica a Marilyn Monroe nel centenario della nascita. Introduce Alessandra De Luca.",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgF4Oi6iMmz/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "categoria": "conferenza",
+    "luogo": "Cinema Massimo, Sala 3",
+    "comune": "001272",
+    "lat": 45.0679,
+    "lon": 7.6935,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Torino Film Festival",
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "slug": "fermata-d-autobus-retrospettiva-marilyn-monroe-tff44-cinema-massimo-torino-2026-11-28",
+    "titolo": "«Fermata d'autobus» – retrospettiva Marilyn Monroe (TFF44)",
+    "inizio": "2026-11-28T15:00",
+    "descrizione": "Proiezione del film del 1956 diretto da Joshua Logan nella retrospettiva dedicata a Marilyn Monroe dal 44° Torino Film Festival. Introduce Laura Delli Colli.",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgGEMgHCJ6u/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
