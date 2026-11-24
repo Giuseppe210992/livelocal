@@ -353028,5 +353028,115 @@
         "consultata": "2026-11-24"
       }
     ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "villaggio-di-natale-piazza-don-todeschini-brembate-2026-12-13",
+    "titolo": "Villaggio di Natale a Brembate",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T09:00",
+    "fine": "2026-12-13T18:00",
+    "luogo": "Piazza Don Todeschini",
+    "comune": "016037",
+    "lat": 45.60811,
+    "lon": 9.54801,
+    "descrizione": "Giornata di Natale in piazza con Babbo Natale, bancarelle di hobbisti, trenino con tour guidati alle 10 e alle 15, gonfiabili e truccabimbi, panettone solidale. Alle 10:30 albero ai nuovi nati, alle 11:30 consegna della Costituzione ai diciottenni, alle 20:30 concerto della banda in chiesa.",
+    "organizzatore": "Comune di Brembate",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Brembate",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCbwilGjt9/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "mercatini-di-natale-di-grone-grone-2026-12-06",
+    "titolo": "Mercatini di Natale di Grone",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06T10:00",
+    "fine": "2026-12-06T18:00",
+    "luogo": "Borgo di Grone",
+    "comune": "016119",
+    "lat": 45.73079,
+    "lon": 9.93099,
+    "descrizione": "Giornata nel borgo con bancarelle, giochi, spettacoli e musica, area ristoro con showcooking e frittelle, incontro con gli alpaca, mostra pittorica «Maestri di Grone», Museo delle arti e dei mestieri e museo diffuso.",
+    "organizzatore": "Comune di Grone e Colli di San Fermo",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Grone e Colli di San Fermo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgDxG6eFCgh/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "giungla-d-asfalto-retrospettiva-marilyn-monroe-tff44-cinema-massimo-torino-2026-11-25",
+    "titolo": "«Giungla d'asfalto» – retrospettiva Marilyn Monroe (TFF44)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:15",
+    "luogo": "Cinema Massimo, Sala 3",
+    "comune": "001272",
+    "lat": 45.0679,
+    "lon": 7.6935,
+    "descrizione": "Proiezione del film di John Huston del 1950, tra i 24 della retrospettiva dedicata a Marilyn Monroe dal 44° Torino Film Festival. Introduce Elena Loewenthal.",
+    "organizzatore": "Torino Film Festival",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCmaAuCNs0/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "slug": "marilyn-monroe-cent-anni-di-desiderio-giulio-base-auditorium-intesa-sanpaolo-torino-2026-11-27",
+    "titolo": "«Marilyn Monroe: cent'anni di desiderio» con Giulio Base",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "luogo": "Auditorium del grattacielo Intesa Sanpaolo",
+    "comune": "001272",
+    "lat": 45.0626,
+    "lon": 7.6645,
+    "descrizione": "Giulio Base presenta «Giungla d'asfalto» nell'incontro dedicato a Marilyn Monroe, nel programma del 44° Torino Film Festival. Ingresso gratuito con prenotazione obbligatoria sul sito di Intesa Sanpaolo.",
+    "organizzatore": "Torino Film Festival",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCmaAuCNs0/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
