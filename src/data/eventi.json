@@ -353949,5 +353949,88 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "comune": "023043",
+    "lat": 45.4859,
+    "lon": 10.71083,
+    "organizzatore": "Comune di Lazise",
+    "slug": "illumina-lazise-accensione-luci-di-natale-lazise-2026-12-04",
+    "titolo": "Illumina Lazise – accensione delle luci di Natale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-04T18:00",
+    "luogo": "Piazza Vittorio Emanuele II",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "descrizione": "Serata di apertura del Natale con il «Borgo dei Desideri» dal vivo, l'accensione delle luci insieme a Babbo Natale, i saluti istituzionali e il concerto del Coro Costabella.",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Lazise",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgHlkxkhbMy/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "comune": "023043",
+    "lat": 45.4859,
+    "lon": 10.71083,
+    "organizzatore": "Comune di Lazise",
+    "slug": "lazise-si-racconta-intelligenza-artificiale-laura-pasquardini-pacengo-2026-12-02",
+    "titolo": "Lazise si racconta: l'intelligenza artificiale con Laura Pasquardini",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T20:30",
+    "luogo": "Centro Polifunzionale Marinoni",
+    "indirizzo": "Via Croce Papale 2, Pacengo",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "descrizione": "Incontro della rassegna «Lazise si racconta 2026/2027» sull'impatto dell'intelligenza artificiale sulla scienza e sulla vita quotidiana. Ingresso libero.",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Lazise",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgH2QGhBffy/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "comune": "023043",
+    "lat": 45.4859,
+    "lon": 10.71083,
+    "organizzatore": "Comune di Lazise",
+    "slug": "presepi-in-san-nicolo-lael-chiesa-di-san-nicolo-lazise-2026-12-05",
+    "titolo": "Presepi in San Nicolò – inaugurazione e mostra",
+    "categoria": "mostra",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2027-01-10T18:00",
+    "luogo": "Chiesa di San Nicolò",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "descrizione": "Inaugurazione alle 10:30 della mostra dei presepi realizzati dalla L.A.E.L. nella chiesa di San Nicolò. Visitabile tutti i giorni dalle 10 alle 18 fino al 10 gennaio.",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Lazise",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgIV1v9P-Tb/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
