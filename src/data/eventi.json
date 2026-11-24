@@ -353248,5 +353248,706 @@
     ],
     "inserito": "2026-11-24",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "natale-al-castello-visconti-somma-lombardo",
+    "titolo": "Natale al Castello Visconti",
+    "categoria": "mercatino",
+    "inizio": "2026-12-05T14:00",
+    "fine": null,
+    "luogo": "Piazza Carlo Ermes Visconti",
+    "indirizzo": "Piazza Carlo Ermes Visconti, 1 - 21019 Somma Lombardo (VA) - Italia",
+    "cap": null,
+    "comune": "012123",
+    "frazione": null,
+    "lat": 45.66892,
+    "lon": 8.69869,
+    "coordinateApprossimate": true,
+    "descrizione": "17ª edizione dei Mercatini di Natale al Castello Visconti con oltre 100 espositori, area gusti e sapori, animazione per bambini, giochi di luce, proiezioni sul castello, spettacoli, letture e cori. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Natale Al Castello - Fiera Artigiani",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Somma Lombardo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-natale-al-castello-visconti-somma-lombardo-va-2",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "chaos-lascio-andare-per-creare-nuovi-spazi-arco",
+    "titolo": "Chaos lascio andare per creare nuovi spazi",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T14:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Awen Centro Discipline Olistiche",
+    "indirizzo": "Via Santa Caterina",
+    "cap": null,
+    "comune": "022006",
+    "frazione": null,
+    "lat": 45.92918,
+    "lon": 10.90593,
+    "coordinateApprossimate": true,
+    "descrizione": "Classe di danza dedicata all'Onda, focalizzata sul terzo Ritmo, Chaos. Attraverso la musica ci si lascia andare ai propri impulsi e alla parte più selvaggia, liberando testa, spina dorsale e controllo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Arco",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-chaos-lascio-andare-per-creare-nuovi-spazi-arco-tn",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bellavista-al-castello-di-gabbiano-chianti-san-casciano-in-val-di-pesa",
+    "titolo": "Bellavista al Castello di Gabbiano (Chianti)",
+    "categoria": "sport",
+    "inizio": "2026-12-12T09:30",
+    "fine": "2026-12-12T16:00",
+    "luogo": "Castello di Gabbiano",
+    "indirizzo": "San Casciano in Val di Pesa",
+    "cap": null,
+    "comune": "048038",
+    "frazione": null,
+    "lat": 43.6418,
+    "lon": 11.19905,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata ad anello di circa 14 km sulle colline di San Casciano, lungo la Via Romea del Chianti. Si attraversano il Castello di Gabbiano, la Torre di Luciana, le Terre Antinori e i borghi di Valigondoli e Vignano. Percorso su strade bianche e sentieri, difficoltà facile, dislivello 350 m. Include servizio guida ambientale. Quota di partecipazione 18 €, sconto 8 € per soci Chianti Mutua. Ritrovo ore 9:30 zona Mercatale, rientro previsto entro le 16:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Casciano in Val di Pesa",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-bellavista-al-castello-di-gabbiano-chianti",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "andar-per-erbe-da-mangiare-san-casciano-in-val-di-pesa",
+    "titolo": "Andar per Erbe da mangiare",
+    "categoria": "visita-guidata",
+    "inizio": "2027-04-01T09:30",
+    "fine": "2027-04-01T15:30",
+    "luogo": "Pizzeria la Carbonaia",
+    "indirizzo": "San Casciano in Val di Pesa",
+    "cap": null,
+    "comune": "048038",
+    "frazione": null,
+    "lat": 43.6418,
+    "lon": 11.19905,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata di circa 5 km alla scoperta delle erbe di campo commestibili. Si riconoscono cicorie, cicerbite, crepis, rosolacci, tarassaco e altre specie primaverili. Segue una piccola sessione pratica per imparare a usarle in cucina, crude o cotte. Sentieri di campo e strade bianche, dislivello 100 m. Quota 23 €, sconto 8 € per soci Chianti Mutua. Gruppo limitato a 10 partecipanti. Ritrovo ore 9:30 (luogo preciso comunicato agli iscritti), rientro previsto entro le 15:30.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Casciano in Val di Pesa",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-andar-per-erbe-da-mangiare",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rossometile-metal-fest-iii-trick-or-treat-5rand-rossometile-baronissi",
+    "titolo": "Rossometile Metal Fest III – Trick Or Treat 5Rand Rossometile",
+    "categoria": "concerto",
+    "inizio": "2027-04-16T20:00",
+    "fine": null,
+    "luogo": "Empire Club Event",
+    "indirizzo": "Via Giustino Fortunato",
+    "cap": null,
+    "comune": "065013",
+    "frazione": null,
+    "lat": 40.74046,
+    "lon": 14.77981,
+    "coordinateApprossimate": true,
+    "descrizione": "Terza edizione del Rossometile Metal Fest con la line-up di Trick Or Treat, 5Rand e Rossometile. Il festival propone heavy metal e melodic death metal presso l'Empire Club Event di Baronissi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rossometile",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Baronissi",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-rossometile-metal-fest-iii-trick-or-treat-5rand-rossometile-baronissi-sa",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corso-di-risveglio-preganziol-tv-lezione-1-preganziol",
+    "titolo": "Corso Di Risveglio Preganziol (Tv) – Lezione 1",
+    "categoria": "conferenza",
+    "inizio": "2027-04-11T10:00",
+    "fine": "2027-04-11T18:00",
+    "luogo": "Hotel Crystal",
+    "indirizzo": "Via Baratta nuova",
+    "cap": null,
+    "comune": "026063",
+    "frazione": null,
+    "lat": 45.60749,
+    "lon": 12.22673,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di Trabajo su di sé con Riccardo Sadè e Antonio Monteleone sul tema del cambiamento del punto di vista e della trasformazione interiore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Un altro punto di vista",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Preganziol",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-corso-di-risveglio-preganziol-tv-lezione-1",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperipaint-domenica-29-novembre-time-calenzano-calenzano",
+    "titolo": "AperiPaint – Domenica 29 Novembre @TIME (Calenzano)",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T18:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Via Giuseppe Giusti, 128",
+    "indirizzo": "Via Giuseppe Giusti, 128 - 50041 Calenzano (FI) - Italia",
+    "cap": null,
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Aperitivo pittorico a tema tramonto con Elena Guarnieri. Include workshop e un calice di vino. Max 15 posti con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "TIME Calenzano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calenzano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-aperipaint-domenica-29-novembre-time-calenzano-fi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cena-con-delitto-mercoledi-9-dicembre-time-calenzano-calenzano",
+    "titolo": "Cena con Delitto – Mercoledì 9 Dicembre @TIME (Calenzano)",
+    "categoria": "teatro",
+    "inizio": "2026-12-09T20:00",
+    "fine": "2026-12-09T22:30",
+    "luogo": "Via Giuseppe Giusti, 128",
+    "indirizzo": "Via Giuseppe Giusti, 128 - 50041 Calenzano (FI) - Italia",
+    "cap": null,
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena teatrale interattiva con menu completo (antipasto, pizza, dolce, acqua e drink) e traccia di un delitto da risolvere tra i commensali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": null,
+    "organizzatore": "TIME Calenzano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calenzano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cena-con-delitto-mercoledi-9-dicembre-time-calenzano-fi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "crea-la-tua-candela-domenica-6-dicembre-time-calenzano-calenzano",
+    "titolo": "Crea la tua Candela – Domenica 6 Dicembre @TIME (Calenzano)",
+    "categoria": "bambini",
+    "inizio": "2026-12-06T21:00",
+    "fine": "2026-12-06T23:00",
+    "luogo": "Via Giuseppe Giusti, 128",
+    "indirizzo": "Via Giuseppe Giusti, 128 - 50041 Calenzano (FI) - Italia",
+    "cap": null,
+    "comune": "048005",
+    "frazione": null,
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo guidato da Nido Artistico per realizzare una candela. Include workshop e un calice di vino. Max 15 posti con prenotazione.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "TIME Calenzano",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calenzano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-crea-la-tua-candela-domenica-6-dicembre-time-calenzano-fi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sunday-cars-christmas-special-lamborghini-experience-maranello",
+    "titolo": "Sunday Cars Christmas Special – Lamborghini Experience",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-29T17:00",
+    "luogo": "Motor Valley",
+    "indirizzo": "Via Fornace",
+    "cap": null,
+    "comune": "036019",
+    "frazione": null,
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate nella Motor Valley dedicate alle supercar e alla musica live con DJ set ed entertainment. Domеника 29 novembre il Museo Ferruccio Lamborghini sarà in esclusiva, con pranzo natalizio, lotteria e ricavato devoluto in beneficenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Maranello",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-sunday-cars-christmas-special-lamborghini-experience-maranello-mo",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "remedy-acoustic-duo-live-beer-stop-maranello-maranello",
+    "titolo": "Remedy Acoustic Duo Live – Beer Stop Maranello",
+    "categoria": "concerto",
+    "inizio": "2027-04-16T21:30",
+    "fine": "2027-04-16T23:30",
+    "luogo": "Beer Stop Maranello",
+    "indirizzo": "Via Nicola Fabrizi",
+    "cap": null,
+    "comune": "036019",
+    "frazione": null,
+    "lat": 44.5081,
+    "lon": 10.8701,
+    "coordinateApprossimate": true,
+    "descrizione": "Duo acustico bolognese formato da Francesco Grandi (voce) e Agostino Raimo (chitarra e cori). Repertorio rock dalle cover degli anni '60 al 2020, mescolato a composizioni originali, in un locale con birra e cucina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Remedy Acoustic Duo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Maranello",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-remedy-acoustic-duo-live-beer-stop-maranello-mo",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "si-accendono-le-luminarie-medicina",
+    "titolo": "Si Accendono Le Luminarie!",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-03T17:00",
+    "fine": "2026-12-03T19:00",
+    "luogo": "Piazza Giuseppe Garibaldi",
+    "indirizzo": "Piazza Giuseppe Garibaldi, 39",
+    "cap": null,
+    "comune": "037037",
+    "frazione": null,
+    "lat": 44.51433,
+    "lon": 11.6691,
+    "coordinateApprossimate": true,
+    "descrizione": "Accensione delle luminarie nel centro di Medicina con Casetta di Babbo Natale in Piazza Garibaldi, dove si possono imbucare le letterine. Brindisi offerto a tutti i presenti con stuzzicheria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "APS Pro Loco Medicina",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Medicina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-si-accendono-le-luminarie-medicina-bo",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "canti-di-natale-a-sostegno-delle-scuole-materne-di-usokami-e-mapanda-t-medicina",
+    "titolo": "Canti di Natale a sostegno delle scuole materne di Usokami e Mapanda (Tanzania)",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T20:30",
+    "fine": "2026-12-05T22:30",
+    "luogo": "Sala parrocchiale Giovanni Paolo II",
+    "indirizzo": "Via Ignazio Cuscini, 26",
+    "cap": null,
+    "comune": "037037",
+    "frazione": null,
+    "lat": 44.51433,
+    "lon": 11.6691,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di canti di Natale con il gruppo musicale Vocal Vibes e il Bologna Glee Club. L'evento sostiene le scuole materne di Usokami e Mapanda in Tanzania. Ingresso del pubblico alle ore 20:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Progetto Speranza Onlus",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Medicina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-canti-di-natale-a-sostegno-delle-scuole-materne-di-usokami-e-mapanda-tanzania-medicina-bo-2",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "season-of-the-dead-turbowitch-at-centrale-rock-pub-erba",
+    "titolo": "Season of the dead – Turbowitch at Centrale rock pub",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T20:00",
+    "fine": "2026-11-27T22:00",
+    "luogo": "Rock Centrale",
+    "indirizzo": "Via cascina California - 22036 Erba (CO)",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto death metal con Season Of The Dead, progetto di Titta Tani (ex Necrophagia, ex Goblin Legacy) con ospite John McEntee (Incantation), più Woundead, nell’ambito del Bring ’Em The Hell Eurotour 2026.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Grave Sin Bookings",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Erba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-season-of-the-dead-turbowitch-at-centrale-rock-pub-erba-co",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "myllenyals-american-road-saloon-erba",
+    "titolo": "MYLLENYALS – American Road Saloon",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T22:00",
+    "fine": "2026-11-29T00:00",
+    "luogo": "American Road Saloon",
+    "indirizzo": "22036 Erba (CO)",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Live show dedicato alla Generazione Y, con le maggiori hit degli anni ’90-2000, proiezioni video, effetti speciali e un set che richiama MTV, Festivalbar e i grandi gruppi del millennio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Myllenyals",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Erba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-myllenyals-american-road-saloon-erba-co-3",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "erba-in-vinile-8-edizione-al-centrale-rock-pub-erba",
+    "titolo": "Erba in Vinile – 8ª edizione al Centrale Rock Pub",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T14:00",
+    "fine": "2026-12-13T16:00",
+    "luogo": "Rock Centrale",
+    "indirizzo": "Via cascina California - 22036 Erba (CO)",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Expo-market-scambio di dischi in vinile di tutti i generi, memorabilia e merchandise, con selezione a cura dei DJ dell’Associazione 33&45 e prelibatezze del bar e della cucina del Centrale Rock Pub.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "33&45 - fieradeldisco.com",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Erba",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-erba-in-vinile-8o-edizione-al-centrale-rock-pub-co",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-a-lume-di-candela-per-quartetto-d-archi-pop-gussago",
+    "titolo": "Concerto A Lume Di Candela Per Quartetto D'archi Pop",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Auditorium Camillo Togni",
+    "indirizzo": "Via Giancarlo Peracchia 11, 25064 Gussago (BS)",
+    "cap": null,
+    "comune": "017081",
+    "frazione": null,
+    "lat": 45.59023,
+    "lon": 10.15122,
+    "coordinateApprossimate": true,
+    "descrizione": "Il quartetto d'archi ELITE propone un repertorio pop in un ambiente illuminato da centinaia di candele. Durata circa 60 minuti, porte aperte 30 minuti prima. Prenotazione obbligatoria tramite sito web.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Lombardia Segreta",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gussago",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-a-lume-di-candela-per-quartetto-darchi-pop-nellauditorium-camillo-togni-di-gussago-bs",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-natalizio-a-lume-di-candela-violino-pop-gussago",
+    "titolo": "Concerto Natalizio A Lume Di Candela Violino Pop",
+    "categoria": "concerto",
+    "inizio": "2026-12-26T17:00",
+    "fine": "2026-12-26T19:00",
+    "luogo": "Auditorium Camillo Togni",
+    "indirizzo": "Via Giancarlo Peracchia 11, 25064 Gussago (BS)",
+    "cap": null,
+    "comune": "017081",
+    "frazione": null,
+    "lat": 45.59023,
+    "lon": 10.15122,
+    "coordinateApprossimate": true,
+    "descrizione": "Violino pop esegue melodie natalizie e brani contemporanei in una suggestiva atmosfera a lume di candela. Durata circa 60 minuti, prenotazione obbligatoria. Ingresso consentito fino all'inizio del concerto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 22
+    },
+    "prenotazione": null,
+    "organizzatore": "Lombardia Segreta",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gussago",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-natalizio-a-lume-di-candela-violino-pop-nellauditorium-camillo-togni-di-gussago-bs",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laguna-pulse-28-novembre-pescantina",
+    "titolo": "Laguna Pulse – 28 Novembre",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T18:00",
+    "fine": "2026-11-28T20:00",
+    "luogo": "Via Valpolicella",
+    "indirizzo": "Pescantina",
+    "cap": null,
+    "comune": "023058",
+    "frazione": null,
+    "lat": 45.49065,
+    "lon": 10.86121,
+    "coordinateApprossimate": true,
+    "descrizione": "Pool Party con musica dal vivo, DJ set, luci e laser show. L'acqua incontra una nuova energia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Aquardens - Terme Verona",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pescantina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-laguna-pulse-28-novembre-pescantina-vr",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "high-voltage-ac-dc-tribute-the-jiminy-pescantina",
+    "titolo": "High Voltage – Ac Dc Tribute – The Jiminy",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "The Jiminy",
+    "indirizzo": "Pescantina",
+    "cap": null,
+    "comune": "023058",
+    "frazione": null,
+    "lat": 45.49065,
+    "lon": 10.86121,
+    "coordinateApprossimate": true,
+    "descrizione": "Tributo live agli AC/DC dal titolo 'High Voltage', serata rock con posti a sedere limitati, prenotazione consigliata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "The Jiminy",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pescantina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-high-voltage-ac-dc-tribute-the-jiminy-pescantina-vr",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "afro-night-dj-icio-dj-loa-the-jiminy-pescantina",
+    "titolo": "Afro Night – Dj Icio Dj Loa – The Jiminy",
+    "categoria": "concerto",
+    "inizio": "2027-05-14T22:00",
+    "fine": "2027-05-15T00:00",
+    "luogo": "The Jiminy",
+    "indirizzo": "Pescantina",
+    "cap": null,
+    "comune": "023058",
+    "frazione": null,
+    "lat": 45.49065,
+    "lon": 10.86121,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata AFRO NIGHT con DJ ICIO e DJ LOA, due DJs che faranno ballare tutta la notte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "The Jiminy",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pescantina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-afro-night-dj-icio-dj-loa-the-jiminy-pescantina-vr",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-24",
+    "inseritoDa": "consegna"
   }
 ]
