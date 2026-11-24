@@ -349131,5 +349131,90 @@
     ],
     "inserito": "2026-11-24",
     "inseritoDa": "ia"
+  },
+  {
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "le-marocchinate-del-44-proiezione-teatro-nuovo-treviglio-2026-11-24",
+    "titolo": "«Le marocchinate del '44» – proiezione del docufilm",
+    "categoria": "conferenza",
+    "inizio": "2026-11-24T20:45",
+    "luogo": "Teatro Nuovo Treviglio",
+    "comune": "016219",
+    "lat": 45.53062,
+    "lon": 9.59444,
+    "descrizione": "Proiezione del docufilm del 2023 di Damiana Leone, nel calendario cittadino per la Giornata contro la violenza sulle donne. Promossa dal Consiglio delle donne con il sostegno del Comune.",
+    "organizzatore": "Comune di Treviglio",
+    "fonti": [
+      {
+        "nome": "Instagram Città di Treviglio",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFKkzklgGf/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "alla-scoperta-della-casa-di-comunita-castenedolo-2026-11-25",
+    "titolo": "Alla scoperta della Casa di Comunità",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:00",
+    "fine": "2026-11-25T20:00",
+    "luogo": "Sala Polivalente di Palazzo Frera",
+    "indirizzo": "Via Giacomo Matteotti 9",
+    "comune": "017043",
+    "lat": 45.46729,
+    "lon": 10.29531,
+    "descrizione": "Incontro divulgativo di ASST Spedali Civili di Brescia sui servizi, i professionisti e i percorsi di cura delle Case di Comunità del Distretto Brescia Est.",
+    "organizzatore": "ASST Spedali Civili di Brescia",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgosatollo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFUlBGRCcN/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "aspettando-il-natale-fit-music-walk-borgosatollo-2026-12-06",
+    "titolo": "Aspettando il Natale: Fit & Music Walk",
+    "categoria": "sport",
+    "inizio": "2026-12-06T14:00",
+    "fine": "2026-12-06T21:00",
+    "luogo": "Centro storico di Borgosatollo",
+    "comune": "017021",
+    "lat": 45.47848,
+    "lon": 10.23938,
+    "descrizione": "Pomeriggio di avvento nel centro storico con la Fit & Music Walk di Audax Outdoor, una camminata a ritmo di musica con cuffie incluse. Cuffie da prenotare tramite il QR code della locandina.",
+    "organizzatore": "Comune di Borgosatollo",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgosatollo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgGIfnkRrDC/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
