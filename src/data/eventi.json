@@ -349076,5 +349076,32 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accensione-dell-albero-di-natale-sizzano-2026-12-12",
+    "titolo": "Accensione dell'albero di Natale a Sizzano",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-12",
+    "luogo": "Sizzano",
+    "comune": "003139",
+    "lat": 45.57729,
+    "lon": 8.44313,
+    "coordinateApprossimate": true,
+    "descrizione": "La Pro Loco di Sizzano apre il Natale in paese con l'accensione delle luci dell'albero, insieme agli alunni della scuola primaria. Orario e punto esatto non indicati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Pro Loco Sizzano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Pro Loco Sizzano",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgE1YaPvSh-/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
