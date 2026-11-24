@@ -353138,5 +353138,87 @@
         "consultata": "2026-11-24"
       }
     ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "orchestra-sinfonica-inclusiva-esagramma-mudec-milano-2026-12-01",
+    "titolo": "Orchestra Sinfonica Inclusiva Esagramma: concerto e prova aperta al MUDEC",
+    "categoria": "concerto",
+    "inizio": "2026-12-01",
+    "luogo": "MUDEC – Museo delle Culture",
+    "comune": "015146",
+    "lat": 45.4513,
+    "lon": 9.1624,
+    "descrizione": "Nella settimana dei diritti delle persone con disabilità, l'orchestra Esagramma racconta la sua storia e guida il pubblico in una prova aperta in cui si può suonare insieme ai musicisti. Partecipazione gratuita con iscrizione su Eventbrite (link nel profilo del museo). Orario non indicato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "MUDEC – Museo delle Culture",
+    "fonti": [
+      {
+        "nome": "Instagram MUDEC",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgHwwhHjc6N/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "cuoghi-corsello-tra-le-nuvole-secondo-atto-inaugurazione-mambo-bologna-2026-12-01",
+    "titolo": "Cuoghi Corsello. Tra le nuvole – inaugurazione del secondo atto",
+    "categoria": "mostra",
+    "inizio": "2026-12-01T17:30",
+    "fine": "2026-12-01T20:00",
+    "luogo": "MAMbo, Sala delle Ciminiere",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "descrizione": "Inaugurazione del secondo atto della mostra curata da Lorenzo Balbi e Fulvio Chimento, con un nuovo allestimento di moquette, lenzuola e tele preparate. La mostra resta visitabile fino al 10 gennaio 2027. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "MAMbo – Museo d'Arte Moderna di Bologna",
+    "fonti": [
+      {
+        "nome": "Instagram MAMbo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgH56upGQ9w/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "ugo-la-pietra-domus-domo-inaugurazione-museo-man-nuoro-2026-11-27",
+    "titolo": "Ugo La Pietra. Domus, Domo – inaugurazione della mostra",
+    "categoria": "mostra",
+    "inizio": "2026-11-27T18:00",
+    "luogo": "MAN – Museo d'Arte della Provincia di Nuoro",
+    "comune": "114027",
+    "lat": 40.33944,
+    "lon": 9.29952,
+    "descrizione": "Inaugurazione della mostra curata da Gabi Scardi sulla ricerca di Ugo La Pietra: come ci si sente a casa anche fuori dalle mura domestiche. La mostra apre al pubblico venerdì 27 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "MAN – Museo d'Arte della Provincia di Nuoro",
+    "fonti": [
+      {
+        "nome": "Instagram MAN Nuoro",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgH39gHNuNj/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
