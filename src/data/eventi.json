@@ -348608,5 +348608,86 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "categoria": "conferenza",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "slug": "la-provinciale-di-mario-soldati-cinema-modernissimo-bologna-2026-11-27",
+    "titolo": "«La provinciale» di Mario Soldati",
+    "inizio": "2026-11-27T19:30",
+    "descrizione": "Proiezione del film del 1953 di Mario Soldati, tratto da Moravia, con costruzione a flashback e lunghi piani-sequenza. Biglietti sul sito della programmazione della Cineteca.",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFD19hnG3U/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "categoria": "conferenza",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "slug": "incontri-ravvicinati-del-terzo-tipo-director-s-cut-cinema-modernissimo-bologna-2026-11-27",
+    "titolo": "«Incontri ravvicinati del terzo tipo» (Director's Cut)",
+    "inizio": "2026-11-27T22:00",
+    "descrizione": "Proiezione del film di Steven Spielberg del 1977, nella versione Director's Cut. Biglietti sul sito della programmazione della Cineteca.",
+    "fonti": [
+      {
+        "nome": "Instagram Cineteca di Bologna",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFvsamCRYs/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "slug": "l-identita-visiva-in-un-testo-museale-ex-regio-museo-cagliari-2026-11-26",
+    "titolo": "L'identità visiva in un «testo museale» e nella funzione educativa di un museo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T18:00",
+    "luogo": "Ex Regio Museo, Sala Ferruccio Barreca",
+    "comune": "118006",
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con il grafico e designer Francesco Sogos nella rassegna «Dialoghi di archeologia, architettura, arte e paesaggio». Si può seguire anche in diretta streaming su Facebook e YouTube.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Nazionali di Cagliari",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Musei Nazionali Cagliari",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFIzyIB5rY/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
