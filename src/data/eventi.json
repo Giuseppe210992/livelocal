@@ -344411,5 +344411,173 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-matera-2026-12-04",
+    "titolo": "Mercatini di Natale di Matera",
+    "categoria": "mercatino",
+    "inizio": "2026-12-04",
+    "fine": "2027-01-06",
+    "luogo": "Piazza Vittorio Veneto, via La Vista e via Don Minzoni",
+    "comune": "077014",
+    "lat": 40.6699,
+    "lon": 16.57851,
+    "coordinateApprossimate": true,
+    "descrizione": "Dal 4 dicembre al 6 gennaio i mercatini di Natale con artigianato, prodotti tipici e iniziative culturali, nel programma «Matera. Born for Christmas» del Comune di Matera, Capitale Mediterranea della Cultura e del Dialogo 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Matera",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Basilicata Media",
+        "tipo": "stampa",
+        "url": "https://basilicatamedia.it/natale-matera-2026-born-for-christmas-eventi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "suoni-nei-vicinati-il-natale-nei-sassi-e-nel-centro-storico-matera-2026-12-02",
+    "titolo": "Suoni nei vicinati – Il Natale nei Sassi e nel centro storico",
+    "categoria": "concerto",
+    "inizio": "2026-12-02T17:00",
+    "fine": "2027-01-06T19:30",
+    "luogo": "Sassi e centro storico di Matera",
+    "comune": "077014",
+    "lat": 40.6699,
+    "lon": 16.57851,
+    "coordinateApprossimate": true,
+    "descrizione": "Musica da camera, jazz e contemporanea in collaborazione con il Conservatorio di Matera, ogni mercoledì e domenica dalle 17 alle 19.30 dal 2 dicembre al 6 gennaio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Matera",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Basilicata Media",
+        "tipo": "stampa",
+        "url": "https://basilicatamedia.it/natale-matera-2026-born-for-christmas-eventi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "i-tesori-dalla-terra-tartufo-bianco-di-basilicata-matera-2026-11-20",
+    "titolo": "«I tesori dalla terra»: il tartufo bianco pregiato di Basilicata",
+    "categoria": "sagra",
+    "inizio": "2026-11-20",
+    "fine": "2026-11-29",
+    "luogo": "Palazzo Malvinni Malvezzi e Piazza San Francesco",
+    "comune": "077014",
+    "lat": 40.6699,
+    "lon": 16.57851,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento dedicato al tartufo bianco pregiato di Basilicata, dal 20 al 29 novembre, nel programma natalizio «Matera. Born for Christmas».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Matera",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Basilicata Media",
+        "tipo": "stampa",
+        "url": "https://basilicatamedia.it/natale-matera-2026-born-for-christmas-eventi",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "sagra-della-cima-di-rapa-minervino-murge-2026-11-28",
+    "titolo": "Sagra della Cima di Rapa",
+    "categoria": "sagra",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Vicoli della Scesciola",
+    "comune": "110006",
+    "lat": 41.08072,
+    "lon": 16.07939,
+    "coordinateApprossimate": true,
+    "descrizione": "Il borgo si trasforma in un laboratorio del gusto a cielo aperto per celebrare la cima di rapa, prodotto simbolo della Murgia, tra orecchiette e convivialità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Minervino Murge",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Buonasera24",
+        "tipo": "stampa",
+        "url": "https://www.buonasera24.it/news/speciale-festivita/934803/cosa-fare-in-puglia-concerti-festival-sagre-e-spettacoli-da-taranto-a-bari.html",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "pettole-nelle-gnostre-e-cioccolato-in-sagra-noci-2026-12-05",
+    "titolo": "«Pettole nelle gnostre e cioccolato in sagra»",
+    "categoria": "sagra",
+    "inizio": "2026-12-05T18:00",
+    "fine": "2026-12-06T20:00",
+    "luogo": "Centro storico di Noci",
+    "comune": "072031",
+    "lat": 40.76489,
+    "lon": 17.10036,
+    "coordinateApprossimate": true,
+    "descrizione": "Il centro storico diventa un teatro a cielo aperto tra musica, colori e profumi, con le pettole della tradizione e le prelibatezze al cioccolato. Ingresso dalle 18 alle 20.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Noci",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Buonasera24",
+        "tipo": "stampa",
+        "url": "https://www.buonasera24.it/news/speciale-festivita/934803/cosa-fare-in-puglia-concerti-festival-sagre-e-spettacoli-da-taranto-a-bari.html",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "taranto-eco-film-festival-4-edizione-taranto-2026-11-24",
+    "titolo": "Taranto Eco Film Festival – 4ª edizione",
+    "categoria": "mostra",
+    "inizio": "2026-11-24",
+    "fine": "2026-11-28",
+    "luogo": "Teatro Fusco e altre sale di Taranto",
+    "comune": "073027",
+    "lat": 40.46367,
+    "lon": 17.30076,
+    "coordinateApprossimate": true,
+    "descrizione": "Cinema internazionale e concorsi con giurie ufficiali: il 24/11 «From Ground Zero» di Rashid Masharawi con dibattito con Gad Lerner (ore 19.30), il 25/11 omaggio a Gillo Pontecorvo e «La battaglia di Algeri» (10.30 e 19.30), poi il focus Spagna con Carla Simón (26), Rodrigo Sorogoyen (27) e Montse Triola con Albert Serra (28).",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Taranto Eco Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Buonasera24",
+        "tipo": "stampa",
+        "url": "https://www.buonasera24.it/news/speciale-festivita/934803/cosa-fare-in-puglia-concerti-festival-sagre-e-spettacoli-da-taranto-a-bari.html",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
