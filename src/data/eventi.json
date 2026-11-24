@@ -350429,5 +350429,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "immaginare-insieme-serata-con-stefano-laffi-sirmione-2026-11-30",
+    "titolo": "Immaginare insieme – serata con il sociologo Stefano Laffi",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T21:00",
+    "luogo": "Centro Risorse Sociali",
+    "indirizzo": "Piazza Virgilio 19",
+    "comune": "017179",
+    "lat": 45.47825,
+    "lon": 10.61656,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata gratuita per genitori e adulti su come accompagnare adolescenti e giovani nelle scelte future. Si può partecipare con i figli adolescenti, che avranno un'attività dedicata in uno spazio parallelo. Iscrizioni indicate nel post del Comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Sirmione e cooperative sociali",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Sirmione",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFwlu4v7ZF/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
