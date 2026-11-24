@@ -349639,5 +349639,32 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "prevallettura-gruppo-di-lettura-prevalle-2026-12-17",
+    "titolo": "PrevalLettura – gruppo di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T20:00",
+    "luogo": "Sala studio di Palazzo Morani",
+    "comune": "017155",
+    "lat": 45.54408,
+    "lon": 10.42032,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo incontro del nuovo gruppo di lettura di Prevalle, aperto a tutti anche a chi non era presente al primo. Si legge insieme «Il treno dei bambini» di Viola Ardone. Partecipazione libera e gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Prevalle",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Prevalle",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFIsKrMIXi/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
