@@ -342105,5 +342105,60 @@
     ],
     "inserito": "2026-11-23",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "omino-dei-sogni-2026-festival-del-libro-per-ragazzi-curno-2026-11-28",
+    "titolo": "Omino dei Sogni 2026: Festival del Libro per Ragazzi (tema «Orizzonti»)",
+    "categoria": "bambini",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Curno e Mozzo",
+    "comune": "016089",
+    "lat": 45.68638,
+    "lon": 9.60687,
+    "coordinateApprossimate": true,
+    "descrizione": "Sesta edizione del festival: letture, laboratori e incontri per bambini e ragazzi (12-36 mesi, 3-5 anni, 6-10 anni) con Giulia Pastorino, Cristina Spallanzani, Dario Pomodoro, Artebambini, Iperborea, Claudia Palmarucci, Sergio Olivotti, Luca Cognolato e Marco Paschetta; sabato 28 all'Auditorium De André di Curno lo spettacolo «Pinocchio» di Gek Tessaro; corso sull'albo illustrato per adulti. Tutto gratuito con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Associazione Libera-mente",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Curno",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgF8wl2jaJ7/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "riscopriamo-i-classici-il-fu-mattia-pascal-gruppo-di-lettura-biblioteca-leffe-2026-11-27",
+    "titolo": "«Riscopriamo i classici»: «Il fu Mattia Pascal» di Pirandello",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T16:00",
+    "luogo": "Biblioteca di Leffe",
+    "comune": "016124",
+    "lat": 45.79036,
+    "lon": 9.88235,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura a cura della professoressa Antonia Bertoni dedicato al romanzo di Luigi Pirandello. Partecipazione libera e gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Leffe",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Leffe",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgFweRcKVWr/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia"
   }
 ]
