@@ -355198,5 +355198,116 @@
     "lon": 7.6935,
     "luogo": "Cinema Massimo, Sala 3",
     "organizzatore": "Torino Film Festival"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "luce-su-pomposa-evento-di-lancio-ferrara-film-festival-ferrara-2026-11-25",
+    "titolo": "«Luce su Pomposa» – evento di lancio del Ferrara Film Festival",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T18:30",
+    "fine": "2026-11-25T20:00",
+    "luogo": "Monastero di Sant'Antonio in Polesine",
+    "indirizzo": "Via del Gambone 15",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "descrizione": "Serata pre-festival con interventi sull'Abbazia di Pomposa e la proiezione dei documentari «Pomposa» di Florestano Vancini e «Pomposia» di Cesare Bornazzini. Dura circa 90 minuti, con brindisi finale. Ingresso libero.",
+    "fonti": [
+      {
+        "nome": "Instagram Ferrara Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgAcnOoOkzZ/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "comune": "038008",
+    "lat": 44.82286,
+    "lon": 11.64921,
+    "organizzatore": "Ferrara Film Festival"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "ferrara-film-festival-11-edizione-ferrara-2026-11-26",
+    "titolo": "Ferrara Film Festival – 11ª edizione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26",
+    "fine": "2026-11-30",
+    "luogo": "Nuova Darsena (Media Village)",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "descrizione": "Cinque giorni di festival del cinema a Ferrara. Ingresso libero, con accredito gratuito da richiedere sul sito del festival. Programma e line-up sono pubblicati sul sito. I Golden Dragon Awards si terranno il 20 gennaio 2027.",
+    "fonti": [
+      {
+        "nome": "Instagram Ferrara Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgBDY3UO-V_/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "comune": "038008",
+    "lat": 44.82286,
+    "lon": 11.64921,
+    "organizzatore": "Ferrara Film Festival"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "la-speranza-di-un-domani-giorgio-ventricelli-ferrara-film-festival-ferrara-2026-11-28",
+    "titolo": "«La speranza di un domani» – dialogo con l'autore Giorgio Ventricelli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:00",
+    "luogo": "Media Village, Nuova Darsena",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "descrizione": "Il sociologo e giornalista presenta il suo libro, un viaggio che collega cinema e letteratura attraverso temi sociali, pensato soprattutto per i giovani. Modera Martina Manfredini per United Planet Foundation. Ingresso libero.",
+    "fonti": [
+      {
+        "nome": "Instagram Ferrara Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgBDY3UO-V_/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "comune": "038008",
+    "lat": 44.82286,
+    "lon": 11.64921,
+    "organizzatore": "Ferrara Film Festival"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "bestiario-idrico-marco-paolini-70-anni-bim-tagliamento-teatro-candoni-tolmezzo-2026-12-03",
+    "titolo": "«Bestiario idrico» di Marco Paolini – 70 anni del BIM Tagliamento",
+    "categoria": "teatro",
+    "inizio": "2026-12-03T20:00",
+    "luogo": "Teatro comunale Luigi Candoni",
+    "comune": "030121",
+    "lat": 46.42498,
+    "lon": 13.03638,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "descrizione": "Alle 20 incontro istituzionale per i 70 anni del Consorzio BIM Tagliamento, alle 20:45 lo spettacolo di Marco Paolini con Patrizia Laquidara, un viaggio poetico e civile nel paesaggio idraulico italiano. Ingresso gratuito con prenotazione sul sito di Leggimontagna.",
+    "organizzatore": "Leggimontagna e Consorzio BIM Tagliamento",
+    "fonti": [
+      {
+        "nome": "Instagram Leggimontagna",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgAdPy5iCa5/",
+        "consultata": "2026-11-24"
+      }
+    ]
   }
 ]
