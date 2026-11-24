@@ -355117,5 +355117,86 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-24",
     "inseritoDa": "consegna"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "anteprima-segreta-cinema-gabbiano-senigallia-2026-11-30",
+    "titolo": "Anteprima segreta al Cinema Gabbiano",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T21:15",
+    "luogo": "Cinema Gabbiano",
+    "comune": "042045",
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "descrizione": "Torna l'appuntamento con la proiezione a sorpresa: il titolo non viene svelato prima. Posto da riservare gratis su Eventbrite (link nel profilo del cinema) e biglietto da pagare in cassa.",
+    "organizzatore": "Cinema Gabbiano",
+    "fonti": [
+      {
+        "nome": "Instagram Cinema Gabbiano",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgASa7QF19n/",
+        "consultata": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "come-sposare-un-milionario-retrospettiva-marilyn-monroe-tff44-cinema-massimo-torino-2026-11-27",
+    "titolo": "«Come sposare un milionario» – retrospettiva Marilyn Monroe (TFF44)",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T17:15",
+    "descrizione": "Proiezione del film di Jean Negulesco del 1953, tra i 24 della retrospettiva su Marilyn Monroe del 44° Torino Film Festival. Introduce Elisa Giordano.",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df_zfiBiFcx/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "comune": "001272",
+    "lat": 45.0679,
+    "lon": 7.6935,
+    "luogo": "Cinema Massimo, Sala 3",
+    "organizzatore": "Torino Film Festival"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-24",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "premio-speciale-fondazione-crt-margarethe-von-trotta-tff44-cinema-massimo-torino-2026-11-25",
+    "titolo": "Premio Speciale Fondazione CRT a Margarethe von Trotta (TFF44)",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-25T18:45",
+    "descrizione": "Al Cinema Massimo la regista e attrice tedesca riceve il Premio Speciale Fondazione CRT, il giorno dopo il premio Stella della Mole. Al festival presenta «Anni di piombo», Leone d'oro a Venezia nel 1981.",
+    "fonti": [
+      {
+        "nome": "Instagram Torino Film Festival",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/Df-XJH7ssbW/",
+        "consultata": "2026-11-24"
+      }
+    ],
+    "comune": "001272",
+    "lat": 45.0679,
+    "lon": 7.6935,
+    "luogo": "Cinema Massimo, Sala 3",
+    "organizzatore": "Torino Film Festival"
   }
 ]
