@@ -360804,5 +360804,2318 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-25",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-leno",
+    "titolo": "Se domani non torno",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Teatro civico",
+    "indirizzo": "Via Dante A., 7, 25024 Leno BS",
+    "cap": null,
+    "comune": "017088",
+    "frazione": null,
+    "lat": 45.3611,
+    "lon": 10.21846,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica di un film tratto dal libro \"Cara Giulia\" di Gino Cecchettin. L'evento è organizzato in occasione della giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Leno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.leno.bs.it/it/eventi/se-domani-non-torno-734239",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-sabati-in-biblioteca-canto-di-natale-vercelli",
+    "titolo": "I sabati in biblioteca! – Canto di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T11:30",
+    "luogo": "Biblioteca Ragazzi",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura animata tratta dal libro di Charles Dickens, realizzata dal gruppo Le Mele Volanti. L'evento è parte della rassegna 'I sabati in biblioteca' e si svolge presso la Biblioteca Ragazzi di Vercelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Le Mele Volanti",
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Athis_weekend",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "donne-preziose-il-museo-del-tesoro-del-duomo-di-vercelli-restituisce-v-vercelli",
+    "titolo": "Donne preziose: il Museo del Tesoro del Duomo di Vercelli restituisce voce alle storie femminili",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Museo del Tesoro del Duomo",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione di un nuovo percorso permanente dedicato alle storie femminili. L'incontro 'Donne preziose, donne fuori dall'ombra' presenta la mostra e riflette sul ruolo delle donne nel contesto storico e artistico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Athis_weekend",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scoprivercelli-2026-visita-al-museo-leone-con-ospite-vercelli",
+    "titolo": "ScopriVercelli 2026 - Visita al Museo Leone... con ospite!",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T17:00",
+    "luogo": "Museo Leone",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al Museo Leone con la partecipazione simbolica del fondatore, che racconta in prima persona la storia della collezione. L'evento fa parte della campagna ScopriVercelli 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Athis_weekend",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "si-apre-con-angeli-e-demoni-il-sipario-sul-xxix-viotti-festival-vercelli",
+    "titolo": "Si apre con Angeli e demoni il sipario sul XXIX Viotti Festival",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T22:30",
+    "luogo": "Teatro Civico",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del XXIX Viotti Festival con l'esibizione di Guido Rimonda e della Camerata Ducale, che presentano il programma 'Angeli e demoni'. L'evento si svolge presso il Teatro Civico di Vercelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Athis_weekend",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-sabati-in-biblioteca-i-burattini-di-eliseo-niemen-vercelli",
+    "titolo": "I sabati in biblioteca! - I burattini di Eliseo Niemen",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2026-12-05T11:30",
+    "luogo": "Biblioteca Ragazzi",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di burattini con avventure, voci buffe e risate, basato sui burattini di Eliseo Nicolen. L'evento si svolge presso la Biblioteca Ragazzi di Vercelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Anext_fourteen_days",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-sabati-in-biblioteca-origami-di-natale-vercelli",
+    "titolo": "I sabati in biblioteca! - Origami di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T10:00",
+    "fine": "2026-12-12T11:30",
+    "luogo": "Biblioteca Ragazzi",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo con la maestra Yuki Nagai per realizzare decorazioni natalizie di carta tecnica origami. L'attività si svolge presso la Biblioteca Ragazzi di Vercelli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Yuki Nagai",
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Anext_thirty_days",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-sabati-in-biblioteca-la-foresta-magica-vercelli",
+    "titolo": "I sabati in biblioteca! - La foresta magica",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T10:00",
+    "fine": "2026-12-19T11:30",
+    "luogo": "Biblioteca Ragazzi",
+    "indirizzo": "Vercelli",
+    "cap": null,
+    "comune": "002158",
+    "frazione": null,
+    "lat": 45.31988,
+    "lon": 8.41124,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio artistico con Marisa Bazzano per dipingere alberi colorati in biblioteca. L'evento fa parte della rassegna 'I sabati in biblioteca' dedicata ai più piccoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marisa Bazzano",
+    "fonti": [
+      {
+        "nome": "Comune di Vercelli",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vercelli.it/vivere-comune/eventi?f%5B0%5D=quando%3Anext_thirty_days",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-di-natale-vinovo",
+    "titolo": "Mercatino di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T15:00",
+    "fine": "2026-12-12T22:00",
+    "luogo": "Castello Della Rovere",
+    "indirizzo": "Vinovo",
+    "cap": null,
+    "comune": "001309",
+    "frazione": null,
+    "lat": 44.95529,
+    "lon": 7.62907,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Comune di Vinovo in collaborazione con To Make eventi organizza un mercatino di Natale al Castello Della Rovere di Vinovo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Vinovo",
+    "fonti": [
+      {
+        "nome": "Comune di Vinovo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vinovo.to.it/it-it/vivere-il-comune/eventi/mercatino-di-natale-133284-1-ef865e8a4ccca0aa2c6de039c3fb2c91",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-relazione-e-il-linguaggio-volpago-del-montello",
+    "titolo": "La relazione e il linguaggio",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T11:30",
+    "luogo": "Biblioteca Comunale Pier Andrea Saccardo",
+    "indirizzo": "Via San Carlo n.38",
+    "cap": null,
+    "comune": "026093",
+    "frazione": null,
+    "lat": 45.78579,
+    "lon": 12.12314,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro formativo sul tema dell'alimentazione, della relazione e del linguaggio per bambini 0-3 anni in compagnia di una biologa nutrizionista, rivolto alle famiglie e agli interessati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Volpago del Montello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.volpago-del-montello.tv.it/vivere-il-comune/eventi/la-relazione-e-il-linguaggio-incontro-informativo-sullalimentazione",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-due-di-noi-cornate-d-adda",
+    "titolo": "Mostra \"Due di noi\"",
+    "categoria": "mostra",
+    "inizio": "2026-12-13T10:00",
+    "fine": "2026-12-13T18:00",
+    "luogo": "Municipio",
+    "indirizzo": "Via Alessandro Volta, 29",
+    "cap": null,
+    "comune": "108053",
+    "frazione": null,
+    "lat": 45.64373,
+    "lon": 9.4734,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione dedicata al decoratore e scultore Paolo Colnaghi e al pittore e decoratore Giuseppe Ravanelli. L'evento si terrà nella Sala Leonardo da Vinci del Municipio, organizzata dalla Pro Loco di Cornate con la collaborazione dell'Archivio Storico Campus Coronatae.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco di Cornate",
+    "fonti": [
+      {
+        "nome": "Comune di Cornate d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cornatedadda.mb.it/it/eventi/mostra-due-di-noi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-mille-note-del-natale-concerto-del-chorus-gruppo-ritmico-corale-cornedo-vicentino",
+    "titolo": "Le Mille Note del Natale: concerto del Chorus Gruppo Ritmico Corale",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:00",
+    "fine": "2026-12-18T23:00",
+    "luogo": "Chiesa San Giovanni Battista",
+    "indirizzo": "Cornedo Vicentino",
+    "cap": null,
+    "comune": "024034",
+    "frazione": null,
+    "lat": 45.6161,
+    "lon": 11.34896,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto in programma per venerdì 18 dicembre 2026 alle ore 21:00 presso la Chiesa Auditorium San Giovanni Battista. Protagonista della serata sarà il Chorus Gruppo Ritmico Corale di Caldiero (VR), formazione che celebra i suoi trent'anni di attività. Il repertorio proposto accompagnerà il pubblico nell'atmosfera delle festività attraverso un percorso variegato che spazia dal gospel al pop, fino alle tradizioni musicali dal mondo. L'iniziativa è a ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cornedo Vicentino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cornedo-vicentino.vi.it/vivere-il-comune/eventi/presentazione-del-libro-te-lo-prometto-copy-copy-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "libriincomune-cosenza",
+    "titolo": "LibriInComune",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T17:00",
+    "fine": "2026-11-27T19:00",
+    "luogo": "Museo dei Brettii e degli Enotri",
+    "indirizzo": "Salita S. Agostino",
+    "cap": null,
+    "comune": "078045",
+    "frazione": null,
+    "lat": 39.27837,
+    "lon": 16.27127,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Risorgimento e territori\" di Prospero Francesco Mazza. Dialoga con l'autore Maria Cerzoso, Direttrice del Museo dei Brettii e degli Enotri.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cosenza",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cosenza.it/it/eventi/libriincomune-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-il-natale-crotone",
+    "titolo": "Aspettando il Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-10",
+    "fine": "2026-12-10",
+    "luogo": "Viale Regina Margherita",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata natalizia in viale Regina Margherita con mercatini di artigianato e prodotti locali, casetta di Babbo Natale con attività per famiglie e degustazione di dolci tipici e vini del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alle Attività Produttive",
+    "fonti": [
+      {
+        "nome": "Comune di Crotone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.crotone.it/vivere-il-comune/eventi/aspettando-il-natale",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convocato-il-consiglio-comunale-crotone-30-11",
+    "titolo": "Convocato il Consiglio Comunale",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-30T16:00",
+    "fine": null,
+    "luogo": "Sala Consiliare \"Giovanni Falcone e Paolo Borsellino\"",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Sessione ordinaria e seduta pubblica del Consiglio Comunale di Crotone dedicata alla gestione finanziaria dell'Ente e al riconoscimento di debiti fuori bilancio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Consiglio Comunale di Crotone",
+    "fonti": [
+      {
+        "nome": "Comune di Crotone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.crotone.it/vivere-il-comune/eventi/convocato-il-consiglio-comunale-7",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-natale-piu-bello-e-quello-che-costruiamo-insieme-crotone",
+    "titolo": "Il Natale più bello è quello che costruiamo insieme",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T16:30",
+    "fine": null,
+    "luogo": "Altrio della Casa Comunale",
+    "indirizzo": "Crotone",
+    "cap": null,
+    "comune": "101010",
+    "frazione": null,
+    "lat": 39.09294,
+    "lon": 17.08799,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini che invita a decorare una pallina di Natale con pensieri e desideri, da appendere all'albero del Natale comunale durante le feste.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alle Politiche Sociali",
+    "fonti": [
+      {
+        "nome": "Comune di Crotone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.crotone.it/vivere-il-comune/eventi/il-natale-piu-bello-e-quello-che-costruiamo-insieme",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-in-villa-desio-in-fiaba-desio",
+    "titolo": "Mercatini in villa | Desio in Fiaba",
+    "categoria": "mercatino",
+    "inizio": "2026-12-06T10:00",
+    "fine": "2026-12-08T18:00",
+    "luogo": "Villa Cusani Tittoni Traversi",
+    "indirizzo": "Via G. M.Lampugnani, 62",
+    "cap": null,
+    "comune": "108023",
+    "frazione": null,
+    "lat": 45.61757,
+    "lon": 9.20336,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione natalizia XI edizione con esposizione di artigianato, presenza di Babbo Natale e canti natalizi. Atmosfera di festa in Villa Tittoni con laboratori per bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Contrada Dugana",
+    "fonti": [
+      {
+        "nome": "Comune di Desio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.desio.mb.it/it/eventi/mercatini-in-villa-desio-in-fiaba",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-prima-della-scala-in-diretta-desio-in-fiaba-desio",
+    "titolo": "La Prima della Scala in diretta | Desio in Fiaba",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T17:45",
+    "fine": "2026-12-07T19:00",
+    "luogo": "Spazio Stendhal",
+    "indirizzo": "Via G. M.Lampugnani, 62",
+    "cap": null,
+    "comune": "108023",
+    "frazione": null,
+    "lat": 45.61757,
+    "lon": 9.20336,
+    "coordinateApprossimate": true,
+    "descrizione": "Seguito in diretta della Prima della Scala presso lo Spazio Stendhal, organizzata dall'Associazione Herbert Von Karajan. Appuntamento culturale per gli amanti della musica lirica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Herbert Von Karajan",
+    "fonti": [
+      {
+        "nome": "Comune di Desio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.desio.mb.it/it/eventi/accendiamo-il-natale-desio-in-fiaba-734713-734722",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "messa-di-gloria-di-pietro-mascagni-fabriano",
+    "titolo": "Messa di Gloria di Pietro Mascagni",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T17:30",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Teatro Gentile",
+    "indirizzo": "Via Gentile da Fabriano, 3",
+    "cap": null,
+    "comune": "042017",
+    "frazione": null,
+    "lat": 43.33179,
+    "lon": 12.9065,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Messa di Gloria di Pietro Mascagni eseguito dal Coro Polifonico Vox Nova e l'Orchestra Pergolesi sotto la direzione di Stefano Campolucci, con solisti al tenore e al baritono.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro Polifonico Vox Nova e Orchestra Pergolesi",
+    "fonti": [
+      {
+        "nome": "Comune di Fabriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.fabriano.an.it/vivere-il-comune/eventi/messa-di-gloria-di-pietro-mascagni",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "artisti-in-festa-fabriano",
+    "titolo": "Artisti in Festa",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T24:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Fabriano",
+    "cap": null,
+    "comune": "042017",
+    "frazione": null,
+    "lat": 43.33179,
+    "lon": 12.9065,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa nel centro storico dedicata allo shopping, intrattenimento e socialità, con area dedicata alla gastronomia e attività di animazione per famiglie, promossa nell'ambito di Fabriano in Centro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fabriano in Centro",
+    "fonti": [
+      {
+        "nome": "Comune di Fabriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.fabriano.an.it/vivere-il-comune/eventi/artisti-in-festa-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-a-collamato-fabriano",
+    "titolo": "Mercatini di Natale a Collamato",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Collamato",
+    "indirizzo": "Fabriano",
+    "cap": null,
+    "comune": "042017",
+    "frazione": null,
+    "lat": 43.33179,
+    "lon": 12.9065,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda giornata dei Mercatini di Natale a Collamato con stand di artigianato, gastronomia, giochi per bambini, presenza di Babbo Natale e giro in carrozza trainata da cavalli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fonderia Artistica",
+    "fonti": [
+      {
+        "nome": "Comune di Fabriano",
+        "tipo": "ufficiale",
+        "url": "https://comune.fabriano.an.it/vivere-il-comune/eventi/mercatini-di-natale-a-collamato-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "verdi-game-matinee-riservata-alle-scuole-figline-e-incisa-valdarno",
+    "titolo": "Verdi game - matinée riservata alle scuole",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T10:45",
+    "fine": null,
+    "luogo": "Teatro Comunale Garibaldi",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di prosa e opera lirica sulla vita e le opere di Giuseppe Verdi, con orchestra, attori e cantanti. L'evento è una matinée riservata alle scuole, parte della Stagione Concertistica 2026/2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Venti Lucenti / Teatro Maggio Musicale Fiorentino",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi/verdi-game-matinee-riservata-alle-scuole",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-saggio-cosmopoliteia-stato-di-diritto-pace-internazi-figline-e-incisa-valdarno",
+    "titolo": "Presentazione del saggio “Cosmopoliteia. Stato di diritto, pace internazionale e repubblica del cosmo fra Kant e Jonas”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Circolo Fanin",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di filosofia dedicato alla presentazione del saggio \"Cosmopoliteia\", che esplora i concetti di stato di diritto e pace internazionale tra le opere di Kant e Jonas.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Fanin",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "assassinio-sull-orient-express-stagione-di-prosa-del-teatro-comunale-g-figline-e-incisa-valdarno",
+    "titolo": "“Assassinio sull’Orient Express” - Stagione di Prosa del Teatro Comunale Garibaldi",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Teatro Comunale Garibaldi",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dall'opera di Agatha Christie, con l'attore Claudio \"Greg\" Gregori. Rappresentazione all'interno della Stagione di Prosa del Teatro Comunale Garibaldi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Garibaldi",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "assassinio-sull-orient-express-stagione-di-prosa-del-teatro-comunale-g-figline-e-incisa-valdarno-29-11",
+    "titolo": "“Assassinio sull’Orient Express” - Stagione di Prosa del Teatro Comunale Garibaldi",
+    "categoria": "teatro",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Teatro Comunale Garibaldi",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda data di rappresentazione dello spettacolo teatrale \"Assassinio sull'Orinient Express\", con Claudio \"Greg\" Gregori, a cura della Stagione di Prosa del Teatro Comunale Garibaldi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale Garibaldi",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-alla-fondazione-giovanni-pratesi-figline-e-incisa-valdarno",
+    "titolo": "Visita guidata alla Fondazione Giovanni Pratesi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Fondazione Giovanni Pratesi",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata agli ambienti e alle collezioni della Fondazione Giovanni Pratesi, per conoscere il patrimonio storico e artistico del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Figline e Incisa Valdarno",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-tempo-vola-natale-in-biblioteca-2026-figline-e-incisa-valdarno",
+    "titolo": "Il tempo vola - Natale in biblioteca 2026",
+    "categoria": "teatro",
+    "inizio": "2026-11-30",
+    "fine": null,
+    "luogo": "Biblioteche comunali di Figline e Incisa Valdarno",
+    "indirizzo": "Figline e Incisa Valdarno",
+    "cap": null,
+    "comune": "048052",
+    "frazione": null,
+    "lat": 43.62427,
+    "lon": 11.43479,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di microteatro in biblioteca dal titolo \"Il tempo vola\", incluso nelle iniziative del progetto Natale in biblioteca 2026.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Figline e Incisa Valdarno",
+    "fonti": [
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "ufficiale",
+        "url": "https://www.comunefiv.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-nastro-di-joka-galatone",
+    "titolo": "Il nastro di Joka",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:00",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Biblioteca Comunale \"Antonio De Ferrariis\"",
+    "indirizzo": "Piazza Crocifisso",
+    "cap": null,
+    "comune": "075030",
+    "frazione": null,
+    "lat": 40.14506,
+    "lon": 18.06522,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del romanzo \"Il nastro di Joka\" di Lino Stefano Gabrieli. L'autore dialogherà con Claudia Gabrieli, dirigente scolastica, alla presenza dell'Assessore alla Cultura Francesco Danieli. Iniziativa promossa dall'Assessorato alla Cultura del Comune di Galatone.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Galatone - Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Galatone",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.galatone.le.it/vivere-il-comune/eventi/%f0%9d%90%88%f0%9d%90%8b-%f0%9d%90%8d%f0%9d%90%80%f0%9d%90%92%f0%9d%90%93%f0%9d%90%91%f0%9d%90%8e-%f0%9d%90%83%f0%9d%90%88-%f0%9d%90%89%f0%9d%90%8e%f0%9d%90%8a%f0%9d%90%80",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "14-lampo-d-autunno-a-gallarate-gallarate",
+    "titolo": "14° Lampo d'Autunno a Gallarate",
+    "categoria": "sport",
+    "inizio": "2026-11-28T14:00",
+    "fine": null,
+    "luogo": "Biblioteca Majno",
+    "indirizzo": "Piazza San Lorenzo 5",
+    "cap": null,
+    "comune": "012070",
+    "frazione": null,
+    "lat": 45.66305,
+    "lon": 8.7929,
+    "coordinateApprossimate": true,
+    "descrizione": "Torneo di scacchi omologabile FIDE con cadenza di gioco di 3 minuti più 2 secondi. L'evento include l'inizio del primo turno alle 15:00 e le premiazioni alle 18:00.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "ASD Scacchistica Gallaratese",
+    "fonti": [
+      {
+        "nome": "Comune di Gallarate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.gallarate.va.it/vivere-il-comune/eventi/14-lampo-dautunno-a-gallarate",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "osteria-giacobazzi-gallarate",
+    "titolo": "Osteria Giacobazzi",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T20:30",
+    "fine": null,
+    "luogo": "Teatro Condominio Vittorio Gassman",
+    "indirizzo": "Via Teatro, 5",
+    "cap": null,
+    "comune": "012070",
+    "frazione": null,
+    "lat": 45.66305,
+    "lon": 8.7929,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che unisce l'atmosfera delle osterie alla magia della scena. La recinzione si svolge presso il Teatro Condominio Vittorio Gassman, evento patrocinato dal Comune di Gallarate.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Condominio Vittorio Gassman",
+    "fonti": [
+      {
+        "nome": "Comune di Gallarate",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.gallarate.va.it/vivere-il-comune/eventi/osteria-giacobazzi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "una-domenica-al-museo-garbagnate-milanese",
+    "titolo": "Una Domenica Al Museo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T15:30",
+    "fine": "2026-11-29T17:30",
+    "luogo": "Museo di Siolo",
+    "indirizzo": "Piazza del Lavatoio – località Siolo",
+    "cap": null,
+    "comune": "015105",
+    "frazione": null,
+    "lat": 45.57471,
+    "lon": 9.07711,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato alle famiglie che include visite guidate, racconti sulla memoria storica locale, giochi e attività per i più piccoli e una pausa tè. Organizzato dagli A.Mu.Si. (Amici del Museo di Siolo) per un pomeriggio di condivisione culturale e ludica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "A.Mu.Si. (Amici del Museo di Siolo)",
+    "fonti": [
+      {
+        "nome": "Comune di Garbagnate Milanese",
+        "tipo": "ufficiale",
+        "url": "https://comune.garbagnate-milanese.mi.it/vivere-il-comune/evento/domenica-museo",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festaggiamenti-in-onore-del-santo-patrono-gravina-di-catania",
+    "titolo": "Festaggiamenti in onore del Santo Patrono",
+    "categoria": "festa-religiosa",
+    "inizio": "2027-06-01T07:00",
+    "fine": "2027-06-13T23:00",
+    "luogo": "Chiesa Madre - Sant'Antonio di Padova",
+    "indirizzo": "Via Etnea, 392",
+    "cap": null,
+    "comune": "087019",
+    "frazione": null,
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa patronale dedicata a Sant'Antonio di Padova, rivolta a tutta la cittadinanza, con eventi religiosi e culturali nel periodo indicato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gravina di Catania",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.gravina-di-catania.ct.it/it/eventi/festaggiamenti-in-onore-del-santo-patrono",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "racconti-senza-eta-gorgonzola",
+    "titolo": "Racconti senza età",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T16:00",
+    "fine": "2026-11-26T17:00",
+    "luogo": "Centro per la Longevità",
+    "indirizzo": "Via Italia, 84",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciclo di letture ad alta voce riservato a persone over 65, promosso dai volontari del progetto Argento Vivo. L'evento prevede momenti di ascolto e partecipazione per favorire la socializzazione tra i residenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Argento Vivo",
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/racconti-senza-eta",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scarpe-molto-piu-di-un-simbolo-arte-memoria-e-riscatto-gorgonzola",
+    "titolo": "Scarpe, molto più di un simbolo: arte, memoria e riscatto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:45",
+    "fine": "2026-11-25T22:00",
+    "luogo": "Casa delle Arti e della Musica",
+    "indirizzo": "Piazza Giovanni XXIII, 6/B",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro in occasione della Giornata internazionale contro la violenza sulle donne. Il percorso esplora il significato delle scarpe nell'arte e nella società, analizzando il valore simbolico degli oggetti quotidiani come veicoli di memoria e denuncia sociale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/evento/scarpe-molto-piu-di-un-simbolo-arte-memoria-e-riscatto",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "francescanamente-parlando-gorgonzola",
+    "titolo": "Francescanamente parlando",
+    "categoria": "mostra",
+    "inizio": "2026-11-26",
+    "fine": null,
+    "luogo": "Sala Argentia",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Inchiesta ironica e sorprendente che mescola fede, solidarietà e realtà. L'appuntamento si svolge alla Sala Argentia e prevede due proiezioni cinematografiche durante la serata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-promessi-sposi-gorgonzola",
+    "titolo": "I Promessi Sposi",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Cinema Teatro Argentia",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dal romanzo di Alessandro Manzoni, portato in scena dalla Compagnia Il Giardino delle Ore. La rappresentazione avviene nel salotto cinematografico e teatrale di Gorgonzola.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Il Giardino delle Ore",
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arcieri-al-parco-gorgonzola",
+    "titolo": "Arcieri al Parco",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Parco Sola Cabiati",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa sportiva aperta a bambini e adulti dai 9 anni che propone prove gratuite di tiro con l'arco e tiro dinamico all'interno del parco cittadino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casate-in-festa-gorgonzola",
+    "titolo": "Casate in Festa",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T18:00",
+    "luogo": "Piazza della Repubblica",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività dedicate al Medioevo che include giochi, curiosità storiche e animazioni. I partecipanti possono scattare foto ricordo e ricevere un titolo nobiliare finale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochi-invernali-gorgonzola",
+    "titolo": "Giochi invernali",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Piazza Cagnola",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate di sport e divertimento aperte a tutte le età con attività gratuite. Sono installate una pista di curling sintetico e una parete di arrampicata per l'intrattenimento.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-medioevo-prende-vita-in-piazza-gorgonzola",
+    "titolo": "Il Medioevo prende vita in piazza",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Piazza della Repubblica",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento a cielo aperto che ricrea l'atmosfera del Medioevo con accampamenti storici, scenografie e animazioni teatrali dedicate al periodo storico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-cucina-dell-accademia-gorgonzola",
+    "titolo": "La Cucina dell’Accademia",
+    "categoria": "sagra",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Piazza della Repubblica",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Proposta gastronomica curata dagli studenti dell'Accademia Formativa Martesana. I piatti speciali possono essere gustati al coperto oppure acquistati da asporto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Formativa Martesana",
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ludobus-gorgonzola",
+    "titolo": "Ludobus",
+    "categoria": "bambini",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Via Marconi",
+    "indirizzo": "Gorgonzola",
+    "cap": null,
+    "comune": "015108",
+    "frazione": null,
+    "lat": 45.52944,
+    "lon": 9.40957,
+    "coordinateApprossimate": true,
+    "descrizione": "Bus dei giochi che animerà la via Marconi con giochi di legno e d'ingegno, rivolto a bambini, famiglie e appassionati di ogni età.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Gorgonzola",
+        "tipo": "ufficiale",
+        "url": "https://comune.gorgonzola.mi.it/vivere-il-comune/eventi/?pagina=3",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "segni-mollica-grottammare",
+    "titolo": "Segni Mollica",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T13:00",
+    "luogo": "Sala Kursaal",
+    "indirizzo": "Piazza Kursaal 6",
+    "cap": null,
+    "comune": "044023",
+    "frazione": null,
+    "lat": 42.98042,
+    "lon": 13.85106,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di consegna della Cittadinanza Benemerita al giornalista Vincenzo Mollica, con mostre \"Scarabocchi in libera uscita/Poldismo\" e \"SEGNI FO\" in ricordo di Dario Fo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio cultura e politiche giovanili",
+    "fonti": [
+      {
+        "nome": "Comune di Grottammare",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.grottammare.ap.it/vivere-il-comune/eventi/segni-mollica",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cose-di-questo-mondo-dentro-l-inferno-grottammare",
+    "titolo": "Cose di questo mondo-Dentro l'Inferno",
+    "categoria": "mostra",
+    "inizio": "2026-12-03T21:15",
+    "fine": "2026-12-03T23:30",
+    "luogo": "Ospitale - Casa delle Associazioni",
+    "indirizzo": "Via Palmaroli, 13",
+    "cap": null,
+    "comune": "044023",
+    "frazione": null,
+    "lat": 42.98042,
+    "lon": 13.85106,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film \"Dentro l'Inferno\" come parte della serie \"Cose di questo mondo\".",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio cultura e politiche giovanili",
+    "fonti": [
+      {
+        "nome": "Comune di Grottammare",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.grottammare.ap.it/vivere-il-comune/eventi/cose-di-questo-mondo-dentro-linferno",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-fare-forca-di-mauro-micheli-impruneta",
+    "titolo": "Presentazione libro \"Fare forca\" di Mauro Micheli",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T17:00",
+    "fine": null,
+    "luogo": "Pubblica Assistenza di Tavarnuzze",
+    "indirizzo": "Impruneta",
+    "cap": null,
+    "comune": "048022",
+    "frazione": null,
+    "lat": 43.69714,
+    "lon": 11.24647,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"Fare forca\" di Mauro Micheli (edizioni Youcanprint) presso la Pubblica Assistenza di Tavarnuzze. L'autore illustrerà il contenuto dell'opera in un incontro serale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Impruneta",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.impruneta.fi.it/it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-schiaccianoci-lamezia-terme",
+    "titolo": "Lo schiaccianoci",
+    "categoria": "teatro",
+    "inizio": "2026-12-09T21:00",
+    "fine": "2026-12-09T22:30",
+    "luogo": "Teatro Grandinetti",
+    "indirizzo": "Via Colonnello Cassoli",
+    "cap": null,
+    "comune": "079160",
+    "frazione": null,
+    "lat": 38.9379,
+    "lon": 16.27753,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza classica della Compagnia Almatanz, con coreografie di Luigi Martelletta, che riscrive il celebre balletto di Tchaikovsky in chiave moderna ed elegante.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Almatanz",
+    "fonti": [
+      {
+        "nome": "Comune di Lamezia Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lamezia-terme.cz.it/it/eventi/lo-schiaccianoci-728366",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tutta-mancanza-lamezia-terme",
+    "titolo": "Tutta mancanza",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T22:00",
+    "luogo": "Teatro Grandinetti",
+    "indirizzo": "Via Colonnello Cassoli",
+    "cap": null,
+    "comune": "079160",
+    "frazione": null,
+    "lat": 38.9379,
+    "lon": 16.27753,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione-spettacolo dell'opera letteraria di Olimpio Talarico, incentrata sui temi dell'assenza, del radicamento e della memoria dei luoghi, nell'ambito della rassegna Cadeaux Visioni letterarie.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Calabria Dietro le Quinte",
+    "fonti": [
+      {
+        "nome": "Comune di Lamezia Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lamezia-terme.cz.it/it/eventi/tutta-mancanza",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "costruire-un-posto-sicuro-lamezia-terme-18-12",
+    "titolo": "Costruire un posto sicuro",
+    "categoria": "conferenza",
+    "inizio": "2026-12-18T18:00",
+    "fine": "2026-12-18T20:00",
+    "luogo": "Chiostro ex Convento San Domenico",
+    "indirizzo": "Piazzetta S. Domenico",
+    "cap": null,
+    "comune": "079160",
+    "frazione": null,
+    "lat": 38.9379,
+    "lon": 16.27753,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro formativo gratuito per genitori, educatori e adulti di riferimento, promosso da Comunità Progetto Sud, per accompagnare le nuove generazioni nelle sfide dell'adolescenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comunità Progetto Sud",
+    "fonti": [
+      {
+        "nome": "Comune di Lamezia Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.lamezia-terme.cz.it/it/eventi/costruire-un-posto-sicuro-730678-730680",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incroci-d-arte-seconda-edizione-latina",
+    "titolo": "Incroci d’Arte – Seconda edizione",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T11:30",
+    "fine": "2026-12-31T23:59",
+    "luogo": "Museo Duilio Cambellotti",
+    "indirizzo": "P.zza San Marco, 1 Latina",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Mosta d'arte contemporanea curata da Alessandro Cocchieri con opere di Carla Accardi, Sol LeWitt e Michelangelo Pistoletto. L'inaugurazione prevede la presenza delle autorità e dei contributori al progetto. L'evento è gratuito e aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione di Promozione Sociale Versys",
+    "fonti": [
+      {
+        "nome": "Comune di Latina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.latina.it/eventi/Incroci-d-Arte---Seconda-edizione.html",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "insieme-siamo-piu-forti-giornata-di-restituzione-del-progetto-latina",
+    "titolo": "Insieme siamo più forti - Giornata di restituzione del progetto",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T11:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Chiesa Parrocchiale di San Luca",
+    "indirizzo": "Viale G. P. da Palestrina, 04100 Latina (LT)",
+    "cap": null,
+    "comune": "059011",
+    "frazione": null,
+    "lat": 41.46631,
+    "lon": 12.87793,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di restituzione finale del progetto 'Insieme siamo più forti'. Il programma include saluti istituzionali, presentazione delle attività realizzate e riflessioni emerse, seguita da un coffee break. L'evento è gratuito e aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Latina, Nuova SAIR, Il Quadrifoglio – Cooperativa Sociale",
+    "fonti": [
+      {
+        "nome": "Comune di Latina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.latina.it/eventi/Giornata-di-restituzione-del-progetto--Insieme-siamo-pi--forti-.html",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "torna-in-scena-la-commedia-in-dialetto-milanese-lainate",
+    "titolo": "Torna in scena la commedia in dialetto milanese",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Oratorio San Giovanni Bosco",
+    "indirizzo": "Via Redipuglia 13, Lainate",
+    "cap": null,
+    "comune": "015116",
+    "frazione": null,
+    "lat": 45.56611,
+    "lon": 9.0257,
+    "coordinateApprossimate": true,
+    "descrizione": "La Compagnia del Fil de Ferr presenta 'Bada! Una badante per lo zio...', una commedia in dialetto milanese di Luigi Galli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia del Fil de Ferr",
+    "fonti": [
+      {
+        "nome": "Comune di Lainate",
+        "tipo": "ufficiale",
+        "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/bada-una-badante-per-lo-zio",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-il-natale-in-biblioteca-lainate",
+    "titolo": "Aspettando il Natale ... in Biblioteca",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Biblioteca - l'Ariston Urban Center",
+    "indirizzo": "Largo Vittorio Veneto 17-21",
+    "cap": null,
+    "comune": "015116",
+    "frazione": null,
+    "lat": 45.56611,
+    "lon": 9.0257,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di beneficienza con prodotti artigianali e solidali, organizzato da associazioni e cooperative sociali del territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Lainate",
+        "tipo": "ufficiale",
+        "url": "https://comune.lainate.mi.it/vivere-il-comune/evento/aspettando-il-natale-mercatino-delle-associazioni-in-biblioteca",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "road-show-2026-villa-del-conte",
+    "titolo": "Road Show 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:00",
+    "fine": "2026-11-25T22:00",
+    "luogo": "Piazza Insurrezione 1/A",
+    "indirizzo": "Piazza Insurrezione 1/A",
+    "cap": null,
+    "comune": "028101",
+    "frazione": null,
+    "lat": 45.59158,
+    "lon": 11.85862,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento culturale dedicato alla ri-generazione femminile dei comuni padovani. L'incontro prevede saluti istituzionali, interventi della Camera di Padova e un approfondimento sull'Intelligenza Artificiale applicata all'impresa. Si conclude con la proiezione di videointerviste e dibattito con l'Amministrazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nuova Impresa",
+    "fonti": [
+      {
+        "nome": "Comune di Villa del Conte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villa-del-conte.pd.it/vivere-il-comune/eventi/road-show-2026",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "libri-attorno-al-tavolo-villa-del-conte",
+    "titolo": "Libri attorno al tavolo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T09:00",
+    "fine": "2026-11-26T11:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Biblioteca Civica",
+    "cap": null,
+    "comune": "028101",
+    "frazione": null,
+    "lat": 45.59158,
+    "lon": 11.85862,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa culturale aperta alla cittadinanza che si svolge nella Biblioteca Civica. L'evento prevede letture e dibattiti attorno al tema dei libri, organizzato con incontri periodici nel periodo autunnale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Villa del Conte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villa-del-conte.pd.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-asilo-nido-carlo-collodi-villa-del-conte",
+    "titolo": "Inaugurazione Asilo Nido Carlo Collodi",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Via Risaie 6/A frazione di Abbazia Pisani",
+    "indirizzo": "Via Risaie 6/A frazione di Abbazia Pisani",
+    "cap": null,
+    "comune": "028101",
+    "frazione": null,
+    "lat": 45.59158,
+    "lon": 11.85862,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di inaugurazione del nuovo asilo nido denominato Carlo Collodi. L'evento si terrà sabato 28 novembre 2026 nella frazione di Abbazia Pisani, aperto alla partecipazione della comunità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Villa del Conte",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.villa-del-conte.pd.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "san-fior-a-teatro-2026-39-scalini-san-fior",
+    "titolo": "San Fior a Teatro 2026: 39 SCALINI",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Sala polifunzionale del Municipio",
+    "indirizzo": "Piazza Guglielmo Marconi, 2",
+    "cap": null,
+    "comune": "026072",
+    "frazione": null,
+    "lat": 45.90583,
+    "lon": 12.36346,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale della Compagnia degli Amici del teatro di Pianiga. Testo originale di Patrick Barlow con regia di Marco Sartorello. Storia di un uomo sospettato di omicidio in un complotto internazionale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Teatrale Colonna Infame",
+    "fonti": [
+      {
+        "nome": "Comune di San Fior",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.san-fior.tv.it/vivere-il-comune/eventi/san-fior-a-teatro-2026-39-scalini",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "one-for-toots-san-giorgio-di-nogaro",
+    "titolo": "One for Toots",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:00",
+    "fine": null,
+    "luogo": "Sala conferenze Villa Dora",
+    "indirizzo": "San Giorgio di Nogaro",
+    "cap": null,
+    "comune": "030100",
+    "frazione": null,
+    "lat": 45.81085,
+    "lon": 13.21678,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di musica jazz intitolato One for Toots, dedicato a Toots Thielemans, che si terrà presso la sala conferenze di Villa Dora.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio di Nogaro",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sangiorgiodinogaro.ud.it/eventi/3684038/one-for-toots",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-della-nuova-area-di-raccolta-rifiuti-h24-san-giorgio-delle-pertiche",
+    "titolo": "Inaugurazione della nuova area di raccolta rifiuti h24",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-28T23:00",
+    "luogo": "angolo tra via Zuanon e Via Trieste",
+    "indirizzo": "via Zuanon e Via Trieste, San Giorgio delle Pertiche",
+    "cap": null,
+    "comune": "028075",
+    "frazione": null,
+    "lat": 45.53652,
+    "lon": 11.8923,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della nuova area di raccolta rifiuti h24 organizzata dall'Amministrazione Comunale e da ETRA S.p.A. Sb. L'evento prevede l'apertura al pubblico dello spazio dedicato alla gestione dei rifiuti, con indicazioni per il parcheggio presso gli impianti sportivi vicini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ETRA S.p.A. Sb",
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio delle Pertiche",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sangiorgiodellepertiche.pd.it/vivere-il-comune/eventi/inaugurazione-nuova-area-di-raccolta-rifiuti-h24",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-la-via-delle-cappelle-del-sacro-monte-di-varese-san-giorgio-su-legnano",
+    "titolo": "Mostra \"La via delle cappelle del Sacro Monte di Varese\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-17",
+    "fine": "2026-12-09",
+    "luogo": "Atrio del Comune",
+    "indirizzo": "Piazza IV Novembre, 7",
+    "cap": null,
+    "comune": "015194",
+    "frazione": null,
+    "lat": 45.57075,
+    "lon": 8.90903,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica a cura di Pasquale Campolo che propone la riscoperta delle cappelle del percorso del Sacro Monte di Varese. L'esposizione si trova nell'atrio del municipio e invita a rivivere la storia del borgo e del monastero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Socio Culturale Hobbisti",
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio su Legnano",
+        "tipo": "ufficiale",
+        "url": "https://comune.sangiorgiosulegnano.mi.it/eventi/3683845/mostra-fotografica-villa-pallavicino-ed-suoi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "spose-del-vento-san-paolo-d-argon",
+    "titolo": "Spose del Vento",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T20:30",
+    "fine": "2026-11-25T22:30",
+    "luogo": "Auditorium del Comune",
+    "indirizzo": "San Paolo d'Argon",
+    "cap": null,
+    "comune": "016189",
+    "frazione": null,
+    "lat": 45.68616,
+    "lon": 9.80318,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale della compagnia Teatro Centrifuga in occasione della Giornata internazionale contro la violenza sulle donne. Ingresso gratuito con prenotazione obbligatoria presso la biblioteca locale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Centrifuga",
+    "fonti": [
+      {
+        "nome": "Comune di San Paolo d'Argon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanpaolodargon.bg.it/vivere-il-comune/eventi/dettaglio-evento/Giornata-internazionale-contro-la-violenza-sulle-donne.-00001",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-di-decorazione-biscotti-natalizi-san-paolo-d-argon",
+    "titolo": "Laboratorio di decorazione biscotti natalizi",
+    "categoria": "bambini",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Biblioteca Luigi Cortesi",
+    "indirizzo": "San Paolo d'Argon",
+    "cap": null,
+    "comune": "016189",
+    "frazione": null,
+    "lat": 45.68616,
+    "lon": 9.80318,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività creativa dedicata alla preparazione e decorazione dei dolci natalizi. L'iniziativa, gestita dall'Assessorato Istruzione, prevede la partecipazione dei bambini con prenotazione tramite piattaforma online.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato Istruzione, Cultura e Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di San Paolo d'Argon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanpaolodargon.bg.it/vivere-il-comune/eventi/dettaglio-evento/Laboratorio-di-decorazione-biscotti-natalizi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-cielo-di-santa-lucia-san-paolo-d-argon",
+    "titolo": "Il cielo di Santa Lucia",
+    "categoria": "bambini",
+    "inizio": "2026-12-13",
+    "fine": null,
+    "luogo": "Biblioteca Luigi Cortesi",
+    "indirizzo": "San Paolo d'Argon",
+    "cap": null,
+    "comune": "016189",
+    "frazione": null,
+    "lat": 45.68616,
+    "lon": 9.80318,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa a tema magico e astronomico dedicata ai più piccoli in occasione della festa di Santa Lucia. L'evento, a numero chiuso, propone un viaggio tra stelle e sogni nel centro di lettura del paese.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato Istruzione, Cultura e Biblioteca",
+    "fonti": [
+      {
+        "nome": "Comune di San Paolo d'Argon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanpaolodargon.bg.it/vivere-il-comune/eventi/dettaglio-evento/Il-cielo-di-Santa-Lucia",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-sanguinamento-anale-e-sempre-preoccupante-sernaglia-della-battaglia",
+    "titolo": "Il sanguinamento anale: è sempre preoccupante?",
+    "categoria": "conferenza",
+    "inizio": "2026-12-09T17:30",
+    "fine": "2026-12-09T19:30",
+    "luogo": "Sala Papa Luciani, Falzè di Piave",
+    "indirizzo": "Sala Papa Luciani, Falzè di Piave",
+    "cap": null,
+    "comune": "026080",
+    "frazione": null,
+    "lat": 45.86616,
+    "lon": 12.14323,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo del ciclo sulla salute e le malattie della terza età. Il Dott. Michele Schiano di Visconte, medico del Dipartimento Chirurgico di Conegliano, analizza il tema del sanguinamento anale e i relativi rischi per la salute.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro anziani di Sernaglia",
+    "fonti": [
+      {
+        "nome": "Comune di Sernaglia della Battaglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sernaglia.tv.it/vivere-il-comune/eventi/incontri-informativi-sulla-sicurezza-invecchiare-bene-e-conoscere-le-malattie-della-terza-eta-sanguinamento-anale",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-vie-dei-pellegrini-tutte-le-strade-portano-a-roma-o-quasi-subbiano",
+    "titolo": "Le vie dei Pellegrini: tutte le strade portano a Roma... o quasi!",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T21:00",
+    "fine": null,
+    "luogo": "Sala Consiliare del Comune di Subbiano",
+    "indirizzo": "Via Garibaldi 1",
+    "cap": null,
+    "comune": "051037",
+    "frazione": null,
+    "lat": 43.59389,
+    "lon": 11.9046,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro a cura di Andrea Ghirardini del C.A.I. Sezione di Arezzo dedicato alle vie dei Pellegrini, che si terrà nella Sala Consiliare del Comune di Subbiano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "C.A.I. Sezione di Arezzo",
+    "fonti": [
+      {
+        "nome": "Comune di Subbiano",
+        "tipo": "ufficiale",
+        "url": "https://comune.subbiano.ar.it/tipi_evento/evento-di-formazione",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "qual-e-la-bussola-per-il-nostro-tempo-tarcento",
+    "titolo": "Qual è la bussola per il nostro tempo?",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T19:00",
+    "fine": "2026-11-27T20:30",
+    "luogo": "Sala Margherita",
+    "indirizzo": "Viale Olinto Marinelli, 20, 33017 Tarcento UD, Italia",
+    "cap": null,
+    "comune": "030116",
+    "frazione": null,
+    "lat": 46.22388,
+    "lon": 13.22619,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dal titolo 'Qual è la bussola per il nostro tempo?' con dialogo tra cultura e spiritualità. Intervengono l'autore Oscar Farinetti e il Mons. Luca Calligaro, a partire dal libro 'Omero non deve morire'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Tarcento",
+    "fonti": [
+      {
+        "nome": "Comune di Tarcento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tarcento.ud.it/it/eventi/qual-e-la-bussola-per-il-nostro-tempo",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tarcento-900-anni-tarcento",
+    "titolo": "Tarcento - 900 anni",
+    "categoria": "mostra",
+    "inizio": "2026-11-30T20:30",
+    "fine": "2026-11-30T23:00",
+    "luogo": "Sala Margherita",
+    "indirizzo": "Viale Olinto Marinelli, 20, 33017 Tarcento UD, Italia",
+    "cap": null,
+    "comune": "030116",
+    "frazione": null,
+    "lat": 46.22388,
+    "lon": 13.22619,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film 'Tarcento - 900 anni', diretto da Gabo Antonutti, dedicato al 900° anniversario della prima attestazione scritta del comune. L'evento si svolge presso la Sala polifunzionale Margherita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Tarcento",
+    "fonti": [
+      {
+        "nome": "Comune di Tarcento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.tarcento.ud.it/it/eventi/tarcento-900-anni",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inaugurazione-della-panchina-rossa-a-tramonte-di-teolo-teolo-02-12",
+    "titolo": "Inaugurazione della panchina rossa a Tramonte di Teolo",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-02T15:15",
+    "fine": null,
+    "luogo": "Scuola primaria “E. De Amicis” di Tramonte",
+    "indirizzo": "Teolo",
+    "cap": null,
+    "comune": "028089",
+    "frazione": null,
+    "lat": 45.3564,
+    "lon": 11.70798,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione della panchina rossa in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne. La cerimonia si terrà davanti alla scuola primaria E. De Amicis di Tramonte, con l'obiettivo di sensibilizzare la comunità su questo tema.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Teolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.teolo.pd.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "insieme-e-piu-natale-mercatini-di-natale-a-teolo-2026-teolo",
+    "titolo": "Insieme è più Natale – Mercatini di Natale a Teolo 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Piazzetta Tito Livio",
+    "indirizzo": "Teolo",
+    "cap": null,
+    "comune": "028089",
+    "frazione": null,
+    "lat": 45.3564,
+    "lon": 11.70798,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata ai mercatini di Natale con musica, mostre, passeggiate, attività per grandi e piccini e degustazione di specialità natalizie. Un'occasione per vivere l'atmosfera festosa nel cuore del borgo di Teolo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Teolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.teolo.pd.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "camminata-di-natale-ai-mercatini-di-teolo-teolo",
+    "titolo": "Camminata di Natale ai mercatini di Teolo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Villa di Teolo",
+    "indirizzo": "Teolo",
+    "cap": null,
+    "comune": "028089",
+    "frazione": null,
+    "lat": 45.3564,
+    "lon": 11.70798,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata natalizia guidata da Villa di Teolo fino ai mercatini del centro storico, attraverso boschi e strade sterrate. Include pausa con cioccolata calda e vin brulé. L'offerta è libera e destinata all'Oncoematologia Pediatrica di Padova. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Teolo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.teolo.pd.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-intorno-al-fuoco-torreglia",
+    "titolo": "Storie intorno al fuoco",
+    "categoria": "bambini",
+    "inizio": "2026-12-17T16:30",
+    "fine": "2026-12-17T18:00",
+    "luogo": "Biblioteca \"A. Tolomei\"",
+    "indirizzo": "Largo Marconi, 2",
+    "cap": null,
+    "comune": "028092",
+    "frazione": null,
+    "lat": 45.33812,
+    "lon": 11.72687,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura animata per bambini sulle tradizioni natalizie organizzata dalla Biblioteca di Torreglia. L'evento include un laboratorio a seguire e si inserisce nel progetto \"Dai Colli all'Adige\" del Gal Patavino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Torreglia, La Bottega dei Ragazzi",
+    "fonti": [
+      {
+        "nome": "Comune di Torreglia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.torreglia.pd.it/vivere-il-comune/eventi/storie-intorno-al-fuoco-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
   }
 ]
