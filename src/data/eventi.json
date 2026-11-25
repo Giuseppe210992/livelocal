@@ -359227,5 +359227,201 @@
         "consultata": "2026-11-25"
       }
     ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "festivalino-6-edizione-habitat-castello-campori-soliera-2026-11-27",
+    "titolo": "Festivalino – 6ª edizione (musica live, talk e incontri)",
+    "categoria": "concerto",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-28",
+    "luogo": "Habitat e Castello Campori",
+    "comune": "036044",
+    "lat": 44.74759,
+    "lon": 10.94163,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "SOLIDO – rete di festival emiliano-romagnoli",
+    "descrizione": "Due giorni di concerti (Palea e LOSTATOBRADO il 27, Arianna Pasini e Spartiti il 28), talk e confronti sul ruolo culturale dei festival, con ospiti come Enrico Gabrielli. Ingresso gratuito a tutti gli eventi.",
+    "fonti": [
+      {
+        "nome": "Modena2000",
+        "tipo": "stampa",
+        "url": "https://www.modena2000.it/2026/11/24/soliera-torna-festivalino-due-giorni-di-musica-live-incontri-e-dialoghi-con-i-protagonisti-della-scena-indipendente/",
+        "consultata": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "l-ingorgo-cineforum-follia-e-dintorni-la-tenda-modena-2026-11-26",
+    "titolo": "«L'ingorgo» di Comencini – cineforum «Follia e dintorni»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T20:30",
+    "luogo": "La Tenda",
+    "indirizzo": "Viale Monte Kosica",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Modena – La Tenda",
+    "descrizione": "Ultimo appuntamento della 15ª edizione del cineforum curato da Rosa Bianca Odv con Unimore: film del 1979 con Sordi, Tognazzi e Mastroianni, presentato da Marco Lega con dibattito. Ingresso libero.",
+    "fonti": [
+      {
+        "nome": "Bologna 2000",
+        "tipo": "stampa",
+        "url": "https://www.bologna2000.com/2026/11/24/modena-tre-serate-gratuite-alla-tenda-dal-grande-cinema-al-jazz-e-al-metal-underground/",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "comune": "036023",
+    "lat": 44.64398,
+    "lon": 10.9152
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "beatles-and-more-vignali-salis-arts-and-jam-la-tenda-modena-2026-11-27",
+    "titolo": "«Beatles & More» con Claudio Vignali e Antonello Salis – Arts & Jam",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:15",
+    "luogo": "La Tenda",
+    "indirizzo": "Viale Monte Kosica",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Modena – La Tenda",
+    "descrizione": "Concerto jazz per pianoforte e fisarmonica che rilegge le canzoni dei Beatles tra improvvisazione e citazioni, nella rassegna Arts & Jam curata da Muse. Ingresso libero e gratuito.",
+    "fonti": [
+      {
+        "nome": "Bologna 2000",
+        "tipo": "stampa",
+        "url": "https://www.bologna2000.com/2026/11/24/modena-tre-serate-gratuite-alla-tenda-dal-grande-cinema-al-jazz-e-al-metal-underground/",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "comune": "036023",
+    "lat": 44.64398,
+    "lon": 10.9152
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "serata-metal-underground-transiente-la-tenda-modena-2026-11-28",
+    "titolo": "Serata metal underground con Jesus Ain't in Poland, Shrieking Demons e Dead Aeons Mist",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "La Tenda",
+    "indirizzo": "Viale Monte Kosica",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Transiente",
+    "descrizione": "Tre band italiane tra grindcore, death metal, hardcore e contaminazioni doom, a cura di Transiente. Ingresso libero e gratuito.",
+    "fonti": [
+      {
+        "nome": "Bologna 2000",
+        "tipo": "stampa",
+        "url": "https://www.bologna2000.com/2026/11/24/modena-tre-serate-gratuite-alla-tenda-dal-grande-cinema-al-jazz-e-al-metal-underground/",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "comune": "036023",
+    "lat": 44.64398,
+    "lon": 10.9152
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "l-esecuzione-sotto-lo-sguardo-di-tosca-teatro-comunale-modena-2026-11-28",
+    "titolo": "«L'esecuzione. Sotto lo sguardo di Tosca» – opera di Passantino su libretto di Malvaldi",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T20:00",
+    "luogo": "Teatro Comunale",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "organizzatore": "Teatro Comunale di Modena",
+    "descrizione": "Nuova opera lirica giallo-musicale ambientata durante una prova della Tosca, con musica di Salvatore Passantino e libretto di Marco Malvaldi; dirige Eddi De Nadai, regia di Italo Nunziata. Biglietti da 12 a 30 euro.",
+    "fonti": [
+      {
+        "nome": "Bologna 2000",
+        "tipo": "stampa",
+        "url": "https://www.bologna2000.com/2026/11/19/al-teatro-comunale-di-modena-lesecuzione-sotto-lo-sguardo-di-tosca-il-28-e-29-novembre/",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "comune": "036023",
+    "lat": 44.64398,
+    "lon": 10.9152
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "l-esecuzione-sotto-lo-sguardo-di-tosca-teatro-comunale-modena-2026-11-29",
+    "titolo": "«L'esecuzione. Sotto lo sguardo di Tosca» – replica pomeridiana",
+    "categoria": "teatro",
+    "inizio": "2026-11-29T15:30",
+    "luogo": "Teatro Comunale",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 12
+    },
+    "organizzatore": "Teatro Comunale di Modena",
+    "descrizione": "Replica della nuova opera di Passantino e Malvaldi, un giallo ambientato dietro le quinte della Tosca di Puccini, con la Filarmonica del Teatro Comunale. Biglietti da 12 a 30 euro.",
+    "fonti": [
+      {
+        "nome": "Bologna 2000",
+        "tipo": "stampa",
+        "url": "https://www.bologna2000.com/2026/11/19/al-teatro-comunale-di-modena-lesecuzione-sotto-lo-sguardo-di-tosca-il-28-e-29-novembre/",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "comune": "036023",
+    "lat": 44.64398,
+    "lon": 10.9152
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "mercatini-di-natale-di-trento-piazza-fiera-e-piazza-mostra-trento-2026-11-20",
+    "titolo": "Mercatini di Natale di Trento",
+    "categoria": "mercatino",
+    "inizio": "2026-11-20T10:00",
+    "fine": "2027-01-06T18:00",
+    "luogo": "Piazza Fiera e Piazza Mostra",
+    "comune": "022205",
+    "lat": 46.06136,
+    "lon": 11.11077,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Azienda per il Turismo di Trento",
+    "descrizione": "Casette di legno con circa 75 espositori di artigianato e specialità gastronomiche nel centro storico, aperte dalle 10 alle 20 (polo gastronomico fino alle 21 venerdì e sabato). Ingresso gratuito, fino al 6 gennaio 2027.",
+    "fonti": [
+      {
+        "nome": "Info Turismo",
+        "tipo": "stampa",
+        "url": "https://www.info-turismo.it/mercatini-natale-trento-2026-date-piazze/",
+        "consultata": "2026-11-25"
+      }
+    ]
   }
 ]
