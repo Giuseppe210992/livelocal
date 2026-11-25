@@ -359173,5 +359173,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-25",
     "inseritoDa": "consegna"
+  },
+  {
+    "comune": "017021",
+    "lat": 45.47848,
+    "lon": 10.23938,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "organizzatore": "Comune di Borgosatollo",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "luogo": "Biblioteca comunale",
+    "slug": "amarsi-per-non-perdersi-maria-chiara-gritti-biblioteca-borgosatollo-2026-11-25",
+    "titolo": "«Amarsi per non perdersi» con Maria Chiara Gritti",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:30",
+    "descrizione": "Incontro con la psicologa e psicoterapeuta Maria Chiara Gritti, fondatrice del Centro Dipendiamo, nella Giornata internazionale per l'eliminazione della violenza contro le donne.",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgosatollo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgCaQbGhzbN/",
+        "consultata": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "comune": "017021",
+    "lat": 45.47848,
+    "lon": 10.23938,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "organizzatore": "Comune di Borgosatollo",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "luogo": "Biblioteca comunale",
+    "slug": "vermiglio-cinema-in-biblioteca-over-65-borgosatollo-2026-12-22",
+    "titolo": "«Vermiglio» – cinema in biblioteca per gli over 65",
+    "categoria": "conferenza",
+    "inizio": "2026-12-22T20:00",
+    "descrizione": "Proiezione del film «Vermiglio» seguita da un dialogo con il critico cinematografico Massimo Morelli. Evento gratuito dedicato alle persone over 65, nel progetto SWING.",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgosatollo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgDH0-9NxBM/",
+        "consultata": "2026-11-25"
+      }
+    ]
   }
 ]
