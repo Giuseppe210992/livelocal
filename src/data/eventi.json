@@ -357425,5 +357425,1002 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-25",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "week-end-con-sabrina-scuccimarr-napoli",
+    "titolo": "Week-end con Sabrina Scuccimarr",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Teatro Trianon Viviani",
+    "indirizzo": "Napoli",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Sabrina Scuccimarr, inserito nella programmazione del Teatro Trianon Viviani per la stagione 2026|2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Teatro Trianon Viviani",
+        "tipo": "ufficiale",
+        "url": "https://www.teatrotrianon.org/programmazione",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "amuninni-storia-d-amore-e-mafia-fiesole",
+    "titolo": "Amuninni – Storia d’amore e mafia",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:30",
+    "fine": null,
+    "luogo": "Circolo ARCI Il Girone APS",
+    "indirizzo": "Via Aretina, 24 - Fiesole",
+    "cap": null,
+    "comune": "048015",
+    "frazione": null,
+    "lat": 43.81302,
+    "lon": 11.32839,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo_teatrale_di_e_con_Massimo_Caponnetto._L’autore_figlio_del_magistrato_Antonio_Caponnetto_ripercorre_la_storia_d’amore_dei_genitori_e_le_vicende_familiari_intrecciandole_agli_eventi_mafiosi_che_portarono_alla_tragica_morte_di_Falcone_e_Borsellino.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Fiesole",
+        "tipo": "ufficiale",
+        "url": "https://www.fiesoleforyou.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "anime-salve-cuneo",
+    "titolo": "ANIME SALVE",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Teatro Toselli",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale in scena nella stagione 2026/2027 del Teatro Toselli di Cuneo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Toselli",
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-benefico-del-coro-cai-uget-di-torino-a-favore-della-fondazion-cuneo",
+    "titolo": "Concerto benefico del Coro CAI UGET di Torino a favore della Fondazione ADAS",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Sala San Giovanni",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto benefico del Coro CAI UGET di Torino destinato a sostenere la Fondazione ADAS, in occasione dell'ottantesimo anniversario della Repubblica.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro CAI UGET di Torino",
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "famiglie-cuneo",
+    "titolo": "FAMIGLIE",
+    "categoria": "teatro",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Officina Santachiara",
+    "indirizzo": "Cuneo",
+    "cap": null,
+    "comune": "004078",
+    "frazione": null,
+    "lat": 44.41638,
+    "lon": 7.55293,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale sulla tematica familiare, inserito nella programmazione della rassegna Officina Santachiara.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Officina Santachiara",
+    "fonti": [
+      {
+        "nome": "Cuneo Cultura",
+        "tipo": "ufficiale",
+        "url": "https://www.cuneocultura.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "genio-e-impresa-montecchio-maggiore",
+    "titolo": "Genio e impresa",
+    "categoria": "mostra",
+    "inizio": "2026-12-04T18:00",
+    "fine": "2026-12-19T12:00",
+    "luogo": "Nuova Galleria Civica",
+    "indirizzo": "Via Bivio S. Vitale, 36075 Montecchio Maggiore-Alte Ceccato VI, Italia",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra omaggio alla memoria di Pietro Ceccato in occasione del settantesimo anniversario della sua scomparsa, curata da Giampietro Vezzaro. Ingresso gratuito con orari differenziati nei vari giorni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/ceccato-la-motocicletta-per-tutti-733275",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sogno-di-una-notte-di-mezza-estate-in-lingua-inglese-roma",
+    "titolo": "Sogno di una Notte di Mezza Estate (in lingua inglese)",
+    "categoria": "teatro",
+    "inizio": "2027-02-25",
+    "fine": null,
+    "luogo": "Teatro Manzoni Roma",
+    "indirizzo": "Via Monte Zebio 14",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione dell'opera shakespeariana nella versione in lingua inglese, in programma il 25 febbraio 2027 al Teatro Manzoni Roma.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cooperteatro 85 srl",
+    "fonti": [
+      {
+        "nome": "Teatro Manzoni",
+        "tipo": "ufficiale",
+        "url": "https://teatromanzoniroma.it/programma",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "book-swap-party-giussano",
+    "titolo": "Book swap party",
+    "categoria": "mostra",
+    "inizio": "2026-12-05T10:00",
+    "fine": "2026-12-05T16:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Carroccio, 2",
+    "cap": null,
+    "comune": "108024",
+    "frazione": null,
+    "lat": 45.6935,
+    "lon": 9.21093,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento di scambio di libri per promuovere la lettura e l'economia circolare.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Civica Don Rinaldo Beretta di Giussano",
+    "fonti": [
+      {
+        "nome": "Comune di Giussano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.giussano.mb.it/it/eventi/book-swap-party-735043",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "valvole-vs-transistor-roma",
+    "titolo": "Valvole vs. Transistor",
+    "categoria": "conferenza",
+    "inizio": "2026-11-25T20:00",
+    "fine": null,
+    "luogo": "Studio 3",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza su valvole vs. transistor, con Giancarlo Valletta e Giulio Salvioni.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/valvole-vs-transistor-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "d-improvviso-international-contemporary-ensemble-e-nuova-consonanza-in-roma",
+    "titolo": "D'Improvviso: International Contemporary Ensemble e Nuova Consonanza in Concert",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T20:00",
+    "fine": null,
+    "luogo": "Teatro Studio Borgna",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di improvvisazione collettiva tra International Contemporary Ensemble e Nuova Consonanza.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/festival-di-nuova-consonanza-dimprovviso-international-contemporary-ensemble-e-nuova-consonanza-in-concert",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "big-premio-francesco-di-giacomo-roma",
+    "titolo": "Big! Premio Francesco Di Giacomo",
+    "categoria": "concerto",
+    "inizio": "2026-11-26T20:00",
+    "fine": null,
+    "luogo": "Teatro Studio Borgna",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Big! Premio Francesco Di Giacomo con band finaliste e ospiti speciali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/big-premio-francesco-di-giacomo",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "big-premio-francesco-di-giacomo-roma-27-11",
+    "titolo": "Big! Premio Francesco Di Giacomo",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T20:00",
+    "fine": null,
+    "luogo": "Teatro Studio Borgna",
+    "indirizzo": "Viale Pietro de Coubertin, 30",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Teatro Studio Borgna, Roma, 27/11. Concerto del Big! Premio Francesco Di Giacomo con band finaliste e ospiti speciali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/big-premio-francesco-di-giacomo-2",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "marche-teatro-2026-2027-prosa-e-danza-ancona-26-11",
+    "titolo": "Marche Teatro 2026/2027 - Prosa e Danza",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:30",
+    "fine": "2026-11-29T16:30",
+    "luogo": "Teatro delle Muse",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo \"Gaber - Mi fa male il mondo\", da Giorgio Gaber e Sandro Luporini, con drammaturgia e regia di Giorgio Gallione e direzione musicale di Paolo Silvestri. Con Neri Marcorè. Produzione del Teatro Stabile di Bolzano e della Fondazione Teatro della Toscana in collaborazione con Fondazione Giorgio Gaber. Repliche dal 26 al 29 novembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marche Teatro",
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/marche-teatro-2026-2027-prosa-e-danza-730949-730956",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "conferenza-e-summit-ti-vedo-ti-seguo-ti-controllo-quando-la-tecnologia-capannori",
+    "titolo": "Conferenza e Summit 'Ti vedo, ti seguo, ti controllo - Quando la tecnologia diventa uno strumento di violenza'",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": null,
+    "luogo": "Polo Culturale Artemisia",
+    "indirizzo": "Capannori",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza e summit in occasione della Giornata Internazionale per l'eliminazione della violenza contro le donne, con il tema della tecnologia come strumento di violenza. L'evento si terrà al Polo Culturale Artemisia di Tassignano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "oltre-gli-occhi-dentro-il-corpo-mostra-e-spettacolo-melzo",
+    "titolo": "Oltre gli occhi dentro il corpo. Mostra e spettacolo",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T14:30",
+    "fine": null,
+    "luogo": "Palazzo e Teatro Trivulzio",
+    "indirizzo": "Melzo",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento in occasione della Giornata internazionale contro la violenza sulle donne, con mostra dalle 14:30 alle 18:30 nella Sala Vallaperti, aperitivo e spettacolo teatrale serale a cura del gruppo Gli Amici di Gaber con Chiara Lorenzutti, dedicato alla violenza assistita da parte di bambini e bambine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Tuendelee, Fondazione Somaschi, Rete VIOLA",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi/oltre-gli-occhi-dentro-il-corpo-mostra-e-spettacolo",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-gratuita-al-cinema-don-zucchini-scelta-dal-ccrr-cento",
+    "titolo": "Proiezione gratuita al Cinema Don Zucchini scelta dal CCRR",
+    "categoria": "concerto",
+    "inizio": "2026-11-25T17:00",
+    "fine": "2026-11-25T19:00",
+    "luogo": "Cinema teatro Don Zucchini",
+    "indirizzo": "Corso del Guercino, 19, 44042 Cento FE",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione cinematografica scelta dai ragazzi del CCRR per promuovere inclusione e rispetto delle diversità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CCRR di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/proiezione-gratuita-al-cinema-don-zucchini-scelta-dal-ccrr",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-gratuita-al-cinema-don-zucchini-scelta-dal-ccrr-cento-02-12",
+    "titolo": "Proiezione gratuita al Cinema Don Zucchini scelta dal CCRR",
+    "categoria": "concerto",
+    "inizio": "2026-12-02T17:00",
+    "fine": "2026-12-02T19:00",
+    "luogo": "Cinema teatro Don Zucchini",
+    "indirizzo": "Corso del Guercino, 19, 44042 Cento FE",
+    "cap": null,
+    "comune": "038004",
+    "frazione": null,
+    "lat": 44.77595,
+    "lon": 11.30798,
+    "coordinateApprossimate": true,
+    "descrizione": "Cinema teatro Don Zucchini, Cento, 02/12. Proiezione cinematografica scelta dai ragazzi del CCRR per promuovere inclusione e rispetto delle diversità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "CCRR di Cento",
+    "fonti": [
+      {
+        "nome": "Comune di Cento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cento.fe.it/it/eventi/proiezione-gratuita-al-cinema-don-zucchini-scelta-dal-ccrr-735358",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-cassano-2026-accensione-luminarie-cassano-d-adda",
+    "titolo": "Natale a Cassano 2026 - Accensione Luminarie",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T15:00",
+    "fine": "2026-11-28T23:00",
+    "luogo": "Piazza Garibaldi",
+    "indirizzo": "Piazza G. Garibaldi, 20062 Cassano d'Adda MI, Italia",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione ufficiale della rassegna natalizia con Babbo Natale, elfi, trampolieri luminosi, esibizione della Banda Musicale cittadina, accensione dell'albero solidale e delle luminarie, e neve artificiale in piazza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Amministrazione Comunale di Cassano d'Adda",
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/natale-a-cassano-2026-accensione-luminarie",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "musica-in-giallo-musica-storie-e-misteri-pistoia",
+    "titolo": "Musica in Giallo: musica, storie e misteri",
+    "categoria": "concerto",
+    "inizio": "2026-10-20",
+    "fine": "2026-12-15",
+    "luogo": "Pantheon degli Uomini Illustri",
+    "indirizzo": "Parterre, piazza San Francesco",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre incontri al Pantheon degli Uomini Illustri di Pistoia tra musica, letteratura e mistero, a cura dell’Associazione Giallo Pistoia.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Giallo Pistoia",
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/musica-in-giallo-musica-storie-e-misteri",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gianni-ruffi-bazooka-joe-pistoia",
+    "titolo": "Gianni Ruffi – Bazooka Joe",
+    "categoria": "mostra",
+    "inizio": "2026-11-29",
+    "fine": "2027-02-13",
+    "luogo": "Galleria Me Vannucci",
+    "indirizzo": "Via Gorizia, 122",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Alla Galleria ME Vannucci, una mostra dedicata a Gianni Ruffi, protagonista della Pop Art italiana, in omaggio alla sua amicizia con Enrico Vannucci.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/gianni-ruffi-bazooka-joe",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giovedistorie-erba",
+    "titolo": "GiovedìStorie",
+    "categoria": "bambini",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T19:00",
+    "luogo": "Biblioteca Comunale Giuseppe Pontiggia",
+    "indirizzo": "Via Joriati, 6",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura ad alta voce per bambini dai 6 ai 9 anni, con temi legati a sogni e incubi. L'evento è parte della rassegna promossa dalla biblioteca comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/giovedistorie-735054",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "note-d-autunno-erbesi-sabato-italiano-erba",
+    "titolo": "NOTE D'AUTUNNO ERBESI: Sabato Italiano",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": "2026-11-28T23:59",
+    "luogo": "Sala Polivalente di San Maurizio",
+    "indirizzo": "Via Alserio, 5",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna autunnale promossa dall'Assessorato alla Cultura del Comune di Erba, dedicato alle melodie immortali tra swing e fantasia, con ingresso a pagamento.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/note-d-autunno-erbesi-sabato-italiano",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-gustalibro-erba",
+    "titolo": "Il GustaLibro",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T14:00",
+    "fine": "2026-12-05T16:00",
+    "luogo": "Biblioteca Comunale Giuseppe Pontiggia",
+    "indirizzo": "Via Joriati, 6",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura ad alta voce del libro L'ultima pecora di Ulrich Hub, rivolta ai ragazzi di quarta e quinta della scuola primaria, con racconto ricco di colpi di scena e umorismo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/il-gustalibro-735059",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "125-anniversario-del-distaccamento-di-erba-dei-vigili-del-fuoco-erba",
+    "titolo": "125° Anniversario del Distaccamento di Erba dei Vigili del Fuoco",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05T14:00",
+    "fine": "2026-12-05T17:00",
+    "luogo": "Piazza Vittorio Veneto",
+    "indirizzo": "Piazza Vittorio Veneto",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta per festeggiare i 125 anni del Distaccamento dei Vigili del Fuoco di Erba, con esposizione mezzi e attrezzature, attività per bambini ed esercitazione dal vivo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/125-anniversario-del-distaccamento-di-erba-dei-vigili-del-fuoco",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-traviata-aosta",
+    "titolo": "La Traviata",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:30",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera in tre atti di Giuseppe Verdi su libretto di Francesco Maria Piave, con regia di Andrea Bernard, orchestra e coro diretti da Jacopo Brusa e Andrea Bianchi. La storia segue Violetta, cortigiana che sacrifica il proprio amore per salvare l'onore della famiglia di Alfredo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "International Music and Arts",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-traviata-aosta-29-11",
+    "titolo": "La Traviata",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T15:00",
+    "fine": null,
+    "luogo": "Teatro Splendor",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Opera verdiana in tre atti, rappresentazione pomeridiana della stessaProductione serale del 28 novembre. Stesso cast e direzione artistica, con il capolavoro che esplora temi di amore, sacrificio e riscatto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "International Music and Arts",
+    "fonti": [
+      {
+        "nome": "Saison Culturelle",
+        "tipo": "organizzatore",
+        "url": "https://saisonculturellevda.it/spettacoli",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "data-center-e-territorio-cosa-sapere-caravaggio",
+    "titolo": "Data Center e Territorio: Cosa Sapere?",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T20:30",
+    "fine": "2026-12-04T22:30",
+    "luogo": "Centro Civico di San Bernardino",
+    "indirizzo": "Viale Giovanni XXIII, 17, 24043 Caravaggio BG, Italia",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno rivolto a tutti i cittadini per illustrare cosa sono i data center, il loro impatto ambientale e i progetti correlati sul territorio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/data-center-e-territorio-cosa-sapere",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "diamanti-oltre-il-silenzio-la-forza-delle-donne-la-bellezza-dei-legami-olgiate-olona",
+    "titolo": "DIAMANTI - Oltre il silenzio. La forza delle donne, la bellezza dei legami e il valore dello stare insieme",
+    "categoria": "teatro",
+    "inizio": "2026-11-25T18:30",
+    "fine": "2026-11-25T23:15",
+    "luogo": "Cinema Teatro Nuovo Area101",
+    "indirizzo": "via Bellotti 22",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata che intreccia arte, cinema e riflessione: mostra di Paola Mazza, proiezione di Diamanti di Ferzan Özpetek e dibattito. Iniziativa dell'Assessorato alla Cultura e delle Politiche Sociali.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Olgiate Olona",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi/3681272/diamanti-oltre-silenzio-forza-donne-bellezza",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-mafie-nel-contesto-lombardo-incontro-di-approfondimento-e-sensibili-olgiate-olona",
+    "titolo": "Le mafie nel contesto lombardo: incontro di approfondimento e sensibilizzazione",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T20:45",
+    "fine": null,
+    "luogo": "Sala Le Scuderie",
+    "indirizzo": "Via Luigia Greppi 3",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico promosso dall'associazione Futura Civitas per approfondire le dinamiche di infiltrazione mafiosa nell'economia e nel tessuto sociale della Lombardia, con interventi di Andrea Carnì e Vincenzo Moriello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Futura Civitas",
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi/3683850/mafie-contesto-lombardo-incontro-approfondimento",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gb-music-festival-2026-fiabaincanto-il-dono-di-gea-olgiate-olona",
+    "titolo": "GB Music Festival 2026: Fiabaincanto - Il dono di Gea",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T17:00",
+    "fine": null,
+    "luogo": "Teatrino di Villa Gonzaga",
+    "indirizzo": "Olgiate Olona",
+    "cap": null,
+    "comune": "012108",
+    "frazione": null,
+    "lat": 45.62986,
+    "lon": 8.87752,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della rassegna concertistica GB Music Festival 2026. Informazione non disponibile sul sito consultato.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Olgiate Olona",
+        "tipo": "ufficiale",
+        "url": "https://comune.olgiateolona.va.it/eventi",
+        "consultata": "2026-11-25"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-25",
+    "inseritoDa": "consegna"
   }
 ]
