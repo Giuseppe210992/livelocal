@@ -358422,5 +358422,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-25",
     "inseritoDa": "consegna"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "slug": "cerimonia-di-premiazione-amarcort-film-festival-cinema-tiberio-rimini-2026-11-28",
+    "titolo": "Cerimonia di premiazione – Amarcort Film Festival",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T19:45",
+    "luogo": "Cinema Tiberio",
+    "comune": "099014",
+    "lat": 44.03879,
+    "lon": 12.53052,
+    "descrizione": "Serata conclusiva dell'Amarcort Film Festival con aperitivo e cerimonia di premiazione dei film e degli autori di questa edizione. Ingresso gratuito.",
+    "organizzatore": "Amarcort Film Festival",
+    "fonti": [
+      {
+        "nome": "Instagram Amarcort Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df8KcCpI3jd/",
+        "consultata": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "slug": "il-quaderno-di-tommaso-be-green-film-festival-teatro-comunale-crispiano-2026-11-28",
+    "titolo": "«Il quaderno di Tommaso» – evento speciale del Be Green International Film Festival",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T18:30",
+    "luogo": "Teatro comunale",
+    "comune": "073004",
+    "lat": 40.60571,
+    "lon": 17.25522,
+    "descrizione": "Proiezione del cortometraggio di Marco Pellegrino sul coraggio di testimoniare un'ingiustizia, seguita da un incontro con il testimone di giustizia Antonino Bartuccio e ospiti del Giffoni Film Festival e dell'Ordine dei Consulenti del Lavoro. Ingresso libero e gratuito.",
+    "organizzatore": "Be Green International Film Festival",
+    "fonti": [
+      {
+        "nome": "Instagram Be Green International Film Festival",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/Df41sXtR8IR/",
+        "consultata": "2026-11-25"
+      }
+    ]
   }
 ]
