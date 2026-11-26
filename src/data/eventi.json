@@ -384026,5 +384026,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ezra-pound-a-venezia-giornate-di-studio-libreria-sansoviniana-venezia-2026-12-03",
+    "titolo": "Ezra Pound a Venezia: due giornate di studio",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03",
+    "fine": "2026-12-04",
+    "luogo": "Libreria Sansoviniana (Biblioteca Nazionale Marciana)",
+    "comune": "027042",
+    "lat": 45.46695,
+    "lon": 12.34601,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno di due giorni dedicato a Ezra Pound e al fondo di Mary de Rachewiltz, da poco acquisito dal Ministero della Cultura e conservato alla Marciana. Si parla dell'eredità culturale del poeta e delle nuove piste di ricerca sull'archivio. Programma completo sul sito della biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Biblioteca Nazionale Marciana",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Biblioteca Iuav su Instagram (segnalazione dell'evento della Marciana)",
+        "tipo": "stampa",
+        "url": "https://www.instagram.com/p/DgKP5_akTq-/",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "inserito": "2026-11-26",
+    "inseritoDa": "ia"
   }
 ]
