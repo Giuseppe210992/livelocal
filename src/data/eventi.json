@@ -384054,5 +384054,2286 @@
     ],
     "inserito": "2026-11-26",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "mammalingua-cassano-d-adda",
+    "titolo": "Mammalingua",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2026-12-05T12:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via D. Alighieri, 4, 20062 Cassano d'Adda",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa del progetto Mammalingua dedicata ai bambini dai 3 ai 10 anni e alle famiglie. Si svolgono letture animate a più voci nelle lingue italiano, albanese, spagnolo e arabo, promosse dal programma Nati per Leggere.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/mammalingua-735474",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sergio-besutti-opere-recenti-cassano-d-adda",
+    "titolo": "Sergio Besutti - opere recenti",
+    "categoria": "mostra",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-20",
+    "luogo": "Casa Berva",
+    "indirizzo": "Via Giuseppe Verdi, 26, 20062 Cassano d'Adda",
+    "cap": null,
+    "comune": "015059",
+    "frazione": null,
+    "lat": 45.52663,
+    "lon": 9.51758,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra d'arte che presenta le opere recenti dell'artista Sergio Besutti. L'inaugurazione è prevista per il 5 dicembre alle 17:00 e la chiusura per il 20 dicembre alle 17:00. L'ingresso è libero durante gli orari di apertura indicati.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Cassano d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cassanodadda.mi.it/it/eventi/sergio-besutti-opere-recenti",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gemelli-di-guidonia-gametflix-erba",
+    "titolo": "GEMELLI DI GUIDONIA: Gametflix",
+    "categoria": "teatro",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:59",
+    "luogo": "Cineteatro Excelsior",
+    "indirizzo": "Via Diaz, 5",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico dei Gemelli di Guidonia, interpreti di Eduardo, Gino e Pacifico Acciarino, con regia di Massimiliano Papaleo. Si esibiscono al Cineteatro Excelsior.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 32
+    },
+    "prenotazione": null,
+    "organizzatore": "Gemelli di Guidonia",
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/gemelli-di-guidonia-gametflix",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "note-d-autunno-erbesi-in-attesa-erba",
+    "titolo": "NOTE D'AUTUNNO ERBESI: \"In attesa\"",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T21:00",
+    "fine": "2026-12-05T23:59",
+    "luogo": "Sala Polivalente di San Maurizio",
+    "indirizzo": "Via Alserio, 5",
+    "cap": null,
+    "comune": "013095",
+    "frazione": null,
+    "lat": 45.81196,
+    "lon": 9.21814,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che invita a riscoprire l'attesa come un dono, realizzato dalla Compagnia Teatrale \"Il Giardino delle Ore\". Regia di Antonio Brugnano e Matteo Castagna.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Compagnia Teatrale Il Giardino delle Ore",
+    "fonti": [
+      {
+        "nome": "Comune di Erba",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.erba.co.it/it/eventi/note-d-autunno-erbesi-in-attesa",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "rassegna-teatrale-2026-caravaggio",
+    "titolo": "Rassegna Teatrale 2026",
+    "categoria": "teatro",
+    "inizio": "2026-12-04T20:30",
+    "fine": "2026-12-04T23:00",
+    "luogo": "Oratorio San Luigi Gonzaga",
+    "indirizzo": "Via Bernardo da Caravaggio, 24, 24043 Caravaggio",
+    "cap": null,
+    "comune": "016053",
+    "frazione": null,
+    "lat": 45.49218,
+    "lon": 9.65342,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale \"EL VANGEL LA BUONA NOTIZIA\" nell'ambito della rassegna organizzata dalla Fondazione Don Pidrì e Don Pierino ETS, che si terrà presso l'Oratorio di Caravaggio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Don Pidrì e Don Pierino ETS",
+    "fonti": [
+      {
+        "nome": "Comune di Caravaggio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.caravaggio.bg.it/it/eventi/rassegna-teatrale-2026",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "maurizio-verdecchia-a-on-focus-castellarano",
+    "titolo": "Maurizio Verdecchia a \"On Focus\"",
+    "categoria": "mostra",
+    "inizio": "2026-11-26",
+    "fine": "2027-01-14",
+    "luogo": "Castellarano",
+    "indirizzo": "Castellarano",
+    "cap": null,
+    "comune": "035014",
+    "frazione": null,
+    "lat": 44.523,
+    "lon": 10.70193,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra fotografica di Maurizio Verdecchia nell'ambito del festival On Focus, quinta edizione, organizzata dal Gruppo fotografico Look At che ospita fotografi di grande livello.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo fotografico Look At",
+    "fonti": [
+      {
+        "nome": "Comune di Castellarano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellarano.re.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "benvenuta-adolescenza-castellarano",
+    "titolo": "Benvenuta Adolescenza",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-26",
+    "fine": "2027-01-14",
+    "luogo": "Castellarano",
+    "indirizzo": "Castellarano",
+    "cap": null,
+    "comune": "035014",
+    "frazione": null,
+    "lat": 44.523,
+    "lon": 10.70193,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata aperta e servizio pubblico di supporto e orientamento rivolto alle famiglie, dedicato al tema dell'adolescenza.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castellarano",
+    "fonti": [
+      {
+        "nome": "Comune di Castellarano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellarano.re.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "n-valsupata-ai-capita-der-cosi-commedia-teatrale-chieri",
+    "titolo": "'N Valsupata ai capita der cosi… – Commedia teatrale",
+    "categoria": "teatro",
+    "inizio": "2026-11-21",
+    "fine": "2026-12-05",
+    "luogo": "Teatro Oratorio San Luigi",
+    "indirizzo": "Chieri",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Commedia teatrale dell’Associazione Filodrammatica Can. G. Tosco in scena al Teatro Oratorio San Luigi di Chieri per il periodo compreso tra la fine di novembre e l'inizio di dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Filodrammatica Can. G. Tosco",
+    "fonti": [
+      {
+        "nome": "Comune di Chieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chieri.to.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "che-natale-a-chieri-2026-chieri",
+    "titolo": "Che Natale! ...a Chieri 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-06",
+    "luogo": "Vie e piazze di Chieri",
+    "indirizzo": "Chieri",
+    "cap": null,
+    "comune": "001078",
+    "frazione": null,
+    "lat": 45.00365,
+    "lon": 7.828,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione natalizia con luci, colori, musica, spettacoli e iniziative culturali nelle vie e piazze del centro storico, organizzata dalla Città di Chieri.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Chieri",
+    "fonti": [
+      {
+        "nome": "Comune di Chieri",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.chieri.to.it/it/eventi/che-natale-a-chieri-2026",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gruppo-di-lettura-manga-o-non-manga-cologno-al-serio-22-12",
+    "titolo": "Gruppo di Lettura \"Manga o non Manga\"",
+    "categoria": "conferenza",
+    "inizio": "2026-12-22T16:30",
+    "fine": null,
+    "luogo": "Spazio Cultura Civico 5",
+    "indirizzo": "Piazza Giuseppe Garibaldi",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo lettura per appassionati di manga, fumetti, graphic novels e cultura giapponese pop, aperto a tutti gli appassionati o neofiti del genere per condividere e approfondire le passioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/gruppo-di-lettura-manga-o-non-manga-9",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lettura-per-bambini-2-6-anni-cologno-al-serio",
+    "titolo": "LETTURA PER BAMBINI (2-6 anni)",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T10:00",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Piazza Giuseppe Garibaldi",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di lettura per bambini tra i 2 e i 6 anni, a cura del Gruppo API di Cologno al Serio. La partecipazione richiede prenotazione obbligatoria con un limite massimo di 25 bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Gruppo API di Cologno al Serio",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/lettura-per-bambini-2-6-anni-6",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tisana-d-autore-cologno-al-serio-04-12",
+    "titolo": "Tisana d'autore",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T20:30",
+    "fine": null,
+    "luogo": "Spazio Cultura Civico 5",
+    "indirizzo": "Piazza Giuseppe Garibaldi",
+    "cap": null,
+    "comune": "016079",
+    "frazione": null,
+    "lat": 45.57266,
+    "lon": 9.71521,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro per adulti con lo scrittore Alberto Locatelli, durante il quale si condivide una tisana e si discute della sua opera. L'evento è aperto senza necessità di prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale",
+    "fonti": [
+      {
+        "nome": "Comune di Cologno al Serio, Nati per leggere in festa 2026",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.colognoalserio.bg.it/vivere-il-comune/eventi/tisana-dautore-1",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "5-spotorno-run-10km-spotorno",
+    "titolo": "5° Spotorno Run 10km",
+    "categoria": "sport",
+    "inizio": "2026-11-29T10:00",
+    "fine": null,
+    "luogo": "Piazzale Ferrer",
+    "indirizzo": "Spotorno",
+    "cap": null,
+    "comune": "009057",
+    "frazione": null,
+    "lat": 44.2337,
+    "lon": 8.40509,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione sportiva di corsa con tre modalità di partecipazione: gara competitiva FIDAL di 10 km, corsa non competitiva di 10 km e Family Run di 5 km. Il percorso si snoda lungo la costa con vista sull'isola di Sant'Eugenio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Podistica Savonese",
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/5-spotorno-run-10km",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-a-garlenda-garlenda",
+    "titolo": "Mercatini di Natale a Garlenda",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Piazza Borgata Ponte",
+    "indirizzo": "Garlenda",
+    "cap": null,
+    "comune": "009030",
+    "frazione": null,
+    "lat": 44.02847,
+    "lon": 8.09676,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata all'atmosfera natalizia con bancarelle di artigianato, specialità gastronomiche e intrattenimento musicale. In programma laboratori creativi, letture di fiabe e presentazione del libro di Monica Quirico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "La Mia Liguria (agenzia regionale «in Liguria»)",
+        "tipo": "ufficiale",
+        "url": "https://lamialiguria.it/eventi/mercatini-di-natale-a-garlenda",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "quartetto-goya-appassionata-2026-macerata",
+    "titolo": "Quartetto GoYa | Appassionata 2026",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:00",
+    "fine": "2026-11-27T23:00",
+    "luogo": "Teatro della Filarmonica",
+    "indirizzo": "Piazza Mazzini, 10",
+    "cap": null,
+    "comune": "043023",
+    "frazione": null,
+    "lat": 43.30328,
+    "lon": 13.45191,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della formazione Quartetto GoYa con Sylvia Huang, Myrelis Morgan Verdecia, Saeko Oguma e Honorine Schaeffer. Il programma include opere di Schubert, Beethoven e Ravel nell'ambito della stagione Appassionata 2026.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Appassionata",
+    "fonti": [
+      {
+        "nome": "Comune di Macerata",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.macerata.it/vivere-il-comune/eventi/quartetto-goya-appassionata-2026",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "edina-altara-una-fantasia-moderna-nuoro",
+    "titolo": "Edina Altara - Una fantasia moderna",
+    "categoria": "mostra",
+    "inizio": "2026-11-07",
+    "fine": "2027-05-02",
+    "luogo": "Spazio Ilisso",
+    "indirizzo": "Nuoro",
+    "cap": null,
+    "comune": "114027",
+    "frazione": null,
+    "lat": 40.33944,
+    "lon": 9.29952,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra organica dedicata all'artista sarda Edina Altara (1898-1983), curata da Giuliana Altea. Il percorso espositivo, ospitato allo Spazio Ilisso, ricostruisce le molteplici espressioni della sua ricerca, dalla pittura all'illustrazione e alla moda, superando la distinzione tra arti maggiori e minori.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Spazio Ilisso",
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/it/eventi/edina-altara-una-fantasia-moderna",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "grazia-deledda-a-100-anni-dal-nobel-nuoro",
+    "titolo": "Grazia Deledda a 100 anni dal Nobel",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2026-11-26",
+    "luogo": "Nuoro - Cagliari",
+    "indirizzo": "Nuoro",
+    "cap": null,
+    "comune": "114027",
+    "frazione": null,
+    "lat": 40.33944,
+    "lon": 9.29952,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazione del centenario del Premio Nobel per la letteratura vinto da Grazia Deledda. L'iniziativa, che si estende a Cagliari, commemora l'autrice sarda attraverso eventi culturali legati alla sua figura e alla sua opera letteraria.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "xxi-secolo-25-anni-di-arte-contemporanea-in-sardegna-sassari",
+    "titolo": "XXI secolo. 25 anni di arte contemporanea in Sardegna",
+    "categoria": "mostra",
+    "inizio": "2026-11-18",
+    "fine": "2027-01-16",
+    "luogo": "Centro storico di Sassari",
+    "indirizzo": "Sassari",
+    "cap": null,
+    "comune": "112050",
+    "frazione": null,
+    "lat": 40.74467,
+    "lon": 8.36425,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra diffusa che raccoglie venticinque anni di ricerca artistica e creatività in Sardegna. Le opere, tra dipinti, fotografie e installazioni, sono esposte in tre sedi: Direzione Generale del Banco di Sardegna, Fondazione di Sardegna e Pinacoteca nazionale. Curata da Maria Paola Dettori e Vincenzo Pattusi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/it/eventi/xxi-secolo-25-anni-di-arte-contemporanea-sardegna",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-in-barbagia-2026-gadoni-gadoni",
+    "titolo": "Autunno in Barbagia 2026 - Gadoni",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Gadoni",
+    "indirizzo": "Gadoni",
+    "cap": null,
+    "comune": "114014",
+    "frazione": null,
+    "lat": 39.88696,
+    "lon": 9.17391,
+    "coordinateApprossimate": true,
+    "descrizione": "Tappa di Gadoni del festival Autunno in Barbagia. I cortili delle case sarde aprono le porte ai visitatori per un percorso esperienziale tra sapori, artigianato e patrimonio storico-artistico del territorio barbaricino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Camera di Commercio di Nuoro e Azienda ASPEN",
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "autunno-in-barbagia-2026-oniferi-oniferi",
+    "titolo": "Autunno in Barbagia 2026 - Oniferi",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Oniferi",
+    "indirizzo": "Oniferi",
+    "cap": null,
+    "comune": "114033",
+    "frazione": null,
+    "lat": 40.30441,
+    "lon": 9.16216,
+    "coordinateApprossimate": true,
+    "descrizione": "Tappa di Oniferi del festival Autunno in Barbagia. Gli abitanti accolgono i visitatori nelle cortes, offrendo un viaggio attraverso le tradizioni, i prodotti enogastronomici e le tipicità del paese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Camera di Commercio di Nuoro e Azienda ASPEN",
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-oristano-oristano",
+    "titolo": "Natale a Oristano",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-06",
+    "luogo": "Oristano",
+    "indirizzo": "Oristano",
+    "cap": null,
+    "comune": "115045",
+    "frazione": null,
+    "lat": 39.90935,
+    "lon": 8.61411,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento natalizio a Oristano che include mercatini, presepi e delizie gastronomiche. L'evento celebra le tradizioni festive dell'isola con eventi pensati per famiglie e turisti durante le festività invernali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-olbia-olbia",
+    "titolo": "Natale a Olbia",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-06",
+    "luogo": "Olbia",
+    "indirizzo": "Olbia",
+    "cap": null,
+    "comune": "113017",
+    "frazione": null,
+    "lat": 40.92308,
+    "lon": 9.48032,
+    "coordinateApprossimate": true,
+    "descrizione": "Celebrazioni del Natale a Olbia con mercatini natalizi, installazioni luminose e iniziative culturali. L'evento trasforma la città in un palcoscenico di festa per le vacanze invernali, richiamando visitatori da tutta la regione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Sardegna Turismo",
+        "tipo": "ufficiale",
+        "url": "https://www.sardegnaturismo.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-del-gruppo-di-lettura-castelletto-sopra-ticino",
+    "titolo": "Incontro del gruppo di lettura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T21:00",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Castelletto sopra Ticino",
+    "cap": null,
+    "comune": "003043",
+    "frazione": null,
+    "lat": 45.71132,
+    "lon": 8.62092,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del gruppo di lettura dedicato alla discussione del libro \"La volta giusta\" di Lorenza Gentile, presso la biblioteca comunale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Castelletto Sopra Ticino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/incontro-del-gruppo-di-lettura-133794-1-901999b98ed1e82764e8f2caef625884",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-con-luca-bianchini-castelletto-sopra-ticino",
+    "titolo": "Incontro con Luca Bianchini",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05T18:00",
+    "fine": null,
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Castelletto sopra Ticino",
+    "cap": null,
+    "comune": "003043",
+    "frazione": null,
+    "lat": 45.71132,
+    "lon": 8.62092,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro nell'ambito della rassegna \"Libri tra le sponde 2\" in cui l'autore Luca Bianchini presenta il suo libro \"Le ragazze di Tunisi\".",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Libreria Ubik di Sesto Calende",
+    "fonti": [
+      {
+        "nome": "Comune di Castelletto Sopra Ticino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.castellettosopraticino.no.it/it-it/vivere-il-comune/eventi/incontro-con-luca-bianchini-133585-1-43d6ccfa1e406e60eba8b71a145bc892",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apocalypsinc-salerno",
+    "titolo": "Apocalypsinc",
+    "categoria": "teatro",
+    "inizio": "2026-11-29",
+    "fine": "2026-11-30",
+    "luogo": "Sala Pasolini",
+    "indirizzo": "Salerno",
+    "cap": null,
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67793,
+    "lon": 14.80995,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di prosa di Luciano Rosso e Maria Saccone. L'evento è a pagamento e fa parte della stagione della Sala Pasolini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.comune.salerno.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-strada-diventa-un-palco-salerno",
+    "titolo": "La strada diventa un palco",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-03",
+    "fine": "2027-01-05",
+    "luogo": "Via Mercanti",
+    "indirizzo": "Salerno",
+    "cap": null,
+    "comune": "065116",
+    "frazione": null,
+    "lat": 40.67793,
+    "lon": 14.80995,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa natalizia con spettacoli e artisti nelle vie del centro, in programma dal 3 dicembre al 5 gennaio. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Salerno Cultura",
+        "tipo": "ufficiale",
+        "url": "https://cultura.comune.salerno.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-della-cappella-musicale-di-s-maria-in-via-l-homme-arme-palestrina",
+    "titolo": "Concerto della Cappella Musicale di S. Maria in Via: L’Homme armé",
+    "categoria": "concerto",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Basilica Cattedrale di Palestrina",
+    "indirizzo": "Palestrina",
+    "cap": null,
+    "comune": "058074",
+    "frazione": null,
+    "lat": 41.81668,
+    "lon": 12.85756,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della Cappella Musicale di S. Maria in Via dedicato al tema 'L’Homme armé', parte della programmazione per il Cinquecentenario di Giovanni Pierluigi da Palestrina.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Giovanni Pierluigi da Palestrina",
+    "fonti": [
+      {
+        "nome": "Fondazione Giovanni Pierluigi da Palestrina",
+        "tipo": "organizzatore",
+        "url": "https://www.fondazionepierluigipalestrina.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "assemblea-di-fortinrete-la-rete-italiana-delle-fortezze-bard",
+    "titolo": "Assemblea di Fortinrete, la rete italiana delle fortezze",
+    "categoria": "conferenza",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T13:00",
+    "luogo": "Forte di Bard",
+    "indirizzo": "Forte di Bard, 11020 Bard AO",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Riunione dei soci di Fortinrete per illustrare i progetti di valorizzazione del patrimonio fortificato italiano. Interverranno il presidente Bruno Buratti e il vicepresidente Ornella Badery. Include visita guidata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fortinrete",
+    "fonti": [
+      {
+        "nome": "Forte di Bard",
+        "tipo": "ufficiale",
+        "url": "https://www.fortedibard.it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alice-in-christmasland-lo-spettacolo-in-scena-performers-e-ballerini-bard",
+    "titolo": "Alice in ChristmasLand, lo spettacolo! In scena performers e ballerini",
+    "categoria": "teatro",
+    "inizio": "2026-12-08T17:30",
+    "fine": "2026-12-08T19:00",
+    "luogo": "Forte di Bard, Piazza d'Armi",
+    "indirizzo": "Forte di Bard, 11020 Bard AO",
+    "cap": null,
+    "comune": "007009",
+    "frazione": null,
+    "lat": 45.61658,
+    "lon": 7.74847,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di danza e videomapping ispirato ad Alice nel Paese delle Meraviglie. Cast di ballerini professionisti su coreografia di Tony Lofaro. L'ingresso è incluso nel biglietto di entrata al Forte.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Forte di Bard",
+    "fonti": [
+      {
+        "nome": "Forte di Bard",
+        "tipo": "ufficiale",
+        "url": "https://www.fortedibard.it/evento/alice-in-christmasland-lo-spettacolo-in-scena-performers-e-ballerini",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fun-game-night-ivrea",
+    "titolo": "Fun Game Night",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T21:00",
+    "fine": null,
+    "luogo": "ZAC!",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata ai giochi da tavolo presso il Movicentro. I partecipanti sono invitati a portare il proprio gioco preferito per una serata di intrattenimento e socializzazione all'interno dello spazio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/fun-game-night",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "scacchi-al-bar-ivrea-08-12",
+    "titolo": "Scacchi al bar",
+    "categoria": "sport",
+    "inizio": "2026-12-08T16:00",
+    "fine": null,
+    "luogo": "Bar dello ZAC!",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa ricorrente aperta al pubblico per giocare a scacchi. L'evento si tiene presso il bar della cooperativa, offrendo uno spazio informale per gli appassionati di questo sport.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/scacchi-al-bar-3",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cosebuone-ivrea-08-12",
+    "titolo": "CoseBuone",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08T17:00",
+    "fine": "2026-12-08T19:00",
+    "luogo": "Atrio dello ZAC!",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato di prodotti locali e sani offerti dai produttori del territorio. Presenza di aziende come L'orto di Carmen, Cascina Escuelita, Azienda Neato e Azienda Capre e Cavoli per la vendita di ortofrutta, pane, formaggi e conserve.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/cosebuone-3",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperiqueer-ivrea-09-12",
+    "titolo": "Aperiqueer",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-09T18:00",
+    "fine": null,
+    "luogo": "Bar dello ZAC!",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Aperitivo in uno spazio sicuro e queer. Incontro informale pensato per il riconoscimento e il dialogo, accessibile a chiunque indipendentemente dalle abilità sociali, con facilitatori presenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/aperiqueer-1",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "burraco-ivrea-10-12",
+    "titolo": "Burraco",
+    "categoria": "sport",
+    "inizio": "2026-12-10T16:00",
+    "fine": null,
+    "luogo": "Bar dello ZAC!",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa ricorrente per giocare a Burraco. L'attività si svolge al bar della cooperativa, aperta a tutti i giovedì con l'invito a diffondere la notizia tra i conoscenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/burraco-1",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "the-unseen-ivrea",
+    "titolo": "The Unseen",
+    "categoria": "bambini",
+    "inizio": "2026-12-11T21:30",
+    "fine": null,
+    "luogo": "Atrio - palco",
+    "indirizzo": "Via Dora Baltea 40b",
+    "cap": null,
+    "comune": "001125",
+    "frazione": null,
+    "lat": 45.45382,
+    "lon": 7.89119,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del documentario 'The Unseen' di Milou Rientjes e Niek Pennings. Il film segue tre migranti dell'Africa occidentale a Borgo Mezzanone, esplorando lo sfruttamento lavorativo nel settore agricolo europeo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ZAC!",
+    "fonti": [
+      {
+        "nome": "ZAC!",
+        "tipo": "organizzatore",
+        "url": "https://www.lozac.it/26/11/eventi/unseen",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pozzi-di-liberta-poesie-e-voci-di-donne-e-resistenza-stresa",
+    "titolo": "Pozzi di libertà - Poesie e voci di donne e resistenza",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Palazzina Liberty",
+    "indirizzo": "Stresa",
+    "cap": null,
+    "comune": "103064",
+    "frazione": null,
+    "lat": 45.887,
+    "lon": 8.52556,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale a cura de Il Menu della Poesia con le attrici, che esplora il tema delle donne e della resistenza attraverso la poesia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Il Menu della Poesia",
+    "fonti": [
+      {
+        "nome": "Stresa Turismo (Pro Loco / Comune di Stresa)",
+        "tipo": "ufficiale",
+        "url": "https://www.stresaturismo.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "alberi-bellaria-igea-marina",
+    "titolo": "Alberi",
+    "categoria": "mostra",
+    "inizio": "2026-11-20",
+    "fine": "2026-12-02",
+    "luogo": "Biblioteca comunale Alfredo Panzini",
+    "indirizzo": "Via Guidi Paolo, 108, 47814 Bellaria-Igea Marina RN, Italia",
+    "cap": null,
+    "comune": "099001",
+    "frazione": null,
+    "lat": 44.1317,
+    "lon": 12.46353,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra di disegni di alberi realizzata dai bambini della Scuola Primaria Tre Ponti dell'IC Rita Levi Montalcini. Il percorso espositivo include un piccolo omaggio per i visitatori a cura degli studenti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Scuola Primaria Tre Ponti dell'I.C. Rita Levi Montalcini",
+    "fonti": [
+      {
+        "nome": "Comune di Bellaria Igea Marina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.bellaria-igea-marina.rn.it/it/eventi/alberi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pomeriggi-della-medicina-2026-brescia-26-11",
+    "titolo": "Pomeriggi della medicina 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T17:30",
+    "fine": "2026-11-26T19:30",
+    "luogo": "Auditorium San Barnaba",
+    "indirizzo": "Piazza Arturo Benedetti Michelangeli, 1, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno sul tema della prevenzione e delle scelte quotidiane in salute, relatore Silvio Brusaferro, nell'ambito del ciclo de I pomeriggi della medicina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ordine dei Medici",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/pomeriggi-della-medicina-2026-2520586-2520823",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cne-2026-focus-hirokazu-kore-eda-brescia-26-11",
+    "titolo": "CNE 2026. Focus Hirokazu Kore'eda",
+    "categoria": "mostra",
+    "inizio": "2026-11-26T18:30",
+    "fine": "2026-11-26T23:00",
+    "luogo": "Cinema Nuovo Eden",
+    "indirizzo": "Via Nino Bixio, 9, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film Still Walking. Camminando in un giorno d'estate del regista giapponese Hirokazu Kore'eda, quarta tappa della rassegna di cinema dedicata al maestro del racconto intimo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/cne-2026-focus-hirokazu-kore-eda-2520412-2520587-2520820",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tutto-quello-che-volevo-brescia",
+    "titolo": "Tutto quello che volevo",
+    "categoria": "teatro",
+    "inizio": "2026-11-26T20:00",
+    "fine": "2026-11-26T22:00",
+    "luogo": "Teatro Sant'Afra",
+    "indirizzo": "Vicolo dell'Ortaglia, 6, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale a offerta libera che racconta una sentenza rivoluzionaria in un caso di prostituzione minorile, affrontando violenza, stereotipi di genere e riscatto delle vittime.",
+    "prezzo": {
+      "tipo": "offerta"
+    },
+    "prenotazione": null,
+    "organizzatore": "Inner Wheel Club di Brescia Veronica Gambara",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/tutto-quello-che-volevo",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "meccaniche-della-meraviglia-2026-brescia-26-11",
+    "titolo": "Meccaniche della Meraviglia 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-26T09:00",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Centro città di Brescia",
+    "indirizzo": "Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra diffusa intitolata a Piero Cavellini, a un anno dalla scomparsa dell'artista, con allestimenti in diverse sedi cittadine tra cui Biblioteca Queriniana e Fondazione Clerici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/meccaniche-della-meraviglia-2026-2520789-2520822",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mo-ca-2026-pain-and-desire-brescia",
+    "titolo": "Mo.Ca 2026 – Pain and Desire",
+    "categoria": "mostra",
+    "inizio": "2026-11-26T18:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "MO.CA- Centro per le nuove culture",
+    "indirizzo": "Via Moretto, 78, Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima mostra personale in Italia di Laura Footes, con oltre 30 opere tra dipinti e sculture site specific che indagano le relazioni tra corpo, controllo, desiderio e dolore.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "MO.CA",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/mo-ca-2026-pain-and-desire",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fondazione-dolci-domenico-lusetti-brescia-25-11",
+    "titolo": "Fondazione Dolci. Domenico Lusetti",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T10:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Fondazione Martino Dolci",
+    "indirizzo": "Via Raffaello 163/165, San Polo",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata allo scultore bresciano Domenico Lusetti (1908-1971) con quasi sessanta opere tra figure umane, animali e ricerca plastica, esposte alla Cascina Aurora a San Polo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Martino Dolci",
+    "fonti": [
+      {
+        "nome": "Comune di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.brescia.it/it/eventi/fondazione-dolci-domenico-lusetti-2520787",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "open-call-per-artisti-concesio",
+    "titolo": "Open Call per artisti",
+    "categoria": "mostra",
+    "inizio": "2026-11-25T14:00",
+    "fine": "2026-12-08T23:59",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Bando pubblico per selezionare artisti e collettivi per le mostre temporanee della Biblioteca di Concesio del 2027. Lo spazio espositivo di 60 mq viene messo a disposizione gratuitamente, inclusi fondali e illuminazione. La scadenza per la presentazione delle domande è l'8 dicembre 2026.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Concesio (BiCO)",
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/open-call-per-artisti-735578",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "non-e-come-sembra-il-mondo-nascosto-della-meccanica-quantistica-concesio",
+    "titolo": "Non è come sembra: il mondo nascosto della meccanica quantistica",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T20:30",
+    "fine": "2026-12-03T22:00",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro divulgativo sulla meccanica quantistica, terzo e ultimo della rassegna Micro.Macro. L'evento è a cura di Francesco Filippini, dottore in fisica e divulgatore scientifico, che esplora la storia e l'impatto di questa teoria sul pensiero moderno.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/non-e-come-sembra-il-mondo-nascosto-della-meccanica-quantistica-735556",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "game-night-speciale-spetom-zugom-concesio",
+    "titolo": "Game Night – speciale SPETÒM ZÜGÓM",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T20:30",
+    "fine": "2026-12-05T01:30",
+    "luogo": "Biblioteca Comunale di Concesio - BICO",
+    "indirizzo": "Via Enrico Mattei, 99, 25062 Concesio BS, Italia",
+    "cap": null,
+    "comune": "017061",
+    "frazione": null,
+    "lat": 45.61149,
+    "lon": 10.21419,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di giochi da tavolo aperta a tutti, a cura dell'associazione ludica Giocatori Malmostosi. Un momento di socializzazione e divertimento per scoprire nuovi giochi e sfidare amici o familiari nell'ambito delle iniziative mensili della biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Giocatori Malmostosi",
+    "fonti": [
+      {
+        "nome": "Comune di Concesio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.concesio.bs.it/it/eventi/game-night-speciale-spetom-zuegom-735559",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bando-borse-di-studio-fondazione-angelo-giorgio-ghezzi-premiazione-vin-cusano-milanino",
+    "titolo": "Bando borse di studio Fondazione Angelo Giorgio Ghezzi – premiazione vincitori",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-02T19:30",
+    "fine": null,
+    "luogo": "Dancing Vallechiara",
+    "indirizzo": "Via Adige, 22",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione dei vincitori del concorso per borse di studio della Fondazione a memoria di Angelo Giorgio Ghezzi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Angelo Giorgio Ghezzi",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/bando-borse-di-studio-fondazione-angelo-giorgio-ghezzi-proroga-termini",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-rassegna-musicale-i-sabati-del-santuario-del-16-gennaio-2027-cusano-milanino",
+    "titolo": "Concerto Rassegna musicale “I Sabati del Santuario” del 16 gennaio 2027",
+    "categoria": "concerto",
+    "inizio": "2027-01-16T21:00",
+    "fine": null,
+    "luogo": "Santuario Madonna della Cintura",
+    "indirizzo": "Piazza XXV Aprile",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della rassegna mensile con il pianista Ivano Palma, all'interno del ciclo 2026/2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comunità Pastorale Madonna della Cintura",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/rassegna-musicale-i-sabati-del-santuario-3",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-rassegna-musicale-i-sabati-del-santuario-del-8-febbraio-2027-cusano-milanino",
+    "titolo": "Concerto Rassegna musicale “I Sabati del Santuario” del 8 febbraio 2027",
+    "categoria": "concerto",
+    "inizio": "2027-02-08T21:00",
+    "fine": null,
+    "luogo": "Santuario Madonna della Cintura",
+    "indirizzo": "Piazza XXV Aprile",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Santuario Madonna della Cintura, Cusano Milanino, 08/02. Concerto della rassegna mensile con il pianista Ivano Palma, all'interno del ciclo 2026/2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comunità Pastorale Madonna della Cintura",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/rassegna-musicale-i-sabati-del-santuario-3",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-rassegna-musicale-i-sabati-del-santuario-del-8-marzo-2027-cusano-milanino",
+    "titolo": "Concerto Rassegna musicale “I Sabati del Santuario” del 8 marzo 2027",
+    "categoria": "concerto",
+    "inizio": "2027-03-08T21:00",
+    "fine": null,
+    "luogo": "Santuario Madonna della Cintura",
+    "indirizzo": "Piazza XXV Aprile",
+    "cap": null,
+    "comune": "015098",
+    "frazione": null,
+    "lat": 45.55264,
+    "lon": 9.18469,
+    "coordinateApprossimate": true,
+    "descrizione": "Santuario Madonna della Cintura, Cusano Milanino, 08/03. Concerto della rassegna mensile con il pianista Ivano Palma, all'interno del ciclo 2026/2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comunità Pastorale Madonna della Cintura",
+    "fonti": [
+      {
+        "nome": "Comune di Cusano Milanino",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cusano-milanino.mi.it/agenda/rassegna-musicale-i-sabati-del-santuario-3",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "coltivare-relazioni-virtuose-la-calma-come-scelta-non-violenta-cortona",
+    "titolo": "Coltivare relazioni virtuose, la calma come scelta non violenta",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T15:30",
+    "fine": "2026-11-28T19:00",
+    "luogo": "Casa di paese di via dei Combattenti a Terontola",
+    "indirizzo": "Via dei Combattenti 3/G, Terontola, 52044 Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico nell'ambito del progetto Cortona Connect. Intervengono Sergio Angori, docente di Pedagogia, e Roberta Moretti, filosofa, su relazioni e nonviolenza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Cortona, Auser Terontola e Rotary Cortona Valdichiana",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/eventi-sociali/coltivare-relazioni-virtuose-la-calma-come-scelta-non-violenta",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "eleiva-cortonensis-cortona",
+    "titolo": "Eleiva Cortonensis",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T17:30",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Sala civica Centoia",
+    "indirizzo": "Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa dell'olio nuovo e merenda unta a Centoia con partecipazione alla Proloco e al concorso ELEIVA CORTONENSIS 2026. Previste ciacce fritte e vin brulé.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Proloco Centoia",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/eventi-sociali/eleiva-cortonensis",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-dell-olio-nuovo-cortona",
+    "titolo": "Festa dell'olio nuovo",
+    "categoria": "sagra",
+    "inizio": "2026-12-06T16:00",
+    "fine": "2026-12-06T21:00",
+    "luogo": "Sala Polivalente di Terontola",
+    "indirizzo": "Via dei Combattenti 3/G, Terontola, 52044 Cortona",
+    "cap": null,
+    "comune": "051017",
+    "frazione": null,
+    "lat": 43.26167,
+    "lon": 12.00004,
+    "coordinateApprossimate": true,
+    "descrizione": "Tappa a Terontola del concorso Eleiva Cortonensis. Settima edizione della festa con degustazioni di piatti tipici con olio nuovo e premiazione del concorso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Sociale Terontola",
+    "fonti": [
+      {
+        "nome": "Comune di Cortona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.cortona.ar.it/vivere-il-comune/eventi/eventi-sociali/festa-dellolio-nuovo",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fablab-kids-cartone-che-suona-grezzana",
+    "titolo": "FabLab Kids Cartone che suona",
+    "categoria": "bambini",
+    "inizio": "2026-12-16T16:30",
+    "fine": "2026-12-16T18:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Antonio Segni, 2, 37023 Grezzana VR, Italia",
+    "cap": null,
+    "comune": "023038",
+    "frazione": null,
+    "lat": 45.54708,
+    "lon": 11.01756,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per bambini dai 3 ai 7 anni all'interno del progetto FabLab Kids. Attività manuale incentrata sulla costruzione di strumenti musicali con materiali di riciclo, finalizzata a stimolare la creatività e la consapevolezza ambientale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Grezzana",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.grezzana.vr.it/it/eventi/inaugurazione-progetto-fablab-kids-702288-704160-716530-716531-716532-725828-725839-734399",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-predatori-sesso-e-violenza-nelle-mafie-pistoia",
+    "titolo": "Presentazione libro \"Predatori. Sesso e violenza nelle mafie\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T18:30",
+    "luogo": "Palazzo Fabroni",
+    "indirizzo": "Via Sant'Andrea, 51100 Pistoia PT, Italia",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "L'autrice Celeste Costantino presenta il suo libro su mafie e violenza, dialogando con la giornalista Cristina Privitera. L'incontro si inserisce nel programma 'Oltre il silenzio' per la Giornata internazionale contro la violenza sulle donne.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Una Nessuna Centomila",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/presentazione-libro-predatori-sesso-e-violenza-nelle-mafie",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-storie-pistoiesi-e-toscane-pistoia",
+    "titolo": "Presentazione libro \"Storie pistoiesi e toscane\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-26T17:00",
+    "fine": "2026-11-26T18:30",
+    "luogo": "Sala Maggiore - Palazzo Comunale",
+    "indirizzo": "Piazza del Duomo, 1, 51100 Pistoia PT, Italia",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del volume di Carlo Onofrio Gori sulle storie locali, nell'ambito del ciclo 'Leggere, raccontare, incontrarsi...'. Intervengono Giampiero Giampieri, Alberto Gori, Giampaolo Perugi e Luigi Pulcini, con coordinamento di Cesare Sartori.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Forteguerriana",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/presentazione-libro-storie-pistoiesi-e-toscane",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-ingegno-della-montagna-mani-che-inventano-menti-che-trasformano-pistoia",
+    "titolo": "L'Ingegno della Montagna. Mani che inventano, menti che trasformano",
+    "categoria": "mostra",
+    "inizio": "2026-04-19T16:30",
+    "fine": "2027-01-10T18:00",
+    "luogo": "Palazzo Achilli a Gavinana",
+    "indirizzo": "Piazza Achilli, 7, 51028 Gavinana PT, Italia",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso espositivo sulle attività produttive della Montagna Pistoiese, che mette in dialogo memoria e innovazione attraverso prototipi e narrazioni multimediali. Include spazi interattivi per i più piccoli, con ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Ecomuseo della Montagna Pistoiese",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/l-ingegno-della-montagna-mani-che-inventano-menti-che-trasformano",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pistoia-capitale-italiana-del-libro-2026-pistoia",
+    "titolo": "Pistoia Capitale italiana del libro 2026",
+    "categoria": "conferenza",
+    "inizio": "2026-01-01T00:00",
+    "fine": "2026-12-31T23:59",
+    "luogo": "Pistoia",
+    "indirizzo": "Piazza del Duomo, 51100 Pistoia PT, Italia",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma annuale di eventi e iniziative per la Capitale italiana del libro. L'avventura include libri, dialoghi, progetti educativi e nuovi spazi per promuovere la lettura come strumento di crescita e identità culturale cittadina.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ministero della Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/pistoia-capitale-italiana-del-libro-2026",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-stagione-del-cisim-ravenna",
+    "titolo": "La stagione del Cisim",
+    "categoria": "teatro",
+    "inizio": "2026-11-26",
+    "fine": "2027-03-13",
+    "luogo": "Cisim",
+    "indirizzo": "Lido Adriano",
+    "cap": null,
+    "comune": "039014",
+    "frazione": null,
+    "lat": 44.41269,
+    "lon": 12.19304,
+    "coordinateApprossimate": true,
+    "descrizione": "Stagione teatrale giunta alla sedicesima edizione, che propone una programmazione ricca e trasversale tra musica e teatro nel territorio di Lido Adriano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "CISIM",
+    "fonti": [
+      {
+        "nome": "Comune di Ravenna",
+        "tipo": "ufficiale",
+        "url": "https://comune.ravenna.it/vivere-il-comune/eventi/spettacolo-teatrale",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "consiglio-comunale-francavilla-fontana",
+    "titolo": "Consiglio Comunale",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T08:30",
+    "fine": "2026-11-27T23:59",
+    "luogo": "Sala Consiliare, Castello Imperiali",
+    "indirizzo": "Via Municipio 4",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Sessione del Consiglio Comunale con prima convocazione alle ore 8:30. L'evento si svolge nella Sala Consiliare del Castello Imperiali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98790936/consiglio-comunale-prima-convocazione-ore-900",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "puglia-donna-partecipa-leadership-e-imprenditorialita-femminile-francavilla-fontana",
+    "titolo": "Puglia Donna Partecipa - Leadership e imprenditorialità femminile",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T09:00",
+    "fine": "2026-11-27T18:00",
+    "luogo": "Biblioteca Comunale Community Library “Giovanni Calò”",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul tema della leadership e dell'imprenditorialità femminile, parte del progetto Francavilla Orienta 4.0. L'evento si svolge dalle 9:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98799729/puglia-donna-partecipa-leadership-e-imprenditorialita-femminile-dalle-9-00-alle-18-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-convivialismo-o-barbarie-francavilla-fontana",
+    "titolo": "Incontro \"Convivialismo o barbarie\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T17:30",
+    "fine": "2026-11-27T23:59",
+    "luogo": "Palazzo del Sedile",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del volume \"Convivialismo o barbarie. Il Nuovo Manifesto Convivialista\" con interventi di docenti universitari e giornalisti. Fa parte del Festival della Cooperazione Internazionale. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "AIFO",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98802258/evento-1530",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "progetto-cosmopolita-sfide-narrative-quando-l-albo-illustrato-frantuma-francavilla-fontana",
+    "titolo": "Progetto Cosmopolita- \"Sfide narrative. Quando l'albo illustrato frantuma gli stereotipi di genere\"",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:00",
+    "fine": "2026-11-27T23:59",
+    "luogo": "Via Barbaro Forleo 1",
+    "indirizzo": "Via Barbaro Forleo 1",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del Premio internazionale di letteratura per l'infanzia Narrating Equality e del progetto Rifugi. Intervengono Maria Grazia Anatra e Maria Pia Ercolini. Iniziativa del Comune di Francavilla Fontana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98790513/progetto-cosmopolita-sfide-narrative-quando-l-albo-illustrato-frantuma-gli-stereotipi-di-genere-inizio-ore-18-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "figli-edoardo-pesce-silvia-d-amico-francavilla-fontana",
+    "titolo": "\"Figli\" Edoardo Pesce, Silvia D’Amico",
+    "categoria": "teatro",
+    "inizio": "2026-11-30T21:00",
+    "fine": "2026-11-30T23:59",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Via Santa Cesarea",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale tratto dal film omonimo di Mattia Torre, con regia di Fausto Paravidino. Protagonisti Edoardo Pesce e Silvia D'Amico. Primo appuntamento della stagione teatrale 2026/27.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98400891/-figli-edoardo-pesce,-silvia-d-amico-sipario-ore-21-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giochiamo-senza-barriere-francavilla-fontana",
+    "titolo": "“GiochiAMO senza barriere”",
+    "categoria": "sport",
+    "inizio": "2026-12-03T15:00",
+    "fine": "2026-12-03T23:00",
+    "luogo": "Palazzetto dello Sport",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa sportiva in occasione della Giornata internazionale delle persone con disabilità. Attività di gioco e sport per tutti, con la partecipazione di associazioni cittadine e DJ Lionheart. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lions International – Distretto 108AB Puglia, Lions Club Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98810789/evento-1531",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ti-lascio-una-canzone-gianluca-guidi-francavilla-fontana",
+    "titolo": "\"Ti Lascio una Canzone\" Gianluca Guidi",
+    "categoria": "teatro",
+    "inizio": "2026-12-15T21:00",
+    "fine": "2026-12-15T23:59",
+    "luogo": "Teatro Italia",
+    "indirizzo": "Via Santa Cesarea",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con protagonista Gianluca Guidi. Fa parte della stagione teatrale 2026/27 promossa dal Comune di Francavilla Fontana in collaborazione con Puglia Culture.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98400908/-ti-lascio-una-canzone-gianluca-guidi-sipario-ore-21-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "puglia-donna-partecipa-orientamento-al-lavoro-strumenti-per-la-ricerca-francavilla-fontana",
+    "titolo": "Puglia Donna Partecipa - Orientamento al lavoro: strumenti per la ricerca attiva",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T09:00",
+    "fine": "2026-12-17T18:00",
+    "luogo": "Biblioteca Comunale Community Library “Giovanni Calò”",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sull'orientamento al lavoro e gli strumenti per la ricerca attiva, parte del progetto Francavilla Orienta 4.0. L'evento si svolge dalle 9:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98799823/puglia-donna-partecipa-orientamento-al-lavoro-strumenti-la-ricerca-attiva-dalle-9-00-alle-18-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "puglia-donna-partecipa-conciliazione-vita-lavoro-e-supporto-francavilla-fontana",
+    "titolo": "Puglia Donna Partecipa - Conciliazione vita-lavoro e supporto",
+    "categoria": "conferenza",
+    "inizio": "2027-01-28T09:00",
+    "fine": "2027-01-28T18:00",
+    "luogo": "Biblioteca Comunale Community Library “Giovanni Calò”",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sulla conciliazione vita-lavoro e i servizi di supporto, parte del progetto Francavilla Orienta 4.0. L'evento si svolge dalle 9:00 alle 18:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98799847/puglia-donna-partecipa-conciliazione-vita-lavoro-e-supporto-dalle-9-00-alle-18-00",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "casa-doria-cerca-volti-voci-e-storie-chiamata-alla-creativita-per-unde-lerici",
+    "titolo": "Casa Doria cerca volti, voci e storie: chiamata alla creatività per under 35",
+    "categoria": "mostra",
+    "inizio": "2026-12-09",
+    "fine": null,
+    "luogo": "Ca' Doria Hub",
+    "indirizzo": "Lerici",
+    "cap": null,
+    "comune": "011016",
+    "frazione": null,
+    "lat": 44.079,
+    "lon": 9.92535,
+    "coordinateApprossimate": true,
+    "descrizione": "Open call promossa da Ca' Doria Hub per giovani under 35 che vogliono raccontare il proprio rapporto con l'arte attraverso una installazione audiovisiva collettiva.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ca' Doria Hub",
+    "fonti": [
+      {
+        "nome": "Lerici Coast (sito turistico ufficiale del Comune di Lerici)",
+        "tipo": "ufficiale",
+        "url": "https://lericicoast.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
   }
 ]
