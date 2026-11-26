@@ -386335,5 +386335,32 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-vestito-di-mia-madre-sara-rattaro-verolibri-sala-trulli-veroli-2026-12-04",
+    "titolo": "Verolibri: Sara Rattaro presenta «Il vestito di mia madre»",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T18:00",
+    "luogo": "Sala Trulli",
+    "comune": "060085",
+    "lat": 41.71903,
+    "lon": 13.44937,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro della rassegna Verolibri con la scrittrice Sara Rattaro, che racconta il suo romanzo sulla vita di Teresa Mattei, dalla Resistenza all'Assemblea Costituente. Dialoga con l'autrice la senatrice Valeria Valente; modera la giornalista Laura Collinoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Veroli",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Veroli su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgKfqAco1rW/",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "inserito": "2026-11-26",
+    "inseritoDa": "ia"
   }
 ]
