@@ -373901,5 +373901,172 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cossato-suona-buena-vista-social-club-sesion-cubana-al-teatro-comunale-cossato",
+    "titolo": "Cossato Suona Buena Vista Social Club Sesión Cubana al Teatro Comunale",
+    "categoria": "concerto",
+    "inizio": "2027-01-22T21:00",
+    "fine": "2027-01-22T23:00",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza Elvo Tempia, 12",
+    "cap": null,
+    "comune": "096020",
+    "frazione": null,
+    "lat": 45.55286,
+    "lon": 8.18438,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto dell'ensemble Buena Vista Social Club che propone il repertorio del Son Cubano, con musicisti cubani ed interpreti europei, tra brani come Chan Chan e El Cuarto de Tula.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Temporary Band",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cossato",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cossato-suona-buena-vista-social-club-sesion-cubana-al-teatro-comunale-bi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bosco-sassi-neri-terre-bianche-e-la-galleria-filtrante-impruneta",
+    "titolo": "Bosco Sassi Neri, Terre Bianche e la Galleria Filtrante",
+    "categoria": "visita-guidata",
+    "inizio": "2027-01-16T09:30",
+    "fine": "2027-01-16T16:00",
+    "luogo": "Piazza Buondelmonti",
+    "indirizzo": "Piazza Buondelmonti, 22 - 50023 Impruneta (FI)",
+    "cap": null,
+    "comune": "048022",
+    "frazione": null,
+    "lat": 43.69714,
+    "lon": 11.24647,
+    "coordinateApprossimate": true,
+    "descrizione": "Camminata ad anello di 10 km nei dintorni di Impruneta alla scoperta delle Terre Bianche, del Bosco Sassi Neri e delle miniere. Il percorso include la visita in esclusiva alla Galleria Filtrante, accompagnati da guide ambientali dell'Associazione Sassi Neri. Sono richieste scarpe da trekking.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Sassi Neri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Impruneta",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-bosco-sassi-neri-terre-bianche-e-la-galleria-filtrante",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voglio-tornare-negli-anni-90-r-porto-viro-porto-viro",
+    "titolo": "Voglio Tornare Negli Anni 90 r – Porto Viro",
+    "categoria": "concerto",
+    "inizio": "2027-05-08T22:00",
+    "fine": "2027-05-09T00:00",
+    "luogo": "Piazza della Repubblica",
+    "indirizzo": "Piazza della Repubblica, 45014 Porto Viro (RO)",
+    "cap": null,
+    "comune": "029052",
+    "frazione": null,
+    "lat": 45.01498,
+    "lon": 12.30462,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale a tema anni '90 con coriandoli, stelle filanti, snow show e animazione. Include area food e beverage. Evento gratuito con inizio previsto alle 22:00.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Voglio Tornare Negli Anni 90",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Porto Viro",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-voglio-tornare-negli-anni-90-r-porto-viro-ro",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "apertura-2027-valeggio-sul-mincio",
+    "titolo": "Apertura 2027",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2027-03-06T09:00",
+    "fine": "2027-03-06T18:00",
+    "luogo": "Parco Giardino Sigurtà",
+    "indirizzo": "Via Antonio Murari",
+    "cap": null,
+    "comune": "023089",
+    "frazione": null,
+    "lat": 45.35379,
+    "lon": 10.74172,
+    "coordinateApprossimate": true,
+    "descrizione": "Riapertura stagionale del Parco Giardino Sigurtà dopo la chiusura invernale. I visitatori possono esplorare 60 ettari di prati, boschi, laghetti e il Polirinto, visitando a piedi, in bicicletta o con navette elettriche.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parco Giardino Sigurtà",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Valeggio sul Mincio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-apertura-valeggio-sul-mincio-vr",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "abc-del-natale-evoluzioni-per-tutta-la-famiglia-san-martino-buon-albergo",
+    "titolo": "ABC del Natale, Evoluzioni per tutta la famiglia",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T16:30",
+    "fine": "2026-12-05T18:30",
+    "luogo": "Cinema Teatro E. Peroni",
+    "indirizzo": "Via Radisi",
+    "cap": null,
+    "comune": "023073",
+    "frazione": null,
+    "lat": 45.42006,
+    "lon": 11.09863,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale per famiglie in cui Asino e Bue raccontano ai bambini storie antiche e affascinanti sul Natale, giocando con le parole per ricostruire le basi e l'alfabeto di questa festività.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 7
+    },
+    "prenotazione": null,
+    "organizzatore": "Ippogrifo Produzioni",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Martino Buon Albergo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-abc-del-natale-evoluzioni-per-tutta-la-famiglia-san-martino-buon-albergo-vr",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
   }
 ]
