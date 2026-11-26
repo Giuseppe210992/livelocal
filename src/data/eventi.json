@@ -380397,5 +380397,1627 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agrofutura-fa-tappa-a-firenze-coltivare-il-futuro-dell-agricoltura-firenze",
+    "titolo": "Agrofutura fa tappa a Firenze: coltivare il futuro dell'agricoltura",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T09:00",
+    "fine": null,
+    "luogo": "Palazzo Guadagni Strozzi Sacrati",
+    "indirizzo": "Piazza Duomo, 10",
+    "cap": null,
+    "comune": "048017",
+    "frazione": null,
+    "lat": 43.78013,
+    "lon": 11.24501,
+    "coordinateApprossimate": true,
+    "descrizione": "Una business conference dedicata alle sfide e alle prospettive di sviluppo del settore agricolo italiano. L'evento riunisce istituzioni, imprese e professionisti per un confronto su innovazione e futuro, concludendo con un momento conviviale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Quotidiano Nazionale",
+        "tipo": "stampa",
+        "url": "https://www.quotidiano.net/eventi/agrofutura/tappa-a-firenze-f8090r3u",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "visita-guidata-alla-mostra-su-rosalie-d-herin-seris-aosta",
+    "titolo": "Visita guidata alla mostra su Rosalie D'Hérin Seris",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-03T17:00",
+    "fine": null,
+    "luogo": "Chiesa di San Lorenzo",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata alla mostra delle 29 immagini della prima fotografa valdostana, a cura di Daria Jorioz e Enrico Peyrot, in programma nella chiesa di San Lorenzo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/notizie/cultura-e-spettacolo",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "atelier-di-creazione-di-personaggi-in-feltro-aosta",
+    "titolo": "Atelier di creazione di personaggi in feltro",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T14:30",
+    "fine": "2026-11-28T18:30",
+    "luogo": "Libreria Briviodue",
+    "indirizzo": "corso Lancieri",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio con Federica Mossetti per creare personaggi in feltro usando lana cardata e aghi, con due turni pomeridiani per adulti e bambini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 22
+    },
+    "prenotazione": null,
+    "organizzatore": "Federica Mossetti",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/ad-aosta-un-atelier-di-creazione-di-personaggi-in-feltro",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-di-fine-vendemmia-al-mercato-campagna-amica-aosta",
+    "titolo": "Festa di fine vendemmia al Mercato Campagna Amica",
+    "categoria": "sagra",
+    "inizio": "2026-11-28T15:00",
+    "fine": null,
+    "luogo": "Mercato Coperto Campagna Amica",
+    "indirizzo": "piazza Cavalieri di Vittorio Veneto",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Festa con dieci aziende agricole, degustazioni di prodotti del territorio e vini di Cave Gargantua, seguita dai concerti di L'Orage Duo e La Manita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coldiretti Valle d'Aosta, Cave Gargantua",
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/festa-di-fine-vendemmia-al-mercato-campagna-amica-tra-degustazioni-vini-e-musica",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "magali-albonico-presenta-azura-la-sirena-figlia-degli-abissi-aosta",
+    "titolo": "Magali Albonico presenta “Azura – La sirena figlia degli abissi”",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:30",
+    "fine": null,
+    "luogo": "Libreria Briviodue",
+    "indirizzo": "Aosta",
+    "cap": null,
+    "comune": "007003",
+    "frazione": null,
+    "lat": 45.74949,
+    "lon": 7.30128,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro fantasy di Magali Albonico con l'illustratrice Annalisa Baleste, moderata da Cecilia Lazzarotto, con possibilità di dedica a distanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/libri-magali-albonico-presenta-azura-la-sirena-figlia-degli-abissi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "le-petit-marche-du-bourg-chatillon",
+    "titolo": "Le petit marché du bourg",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Via Chanoux, Via Tollen, Piazza Duc",
+    "indirizzo": "Châtillon",
+    "cap": null,
+    "comune": "007020",
+    "frazione": null,
+    "lat": 45.75964,
+    "lon": 7.62632,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale con oltre 100 espositori, musica della banda, accensione delle luminarie alle 16.30, laboratori per bambini e presenza di Babbo Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "aostasera.it",
+        "tipo": "stampa",
+        "url": "https://aostasera.it/eventi/mercatino-di-natale-a-chatillon-domenica-29-novembre-torna-le-petit-marche-du-bourg",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mattoncini-in-villa-piano-di-sorrento",
+    "titolo": "Mattoncini in Villa",
+    "categoria": "bambini",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-29",
+    "luogo": "Villa Fondi De Sangro",
+    "indirizzo": "Piano di Sorrento",
+    "cap": null,
+    "comune": "063053",
+    "frazione": null,
+    "lat": 40.62432,
+    "lon": 14.42372,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione dedicata al mondo delle costruzioni LEGO con esposizioni, laboratori creativi, giochi e un concorso per bambini e ragazzi. L'iniziativa è promossa nell'ambito delle politiche giovanili cittadine e include attività di apprendimento e socializzazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Politiche Giovanili della Città di Piano di Sorrento, Brickanti – Mattoncini al Sud, Kekko Bricks, Servizio Civile Universale",
+    "fonti": [
+      {
+        "nome": "Comune di Piano di Sorrento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianodisorrento.na.it/it/eventi/la-bottega-delle-parole-734567-735361",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sagra-del-ceppone-piano-di-sorrento",
+    "titolo": "Sagra del Ceppone",
+    "categoria": "sagra",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-06",
+    "luogo": "Largo Annunziata",
+    "indirizzo": "Piano di Sorrento",
+    "cap": null,
+    "comune": "063053",
+    "frazione": null,
+    "lat": 40.62432,
+    "lon": 14.42372,
+    "coordinateApprossimate": true,
+    "descrizione": "19ª edizione della tradizionale sagra natalizia dedicata al Ceppone, il grande falò che richiama le usanze locali. L'evento include una mostra di arte presepiale, momenti di convivialità e finalità benefiche, organizzati dalla Parrocchia di San Michele Arcangelo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parrocchia di San Michele Arcangelo",
+    "fonti": [
+      {
+        "nome": "Comune di Piano di Sorrento",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pianodisorrento.na.it/it/eventi/in-nome-del-dono-735022",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ex-casa-del-custode-due-serate-tra-ascolto-e-performance-bologna",
+    "titolo": "Ex Casa del Custode: due serate tra ascolto e performance",
+    "categoria": "concerto",
+    "inizio": "2026-11-25",
+    "fine": "2026-11-26",
+    "luogo": "Circolo ARCI Ex Casa del Custode",
+    "indirizzo": "Bologna",
+    "cap": null,
+    "comune": "037006",
+    "frazione": null,
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Due serate dedicate all'ascolto e alla performance, con gli ospiti del musicista Antonio Raia e il collettivo teatrale Wundertruppe.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Calendario del Comune di Bologna (culturabologna.it)",
+        "tipo": "ufficiale",
+        "url": "https://www.culturabologna.it/agenda",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tre-variazioni-della-vita-corciano",
+    "titolo": "Tre variazioni della vita",
+    "categoria": "teatro",
+    "inizio": "2026-12-06T21:00",
+    "fine": null,
+    "luogo": "Teatro della Filarmonica",
+    "indirizzo": "Corciano",
+    "cap": null,
+    "comune": "054015",
+    "frazione": null,
+    "lat": 43.12842,
+    "lon": 12.2904,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento di una pièce di Yasmina Reza. Una serata tra amici che si trasforma in un conflitto emotivo, raccontata tre volte dal punto di vista di personaggi diversi. Regia di Luigi Saravo. Durata 1 ora e 40 minuti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Stabile dell'Umbria",
+    "fonti": [
+      {
+        "nome": "Teatro Stabile dell'Umbria",
+        "tipo": "organizzatore",
+        "url": "https://teatrostabile.umbria.it/spettacolo/2026-2027-tre-variazioni-della-vita",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "canti-scuciti-beatrice-sberna-e-emanuele-maniscalco-brescia",
+    "titolo": "Canti scuciti Beatrice Sberna e Emanuele Maniscalco",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T20:00",
+    "fine": null,
+    "luogo": "Teatro Grande di Brescia",
+    "indirizzo": "Corso Zanardelli, 9/A, 25121 Brescia",
+    "cap": null,
+    "comune": "017029",
+    "frazione": null,
+    "lat": 45.53256,
+    "lon": 10.22562,
+    "coordinateApprossimate": true,
+    "descrizione": "Il duo presenta perle della canzone italiana con approccio improvvisativo e sperimentale, unendo epoche diverse come cantautorato, jazz e tradizione popolare in un racconto coerente.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Grande di Brescia",
+    "fonti": [
+      {
+        "nome": "Teatro Grande di Brescia",
+        "tipo": "ufficiale",
+        "url": "https://teatrogrande.it/it/calendario",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-vera-dimora-di-babbo-natale-montecchio-maggiore-06-12",
+    "titolo": "La vera dimora di Babbo Natale",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-06T09:00",
+    "fine": "2026-12-06T20:00",
+    "luogo": "Priare",
+    "indirizzo": "Via Castelli 4 Martiri, 36075 Montecchio Maggiore-Alte Ceccato VI",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al complesso ipogeo delle Priare per un percorso fiabesco tra gnomi ed elfi che preparano i doni, con possibilità di consegnare le letterine a Babbo Natale. Visita in gruppi della durata di circa 45 minuti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 13
+    },
+    "prenotazione": null,
+    "organizzatore": "Magic Fantasy World",
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/la-vera-dimora-di-babbo-natale-734721-734728",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-magia-del-presepe-a-montecchio-maggiore-montecchio-maggiore",
+    "titolo": "La magia del presepe a Montecchio Maggiore",
+    "categoria": "mostra",
+    "inizio": "2026-12-06T14:00",
+    "fine": "2026-12-06T17:30",
+    "luogo": "Rustici di Villa Cordellina",
+    "indirizzo": "Via Lovara, 36, 36075 Montecchio Maggiore VI",
+    "cap": null,
+    "comune": "024061",
+    "frazione": null,
+    "lat": 45.51305,
+    "lon": 11.40765,
+    "coordinateApprossimate": true,
+    "descrizione": "Esposizione di presepi di scuole, associazioni e famiglie partecipanti a un concorso, insieme a presepi provenienti da diverse parti del mondo. Include due spettacoli teatrali 'L'ultima Stella' a ingresso gratuito durante la mostra.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Alte Montecchio",
+    "fonti": [
+      {
+        "nome": "Comune di Montecchio Maggiore",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.montecchio-maggiore.vi.it/it/eventi/la-magia-del-presepe-a-montecchio-maggiore-694843-734683",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-testa-dell-idra-roma",
+    "titolo": "La testa dell’idra",
+    "categoria": "teatro",
+    "inizio": "2027-06-15T21:00",
+    "fine": "2027-06-16T21:00",
+    "luogo": "Sala Petrolini",
+    "indirizzo": "Via Rubattino 5",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale di una storia vera del 1968. Il racconto indaga il rapimento di una bambina e l'omertà sociale che ne ha favorito lo sfruttamento, riflettendo sul confine tra indifferenza e crimine.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale Teatro Petrolini",
+    "fonti": [
+      {
+        "nome": "Teatro Petrolini",
+        "tipo": "ufficiale",
+        "url": "https://www.teatropetrolini.it/event/la-testa-dellidra",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "buenos-aires-tango-musica-y-danza-en-concierto-roma",
+    "titolo": "Buenos Aires Tango. Música y Danza en Concierto",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:00",
+    "fine": null,
+    "luogo": "Teatro Studio Borgna",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata al tango con direzione di Daniel Binelli, partecipazione di Polly Ferman, ensemble orchestrale e ballerini. Parte del programma di cooperazione culturale Buenos Aires a Roma.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Città di Buenos Aires",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/event/buenos-aires-tango-musica-y-danza-en-concierto",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "stagione-sinfonica-classica-rassegne-daniel-harding-brahms-strauss-roma",
+    "titolo": "Stagione Sinfonica Classica | Rassegne Daniel Harding / Brahms / Strauss",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T18:00",
+    "fine": null,
+    "luogo": "Sala Santa Cecilia",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto sinfonico della Stagione Classica con Daniel Harding direttore. Interpretazione di opere di Brahms e Strauss.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tutti-a-santa-cecilia-rassegne-baby-sound-0-2-e-donne-in-gravidanza-roma",
+    "titolo": "Tutti a Santa Cecilia Rassegne Baby sound 0/2 e donne in gravidanza",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T15:30",
+    "fine": null,
+    "luogo": "Studio 1",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto pensata per bambini 0-2 anni e donne in gravidanza. Parte della rassegna Tutti a Santa Cecilia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Musica per Roma",
+    "fonti": [
+      {
+        "nome": "Auditorium Parco della Musica",
+        "tipo": "ufficiale",
+        "url": "https://www.auditorium.com/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-biblioteca-con-la-polvere-di-santa-lucia-martinengo",
+    "titolo": "Natale in Biblioteca/Con la polvere di Santa Lucia",
+    "categoria": "bambini",
+    "inizio": "2026-12-02T16:30",
+    "fine": "2026-12-02T17:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura animata per bambini di 6-10 anni dedicata al tema di Santa Lucia. L'evento fa parte della serie 'Natale in Biblioteca' e propone un momento di lettura condiviso.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Martinengo",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/nati-per-leggere-in-festa-a-martinengo-729833-729841-735478",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-biblioteca-coccole-di-natale-martinengo",
+    "titolo": "Natale in Biblioteca/Coccole di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T09:30",
+    "fine": "2026-12-12T12:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento di letture animate per bambine e bambini dalla nascita ai 3 anni. L'evento si svolge in due sessioni distinte: ore 9.30 per 0-18 mesi e ore 11.00 per 18-36 mesi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Martinengo",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/nati-per-leggere-in-festa-a-martinengo-729833-729841-735478-735486",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-biblioteca-storie-sotto-l-albero-martinengo",
+    "titolo": "Natale in Biblioteca/Storie sotto l'albero",
+    "categoria": "bambini",
+    "inizio": "2026-12-15T16:30",
+    "fine": "2026-12-15T17:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Letture e laboratorio creativo rivolto ai bambini tra i 3 e i 6 anni. Un momento di condivisione di storie natalizie e attività pratiche dedicato ai più piccoli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Martinengo",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/nati-per-leggere-in-festa-a-martinengo-729833-729841-735478-735487",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-in-biblioteca-christmas-storytelling-martinengo",
+    "titolo": "Natale in Biblioteca/Christmas storytelling",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T10:00",
+    "fine": "2026-12-19T11:00",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Allegreni, 37",
+    "cap": null,
+    "comune": "016133",
+    "frazione": null,
+    "lat": 45.56069,
+    "lon": 9.77347,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura di un racconto di Natale in inglese per bambini dai 3 ai 7 anni. L'evento combina la fiaba natalizia con la scoperta della lingua inglese in un contesto ludico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Martinengo",
+    "fonti": [
+      {
+        "nome": "Comune di Martinengo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.martinengo.bg.it/it/eventi/nati-per-leggere-in-festa-a-martinengo-729833-729841-735478-735486-735491",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giselle-cagliari",
+    "titolo": "Giselle",
+    "categoria": "teatro",
+    "inizio": "2026-12-23",
+    "fine": "2026-12-26",
+    "luogo": "Teatro Lirico",
+    "indirizzo": "Cagliari",
+    "cap": null,
+    "comune": "118006",
+    "frazione": null,
+    "lat": 39.22448,
+    "lon": 9.08817,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione del classico balletto Giselle interpretato dal Balletto del Teatro Nazionale Serbo. L'evento prevede tre spettacoli in programma durante le festività natalizie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Lirico di Cagliari",
+    "fonti": [
+      {
+        "nome": "Teatro Lirico di Cagliari",
+        "tipo": "organizzatore",
+        "url": "https://www.liricocagliari.it/categoria-evento/danza",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-reginetta-di-leenane-massa",
+    "titolo": "La reginetta di Leenane",
+    "categoria": "teatro",
+    "inizio": "2027-01-21T21:00",
+    "fine": null,
+    "luogo": "Teatro Guglielmi",
+    "indirizzo": "Piazza del Teatro 1",
+    "cap": null,
+    "comune": "045010",
+    "frazione": null,
+    "lat": 44.05499,
+    "lon": 10.16134,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento dell'opera di Martin McDonagh con Ambra Angiolini e Ivana Monti. Regia di Raphael Tobia Vogel, produzione Teatro Franco Parenti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Franco Parenti",
+    "fonti": [
+      {
+        "nome": "Teatro Guglielmi (Comune di Massa)",
+        "tipo": "ufficiale",
+        "url": "https://www.teatroguglielmi.it/spettacoli",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "como-nella-citta-dei-pinocchi-como",
+    "titolo": "Como nella Città dei Pinocchi",
+    "categoria": "bambini",
+    "inizio": "2026-11-28",
+    "fine": null,
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3, Como, Italia",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna diffusa in occasione dei 200 anni dalla nascita di Carlo Collodi. Il programma include cinema, teatro, musica, letteratura, illustrazione e laboratori creativi per adulti e bambini in diversi luoghi della città.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Mario Bianchi",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "como-nella-citta-dei-pinocchi-como-29-11",
+    "titolo": "Como nella Città dei Pinocchi",
+    "categoria": "bambini",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Teatro Sociale di Como",
+    "indirizzo": "Via Bellini 3, Como, Italia",
+    "cap": null,
+    "comune": "013075",
+    "frazione": null,
+    "lat": 45.80459,
+    "lon": 9.08099,
+    "coordinateApprossimate": true,
+    "descrizione": "Secondo giorno della rassegna diffusa per i 200 anni di Carlo Collodi. Appuntamenti che attraversano cinema, teatro, musica, letteratura, illustrazione e laboratori creativi, coinvolgendo adulti e bambini.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Mario Bianchi",
+    "fonti": [
+      {
+        "nome": "Teatro Sociale di Como",
+        "tipo": "ufficiale",
+        "url": "https://teatrosocialecomo.it/calendario",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "suonando-e-cantando-a-casa-gori-capannori",
+    "titolo": "Suonando e cantando a Casa Gori",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T15:30",
+    "fine": "2026-11-29T17:30",
+    "luogo": "RSA Don Aldo Gori",
+    "indirizzo": "Via del Parco, 5",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa musicale con la partecipazione della Corale Santa Cecilia di Marlia e della Filarmonica 'Alfredo Catalani' di Marlia presso la Rsa 'Don Alberto Gori'.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/suonando-e-cantando-a-casa-gori",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-ri-conosciamo-noi-capannori",
+    "titolo": "Incontro 'Ri-conosciamo noi'",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T21:00",
+    "fine": "2026-11-30T23:00",
+    "luogo": "Sala del consiglio comunale",
+    "indirizzo": "Piazza Aldo Moro, 1",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio esperienziale tenuto dalla psicologa Veronica Giannini, parte del percorso 'Dall'io al noi. La costruzione di un amore' per chi progetta matrimoni o convivenze.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Paideia-Insieme per l'educazione APS",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/incontro-ri-conosciamo-noi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-libro-acqua-sporca-capannori",
+    "titolo": "Presentazione libro 'Acqua sporca'",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T17:30",
+    "fine": "2026-12-01T19:00",
+    "luogo": "Polo Culturale Artèmisia",
+    "indirizzo": "Via dell'Aeroporto, 10",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Nadeesha Uyangoda edito da Einaudi, vincitore del Premio Campiello Opera Prima 2026, con l'autrice e Maddalena Mauriello.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune Capannori",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/presentazione-libro-acqua-sporca",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "proiezione-film-una-donna-fantastica-capannori-02-12",
+    "titolo": "Proiezione film 'Una donna fantastica'",
+    "categoria": "mostra",
+    "inizio": "2026-12-02T21:00",
+    "fine": "2026-12-02T23:00",
+    "luogo": "Cinema teatro Artè",
+    "indirizzo": "Via Carlo Piaggia, 74A",
+    "cap": null,
+    "comune": "046007",
+    "frazione": null,
+    "lat": 43.83525,
+    "lon": 10.5773,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film di Sebastian Lelio con Daniela Vega e Francisco Reyes, nell'ambito del Progetto Rete Re.a.dy per il contrasto alle discriminazioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "LuccAut",
+    "fonti": [
+      {
+        "nome": "Comune di Capannori",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.capannori.lu.it/vivere-il-comune/eventi/proiezione-film-una-donna-fantastica-2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hai-mai-mangiato-una-foglia-laboratorio-per-bambini-e-bambine-melzo",
+    "titolo": "Hai mai mangiato una foglia?: laboratorio per bambini e bambine",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T11:30",
+    "luogo": "Biblioteca Vittorio Sereni Melzo",
+    "indirizzo": "via A. Pasta 43",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Attività dedicata ai bambini dai 6 ai 10 anni per esplorare il mondo vegetale attraverso la botanica e l'osservazione. Conduce Federica Buglioni. L'attività si tiene nella sala ragazzi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Vittorio Sereni Melzo",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi/hai-mai-mangiato-una-foglia-laboratorio-per-bambini-e-bambine",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "crescere-insieme-il-forum-della-zona-adda-martesana-di-assolombarda-melzo",
+    "titolo": "Crescere insieme. Il Forum della Zona Adda Martesana di Assolombarda",
+    "categoria": "conferenza",
+    "inizio": "2026-11-30T17:00",
+    "fine": null,
+    "luogo": "Sala Vallaperti",
+    "indirizzo": "Via Dante Alighieri 2",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda edizione del Forum della Zona Adda Martesana di Assolombarda. Appuntamento di affari e commercio per professionisti e imprenditori del territorio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assolombarda",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voci-femminili-incontro-in-biblioteca-melzo",
+    "titolo": "Voci femminili: incontro in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2027-01-14",
+    "fine": null,
+    "luogo": "Biblioteca Vittorio Sereni Melzo",
+    "indirizzo": "via A. Pasta 43",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Gruppo di lettura dedicato a racconti femminili. Un'occasione per raccontarsi, ascoltare e condividere letture in un ambiente comunitario.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Vittorio Sereni Melzo",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "voci-femminili-incontro-in-biblioteca-melzo-04-02",
+    "titolo": "Voci femminili: incontro in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2027-02-04",
+    "fine": null,
+    "luogo": "Biblioteca Vittorio Sereni Melzo",
+    "indirizzo": "via A. Pasta 43",
+    "cap": null,
+    "comune": "015142",
+    "frazione": null,
+    "lat": 45.4983,
+    "lon": 9.42537,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento del gruppo di lettura 'Voci femminili'. Tematica: racconti per leggersi e scoprirsi, condivisione di pagine e storie tra i partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Vittorio Sereni Melzo",
+    "fonti": [
+      {
+        "nome": "Comune di Melzo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.melzo.mi.it/it/eventi",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tecnica-e-struttura-dell-acquerello-incontro-pratico-teorico-colleferro",
+    "titolo": "Tecnica e struttura dell’acquerello – incontro pratico-teorico",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T15:00",
+    "fine": "2026-11-27T18:00",
+    "luogo": "Biblioteca comunale di Colleferro",
+    "indirizzo": "Piazza dei Cosmonauti, 5, 00034 Colleferro RM",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pratico-teorico dedicato alla tecnica dell'acquerello con l'artista docente Loris Alessandro Carlan. Si esplorano la trasparenza dell'acqua e la struttura del mezzo, tra dimostrazioni tecniche e attività pratica con carta, pigmenti e pennelli.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale Aldo Carlan",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/event-details/tecnica-e-struttura-dellacquerello-incontro-pratico-teorico",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-mia-tribu-nel-posto-delle-fragole-colleferro",
+    "titolo": "La mia tribù nel posto delle fragole",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T17:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Biblioteca comunale di Colleferro",
+    "indirizzo": "Piazza dei Cosmonauti, 5, 00034 Colleferro RM",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del memoir di Elisabetta Ficola, a cura di Francesco Scotto, con l'intervento dell'autrice, dell'editore Fabio Croce e degli ospiti Paola Pace, Maurizio Mosetti e Admir Shkurtaj. Un incontro per riflettere sulla vita dell'autrice e il suo legame con l'arte.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale Gruppo Logos",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/event-details/la-mia-tribu-nel-posto-delle-fragole",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-dell-artigianato-a-colleferro-colleferro",
+    "titolo": "Mercatini dell'Artigianato a Colleferro",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T09:00",
+    "fine": "2026-11-29T20:00",
+    "luogo": "Via XXV Aprile",
+    "indirizzo": "Via XXV Aprile, 00034 Colleferro RM",
+    "cap": null,
+    "comune": "058034",
+    "frazione": null,
+    "lat": 41.73704,
+    "lon": 12.99022,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata alla creatività e alla tradizione artigianale lungo il viale principale. Numerosi stand esporranno prodotti artigianali, offrendo l'opportunità di curiosare tra le creazioni locali e trascorrere del tempo nel centro città.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Lepinart",
+    "fonti": [
+      {
+        "nome": "Pro Loco Città di Colleferro, agenda eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.prolococolleferro.it/event-details/mercatini-dellartigianato-a-colleferro-1",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-al-naturart-village-pistoia",
+    "titolo": "Natale al Naturart Village",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29",
+    "fine": "2027-01-06",
+    "luogo": "Naturart Village",
+    "indirizzo": "Via Toscana 101, Chiazzano",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Inaugurazione del Villaggio di Natale con accensione dell'albero, Babbo Natale e esibizione del Corpo Musicale G. Verdi di Fanano. Il periodo festivo include apertura dello Shop Green e dell'Area Food.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.visitpistoia.eu/evento/accensione-dellalbero-di-natale-2026-al-naturart-village-2026",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto nell'ambito della II edizione del festival organistico internazionale. Ingresso gratuito aperto al pubblico nella collegiata storica della città.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo-06-12",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2026-12-06T11:00",
+    "fine": "2026-12-06T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Sessione musicale del festival organistico internazionale con esibizione di artisti ospiti. Ingresso libero nella storica collegiata di San Michele Arcangelo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-unico-2026-citta-sant-angelo",
+    "titolo": "NATALE UNICO 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-07",
+    "fine": "2027-01-05",
+    "luogo": "Territorio di Città Sant'Angelo",
+    "indirizzo": "Città Sant'Angelo, Pe, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Grande evento natalizio diffuso sul territorio con accensione dell'albero, mercatini, concerti e iniziative animate. Un'unica grande festa per la comunità locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "intervista-a-ndirucce-citta-sant-angelo",
+    "titolo": "INTERVISTA A ‘NDIRUCCE",
+    "categoria": "teatro",
+    "inizio": "2026-12-08T18:00",
+    "fine": "2026-12-08T20:00",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale sul re del Carnevale angolano con presentazione del calendario 2027 e omaggio alla Maestra Paola Ceresano. Scritta e diretta da Gino Di Bonaventura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Italia Nostra – Città Sant’Angelo",
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/intervista-a-ndirucce",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo-08-12",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2026-12-08T18:30",
+    "fine": "2026-12-08T19:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto per voce e organo “Laus Mariae” con il contro-tenore Vincenzo Franchini e l'organista Francesco Scarcella. Ingresso gratuito e aperto a tutti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento/festival-organistico-internazionale-citta-santangelo-16",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo-13-12",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T11:00",
+    "fine": "2026-12-13T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Orgel-Matinée con l'organista Walter D'Arcangelo, titolare della Cattedrale di San Giustino a Chieti. Concerto matutino gratuito nella collegiata di San Michele.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo-20-12",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T11:00",
+    "fine": "2026-12-20T11:30",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Orgel-Matinée con Giovanna Tricarico, docente dell'Istituto Coreutico di Bari. Appuntamento musicale gratuito mattutino nel cuore della città.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "citta-sant-angelo-music-festival-2026-2027-citta-sant-angelo",
+    "titolo": "CITTÀ SANT’ANGELO MUSIC FESTIVAL 2026/2027",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T18:00",
+    "fine": "2026-12-20T19:30",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della stagione del festival musicale cittadino con esibizioni di artisti emergenti e consolidati nel teatro storico di Città Sant'Angelo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/evento",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-organistico-internazionale-citta-sant-angelo-citta-sant-angelo-03-01",
+    "titolo": "Festival Organistico Internazionale Città Sant'Angelo",
+    "categoria": "concerto",
+    "inizio": "2027-01-03T20:30",
+    "fine": "2027-01-03T22:00",
+    "luogo": "Collegiata di San Michele Arcangelo",
+    "indirizzo": "Corso Vittorio Emanuele, n. 16, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di Capodanno con Vladimir Matesich, docente del Conservatorio Statale “G. Frescobaldi”. Chiusura della prima parte della stagione organistica invernale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/eventi/elenco/pagina/2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "citta-sant-angelo-music-festival-2026-2027-citta-sant-angelo-31-01",
+    "titolo": "CITTÀ SANT’ANGELO MUSIC FESTIVAL 2026/2027",
+    "categoria": "concerto",
+    "inizio": "2027-01-31T18:00",
+    "fine": "2027-01-31T19:30",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione musicale della stagione del festival cittadino nel teatro comunale. Incontro con la musica e gli ospiti della kermesse culturale locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/eventi/elenco/pagina/2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "citta-sant-angelo-music-festival-2026-2027-citta-sant-angelo-14-03",
+    "titolo": "CITTÀ SANT’ANGELO MUSIC FESTIVAL 2026/2027",
+    "categoria": "concerto",
+    "inizio": "2027-03-14T18:00",
+    "fine": "2027-03-14T19:30",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di concerti della stagione primaverile del festival musicale. Spettacolo aperto al pubblico presso il teatro cittadino con ingresso da confermare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/eventi/elenco/pagina/2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "citta-sant-angelo-music-festival-2026-2027-citta-sant-angelo-18-04",
+    "titolo": "CITTÀ SANT’ANGELO MUSIC FESTIVAL 2026/2027",
+    "categoria": "concerto",
+    "inizio": "2027-04-18T18:00",
+    "fine": "2027-04-18T19:30",
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Piazza IV Novembre, Città Sant'Angelo, PE, Italia",
+    "cap": null,
+    "comune": "068012",
+    "frazione": null,
+    "lat": 42.51207,
+    "lon": 14.06146,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento della stagione del festival musicale cittadino con esibizioni dal vivo. Evento che fa parte del cartellone culturale esteso fino al 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Visit Città Sant'Angelo",
+        "tipo": "organizzatore",
+        "url": "https://visitcittasantangelo.it/eventi/elenco/pagina/2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
   }
 ]
