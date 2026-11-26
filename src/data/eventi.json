@@ -383507,5 +383507,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "2-memorial-leandro-becheroni-allenamento-enduro-calenzano-2026-11-28",
+    "titolo": "2° Memorial Leandro Becheroni – allenamento collettivo di enduro",
+    "categoria": "sport",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-29T12:00",
+    "luogo": "Calenzano",
+    "comune": "048005",
+    "lat": 43.90118,
+    "lon": 11.19418,
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "organizzatore": "Polisportiva Carraia, Old School e Kit Gram SBK",
+    "descrizione": "Allenamento collettivo per piloti della categoria Enduro: sabato dalle 9 alle 16 e domenica dalle 9 alle 12, con premiazione dei tre migliori tempi e pranzo domenicale. Quota di 35 euro per le prove di entrambe le giornate e il pranzo; iscrizione tramite il profilo degli organizzatori.",
+    "fonti": [
+      {
+        "nome": "Instagram Calenzano Eventi",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgH0dKxB8Dk/",
+        "consultata": "2026-11-25"
+      }
+    ]
+  },
+  {
+    "stato": "pubblicato",
+    "inserito": "2026-11-25",
+    "inseritoDa": "ia",
+    "coordinateApprossimate": true,
+    "slug": "le-cose-che-posso-cambiare-documentario-cinema-giotto-borgo-san-lorenzo-2026-12-10",
+    "titolo": "«Le cose che posso cambiare» – documentario al Cinema Giotto",
+    "categoria": "conferenza",
+    "inizio": "2026-12-10T21:00",
+    "luogo": "Cinema Giotto",
+    "comune": "048004",
+    "lat": 43.96346,
+    "lon": 11.40486,
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Istituto Comprensivo di Borgo San Lorenzo",
+    "descrizione": "Proiezione del film documentario con la partecipazione di docenti e alunni delle classi che hanno preso parte alle riprese, nella Giornata mondiale per i diritti umani, nel percorso «25 novembre tutto l'anno».",
+    "fonti": [
+      {
+        "nome": "Instagram Comune di Borgo San Lorenzo",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgIcKl1M0ES/",
+        "consultata": "2026-11-25"
+      }
+    ]
   }
 ]
