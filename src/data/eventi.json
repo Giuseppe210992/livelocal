@@ -382019,5 +382019,173 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "karaoke-con-alex-e-mino-bollate",
+    "titolo": "Karaoke con Alex e Mino",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "fine": null,
+    "luogo": "Birreria Las Vegas",
+    "indirizzo": "Via Corte Grande 31",
+    "cap": null,
+    "comune": "015027",
+    "frazione": null,
+    "lat": 45.556944,
+    "lon": 9.096799,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di karaoke con Alex e Mino. L'evento è gratuito, si consiglia la prenotazione. Disponibile il dehor estivo per pranzi all'aperto. La location offre birre artigianali e fritti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Birreria Las Vegas",
+    "fonti": [
+      {
+        "nome": "Birreria Las Vegas",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgF7jHkj7oh",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "euphoria-x-groove-session-morning-club-seregno",
+    "titolo": "Euphoria x Groove Session | Morning Club",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T10:30",
+    "fine": "2026-11-29T16:30",
+    "luogo": "Time Out",
+    "indirizzo": "Via Luigi Einaudi 10",
+    "cap": null,
+    "comune": "108039",
+    "frazione": null,
+    "lat": 45.65616,
+    "lon": 9.177453,
+    "coordinateApprossimate": false,
+    "descrizione": "Il Morning Club torna con una sessione speciale tech house in collaborazione con Groove Session. L'evento prevede la partecipazione di cinque DJ, street food con pizza e puccia, e l'inaugurazione del locale rinnovato.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Time Out",
+    "fonti": [
+      {
+        "nome": "Time Out",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DgNbeuToLDZ",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "hit-mania-80-party-band-marino",
+    "titolo": "Hit Mania 80 – Party Band",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T21:30",
+    "fine": null,
+    "luogo": "Kirby's Garden",
+    "indirizzo": "Via dei Mille 8",
+    "cap": null,
+    "comune": "058057",
+    "frazione": null,
+    "lat": 41.774903,
+    "lon": 12.6096,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo musicale dal vivo dedicato ai successi degli anni '80. La sala live ospita la band per una serata tra cantanti e ballo, con cena obbligatoria a menù fisso o alla carta.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": null,
+    "organizzatore": "Kirby's Garden",
+    "fonti": [
+      {
+        "nome": "Kirby's Garden",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgLVqGjNP58",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "block-party-dancefloor-hits-marino",
+    "titolo": "Block Party – Dancefloor Hits",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": null,
+    "luogo": "Kirby's Garden",
+    "indirizzo": "Via dei Mille 8",
+    "cap": null,
+    "comune": "058057",
+    "frazione": null,
+    "lat": 41.774903,
+    "lon": 12.6096,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto dal vivo con ritmi di DJ Set che mescolano hit degli anni '80, '90 e 2000. Serata dedicata al ballo e alla musica dance, con cena obbligatoria a menù fisso o alla carta.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": null,
+    "organizzatore": "Kirby's Garden",
+    "fonti": [
+      {
+        "nome": "Kirby's Garden",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgLVqGjNP58",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "venditti-tribute-band-marino",
+    "titolo": "Venditti Tribute Band",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T21:00",
+    "fine": null,
+    "luogo": "Kirby's Garden",
+    "indirizzo": "Via dei Mille 8",
+    "cap": null,
+    "comune": "058057",
+    "frazione": null,
+    "lat": 41.774903,
+    "lon": 12.6096,
+    "coordinateApprossimate": false,
+    "descrizione": "Tributo ad Antonello Venditti con esecuzione live dei suoi brani più famosi, da Notte prima degli esami a Roma capoccia. Cena obbligatoria a menù fisso o alla carta.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 23
+    },
+    "prenotazione": null,
+    "organizzatore": "Kirby's Garden",
+    "fonti": [
+      {
+        "nome": "Kirby's Garden",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgLVqGjNP58",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
   }
 ]
