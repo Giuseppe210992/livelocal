@@ -380231,5 +380231,171 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-26",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lost-in-kyiv-guest-cpg-torino-pianezza",
+    "titolo": "LOST IN KYIV Guest Cpg Torino",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T20:00",
+    "fine": "2026-12-04T23:30",
+    "luogo": "Cpg Torino",
+    "indirizzo": "Via Grange, 71",
+    "cap": null,
+    "comune": "001189",
+    "frazione": null,
+    "lat": 45.11385,
+    "lon": 7.55393,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della band post rock francese Lost in Kyiv in visita in Italia per presentare il nuovo album 'We're All Going To Be Fine', distribuito da Pelagic Records.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "HERØ Booking, Lost in Kyiv",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pianezza",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lost-in-kyiv-guest-cpg-torino-torino-pianezza-to",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-caorle-ortoteatro-presenta-storie-piccine-pianezza",
+    "titolo": "A Caorle Ortoteatro presenta STORIE PICCINE",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T12:30",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Matteotti, 3",
+    "cap": null,
+    "comune": "001189",
+    "frazione": null,
+    "lat": 45.11385,
+    "lon": 7.55393,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per bambini da 3 a 5 anni e famiglie con storie, racconti e libri presentato da Fabio Scaramucci nell'ambito del progetto Ortoteatro.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ortoteatro",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pianezza",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-a-caorle-ortoteatro-presenta-storie-piccine-pianezza-to",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-di-corse-vinovo",
+    "titolo": "Giornata di Corse",
+    "categoria": "sport",
+    "inizio": "2026-11-29T13:30",
+    "fine": "2026-11-29T17:30",
+    "luogo": "Ippodromo di Vinovo",
+    "indirizzo": "SP143 - 10048 Vinovo (TO) - Italia",
+    "cap": null,
+    "comune": "001309",
+    "frazione": null,
+    "lat": 44.95529,
+    "lon": 7.62907,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata di corse al trotto presso l'Ippodromo di Vinovo. L'evento offre l'opportunità di seguire le prove in pista, assistere alle gare e vivere l'atmosfera sportiva. L'ippodromo include anche aree all'aperto e ristoranti affacciati sulla pista per un pomeriggio di sport e convivialità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ippodromo di Vinovo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Vinovo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-giornata-di-corse-2",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nanowar-of-steel-induction-new-age-roncade",
+    "titolo": "Nanowar Of Steel Induction New Age",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T20:00",
+    "fine": "2026-12-07T22:00",
+    "luogo": "New Age club",
+    "indirizzo": "Treviso Mare - 31056 Roncade (TV)",
+    "cap": null,
+    "comune": "026069",
+    "frazione": null,
+    "lat": 45.61338,
+    "lon": 12.39532,
+    "coordinateApprossimate": true,
+    "descrizione": "Una serata all’insegna del metal con uno show fatto di energia, teatralità, battute e travestimenti. Special guest della serata saranno gli Induction, tra le realtà più interessanti della nuova ondata power metal europea.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": null,
+    "organizzatore": "Bagana",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Roncade",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nanowar-of-steel-induction-new-age-roncade-7-dicembre-tv",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mostra-mercato-del-vinile-e-cd-per-hobbisti-rescaldina",
+    "titolo": "Mostra Mercato Del Vinile E Cd Per Hobbisti",
+    "categoria": "mostra",
+    "inizio": "2026-12-20T10:00",
+    "fine": "2026-12-20T18:00",
+    "luogo": "Osteria sociale La Tela",
+    "indirizzo": "Strada Provinciale 527 Saronnese, 31, 20027 Rescaldina (MI)",
+    "cap": null,
+    "comune": "015181",
+    "frazione": null,
+    "lat": 45.6221,
+    "lon": 8.95145,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra mercato dedicata ad appassionati e hobbisti con espositori di migliaia di dischi in vinile, cd e dvd. È prevista la possibilità di scambiare dischi con gli espositori e di pranzare presso il locale.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rock Paradise Fiera del Disco e DisCollection",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rescaldina",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-rescaldina-mi-domenica-20-dicembre-mostra-mercato-del-vinile-e-cd-per-hobbisti",
+        "consultata": "2026-11-26"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-26",
+    "inseritoDa": "consegna"
   }
 ]
