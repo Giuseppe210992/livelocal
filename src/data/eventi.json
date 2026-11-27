@@ -397390,5 +397390,498 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "accensione-albero-di-natale-piazza-tasso-2026-12-01-sorrento",
+    "titolo": "Festa dell'accensione dell'albero di Natale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-01T16:30",
+    "luogo": "Piazza Tasso",
+    "descrizione": "Con l'accensione dell'albero e delle luminarie in piazza Tasso partono le festività natalizie di Sorrento.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "friends-for-pino-concerto-tributo-a-pino-daniele-piazza-tasso-2026-12-01-sorrento",
+    "titolo": "«Friends for Pino»: concerto tributo a Pino Daniele",
+    "categoria": "concerto",
+    "inizio": "2026-12-01T20:00",
+    "luogo": "Piazza Tasso",
+    "descrizione": "Concerto tributo a Pino Daniele con Gigi De Rienzo, Ernesto Vitolo, Greg Rega, Carlo Fimiani, Marco Zurzolo, Claudio Romano e la partecipazione straordinaria di Tony Esposito.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "i-maestri-del-presepe-l-arte-di-raccontare-il-natale-villa-fiorentino-2026-12-01-sorrento",
+    "titolo": "«I maestri del presepe. L'arte di raccontare il Natale»",
+    "categoria": "mostra",
+    "inizio": "2026-12-01T18:00",
+    "luogo": "Villa Fiorentino",
+    "descrizione": "Mostra curata da Giuseppe Ercolano sull'arte presepiale, che si inaugura il 1° dicembre alle 18 e resta aperta fino al 10 gennaio; con due esposizioni fotografiche, «L'arte dell'accoglienza» e «Il Natale dell'accoglienza». A cura della Fondazione Sorrento.",
+    "organizzatore": "Fondazione Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2027-01-10T23:00"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "giornate-professionali-di-cinema-anteprime-teatro-tasso-2026-11-30-sorrento",
+    "titolo": "Giornate Professionali di Cinema: anteprime",
+    "categoria": "mostra",
+    "inizio": "2026-11-30",
+    "luogo": "Teatro Tasso e Hilton Sorrento Palace",
+    "descrizione": "Anteprime di film delle Giornate Professionali di Cinema, dal 30 novembre al 4 dicembre. Gli inviti si ritirano lunedì 30 novembre, dalle 8 alle 14, in sala consiliare (massimo 2 per persona, fino a esaurimento posti).",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2026-12-04"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "sorrento-chocoland-corso-italia-2026-12-03-sorrento",
+    "titolo": "Sorrento Chocoland",
+    "categoria": "mercatino",
+    "inizio": "2026-12-03",
+    "luogo": "Corso Italia",
+    "descrizione": "Fiera del cioccolato artigianale lungo corso Italia, dal 3 all'8 dicembre.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2026-12-08"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "fiera-di-natale-chiostro-di-san-francesco-2026-12-03-sorrento",
+    "titolo": "Fiera di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-03",
+    "luogo": "Chiostro di San Francesco",
+    "descrizione": "Fiera di Natale nel chiostro di San Francesco, dal 3 al 9 dicembre.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2026-12-09"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "sfilata-delle-squadre-caccia-al-tesoro-2026-12-06-sorrento",
+    "titolo": "Sfilata delle squadre della Caccia al Tesoro",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-06T21:00",
+    "luogo": "Strade del centro",
+    "descrizione": "Tradizionale sfilata di presentazione delle squadre della Caccia al Tesoro per le strade di Sorrento, a cura dell'associazione culturale Nemesi.",
+    "organizzatore": "Associazione culturale Nemesi",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "sorrento-dell-800-nell-arte-del-presepe-chiesa-di-san-paolo-2026-12-06-sorrento",
+    "titolo": "«Sorrento dell'800 nell'arte del presepe»",
+    "categoria": "mostra",
+    "inizio": "2026-12-06",
+    "luogo": "Chiesa di San Paolo",
+    "descrizione": "Presepe di Roberto Di Maio e Antonino Paturzo ospitato nella chiesa di San Paolo dal 6 dicembre al 7 gennaio, a cura del centro studi Bartolommeo Capasso.",
+    "organizzatore": "Centro studi Bartolommeo Capasso",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2027-01-07"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "wolfgang-il-prodigio-ed-i-suoi-eredi-chiesa-dei-servi-di-maria-2026-12-06-sorrento",
+    "titolo": "«Wolfgang: il prodigio ed i suoi eredi»",
+    "categoria": "teatro",
+    "inizio": "2026-12-06T18:30",
+    "luogo": "Chiesa dei Servi di Maria",
+    "descrizione": "Spettacolo a cura del Centro di musica antica Pietà de' Turchini.",
+    "organizzatore": "Centro di musica antica Pietà de' Turchini",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "sorrento-christmas-village-corso-italia-2026-12-09-sorrento",
+    "titolo": "Sorrento Christmas Village (5ª edizione)",
+    "categoria": "mercatino",
+    "inizio": "2026-12-09",
+    "luogo": "Corso Italia",
+    "descrizione": "Quinta edizione dei mercatini di Natale lungo corso Italia, dal 9 al 13 dicembre.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "fine": "2026-12-13"
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "caruso-de-curtis-festival-gala-concert-grand-hotel-excelsior-vittoria-2026-12-12-sorrento",
+    "titolo": "Caruso-De Curtis Festival: gala concert",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T19:30",
+    "luogo": "Grand Hotel Excelsior Vittoria",
+    "descrizione": "Gala concert dell'Ensemble di Napoli & Guest con le voci di Giulia Lepore e Antonio Sarnelli De Silva e Paolo Scibilia al pianoforte. Ingresso libero con prenotazione obbligatoria.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "gratuito"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "notte-bianca-sorrento-2026-12-12-sorrento",
+    "titolo": "Notte Bianca",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12",
+    "luogo": "Centro di Sorrento",
+    "descrizione": "Shopping tra luci, musica e convivialità con i negozi aperti fino a mezzanotte, a cura di Confcommercio Sorrento.",
+    "organizzatore": "Confcommercio Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "un-natale-d-autore-universo-musicale-di-gaetano-panariello-chiesa-dei-servi-di-maria-2026-12-20-sorrento",
+    "titolo": "«Un Natale d'autore. L'universo musicale di Gaetano Panariello»",
+    "categoria": "concerto",
+    "inizio": "2026-12-20T18:30",
+    "luogo": "Chiesa dei Servi di Maria",
+    "descrizione": "Concerto natalizio a cura del Centro di musica antica Pietà de' Turchini.",
+    "organizzatore": "Centro di musica antica Pietà de' Turchini",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "stelle-del-mediterraneo-christmas-teatro-tasso-2026-12-20-sorrento",
+    "titolo": "«Stelle del Mediterraneo Christmas»",
+    "categoria": "teatro",
+    "inizio": "2026-12-20T21:00",
+    "luogo": "Teatro Tasso",
+    "descrizione": "Spettacolo di omaggio alla coreografa Raffaella Pandolfi.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "concerto-di-natale-nuova-orchestra-scarlatti-teatro-tasso-2026-12-26-sorrento",
+    "titolo": "Concerto di Natale della Nuova Orchestra Scarlatti",
+    "categoria": "concerto",
+    "inizio": "2026-12-26T21:00",
+    "luogo": "Teatro Tasso",
+    "descrizione": "Concerto di Natale della Nuova Orchestra Scarlatti di Napoli.",
+    "organizzatore": "Nuova Orchestra Scarlatti",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "concerto-di-fine-anno-musiche-di-strauss-teatro-tasso-2026-12-31-sorrento",
+    "titolo": "Concerto di fine anno con musiche di Strauss",
+    "categoria": "concerto",
+    "inizio": "2026-12-31T11:30",
+    "luogo": "Teatro Tasso",
+    "descrizione": "Concerto di fine anno a cura della Società Concerti Sorrento, con musiche di Strauss.",
+    "organizzatore": "Società Concerti Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "comune": "063080",
+    "lat": 40.61726,
+    "lon": 14.38104,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Sorrento – programma natalizio",
+        "tipo": "ufficiale",
+        "url": "https://comune.sorrento.na.it/it/novita/page/sorrento-il-programma-di-appuntamenti-natalizi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "slug": "fine-anno-in-piazza-tasso-ciuccio-di-fuoco-dj-set-fuochi-2026-12-31-sorrento",
+    "titolo": "Fine anno in piazza Tasso: Ciuccio di Fuoco, dj set e fuochi",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-31T18:30",
+    "luogo": "Piazza Tasso",
+    "descrizione": "Dalle 18.30 il tradizionale Ciuccio di Fuoco, dalle 23 il dj set aspettando il 2027 e poi i fuochi pirotecnici.",
+    "organizzatore": "Comune di Sorrento",
+    "prezzo": {
+      "tipo": "non-indicato"
+    }
+  },
+  {
+    "slug": "il-coraggio-di-cambiare-insieme-affido-familiare-villa-gianetti-saronno-2026-12-02",
+    "titolo": "Il coraggio di cambiare insieme: conoscere e vivere l'affido",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T21:00",
+    "luogo": "Villa Gianetti",
+    "indirizzo": "Via Roma 20",
+    "comune": "012119",
+    "lat": 45.62707,
+    "lon": 9.03614,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata sull'affido familiare nel Saronnese con saluti istituzionali, testimonianze delle famiglie affidatarie e la conduzione di Luca Chieregato, scrittore, attore e cantastorie. Iniziativa del Centro per la Famiglia dell'Ambito territoriale sociale di Saronno, con Proges.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Saronno",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Saronno su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNAuTom1C1/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
