@@ -402136,5 +402136,62 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lucetta-piccoli-incontri-comteatro-teatro-verdi-corsico-2026-11-28",
+    "titolo": "«Lucetta» – rassegna Piccoli incontri",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T16:30",
+    "luogo": "Teatro Verdi",
+    "comune": "015093",
+    "lat": 45.43325,
+    "lon": 9.10183,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo per bambini dai 4 anni, produzione Comteatro con la regia di Claudio Orlandini: la storia di una bambina convinta che nel suo armadio si nasconda qualcuno, che scopre un buffo ometto con una valigia piena di avventure notturne. Biglietto intero 5 euro, 3 euro con i voucher del progetto «Sciroppo di Teatro». La rassegna prosegue il 23 gennaio e il 20 febbraio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Comteatro",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Corsico su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNl2StPsz6/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "indirizzo": "Via Visconti di Modrone"
+  },
+  {
+    "slug": "quasi-familiare-martino-gamper-francis-upritchard-macro-roma-2026-12-10",
+    "titolo": "«Quasi familiare»: Martino Gamper e Francis Upritchard",
+    "categoria": "mostra",
+    "inizio": "2026-12-10",
+    "luogo": "MACRO – Museo d'Arte Contemporanea di Roma",
+    "comune": "058091",
+    "lat": 41.9165,
+    "lon": 12.5062,
+    "coordinateApprossimate": false,
+    "descrizione": "Mostra a cura di Cristiana Perrella che mette in dialogo il design di Martino Gamper e le sculture di Francis Upritchard, per la prima volta insieme in Italia. Si sviluppa in quattro ambienti: il foyer, il tetto dell'auditorium, il cortile e lo Studio 1, trasformando gli spazi di passaggio in luoghi di sosta e di uso collettivo. Inaugura il 10 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "MACRO – Museo d'Arte Contemporanea di Roma",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "MACRO su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNh45CDTGa/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "indirizzo": "Via Nizza 138"
   }
 ]
