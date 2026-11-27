@@ -386888,5 +386888,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "jazz-all-opera-colours-jazz-orchestra-teatro-sperimentale-ancona-2026-12-09",
+    "titolo": "Jazz all'Opera con la Colours Jazz Orchestra",
+    "categoria": "concerto",
+    "inizio": "2026-12-09T21:00",
+    "luogo": "Teatro Sperimentale",
+    "comune": "042002",
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Le arie più note della lirica, da Monteverdi a Puccini, rilette in chiave jazz dalla big band di 19 elementi diretta da Massimo Morganti, con tre cantanti solisti. Produzione della Società Civile dello Sferisterio; durante il concerto un'associazione non profit del territorio raccoglie offerte tra il pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Spaziomusica - Ancona Jazz",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "ANSA",
+        "tipo": "stampa",
+        "url": "https://www.ansa.it/marche/notizie/2026/11/26/jazz-allopera-la-lirica-incontra-il-jazz-in-un-concerto-ad-ancona_df943748-2e68-4c67-bd92-36c643ecdb1b.html",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "festa-mobile-arte-dell-abitare-in-viaggio-maneggio-sini-2026-11-28",
+    "titolo": "Festa Mobile: l'arte dell'abitare in viaggio",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Maneggio di Sini",
+    "comune": "115068",
+    "lat": 39.75403,
+    "lon": 8.90176,
+    "coordinateApprossimate": true,
+    "descrizione": "Weekend di passeggiate nella natura, laboratori, incontri su accoglienza e migrazioni, pranzo multiculturale e inaugurazione de «La stalla di Agitu» con murales e proiezioni. Sabato la camminata parte alle 9 dall'olivo millenario; domenica il programma inizia alle 11 al maneggio. Attività gratuite; per l'itinerario e i pranzi serve prenotare entro il 26 novembre (info su carovana.org).",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Carovana SMI",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "CagliariToday",
+        "tipo": "stampa",
+        "url": "https://www.cagliaritoday.it/eventi/festa-mobile-sini-28-29-novembre-2026.html",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
