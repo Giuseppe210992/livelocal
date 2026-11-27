@@ -2,19 +2,19 @@
  "_nota": "Generato da scripts/estrai-eventi-ia.mjs: ultimo giro per ogni fonte.",
  "fonti": {
   "https://www.comune.peschieraborromeo.mi.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 1,
-   "esito": "ok: 3 proposti, 1 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 11,
+   "esito": "ok: 13 proposti, 11 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.piacenza.it/it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://visitpiacenza.it/events/natale-a-piacenza/": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 1,
    "esito": "ok: 1 proposti, 1 superano il controllo",
    "falliti": 0
@@ -26,21 +26,21 @@
    "falliti": 4
   },
   "https://www.culturabologna.it/agenda": {
-   "ultima": "2026-11-26",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.pianodisorrento.na.it/": {
-   "ultima": "2026-11-26",
-   "eventi": 3,
-   "esito": "ok: 6 proposti, 3 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 4,
+   "esito": "ok: 6 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://teatrostabile.umbria.it/calendario": {
-   "ultima": "2026-11-26",
-   "eventi": 7,
-   "esito": "ok: 9 proposti, 7 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 8,
+   "esito": "ok: 9 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://cultura.gov.it/evento": {
@@ -50,22 +50,22 @@
    "falliti": 4
   },
   "https://www.teatrotrianon.org/programmazione": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.teatroghione.it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.fiesoleforyou.it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 15,
-   "esito": "ok: 15 proposti, 15 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.comune.napoli.it/vivere-il-comune/eventi": {
    "ultima": "2026-11-24",
@@ -74,7 +74,7 @@
    "falliti": 4
   },
   "https://www.teatrosancarlo.it/spettacoli": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -86,9 +86,9 @@
    "falliti": 4
   },
   "https://www.comune.monza.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 3,
+   "esito": "ok: 6 proposti, 3 superano il controllo",
    "falliti": 0
   },
   "https://www.teatrodiroma.net/spettacoli": {
@@ -98,9 +98,9 @@
    "falliti": 4
   },
   "https://teatripiacenza.it/calendario/": {
-   "ultima": "2026-11-26",
-   "eventi": 13,
-   "esito": "ok: 15 proposti, 13 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 12,
+   "esito": "ok: 15 proposti, 12 superano il controllo",
    "falliti": 0
   },
   "https://www.museodelnovecento.org/it/eventi": {
@@ -110,9 +110,9 @@
    "falliti": 4
   },
   "https://acqualagna.com/programma": {
-   "ultima": "2026-11-26",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 15,
+   "esito": "ok: 15 proposti, 15 superano il controllo",
    "falliti": 0
   },
   "https://comune.lainate.mi.it/vivere-il-comune/evento": {
@@ -122,13 +122,13 @@
    "falliti": 4
   },
   "https://teatrogrande.it/it/calendario": {
-   "ultima": "2026-11-26",
-   "eventi": 13,
-   "esito": "ok: 13 proposti, 13 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.cuneocultura.it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -140,27 +140,27 @@
    "falliti": 4
   },
   "https://www.comune.montecchio-maggiore.vi.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 5,
+   "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://www.fierasanmartinochieri.it/programma": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://romajazzfestival.it/programma": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.comune.noviligure.al.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 5,
+   "esito": "ok: 6 proposti, 5 superano il controllo",
    "falliti": 0
   },
   "https://eliseoteatro.it/spettacoli": {
@@ -170,33 +170,33 @@
    "falliti": 4
   },
   "https://teatromanzoniroma.it/programma": {
-   "ultima": "2026-11-26",
-   "eventi": 15,
-   "esito": "ok: 15 proposti, 15 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.teatropetrolini.it/spettacoli": {
-   "ultima": "2026-11-26",
-   "eventi": 11,
-   "esito": "ok: 12 proposti, 11 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.fondazionepetruzzelli.it/category/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
+   "eventi": 12,
+   "esito": "ok: 15 proposti, 12 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.comune.giussano.mb.it/it/eventi": {
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
-  "https://www.comune.giussano.mb.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 3,
-   "esito": "ok: 8 proposti, 3 superano il controllo",
-   "falliti": 0
-  },
   "https://romaeuropa.net/programma": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 4 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://comune.arcore.mb.it/vivere-il-comune/evento": {
@@ -206,13 +206,13 @@
    "falliti": 4
   },
   "https://www.teatrolafenice.it/en/whats-on": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "esito": "ok: 8 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://comune.gorgonzola.mi.it/vivere-il-comune/evento": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -224,33 +224,33 @@
    "falliti": 4
   },
   "https://www.auditorium.com/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 6,
-   "esito": "ok: 11 proposti, 6 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 11,
+   "esito": "ok: 11 proposti, 11 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.chiavari.ge.it/it/events": {
-   "ultima": "2026-11-26",
-   "eventi": 1,
-   "esito": "ok: 5 proposti, 1 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://novara.circololettori.it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 15,
-   "esito": "ok: 15 proposti, 15 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.turismo.comunecervia.it/it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 8,
-   "esito": "ok: 9 proposti, 8 superano il controllo",
+   "esito": "ok: 10 proposti, 8 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.martinengo.bg.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 7,
+   "esito": "ok: 7 proposti, 7 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.atripalda.av.it/it/eventi": {
@@ -260,39 +260,39 @@
    "falliti": 4
   },
   "https://comune.cesate.mi.it/vivere-il-comune/evento": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.auditoriumalbignasego.it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 6,
-   "esito": "ok: 10 proposti, 6 superano il controllo",
-   "falliti": 0
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.liricocagliari.it/evento": {
-   "ultima": "2026-11-26",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.teatroguglielmi.it/spettacoli": {
-   "ultima": "2026-11-26",
-   "eventi": 7,
-   "esito": "ok: 7 proposti, 7 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.reggioemiliawelcome.it/it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://teatrosocialecomo.it/calendario": {
-   "ultima": "2026-11-26",
-   "eventi": 10,
-   "esito": "ok: 10 proposti, 10 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 15,
+   "esito": "ok: 15 proposti, 15 superano il controllo",
    "falliti": 0
   },
   "https://www.turismo.pisa.it/eventi": {
@@ -302,21 +302,21 @@
    "falliti": 4
   },
   "https://www.comune.castenaso.bo.it/it-it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.capannori.lu.it/vivere-il-comune/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 4,
    "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.comune.ancona.it/it/eventi": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 5 proposti, 0 superano il controllo",
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://eventi.sondrioevalmalenco.it/evento": {
@@ -332,22 +332,22 @@
    "falliti": 4
   },
   "https://www.comune.cento.fe.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 2,
-   "esito": "ok: 3 proposti, 2 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 6,
+   "esito": "ok: 7 proposti, 6 superano il controllo",
    "falliti": 0
   },
   "https://www.prolococolleferro.it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 5,
-   "esito": "ok: 5 proposti, 5 superano il controllo",
-   "falliti": 0
-  },
-  "https://www.teatrosociale.it/spettacoli": {
-   "ultima": "2026-11-26",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
+  },
+  "https://www.teatrosociale.it/spettacoli": {
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://turismo.comune.terni.it/eventi": {
    "ultima": "2026-11-26",
@@ -356,9 +356,9 @@
    "falliti": 0
   },
   "https://www.comune.melzo.mi.it/it/eventi": {
-   "ultima": "2026-11-26",
-   "eventi": 5,
-   "esito": "ok: 11 proposti, 5 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 2,
+   "esito": "ok: 4 proposti, 2 superano il controllo",
    "falliti": 0
   },
   "https://www.turismofvg.it/it/mare/eventi": {
@@ -368,9 +368,9 @@
    "falliti": 0
   },
   "https://www.goldoniteatro.it/spettacoli": {
-   "ultima": "2026-11-26",
-   "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 14,
+   "esito": "ok: 15 proposti, 14 superano il controllo",
    "falliti": 0
   },
   "https://visitcittasantangelo.it/evento": {
@@ -1262,10 +1262,10 @@
    "falliti": 0
   },
   "https://valledaostaheritage.com/whats-on": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
-   "esito": "ok: 0 proposti, 0 superano il controllo",
-   "falliti": 0
+   "esito": "pagina vuota (probabile contenuto caricato con JavaScript)",
+   "falliti": 1
   },
   "https://www.visitlmr.it/it/eventi": {
    "ultima": "2026-11-27",
@@ -1280,9 +1280,9 @@
    "falliti": 4
   },
   "https://www.visitbrescia.it/eventi": {
-   "ultima": "2026-11-25",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 4,
+   "esito": "ok: 4 proposti, 4 superano il controllo",
    "falliti": 0
   },
   "https://www.visitpiemonte.com/en/events": {
@@ -1292,15 +1292,15 @@
    "falliti": 4
   },
   "https://www.visitmuve.it/evento": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://visitcesenatico.it/vivi-cesenatico/eventi": {
-   "ultima": "2026-11-25",
-   "eventi": 2,
-   "esito": "ok: 2 proposti, 2 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.visittuscany.com/en/events": {
@@ -1310,15 +1310,15 @@
    "falliti": 0
   },
   "https://www.visitrimini.com/en/events": {
-   "ultima": "2026-11-25",
-   "eventi": 0,
-   "esito": "ok: 9 proposti, 0 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 9,
+   "esito": "ok: 15 proposti, 9 superano il controllo",
    "falliti": 0
   },
   "https://www.visitrovereto.it/vivi/eventi": {
-   "ultima": "2026-11-25",
-   "eventi": 2,
-   "esito": "ok: 5 proposti, 2 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.corriere.it/giochi/prima-o-dopo/?intcmp=fascia-giochi-hpcor": {
@@ -1328,7 +1328,7 @@
    "falliti": 3
   },
   "https://t.me/s/comunediminturnocomunicazioni": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -1376,7 +1376,7 @@
    "falliti": 3
   },
   "https://www.latinatoday.it/eventi/": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 5,
    "esito": "ok: 5 proposti, 5 superano il controllo",
    "falliti": 0
@@ -1742,13 +1742,13 @@
    "falliti": 0
   },
   "https://www.milanotoday.it/eventi/": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.napolitoday.it/eventi/": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
@@ -1820,31 +1820,31 @@
    "falliti": 0
   },
   "https://reggiadicaserta.cultura.gov.it/iniziative/": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
+   "eventi": 3,
+   "esito": "ok: 3 proposti, 3 superano il controllo",
+   "falliti": 0
+  },
+  "https://www.salernotoday.it/eventi/": {
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
-  "https://www.salernotoday.it/eventi/": {
-   "ultima": "2026-11-25",
-   "eventi": 1,
-   "esito": "ok: 1 proposti, 1 superano il controllo",
-   "falliti": 0
-  },
   "https://www.casertanews.it/eventi/": {
-   "ultima": "2026-11-25",
-   "eventi": 4,
-   "esito": "ok: 4 proposti, 4 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.romatoday.it/eventi/": {
-   "ultima": "2026-11-25",
-   "eventi": 10,
-   "esito": "ok: 10 proposti, 10 superano il controllo",
+   "ultima": "2026-11-27",
+   "eventi": 0,
+   "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
   },
   "https://www.torinotoday.it/eventi/": {
-   "ultima": "2026-11-25",
+   "ultima": "2026-11-27",
    "eventi": 0,
    "esito": "ok: 0 proposti, 0 superano il controllo",
    "falliti": 0
