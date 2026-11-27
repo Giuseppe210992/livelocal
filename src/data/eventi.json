@@ -388868,5 +388868,87 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "comune": "055023",
+    "lat": 42.7343,
+    "lon": 12.1518,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Orvieto su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgNJZLdsaAU/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "ailati-l-italia-cantata-a-cappella-teatro-mancinelli-orvieto-2026-11-28",
+    "titolo": "Ailati – L'Italia cantata a cappella",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "Teatro Mancinelli",
+    "descrizione": "Concerto a cappella dei Cherries on a swing set, con un viaggio nella canzone italiana, nel programma natalizio «A Natale regalati Orvieto».",
+    "organizzatore": "Comune di Orvieto"
+  },
+  {
+    "comune": "055023",
+    "lat": 42.7343,
+    "lon": 12.1518,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Orvieto su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgNJZLdsaAU/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "orvieto-gin-experience-palazzo-del-capitano-del-popolo-orvieto-2026-11-28",
+    "titolo": "Orvieto Gin Experience",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Palazzo del Capitano del Popolo",
+    "descrizione": "Esposizione di gin con masterclass e degustazioni accompagnate da prodotti locali, tra gli appuntamenti di «A Natale regalati Orvieto».",
+    "organizzatore": "Comune di Orvieto"
+  },
+  {
+    "comune": "055023",
+    "lat": 42.7343,
+    "lon": 12.1518,
+    "coordinateApprossimate": true,
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Orvieto su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgNJZLdsaAU/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "slug": "insieme-nel-segno-della-musica-pinocchio-e-dintorni-ridotto-teatro-mancinelli-orvieto-2026-11-29",
+    "titolo": "Insieme – Nel segno della musica: Pinocchio e dintorni",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T17:00",
+    "luogo": "Ridotto del Teatro Mancinelli",
+    "descrizione": "Appuntamento musicale dedicato a Pinocchio e al suo mondo, nel cartellone natalizio «A Natale regalati Orvieto».",
+    "organizzatore": "Comune di Orvieto"
   }
 ]
