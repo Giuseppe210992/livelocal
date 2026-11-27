@@ -387678,5 +387678,72 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-val-di-cornia-trekking-nella-toscana-antica-campiglia-marittima",
+    "titolo": "La Val di Cornia - Trekking nella Toscana antica",
+    "categoria": "sport",
+    "inizio": "2026-12-05T09:00",
+    "fine": "2026-12-08T22:00",
+    "luogo": "Campiglia Marittima",
+    "indirizzo": "Campiglia Marittima",
+    "cap": null,
+    "comune": "049002",
+    "frazione": null,
+    "lat": 43.03492,
+    "lon": 10.61431,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso escursionistico di 4 giorni nel territorio etrusco, con itinerari attraverso boschi di sughere, leccio e querce. Le tappe includono Suvereto, Baratti, Cala San Quirico, Populonia e Cala del Pozzino. La quota include alloggio in agriturismo e guida ambientale abilitata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 330
+    },
+    "prenotazione": null,
+    "organizzatore": "DAVVERO VIAGGI",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Campiglia Marittima",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-val-di-cornia-trekking-nella-toscana-antica-campiglia-marittima-li",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trek-dalla-magia-del-canyon-del-maschio-d-ariano-all-incanto-del-villa-lariano",
+    "titolo": "Trek dalla Magia del Canyon del Maschio d’Ariano all’incanto del Villaggio di Natale",
+    "categoria": "sport",
+    "inizio": "2026-12-13T09:00",
+    "fine": "2026-12-13T15:00",
+    "luogo": "Maschio d'Ariano",
+    "indirizzo": "Scorciatoia verso Passo del Lupo, 00076 Lariano (RM)",
+    "cap": null,
+    "comune": "058115",
+    "frazione": null,
+    "lat": 41.72746,
+    "lon": 12.82568,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione naturalistica sui Monti dell'Artemisio che attraversa la Fonte del Turano e il Canyon fino alla vetta del Maschio d'Ariano. L'attività unisce il trekking alla scoperta del territorio di Lariano con una successiva visita al villaggio natalizio di Grottaferrata.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Lariano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-trek-dalla-magia-del-canyon-del-maschio-dariano-allincanto-del-villaggio-di-natale-lariano-rm",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
   }
 ]
