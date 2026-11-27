@@ -183,6 +183,7 @@ a.pastiglia:hover { border-color: var(--mare); }
 .piede__crediti { font-size: .8rem; }
 
 /* ---------- Mappa e "vicino a me" ---------- */
+.esplora, .filtro { min-width: 0; }
 .filtro { background: var(--carta); border: 1px solid var(--bordo); border-radius: var(--raggio); padding: 12px 14px 14px; margin-bottom: 12px; }
 .filtro__titolo { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--tenue); margin: 0 0 8px; }
 .giorni {
@@ -305,6 +306,10 @@ main li { margin-bottom: .35rem; }
 #invia:disabled { opacity: .6; cursor: not-allowed; }
 
 /* Avviso «possono esserci errori» e pulsante che sembra un collegamento */
+.nota-mappa { font-size: .85rem; color: var(--tenue); margin: 6px 0 0; }
+.nota-mappa:empty { display: none; }
+.elenco .altri { list-style: none; text-align: center; padding: 8px 0 4px; }
+.elenco .altri .bottone { font: inherit; font-weight: 700; cursor: pointer; min-height: 48px; }
 .nota-errori { font-size: .85rem; color: var(--tenue); margin: 4px 0 12px; }
 .piede__avviso { font-size: .9rem; }
 .collegamento { background: none; border: 0; padding: 0; font: inherit; color: var(--mare); text-decoration: underline; cursor: pointer; }

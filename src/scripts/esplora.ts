@@ -35,6 +35,8 @@ type Giorno = 'tutti' | 'weekend' | string; // oppure AAAA-MM-GG
 interface Partenza { lat: number; lon: number; nome: string; daGps: boolean; slug?: string; precisione?: number }
 
 const GIORNI_VISIBILI = 14;
+const PER_PAGINA = 40;        // schede mostrate nell'elenco; le altre con «Mostra altri»
+const MAX_PUNTINE = 150;      // puntine disegnate insieme sulla mappa (con migliaia di eventi il telefono si bloccherebbe)
 const RAGGI = [10, 25, 50, 100, 0]; // 0 = tutta Italia
 
 // ---------- date (fuso italiano) ----------
@@ -69,8 +71,17 @@ const testoKm = (km: number) => (km < 1 ? `${Math.max(10, Math.round(km * 100) *
 // ---------- testo sicuro dentro l'HTML ----------
 const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 
-export function avviaEsplora(): void {
-  const dati: Dati = JSON.parse(document.getElementById('dati-esplora')!.textContent!);
+export async function avviaEsplora(): Promise<void> {
+  // I dati stanno in un file a parte (mappa-eventi.json): se non arrivano resta l'elenco già scritto nella pagina.
+  let dati: Dati;
+  try {
+    const url = (document.querySelector('.esplora') as HTMLElement).dataset.eventi!;
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(String(r.status));
+    dati = (await r.json()) as Dati;
+  } catch {
+    return;
+  }
   const el = {
     giorni: document.getElementById('giorni')!,
     altraData: document.getElementById('altra-data') as HTMLInputElement,
@@ -82,6 +93,7 @@ export function avviaEsplora(): void {
     titolo: document.getElementById('titolo-risultati')!,
     risultati: document.getElementById('risultati')!,
     mappa: document.getElementById('mappa')!,
+    notaMappa: document.getElementById('nota-mappa')!,
   };
 
   // ----- stato iniziale, letto dall'indirizzo (così un link si può condividere) -----
@@ -90,6 +102,8 @@ export function avviaEsplora(): void {
   if (giorno !== 'tutti' && giorno !== 'weekend' && !/^\d{4}-\d{2}-\d{2}$/.test(giorno)) giorno = 'tutti';
   let raggio = parametri.has('r') && RAGGI.includes(Number(parametri.get('r'))) ? Number(parametri.get('r')) : 25;
   let partenza: Partenza | null = null;
+  let lista: (EventoMappa & { km?: number })[] = []; // eventi che passano i filtri
+  let mostrati = PER_PAGINA;                          // quante schede dell'elenco sono visibili
 
   // ----- elenco dei luoghi di partenza (comuni e frazioni), scaricato solo quando serve -----
   let luoghi: Centro[] | null = null;
@@ -186,61 +200,78 @@ export function avviaEsplora(): void {
     el.giorni.querySelector<HTMLElement>('[aria-pressed="true"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
   }
 
-  function disegnaRisultati(): void {
-    const lista = eventiFiltrati();
-    const adesso = Date.now();
-    const nomePartenza = partenza ? (partenza.daGps ? 'te' : partenza.nome) : '';
-    const dove = !partenza ? '' : raggio === 0 ? ` in tutta Italia, dal più vicino a ${nomePartenza}` : ` entro ${raggio} km da ${nomePartenza}`;
-    const quanti = lista.length === 0 ? 'Nessun evento' : lista.length === 1 ? '1 evento' : `${lista.length} eventi`;
-    el.titolo.textContent = `${quanti} ${descrizioneGiorno()}${dove}`;
+  const testoPopup = (e: EventoMappa & { km?: number }) =>
+    `<div class="popup">
+      <span class="scheda__categoria">${esc(e.categoria)}</span>
+      <a class="popup__titolo" href="${esc(e.url)}">${esc(e.titolo)}</a>
+      <span>${esc(e.quando)}</span>
+      <span>${esc(e.luogo)}</span>
+      ${e.km !== undefined ? `<span>a ${testoKm(e.km)}</span>` : ''}
+      ${e.approssimata ? '<small>Posizione indicativa (centro del paese)</small>' : ''}
+    </div>`;
 
-    // elenco
+  /** Elenco a pagine: solo le prime «mostrati» schede, le altre con il pulsante «Mostra altri». */
+  function disegnaElenco(): void {
+    const adesso = Date.now();
     if (!lista.length) {
+      const dove = descrizioneDove();
       const allarga = partenza && raggio !== 0 ? ' oppure <button type="button" class="collegamento" data-allarga>cerca in tutta Italia</button>' : '';
       el.risultati.innerHTML = `<li class="vuoto">Nessun evento ${esc(descrizioneGiorno())}${esc(dove)}. Prova un altro giorno${allarga}.</li>`;
-    } else {
-      el.risultati.innerHTML = lista.map((e, i) => {
-        const concluso = e.fineMs < adesso;
-        const etichetta = e.stato === 'annullato' ? ['Annullato', 'annullato'] : e.stato === 'rinviato' ? ['Rinviato', 'nuove-date'] : concluso ? ['Concluso', 'concluso'] : e.nuoveDate ? ['Nuove date', 'nuove-date'] : null;
-        return `<li class="scheda${concluso ? ' scheda--conclusa' : ''}">
-          <div class="data" aria-hidden="true"><span class="data__settimana">${esc(e.data.settimana)}</span><span class="data__giorno">${esc(e.data.giorno)}</span><span class="data__mese">${esc(e.data.mese)}</span></div>
-          <div>
-            <span class="scheda__categoria">${esc(e.categoria)}</span>${etichetta ? ` <span class="stato stato--${etichetta[1]}">${etichetta[0]}</span>` : ''}
-            <h3 class="scheda__titolo"><a href="${esc(e.url)}">${esc(e.titolo)}</a></h3>
-            <p class="scheda__info">${esc(e.quando)} · ${esc(e.luogo)}, ${esc(e.localita)}</p>
-            ${e.km !== undefined ? `<p class="scheda__distanza">a ${testoKm(e.km)}${partenza?.daGps ? ' da te' : ` da ${esc(partenza!.nome)}`}</p>` : ''}
-            <button type="button" class="vedi-mappa" data-indice="${i}">Mostra sulla mappa</button>
-          </div>
-        </li>`;
-      }).join('');
+      return;
     }
-
-    // mappa
-    livelloEventi.clearLayers();
-    const marcatori = lista.map((e) => {
+    const schede = lista.slice(0, mostrati).map((e, i) => {
       const concluso = e.fineMs < adesso;
-      const m = L.marker([e.lat, e.lon], { icon: concluso ? segnapostoConcluso : segnaposto, title: e.titolo, alt: e.titolo });
-      m.bindPopup(
-        `<div class="popup">
-          <span class="scheda__categoria">${esc(e.categoria)}</span>
-          <a class="popup__titolo" href="${esc(e.url)}">${esc(e.titolo)}</a>
-          <span>${esc(e.quando)}</span>
-          <span>${esc(e.luogo)}</span>
-          ${e.km !== undefined ? `<span>a ${testoKm(e.km)}</span>` : ''}
-          ${e.approssimata ? '<small>Posizione indicativa (centro del paese)</small>' : ''}
-        </div>`,
-      );
-      return m.addTo(livelloEventi);
+      const etichetta = e.stato === 'annullato' ? ['Annullato', 'annullato'] : e.stato === 'rinviato' ? ['Rinviato', 'nuove-date'] : concluso ? ['Concluso', 'concluso'] : e.nuoveDate ? ['Nuove date', 'nuove-date'] : null;
+      return `<li class="scheda${concluso ? ' scheda--conclusa' : ''}">
+        <div class="data" aria-hidden="true"><span class="data__settimana">${esc(e.data.settimana)}</span><span class="data__giorno">${esc(e.data.giorno)}</span><span class="data__mese">${esc(e.data.mese)}</span></div>
+        <div>
+          <span class="scheda__categoria">${esc(e.categoria)}</span>${etichetta ? ` <span class="stato stato--${etichetta[1]}">${etichetta[0]}</span>` : ''}
+          <h3 class="scheda__titolo"><a href="${esc(e.url)}">${esc(e.titolo)}</a></h3>
+          <p class="scheda__info">${esc(e.quando)} · ${esc(e.luogo)}, ${esc(e.localita)}</p>
+          ${e.km !== undefined ? `<p class="scheda__distanza">a ${testoKm(e.km)}${partenza?.daGps ? ' da te' : ` da ${esc(partenza!.nome)}`}</p>` : ''}
+          <button type="button" class="vedi-mappa" data-indice="${i}">Mostra sulla mappa</button>
+        </div>
+      </li>`;
     });
+    const restanti = lista.length - mostrati;
+    if (restanti > 0) schede.push(`<li class="altri"><button type="button" class="bottone bottone--secondario" data-altri>Mostra altri ${Math.min(PER_PAGINA, restanti)} (ne restano ${restanti.toLocaleString('it-IT')})</button></li>`);
+    el.risultati.innerHTML = schede.join('');
+  }
 
-    el.risultati.querySelectorAll<HTMLButtonElement>('.vedi-mappa').forEach((b) =>
-      b.addEventListener('click', () => {
-        const m = marcatori[Number(b.dataset.indice)];
-        el.mappa.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        mappa.setView(m.getLatLng(), Math.max(mappa.getZoom(), 15));
-        m.openPopup();
-      }),
-    );
+  /** Puntine: solo quelle nella zona visibile, al massimo MAX_PUNTINE (le più vicine al centro). */
+  let popupAperto = false; // finché un fumetto è aperto non si ridisegna (si chiuderebbe da solo)
+  function disegnaPuntine(): void {
+    if (popupAperto) return;
+    livelloEventi.clearLayers();
+    const adesso = Date.now();
+    const zona = mappa.getBounds().pad(0.05);
+    const centro = mappa.getCenter();
+    const dentro = lista.filter((e) => zona.contains([e.lat, e.lon]));
+    const scelti = dentro.length > MAX_PUNTINE
+      ? dentro.map((e) => ({ e, d: distanzaKm({ lat: centro.lat, lon: centro.lng }, e) })).sort((a, b) => a.d - b.d).slice(0, MAX_PUNTINE).map((x) => x.e)
+      : dentro;
+    for (const e of scelti) {
+      const concluso = e.fineMs < adesso;
+      L.marker([e.lat, e.lon], { icon: concluso ? segnapostoConcluso : segnaposto, title: e.titolo, alt: e.titolo })
+        .bindPopup(testoPopup(e))
+        .addTo(livelloEventi);
+    }
+    el.notaMappa.textContent = dentro.length > scelti.length
+      ? `Sulla mappa vedi ${scelti.length} eventi su ${dentro.length.toLocaleString('it-IT')} in questa zona: ingrandisci per vederli tutti.`
+      : '';
+  }
+
+  function descrizioneDove(): string {
+    const nomePartenza = partenza ? (partenza.daGps ? 'te' : partenza.nome) : '';
+    return !partenza ? '' : raggio === 0 ? ` in tutta Italia, dal più vicino a ${nomePartenza}` : ` entro ${raggio} km da ${nomePartenza}`;
+  }
+
+  function disegnaRisultati(): void {
+    lista = eventiFiltrati();
+    mostrati = PER_PAGINA;
+    const quanti = lista.length === 0 ? 'Nessun evento' : lista.length === 1 ? '1 evento' : `${lista.length.toLocaleString('it-IT')} eventi`;
+    el.titolo.textContent = `${quanti} ${descrizioneGiorno()}${descrizioneDove()}`;
+    disegnaElenco();
 
     // partenza e cerchio del raggio
     livelloPartenza.clearLayers();
@@ -252,12 +283,13 @@ export function avviaEsplora(): void {
         .addTo(livelloPartenza);
     }
 
-    // inquadratura
-    const punti = marcatori.map((m) => m.getLatLng());
+    // inquadratura (senza animazione, così le puntine si calcolano sulla zona già a posto)
+    const punti: L.LatLng[] = lista.map((e) => L.latLng(e.lat, e.lon));
     if (partenza) punti.push(L.latLng(partenza.lat, partenza.lon));
-    if (punti.length > 1) mappa.fitBounds(L.latLngBounds(punti), { padding: [36, 36], maxZoom: 15 });
-    else if (punti.length === 1) mappa.setView(punti[0], 14);
-    else if (partenza && raggio > 0) mappa.fitBounds(L.latLng(partenza.lat, partenza.lon).toBounds(raggio * 2000));
+    if (punti.length > 1) mappa.fitBounds(L.latLngBounds(punti), { padding: [36, 36], maxZoom: 15, animate: false });
+    else if (punti.length === 1) mappa.setView(punti[0], 14, { animate: false });
+    else if (partenza && raggio > 0) mappa.fitBounds(L.latLng(partenza.lat, partenza.lon).toBounds(raggio * 2000), { animate: false });
+    disegnaPuntine();
   }
 
   function disegnaDove(): void {
@@ -350,10 +382,23 @@ export function avviaEsplora(): void {
   el.centro.addEventListener('change', scegliLuogo);
   el.centro.addEventListener('keydown', (ev) => { if (ev.key === 'Enter') { ev.preventDefault(); scegliLuogo(); } });
   el.risultati.addEventListener('click', (ev) => {
-    if (!(ev.target as HTMLElement).closest('[data-allarga]')) return;
-    raggio = 0;
-    aggiorna();
+    const bersaglio = ev.target as HTMLElement;
+    if (bersaglio.closest('[data-allarga]')) { raggio = 0; aggiorna(); return; }
+    if (bersaglio.closest('[data-altri]')) { mostrati += PER_PAGINA; disegnaElenco(); return; }
+    const vedi = bersaglio.closest<HTMLButtonElement>('.vedi-mappa');
+    if (vedi) {
+      const e = lista[Number(vedi.dataset.indice)];
+      if (!e) return;
+      el.mappa.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      mappa.setView([e.lat, e.lon], Math.max(mappa.getZoom(), 15), { animate: false });
+      L.popup({ offset: [0, -28] }).setLatLng([e.lat, e.lon]).setContent(testoPopup(e)).openOn(mappa);
+    }
   });
+  // Spostando o ingrandendo la mappa si ridisegnano le puntine della zona visibile.
+  mappa.on('popupopen', () => { popupAperto = true; });
+  mappa.on('popupclose', () => { popupAperto = false; window.clearTimeout(attesaPuntine); attesaPuntine = window.setTimeout(disegnaPuntine, 120); });
+  let attesaPuntine: number | undefined;
+  mappa.on('moveend', () => { window.clearTimeout(attesaPuntine); attesaPuntine = window.setTimeout(disegnaPuntine, 120); });
   el.raggi.addEventListener('click', (ev) => {
     const b = (ev.target as HTMLElement).closest<HTMLButtonElement>('[data-raggio]');
     if (!b) return;

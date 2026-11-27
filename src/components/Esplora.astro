@@ -1,37 +1,18 @@
 ---
 // Strumento interattivo: scegli il giorno, (se vuoi) usa la tua posizione, guarda gli eventi sulla mappa.
-// Senza JavaScript resta comunque l'elenco completo dei prossimi eventi (lo leggono anche i crawler).
+// Senza JavaScript resta l'elenco dei primi eventi in programma. Gli altri si trovano nelle pagine di regione, provincia e comune
+// (e nella sitemap), che i crawler leggono comunque: qui non si mettono migliaia di schede in una sola pagina.
 // La logica è in src/scripts/esplora.ts.
 import SchedaEvento from './SchedaEvento.astro';
-import { eventi, prossimi, localita } from '../lib/eventi';
-import { quandoBreve, riquadroData } from '../lib/date';
+import { prossimi } from '../lib/eventi';
 import { href } from '../lib/sito';
 
+const ELENCO_SENZA_JS = 30;
 interface Props { posizioneInEvidenza?: boolean }
 const { posizioneInEvidenza = false } = Astro.props;
 
-// Dati compatti per la pagina: niente contatti, solo ciò che serve a mappa ed elenco.
-const datiEventi = eventi.map((e) => ({
-  titolo: e.titolo,
-  url: href(e.percorso),
-  categoria: e.categoriaDati.nome,
-  giornoInizio: e.inizio.slice(0, 10),
-  giornoFine: (e.fine ?? e.inizio).slice(0, 10),
-  fineMs: e.fineIstante.getTime(),
-  quando: quandoBreve(e.inizio, e.fine),
-  luogo: e.luogo,
-  localita: localita(e),
-  lat: e.lat,
-  lon: e.lon,
-  approssimata: e.coordinateApprossimate,
-  stato: e.stato,
-  nuoveDate: Boolean(e.inizioPrecedente),
-  data: riquadroData(e.inizio),
-}));
-
-const dati = JSON.stringify({ eventi: datiEventi }).replace(/</g, '\\u003c');
 ---
-<div class="esplora" data-posizione-in-evidenza={posizioneInEvidenza ? 'si' : 'no'} data-luoghi={href('/comuni.json')}>
+<div class="esplora" data-posizione-in-evidenza={posizioneInEvidenza ? 'si' : 'no'} data-luoghi={href('/comuni.json')} data-eventi={href('/mappa-eventi.json')}>
   <section class="filtro" aria-labelledby="titolo-quando">
     <h2 id="titolo-quando" class="filtro__titolo">Quando</h2>
     <div class="giorni" id="giorni" role="group" aria-label="Scegli il giorno">
@@ -67,15 +48,14 @@ const dati = JSON.stringify({ eventi: datiEventi }).replace(/</g, '\\u003c');
   <div class="mappa" id="mappa" role="region" aria-label="Mappa degli eventi">
     <noscript><p class="vuoto">Per vedere la mappa serve JavaScript. Qui sotto trovi comunque tutti i prossimi eventi.</p></noscript>
   </div>
+  <p class="nota-mappa" id="nota-mappa" aria-live="polite"></p>
 
   <h2 id="titolo-risultati" aria-live="polite">Prossimi eventi</h2>
   <p class="nota-errori">Gli eventi arrivano da fonti pubbliche e da chi organizza: possono esserci errori. Prima di partire controlla con chi organizza.</p>
   <ul class="elenco" id="risultati">
-    {prossimi().map((e) => <SchedaEvento evento={e} />)}
+    {prossimi().slice(0, ELENCO_SENZA_JS).map((e) => <SchedaEvento evento={e} />)}
   </ul>
 </div>
-
-<script type="application/json" id="dati-esplora" set:html={dati}></script>
 
 <script>
   import { avviaEsplora } from '../scripts/esplora';
