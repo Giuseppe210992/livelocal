@@ -386943,5 +386943,740 @@
     ],
     "inserito": "2026-11-27",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "cena-di-beneficenza-della-comunita-castiglionese-castiglion-fiorentino",
+    "titolo": "Cena Di Beneficenza Della Comunità Castiglionese",
+    "categoria": "sagra",
+    "inizio": "2026-12-04T20:30",
+    "fine": "2026-12-04T22:30",
+    "luogo": "Polisportiva Montecchio Vesponi",
+    "indirizzo": "Via G. B. Schiatti, 52043 Castiglion Fiorentino (AR)",
+    "cap": null,
+    "comune": "051012",
+    "frazione": null,
+    "lat": 43.3293,
+    "lon": 11.92691,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena di beneficenza organizzata dal Comune di Castiglion Fiorentino. L'incasso della serata sarà devoluto alle famiglie in difficoltà seguite dal Centro di Ascolto Caritas di Castiglion Fiorentino. È richiesta la prenotazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Castiglion Fiorentino",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Castiglion Fiorentino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cena-di-beneficenza-della-comunita-castiglionese-castiglion-fiorentino-ar",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "albrecht-mayer-berliner-philharmoniker-beethoven-fiorillo-mozart-montegranaro",
+    "titolo": "Albrecht Mayer Berliner Philharmoniker Beethoven - Fiorillo - Mozart",
+    "categoria": "concerto",
+    "inizio": "2027-01-17T17:30",
+    "fine": "2027-01-17T19:30",
+    "luogo": "Teatro La Perla",
+    "indirizzo": "Via Giulio Conventati, 6",
+    "cap": null,
+    "comune": "109018",
+    "frazione": null,
+    "lat": 43.2374,
+    "lon": 13.62946,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto con musiche di Beethoven, Fiorillo e Mozart. L'evento vede la partecipazione dell'oboe solista Francesco Di Rosa e di Albrecht Mayer come oboe solista e direttore. La formazione orchestrale è l'Orchestra Filarmonica Marchigiana.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "FORM - Orchestra Filarmonica Marchigiana, Amici della musica Montegranaro",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Montegranaro",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-albrecht-mayer-berliner-philharmoniker-beethoven-fiorillo-mozart-montegranaro-fm",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiera-agricola-del-basso-lazio-2027-pontecorvo",
+    "titolo": "Fiera Agricola del Basso Lazio 2027",
+    "categoria": "mostra",
+    "inizio": "2027-04-09T10:00",
+    "fine": "2027-04-11T21:00",
+    "luogo": "Fiera Agricola del Basso Lazio",
+    "indirizzo": "Via Aldo Moro - 03037 Pontecorvo (FR)",
+    "cap": null,
+    "comune": "060056",
+    "frazione": null,
+    "lat": 41.44819,
+    "lon": 13.64494,
+    "coordinateApprossimate": true,
+    "descrizione": "La quinta edizione della fiera agricola del Basso Lazio si concentrerà su innovazione e tradizioni del settore agricolo, zootecnico e agroalimentare. Il programma include esposizione di mezzi meccanici, aree per zootecnia e vivaismo, promozione di prodotti tipici, gare equestri, convegni e aree dedicate al food e alle degustazioni.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fiera Agricola del Basso Lazio",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Pontecorvo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-fiera-agricola-del-basso-lazio-pontecorvo-fr",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festival-next-2026-calderara-di-reno",
+    "titolo": "Festival Next 2026",
+    "categoria": "mostra",
+    "inizio": "2026-11-27T16:00",
+    "fine": "2026-11-30T19:00",
+    "luogo": "Casa della Cultura Italo Calvino",
+    "indirizzo": "Via Roma, 29",
+    "cap": null,
+    "comune": "037009",
+    "frazione": null,
+    "lat": 44.56814,
+    "lon": 11.27492,
+    "coordinateApprossimate": true,
+    "descrizione": "Tre giornate di eventi dedicati al lavoro, alla cultura e all'innovazione con incontri, laboratori e workshop aperti al pubblico.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calderara di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-festival-next-calderara-di-reno-bo",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "roberta-giallo-in-concerto-calderara-di-reno",
+    "titolo": "Roberta Giallo In Concerto",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Casa della Cultura Italo Calvino",
+    "indirizzo": "Via Roma, 29",
+    "cap": null,
+    "comune": "037009",
+    "frazione": null,
+    "lat": 44.56814,
+    "lon": 11.27492,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della cantautrice Roberta Giallo, che presenta le canzoni del nuovo album Storie d'amour fou.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Casa della Cultura \"Italo Calvino\"",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calderara di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-roberta-giallo-in-concerto-calderara-di-reno-bo",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "laboratorio-teatrale-intensivo-calderara-di-reno",
+    "titolo": "Laboratorio Teatrale Intensivo",
+    "categoria": "teatro",
+    "inizio": "2026-12-05T17:00",
+    "fine": "2026-12-05T19:00",
+    "luogo": "Casa della Cultura Italo Calvino",
+    "indirizzo": "Via Roma, 29",
+    "cap": null,
+    "comune": "037009",
+    "frazione": null,
+    "lat": 44.56814,
+    "lon": 11.27492,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro intensivo di formazione teatrale a cura di Rossella Dassu, con esercizi di propedeutica, movimento e lettura di testi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Calderara di Reno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-laboratorio-teatrale-intensivo-a-cura-di-rossella-dassu-calderara-di-reno-bo",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incalmati-san-martino-di-lupari",
+    "titolo": "Incalmati",
+    "categoria": "teatro",
+    "inizio": "2027-02-14T21:00",
+    "fine": "2027-02-14T23:00",
+    "luogo": "PalaLupe Palazzetto dello Sport",
+    "indirizzo": "Via Leonardo da Vinci, 7",
+    "cap": null,
+    "comune": "028077",
+    "frazione": null,
+    "lat": 45.64282,
+    "lon": 11.86493,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo comico-teatrale di Marco e Pippo. Il duo presenta una nuova avventura dove i personaggi si intrecciano tra gag, dialetto veneto e momenti musicali, creando un vortice di situazioni esilaranti e surreali per il pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marco e Pippo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Martino di Lupari",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-14-febbraio-san-martino-di-lupari-pd-incalmati",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cena-di-fine-anno-amici-e-soci-dei-cilindri-storici-san-biagio-di-callalta",
+    "titolo": "Cena Di Fine Anno Amici E Soci Dei Cilindri Storici",
+    "categoria": "sagra",
+    "inizio": "2026-12-05T20:00",
+    "fine": "2026-12-05T23:45",
+    "luogo": "Al Redentor Agriristorante Hotel",
+    "indirizzo": "Via Giuseppe Verdi, 4, 31048 San Biagio di Callalta (TV)",
+    "cap": null,
+    "comune": "026071",
+    "frazione": null,
+    "lat": 45.68645,
+    "lon": 12.38733,
+    "coordinateApprossimate": true,
+    "descrizione": "Cena di fine anno organizzata dal Motoclub per soci e amici, con menù all inclusive e momento di bilancio delle attività annue. Prevede anche l'iscrizione o il rinnovo del tesseramento per il 2027.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 40
+    },
+    "prenotazione": null,
+    "organizzatore": "Motoclub Cilindri Storici",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Biagio di Callalta",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-05-12-26-cena-di-fine-anno-amici-e-soci-dei-cilindri-storici-san-biagio-di-callalta-tv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "faggeta-di-canfaito-nel-foliage-autunnale-san-severino-marche",
+    "titolo": "Faggeta di Canfaito nel foliage autunnale",
+    "categoria": "sport",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T14:00",
+    "luogo": "Strada Provinciale 90 Pian dell'Elmo",
+    "indirizzo": "San Severino Marche",
+    "cap": null,
+    "comune": "043047",
+    "frazione": null,
+    "lat": 43.26836,
+    "lon": 13.17392,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione autunnale alla faggeta di Canfaito con visita al faggio più vecchio della regione e vista sulla sinclinale camerte.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": "Marche Active Tourism",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Severino Marche",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-faggeta-di-canfaito-nel-foliage-autunnale-san-severino-marche-mc",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-faggette-di-canfaito-elcito-san-severino-marche",
+    "titolo": "La faggette di Canfaito & Elcito",
+    "categoria": "sport",
+    "inizio": "2027-01-16T10:00",
+    "fine": "2027-01-16T15:00",
+    "luogo": "Monte San Vicino",
+    "indirizzo": "San Severino Marche",
+    "cap": null,
+    "comune": "043047",
+    "frazione": null,
+    "lat": 43.26836,
+    "lon": 13.17392,
+    "coordinateApprossimate": true,
+    "descrizione": "Ciaspolata sotto i faggi secolari dell'altopiano di Canfaito partendo da Elcito, guidata da guida ambientale escursionistica.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "TRAVERSATA delle MARCHE",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Severino Marche",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-la-faggette-di-canfaito-elcito",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-faggette-di-canfaito-al-sasso-forato-san-severino-marche",
+    "titolo": "La faggette di Canfaito & al Sasso forato",
+    "categoria": "sport",
+    "inizio": "2027-01-09T10:00",
+    "fine": "2027-01-09T15:00",
+    "luogo": "Monte San Vicino",
+    "indirizzo": "San Severino Marche",
+    "cap": null,
+    "comune": "043047",
+    "frazione": null,
+    "lat": 43.26836,
+    "lon": 13.17392,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione in ciaspole con itinerario che comprende la faggeta di Canfaito e il Sasso Forato, guidata da guida ambientale.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": "TRAVERSATA delle MARCHE",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Severino Marche",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-faggette-di-canfaito-al-sasso-forato",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "panettone-flegreo-in-festa-monte-di-procida",
+    "titolo": "Panettone Flegreo in Festa",
+    "categoria": "sagra",
+    "inizio": "2026-12-05T16:00",
+    "fine": "2026-12-06T21:00",
+    "luogo": "Piazza XXVII Gennaio",
+    "indirizzo": "Via Roma - 80070 Monte di Procida (NA)",
+    "cap": null,
+    "comune": "063047",
+    "frazione": null,
+    "lat": 40.79797,
+    "lon": 14.05224,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione dedicata alla pasticceria flegrea che riunisce le migliori pasticcerie del territorio per la celebrazione del panettone artigianale. L'iniziativa prevede assaggi, profumi e la magia del Natale in avvicinamento, con la partecipazione di numerose realtà locali del settore food.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sagra del Mare Flegrea",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Monte di Procida",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-panettone-flegreo-in-festa-monte-di-procida-na",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aromata-viaggio-nei-profumi-antichi-forlimpopoli",
+    "titolo": "Aromata. Viaggio nei profumi antichi.",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T18:00",
+    "fine": "2026-11-28T19:30",
+    "luogo": "Museo Archeologico di Forlimpopoli",
+    "indirizzo": "Piazza Fratti 5 - Via Giuseppe Mazzini, 11 - 47034 Forlimpopoli (FC)",
+    "cap": null,
+    "comune": "040013",
+    "frazione": null,
+    "lat": 44.18956,
+    "lon": 12.12779,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita sensoriale al Museo Archeologico per scoprire l'uso dei profumi nell'antichità romana e preromana. Attraverso reperti e essenze, si esplorano rituali e tecniche di produzione, concludendo con la realizzazione di un profumo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Maf Museo Archeologico",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Forlimpopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-aromata-viaggio-nei-profumi-antichi-forlimpopoli-fc",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "tesori-del-tempo-la-rocca-e-il-museo-forlimpopoli",
+    "titolo": "Tesori del Tempo. La Rocca e il Museo",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-06T15:30",
+    "fine": "2026-12-06T17:00",
+    "luogo": "Rocca Ordelaffa",
+    "indirizzo": "Maf Museo Archeologico - Piazza Fratti - 47034 Forlimpopoli (FC)",
+    "cap": null,
+    "comune": "040013",
+    "frazione": null,
+    "lat": 44.18956,
+    "lon": 12.12779,
+    "coordinateApprossimate": true,
+    "descrizione": "Tour guidato alla Rocca Ordelaffa e al Museo Archeologico per esplorare la storia millenaria di Forlimpopoli. Il percorso include l'accesso ai camminamenti solitamente chiusi e la visione di mosaici e anfore romani.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 8
+    },
+    "prenotazione": null,
+    "organizzatore": "Maf Museo Archeologico",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Forlimpopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-tesori-del-tempo-la-rocca-e-il-museo-forlimpopoli-fc",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aperitivo-con-delitto-alla-corte-degli-zampeschi-forlimpopoli",
+    "titolo": "Aperitivo con delitto Alla Corte degli Zampeschi",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T18:30",
+    "fine": "2026-12-12T21:00",
+    "luogo": "Museo Archeologico",
+    "indirizzo": "Maf Museo Archeologico - Piazza Fratti - 47034 Forlimpopoli (FC)",
+    "cap": null,
+    "comune": "040013",
+    "frazione": null,
+    "lat": 44.18956,
+    "lon": 12.12779,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento enogastronomico con gioco investigativo (murder party) ambientato in una corte rinascimentale. I partecipanti risolvono un delitto tra un calice di vino e un piatto, seguendo indizi e interagendo con altri giocatori.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Maf Museo Archeologico",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Forlimpopoli",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-aperitivo-con-delitto-alla-corte-degli-zampeschi-forlimpopoli-fc",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incenso-tarocchi-workshop-creativo-san-pietro-in-cariano",
+    "titolo": "Incenso & Tarocchi Workshop Creativo",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T16:00",
+    "fine": "2026-12-05T18:00",
+    "luogo": "Dimora Buglioni",
+    "indirizzo": "Via Cariano 24",
+    "cap": null,
+    "comune": "023076",
+    "frazione": null,
+    "lat": 45.50648,
+    "lon": 10.89848,
+    "coordinateApprossimate": true,
+    "descrizione": "Workshop creativo in cui si dipinge un portaincenso a forma di mano di Fatima utilizzando la carta dei Tarocchi estratta per il 2027. L'incontro, guidato dall'astrologa Gabriela Folco, include un aperitivo con stuzzichini e un calice di vino Buglioni. Non serve esperienza pregressa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 45
+    },
+    "prenotazione": null,
+    "organizzatore": "Speak and Spritz",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Pietro in Cariano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-incenso-tarocchi-workshop-creativo-san-pietro-in-cariano-vr",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pete-roth-trio-feat-bill-bruford-rezzato",
+    "titolo": "Pete Roth Trio Feat. Bill Bruford",
+    "categoria": "concerto",
+    "inizio": "2027-02-24T21:00",
+    "fine": "2027-02-24T23:00",
+    "luogo": "Teatro Ctm",
+    "indirizzo": "Via Leonardo da Vinci - 25086 Rezzato (BS) - Italia",
+    "cap": null,
+    "comune": "017161",
+    "frazione": null,
+    "lat": 45.50756,
+    "lon": 10.317,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del Pete Roth Trio con l'ex batterista degli Yes Bill Bruford. Presentano l'album 'Group Chat', mixando jazz, funk e improvvisazione in un dialogo interattivo col pubblico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pete Roth Trio - PRT",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rezzato",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-pete-roth-trio-feat-bill-bruford-rezzato-bs",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pete-roth-trio-feat-bill-bruford-live-in-brescia-24-feb-2027-rezzato",
+    "titolo": "Pete Roth Trio feat. Bill Bruford – Live in Brescia 24 Feb 2027",
+    "categoria": "concerto",
+    "inizio": "2027-02-24T21:00",
+    "fine": "2027-02-24T23:00",
+    "luogo": "Teatro Ctm",
+    "indirizzo": "Via Leonardo da Vinci - 25086 Rezzato (BS) - Italia",
+    "cap": null,
+    "comune": "017161",
+    "frazione": null,
+    "lat": 45.50756,
+    "lon": 10.317,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento live a Rezzato per il Pete Roth Trio con Bill Bruford. La serata propone un incontro tra jazz e rock progressivo, con l'esecuzione di brani dall'album 'Group Chat'.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pete Roth Trio - PRT",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Rezzato",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-pete-roth-trio-feat-bill-bruford-live-in-brescia-24-feb-rezzato-bs",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incontro-lll-a-sostegno-dell-allattamento-vigodarzere",
+    "titolo": "Incontro LLL a sostegno dell'allattamento",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T09:30",
+    "fine": "2026-12-12T11:30",
+    "luogo": "Vigodarzere",
+    "indirizzo": "35010 Vigodarzere (PD)",
+    "cap": null,
+    "comune": "028099",
+    "frazione": null,
+    "lat": 45.482,
+    "lon": 11.87377,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro gratuito di La Leche League per condividere esperienze, ricevere sostegno e risposte su dubbi relativi all'allattamento. L'evento è aperto ai bambini e a chiunque voglia accompagnare le mamme.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "La Leche League Italia Eventi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Vigodarzere",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-vigodarzere-pd-incontro-lll-a-sostegno-dellallattamento-7",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-gospel-2026-manerbio",
+    "titolo": "Concerto Gospel 2026",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:00",
+    "fine": "2026-12-05T23:00",
+    "luogo": "Parrocchia di S. Lorenzo",
+    "indirizzo": "Vicolo del Coro, 1 - 25025 Manerbio (BS)",
+    "cap": null,
+    "comune": "017103",
+    "frazione": null,
+    "lat": 45.35243,
+    "lon": 10.14656,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto gospel aperto alla cittadinanza con la partecipazione del coro Gospel Time Choir. L'evento è promosso dall'assessorato alla Cultura del Comune di Manerbio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Manerbio",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Manerbio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-concerto-gospel-manerbio-bs-2",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "abba-show-the-golden-years-manerbio",
+    "titolo": "ABBA SHOW \"The Golden Years\"",
+    "categoria": "concerto",
+    "inizio": "2027-02-26T21:00",
+    "fine": "2027-02-26T23:00",
+    "luogo": "Teatro Politeama",
+    "indirizzo": "Vicolo del Coro - 25025 Manerbio (BS)",
+    "cap": null,
+    "comune": "017103",
+    "frazione": null,
+    "lat": 45.35243,
+    "lon": 10.14656,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo live della tribute band AdbaShow, la più amata in Europa. Il programma include un best of dei mitici Abba, dalle hit dance a Mamma Mia, ricreando l'atmosfera degli anni Settanta con luci, colori e coreografie.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Spettacolo Live",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Manerbio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-abba-show-the-golden-years-teatro-politeama-manerbio",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "music-celebration-festa-anni-70-80-90-chiampo",
+    "titolo": "Music Celebration – Festa Anni 70/80/90",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T21:30",
+    "fine": "2026-12-19T03:00",
+    "luogo": "Midas Club",
+    "indirizzo": "Via grumello 2/c, 36071 Chiampo (VI)",
+    "cap": null,
+    "comune": "024029",
+    "frazione": null,
+    "lat": 45.54759,
+    "lon": 11.27691,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla musica degli anni 80 e 90 con i DJ Mass e Orazio Voice. L'evento propone grandi successi di due decenni, drink e divertimento al Midas Club di Chiampo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": "MIDAS",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Chiampo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-music-celebration-festa-anni-708090-chiampo-vi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
   }
 ]
