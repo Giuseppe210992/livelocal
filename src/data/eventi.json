@@ -394249,5 +394249,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "te-caldo-e-mostra-sul-cantico-dei-cantici-museo-ebraico-bologna-2026-11-29",
+    "titolo": "Tè al museo con la mostra sul Cantico dei Cantici",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T16:30",
+    "luogo": "Museo Ebraico di Bologna",
+    "indirizzo": "Via Valdonica 1/5",
+    "comune": "037006",
+    "lat": 44.49302,
+    "lon": 11.3444,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio al museo tra la mostra sul Cantico dei Cantici e un tè caldo insieme, per un momento di condivisione e riflessione. È un evento OFF del festival «L'eredità delle donne». Gratuito, con iscrizione obbligatoria online.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Museo Ebraico di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Museo Ebraico di Bologna su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgM8pLPGWUm/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
