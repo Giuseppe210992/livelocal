@@ -397995,5 +397995,702 @@
     "inserito": "2026-11-27",
     "inseritoDa": "ia",
     "indirizzo": "Via Gilardelli 10"
+  },
+  {
+    "slug": "cascata-di-vino-isola-del-liri-fr-isola-del-liri",
+    "titolo": "Cascata Di Vino. Isola del Liri (FR)",
+    "categoria": "sagra",
+    "inizio": "2026-12-19T17:00",
+    "fine": "2026-12-20T23:59",
+    "luogo": "Via Po",
+    "indirizzo": "Via Po - 03036 Isola del Liri (FR) - Italia",
+    "cap": null,
+    "comune": "060043",
+    "frazione": null,
+    "lat": 41.68726,
+    "lon": 13.56855,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento enogastronomico con cucina tipica ciociara, mercatini di Natale, mostre artistiche, artisti di strada e musica nel centro cittadino, in atmosfera natalizia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sagre nel Centro Sud; Sagre e Feste Nei Borghi - Sezione Video",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Isola del Liri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cascata-di-vino-isola-del-liri-fr",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "diapasonband-vasco-rossi-tributo-cereda-vicenza-cornedo-vicentino",
+    "titolo": "Diapasonband Vasco Rossi Tributo – Cereda (VICENZA)",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Sagra di Sant’Andrea",
+    "indirizzo": "Via Piazza, Cereda, 36073 Cornedo Vicentino (VI)",
+    "cap": null,
+    "comune": "024034",
+    "frazione": null,
+    "lat": 45.6161,
+    "lon": 11.34896,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo live della Diapasonband, tribute band dedicata a Vasco Rossi. L'evento si inserisce nell'ambito della Sagra di Sant'Andrea a Cereda, frazione di Cornedo Vicentino. La performance propone i maggiori successi del cantautore emiliano in una serata di musica e intrattenimento.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "DIAPASONBAND - Tributo a Vasco Rossi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cornedo Vicentino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-diapasonband-vasco-rossi-tributo-cereda-vicenza-cornedo-vicentino-vi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-in-fattoria-con-alpaca-aspettando-babbo-natale-bedizzole",
+    "titolo": "Festa in Fattoria con Alpaca \"Aspettando Babbo Natale\"",
+    "categoria": "bambini",
+    "inizio": "2026-12-08T10:00",
+    "fine": "2026-12-08T12:00",
+    "luogo": "La Casa del Vento",
+    "indirizzo": "Via Crocette, Bedizzole",
+    "cap": null,
+    "comune": "017014",
+    "frazione": null,
+    "lat": 45.50023,
+    "lon": 10.42062,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento natalizio a tema famiglia presso l'agriturismo La Casa del Vento. In programma laboratori creativi, cacce al tesoro e incontri con alpaca e personaggi delle feste. L'agriturismo offre la possibilità di pranzare, fare merenda e aperitivo. L'accesso è libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Az. Ag Fattoria di Marta / Agriturismo La casa del vento in collaborazione con l'Ass. Xtreme Adventure",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bedizzole",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-festa-in-fattoria-con-alpaca-aspettando-babbo-natale-8-dicembre-bedizzole-bs",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-miniera-dei-cristalli-a-caccia-di-gemme-trova-i-minerali-bedizzole",
+    "titolo": "La miniera dei Cristalli, a caccia di Gemme - Trova i minerali",
+    "categoria": "bambini",
+    "inizio": "2026-12-08T10:30",
+    "fine": "2026-12-08T17:00",
+    "luogo": "La Casa del Vento",
+    "indirizzo": "Via Crocette, Bedizzole",
+    "cap": null,
+    "comune": "017014",
+    "frazione": null,
+    "lat": 45.50023,
+    "lon": 10.42062,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio educativo per bambini dai 5 anni in su alla scoperta della geologia. I partecipanti simuleranno una miniera per scavare e raccogliere minerali, guidati da educatori esperti. L'attività si integra con la festa in fattoria che prevede anche contatto con gli animali.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Az. Ag Fattoria di Marta / Agriturismo La casa del vento",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bedizzole",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-miniera-dei-cristalli-a-caccia-di-gemme-trova-i-minerali-8-dicembre-bedizzole-bs",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "reel-rock-20-morbegno-morbegno",
+    "titolo": "Reel Rock 20 – Morbegno",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T20:00",
+    "fine": "2026-12-10T22:00",
+    "luogo": "Cinema Pedretti",
+    "indirizzo": "Piazza Enea Mattei, 1",
+    "cap": null,
+    "comune": "014045",
+    "frazione": null,
+    "lat": 46.13348,
+    "lon": 9.58708,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione in sala dei quattro film della nuova stagione di Reel Rock, dedicata alle storie e alle imprese di arrampicatori internazionali come Janja Garnbret e Colin Haley. L'evento celebra l'avventura e le sfide del mondo verticale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Reel Rock Italia",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Morbegno",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-reel-rock-20-morbegno-so",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "andemm-a-brusa-il-panetun-2026-tornavento-lonate-pozzolo",
+    "titolo": "Andèmm a Brusà il Panetùn 2026 (Tornavento)",
+    "categoria": "sport",
+    "inizio": "2026-12-26T08:15",
+    "fine": "2026-12-26T11:30",
+    "luogo": "Piazzetta Tornavento - Piazza privata Parravicino, 1",
+    "indirizzo": "21015 Lonate Pozzolo (VA)",
+    "cap": null,
+    "comune": "012090",
+    "frazione": null,
+    "lat": 45.58989,
+    "lon": 8.73493,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata escursionistica di 8 km nel Parco Lombardo del Ticino. Si esplorano i canali Villoresi e Industriale, il fiume e le zone umide. Ritrovo alla partenza e arrivo con possibilità di pausa caffè. Camminata di bassa difficoltà, adatta a tutti.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 10
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Lonate Pozzolo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-andemm-a-brusa-il-panetun-tornavento-lonate-pozzolo-va",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "miami-winter-country-tour-night-torri-di-quartesolo",
+    "titolo": "Miami Winter Country Tour Night",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T17:00",
+    "fine": "2026-12-13T19:00",
+    "luogo": "Miami Sound Café",
+    "indirizzo": "Via del Ponte",
+    "cap": null,
+    "comune": "024108",
+    "frazione": null,
+    "lat": 45.52639,
+    "lon": 11.6299,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata country con il dj Luka Maestra Agnese al Miami Sound Café. È prevista la possibilità di cenare con bruschette e menù speciale messicano a 20 euro. L'evento è organizzato da Country Tour Vicenza, Nike Deejay e Vicenza CountryMusic.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Country Tour Vicenza, Nike Deejay, Vicenza CountryMusic",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Torri di Quartesolo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-miami-winter-country-tour-night-torri-di-quartesolo-vi",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "p-51-in-concerto-discoteca-vivi-le-grotte-s-p-in-casale-bo-san-pietro-in-casale",
+    "titolo": "P – 51 In Concerto “Discoteca Vivi Le Grotte” S. P. In Casale (Bo)",
+    "categoria": "concerto",
+    "inizio": "2026-12-18T22:30",
+    "fine": "2026-12-18T23:45",
+    "luogo": "Discoteca Vivi - Le Grotte",
+    "indirizzo": "Via Guglielmo Oberdan, 21 - 40018 San Pietro in Casale (BO)",
+    "cap": null,
+    "comune": "037055",
+    "frazione": null,
+    "lat": 44.71059,
+    "lon": 11.40488,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto della band P-51 Airplanes che propone un repertorio di Rock'n'Roll, Rockabilly e Rhythm & Blues degli anni '50. La serata si svolge nella storica discoteca di San Pietro in Casale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "P-51 Airplanes",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Pietro in Casale",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-p-51-in-concerto-discoteca-vivi-le-grotte-s-p-in-casale-bo-san-pietro-in-casale-2",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "p-51-in-concerto-discoteca-vivi-le-grotte-s-p-in-casale-bo-san-pietro-in-casale-15-01",
+    "titolo": "P – 51 In Concerto “Discoteca Vivi Le Grotte” S. P. In Casale (Bo)",
+    "categoria": "concerto",
+    "inizio": "2027-01-15T22:30",
+    "fine": "2027-01-15T23:45",
+    "luogo": "Discoteca Vivi - Le Grotte",
+    "indirizzo": "Via Guglielmo Oberdan, 21 - 40018 San Pietro in Casale (BO)",
+    "cap": null,
+    "comune": "037055",
+    "frazione": null,
+    "lat": 44.71059,
+    "lon": 11.40488,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di Rock'n'Roll con la band P-51 Airplanes alla Discoteca Vivi Le Grotte. Il gruppo propone i ritmi travolgenti del Rockabilly e del Boogie Woogie degli anni '50.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "P-51 Airplanes",
+    "fonti": [
+      {
+        "nome": "cheventi.it: San Pietro in Casale",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-p-51-in-concerto-discoteca-vivi-le-grotte-s-p-in-casale-bo-san-pietro-in-casale",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "solstizio-d-inverno-con-escursione-e-aperitivo-alla-valle-dei-tufi-mondolfo",
+    "titolo": "Solstizio d'inverno con escursione e aperitivo alla Valle dei Tufi",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-21T09:00",
+    "fine": "2026-12-21T12:30",
+    "luogo": "La Valle Dei Tufi",
+    "indirizzo": "Via Antonio Gramsci",
+    "cap": null,
+    "comune": "041029",
+    "frazione": null,
+    "lat": 43.7512,
+    "lon": 13.1224,
+    "coordinateApprossimate": true,
+    "descrizione": "Escursione guidata alla Valle dei Tufi per celebrare il solstizio d'inverno. Itinerario di 9 km attraverso paesaggi rurali e borghi, con soste naturalistiche e aperitivo finale presso la Madonna delle Grotte. Prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 18
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Mondolfo",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-solstizio-dinverno-con-escursione-e-aperitivo-alla-valle-dei-tufi-mondolfo-pu",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "capodanno-a-finalborgo-la-liguria-di-ponente-finale-ligure",
+    "titolo": "Capodanno a Finalborgo! La Liguria di ponente!",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-30T08:00",
+    "fine": "2027-01-03T20:00",
+    "luogo": "Finalborgo",
+    "indirizzo": "Via Aurelia - 17024 Finale Ligure (SV)",
+    "cap": null,
+    "comune": "009029",
+    "frazione": null,
+    "lat": 44.18884,
+    "lon": 8.34249,
+    "coordinateApprossimate": true,
+    "descrizione": "Ritiro a Finalborgo per un Capodanno all'insegna del cammino e della scoperta. Cinque escursioni guidate tra storia e natura: grotte, villaggi preistorici e strade romane nel territorio del Finalese.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Vagamondi - guide escursionistiche ambientali",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Finale Ligure",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-capodanno-a-finalborgo-la-liguria-di-ponente-finale-ligure-sv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sharyband-a-il-patio-lungomare-italia-9-finale-ligure-sv-finale-ligure",
+    "titolo": "SHARYBAND a “IL PATIO”, Lungomare Italia 9, Finale Ligure (SV)",
+    "categoria": "concerto",
+    "inizio": "2026-12-19T22:27",
+    "fine": "2026-12-20T00:27",
+    "luogo": "Il Patio",
+    "indirizzo": "Lungomare Italia 9, Finale Ligure",
+    "cap": null,
+    "comune": "009029",
+    "frazione": null,
+    "lat": 44.18884,
+    "lon": 8.34249,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di musica dance anni 80 e 90 con la Sharyband presso il locale Il Patio. Evento a pagamento con ingresso e drink incluso, ideale per festeggiare un sabato prenatalizio.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Sharyband",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Finale Ligure",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-sharyband-a-il-patio-lungomare-italia-9-finale-ligure-sv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "attrai-il-tuo-denaro-matino",
+    "titolo": "Attrai Il Tuo Denaro",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Centro Shakti",
+    "indirizzo": "Via Vittorio Emanuele II 112, Matino (LE)",
+    "cap": null,
+    "comune": "075042",
+    "frazione": null,
+    "lat": 40.02789,
+    "lon": 18.12197,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso esperienziale e sistemico sul rapporto con il denaro. Attraverso esercizi, consapevolezza e Costellazioni, si lavora per sciogliere i nodi emotivi e familiari che limitano il flusso finanziario e la libertà di ricevere.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 250
+    },
+    "prenotazione": null,
+    "organizzatore": "Silvia Maggio",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Matino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-attrai-il-tuo-denaro-matino-le",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "new-garden-venerdi-27-novembre-h-20-00-magic-90-dj-francesco-milillo-a-susegana",
+    "titolo": "New Garden Venerdì 27 Novembre H. 20 00 Magic 90 Dj Francesco Milillo Aperitivo Cena Dopocena",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T20:00",
+    "fine": "2026-11-28T02:00",
+    "luogo": "New Garden",
+    "indirizzo": "Via Monte Rosa",
+    "cap": null,
+    "comune": "026083",
+    "frazione": null,
+    "lat": 45.85165,
+    "lon": 12.22929,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata con dj set anni Novanta a cura di DJ Francesco Milillo, con aperitivo, cena ristorante-pizzeria con menù alla carta e intrattenimento musicale dopocena.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "New Garden",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Susegana",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-new-garden-venerdi-27-novembre-h-20-00-magic-90-dj-francesco-milillo-aperitivo-cena-dopocena-susegana-tv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-magico-natale-nelle-antiche-terre-susegana",
+    "titolo": "Il Magico Natale nelle Antiche Terre",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T09:30",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Piazza Martiri della Libertà",
+    "indirizzo": "piazza Martiri della Libertà n. 11",
+    "cap": null,
+    "comune": "026083",
+    "frazione": null,
+    "lat": 45.85165,
+    "lon": 12.22929,
+    "coordinateApprossimate": true,
+    "descrizione": "Manifestazione natalizia con laboratori creativi per famiglie per creare il proprio calendario dell'Avvento e inaugurazione della mostra dei disegni dei bambini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Distretto Territoriale del Commercio “Antiche Terre: Mercanti e Saperi tra Castelli e Fiere”",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Susegana",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-il-magico-natale-nelle-antiche-terre-susegana-tv-2",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "new-garden-sabato-28-novembre-h-20-00-terzo-millennio-dj-nick-aperitiv-susegana",
+    "titolo": "New Garden Sabato 28 Novembre H 20.00 TERZO MILLENNIO DJ Nick Aperitivo Cena Dopocena",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:00",
+    "fine": "2026-11-29T02:00",
+    "luogo": "New Garden",
+    "indirizzo": "Via Monte Rosa",
+    "cap": null,
+    "comune": "026083",
+    "frazione": null,
+    "lat": 45.85165,
+    "lon": 12.22929,
+    "coordinateApprossimate": true,
+    "descrizione": "Viaggio musicale dagli anni Duemila a oggi al New Garden. Una serata con aperitivo, cena, e dj set firmato da Dj Nick con le hit più iconiche in collaborazione con Radio Company.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "New Garden",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Susegana",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-new-garden-sabato-28-novembre-h-2000-terzo-millennio-dj-nick-aperitivo-cena-dopocena-susegana-tv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bailamos-anima-club-spresiano-treviso-spresiano",
+    "titolo": "Bailamos - ANIMA CLUB - Spresiano (Treviso)",
+    "categoria": "concerto",
+    "inizio": "2026-11-27T23:00",
+    "fine": "2026-11-28T01:00",
+    "luogo": "Anima Club",
+    "indirizzo": "Via Tiepolo",
+    "cap": null,
+    "comune": "026082",
+    "frazione": null,
+    "lat": 45.77568,
+    "lon": 12.27429,
+    "coordinateApprossimate": true,
+    "descrizione": "L'inverno tour di Bailamos fa tappa all'Anima Club di Spresiano per una notte di musica e ballo. È previsto l'ingresso omaggio per tutti i registrati entro le ore 00:30.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Bailamos e Vibes Entertainment",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Spresiano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-bailamos-anima-club-spresiano-treviso-tv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "torneo-501-milionare-empire-spresiano",
+    "titolo": "Torneo 501 Milionare Empire",
+    "categoria": "sport",
+    "inizio": "2026-12-12T20:30",
+    "fine": "2026-12-12T22:30",
+    "luogo": "New Empire Millionaire",
+    "indirizzo": "Via Montello",
+    "cap": null,
+    "comune": "026082",
+    "frazione": null,
+    "lat": 45.77568,
+    "lon": 12.27429,
+    "coordinateApprossimate": true,
+    "descrizione": "Un torneo di freccette soft dart strutturato su tabellone a doppio KO e suddiviso in cinque differenti categorie. La competizione è aperta a tutti con premiazione per i primi tre classificati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "WELL WORKS Event's DART",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Spresiano",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-torneo-501-milionare-empire-spresiano-tv-2",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "circumnavigare-l-isola-d-elba-in-kayak-in-6-giorni-portoferraio",
+    "titolo": "Circumnavigare l'Isola d'Elba in Kayak in 6 giorni",
+    "categoria": "sport",
+    "inizio": "2027-05-31T09:00",
+    "fine": "2027-06-05T16:00",
+    "luogo": "Percorso Salute",
+    "indirizzo": "Percorso Salute",
+    "cap": null,
+    "comune": "049014",
+    "frazione": null,
+    "lat": 42.69064,
+    "lon": 10.31738,
+    "coordinateApprossimate": true,
+    "descrizione": "Un'avventura spartana di una settimana in kayak per navigare lungo la costa dell'isola, tra grotte e anfratti nascosti, con pause per bagni, snorkeling, passeggiate e bivacco notturno in spiagge selvagge.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dolomiti Beat e Andrea Vincenzo Lucchi",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Portoferraio",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-circumnavigare-lisola-delba-in-kayak-in-6-giorni-portoferraio-li",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cari-genitori-stradella",
+    "titolo": "Cari genitori",
+    "categoria": "teatro",
+    "inizio": "2027-03-23T21:00",
+    "fine": "2027-03-24T22:30",
+    "luogo": "Teatro Sociale di Stradella",
+    "indirizzo": "Via Faravelli, 2",
+    "cap": null,
+    "comune": "018153",
+    "frazione": null,
+    "lat": 45.0759,
+    "lon": 9.30513,
+    "coordinateApprossimate": true,
+    "descrizione": "Una brillante commedia, definita dalla critica d'Oltralpe una pièce infiammabile, incentrata sulla famiglia Gauthier. Un'improvvisa rivelazione dei genitori incrina i rapporti familiari, portando a galla verità, ironia e fragilità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Stradella",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-cari-genitori-con-giulio-scarpati-e-amanda-sandrelli-stradella-pv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-innamorati-stradella",
+    "titolo": "Gli Innamorati",
+    "categoria": "teatro",
+    "inizio": "2027-01-13T21:00",
+    "fine": "2027-01-13T22:30",
+    "luogo": "Teatro Sociale di Stradella",
+    "indirizzo": "Via Faravelli, 2",
+    "cap": null,
+    "comune": "018153",
+    "frazione": null,
+    "lat": 45.0759,
+    "lon": 9.30513,
+    "coordinateApprossimate": true,
+    "descrizione": "Il classico testo teatrale di Carlo Goldoni viene riproposto con l'adattamento e la regia di Roberto Valerio. Lo spettacolo affronta i tormentati e appassionati risvolti d'amore fra gelosie, litigi e riappacificazioni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Sociale di Stradella",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Stradella",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-gli-innamorati-di-carlo-goldoni-stradella-pv",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-27",
+    "inseritoDa": "consegna"
   }
 ]
