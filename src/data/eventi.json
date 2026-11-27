@@ -390751,5 +390751,143 @@
     ],
     "inserito": "2026-11-27",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "evoluzione-dell-anticorruzione-convegno-sala-dei-notari-perugia-2026-12-09",
+    "titolo": "L'evoluzione dell'anticorruzione tra presente e futuro: prevenire per innovare",
+    "categoria": "conferenza",
+    "inizio": "2026-12-09T09:30",
+    "luogo": "Sala dei Notari",
+    "comune": "054039",
+    "lat": 43.13658,
+    "lon": 12.39516,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno di un'intera giornata (9.30-13.30 e 14.30-17.00) per la Giornata internazionale contro la corruzione, promosso dal Comune di Perugia con il Dipartimento di Scienze Politiche dell'Università. Iscrizione obbligatoria entro il 4 dicembre alle 13.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Perugia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Perugia su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNDV_dBM5I/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "fine": "2026-12-09T17:00"
+  },
+  {
+    "slug": "santa-lucia-2026-bergamo-2026-12-04",
+    "titolo": "Santa Lucia 2026 a Bergamo",
+    "categoria": "bambini",
+    "inizio": "2026-12-04",
+    "luogo": "Bergamo",
+    "comune": "016024",
+    "lat": 45.69653,
+    "lon": 9.66378,
+    "coordinateApprossimate": true,
+    "descrizione": "Dieci giorni di appuntamenti diffusi in città per bambine e bambini: laboratori in musei, biblioteche e Orto Botanico, spettacoli teatrali, proiezioni a CULT! Palazzo della Libertà, burattini, laboratori di cucina, robotica e light art. Attività gratuite salvo diversa indicazione; per molte serve prenotare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Bergamo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Bergamo su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNWnbjkTPn/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "fine": "2026-12-13"
+  },
+  {
+    "slug": "luna-park-delle-meraviglie-monastero-del-carmine-bergamo-2026-12-05",
+    "titolo": "Luna Park delle Meraviglie (3ª edizione)",
+    "categoria": "bambini",
+    "inizio": "2026-12-05",
+    "luogo": "Monastero del Carmine, Città Alta",
+    "comune": "016024",
+    "lat": 45.7033,
+    "lon": 9.6613,
+    "coordinateApprossimate": true,
+    "descrizione": "Torna in Città Alta la terza edizione del Luna Park delle Meraviglie, nel programma di Santa Lucia e dei Monasteri d'inverno del Comune di Bergamo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Bergamo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Bergamo su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNWnbjkTPn/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "fine": "2027-01-10"
+  },
+  {
+    "slug": "colonscopia-virtuale-i-pomeriggi-della-salute-teatrino-civico-chivasso-2026-12-17",
+    "titolo": "I pomeriggi della salute: colonscopia virtuale",
+    "categoria": "conferenza",
+    "inizio": "2026-12-17T17:15",
+    "luogo": "Teatrino Civico",
+    "comune": "001082",
+    "lat": 45.20589,
+    "lon": 7.89588,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con la dottoressa Francesca Bisanti, direttrice della Radiologia dell'Ospedale di Chivasso, sulla colonscopia virtuale. L'appuntamento del 26 novembre è stato annullato e recuperato in questa data. La rassegna proseguirà il 10 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Chivasso",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Città di Chivasso su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgMruBDhNVr/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "1-torneo-di-calcio-camminato-over-60-palazzetto-fabio-valli-russi-2026-11-29",
+    "titolo": "1° Torneo di calcio camminato over 60",
+    "categoria": "sport",
+    "inizio": "2026-11-29T09:30",
+    "luogo": "Palazzetto dello Sport «Fabio Valli»",
+    "comune": "039016",
+    "lat": 44.37262,
+    "lon": 12.04751,
+    "coordinateApprossimate": true,
+    "descrizione": "Primo torneo di calcio camminato (walking football) organizzato dal Russi Walking Football, con in campo le squadre di Russi, Real Maranello, U.N.V.S. Bassa Romagna e Boccaleone Amici di Denis.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Russi Walking Football",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Russi su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgM4KRZBx9l/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
