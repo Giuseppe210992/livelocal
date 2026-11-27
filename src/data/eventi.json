@@ -395498,5 +395498,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "inferenze-short-film-festival-museo-storico-archeologico-nola-2026-12-02",
+    "titolo": "Inferenze Short Film Festival",
+    "categoria": "mostra",
+    "inizio": "2026-12-02",
+    "fine": "2026-12-06",
+    "luogo": "Museo Storico Archeologico di Nola",
+    "comune": "063050",
+    "lat": 40.92448,
+    "lon": 14.51051,
+    "coordinateApprossimate": true,
+    "descrizione": "Cinque giorni di proiezioni di cortometraggi internazionali, divisi in serate a tema: «Maschere» (2 dicembre), «Dopo il rumore» (3), «Imparare a guardare» (4) e «Nonostante tutto» (5). Domenica 6 dicembre proiezione dei corti vincitori e annuncio delle premiazioni. Ingresso libero, con prenotazione dal link nel profilo del festival.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Inferenze Short Film Festival",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Inferenze Short Film Festival su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgOHfWeDZ-c/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
