@@ -395775,5 +395775,33 @@
     ],
     "inserito": "2026-11-27",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "alassio-slow-wellness-winter-edition-alassio-2026-12-01",
+    "titolo": "Alassio Slow Wellness – Winter Edition",
+    "categoria": "sport",
+    "inizio": "2026-12-01",
+    "luogo": "Alassio",
+    "comune": "009001",
+    "lat": 44.01793,
+    "lon": 8.16081,
+    "coordinateApprossimate": true,
+    "descrizione": "Programma di benessere e vita attiva che accompagna residenti e turisti dal 1° dicembre fino a marzo 2027: ginnastica dolce, Zumba Gold, nuoto, trekking cittadino, camminate, visite culturali, appuntamenti in biblioteca e pomeriggi danzanti. Gratis con la Tourist Card, per gli altri 5 euro; alcune iniziative sono a ingresso libero.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "organizzatore": "Città di Alassio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Città di Alassio su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNC06rBP8Y/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
