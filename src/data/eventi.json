@@ -390299,5 +390299,33 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-27",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pinocchia-adolescente-di-legno-teatro-india-roma-2026-11-27",
+    "titolo": "Pinocchia, adolescente di legno",
+    "categoria": "teatro",
+    "inizio": "2026-11-27",
+    "fine": "2026-11-29",
+    "luogo": "Teatro India",
+    "comune": "058091",
+    "lat": 41.8566,
+    "lon": 12.4779,
+    "coordinateApprossimate": true,
+    "descrizione": "Saggio spettacolo diretto da Roberto Gandini con il Laboratorio Teatrale Integrato Piero Gabrielli: una rilettura contemporanea e al femminile del mito di Pinocchio, con 19 attrici e attori con e senza disabilità e musica dal vivo, nel bicentenario della nascita di Collodi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Teatro di Roma – Teatro India",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Culture Roma su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgMzTK2BrNA/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
