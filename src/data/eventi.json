@@ -388950,5 +388950,34 @@
     "luogo": "Ridotto del Teatro Mancinelli",
     "descrizione": "Appuntamento musicale dedicato a Pinocchio e al suo mondo, nel cartellone natalizio «A Natale regalati Orvieto».",
     "organizzatore": "Comune di Orvieto"
+  },
+  {
+    "slug": "domenica-al-museo-reggia-di-caserta-2026-12-06",
+    "titolo": "Domenica al museo alla Reggia di Caserta",
+    "categoria": "apertura-straordinaria",
+    "inizio": "2026-12-06",
+    "fine": "2026-12-06",
+    "luogo": "Reggia di Caserta",
+    "indirizzo": "Viale Douhet",
+    "comune": "061022",
+    "lat": 41.07333,
+    "lon": 14.32667,
+    "coordinateApprossimate": false,
+    "descrizione": "Ingresso gratuito alla Reggia con visita agli Appartamenti reali e al Parco reale, nell'iniziativa #domenicalmuseo del Ministero della Cultura. I biglietti gratuiti si prenotano online su TicketOne da lunedì 30 novembre fino a esaurimento; una quota è distribuita anche alle biglietterie dalle 8.30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Reggia di Caserta",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Reggia di Caserta su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgM_xXkt-d8/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
