@@ -395721,5 +395721,59 @@
     "inserito": "2026-11-27",
     "inseritoDa": "ia",
     "fine": "2026-12-08"
+  },
+  {
+    "slug": "capodanno-2027-concerto-gratuito-di-max-pezzali-piazza-della-vittoria-genova-2026-12-31",
+    "titolo": "Capodanno 2027 con Max Pezzali: concerto gratuito",
+    "categoria": "concerto",
+    "inizio": "2026-12-31",
+    "luogo": "Piazza della Vittoria",
+    "comune": "010025",
+    "lat": 44.4067,
+    "lon": 8.9459,
+    "coordinateApprossimate": false,
+    "descrizione": "Il 31 dicembre Max Pezzali sale sul palco di piazza della Vittoria per un grande concerto gratuito, cuore di una festa che dura tutta la sera e tutta la notte per accogliere il 2027.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Genova",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Genova su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNZ0YshS1s/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "anniversario-della-biblioteca-1946-2026-auditorium-alassio-2026-11-28",
+    "titolo": "Anniversario della Biblioteca 1946-2026",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "luogo": "Auditorium della Biblioteca",
+    "comune": "009001",
+    "lat": 44.01793,
+    "lon": 8.16081,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia per l'anniversario della Biblioteca civica di Alassio, nata nel 1946, nell'auditorium della biblioteca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Alassio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Città di Alassio su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgMhLwYlXiV/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia"
   }
 ]
