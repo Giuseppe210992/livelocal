@@ -390917,5 +390917,62 @@
     ],
     "inserito": "2026-11-27",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "e-tu-come-lo-sai-capire-la-scienza-per-decidere-insieme-museo-scienza-milano-2026-11-27",
+    "titolo": "E tu, come lo sai? Capire la scienza per decidere insieme",
+    "categoria": "conferenza",
+    "inizio": "2026-11-27T18:30",
+    "luogo": "Museo Nazionale Scienza e Tecnologia – Sala Biancamano",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di BookCity Milano con Paola Dubini, Amalia Ercoli Finzi, Fiorenzo Marco Galli e Marta Meli su come capire la scienza per partecipare davvero al dibattito pubblico. Ingresso libero fino a esaurimento posti, senza prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Museo Nazionale Scienza e Tecnologia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Museo Scienza su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgMoDXLtRxO/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "indirizzo": "Via Olona 6/b"
+  },
+  {
+    "slug": "vissi-d-arte-mostra-di-tito-mucci-palazzo-delle-esposizioni-lucca-2026-11-27",
+    "titolo": "«Vissi d'Arte»: la pittura di Tito Mucci incontra la musica di Puccini",
+    "categoria": "mostra",
+    "inizio": "2026-11-27",
+    "luogo": "Palazzo delle Esposizioni",
+    "comune": "046017",
+    "lat": 43.86468,
+    "lon": 10.47352,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra curata da Lorenzo Pacini con i dipinti di Tito Mucci ispirati alle dodici opere di Puccini, un'opera inedita su Turandot nel centenario della prima e lavori di artisti contemporanei. Aperta dal martedì alla domenica, dalle 15 alle 18. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Fondazione Giacomo Puccini – Puccini Museum",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Puccini Museum su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgN97k1FLJz/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "fine": "2026-12-13",
+    "indirizzo": "Piazza San Martino 7"
   }
 ]
