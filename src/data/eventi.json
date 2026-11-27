@@ -397939,5 +397939,61 @@
     "inserito": "2026-11-27",
     "inseritoDa": "ia",
     "indirizzo": "Via Fiume 4"
+  },
+  {
+    "slug": "operazione-luna-osservazione-della-luna-del-castoro-biblioteca-sul-naviglio-corsico-2026-11-28",
+    "titolo": "Operazione Luna: osservazione della «Luna del Castoro»",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "Biblioteca sul Naviglio",
+    "comune": "015093",
+    "lat": 45.43325,
+    "lon": 9.10183,
+    "coordinateApprossimate": true,
+    "descrizione": "Osservazione della Luna con i telescopi, rimandata da giovedì 26 novembre per il maltempo, con due turni di ingresso, alle 21 e alle 21.30. Prenotazione gratuita obbligatoria su Eventbrite; le prenotazioni già fatte restano valide.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Corsico",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Corsico su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgM_IWrNnA1/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "indirizzo": "Via Concordia 1A"
+  },
+  {
+    "slug": "scorci-di-giappone-meiji-collezione-giuseppe-paganini-palazzo-leone-da-perego-legnano-2026-11-27",
+    "titolo": "«Scorci di Giappone Meiji»: la collezione Giuseppe Paganini",
+    "categoria": "mostra",
+    "inizio": "2026-11-27T18:00",
+    "luogo": "Palazzo Leone da Perego",
+    "comune": "015118",
+    "lat": 45.59371,
+    "lon": 8.90777,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra con circa 400 opere e manufatti dell'arte giapponese tra il periodo Edo e l'epoca Meiji (avori, lacche, ceramiche, intarsi) della collezione di Giuseppe Paganini. Inaugurazione il 27 novembre alle 18; poi aperta sabato, domenica e festivi, 10-12.30 e 15-19.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Città di Legnano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Città di Legnano su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgNBCeHPuUK/",
+        "consultata": "2026-11-27"
+      }
+    ],
+    "inserito": "2026-11-27",
+    "inseritoDa": "ia",
+    "indirizzo": "Via Gilardelli 10"
   }
 ]
