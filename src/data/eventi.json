@@ -405729,5 +405729,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lasciami-fare-ma-resta-nei-paraggi-oratorio-molinetto-mazzano-2026-12-03",
+    "titolo": "«Lasciami fare! (ma resta nei paraggi)»",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T20:30",
+    "luogo": "Oratorio Molinetto",
+    "comune": "017107",
+    "lat": 45.49961,
+    "lon": 10.35414,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata ad adolescenti e genitori, proposta dal Comune di Mazzano all'Oratorio Molinetto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Mazzano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Mazzano su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgP86sPNMrz/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "accensione-del-grande-albero-di-natale-piazza-roma-biancavilla-2026-12-08",
+    "titolo": "Accensione del grande albero di Natale",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-08",
+    "luogo": "Piazza Roma",
+    "comune": "087008",
+    "lat": 37.67044,
+    "lon": 14.90075,
+    "coordinateApprossimate": true,
+    "descrizione": "Il grande albero di Natale arriva in piazza Roma il 28 novembre e viene acceso ufficialmente l'8 dicembre, dando il via alle festività. Il Comune ha annunciato un programma di iniziative natalizie, con attenzione anche ai quartieri, che sarà presentato nei prossimi giorni.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Biancavilla",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Biancavilla su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgP_3KytcDB/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
