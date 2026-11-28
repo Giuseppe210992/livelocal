@@ -409406,5 +409406,639 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "11a-tappa-del-cammino-del-lago-maggiore-sesto-calende-arona-sesto-calende",
+    "titolo": "11a tappa del Cammino del Lago Maggiore, Sesto Calende - Arona",
+    "categoria": "sport",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-28T17:00",
+    "luogo": "Corso Giacomo Matteotti, 2",
+    "indirizzo": "Corso Giacomo Matteotti, 2 - 21018 Sesto Calende (VA)",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso escursionistico di 19 km che collega la sponda lombarda a quella piemontese del Lago Maggiore. Itinerario turistico-escursionistico che attraversa il Punt da Feer, il Parco Naturale dei Lagoni di Mercurago e la Rocca Borromea di Arona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Sesto Calende",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-11a-tappa-del-cammino-del-lago-maggiore-sesto-calende-arona-va",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ruach-haqodesh-musica-e-meditazione-monte-san-pietro",
+    "titolo": "Ruach haQodesh - Musica e Meditazione",
+    "categoria": "concerto",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T22:30",
+    "luogo": "San Lorenzo In Collina",
+    "indirizzo": "Via San Lorenzo, 40069 Monte San Pietro (BO)",
+    "cap": null,
+    "comune": "037042",
+    "frazione": null,
+    "lat": 44.4263,
+    "lon": 11.14587,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla musica e alla meditazione con strumenti della tradizione cabalistica e mediorientale, tamburo a cornice e chitarra. L'evento è un'esperienza sonora essenziale, condotta da musicisti e terapisti specializzati nel suono.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "MEMH Academy",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Monte San Pietro",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-ruach-haqodesh-musica-e-meditazione-monte-san-pietro-bo",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "luca-zennaro-stua-scura-bertinoro",
+    "titolo": "Luca Zennaro \"Stua Scura\"",
+    "categoria": "concerto",
+    "inizio": "2026-12-01T21:15",
+    "fine": "2026-12-01T23:15",
+    "luogo": "Enoteca Bistrot Colonna",
+    "indirizzo": "Via Arrigo Mainardi, 12 - 47032 Bertinoro (FC)",
+    "cap": null,
+    "comune": "040003",
+    "frazione": null,
+    "lat": 44.15685,
+    "lon": 12.14525,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di jazz con il quintetto Camaleoni (Lorenzo Palermo, Fabio Pergolini, Valerio Bandi, Andrea Brutti, Riccardo Savioli) che propone un repertorio di grande musica dal vivo.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale dai de jazz APS",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bertinoro",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-luca-zennaro-stua-scura-bertinoro-fc",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "edoardo-ferri-5tet-bertinoro",
+    "titolo": "Edoardo Ferri 5tet",
+    "categoria": "concerto",
+    "inizio": "2026-12-15T21:15",
+    "fine": "2026-12-15T23:15",
+    "luogo": "Enoteca Bistrot Colonna",
+    "indirizzo": "Via Arrigo Mainardi, 12 - 47032 Bertinoro (FC)",
+    "cap": null,
+    "comune": "040003",
+    "frazione": null,
+    "lat": 44.15685,
+    "lon": 12.14525,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del quintetto guidato dal chitarrista Edoardo Ferri, featuring Filippo Vignato, Mauro Avanzini, Federico Giolito ed Emanuele Maniscalco. Jazz dal respiro ampio e timbriche originali.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 5
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Culturale dai de jazz APS",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Bertinoro",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-edoardo-ferri-5tet-bertinoro-fc",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "minions-monsters-cameri",
+    "titolo": "Minions & Monsters",
+    "categoria": "bambini",
+    "inizio": "2026-11-29T15:00",
+    "fine": "2026-11-29T17:00",
+    "luogo": "CinemaTeatro Ballardini",
+    "indirizzo": "Vicolo della Caserma - 28062 Cameri (NO)",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di cinema per famiglie con proiezione dei cartoni animati Minions e Monsters & Co. L'evento, che include un'area ristoro con popcorn, è riservato a grandi e piccini e richiede l'iscrizione obbligatoria per prenotare il posto.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Cameri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cameri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-minions-monsters-cameri-no",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-natale-di-cameri-2026-cameri",
+    "titolo": "Il Natale Di Cameri 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-25T21:00",
+    "fine": "2026-12-25T23:00",
+    "luogo": "Piazza Dante Alighieri",
+    "indirizzo": "Piazza Dante Alighieri - 28062 Cameri (NO)",
+    "cap": null,
+    "comune": "003032",
+    "frazione": null,
+    "lat": 45.51442,
+    "lon": 8.66523,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento natalizio con l'accensione delle luci e l'atmosfera festiva in piazza, che segna l'inizio della stagione delle tradizioni e dei momenti condivisi per la comunità locale durante le feste di Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Cameri",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Cameri",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-il-natale-di-cameri-no-2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatini-di-natale-a-valdobbiadene-8-13-e-20-dicembre-2026-valdobbiadene",
+    "titolo": "Mercatini di Natale a Valdobbiadene 8, 13 e 20 dicembre 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-12-08T09:00",
+    "fine": "2026-12-20T20:00",
+    "luogo": "Via Garibaldi",
+    "indirizzo": "Via Garibaldi - 31049 Valdobbiadene (TV)",
+    "cap": null,
+    "comune": "026087",
+    "frazione": null,
+    "lat": 45.91285,
+    "lon": 12.01611,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatini natalizi in programma dall'8 al 20 dicembre, con l'attivazione dell'albero di Natale in Piazza Marconi l'8 dicembre. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco Segusino e Pro Loco Valdobbiadene APS",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Valdobbiadene",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-mercatini-di-natale-a-valdobbiadene-8-13-e-20-dicembre-tv",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "blascoanthology-live-alla-nuova-amanacer-santena",
+    "titolo": "Blascoanthology Live Alla Nuova Amanacer",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:30",
+    "fine": "2026-12-05T23:30",
+    "luogo": "La Nueva Amanecer FANS",
+    "indirizzo": "Via Circonvallazione, 10026 Santena (TO)",
+    "cap": null,
+    "comune": "001257",
+    "frazione": null,
+    "lat": 44.94422,
+    "lon": 7.78273,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto evento di chiusura dell'anno 2026 dedicato ai fan di Vasco Rossi, organizzato dalla tribute band BlascoAnthology. Serata rock con prenotazione tavolo consigliata per vivere l'atmosfera in attesa del tour 2027.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "BlascoAnthology Tribute Band",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Santena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-blascoanthology-live-alla-nuova-amanacer-santena-to",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-nueva-amanecer-santena-to-santena",
+    "titolo": "La Nueva Amanecer – Santena (To)",
+    "categoria": "concerto",
+    "inizio": "2026-12-07T21:00",
+    "fine": "2026-12-07T23:00",
+    "luogo": "La Nueva Amanecer FANS",
+    "indirizzo": "Via Circonvallazione, 10026 Santena (TO)",
+    "cap": null,
+    "comune": "001257",
+    "frazione": null,
+    "lat": 44.94422,
+    "lon": 7.78273,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto live Nisha Celebration con formula doppia: cena con consumazione o solo serata. Ingresso dalle 21:00 per la formula completa o dalle 22:30 per la serata. Organizzato da Nisha Celebration, La Nueva Amanecer FANS e BAZUM Circus.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 30
+    },
+    "prenotazione": null,
+    "organizzatore": "Nisha Celebration, La Nueva Amanecer FANS, BAZUM Circus",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Santena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-nueva-amanecer-santena-to",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "country-all-in-2027-domenica-24-gennaio-santena",
+    "titolo": "Country All In 2027 Domenica 24 Gennaio",
+    "categoria": "teatro",
+    "inizio": "2027-01-24T10:30",
+    "fine": "2027-01-24T12:30",
+    "luogo": "La Nueva Amanecer FANS",
+    "indirizzo": "Via Circonvallazione, 10026 Santena (TO)",
+    "cap": null,
+    "comune": "001257",
+    "frazione": null,
+    "lat": 44.94422,
+    "lon": 7.78273,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento Stra-Ballato dedicato al country con due piste in legno operative contemporaneamente. Programma include lezioni per principianti, coreografie di vari stili e pranzo all together. DJ set con Monica Pastore, Lorenzo Morando e altri.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 28
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "cheventi.it: Santena",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-country-all-in-domenica-24-gennaio-santena-to",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "volterra-e-il-suo-manicomio-volterra",
+    "titolo": "Volterra e il suo Manicomio",
+    "categoria": "visita-guidata",
+    "inizio": "2026-12-13T09:30",
+    "fine": "2026-12-13T17:30",
+    "luogo": "Piazza Martiri della Libertà - Viale dei Ponti",
+    "indirizzo": "Viale dei Ponti, 56048 Volterra (PI)",
+    "cap": null,
+    "comune": "050039",
+    "frazione": null,
+    "lat": 43.39944,
+    "lon": 10.8872,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata di un'intera giornata che unisce la storia etrusca e romana di Volterra alla storia dell'Ex Manicomio, uno dei più grandi d'Italia. Il percorso include l'area esterna dell'ex istituto. Visita con guida turistica abilitata e archeologa.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 20
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Guide Costa Etrusca",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Volterra",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-volterra-e-il-suo-manicomio",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-mandragola-volterra",
+    "titolo": "La Mandragola",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T21:00",
+    "fine": "2026-12-12T23:00",
+    "luogo": "Macelleria Franco & Luciana",
+    "indirizzo": "Via dei Sarti, 43, 56048 Volterra (PI)",
+    "cap": null,
+    "comune": "050039",
+    "frazione": null,
+    "lat": 43.39944,
+    "lon": 10.8872,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione della celebre commedia di Niccolò Machiavelli a cura di Stivalaccio Teatro. Lo spettacolo si basa su un teatro essenziale e sulla maestria degli interpreti, omaggiando il testo originale con un adattamento libero.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Persio Flacco Volterra",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Volterra",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-mandragola-volterra-pi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "morte-accidentale-di-un-anarchico-volterra",
+    "titolo": "Morte Accidentale Di Un Anarchico",
+    "categoria": "teatro",
+    "inizio": "2026-12-18T21:00",
+    "fine": "2026-12-18T23:00",
+    "luogo": "Macelleria Franco & Luciana",
+    "indirizzo": "Via dei Sarti, 43, 56048 Volterra (PI)",
+    "cap": null,
+    "comune": "050039",
+    "frazione": null,
+    "lat": 43.39944,
+    "lon": 10.8872,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Dario Fo e Franca Rame interpretato da Lodo Guenzi. La farsa tragica racconta l'omicidio di un anarchico a New York nel 1921, offrendo un'indagine satirica sul potere e sulla verità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Persio Flacco Volterra",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Volterra",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-morte-accidentale-di-un-anarchico-volterra-pi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "nutrizione-e-performance-corretta-nutrizione-per-gli-sportivi-motta-di-livenza",
+    "titolo": "Nutrizione e Performance – Corretta nutrizione per gli sportivi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T20:45",
+    "fine": "2026-12-02T22:45",
+    "luogo": "Auditorium Scuole Medie",
+    "indirizzo": "Via Lucchesi - 31045 Motta di Livenza (TV)",
+    "cap": null,
+    "comune": "026049",
+    "frazione": null,
+    "lat": 45.76659,
+    "lon": 12.62277,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata dedicata alla corretta alimentazione e al suo ruolo nello sport e nella performance. Interverrà il Dott. Filippo Ruzza, biologo nutrizionista e farmacista, per approfondire i principi di una corretta nutrizione e le scelte consapevoli per la salute.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Atletica Mottense",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Motta di Livenza",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-nutrizione-e-performance-corretta-nutrizione-per-gli-sportivi-motta-di-livenza-tv",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-motha-christmas-edition-motta-di-livenza",
+    "titolo": "La Motha Christmas Edition",
+    "categoria": "sport",
+    "inizio": "2026-12-13T09:30",
+    "fine": "2026-12-13T11:30",
+    "luogo": "Centro Polivalente di Villanova",
+    "indirizzo": "Villanova di Motta di Livenza (TV)",
+    "cap": null,
+    "comune": "026049",
+    "frazione": null,
+    "lat": 45.76659,
+    "lon": 12.62277,
+    "coordinateApprossimate": true,
+    "descrizione": "Edizione natalizia della gravel bike-day La Motha. Percorso di 44 km nel territorio mottense con sosta per un ristoro in Piazza Luzzati. All'arrivo è previsto un Pasta Party per concludere la giornata in compagnia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 15
+    },
+    "prenotazione": null,
+    "organizzatore": "Zero 5 Bike Team",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Motta di Livenza",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-la-motha-christmas-edition-motta-di-livenza-tv",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "se-domani-non-torno-il-film-tratto-dalla-storia-di-giulia-cecchettin-camisano-vicentino",
+    "titolo": "“SE DOMANI NON TORNO” il film tratto dalla storia di Giulia Cecchettin",
+    "categoria": "mostra",
+    "inizio": "2026-11-26T21:00",
+    "fine": "2026-11-30T22:46",
+    "luogo": "Cinema Teatro LUX",
+    "indirizzo": "Via Guglielmo Marconi, 27 - 36043 Camisano Vicentino (VI) - Italia",
+    "cap": null,
+    "comune": "024021",
+    "frazione": null,
+    "lat": 45.52555,
+    "lon": 11.71188,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film tratto dal libro 'Cara Giulia' di Gino Cecchettin e Marco Franzoso. Il film racconta la scomparsa di Giulia Cecchettin e l'impatto sulla sua famiglia. Prodotto da Notorious Pictures e diretto da Paola Randi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cinema Teatro LUX, Biblioteca Civica 'L. Grisotto' Camisano Vic.no, Città di Camisano Vicentino",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Camisano Vicentino",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-se-domani-non-torno-il-film-tratto-dalla-storia-di-giulia-cecchettin-camisano-vicentino-vi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "michael-starring-gus-jackson-teatro-politeama-di-badia-polesine-badia-polesine",
+    "titolo": "MICHAEL - Starring Gus Jackson, Teatro Politeama di Badia Polesine",
+    "categoria": "teatro",
+    "inizio": "2027-01-07T21:00",
+    "fine": "2027-01-07T23:00",
+    "luogo": "Politeama - Multisala Cinematografica",
+    "indirizzo": "Via Cigno - 45021 Badia Polesine (RO)",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo dal vivo dedicato a Michael Jackson a cura di Gus Jackson, uno dei più noti impersonator internazionali. Il palco ospiterà band dal vivo, ballerini e cori per rivivere le atmosfere e le coreografie delle leggendarie performance del Re del Pop.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Spettacolo Live",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Badia Polesine",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-michael-starring-gus-jackson-teatro-politeama-di-badia-polesine-ro",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "05-febbraio-2027-badia-polesine-ro-incalmati-badia-polesine",
+    "titolo": "05 febbraio 2027, Badia Polesine (RO) – INCALMATI",
+    "categoria": "teatro",
+    "inizio": "2027-02-05T21:00",
+    "fine": "2027-02-05T23:00",
+    "luogo": "Strada Statale 434 Transpolesana",
+    "indirizzo": "Strada Statale 434 Transpolesana - 45021 Badia Polesine (RO)",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Nuovo spettacolo comico-teatrale di Marco e Pippo, duo definito come \"un trio\". Una galleria di personaggi storici e inediti si intreccia tra gag, dialetto veneto e momenti musicali, offrendo al pubblico una comicità fresca, surreale ed esilarante.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Marco e Pippo",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Badia Polesine",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-05-febbraio-badia-polesine-ro-incalmati",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giovanna-dei-disoccupati-un-apocrifo-brechtiano-badia-polesine",
+    "titolo": "Giovanna Dei Disoccupati. Un Apocrifo Brechtiano",
+    "categoria": "teatro",
+    "inizio": "2027-03-17T21:00",
+    "fine": "2027-03-17T23:00",
+    "luogo": "Cinema Politeama",
+    "indirizzo": "Via Cigno - 45021 Badia Polesine (RO)",
+    "cap": null,
+    "comune": "029004",
+    "frazione": null,
+    "lat": 45.0928,
+    "lon": 11.49735,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale di Natalino Balasso ispirato all'universo di Brecht. L'opera affronta temi attuali come il dominio degli algoritmi, il consumismo e la solitudine, interrogandosi sull'esistenza di una vera comunità in un mondo moderno.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Dalvivo Eventi Venezia",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Badia Polesine",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2027-giovanna-dei-disoccupati-un-apocrifo-brechtiano",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
   }
 ]
