@@ -412830,5 +412830,63 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "campionato-italiano-esordienti-di-karate-palaelachem-vigevano-2026-11-28",
+    "titolo": "Campionato Italiano Esordienti di Karate",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "PalaElachem",
+    "indirizzo": "via Cappuccini 151",
+    "comune": "018177",
+    "lat": 45.30777,
+    "lon": 8.86816,
+    "coordinateApprossimate": true,
+    "descrizione": "Campionato nazionale con circa 900 atleti da tutta Italia nelle specialità Kata e Kumite, maschile e femminile. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Vigevano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Vigevano su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPj3ttiIaG/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "afrodite-shorts-xi-the-cineclub-roma-2026-12-01",
+    "titolo": "Afrodite Shorts XI: festival di cortometraggi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01",
+    "fine": "2026-12-03",
+    "luogo": "The Cineclub",
+    "indirizzo": "via Lidia",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Undicesima edizione del festival: tre giornate di proiezioni, incontri e serata di premiazione. Prenotazione tramite il link nel profilo dell'organizzatore.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Afrodite Shorts",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Afrodite Shorts su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgP-HJYCKwx/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
