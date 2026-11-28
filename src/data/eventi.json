@@ -412747,5 +412747,88 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-di-natale-coro-e-voci-soliste-parrocchia-san-paolo-gravina-di-catania-2026-12-10",
+    "titolo": "Concerto di Natale: Coro e Voci Soliste (Parrocchia San Paolo)",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T19:30",
+    "luogo": "Parrocchia San Paolo",
+    "comune": "087019",
+    "lat": 37.55475,
+    "lon": 15.06272,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda serata di musica natalizia con il Coro e le Voci Soliste dell'I.C. Rodari - Nosengo. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Gravina di Catania",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Gravina di Catania su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgSNp6OiITQ/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "essere-ambasciatori-di-pace-mostra-luca-attanasio-villa-facchi-casatenovo-2026-12-05",
+    "titolo": "«Essere ambasciatori di pace»: mostra su Luca Attanasio",
+    "categoria": "mostra",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-13",
+    "luogo": "Villa Facchi",
+    "comune": "097016",
+    "lat": 45.6822,
+    "lon": 9.32319,
+    "coordinateApprossimate": true,
+    "descrizione": "Percorso espositivo di quadri che ripercorre la vita e l'impegno umano e professionale di Luca Attanasio, ambasciatore italiano ucciso nel 2021 in Congo durante una missione umanitaria. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Casatenovo",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Casatenovo su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgSOU12iLWL/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "presentazione-romanzo-gianpaolo-ripamonti-sala-civica-montevecchia-2026-12-04",
+    "titolo": "Presentazione del nuovo romanzo di Gianpaolo Ripamonti",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T20:45",
+    "luogo": "Sala Civica",
+    "indirizzo": "via del Fontanile 6",
+    "comune": "097053",
+    "lat": 45.70476,
+    "lon": 9.37312,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di presentazione del nuovo romanzo di Gianpaolo Ripamonti, ambientato in una scuola di montagna, moderata dalla professoressa Beatrice Fumagalli. Al termine firmacopie con l'autore. Ingresso libero e gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Montevecchia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Montevecchia su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgSQWEAI3IP/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
