@@ -406400,5 +406400,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-corpi-del-giallo-laboratorio-di-arte-contemporanea-biblioteca-orzinuovi-2026-12-04",
+    "titolo": "«I corpi del giallo»: laboratorio di arte contemporanea per bambini",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T16:30",
+    "luogo": "Biblioteca comunale",
+    "comune": "017125",
+    "lat": 45.39788,
+    "lon": 9.93642,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio con l'artista Armida Gandini (Libera Accademia di Belle Arti di Brescia) per bambine e bambini dalla seconda alla quinta elementare: esplorare il giallo e lasciare una traccia del proprio corpo su un grande foglio. Fa parte del progetto «La Balena Gialla» del Sistema Bibliotecario Bassa Bresciana Centrale. Gratuito, con prenotazione obbligatoria.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Biblioteca di Orzinuovi",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Orzinuovi su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPZwU2xnC4/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia",
+    "indirizzo": "Piazza Garibaldi"
+  },
+  {
+    "slug": "here-and-now-iachini-sanna-scarpato-gallo-monk-jazz-club-roma-2026-12-04",
+    "titolo": "«Here and Now»: Alessandro Iachini, Domenico Sanna, Giulio Scarpato, Luca Gallo",
+    "categoria": "concerto",
+    "inizio": "2026-12-04T21:30",
+    "luogo": "Monk Jazz Club",
+    "comune": "058091",
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Quartetto jazz con Alessandro Iachini alla chitarra, Domenico Sanna al pianoforte, Giulio Scarpato al basso e Luca Gallo alla batteria, nella stagione concertistica del club. Repliche il 5 dicembre alle 19 e alle 21.30. Si può entrare fino a 15 minuti dopo l'inizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Monk Jazz Club",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Monk Jazz Club su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgQTMYUgk1c/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
