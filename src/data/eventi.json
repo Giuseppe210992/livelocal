@@ -415448,5 +415448,1857 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "notte-di-luce-scandiano",
+    "titolo": "Notte di Luce",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-12T15:15",
+    "fine": "2026-12-12T19:00",
+    "luogo": "Centro storico",
+    "indirizzo": "Via Vallisneri, 6, 42019 Scandiano RE, Italia",
+    "cap": null,
+    "comune": "035040",
+    "frazione": null,
+    "lat": 44.59875,
+    "lon": 10.68975,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento per celebrare la Giornata Internazionale dei diritti delle persone con disabilità. Il centro storico si illuminerà con luci a led. Il programma include la presentazione di un libro, una camminata a lume di candela guidata da una marching band e laboratori artistici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Tavolo \"Scandiano Città della Pace e dei Diritti\"",
+    "fonti": [
+      {
+        "nome": "Comune di Scandiano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.scandiano.re.it/it/eventi/notte-di-luce-2521101",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-senso-dei-luoghi-scorze",
+    "titolo": "Il senso dei luoghi",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T17:30",
+    "fine": "2026-12-04T19:00",
+    "luogo": "Biblioteca comunale A. Stangherlin",
+    "indirizzo": "Via dei Soranzo, 7, 30037 Scorzè VE",
+    "cap": null,
+    "comune": "027037",
+    "frazione": null,
+    "lat": 45.57596,
+    "lon": 12.14136,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio dedicato al rapporto tra geografia, paesaggio e narrazione letteraria, condotto da Bernardetta Michieletto per esplorare il legame tra territorio e letteratura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca comunale A. Stangherlin",
+    "fonti": [
+      {
+        "nome": "Comune di Scorzè",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.scorze.ve.it/it/eventi/il-senso-dei-luoghi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "contrazioni-pericolose-senigallia",
+    "titolo": "Contrazioni pericolose",
+    "categoria": "teatro",
+    "inizio": "2027-03-23T21:00",
+    "fine": "2027-03-23T23:30",
+    "luogo": "Teatro la Fenice",
+    "indirizzo": "Via Cesare Battisti, Senigallia, 60019",
+    "cap": null,
+    "comune": "042045",
+    "frazione": null,
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale a due personaggi in cui l'amicizia tra Massimo e Martina, legata da una curiosa omonimia, esplode in una commedia intensa ambientata in una sala parto.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro la Fenice",
+    "fonti": [
+      {
+        "nome": "Comune di Senigallia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.senigallia.an.it/vivere-il-comune/eventi/contrazioni-pericolose",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "franciscus-senigallia",
+    "titolo": "Franciscus",
+    "categoria": "teatro",
+    "inizio": "2027-02-28T17:00",
+    "fine": "2027-02-28T23:30",
+    "luogo": "Teatro la Fenice",
+    "indirizzo": "Via Cesare Battisti, Senigallia, 60019",
+    "cap": null,
+    "comune": "042045",
+    "frazione": null,
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo di Simone Cristicchi che esplora la figura di San Francesco attraverso canzoni inedite e riflessioni sul confine tra follia e santità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Centro Teatrale Bresciano, Accademia Perduta Romagna Teatri",
+    "fonti": [
+      {
+        "nome": "Comune di Senigallia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.senigallia.an.it/vivere-il-comune/eventi/franciscus",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "a-casa-tutti-bene-senigallia",
+    "titolo": "A casa tutti bene",
+    "categoria": "teatro",
+    "inizio": "2026-12-16",
+    "fine": "2026-12-17",
+    "luogo": "Teatro la Fenice",
+    "indirizzo": "Via Cesare Battisti, Senigallia, 60019",
+    "cap": null,
+    "comune": "042045",
+    "frazione": null,
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale che narra la storia di una famiglia che si riunisce in una casa storica per festeggiare l'ottantesimo compleanno della madre, Alba.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Senigallia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.senigallia.an.it/tipi_evento/spettacolo-teatrale",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "assassinio-sull-orient-express-senigallia",
+    "titolo": "Assassinio sull'Orient Express",
+    "categoria": "teatro",
+    "inizio": "2026-12-04",
+    "fine": "2026-12-04",
+    "luogo": "Teatro la Fenice",
+    "indirizzo": "Via Cesare Battisti, Senigallia, 60019",
+    "cap": null,
+    "comune": "042045",
+    "frazione": null,
+    "lat": 43.68177,
+    "lon": 13.20089,
+    "coordinateApprossimate": true,
+    "descrizione": "Adattamento teatrale del celebre romanzo di Agatha Christie, firmato da Ken Ludwig, che porta in scena uno dei capolavori del genere giallo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Senigallia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.senigallia.an.it/tipi_evento/spettacolo-teatrale",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "francesco-indraccolo-miti-poemi-fiabe-e-racconti-iniziatici-sesto-calende",
+    "titolo": "Francesco Indraccolo - Miti, Poemi, Fiabe e Racconti iniziatici",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05T10:30",
+    "fine": null,
+    "luogo": "Biblioteca Comunale",
+    "indirizzo": "Piazza Mazzini 16 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro letterario nell'ambito della rassegna Segnalibri d'Autunno in cui l'autore presenta il suo libro sui miti, poemi e racconti iniziatici.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/Francesco-Indraccolo-Miti-Poemi-Fiabe-e-Racconti-iniziatici",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "piero-manciocchi-cori-sesto-calende",
+    "titolo": "Piero Manciocchi - Cori",
+    "categoria": "conferenza",
+    "inizio": "2026-12-05T18:00",
+    "fine": null,
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Piazza Cesare da Sesto 1 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro di Piero Manciocchi dedicata alla città di Cori, organizzata nell'ambito della rassegna letteraria Segnalibri d'Autunno.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/Piero-Manciocchi-Cori",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-custodi-del-tempo-sulle-ali-di-un-sogno-alessandro-marchetti-l-ingeg-sesto-calende",
+    "titolo": "I Custodi del Tempo - Sulle Ali di un Sogno. Alessandro Marchetti: l'ingegno, la storia e il sogno del volo",
+    "categoria": "conferenza",
+    "inizio": "2026-12-12T17:30",
+    "fine": null,
+    "luogo": "Sala Consiliare",
+    "indirizzo": "Piazza Cesare da Sesto 1 - 21018 - Sesto Calende",
+    "cap": null,
+    "comune": "012120",
+    "frazione": null,
+    "lat": 45.74022,
+    "lon": 8.63546,
+    "coordinateApprossimate": true,
+    "descrizione": "Anteprima del documentario di Flavio Cammerano dedicato ad Alessandro Marchetti, ingegnere aeronautico, con testimonianze e immagini d'archivio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Attività Turistiche e Culturali",
+    "fonti": [
+      {
+        "nome": "Comune di Sesto Calende",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sesto-calende.va.it/vivere-il-comune/eventi/I-Custodi-del-Tempo-Sulle-Ali-di-un-Sogno.-Alessandro-Marchetti-lingegno-la-storia-e-il-sogno-del-volo",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "guardaroba-amico-settimo-milanese",
+    "titolo": "Guardaroba amico",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T17:00",
+    "luogo": "Palazzo Granaio",
+    "indirizzo": "Largo Papa Giovanni XXIII",
+    "cap": null,
+    "comune": "015211",
+    "frazione": null,
+    "lat": 45.48012,
+    "lon": 9.05393,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino mensile di abbigliamento vintage e di seconda mano. L'evento si tiene al primo piano di Palazzo Granaio. È possibile donare capi di stagione il mercoledì mattina o prelevare articoli gratuitamente secondo disponibilità.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Settimo Milanese",
+        "tipo": "ufficiale",
+        "url": "https://comune.settimomilanese.mi.it/vivere-il-comune/evento/guardaroba-amico",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serate-del-benessere-affettivita-e-sessualita-settimo-milanese",
+    "titolo": "Serate del benessere: Affettività e sessualità",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T20:30",
+    "fine": "2026-12-02T22:30",
+    "luogo": "Sede Pro Loco",
+    "indirizzo": "via Grandi 13",
+    "cap": null,
+    "comune": "015211",
+    "frazione": null,
+    "lat": 45.48012,
+    "lon": 9.05393,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro informativo dedicato al tema \"Affettività e sessualità\". L'evento è organizzato in collaborazione con ATS Milano Città Metropolitana e ASST Rhodense. L'accesso è gratuito per tutti i cittadini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "ATS Milano Città Metropolitana, ASST Rhodense",
+    "fonti": [
+      {
+        "nome": "Comune di Settimo Milanese",
+        "tipo": "ufficiale",
+        "url": "https://comune.settimomilanese.mi.it/vivere-il-comune/evento/serate-del-benessere",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "iv-memorial-marzio-botta-seveso",
+    "titolo": "IV Memorial \"Marzio Botta\"",
+    "categoria": "sport",
+    "inizio": "2026-11-29T09:00",
+    "fine": "2026-11-29T12:20",
+    "luogo": "Chalet Bosco delle Querce",
+    "indirizzo": "Via Ada Negri, 20822 Seveso MB",
+    "cap": null,
+    "comune": "108040",
+    "frazione": null,
+    "lat": 45.6438,
+    "lon": 9.1451,
+    "coordinateApprossimate": true,
+    "descrizione": "Raduno sportivo e campionato provinciale di corsa campestre valido come prova. I partecipanti si danno appuntamento alle 9:00 per le prove che iniziano alle 10:00 lungo i sentieri del bosco.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "GS In Robore Virtus",
+    "fonti": [
+      {
+        "nome": "Comune di Seveso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seveso.mb.it/it/eventi/iv-memorial-marzio-botta",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "arte-nel-bosco-seveso",
+    "titolo": "Arte nel Bosco",
+    "categoria": "bambini",
+    "inizio": "2026-12-06T14:30",
+    "fine": "2026-12-06T16:15",
+    "luogo": "Chalet Bosco delle Querce",
+    "indirizzo": "Via Ada Negri, 20822 Seveso MB",
+    "cap": null,
+    "comune": "108040",
+    "frazione": null,
+    "lat": 45.6438,
+    "lon": 9.1451,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per adulti (età 18+) incentrato sulla biostampa e sul ricamo. I partecipanti raccolgono elementi naturali del bosco per sperimentare tracce organiche e creare opere uniche.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fare Arte",
+    "fonti": [
+      {
+        "nome": "Comune di Seveso",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.seveso.mb.it/it/eventi/arte-nel-bosco-735654",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lou-dalfin-in-concerto-settimo-torinese",
+    "titolo": "Lou Dalfin in concerto",
+    "categoria": "concerto",
+    "inizio": "2027-02-06T21:00",
+    "fine": "2027-02-06T23:00",
+    "luogo": "Suoneria Settimo torinese",
+    "indirizzo": "Via Partigiani, 4",
+    "cap": null,
+    "comune": "001265",
+    "frazione": null,
+    "lat": 45.14577,
+    "lon": 7.77311,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto del gruppo Lou Dalfin, fondato nel 1982, noto per la fusione tra musica occitana, folk e rock. Il gruppo presenta un repertorio che unisce tradizione e modernità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Lou Dalfin",
+    "fonti": [
+      {
+        "nome": "Comune di Settimo Torinese",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.settimo-torinese.to.it/it/eventi/lou-dalfin-in-concerto",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "seminario-spinea",
+    "titolo": "Seminario",
+    "categoria": "conferenza",
+    "inizio": "2026-12-01T20:45",
+    "fine": "2026-12-01T22:45",
+    "luogo": "Municipio di Spinea",
+    "indirizzo": "Piazza del municipio, 1",
+    "cap": null,
+    "comune": "027038",
+    "frazione": null,
+    "lat": 45.49049,
+    "lon": 12.15529,
+    "coordinateApprossimate": true,
+    "descrizione": "Seminario intitolato \"Capricci: che fare?\" che si inserisce nel progetto \"1000 giorni\" finanziato dalla Regione Veneto. L'evento è rivolto alla cittadinanza e si svolge presso il Municipio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coop. Olivotti",
+    "fonti": [
+      {
+        "nome": "Comune di Spinea",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.spinea.ve.it/it/eventi/seminario",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-corda-spezzata-spinea",
+    "titolo": "La corda spezzata",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T18:00",
+    "fine": "2026-12-03T19:30",
+    "luogo": "Biblioteca comunale",
+    "indirizzo": "Via Roma, 265",
+    "cap": null,
+    "comune": "027038",
+    "frazione": null,
+    "lat": 45.49049,
+    "lon": 12.15529,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro \"La corda spezzata\" a cura dell'autore Albino Zanocco, che dialoga con Sara Busato. L'incontro include letture di Celeste Porena e accompagnamento musicale di Alessandra Crepaldi e Lorena Trevisan.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Comunale di Spinea",
+    "fonti": [
+      {
+        "nome": "Comune di Spinea",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.spinea.ve.it/it/eventi/presentazione-del-libro-la-corda-spezzata",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "passeggiata-ecologica-a-terre-del-reno-sabato-28-novembre-appuntamento-terre-del-reno",
+    "titolo": "Passeggiata ecologica a Terre del Reno: sabato 28 novembre appuntamento con Plastic Free",
+    "categoria": "sport",
+    "inizio": "2026-11-28T14:00",
+    "fine": null,
+    "luogo": "parcheggio dell’impianto idrovoro di Sant’Agostino",
+    "indirizzo": "Terre del Reno",
+    "cap": null,
+    "comune": "038028",
+    "frazione": null,
+    "lat": 44.80708,
+    "lon": 11.40516,
+    "coordinateApprossimate": true,
+    "descrizione": "Passeggiata ecologica lungo gli argini del Cavo Napoleonico per la raccolta rifiuti. Organizzata da Plastic Free con il patrocinio del Comune, richiede iscrizione obbligatoria e partecipazione gratuita.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Plastic Free",
+    "fonti": [
+      {
+        "nome": "Comune di Terre del Reno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.terredelreno.fe.it/vivere-il-comune/eventi/passeggiata-ecologica-a-terre-del-reno-sabato-28-novembre-appuntamento-con-plastic-free",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-notte-dei-pupazzi-alla-biblioteca-comunale-di-mirabello-terre-del-reno",
+    "titolo": "La notte dei pupazzi alla Biblioteca comunale di Mirabello",
+    "categoria": "bambini",
+    "inizio": "2026-12-04",
+    "fine": "2026-12-05",
+    "luogo": "Biblioteca Leonardo Tocchio di Mirabello",
+    "indirizzo": "Terre del Reno",
+    "cap": null,
+    "comune": "038028",
+    "frazione": null,
+    "lat": 44.80708,
+    "lon": 11.40516,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa per bambini in cui i loro pupazzi trascorrono una notte tra i libri della biblioteca. Al mattino, i bambini recuperano i loro burattini con nuove storie da raccontare.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca Leonardo Tocchio di Mirabello",
+    "fonti": [
+      {
+        "nome": "Comune di Terre del Reno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.terredelreno.fe.it/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-a-terre-del-reno-accensione-dell-albero-di-natale-a-sant-agosti-terre-del-reno",
+    "titolo": "Natale a Terre del Reno: accensione dell’albero di Natale a Sant’Agostino",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-08T15:30",
+    "fine": null,
+    "luogo": "Piazza Pertini",
+    "indirizzo": "Terre del Reno",
+    "cap": null,
+    "comune": "038028",
+    "frazione": null,
+    "lat": 44.80708,
+    "lon": 11.40516,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio di festa con musica, spettacoli di fuoco e luci, gonfiabili per bambini e accensione tradizionale dell'albero di Natale. L'evento è dedicato a tutta la comunità locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Terre del Reno",
+    "fonti": [
+      {
+        "nome": "Comune di Terre del Reno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.terredelreno.fe.it/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accensione-dell-albero-di-natale-a-dosso-terre-del-reno",
+    "titolo": "Accensione dell'albero di Natale a Dosso",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-08T17:00",
+    "fine": null,
+    "luogo": "chiesa di Dosso",
+    "indirizzo": "Terre del Reno",
+    "cap": null,
+    "comune": "038028",
+    "frazione": null,
+    "lat": 44.80708,
+    "lon": 11.40516,
+    "coordinateApprossimate": true,
+    "descrizione": "Momento di festa per la comunità con canti natalizi eseguiti dai ragazzi del catechismo e dal coro della chiesa. Al termine è prevista la distribuzione di merenda calda per tutti i partecipanti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parrocchia di Dosso",
+    "fonti": [
+      {
+        "nome": "Comune di Terre del Reno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.terredelreno.fe.it/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "letture-con-il-fiocco-alla-biblioteca-comunale-di-sant-agostino-terre-del-reno",
+    "titolo": "Letture con il fiocco alla Biblioteca comunale di Sant'Agostino",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T10:00",
+    "fine": null,
+    "luogo": "Biblioteca comunale di Sant'Agostino",
+    "indirizzo": "Terre del Reno",
+    "cap": null,
+    "comune": "038028",
+    "frazione": null,
+    "lat": 44.80708,
+    "lon": 11.40516,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento natalizio con letture dedicate ai bambini dai 0 ai 6 anni. La partecipazione è gratuita ma richiede prenotazione obbligatoria per garantire la presenza in biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Terre del Reno",
+    "fonti": [
+      {
+        "nome": "Comune di Terre del Reno",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.terredelreno.fe.it/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "film-alice-nel-paese-dei-coloni-tradate",
+    "titolo": "Film ALICE NEL PAESE DEI COLONI",
+    "categoria": "mostra",
+    "inizio": "2026-12-01T21:00",
+    "fine": null,
+    "luogo": "Cinema Paolo Grassi",
+    "indirizzo": "Via Giacomo Bianchi 1",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del documentario francese Alice nel paese dei coloni, che racconta la resistenza di abitanti di Betlemme contro l'occupazione israeliana.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6.5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/alice-nel-paese-dei-coloni",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corto-che-passione-tradate",
+    "titolo": "CORTO CHE PASSIONE",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T19:00",
+    "fine": null,
+    "luogo": "Cinema Paolo Grassi",
+    "indirizzo": "Via Giacomo Bianchi 1",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Selezione di cinque cortometraggi internazionali e italiani, tra cui titoli su audizioni teatrali, vita in Patagonia e amicizia tra giovani lavoratori.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 6.5
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/corto-che-passione-12",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "i-biscotti-di-natale-tradate",
+    "titolo": "I biscotti di Natale",
+    "categoria": "bambini",
+    "inizio": "2026-12-03T16:15",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio per bambini 6-10 anni per impastare biscotti con letture natalizie, su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/i-biscotti-di-natale-2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-la-spiritualita-nella-natura-dialoghi-con-l-an-tradate",
+    "titolo": "Presentazione del libro \"La spiritualità nella natura. Dialoghi con l'anima\" di Patrizia Baccarin",
+    "categoria": "conferenza",
+    "inizio": "2026-12-10T20:30",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro con l'autrice Patrizia Baccarin per presentare il suo libro, con moderazione di Antonia Chiappini.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/presentazione-del-libro-la-spiritualita-nella-natura-dialoghi-con-lanima-di-patrizia-baccarin",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mi-leggi-una-storia-di-natale-tradate",
+    "titolo": "Mi leggi una storia... di Natale?",
+    "categoria": "bambini",
+    "inizio": "2026-12-10T16:15",
+    "fine": null,
+    "luogo": "Biblioteca civica Frera",
+    "indirizzo": "via Zara 37",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Lettura di storie natalizie per bambini dai 3 ai 6 anni, curata da volontari della biblioteca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/vivere-il-comune/evento/mi-leggi-una-storia-di-natale-2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "18-babbo-natale-running-tradate",
+    "titolo": "18° Babbo Natale Running",
+    "categoria": "sport",
+    "inizio": "2026-12-13T09:15",
+    "fine": "2026-12-13T11:30",
+    "luogo": "Villa Truffini",
+    "indirizzo": "c.so Bernacchi, angolo via Cavour",
+    "cap": null,
+    "comune": "012127",
+    "frazione": null,
+    "lat": 45.71521,
+    "lon": 8.91804,
+    "coordinateApprossimate": true,
+    "descrizione": "Corso run di 18 edizione a tema natalizio, con partenza da Villa Truffini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Tradate",
+        "tipo": "ufficiale",
+        "url": "https://comune.tradate.va.it/eventi/?pagina=2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "1946-2026-ottant-anni-dal-primo-voto-delle-donne-vinovo",
+    "titolo": "1946-2026 Ottant'anni dal primo voto delle donne",
+    "categoria": "mostra",
+    "inizio": "2026-11-30",
+    "fine": "2026-12-09",
+    "luogo": "ALA COMUNALE",
+    "indirizzo": "Vinovo",
+    "cap": null,
+    "comune": "001309",
+    "frazione": null,
+    "lat": 44.95529,
+    "lon": 7.62907,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata al 2 giugno 1946, data in cui per la prima volta le donne italiane hanno esercitato il diritto al voto.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Vinovo",
+    "fonti": [
+      {
+        "nome": "Comune di Vinovo",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.vinovo.to.it/it-it/vivere-il-comune/eventi/1946-2026-ottant-anni-dal-primo-voto-delle-donne-133706-1-a81b100d04f92b4ecd582c1ba50045b6",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-dell-albero-un-nuovo-albero-in-memoria-di-ebru-timtik-volpiano",
+    "titolo": "Festa dell’Albero: un nuovo albero in memoria di Ebru Timtik",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Viale Partigiani",
+    "indirizzo": "Viale Partigiani, area retrostante il supermercato Lidl",
+    "cap": null,
+    "comune": "001314",
+    "frazione": null,
+    "lat": 45.19461,
+    "lon": 7.78359,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa promossa da Legambiente Il Girasole per la messa a dimora di un nuovo albero in memoria di Ebru Timtik. L'evento si svolge in un'area pubblica e include attività collettive di piantumazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Legambiente Il Girasole",
+    "fonti": [
+      {
+        "nome": "Comune di Volpiano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.volpiano.to.it/it-it/vivere-il-comune/eventi/a-volpiano-la-festa-dell-albero-un-nuovo-albero-in-memoria-di-ebru-timtik-133618-1-4b5d6ca4b0b427946d6aa1f066f6e271",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepe-di-luce-alberobello",
+    "titolo": "Presepe di Luce",
+    "categoria": "mostra",
+    "inizio": "2026-11-29",
+    "fine": "2027-01-10",
+    "luogo": "Viali dell’ex Hotel dei Trulli",
+    "indirizzo": "Alberobello",
+    "cap": null,
+    "comune": "072003",
+    "frazione": null,
+    "lat": 40.79759,
+    "lon": 17.23734,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra luminosa natale nelle sei editione dell'ex Hotel dei Trulli. Il percorso attraversa i viali della pineta tra i trulli, con installazioni a mano e audioguide sulle scene ispirate alla Perfetta Letizia. Aperto tutti i giorni con orari variabili.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "APS Da Betlemme a Gerusalemme",
+    "fonti": [
+      {
+        "nome": "Comune di Alberobello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.alberobello.ba.it/vivere-il-comune/eventi/alberobello-inaugura-il-natale-nei-viali-dellex-hotel-dei-trulli",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "convegno-alberobello-da-feudo-della-contea-di-conversano-a-sito-unesco-alberobello",
+    "titolo": "Convegno: Alberobello da Feudo della Contea di Conversano a Sito UNESCO",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T10:00",
+    "fine": null,
+    "luogo": "Centro Culturale G. Galiani",
+    "indirizzo": "Alberobello",
+    "cap": null,
+    "comune": "072003",
+    "frazione": null,
+    "lat": 40.79759,
+    "lon": 17.23734,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro pubblico per celebrare i 30 anni del riconoscimento UNESCO di Alberobello. Storic, accademici e istituzioni riflettono sulla memoria e il futuro dell'abitare nei trulli, con interventi di esperti e partecipazione studentesca.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Sylva Tour and Didactics APS",
+    "fonti": [
+      {
+        "nome": "Comune di Alberobello",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.alberobello.ba.it/vivere-il-comune/eventi/alberobello-celebra-i-30-anni-dal-riconoscimento-unesco-venerdi-4-dicembre-il-convegno-abitare-la-memoria-e-il-futuro",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "storie-di-saggezza-tra-allegria-e-riflessione-in-biblioteca-appiano-sulla-strada-del-vino-eppan-an-der-weinstra-e",
+    "titolo": "Storie di saggezza, tra allegria e riflessione, in biblioteca",
+    "categoria": "conferenza",
+    "inizio": "2026-12-04T19:30",
+    "fine": null,
+    "luogo": "Biblioteca di Appiano",
+    "indirizzo": "Appiano sulla strada del vino/Eppan an der Weinstraße",
+    "cap": null,
+    "comune": "021004",
+    "frazione": null,
+    "lat": 46.46735,
+    "lon": 11.25604,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di racconti per adulti dal titolo 'Der schwangere Suppentopf', organizzata in collaborazione con VHS Südtirol e il Comitato per l’educazione Bildungsausschuss Plattform.Kultur St. Michael-Gand-Berg.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Biblioteca di Appiano",
+    "fonti": [
+      {
+        "nome": "Comune di Appiano sulla strada del vino/Eppan an der Weinstraße",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.appiano.bz.it/it/Vivere_il_comune/Eventi/Storie_di_saggezza_tra_allegria_e_riflessione_in_biblioteca",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "ancona-che-brilla-2026-ancona-29-11",
+    "titolo": "Ancona Che Brilla 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T24:00",
+    "luogo": "Ancona",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamenti natalizi del 29 novembre: Mercatino Natalizio, Pista di Pattinaggio, Spettacolo Teatrale \"Gaber - Mi fa male il mondo\", Concerto Lirico e Mostra dei Presepi. Kermesse natalizia nella città di Ancona.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/ancona-che-brilla-2026-735190",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "corto-dorico-international-film-festival-ancona",
+    "titolo": "Corto Dorico International Film Festival",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T10:30",
+    "fine": "2026-11-29T11:30",
+    "luogo": "Cinema Azzurro",
+    "indirizzo": "Ancona",
+    "cap": null,
+    "comune": "042002",
+    "frazione": null,
+    "lat": 43.57276,
+    "lon": 13.49201,
+    "coordinateApprossimate": true,
+    "descrizione": "Appuntamento del concorso internazionale cortometraggi Short on Rights con Amnesty International Award. Proiezione di cortometraggi internazionali semifinali e votazione del pubblico in sala. Ingresso libero.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ancona",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ancona.it/it/eventi/corto-dorico-film-festival",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "serate-musicali-uni-ter-arese",
+    "titolo": "Serate musicali UNI TER",
+    "categoria": "concerto",
+    "inizio": "2026-11-29",
+    "fine": null,
+    "luogo": "Casa delle Associazioni Tina Anselmi",
+    "indirizzo": "viale dei Platani 6, Arese",
+    "cap": null,
+    "comune": "015009",
+    "frazione": null,
+    "lat": 45.55049,
+    "lon": 9.07349,
+    "coordinateApprossimate": true,
+    "descrizione": "Rassegna di serate musicali organizzate da UNI TER per staccare dalla routine e lasciarsi trasportare dalla musica. Le serate si svolgono in diversi spazi tra cui Casa delle Associazioni, Auditorium Aldo Moro e Agorà.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "UNI TER",
+    "fonti": [
+      {
+        "nome": "Comune di Arese",
+        "tipo": "ufficiale",
+        "url": "https://comune.arese.mi.it/vivere-il-comune/evento/serate-musicali-uni-ter",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "asola-on-ice-asola",
+    "titolo": "Asola on ice!",
+    "categoria": "sport",
+    "inizio": "2026-11-28",
+    "fine": "2027-01-10",
+    "luogo": "Piazza XX Settembre",
+    "indirizzo": "Piazza XX Settembre",
+    "cap": null,
+    "comune": "020002",
+    "frazione": null,
+    "lat": 45.21937,
+    "lon": 10.43,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa natalizia che trasforma Piazza XX Settembre in una pista di pattinaggio sul ghiaccio. Aperta a grandi e piccoli per trascorrere il periodo festivo nel centro storico.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Pro Loco di Asola",
+    "fonti": [
+      {
+        "nome": "Comune di Asola",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.asola.mn.it/vivere-il-comune/eventi/asola-on-ice-2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "la-gentilezza-come-incontro-pietra-ligure",
+    "titolo": "La gentilezza come incontro",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T17:00",
+    "fine": "2026-12-03T18:00",
+    "luogo": "Palazzo Municipale",
+    "indirizzo": "Piazza Martiri della Libertà, 30",
+    "cap": null,
+    "comune": "009049",
+    "frazione": null,
+    "lat": 44.15859,
+    "lon": 8.25727,
+    "coordinateApprossimate": true,
+    "descrizione": "Conferenza all'interno del Grow Festival. Psicologhe del Centro Clinico Le Vele trattano il tema della gentilezza come incontro, esplorando l'ascolto e l'incoraggiamento dell'altro. Ingresso libero senza prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pietra Ligure",
+    "fonti": [
+      {
+        "nome": "Comune di Pietra Ligure",
+        "tipo": "ufficiale",
+        "url": "https://comune.pietraligure.sv.it/vivere-il-comune/evento/la-gentilezza-come-incontro",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-del-corpo-musicale-di-pontoglio-natale-all-avventura-pontoglio",
+    "titolo": "Concerto del Corpo Musicale di Pontoglio Natale all'avventura",
+    "categoria": "concerto",
+    "inizio": "2026-12-13T16:00",
+    "fine": null,
+    "luogo": "Teatro dell'Oratorio S. G. Bosco",
+    "indirizzo": "Pontoglio",
+    "cap": null,
+    "comune": "017150",
+    "frazione": null,
+    "lat": 45.56217,
+    "lon": 9.85643,
+    "coordinateApprossimate": true,
+    "descrizione": "Il Corpo Musicale di Pontoglio presenta lo spettacolo natalizio 'Natale all'avventura'. L'evento è diretto dal Maestro Mario Scolari, con Chiara Scolari come presentatrice e voce narrante. Aperto alla cittadinanza.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Corpo Musicale di Pontoglio",
+    "fonti": [
+      {
+        "nome": "Comune di Pontoglio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pontoglio.bs.it/vivere-il-comune/eventi/concerto-del-corpo-musicale-di-pontoglio-natale-allavventura-il-13122026-ore-1600-teatro-delloratorio",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pomeriggio-di-pesca-per-ragazzi-fino-a-16-anni-pontoglio",
+    "titolo": "Pomeriggio di pesca per ragazzi fino a 16 anni",
+    "categoria": "bambini",
+    "inizio": "2026-11-28T14:00",
+    "fine": null,
+    "luogo": "Laghetto di Pontoglio",
+    "indirizzo": "via G. Matteotti",
+    "cap": null,
+    "comune": "017150",
+    "frazione": null,
+    "lat": 45.56217,
+    "lon": 9.85643,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa sportiva e ricreativa per ragazzi fino a 16 anni, organizzata dal Comune di Pontoglio in collaborazione con la Federazione Italiana della Caccia. È richiesta l'iscrizione gratuita e i bambini devono essere accompagnati da un adulto. I partecipanti devono portare la propria canna da pesca.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Pontoglio",
+    "fonti": [
+      {
+        "nome": "Comune di Pontoglio",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pontoglio.bs.it/vivere-il-comune/eventi/pomeriggio-di-pesca-per-ragazzi-fino-16-anni",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "povegliano-di-luci-a-natale-povegliano",
+    "titolo": "Povegliano di luci a Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-12-13T10:00",
+    "fine": "2026-12-13T18:00",
+    "luogo": "Piazza Municipio",
+    "indirizzo": "Povegliano",
+    "cap": null,
+    "comune": "026062",
+    "frazione": null,
+    "lat": 45.75477,
+    "lon": 12.19185,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino di Natale in Piazza Municipio con consegna delle letterine a Babbo Natale, distribuzione di panini caldi e crepes, spettacoli di magia e letture per bambini. In caso di maltempo l'evento si sposta alla Pro Loco di Sant'Andrea.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Povegliano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.povegliano.tv.it/eventi/13-dicembre-mercatini.html",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uncinetto-in-oratorio-povegliano",
+    "titolo": "Uncinetto in oratorio",
+    "categoria": "bambini",
+    "inizio": "2026-11-18",
+    "fine": "2027-06-30",
+    "luogo": "Oratorio Circolo NOI di Camalò",
+    "indirizzo": "Povegliano",
+    "cap": null,
+    "comune": "026062",
+    "frazione": null,
+    "lat": 45.75477,
+    "lon": 12.19185,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di uncinetto \"Far e desfar el se tuto un lavorar\" della serie Labirinto Cromatico (2a edizione). Si svolge ogni mercoledì a partire da novembre 2026 e si concluderà con l'installazione dell'opera a luglio 2027.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 35
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Povegliano",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.povegliano.tv.it/eventi/uncinetto-oratorio.html",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presentazione-del-libro-le-milanesi-ribelli-ranica",
+    "titolo": "Presentazione del libro “Le milanesi ribelli”",
+    "categoria": "conferenza",
+    "inizio": "2026-12-11T21:00",
+    "fine": "2026-12-11T23:00",
+    "luogo": "Auditorium Comunale Roberto Gritti",
+    "indirizzo": "Passaggio Sciopero di Ranica 1909, 24020 Ranica BG",
+    "cap": null,
+    "comune": "016178",
+    "frazione": null,
+    "lat": 45.72807,
+    "lon": 9.71175,
+    "coordinateApprossimate": true,
+    "descrizione": "Presentazione del libro 'Le milanesi ribelli. Storie di donne che hanno fatto e fanno la Milano di oggi' con interventi di Fiorenza Pistocchi e Federica Molteni, coordinati da Francesca Bolazzi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Ranica",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.ranica.bg.it/it/eventi/presentazione-del-libro-le-milanesi-ribelli",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-del-passato-arti-e-ingegno-rio-saliceto",
+    "titolo": "Mercatino del passato, arti e ingegno",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29",
+    "fine": "2026-11-29",
+    "luogo": "Piazza Carducci",
+    "indirizzo": "Rio Saliceto",
+    "cap": null,
+    "comune": "035034",
+    "frazione": null,
+    "lat": 44.82717,
+    "lon": 10.80361,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata dedicata ad antiquariato, collezionismo e oggetti vintage con area di riuso. L'appuntamento coinvolge hobbisti e operatori autorizzati, offrendo l'opportunità di trovare oggetti d'epoca e supportare il commercio locale sostenibile.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rio Saliceto",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.riosaliceto.re.it/it/eventi/mercatino-del-passato-arti-e-ingegno",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "aspettando-il-natale-in-biblioteca-rivanazzano-terme",
+    "titolo": "Aspettando il natale...in biblioteca",
+    "categoria": "bambini",
+    "inizio": "2026-12-05T10:30",
+    "fine": "2026-12-05T13:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Indipendenza, 14, 27055 Rivanazzano Terme PV, Italia",
+    "cap": null,
+    "comune": "018122",
+    "frazione": null,
+    "lat": 44.93129,
+    "lon": 9.01821,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio di lettura per bambini dai 6 agli 11 anni. Si legge una storia di Natale con il kamishibai, un teatro di immagini, seguito da un piccolo laboratorio creativo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rivanazzano Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rivanazzanoterme.pv.it/it/eventi/aspettando-il-natale-in-biblioteca-735783",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "dove-abita-il-natale-un-magico-viaggio-tra-casette-e-fantasia-rivanazzano-terme",
+    "titolo": "Dove abita il natale...Un magico viaggio tra casette e fantasia",
+    "categoria": "bambini",
+    "inizio": "2026-12-12T10:00",
+    "fine": "2026-12-12T13:00",
+    "luogo": "Biblioteca Civica",
+    "indirizzo": "Via Indipendenza, 14, 27055 Rivanazzano Terme PV, Italia",
+    "cap": null,
+    "comune": "018122",
+    "frazione": null,
+    "lat": 44.93129,
+    "lon": 9.01821,
+    "coordinateApprossimate": true,
+    "descrizione": "Laboratorio creativo per bambini dai 6 anni in su a cura di Sonia Delponte. Il tema è il viaggio tra casette e fantasia legato al periodo natalizio.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Rivanazzano Terme",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rivanazzanoterme.pv.it/it/eventi/dove-abita-il-natale-un-magico-viaggio-tra-casette-e-fantasia",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bibliogames-rivolta-d-adda",
+    "titolo": "Bibliogames",
+    "categoria": "sport",
+    "inizio": "2026-12-03T20:00",
+    "fine": "2026-12-03T22:00",
+    "luogo": "Biblioteca Comunale \"Carlo Bertolazzi\"",
+    "indirizzo": "Via Stefano Renzi, 5",
+    "cap": null,
+    "comune": "019084",
+    "frazione": null,
+    "lat": 45.45997,
+    "lon": 9.5133,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro dedicato ai giochi di ruolo e da tavolo, pensato per ragazzi dai 12 anni e adulti di tutte le età, organizzato dall'associazione Rivolta d'Adda NERD.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Rivolta d'Adda NERD",
+    "fonti": [
+      {
+        "nome": "Comune di Rivolta d'Adda",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rivoltadadda.cr.it/it/eventi/bibliogames-735467",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-testo-unico-del-turismo-e-il-regolamento-di-attuazione-rufina",
+    "titolo": "Il Testo unico del Turismo e il Regolamento di attuazione",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T10:30",
+    "fine": "2026-12-03T13:30",
+    "luogo": "Villa di Poggio Reale",
+    "indirizzo": "Viale Duca della Vittoria 7 - 50068 Rufina",
+    "cap": null,
+    "comune": "048037",
+    "frazione": null,
+    "lat": 43.81787,
+    "lon": 11.53369,
+    "coordinateApprossimate": true,
+    "descrizione": "Convegno dedicato ai titolari di strutture ricettive e operatori turistici, con interventi dei sindaci di Rufina, Pontassieve e Pelago e della responsabile area turismo di Confcommercio Firenze-Arezzo.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Confcommercio Firenze-Arezzo",
+    "fonti": [
+      {
+        "nome": "Comune di Rufina",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.rufina.fi.it/vivere-il-comune/eventi/il-testo-unico-del-turismo-e-il-regolamento-di-attuazione",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-di-natale-2026-san-benigno-canavese",
+    "titolo": "Mercatino di Natale 2026",
+    "categoria": "mercatino",
+    "inizio": "2026-11-29T10:00",
+    "fine": "2026-11-29T22:00",
+    "luogo": "Territorio comunale",
+    "indirizzo": "San Benigno Canavese",
+    "cap": null,
+    "comune": "001236",
+    "frazione": null,
+    "lat": 45.23199,
+    "lon": 7.78632,
+    "coordinateApprossimate": true,
+    "descrizione": "Evento natalizio con trenino gratuito, musica, Babbo Natale, pony e truccabimbi. Prevede area food con arrosticini e salamelle a partire dalle 11:00 e visite guidate all'Abbazia di Fruttuaria nel pomeriggio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assoc. Selva Gerulfa",
+    "fonti": [
+      {
+        "nome": "Comune di San Benigno Canavese",
+        "tipo": "ufficiale",
+        "url": "https://comune.sanbenignocanavese.to.it/eventi/mercatino-di-natale-2026",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiera-nazionale-del-tartufo-bianco-san-damiano-d-asti",
+    "titolo": "Fiera Nazionale del Tartufo Bianco",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-06",
+    "luogo": "Piazza Libertà",
+    "indirizzo": "Piazza Libertà, 2, 14015 San Damiano d'Asti AT, Italia",
+    "cap": null,
+    "comune": "005097",
+    "frazione": null,
+    "lat": 44.84548,
+    "lon": 8.05199,
+    "coordinateApprossimate": true,
+    "descrizione": "Fiera dedicata al tartufo bianco, che si svolge a San Damiano d'Asti. Include eventi legati al mondo del tartufo e si rivolge a tutto il pubblico. L'evento è gratuito e si tiene presso la piazza principale del comune.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Damiano d'Asti",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sandamiano.at.it/it/eventi/fiera-nazionale-del-tartufo-bianco",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "eventi-natalizi-2026-san-damiano-d-asti",
+    "titolo": "Eventi natalizi 2026",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-05",
+    "fine": "2027-01-06",
+    "luogo": "Piazza Libertà",
+    "indirizzo": "Piazza Libertà, 14015 San Damiano d'Asti AT, Italia",
+    "cap": null,
+    "comune": "005097",
+    "frazione": null,
+    "lat": 44.84548,
+    "lon": 8.05199,
+    "coordinateApprossimate": true,
+    "descrizione": "Serie di appuntamenti dedicati al Natale e alle sue tradizioni, che includono eventi come l'accensione dell'albero e la fiera del cappone. Rivolto a famiglie e a tutto il pubblico, l'evento si svolge a San Damiano d'Asti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Damiano d'Asti",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sandamiano.at.it/it/eventi/eventi-natalizi-2026",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-do-san-fior",
+    "titolo": "Giornata internazionale per l'eliminazione della violenza contro le donne",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T17:30",
+    "fine": "2026-11-29T19:30",
+    "luogo": "Sala polifunzionale del Municipio",
+    "indirizzo": "Piazza Guglielmo Marconi, 2",
+    "cap": null,
+    "comune": "026072",
+    "frazione": null,
+    "lat": 45.90583,
+    "lon": 12.36346,
+    "coordinateApprossimate": true,
+    "descrizione": "Iniziativa di sensibilizzazione sulla violenza di genere realizzata dal Comune di San Fior e dall'Associazione Musicale Sanfiorese. L'evento si svolge nella sala polifunzionale del municipio con un incontro all'insegna di musica e cultura.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di San Fior, Associazione Musicale Sanfiorese",
+    "fonti": [
+      {
+        "nome": "Comune di San Fior",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.san-fior.tv.it/vivere-il-comune/eventi/giornata-internazionale-per-leliminazione-della-violenza-contro-le-donne",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "sannicolibri-2026-san-fior",
+    "titolo": "Sannicolibri 2026",
+    "categoria": "bambini",
+    "inizio": "2026-12-04T15:00",
+    "fine": "2026-12-04T19:30",
+    "luogo": "Sala polifunzionale del Municipio",
+    "indirizzo": "Piazza Guglielmo Marconi, 2",
+    "cap": null,
+    "comune": "026072",
+    "frazione": null,
+    "lat": 45.90583,
+    "lon": 12.36346,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra del libro curata dalla Libreria Chiodo Fisso e letture animate dedicate a bambini dai 3 ai 10 anni e alle loro famiglie. L'evento è organizzato dall'Assessorato alla cultura e dalla Biblioteca di San Fior.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Assessorato alla cultura, Biblioteca di San Fior",
+    "fonti": [
+      {
+        "nome": "Comune di San Fior",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.san-fior.tv.it/vivere-il-comune/eventi/sannicolibri2026",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accensione-del-presepe-2026-san-fior",
+    "titolo": "Accensione del presepe 2026",
+    "categoria": "cerimonia",
+    "inizio": "2026-12-08",
+    "fine": null,
+    "luogo": "Parco della Rimembranza",
+    "indirizzo": "San Fior",
+    "cap": null,
+    "comune": "026072",
+    "frazione": null,
+    "lat": 45.90583,
+    "lon": 12.36346,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di accensione del presepe natalizio 2026. La giornata inizia con la Santa Messa seguita dalla cerimonia simbolica di accensione presso il parco dedicato alla rimembranza della comunità.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Fior",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.san-fior.tv.it/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-natale-si-accende-con-il-minibasket-san-giorgio-delle-pertiche",
+    "titolo": "Il Natale si accende con il Minibasket!",
+    "categoria": "sport",
+    "inizio": "2026-11-29T16:00",
+    "fine": "2026-11-29T17:30",
+    "luogo": "Palestra della scuola primaria G. Pascoli di Arsego",
+    "indirizzo": "Via Roma 364 - 35010 San Giorgio delle Pertiche PD",
+    "cap": null,
+    "comune": "028075",
+    "frazione": null,
+    "lat": 45.53652,
+    "lon": 11.8923,
+    "coordinateApprossimate": true,
+    "descrizione": "Pomeriggio dedicato al Minibasket per bambini e bambine nati tra il 2018 e il 2021, con attività di gioco e merenda offerta. L'evento si svolge in concomitanza con i mercatini di Natale di Arsego.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Trivium Basket",
+    "fonti": [
+      {
+        "nome": "Comune di San Giorgio delle Pertiche",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sangiorgiodellepertiche.pd.it/vivere-il-comune/eventi/il-natale-si-accende-con-il-minibasket",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "fiera-di-santa-lucia-san-giovanni-in-marignano",
+    "titolo": "Fiera di Santa Lucia",
+    "categoria": "sagra",
+    "inizio": "2026-12-12",
+    "fine": "2026-12-13",
+    "luogo": "Centro storico",
+    "indirizzo": "Vicoli e piazze del borgo di San Giovanni in Marignano",
+    "cap": null,
+    "comune": "099017",
+    "frazione": null,
+    "lat": 43.93489,
+    "lon": 12.70689,
+    "coordinateApprossimate": true,
+    "descrizione": "L'evento più antico di San Giovanni in Marignano, che unisce devozione e cultura contadina. Nata secoli fa attorno all'Abbazia al Moscolo, oggi è un'occasione per la magia del Natale con la presenza di centinaia di volontari.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di San Giovanni in Marignano",
+        "tipo": "ufficiale",
+        "url": "https://comune.san-giovanni-in-marignano.rn.it/vivere-il-comune/eventi/fiera-di-santa-lucia",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "truffe-agli-anziani-san-paolo-d-argon",
+    "titolo": "Truffe agli anziani",
+    "categoria": "conferenza",
+    "inizio": "2026-12-09T20:30",
+    "fine": "2026-12-09T23:00",
+    "luogo": "Biblioteca comunale di San Paolo d'Argon",
+    "indirizzo": "Sala Laboratori, ingresso via Papa Giovanni XXIII",
+    "cap": null,
+    "comune": "016189",
+    "frazione": null,
+    "lat": 45.68616,
+    "lon": 9.80318,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di divulgazione aperto a tutta la cittadinanza sul tema della prevenzione e del contrasto delle truffe che colpiscono la fascia anagrafica degli anziani.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Ufficio Scuola e Cultura",
+    "fonti": [
+      {
+        "nome": "Comune di San Paolo d'Argon",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.sanpaolodargon.bg.it/vivere-il-comune/eventi/dettaglio-evento/Truffe-agli-anziani-00001",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
   }
 ]
