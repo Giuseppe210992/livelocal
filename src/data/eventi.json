@@ -414677,5 +414677,272 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pranzo-single-di-gala-in-atmosfera-natalizia-massa-lombarda",
+    "titolo": "Pranzo single di gala in atmosfera Natalizia !",
+    "categoria": "sagra",
+    "inizio": "2026-12-13T12:00",
+    "fine": "2026-12-13T18:00",
+    "luogo": "Ristorante Sul Bacino",
+    "indirizzo": "Via Martiri della Libertà, 69",
+    "cap": null,
+    "comune": "039013",
+    "frazione": null,
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Pranzo di gala natalizio per single presso il Ristorante Sul Bacino. Il menù prevede un super menu a base di pesce in sala allestita a tema, con aperitivo a bordo piscina e bagno in piscina riscaldata. Musica e danze durante la serata.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 55
+    },
+    "prenotazione": null,
+    "organizzatore": "Serata Dei Single in Tour",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Massa Lombarda",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-pranzo-single-di-gala-in-atmosfera-natalizia-massa-lombarda-ra",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "natale-single-a-pranzo-in-saletta-riservata-al-ristorante-sul-bacino-d-massa-lombarda",
+    "titolo": "Natale single a pranzo in saletta riservata al Ristorante Sul Bacino di Massa Lombarda di Ravenna!",
+    "categoria": "sagra",
+    "inizio": "2026-12-25T12:15",
+    "fine": "2026-12-25T17:30",
+    "luogo": "Ristorante Sul Bacino",
+    "indirizzo": "Via Martiri della Libertà, 69",
+    "cap": null,
+    "comune": "039013",
+    "frazione": null,
+    "lat": 44.46154,
+    "lon": 11.81432,
+    "coordinateApprossimate": true,
+    "descrizione": "Pranzo di Natale per single in saletta riservata. Possibilità di scegliere tra menu tradizionale o menu di pesce, entrambi con bevande incluse. Atmosfera festiva in sala allestita a tema natalizio per trascorrere il giorno della festa in compagnia.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 44
+    },
+    "prenotazione": null,
+    "organizzatore": "Serata Dei Single in Tour",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Massa Lombarda",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-natale-single-a-pranzo-in-saletta-riservata-al-ristorante-sul-bacino-di-massa-lombarda-di-ravenna-ra",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "iiia-expo-felina-internazionale-citta-di-nizza-monferrato-nizza-monferrato",
+    "titolo": "Iiia Expo Felina Internazionale Citta' Di Nizza Monferrato",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-29T18:00",
+    "luogo": "Foro Boario \"Pio Corsi\"",
+    "indirizzo": "Piazza Garibaldi - 14049 Nizza Monferrato (AT)",
+    "cap": null,
+    "comune": "005080",
+    "frazione": null,
+    "lat": 44.7696,
+    "lon": 8.35501,
+    "coordinateApprossimate": true,
+    "descrizione": "La terza edizione dell'Esposizione Internazionale Felina porta a Nizza Monferrato gatti da ogni parte del mondo per due giornate dedicate alla bellezza felina. L'evento, inserito nel contesto del Monferrato UNESCO, offre l'occasione per gustare buon cibo e vini locali, con gatti in passerella per gli espositori e una meta da scoprire per gli appassionati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ExpoFeline Piemonte",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Nizza Monferrato",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-iiia-expo-felina-internazionale-citta-di-nizza-monferrato-at",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "trl-tributo-anni-90-winter-village-conselve",
+    "titolo": "Trl Tributo Anni 90 Winter Village",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": "2026-11-28T23:30",
+    "luogo": "Winter Village",
+    "indirizzo": "Via Monsignor Francesco Beggiato, 60,62",
+    "cap": null,
+    "comune": "028034",
+    "frazione": null,
+    "lat": 45.2286,
+    "lon": 11.87962,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo musicale dedicato agli anni '90 con il tributo TRL Band, che ripercorre le hit che hanno fatto la storia della decade, ospitato dal Winter Village di Conselve.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "TRL Band - Le hit anni '90 che hanno fatto la storia, Free Radio Conselve",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Conselve",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-trl-tributo-anni-90-winter-village-conselve-pd",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "duran-duranies-live-la-notte-anni-80-italo-disco-live-conselve",
+    "titolo": "Duran Duranies Live – La Notte Anni ’80 & Italo Disco Live",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T21:30",
+    "fine": "2026-12-05T23:30",
+    "luogo": "Sisto Bar Birreria",
+    "indirizzo": "Via Giacomo Matteotti, 119",
+    "cap": null,
+    "comune": "028034",
+    "frazione": null,
+    "lat": 45.2286,
+    "lon": 11.87962,
+    "coordinateApprossimate": true,
+    "descrizione": "Live musicale con il tributo Duran Duranies, che propone i successi dei Duran Duran e brani di Spandau Ballet, Wham!, Den Harrow e Gazebo, con un'atmosfera dedicata alla musica anni '80 e Italo Disco.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "BIG TUNA Entertainment & Booking Agency",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Conselve",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-duran-duranies-live-la-notte-anni-80-italo-disco-live-sisto-bar-conselve-pd",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lectio-divina-in-ascolto-della-parola-altofonte",
+    "titolo": "Lectio Divina – in ascolto della Parola",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T21:15",
+    "fine": "2026-12-03T22:30",
+    "luogo": "Teatro Parrocchiale di Piano Maglio",
+    "indirizzo": "Viale del Fante - 90072 Altofonte (PA)",
+    "cap": null,
+    "comune": "082005",
+    "frazione": null,
+    "lat": 38.03341,
+    "lon": 13.3193,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro di preghiera Lectio Divina aperto a chiunque voglia rimettersi in cammino alla luce della Parola di Dio. Si richiede di portare Bibbia, quaderno e penna. Appuntamento settimanale del giovedì serale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Parrocchie Maria SS. del Rosario Villaciambra e San Giuseppe Piano Maglio",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Altofonte",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lectio-divina-in-ascolto-della-parola-altofonte-pa",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lo-smanet-12-13-dicembre-gambettola",
+    "titolo": "Lo Smanèt 12 – 13 dicembre",
+    "categoria": "mercatino",
+    "inizio": "2026-12-12T10:00",
+    "fine": "2026-12-13T20:00",
+    "luogo": "La Fragola de Bosch",
+    "indirizzo": "Via sotto Rigossa, 47035 Gambettola (FC)",
+    "cap": null,
+    "comune": "040015",
+    "frazione": null,
+    "lat": 44.11835,
+    "lon": 12.34768,
+    "coordinateApprossimate": true,
+    "descrizione": "Christmas market di artigianato indipendente tenutosi all'interno della serra della Fragola de Bosch. L'evento presenta oltre 50 artigiani, scenografie immersive, microspettacoli e proposte di street food e bar. L'ingresso è a pagamento per gli adulti e gratuito per i bambini sotto i 10 anni e le persone con disabilità.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 4
+    },
+    "prenotazione": null,
+    "organizzatore": "Lo Smanèt",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gambettola",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-lo-smanet-12-13-dicembre-gambettola-fc",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gambettola-country-fulgor-gambettola",
+    "titolo": "Gambettola Country @Fulgor",
+    "categoria": "teatro",
+    "inizio": "2026-12-11T20:30",
+    "fine": "2026-12-11T22:30",
+    "luogo": "Sala Fulgor",
+    "indirizzo": "Via A. Ravaldini, 3 - 47035 Gambettola (FC)",
+    "cap": null,
+    "comune": "040015",
+    "frazione": null,
+    "lat": 44.11835,
+    "lon": 12.34768,
+    "coordinateApprossimate": true,
+    "descrizione": "Serata di ballo country con la scuola Wild Angels, incentrata su ripassi e insegnamento del ballo di coppia Polka delle manine. L'evento include le insegnanti Elisa e Claudia in pista e il dj Arianna in consolle, con bar aperto. L'accesso è riservato ai tesserati ASI Country e affiliati.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Wild Angels country dance",
+    "fonti": [
+      {
+        "nome": "cheventi.it: Gambettola",
+        "tipo": "aggregatore",
+        "url": "https://www.cheventi.it/eventi/2026-gambettola-country-fulgor-fc",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
   }
 ]
