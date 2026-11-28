@@ -409350,5 +409350,61 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-segreto-dei-fossili-collezione-di-geologia-museo-capellini-bologna-2026-11-28",
+    "titolo": "«Il segreto dei fossili»: mostra al Museo Capellini",
+    "categoria": "mostra",
+    "inizio": "2026-11-28",
+    "fine": "2027-05-30",
+    "luogo": "Collezione di Geologia «Museo Giovanni Capellini»",
+    "indirizzo": "via Zamboni 63",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra su provenienza, documentazione e tutela dei reperti fossili, con un cranio di triceratopo (esposto fino al 6 gennaio 2027) e altri fossili straordinari. Si visita con il biglietto d'ingresso alla Collezione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Sistema Museale di Ateneo, Università di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Sistema Museale di Ateneo su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgPo6V6oBg7/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "le-fabbriche-verdi-solo-un-mito-lectio-guido-canali-accademia-di-san-luca-roma-2026-12-03",
+    "titolo": "«Le fabbriche verdi: solo un mito?» lectio magistralis di Guido Canali",
+    "categoria": "conferenza",
+    "inizio": "2026-12-03T17:30",
+    "luogo": "Accademia Nazionale di San Luca",
+    "comune": "058091",
+    "lat": 41.90028,
+    "lon": 12.48278,
+    "coordinateApprossimate": true,
+    "descrizione": "Lezione dell'architetto Guido Canali sui luoghi del lavoro e il rapporto con il paesaggio, con presentazione di Francesco Cellini e introduzione di Claudia Conforti.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Accademia Nazionale di San Luca",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Accademia Nazionale di San Luca su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgP0ZX9t5_Q/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
