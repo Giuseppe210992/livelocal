@@ -404816,5 +404816,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "passaggi-d-autore-intrecci-mediterranei-festival-del-cinema-sant-antioco-2026-12-03",
+    "titolo": "Passaggi d'Autore – Intrecci Mediterranei: festival del cinema",
+    "categoria": "mostra",
+    "inizio": "2026-12-03",
+    "luogo": "Sant'Antioco",
+    "comune": "119020",
+    "lat": 39.03265,
+    "lon": 8.42905,
+    "coordinateApprossimate": true,
+    "descrizione": "Ventiduesima edizione del festival che porta sul grande schermo storie, volti e culture di tutto il Mediterraneo, dal 3 all'8 dicembre.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Passaggi d'Autore",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Visit Sant'Antioco su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPTuA0nUvY/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia",
+    "fine": "2026-12-08"
+  },
+  {
+    "slug": "sognando-tra-le-note-concerto-lirico-villa-butera-sala-martorana-fumagalli-bagheria-2026-12-05",
+    "titolo": "«Sognando tra le note»: concerto lirico a villa Butera",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T18:30",
+    "luogo": "Sala Martorana-Fumagalli, Villa Butera",
+    "comune": "082006",
+    "lat": 38.07619,
+    "lon": 13.49711,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto tra arie d'opera, operetta e classici napoletani, nel calendario del bicentenario di Bagheria (1826-2026). La voce narrante è dell'attore Tommaso Gioietta, con il soprano Elisabetta Giammanco, il tenore Domenico Ghegghi, Girolamo Lampasona al violino e Alessandro Valenza al pianoforte. Ingresso libero fino a esaurimento posti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Bagheria",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Bagheria su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPjWijjVKw/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
