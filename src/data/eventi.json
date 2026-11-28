@@ -412335,5 +412335,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "blow-up-di-antonioni-60-anni-cinema-modernissimo-bologna-2026-12-18",
+    "titolo": "«Blow-up» di Antonioni per i 60 anni del film",
+    "categoria": "conferenza",
+    "inizio": "2026-12-18T21:30",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione di «Blow-up» di Michelangelo Antonioni per il 60° anniversario del film, nella programmazione della Cineteca di Bologna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Cineteca di Bologna su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgNrctdCmFq/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "concerto-dei-civici-cori-basilica-di-san-vincenzo-in-prato-milano-2026-11-28",
+    "titolo": "Concerto dei Civici Cori di Milano",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T16:00",
+    "luogo": "Basilica di San Vincenzo in Prato",
+    "indirizzo": "via Daniele Crespi 6",
+    "comune": "015146",
+    "lat": 45.46841,
+    "lon": 9.17304,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto corale nella Basilica di San Vincenzo in Prato, diretto da Mario Valsecchi con i maestri preparatori Francesco Girardi e Fabio Zanbon.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Spazio DiLà",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Spazio DiLà su Instagram",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/reel/DgNZWkwIpi4/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
