@@ -410040,5 +410040,86 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "knit-portfolio-palazzo-dei-musei-reggio-emilia-2026-11-28",
+    "titolo": "«KNIT Portfolio» al Palazzo dei Musei",
+    "categoria": "mostra",
+    "inizio": "2026-11-28T11:00",
+    "luogo": "Palazzo dei Musei",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "I designer del Master in Creative Knitwear Design di Accademia Costume & Moda illustrano al pubblico il progetto realizzato per la mostra «KNIT. Intrecciare il passato per nostalgia del Futuro». Fa parte del ciclo «Notizie dal mondo. Ospitare oggetti, persone, culture».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Musei Civici di Reggio Emilia su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgQHQVDDjku/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "knit-portfolio-palazzo-dei-musei-reggio-emilia-2026-11-29",
+    "titolo": "«KNIT Portfolio» al Palazzo dei Musei (replica)",
+    "categoria": "mostra",
+    "inizio": "2026-11-29T16:00",
+    "luogo": "Palazzo dei Musei",
+    "comune": "035033",
+    "lat": 44.69741,
+    "lon": 10.63445,
+    "coordinateApprossimate": true,
+    "descrizione": "Replica dell'incontro con i designer del Master in Creative Knitwear Design di Accademia Costume & Moda sul progetto realizzato per la mostra «KNIT. Intrecciare il passato per nostalgia del Futuro».",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Musei Civici di Reggio Emilia",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Musei Civici di Reggio Emilia su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgQHQVDDjku/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "il-cacciatore-di-michael-cimino-cinema-modernissimo-bologna-2026-11-29",
+    "titolo": "«Il cacciatore» di Michael Cimino al Modernissimo",
+    "categoria": "conferenza",
+    "inizio": "2026-11-29T20:30",
+    "luogo": "Cinema Modernissimo",
+    "comune": "037006",
+    "lat": 44.49802,
+    "lon": 11.3333,
+    "coordinateApprossimate": true,
+    "descrizione": "Proiezione del film «Il cacciatore» (USA, 1978) di Michael Cimino, epopea sul trauma della guerra del Vietnam, nella programmazione della Cineteca di Bologna.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Cineteca di Bologna",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Cineteca di Bologna su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgNGtmWkQJW/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
