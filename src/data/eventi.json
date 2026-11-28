@@ -415393,5 +415393,60 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cittadini-sentinelle-delle-frane-aula-magna-politecnico-lecco-2026-12-02",
+    "titolo": "«Cittadini sentinelle delle frane»: incontro sul progetto TWINFALL",
+    "categoria": "conferenza",
+    "inizio": "2026-12-02T18:30",
+    "luogo": "Aula Magna del Polo territoriale di Lecco del Politecnico di Milano",
+    "comune": "097042",
+    "lat": 45.85777,
+    "lon": 9.42254,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro sul progetto di ricerca TWINFALL, che coinvolge i cittadini nel monitoraggio delle frane con una postazione fotografica sulla ciclabile delle Caviate. Ingresso libero con registrazione tramite il modulo online.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "organizzatore": "Comune di Lecco",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Lecco su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPyJS8juLI/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "muracria-jam-vol-1-street-art-via-alfieri-ragusa-2026-11-28",
+    "titolo": "«Muracria – Jam vol. 1»: street art in via Alfieri",
+    "categoria": "mostra",
+    "inizio": "2026-11-28",
+    "fine": "2026-11-29",
+    "luogo": "Via Alfieri",
+    "comune": "088009",
+    "lat": 36.90686,
+    "lon": 14.66391,
+    "coordinateApprossimate": true,
+    "descrizione": "Due giornate di arte urbana con 15 artisti da tutta la Sicilia che realizzano opere ispirate al tema del Barocco. Evento del movimento artistico Muracria con il patrocinio del Comune di Ragusa.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Muracria",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Ragusa su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPoapAFZ1p/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
