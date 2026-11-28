@@ -415160,5 +415160,238 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "solomacello-party-con-viscera-e-sothiac-duo-in-concerto-milano",
+    "titolo": "Solomacello Party con Viscerà e SotHiac Duo in concerto",
+    "categoria": "concerto",
+    "inizio": "2026-12-05T20:00",
+    "fine": null,
+    "luogo": "Headbangers",
+    "indirizzo": "Via Tito Livio 33a",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.450598,
+    "lon": 9.219953,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata metal con i concerti di Viscerà (Psychedelic Post Metal) e SotHiac Duo (Esoteric Doom/Brutal Drone), seguiti da una All Star Metal Music Selection fino a tarda notte. Ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Headbangers",
+    "fonti": [
+      {
+        "nome": "Headbangers",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgLObGcId_T",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "total-reverends-live-milano",
+    "titolo": "TOTAL REVERENDS live",
+    "categoria": "concerto",
+    "inizio": "2026-12-10T20:00",
+    "fine": null,
+    "luogo": "Nidaba Theatre",
+    "indirizzo": "Via Emilio Gola 12",
+    "cap": null,
+    "comune": "015146",
+    "frazione": null,
+    "lat": 45.448978,
+    "lon": 9.175648,
+    "coordinateApprossimate": false,
+    "descrizione": "Concerto rock‑blues dei TOTAL REVERENDS al Nidaba Theatre, presentazione del nuovo album con influenze anni ’70, alt‑rock e spiritual/blues. Due spettacoli in serata, ingresso gratuito con prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Nidaba Theatre",
+    "fonti": [
+      {
+        "nome": "Nidaba Theatre",
+        "tipo": "organizzatore",
+        "url": "https://nidaba.it/total-reverends-live-al-nidaba-theatre",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "pelliccia-bombardone-imola",
+    "titolo": "pelliccia & bombardone",
+    "categoria": "concerto",
+    "inizio": "2026-12-11T22:00",
+    "fine": null,
+    "luogo": "Otello",
+    "indirizzo": "Via Emilia 166",
+    "cap": null,
+    "comune": "037032",
+    "frazione": null,
+    "lat": 44.353645,
+    "lon": 11.713661,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata con dress code 'pelliccia' e musica dal vivo al bombardone. L'evento propone un'atmosfera invernale con calore musicale e stile.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Otello",
+    "fonti": [
+      {
+        "nome": "Otello",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgS0g4hCLON",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "gli-astronauti-serata-di-musica-dal-vivo-bacoli",
+    "titolo": "Gli Astronauti: serata di musica dal vivo",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T21:30",
+    "fine": null,
+    "luogo": "Cycas",
+    "indirizzo": "Via lidi Miliscola 13",
+    "cap": null,
+    "comune": "063006",
+    "frazione": null,
+    "lat": 40.793632,
+    "lon": 14.06843,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di musica live con la band Gli Astronauti. L'evento prevede l'esibizione della band con un repertorio da scoprire, accompagnata da drink e atmosfera coinvolgente nel locale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Cycas",
+    "fonti": [
+      {
+        "nome": "Cycas",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgFPc8QFVVc",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "cabaret-del-circolone-con-ruben-spezzati-legnano",
+    "titolo": "Cabaret del Circolone con Ruben Spezzati",
+    "categoria": "teatro",
+    "inizio": "2026-12-01",
+    "fine": null,
+    "luogo": "Circolo Fratellanza e Pace",
+    "indirizzo": "Via San Bernardino 12",
+    "cap": null,
+    "comune": "015118",
+    "frazione": null,
+    "lat": 45.588749,
+    "lon": 8.912154,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata di cabaret e comicità con la partecipazione di Ruben Spezzati, Margherita Antonelli, Max Pieriboni, Urbano Moffa e Rick e Miriam. Direzione artistica di Anna Prada.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Fratellanza e Pace",
+    "fonti": [
+      {
+        "nome": "Circolo Fratellanza e Pace",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgLXROnsmXw",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "venerdi-13-legnano",
+    "titolo": "Venerdì 13",
+    "categoria": "teatro",
+    "inizio": "2026-12-03T21:30",
+    "fine": null,
+    "luogo": "Circolo Fratellanza e Pace",
+    "indirizzo": "Via San Bernardino 12",
+    "cap": null,
+    "comune": "015118",
+    "frazione": null,
+    "lat": 45.588749,
+    "lon": 8.912154,
+    "coordinateApprossimate": false,
+    "descrizione": "Spettacolo teatrale di una commedia in atto unico di Jean-Pierre Martinez, adattata e diretta da Laura Ceravolo con la compagnia TIPI DA PALCO.",
+    "prezzo": {
+      "tipo": "euro",
+      "importo": 25
+    },
+    "prenotazione": null,
+    "organizzatore": "Circolo Fratellanza e Pace",
+    "fonti": [
+      {
+        "nome": "Circolo Fratellanza e Pace",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DgPtJjatiM0",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "christmas-dinner-show-con-umberto-rudy-smaila-bergamo",
+    "titolo": "Christmas Dinner Show con Umberto & Rudy Smaila",
+    "categoria": "concerto",
+    "inizio": "2026-12-18",
+    "fine": null,
+    "luogo": "BRÓ Eat.Drink",
+    "indirizzo": "Via dell'industria 6",
+    "cap": null,
+    "comune": "016024",
+    "frazione": null,
+    "lat": 45.667497,
+    "lon": 9.664806,
+    "coordinateApprossimate": false,
+    "descrizione": "Serata speciale per il Christmas Party con la presenza di Umberto Smaila e Rudy Smaila. L'evento include un dinner show con musica, spettacolo e cena per gli auguri di Natale.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "BRÓ Eat.Drink",
+    "fonti": [
+      {
+        "nome": "BRÓ Eat.Drink",
+        "tipo": "organizzatore",
+        "url": "https://www.instagram.com/p/DfUTNBfj6qp",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
   }
 ]
