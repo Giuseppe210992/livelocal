@@ -404222,5 +404222,32 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accensione-albero-di-natale-e-capanna-piazza-vittorio-emanuele-ii-lovere-2026-11-28",
+    "titolo": "Inizio del Natale a Lovere: accensione dell'albero e della capanna",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-28T17:00",
+    "luogo": "Piazza Vittorio Emanuele II",
+    "comune": "016128",
+    "lat": 45.81965,
+    "lon": 10.07075,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia in piazza per l'accensione dell'albero di Natale, decorato dai bambini delle scuole di Lovere, e della capanna allestita dalle scuole Capitanio e Bonomelli. Nello stesso momento si accendono le proiezioni artistiche dedicate a Lovere e al suo territorio, che animano le piazze.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Lovere",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Lovere su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPoBr_oXrB/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
