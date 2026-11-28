@@ -406539,5 +406539,830 @@
     ],
     "inserito": "2026-11-28",
     "inseritoDa": "ia"
+  },
+  {
+    "slug": "vanzetti-sacco-francavilla-fontana-03-02",
+    "titolo": "Vanzetti & Sacco",
+    "categoria": "teatro",
+    "inizio": "2027-02-03T21:00",
+    "fine": null,
+    "luogo": "Teatro Italia",
+    "indirizzo": "Via Santa Cesarea",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Raffaele Braia e Valerio Tambone. Il sipario è previsto per le ore 21:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "baby-reindeer-piccola-renna-francavilla-fontana-24-02",
+    "titolo": "Baby Reindeer / Piccola Renna",
+    "categoria": "teatro",
+    "inizio": "2027-02-24T21:00",
+    "fine": null,
+    "luogo": "Teatro Italia",
+    "indirizzo": "Via Santa Cesarea",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Francesco Mandelli. Il sipario è previsto per le ore 21:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "uno-nessuno-centomila-francavilla-fontana-25-02",
+    "titolo": "Uno Nessuno Centomila",
+    "categoria": "teatro",
+    "inizio": "2027-02-25T21:00",
+    "fine": null,
+    "luogo": "Teatro Italia",
+    "indirizzo": "Via Santa Cesarea",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale con Primo Reggiani, Francesca Valtorta, Jane Alexander, Fabrizio Bordignon e Enrico Ottaviano. Il sipario è previsto per le ore 21:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "puglia-donna-partecipa-empowerment-femminile-sviluppo-delle-competenze-francavilla-fontana",
+    "titolo": "Puglia Donna Partecipa - Empowerment femminile, sviluppo delle competenze personali e professionali",
+    "categoria": "conferenza",
+    "inizio": "2027-02-25T09:00",
+    "fine": "2027-02-25T18:00",
+    "luogo": "Biblioteca Comunale Community Library “Giovanni Calò”",
+    "indirizzo": "Francavilla Fontana",
+    "cap": null,
+    "comune": "074008",
+    "frazione": null,
+    "lat": 40.52981,
+    "lon": 17.56353,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro su empowerment femminile e sviluppo delle competenze, promosso dal Comune di Francavilla Fontana nell'ambito di Punti Cardinali FOR Work.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di Francavilla Fontana",
+    "fonti": [
+      {
+        "nome": "Comune di Francavilla Fontana",
+        "tipo": "ufficiale",
+        "url": "https://francavillafontana.comune.digital/eventi/c/0/i/98799850/puglia-donna-partecipa-empowerment-femminile-sviluppo-delle-competenze-personali-e-professionali-dalle-9-00-alle-18-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "il-tempo-che-passa-e-la-fatica-di-crescere-pistoia",
+    "titolo": "Il tempo che passa e la fatica di crescere",
+    "categoria": "conferenza",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T12:00",
+    "luogo": "Sede Associazioni",
+    "indirizzo": "Via dei Cancellieri, 24, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Incontro del ciclo 'Genitori in evoluzione' dedicato all'infanzia, a cura del Comitato Genitori Leonardo Da Vinci, Croce Rossa di Pistoia e Comune di Pistoia. La psicologa Emanuela Martini conduce la riflessione sul tema della crescita e della scuola.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comitato Genitori Leonardo Da Vinci, Croce Rossa di Pistoia, Comune di Pistoia",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/la-scuola-e-le-relazioni-2518843-2518844",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "premio-di-poesia-pietro-borgognoni-59-edizione-pistoia",
+    "titolo": "Premio di Poesia \"Pietro Borgognoni\" 59° edizione",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T10:30",
+    "fine": "2026-11-28T12:30",
+    "luogo": "Sala Maggiore - Palazzo Comunale",
+    "indirizzo": "Piazza del Duomo, 1, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di premiazione della 59ª edizione del Premio, con la partecipazione di 128 poeti. Interventi musicali dell'Ottetto di Ottoni della Filarmonica Borgognoni e presenza di fra Pietro Manaresi.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/premio-di-poesia-pietro-borgognoni-59-edizione",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "incanto-natalizio-pistoia",
+    "titolo": "Incanto natalizio",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T16:00",
+    "fine": "2026-11-28T17:30",
+    "luogo": "Chiesa di Sant'Andrea",
+    "indirizzo": "Via Sant'Andrea, 21, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto corale natalizio con la co-partecipazione del coro Pistoia Gospel Singers, diretto da Silvia Benesperi. Organizzato dal Coro Genzianella aps di Pistoia, diretto da Rebecca Scorcelletti.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Coro Genzianella aps di Pistoia",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/incanto-natalizio",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "truffattori-pistoia",
+    "titolo": "TruffAttori",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T16:30",
+    "fine": "2026-11-28T18:30",
+    "luogo": "Chiesa della Beata Vergine Maria - Loc. La Vergine",
+    "indirizzo": "P.za della Vergine, 2, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione teatrale originale con regia di Giuseppe Golisano, che affronta il tema delle truffe agli anziani. L'evento conclude il progetto di prevenzione e contrasto alle truffe agli anziani 2026.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Associazione Teatrale Zona Teatro Libero di Pistoia",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/truffattori",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "accensione-dell-albero-di-natale-e-delle-luminarie-pistoia",
+    "titolo": "Accensione dell’Albero di Natale e delle luminarie",
+    "categoria": "cerimonia",
+    "inizio": "2026-11-28T17:00",
+    "fine": "2026-11-28T18:30",
+    "luogo": "Piazza del Duomo",
+    "indirizzo": "Piazza del Duomo, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Cerimonia di accensione dell'abete bianco di 11 metri donato dall'Associazione dei Boscaioli Pistoiesi e delle luminarie cittadine, con intrattenimento musicale e racconti dei bambini delle scuole.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/cerimonia-di-accensione-dellalbero-di-natale",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "mercatino-di-natale-pistoia",
+    "titolo": "Mercatino di Natale",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T09:00",
+    "fine": "2026-11-29T19:30",
+    "luogo": "Piazza dello Spirito Santo",
+    "indirizzo": "Piazzetta Spirito Santo, 51100 Pistoia PT",
+    "cap": null,
+    "comune": "047014",
+    "frazione": null,
+    "lat": 43.97694,
+    "lon": 10.91555,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercato di artigianato e idee regalo aperto ai non professionisti, parte del programma 'Il Natale è di tutt*. Pistoia Città del Natale 2026'. Organizzato dall'Impresa individuale Bulli Marta.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Impresa individuale Bulli Marta",
+    "fonti": [
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "ufficiale",
+        "url": "https://www.comune.pistoia.it/it/eventi/mercatino-di-natale",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agora-della-locride-tradizione-locri",
+    "titolo": "Agorà della Locride – «Tradizione»",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-28T10:00",
+    "fine": "2026-11-28T23:59",
+    "luogo": "Palazzo Nieddu del Rio e Palazzo della Cultura",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda giornata di «Agorà della Locride». Include una visita guidata al Museo del Territorio alle 10:00, il concerto-spettacolo della Francesco Isola Band alle 16:30, un laboratorio di percussioni alle 17:00 e una degustazione guidata alle 19:30.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Senocrito",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98809803/agora-della-locride-tradizione-dalle-ore-10-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "calici-sotto-le-stelle-festa-del-vino-locri",
+    "titolo": "Calici sotto le stelle – Festa del vino",
+    "categoria": "sagra",
+    "inizio": "2026-11-28T18:00",
+    "fine": "2026-11-28T23:59",
+    "luogo": "Piazza dei Martiri",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Prima edizione della festa del vino promossa da ANAS Locri e Consulta Comunale Giovanile. Il programma prevede esibizioni musicali, danza, live band e dj set. Sono presenti aziende vinicole, stand gastronomici, mercatini e uno spazio bambini.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ANAS Locri, Consulta Comunale Giovanile",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98810515/calici-sotto-le-stelle-festa-del-vino-dalle-ore-18-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agora-della-locride-visita-guidata-al-museo-del-territorio-locri",
+    "titolo": "Agorà della Locride – Visita guidata al Museo del Territorio",
+    "categoria": "visita-guidata",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T23:59",
+    "luogo": "Museo del Territorio di Palazzo Nieddu del Rio",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata al Museo del Territorio nell'ambito di «Agorà della Locride», a cura dell'Accademia Senocrito. Il percorso esplora la narrazione del territorio, il museo e l'arte antica e contemporanea. La visita è aperta a tutti su prenotazione.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Senocrito",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98809888/agora-della-locride-visita-guidata-al-museo-del-territorio-su-prenotazione-inizio-ore-11-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "agora-della-locride-innovazione-locri",
+    "titolo": "Agorà della Locride – «Innovazione»",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T11:00",
+    "fine": "2026-11-29T23:59",
+    "luogo": "Palazzo Nieddu del Rio e Palazzo della Cultura",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Giornata conclusiva di «Agorà della Locride». Il programma include una visita guidata al mattino e, la sera, il «Concerto dei Bis» con il Maestro Gianluca Marcianò e il violinista Nikolay Madoyan, accompagnato da un'esperienza in realtà aumentata.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": "Accademia Senocrito",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98809805/agora-della-locride-innovazione-dalle-ore-11-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "calici-sotto-le-stelle-musica-popolare-e-tradizioni-calabresi-locri",
+    "titolo": "Calici sotto le stelle – Musica popolare e tradizioni calabresi",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T19:00",
+    "fine": "2026-11-29T23:59",
+    "luogo": "Piazza dei Martiri",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Seconda serata della festa del vino con musica popolare e tradizioni calabresi. In programma Biagio Conti, Gruppo Nòtos, Son'Abballu, Samuel Malvaso, Peppe Sapone e Sonu da Calabria. L'evento è una serata di beneficenza a sostegno dell'Associazione Angela Serra.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "ANAS Locri, Consulta Comunale Giovanile",
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98810514/calici-sotto-le-stelle-musica-popolare-e-tradizioni-calabresi-dalle-ore-19-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "concerto-di-beneficenza-concerto-dei-bis-locri",
+    "titolo": "Concerto di Beneficenza \"Concerto dei BIS\"",
+    "categoria": "concerto",
+    "inizio": "2026-11-29T20:00",
+    "fine": "2026-11-29T23:59",
+    "luogo": "Teatro Palazzo della Cultura",
+    "indirizzo": "Locri",
+    "cap": null,
+    "comune": "080043",
+    "frazione": null,
+    "lat": 38.23859,
+    "lon": 16.23924,
+    "coordinateApprossimate": true,
+    "descrizione": "Concerto di beneficenza diretto dal Maestro Gianluca Marcianò con il violino di Nikolay Madoyan. L'evento è parte delle attività di «Agorà della Locride» e prevede l'ingresso gratuito.",
+    "prezzo": {
+      "tipo": "gratuito"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Comune di Locri",
+        "tipo": "ufficiale",
+        "url": "https://locri.comune.digital/eventi/c/0/i/98809847/concerto-dei-bis-inizio-ore-20-00",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bob-e-singer-salviamo-il-natale-11-dicembre-2026-ore-16-00-trieste",
+    "titolo": "Bob e Singer: Salviamo il Natale 11 Dicembre 2026 ore 16:00",
+    "categoria": "teatro",
+    "inizio": "2026-12-11T16:00",
+    "fine": null,
+    "luogo": "Sala del Trono",
+    "indirizzo": "Castello di Miramare, Viale Miramare, 34151 Trieste",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale natalizio nella Sala del Trono del Castello di Miramare. Le cucine storiche del castello saranno visitabili gratuitamente nelle due ore precedenti la rappresentazione.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Hangar Teatri",
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/bob-e-singer-salviamo-il-natale",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bob-e-singer-salviamo-il-natale-12-e-13-dicembre-ore-11-00-trieste",
+    "titolo": "Bob e Singer: Salviamo il Natale 12 e 13 dicembre ore 11:00",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T11:00",
+    "fine": "2026-12-13T11:00",
+    "luogo": "Sala del Trono",
+    "indirizzo": "Castello di Miramare, Viale Miramare, 34151 Trieste",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale natalizio in due repliche. Le cucine storiche del castello saranno visitabili gratuitamente dalle 9:00 alle 11:00 in concomitanza con l'appuntamento mattutino.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Hangar Teatri",
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/bob-e-singer-salviamo-il-natale-2",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "bob-e-singer-salviamo-il-natale-12-e-13-dicembre-ore-16-00-trieste",
+    "titolo": "Bob e Singer: Salviamo il Natale 12 e 13 dicembre ore 16:00",
+    "categoria": "teatro",
+    "inizio": "2026-12-12T16:00",
+    "fine": "2026-12-13T16:00",
+    "luogo": "Sala del Trono",
+    "indirizzo": "Castello di Miramare, Viale Miramare, 34151 Trieste",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Spettacolo teatrale natalizio in due repliche pomeridiane. Le cucine storiche del castello saranno visitabili gratuitamente dalle 14:00 alle 16:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Hangar Teatri",
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/bob-e-singer-salviamo-il-natale-3",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "lumina-il-natale-incantato-di-massimiliano-e-carlotta-trieste",
+    "titolo": "Lùmina | Il Natale incantato di Massimiliano e Carlotta",
+    "categoria": "bambini",
+    "inizio": "2026-12-19T10:30",
+    "fine": null,
+    "luogo": "Castello di Miramare",
+    "indirizzo": "Viale Miramare, 34151 Trieste",
+    "cap": null,
+    "comune": "032006",
+    "frazione": null,
+    "lat": 45.66377,
+    "lon": 13.79869,
+    "coordinateApprossimate": true,
+    "descrizione": "Visita guidata dedicata ai segreti e alle tradizioni natalizie della coppia imperiale Massimiliano e Carlotta. Include un momento creativo nelle Serre del Castello per realizzare un decoro natalizio.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Castello di Miramare, eventi",
+        "tipo": "ufficiale",
+        "url": "https://miramare.cultura.gov.it/events/lumina-il-natale-incantato-di-massimiliano-e-carlotta",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "les-amis-charity-market-napoli",
+    "titolo": "Les Amis Charity Market",
+    "categoria": "mercatino",
+    "inizio": "2026-11-28T11:00",
+    "fine": "2026-11-29T19:00",
+    "luogo": "Palazzo Ischitella",
+    "indirizzo": "Riviera di Chiaia 270",
+    "cap": null,
+    "comune": "063049",
+    "frazione": null,
+    "lat": 40.85665,
+    "lon": 14.23963,
+    "coordinateApprossimate": true,
+    "descrizione": "Mercatino solidale di moda, accessori e idee regalo promosso dalla Fondazione Gabriella Fabbrocini ETS. Due giorni di shopping con benefici per il cuore, allestito negli spazi di Palazzo Ischitella a Napoli.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Fondazione Gabriella Fabbrocini ETS",
+    "fonti": [
+      {
+        "nome": "Il Roma",
+        "tipo": "stampa",
+        "url": "https://www.ilroma.net/evento/eventi/867044/les-amis-charity-market-torna-a-palazzo-ischitella.html",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "keith-haring-a-roma-roma",
+    "titolo": "Keith Haring a Roma",
+    "categoria": "mostra",
+    "inizio": "2026-10-06",
+    "fine": "2027-04-11",
+    "luogo": "Museo di Palazzo Braschi",
+    "indirizzo": "Roma",
+    "cap": null,
+    "comune": "058091",
+    "frazione": null,
+    "lat": 41.88539,
+    "lon": 12.46072,
+    "coordinateApprossimate": true,
+    "descrizione": "Mostra dedicata all'artista Keith Haring che espone oltre 140 opere provenienti dalla Nakamura Keith Haring Collection. Il percorso include disegni, dipinti, sculture e la moto Yamaha dipinta dall'artista nel 1984, raccontando la parabola creativa tra street art e icone pop.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": null,
+    "fonti": [
+      {
+        "nome": "Stampa Italiana",
+        "tipo": "stampa",
+        "url": "https://www.stampaitaliana.online/eventi/keith-haring-a-roma-mostra-palazzo-braschi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "festa-del-cioccolato-palmi",
+    "titolo": "Festa del Cioccolato",
+    "categoria": "sagra",
+    "inizio": "2026-12-05",
+    "fine": "2026-12-08",
+    "luogo": "Corso Garibaldi",
+    "indirizzo": "Palmi",
+    "cap": null,
+    "comune": "080057",
+    "frazione": null,
+    "lat": 38.37819,
+    "lon": 15.87301,
+    "coordinateApprossimate": true,
+    "descrizione": "La sesta edizione della Festa del Cioccolato trasforma il centro di Palmi in un villaggio della dolcezza. Per quattro giorni, maestri cioccolatieri e espositori artigianali propongono specialita', musica e attrazioni dedicate ai bambini, confermandosi un appuntamento di grande richiamo per la gia' vasta rete di eventi natalizi calabresi.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Andrea Cogliandro Eventi",
+    "fonti": [
+      {
+        "nome": "Il Reggino",
+        "tipo": "stampa",
+        "url": "https://www.ilreggino.it/eventi/palmi-la-festa-del-cioccolato-torna-ad-accendere-il-natale-b6drdfel",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "valley-food-3-0-san-roberto",
+    "titolo": "Valley Food 3.0",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-11-29T12:00",
+    "fine": "2026-11-29T24:00",
+    "luogo": "Parco delle Mimose",
+    "indirizzo": "San Roberto",
+    "cap": null,
+    "comune": "080077",
+    "frazione": null,
+    "lat": 38.20806,
+    "lon": 15.7762,
+    "coordinateApprossimate": true,
+    "descrizione": "La terza edizione dell'appuntamento autunnale San Roberto Valley Food 3.0 riunisce i sapori dell'Aspromonte con la musica. La giornata propone un'offerta gastronomica ricca e varia, accompagnata dal DJ set del gruppo Vespa Club e dal concerto 'Tarantella Disco Folk', valorizzando le eccellenze locali del borgo.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Comune di San Roberto",
+    "fonti": [
+      {
+        "nome": "Il Reggino",
+        "tipo": "stampa",
+        "url": "https://www.ilreggino.it/eventi/san-roberto-i-sapori-dellaspromonte-incontrano-la-musica-di-valley-food-30-oxoyz8i4",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
+  },
+  {
+    "slug": "l-esecuzione-sotto-lo-sguardo-di-tosca-modena",
+    "titolo": "L'esecuzione, sotto lo sguardo di Tosca",
+    "categoria": "concerto",
+    "inizio": "2026-11-28T20:00",
+    "fine": null,
+    "luogo": "Teatro Comunale",
+    "indirizzo": "Modena",
+    "cap": null,
+    "comune": "036023",
+    "frazione": null,
+    "lat": 44.64398,
+    "lon": 10.9152,
+    "coordinateApprossimate": true,
+    "descrizione": "Rappresentazione lirica nell'ambito della stagione del Teatro Comunale di Modena. Lo spettacolo è programmato per sabato 28 novembre 2026 con inizio alle ore 20:00.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "prenotazione": null,
+    "organizzatore": "Teatro Comunale di Modena",
+    "fonti": [
+      {
+        "nome": "L'Indicatore Mirandolese",
+        "tipo": "stampa",
+        "url": "https://indicatoreweb.it/category/eventi",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "stato": "pubblicato",
+    "inizioPrecedente": null,
+    "inserito": "2026-11-28",
+    "inseritoDa": "consegna"
   }
 ]
