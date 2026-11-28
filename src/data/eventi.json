@@ -414944,5 +414944,59 @@
     "inizioPrecedente": null,
     "inserito": "2026-11-28",
     "inseritoDa": "consegna"
+  },
+  {
+    "slug": "presepe-ligneo-e-albero-di-natale-trentini-basilica-di-san-francesco-assisi-2026-12-08",
+    "titolo": "Inaugurazione del presepe ligneo e dell'albero di Natale trentini",
+    "categoria": "festa-religiosa",
+    "inizio": "2026-12-08T18:15",
+    "luogo": "Piazza inferiore della Basilica di San Francesco",
+    "comune": "054001",
+    "lat": 43.0861,
+    "lon": 12.62518,
+    "coordinateApprossimate": true,
+    "descrizione": "I volontari di Spera (Castel Ivano) inaugurano il presepe ligneo di circa nove metri quadrati, con capanna in abete rosso e personaggi in cirmolo, e accendono l'albero, un abete bianco di quattordici metri donato dal Tesino, per l'ottavo centenario della morte di San Francesco. Alla cerimonia è presente il sindaco di Castel Ivano.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "Comune di Castel Ivano",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "Comune di Castel Ivano su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/reel/DgP3gTOOrSV/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
+  },
+  {
+    "slug": "re-lear-e-il-suo-buffone-benvenuti-abbiati-teatro-francigena-capranica-2026-11-28",
+    "titolo": "«Re Lear e il suo buffone» con Alessandro Benvenuti e Roberto Abbiati",
+    "categoria": "teatro",
+    "inizio": "2026-11-28T21:00",
+    "luogo": "Teatro Francigena",
+    "comune": "056014",
+    "lat": 42.26056,
+    "lon": 12.15493,
+    "coordinateApprossimate": true,
+    "descrizione": "Rielaborazione a quattro mani del capolavoro di Shakespeare: un vecchio attore in vestaglia ricorda la corte, le tre figlie e il regno perduto, accanto al suo buffone, tra banjo, spirituals e ironia.",
+    "prezzo": {
+      "tipo": "non-indicato"
+    },
+    "organizzatore": "ATCL Lazio",
+    "stato": "pubblicato",
+    "fonti": [
+      {
+        "nome": "ATCL Lazio su Instagram",
+        "tipo": "ufficiale",
+        "url": "https://www.instagram.com/p/DgPgA5WoJKb/",
+        "consultata": "2026-11-28"
+      }
+    ],
+    "inserito": "2026-11-28",
+    "inseritoDa": "ia"
   }
 ]
